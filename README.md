@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group, LLP (SIG)](sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2025](https://jobright.ai/jobs/info/66cc67c9f5e78df4294dc37f?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | Hybrid | Aug 26 |
+| **[Princeton University](http://www.princeton.edu)** | **[Casual Hourly - Temporary](https://jobright.ai/jobs/info/66cc5532db4b4bb573b02e37?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Aug 26 |
+| **[Secretariat International](http://secretariat-intl.com/)** | **[Intern, Analytics & Data Strategy](https://jobright.ai/jobs/info/66cc809f7bde90d6ff001ef1?utm_campaign=1066&utm_source=git)** | New York, NY - Park Avenue | Hybrid | Aug 25 |
+| ↳ | **[Intern, Analytics & Data Strategy](https://jobright.ai/jobs/info/66cc809f7bde90d6ff001ef9?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Aug 25 |
+| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Applications Development Analyst- New York, Summer 2025](https://jobright.ai/jobs/info/66cc747b243121bba9ac1e11?utm_campaign=1066&utm_source=git)** | New York - 1166 | Hybrid | Aug 25 |
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Data Science (Fall 2024)](https://jobright.ai/jobs/info/66cb2756285cb32c3f0b48de?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 25 |
 | **[CertiK](https://www.certik.com/)** | **[Crypto Analyst Intern](https://jobright.ai/jobs/info/6675f33f2617111d53a44359?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/6676280374a49bf8010a1ec9?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 25 |
@@ -83,23 +88,23 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc21?utm_campaign=1066&utm_source=git)** | Hawaii, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc25?utm_campaign=1066&utm_source=git)** | Montana, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc26?utm_campaign=1066&utm_source=git)** | Connecticut, United States | On Site | Aug 23 |
-| ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc27?utm_campaign=1066&utm_source=git)** | Wyoming, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc29?utm_campaign=1066&utm_source=git)** | Illinois, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc28?utm_campaign=1066&utm_source=git)** | Wisconsin, United States | On Site | Aug 23 |
+| ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc27?utm_campaign=1066&utm_source=git)** | Wyoming, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc2c?utm_campaign=1066&utm_source=git)** | South Carolina, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc35?utm_campaign=1066&utm_source=git)** | Georgia, United States | On Site | Aug 23 |
-| ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc44?utm_campaign=1066&utm_source=git)** | Mississippi, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc46?utm_campaign=1066&utm_source=git)** | California, United States | On Site | Aug 23 |
+| ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc44?utm_campaign=1066&utm_source=git)** | Mississippi, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc47?utm_campaign=1066&utm_source=git)** | Nevada, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc5d?utm_campaign=1066&utm_source=git)** | Texas, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc65?utm_campaign=1066&utm_source=git)** | North Dakota, United States | On Site | Aug 23 |
-| ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc6c?utm_campaign=1066&utm_source=git)** | Kansas, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc6d?utm_campaign=1066&utm_source=git)** | Idaho, United States | On Site | Aug 23 |
+| ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc6c?utm_campaign=1066&utm_source=git)** | Kansas, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc73?utm_campaign=1066&utm_source=git)** | Oklahoma, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc8e?utm_campaign=1066&utm_source=git)** | New Jersey, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc91?utm_campaign=1066&utm_source=git)** | Nebraska, United States | On Site | Aug 23 |
-| ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc9e?utm_campaign=1066&utm_source=git)** | Kentucky, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc9f?utm_campaign=1066&utm_source=git)** | Missouri, United States | On Site | Aug 23 |
+| ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc9e?utm_campaign=1066&utm_source=git)** | Kentucky, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cca9?utm_campaign=1066&utm_source=git)** | Maine, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cca7?utm_campaign=1066&utm_source=git)** | Utah, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4ccb0?utm_campaign=1066&utm_source=git)** | Florida, United States | On Site | Aug 23 |
@@ -150,8 +155,8 @@ For a complete list, click the following sortable link below:
 | **[Perry Homes - A Trusted Texas Builder In Its 50th Year](http://perryhomes.com)** | **[2025 Summer Internship - Business Intelligence Analyst](https://jobright.ai/jobs/info/66c916508792f94bc2e62c08?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 22 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Post Doctoral Research Scholar](https://jobright.ai/jobs/info/66c932ec324ae79102b1339f?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Aug 22 |
 | **[TE Connectivity](http://www.te.com)** | **[Data Analyst (Intern)](https://jobright.ai/jobs/info/66c7e40aa85cac08ac3c0b9d?utm_campaign=1066&utm_source=git)** | Middletown, PA | On Site | Aug 22 |
-| **[Walmart](http://www.walmart.com)** | **[2024 Intern Conversion - 2025 FT: Senior Analyst, Merchandising Development Program](https://jobright.ai/jobs/info/66cb2efadb80f2daf2edab0c?utm_campaign=1066&utm_source=git)** | Bentonville, AR | On Site | Aug 22 |
-| ↳ | **[2024 Intern Conversion - 2025 FT: Jr. Business Intelligence, Data Analyst II](https://jobright.ai/jobs/info/66c935dab467c48f531df032?utm_campaign=1066&utm_source=git)** | Bentonville, AR | On Site | Aug 22 |
+| **[Walmart](http://www.walmart.com)** | **[2024 Intern Conversion - 2025 FT: Jr. Business Intelligence, Data Analyst II](https://jobright.ai/jobs/info/66c935dab467c48f531df032?utm_campaign=1066&utm_source=git)** | Bentonville, AR | On Site | Aug 22 |
+| ↳ | **[2024 Intern Conversion - 2025 FT: Senior Analyst, Merchandising Development Program](https://jobright.ai/jobs/info/66cb2efadb80f2daf2edab0c?utm_campaign=1066&utm_source=git)** | Bentonville, AR | On Site | Aug 22 |
 | **[Co-Alliance](https://www.co-alliance.com/)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/66c8d976f88e10b2e135f8eb?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Aug 22 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Data & Analytics Internship (Summer 2025)](https://jobright.ai/jobs/info/66c8d4d49f316868879f7c46?utm_campaign=1066&utm_source=git)** | OH-Dublin-Cardinal Place | On Site | Aug 22 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Data Analyst, Supply Chain (Winter/Spring 2025)](https://jobright.ai/jobs/info/66c7dd223c58266fd2531488?utm_campaign=1066&utm_source=git)** | Fremont, CA | On Site | Aug 22 |
@@ -231,6 +236,10 @@ For a complete list, click the following sortable link below:
 | **[Rystad Energy](https://www.rystadenergy.com)** | **[Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/66c4ec56c779ae43531f33ed?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 20 |
 | **[OneMain Financial](http://www.onemainfinancial.com)** | **[Associate Analyst Intern](https://jobright.ai/jobs/info/66c4b9e2952f070f3c810e45?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Aug 20 |
 | **[Stealth PropTech](https://www.linkedin.com/company/85795440)** | **[Data analyst / Web scraping Internship Opportunity at PropTech Startup](https://jobright.ai/jobs/info/66c4b1b84165e6345edcc924?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 20 |
+| **[Builders FirstSource](http://www.bldr.com)** | **[2025 Data Management & Stewardship Summer Internship](https://jobright.ai/jobs/info/66cc8099c007f34166361c43?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Aug 20 |
+| ↳ | **[2025 Data Management & Stewardship Summer Internship](https://jobright.ai/jobs/info/66cc8099c007f34166361c44?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Aug 20 |
+| ↳ | **[2025 BI Developer & Data Analytics Summer Internship](https://jobright.ai/jobs/info/66cc7937630eb828427a1fb1?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 20 |
+| ↳ | **[2025 Data Management & Stewardship Summer Internship](https://jobright.ai/jobs/info/66cc7797a9784270d7b475a5?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Aug 20 |
 | **[Barr Engineering Co.](http://www.barr.com)** | **[Internship – Environmental Management Data Science (Hybrid)](https://jobright.ai/jobs/info/66c9cc28393043f9c0720a0d?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Aug 20 |
 | **[Curiosity](https://www.curiosity.fun)** | **[Analytics Intern](https://jobright.ai/jobs/info/66c48ad75ebf110b1c5085b8?utm_campaign=1066&utm_source=git)** | Ohio, United States | On Site | Aug 20 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2025 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/66ad7be4433fbe967c84a32d?utm_campaign=1066&utm_source=git)** | West Des Moines, IA | On Site | Aug 20 |
@@ -253,12 +262,10 @@ For a complete list, click the following sortable link below:
 | **[The Boston Foundation](http://www.tbf.org)** | **[Data Engagement Intern, Asian Community Fund](https://jobright.ai/jobs/info/66c5288e9f4da919a6e2d80b?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Aug 19 |
 | **[Walmart](http://www.walmart.com)** | **[2024 Intern Conversion - 2025 FT: Data Scientist III](https://jobright.ai/jobs/info/66c540a617e670de8122cb01?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Aug 19 |
 | ↳ | **[2024 Intern Conversion - 2025 FT: Senior, Data Scientist](https://jobright.ai/jobs/info/66c540a617e670de8122cb1f?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Aug 19 |
-| **[Five Rings](https://fiverings.com)** | **[Summer Intern 2025 - Quantitative Researcher](https://jobright.ai/jobs/info/66c450a356ac3ee25701939a?utm_campaign=1066&utm_source=git)** | New York | On Site | Aug 19 |
-| ↳ | **[Summer Intern 2025 - Quantitative Research Analyst](https://jobright.ai/jobs/info/66c450a356ac3ee257019393?utm_campaign=1066&utm_source=git)** | New York | On Site | Aug 19 |
+| **[Five Rings](https://fiverings.com)** | **[Summer Intern 2025 - Quantitative Research Analyst](https://jobright.ai/jobs/info/66c450a356ac3ee257019393?utm_campaign=1066&utm_source=git)** | New York | On Site | Aug 19 |
+| ↳ | **[Summer Intern 2025 - Quantitative Researcher](https://jobright.ai/jobs/info/66c450a356ac3ee25701939a?utm_campaign=1066&utm_source=git)** | New York | On Site | Aug 19 |
 | ↳ | **[Winter Intern 2025 - Quantitative Research Analyst](https://jobright.ai/jobs/info/66c450a356ac3ee257019397?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Aug 19 |
 | **[Spencer Museum of Art](http://www.spencerart.ku.edu/)** | **[KUBantu Research Assistant](https://jobright.ai/jobs/info/66c3dc6b793e5042d6506fc0?utm_campaign=1066&utm_source=git)** | Lawrence, KS | On Site | Aug 19 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Development Internship – Summer 2025](https://jobright.ai/jobs/info/66c3cb756b0e05ae19be6b91?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 19 |
 | **[Figma](http://figma.com)** | **[Data Scientist - Intern (2025)](https://jobright.ai/jobs/info/66c3cf30ceceb596817c30ac?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Aug 19 |
-| ↳ | **[Data Scientist - Intern (2025)](https://jobright.ai/jobs/info/66c3b64a4c4ce934bef2c173?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 19 |
-| ↳ | **[Data Scientist - Intern (2025)](https://jobright.ai/jobs/info/66c3b9c45f5369949dc0c91e?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
