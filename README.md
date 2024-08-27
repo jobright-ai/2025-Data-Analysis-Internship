@@ -92,8 +92,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc28?utm_campaign=1066&utm_source=git)** | Wisconsin, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc2c?utm_campaign=1066&utm_source=git)** | South Carolina, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc35?utm_campaign=1066&utm_source=git)** | Georgia, United States | On Site | Aug 23 |
-| ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc46?utm_campaign=1066&utm_source=git)** | California, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc44?utm_campaign=1066&utm_source=git)** | Mississippi, United States | On Site | Aug 23 |
+| ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc46?utm_campaign=1066&utm_source=git)** | California, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc47?utm_campaign=1066&utm_source=git)** | Nevada, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc5d?utm_campaign=1066&utm_source=git)** | Texas, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc65?utm_campaign=1066&utm_source=git)** | North Dakota, United States | On Site | Aug 23 |
@@ -112,9 +112,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4ccc6?utm_campaign=1066&utm_source=git)** | Arkansas, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cccb?utm_campaign=1066&utm_source=git)** | Iowa, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cccc?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Aug 23 |
-| ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4ccd7?utm_campaign=1066&utm_source=git)** | Ohio, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4ccd9?utm_campaign=1066&utm_source=git)** | Pennsylvania, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4ccd6?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Aug 23 |
+| ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4ccd7?utm_campaign=1066&utm_source=git)** | Ohio, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cce4?utm_campaign=1066&utm_source=git)** | Colorado, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cce8?utm_campaign=1066&utm_source=git)** | Maryland, United States | On Site | Aug 23 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4ccec?utm_campaign=1066&utm_source=git)** | Minnesota, United States | On Site | Aug 23 |
@@ -245,8 +245,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/66a863cd06ff2e21816c4f27?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Aug 20 |
 | ↳ | **[2025 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/66aae83c69e43b71be7344d4?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | Aug 20 |
 | **[Tower Research Capital, LLC.](http://www.tower-research.com/)** | **[Quantitative Trader Intern (Summer 2025)](https://jobright.ai/jobs/info/668c868dbe2c6384db57e17f?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 20 |
-| **[Freddie Mac](http://www.freddiemac.com)** | **[Single Family Data Intern - Summer 2025 (Hybrid- 3 Days in Office)](https://jobright.ai/jobs/info/66c3b1d7436bc6cf77b42ace?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Aug 20 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (Global E-Commerce-Data Science-AMS Data Science) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/66c43a863be2b02f43668f8c?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
-| **[Aptima, Inc.](http://aptima.com)** | **[Intern, Scientist](https://jobright.ai/jobs/info/66c45000010b73d9b3152c7f?utm_campaign=1066&utm_source=git)** | Woburn, MA | On Site | Aug 19 |
-| **[E & J Gallo Winery](http://www.ejgallo.com)** | **[IT Data Analyst Internship 2025](https://jobright.ai/jobs/info/66c4201621411e3b8fdb20a7?utm_campaign=1066&utm_source=git)** | Modesto, CA | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
