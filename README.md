@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[84.51˚](http://8451.com/)** | **[Data Scientist - Internship Program 2025](https://jobright.ai/jobs/info/66d3f2b3cbd800b9be8aba0b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH; Chicago, IL | On Site | Aug 31 |
 | **[Chapman University](https://www.chapman.edu/)** | **[Student Research Assistant (Dr. Fisher)](https://jobright.ai/jobs/info/66d39792476735c0ad5b97c0?utm_campaign=1066&utm_source=git)** | Orange, CA | On Site | Aug 31 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Research Assistant](https://jobright.ai/jobs/info/66d37889bb7042ee36acec8d?utm_campaign=1066&utm_source=git)** | Huntsville, TX | On Site | Aug 31 |
 | **[Chapman University](https://www.chapman.edu/)** | **[Student Research Assistant CCI](https://jobright.ai/jobs/info/66d3757cb2e32f2c22402513?utm_campaign=1066&utm_source=git)** | Orange, CA | On Site | Aug 31 |
@@ -107,8 +108,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Remote Technical Assistant (Paid College Internship)](https://jobright.ai/jobs/info/66d2106cae40871606aa99b6?utm_campaign=1066&utm_source=git)** | Jefferson, OH | Hybrid | Aug 30 |
 | ↳ | **[Remote Technical Assistant (Paid College Internship)](https://jobright.ai/jobs/info/66d2106cae40871606aa99b7?utm_campaign=1066&utm_source=git)** | Fairfax, VA | Hybrid | Aug 30 |
 | ↳ | **[Remote Technical Assistant (Paid College Internship)](https://jobright.ai/jobs/info/66d2106cae40871606aa99b8?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Aug 30 |
-| ↳ | **[Remote Technical Assistant (Paid College Internship)](https://jobright.ai/jobs/info/66d2106cae40871606aa99b9?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Aug 30 |
 | ↳ | **[Remote Technical Assistant (Paid College Internship)](https://jobright.ai/jobs/info/66d2106cae40871606aa99ba?utm_campaign=1066&utm_source=git)** | Lansdowne, PA | Hybrid | Aug 30 |
+| ↳ | **[Remote Technical Assistant (Paid College Internship)](https://jobright.ai/jobs/info/66d2106cae40871606aa99b9?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Aug 30 |
 | ↳ | **[Remote Technical Assistant (Paid College Internship)](https://jobright.ai/jobs/info/66d2106cae40871606aa99bb?utm_campaign=1066&utm_source=git)** | St Louis, MO | Hybrid | Aug 30 |
 | **[Cisco](http://www.cisco.com)** | **[Data Scientist (Intern) United States](https://jobright.ai/jobs/info/66d1f0a105a4899c5e1d5b09?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 30 |
 | ↳ | **[Data Scientist (Intern) United States](https://jobright.ai/jobs/info/66d1f8e2de54287cb60f2d44?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Aug 30 |
@@ -240,8 +241,8 @@ For a complete list, click the following sortable link below:
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2025 - Business Intelligence](https://jobright.ai/jobs/info/66cd133b26311e4d6319c70c?utm_campaign=1066&utm_source=git)** | Idaho Falls, ID | On Site | Aug 26 |
 | **[Equifax](http://www.equifax.com)** | **[Global Data & Analytics Intern](https://jobright.ai/jobs/info/66cce5ea3b3df4ad5d3e8d4a?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Aug 26 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Truck Care Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/66ccd01381f4b4e059be38d5?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Aug 26 |
-| **[American Fidelity](http://www.americanfidelity.com)** | **[Data Internship](https://jobright.ai/jobs/info/66ccbbf9c638b133406366a4?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Aug 26 |
-| ↳ | **[Data Analytics & Reporting Internship](https://jobright.ai/jobs/info/66ccbbf9c638b133406366b3?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Aug 26 |
+| **[American Fidelity](http://www.americanfidelity.com)** | **[Data Analytics & Reporting Internship](https://jobright.ai/jobs/info/66ccbbf9c638b133406366b3?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Aug 26 |
+| ↳ | **[Data Internship](https://jobright.ai/jobs/info/66ccbbf9c638b133406366b6?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Aug 26 |
 | **[People Tech](https://peopletech.com)** | **[Data Intern](https://jobright.ai/jobs/info/66ccb9a990af40c2fffd5962?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Aug 26 |
 | **[University of Colorado Boulder](https://www.colorado.edu)** | **[Postdoctoral Research Associate](https://jobright.ai/jobs/info/66c7c30666edc81a6ab27024?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Aug 26 |
 | **[Albemarle](http://albemarle.com)** | **[Ketjen 2024 Fall Data Science Co-Op Program](https://jobright.ai/jobs/info/66c52c1b3e6fef79a794844b?utm_campaign=1066&utm_source=git)** | Pasadena, TX | On Site | Aug 26 |
@@ -250,7 +251,7 @@ For a complete list, click the following sortable link below:
 | **[The Voleon Group](http://voleon.com/)** | **[Trading Intern (Summer 2025)](https://jobright.ai/jobs/info/66ce1d79d642b3886bed29e5?utm_campaign=1066&utm_source=git)** | Berkeley | Hybrid | Aug 25 |
 | **[Secretariat International](http://secretariat-intl.com/)** | **[Intern, Analytics & Data Strategy](https://jobright.ai/jobs/info/66cc809f7bde90d6ff001ef1?utm_campaign=1066&utm_source=git)** | New York, NY - Park Avenue | Hybrid | Aug 25 |
 | ↳ | **[Intern, Analytics & Data Strategy](https://jobright.ai/jobs/info/66cc809f7bde90d6ff001ef9?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Aug 25 |
-| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Applications Development Analyst- New York, Summer 2025](https://jobright.ai/jobs/info/66cc747b243121bba9ac1e12?utm_campaign=1066&utm_source=git)** | New York - 1166 | Hybrid | Aug 25 |
+| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Applications Development Analyst- New York, Summer 2025](https://jobright.ai/jobs/info/66cc747b243121bba9ac1e0f?utm_campaign=1066&utm_source=git)** | New York - 1166 | Hybrid | Aug 25 |
 | **[Hitachi](http://www.hitachi.com)** | **[2025 Summer Data Analyst/Information Systems Intern](https://jobright.ai/jobs/info/66cd29402e525c0c1af7007e?utm_campaign=1066&utm_source=git)** | Remote - North Carolina, United States | On Site | Aug 25 |
 | **[Equifax](http://www.equifax.com)** | **[Global Data & Analytics Intern](https://jobright.ai/jobs/info/66cccc439a6aa96b3b6c89a7?utm_campaign=1066&utm_source=git)** | USA - Atlanta - One Atlantic Center | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
