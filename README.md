@@ -57,22 +57,41 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Associate Data Scientist Intern](https://jobright.ai/jobs/info/66e57129297f1419c7aba782?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 14 |
+| **[Microsoft](https://www.microsoft.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4ccec?utm_campaign=1066&utm_source=git)** | Minnesota, United States | On Site | Sep 14 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/66cf457d5f39b7c08b0180af?utm_campaign=1066&utm_source=git)** | Louisiana, United States | On Site | Sep 14 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc73?utm_campaign=1066&utm_source=git)** | Oklahoma, United States | On Site | Sep 14 |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Market Intelligence Analyst - Undergraduate Intern](https://jobright.ai/jobs/info/66e57685cda6f3994845fe30?utm_campaign=1066&utm_source=git)** | Pennsylvania, United States | On Site | Sep 14 |
+| **[Microsoft](https://www.microsoft.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/66cf1ccc540f3fa32f2bc2f7?utm_campaign=1066&utm_source=git)** | Florida, United States | On Site | Sep 14 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/66cf367292536bb86a8190d9?utm_campaign=1066&utm_source=git)** | Texas, United States | On Site | Sep 14 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/66e58c3ab13ad39ccfd36967?utm_campaign=1066&utm_source=git)** | California, United States | On Site | Sep 14 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/66cf457d5f39b7c08b0180b0?utm_campaign=1066&utm_source=git)** | Alabama, United States | On Site | Sep 14 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/66cf367292536bb86a8190cb?utm_campaign=1066&utm_source=git)** | Pennsylvania, United States | On Site | Sep 14 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4ccfb?utm_campaign=1066&utm_source=git)** | South Dakota, United States | On Site | Sep 14 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc9f?utm_campaign=1066&utm_source=git)** | Missouri, United States | On Site | Sep 14 |
+| **[Keystone Cooperative](https://www.keystonecoop.com/)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/66c90abc6e1c7bfab0f37601?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Sep 14 |
+| **[Microsoft](https://www.microsoft.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc6d?utm_campaign=1066&utm_source=git)** | Idaho, United States | Remote | Sep 14 |
+| **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[Data Scientist Advanced Development Program Internship](https://jobright.ai/jobs/info/66c911bc8a4957f96fa860ea?utm_campaign=1066&utm_source=git)** | Malvern, PA | Hybrid | Sep 14 |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Data & Analytics Internship (Summer 2025)](https://jobright.ai/jobs/info/66c9271ea25981b9c4b90225?utm_campaign=1066&utm_source=git)** | Dublin, OH | On Site | Sep 14 |
+| **[Ankura](https://ankura.com)** | **[University Intern, Analytics & Data Strategy](https://jobright.ai/jobs/info/66c91cc3c6460b11db88e7ea?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Sep 14 |
+| **[Elanco](https://www.elanco.com)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/66ac4894a39202669ac47f21?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 14 |
 | **[TriVersity Construction](https://www.trivc.com)** | **[Business Intelligence Co-op - Spring 2025](https://jobright.ai/jobs/info/66e5496297f9284ddb41f796?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Sep 14 |
 | **[LCRA](https://www.lcra.org/)** | **[Data Visualization Analyst Intern](https://jobright.ai/jobs/info/66e5432789ca410f3100a6e7?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Sep 13 |
 | **[CONNECTMETA.AI](www.connectmeta.ai)** | **[Data Analytics Training & Internship](https://jobright.ai/jobs/info/66e537019e3189e4868dcce2?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Sep 13 |
 | **[Tulane University School of Medicine](https://medicine.tulane.edu)** | **[Postdoctoral Fellow, Computer Science](https://jobright.ai/jobs/info/66e5432789ca410f3100a69f?utm_campaign=1066&utm_source=git)** | New Orleans, LA | On Site | Sep 13 |
+| **[Peerlogic](https://www.peerlogic.com)** | **[Data Analyst Internship - Data Science & Gen-AI Team](https://jobright.ai/jobs/info/66a8696a20f57ab99c8beebe?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Sep 13 |
 | **[Ecolab](http://www.ecolab.com)** | **[Data Science Graduate Intern](https://jobright.ai/jobs/info/66e528b8007435b664359c11?utm_campaign=1066&utm_source=git)** | Naperville, IL | On Site | Sep 13 |
 | **[Utah Retirement Systems](https://www.urs.org)** | **[Biometric Health Screener Intern](https://jobright.ai/jobs/info/66e532b8f683c3ac0be47f72?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 13 |
 | **[Pearson](https://www.pearson.com/)** | **[Data Management Analyst](https://jobright.ai/jobs/info/66e529b126e17054f0f51008?utm_campaign=1066&utm_source=git)** | Durham, NC | Hybrid | Sep 13 |
 | **[Schonfeld Strategic Advisors](http://www.schonfeld.com/)** | **[Quant Research Summer Intern](https://jobright.ai/jobs/info/66e52b99ea8d04a526a0fd67?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Sep 13 |
-| **[American AgCredit](http://www.agloan.com/)** | **[Intern-Culture and Inclusion Data Analyst](https://jobright.ai/jobs/info/66e52ff020743921dbbda9d9?utm_campaign=1066&utm_source=git)** | United States | On Site | Sep 13 |
-| ↳ | **[Intern-Data Science](https://jobright.ai/jobs/info/66e52ff020743921dbbda9b6?utm_campaign=1066&utm_source=git)** | United States | On Site | Sep 13 |
+| **[American AgCredit](http://www.agloan.com/)** | **[Intern-Data Science](https://jobright.ai/jobs/info/66e52ff020743921dbbda9b6?utm_campaign=1066&utm_source=git)** | United States | On Site | Sep 13 |
+| ↳ | **[Intern-Culture and Inclusion Data Analyst](https://jobright.ai/jobs/info/66e52ff020743921dbbda9d9?utm_campaign=1066&utm_source=git)** | United States | On Site | Sep 13 |
 | **[Uello](https://www.uello.com.br)** | **[Estágio em BI](https://jobright.ai/jobs/info/66e52ff020743921dbbda9d8?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 13 |
 | **[One](https://www.oneinc.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/66e4e87d5e297029f5190b83?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 13 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern – Clinical Data Sciences - Biostatistics, Oncology](https://jobright.ai/jobs/info/66e4dcdace25803eb769808a?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Sep 13 |
 | ↳ | **[Intern – Clinical Data Science, Advanced Analytics](https://jobright.ai/jobs/info/66e4dcdace25803eb769807b?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Sep 13 |
 | **[Panasonic Energy of North America](https://www.panasonicnv.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/66e4e2985a4f2907f8bc2ee2?utm_campaign=1066&utm_source=git)** | De Soto, KS | On Site | Sep 13 |
-| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/66e4d858b40004178cd09835?utm_campaign=1066&utm_source=git)** | De Soto, KS | On Site | Sep 13 |
+| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/66e4d858b40004178cd09856?utm_campaign=1066&utm_source=git)** | De Soto, KS | On Site | Sep 13 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Data Scientist Intern - Digital Technology](https://jobright.ai/jobs/info/66e4d858b40004178cd09805?utm_campaign=1066&utm_source=git)** | Hagerstown, MD | Hybrid | Sep 13 |
 | **[United Concordia Dental Insurance](https://unitedconcordia.com)** | **[Market Intelligence Analyst - Undergraduate Intern](https://jobright.ai/jobs/info/66e4d858b40004178cd09804?utm_campaign=1066&utm_source=git)** | Pennsylvania, United States | On Site | Sep 13 |
 | **[TriVersity Construction](https://www.trivc.com)** | **[Business Intelligence Co-op - Spring 2025](https://jobright.ai/jobs/info/66e4e0a54a3ab1d92eb7cd05?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Sep 13 |
@@ -100,8 +119,11 @@ For a complete list, click the following sortable link below:
 | **[Hy-Vee](https://www.hy-vee.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/66e477a484f6dd4cba6dc7fa?utm_campaign=1066&utm_source=git)** | Grimes, IA | On Site | Sep 13 |
 | **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2025 Summer Internship – Data Science](https://jobright.ai/jobs/info/66e45bbf3a79dca51e2b5a5c?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Sep 13 |
 | **[CONNECTMETA.AI](www.connectmeta.ai)** | **[Business Analyst Intern](https://jobright.ai/jobs/info/66e43f5d59b40890b5876fd0?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Sep 13 |
+| **[City of Seattle](http://www.seattle.gov/)** | **[SDOT Asset Management Data Maintenance/Analyst Intern](https://jobright.ai/jobs/info/66e58c3ab13ad39ccfd3697f?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Sep 13 |
+| **[Notion](https://www.notion.so)** | **[Data Science Intern](https://jobright.ai/jobs/info/66e35a29d80a61731035e6b2?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Sep 13 |
 | **[Santander Bank](https://www.santanderbank.com)** | **[Technology and Data Analytics Intern](https://jobright.ai/jobs/info/66e43f5d59b40890b5876f6d?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 13 |
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/66e42dde37fd060fec37e2cb?utm_campaign=1066&utm_source=git)** | Frederick, MD | On Site | Sep 13 |
+| **[TruStage](https://www.trustage.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/66e4bbf64cec31bf2e99c072?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Sep 13 |
 | **[Kapital Bank Life](https://hr.kapitalbank.az/)** | **[Data Transformation Analyst - intern](https://jobright.ai/jobs/info/66e424bce598c86d63dddf5a?utm_campaign=1066&utm_source=git)** | Caspian, MI | On Site | Sep 13 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Co-Op](https://jobright.ai/jobs/info/66e421130b022f86fb171000?utm_campaign=1066&utm_source=git)** | Tucson, AZ | On Site | Sep 13 |
 | **[Pearson](https://www.pearson.com/)** | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e421130b022f86fb17103c?utm_campaign=1066&utm_source=git)** | Nashville, TN | On Site | Sep 13 |
@@ -122,39 +144,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c71f5?utm_campaign=1066&utm_source=git)** | Concord, NH | On Site | Sep 12 |
 | ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c71f4?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Sep 12 |
 | ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c71f6?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c71f8?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Sep 12 |
 | ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c71f7?utm_campaign=1066&utm_source=git)** | Lansing, MI | On Site | Sep 12 |
 | ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c71fa?utm_campaign=1066&utm_source=git)** | Bismarck, ND | On Site | Sep 12 |
 | ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c71f9?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c71fc?utm_campaign=1066&utm_source=git)** | Topeka, KS | On Site | Sep 12 |
+| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c71f8?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Sep 12 |
 | ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c71fd?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c7204?utm_campaign=1066&utm_source=git)** | Montpelier, VT | On Site | Sep 12 |
+| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c71fc?utm_campaign=1066&utm_source=git)** | Topeka, KS | On Site | Sep 12 |
+| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c7202?utm_campaign=1066&utm_source=git)** | Springfield, IL | On Site | Sep 12 |
 | ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c7205?utm_campaign=1066&utm_source=git)** | Jackson, MS | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c7203?utm_campaign=1066&utm_source=git)** | Montgomery, AL | On Site | Sep 12 |
 | ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c7200?utm_campaign=1066&utm_source=git)** | Harrisburg, PA | On Site | Sep 12 |
 | ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c7201?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Sep 12 |
 | ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c71fe?utm_campaign=1066&utm_source=git)** | Hartford, CT | On Site | Sep 12 |
+| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c7204?utm_campaign=1066&utm_source=git)** | Montpelier, VT | On Site | Sep 12 |
 | ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c71ff?utm_campaign=1066&utm_source=git)** | Annapolis, MD | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c7202?utm_campaign=1066&utm_source=git)** | Springfield, IL | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c7206?utm_campaign=1066&utm_source=git)** | Helena, MT | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c71c9?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c7207?utm_campaign=1066&utm_source=git)** | St Paul, MN | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c720d?utm_campaign=1066&utm_source=git)** | Providence, RI | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c720f?utm_campaign=1066&utm_source=git)** | Trenton, NJ | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c720a?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c7212?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c720e?utm_campaign=1066&utm_source=git)** | Santa Fe, NM | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c720b?utm_campaign=1066&utm_source=git)** | Dover, DE | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c720c?utm_campaign=1066&utm_source=git)** | Honolulu, HI | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c7210?utm_campaign=1066&utm_source=git)** | Columbia, SC | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c7211?utm_campaign=1066&utm_source=git)** | Pierre, SD | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c7208?utm_campaign=1066&utm_source=git)** | Little Rock, AR | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c7209?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c721e?utm_campaign=1066&utm_source=git)** | Jefferson City, MO | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c7214?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c7215?utm_campaign=1066&utm_source=git)** | Cheyenne, WY | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c721f?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c7219?utm_campaign=1066&utm_source=git)** | Juneau, AK | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c7217?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Sep 12 |
-| ↳ | **[Associate Research and Psychometric Services Analyst - Intern](https://jobright.ai/jobs/info/66e3c73e11d9a1ee491c721d?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
