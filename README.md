@@ -57,10 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2025](https://jobright.ai/jobs/info/66e98524c651e8892732b6b6?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Sep 17 |
+| **[CONNECTMETA.AI](www.connectmeta.ai)** | **[Data Science Intern](https://jobright.ai/jobs/info/66e97c77d387192dca41e419?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Sep 17 |
+| ↳ | **[Data Analytics Training & Internship](https://jobright.ai/jobs/info/66e97c77d387192dca41e41a?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Sep 17 |
+| **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Data Analyst Co-Op](https://jobright.ai/jobs/info/66e98231b6b07ea04677248b?utm_campaign=1066&utm_source=git)** | Canton, OH | On Site | Sep 17 |
+| **[New York Genome Center](http://www.nygenome.org)** | **[Postdoctoral Research Associate in Statistical and Functional Genomics](https://jobright.ai/jobs/info/66e975582ecd0a6343be3787?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Sep 17 |
+| ↳ | **[Postdoctoral Research Associate](https://jobright.ai/jobs/info/66e97179129bd23d45c65464?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 17 |
+| **[University System of New Hampshire](https://www.usnh.edu)** | **[Behavioral and Social Sciences](https://jobright.ai/jobs/info/66779747417c3aa48b86ea25?utm_campaign=1066&utm_source=git)** | Concord, NH | On Site | Sep 17 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/66d9d25a5f6a75c2d8a2c2a6?utm_campaign=1066&utm_source=git)** | Westerville, OH | On Site | Sep 17 |
+| ↳ | **[Business Intelligence Developer/Analyst Internship](https://jobright.ai/jobs/info/66d9afe1f1f595f5170d6064?utm_campaign=1066&utm_source=git)** | Westerville, OH | On Site | Sep 17 |
+| **[Equifax](http://www.equifax.com)** | **[Global Data & Analytics Internship](https://jobright.ai/jobs/info/66cce5ea3b3df4ad5d3e8d4a?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Sep 17 |
+| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/6695ed9ccaae57904cca1f95?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Sep 17 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Continuous Improvement Intern](https://jobright.ai/jobs/info/66e955dab833db82bc79e53e?utm_campaign=1066&utm_source=git)** | Anderson, SC | On Site | Sep 17 |
+| **[American Fidelity](http://www.americanfidelity.com)** | **[Data Internship](https://jobright.ai/jobs/info/66ccbbf9c638b133406366a4?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Sep 17 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Summer, Statistics, Onsite](https://jobright.ai/jobs/info/66b140c29bffb50cbdc1714b?utm_campaign=1066&utm_source=git)** | Albuquerque, NM | Hybrid | Sep 17 |
 | **[Greif](http://greif.com)** | **[Summer 2025 eProcurement Application Intern](https://jobright.ai/jobs/info/66e94d954072bebad8948693?utm_campaign=1066&utm_source=git)** | Delaware, OH | On Site | Sep 17 |
+| **[Columbia Funds](https://www.columbiathreadneedleus.com)** | **[Investments Intern, Business Support and Data Analytics](https://jobright.ai/jobs/info/66de6d5e040211d7f9affe95?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 17 |
 | **[Nissan Motor](https://www.nissan-global.com/EN/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/66e93d653b81eb0e560d7dd6?utm_campaign=1066&utm_source=git)** | Franklin, TN | On Site | Sep 17 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Supply Chain Data Analytics Internship 2025](https://jobright.ai/jobs/info/66e92a8442d0960f77a3cc12?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 16 |
 | ↳ | **[Supply Chain Data Analyst Internship 2025](https://jobright.ai/jobs/info/66e92a8442d0960f77a3cbf2?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 16 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Strategic Insights and Analytics Co-op](https://jobright.ai/jobs/info/66e96eed4e1883bf048d6a69?utm_campaign=1066&utm_source=git)** | Titusville, NJ | On Site | Sep 16 |
 | **[NinjaTrader](http://www.ninjatrader.com)** | **[Data Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/66e927ca8e4d93d90e396521?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Sep 16 |
 | **[Esperion](http://www.esperion.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/66e8dfc6bd4ae7fcfa739a9e?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Sep 16 |
 | **[University of Colorado Boulder](https://www.colorado.edu)** | **[Postdoctoral Associate](https://jobright.ai/jobs/info/66e8d719ccfa70a6e429a0a4?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Sep 16 |
@@ -95,7 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Data Intern](https://jobright.ai/jobs/info/66e86c5fe93c8954c0d37474?utm_campaign=1066&utm_source=git)** | Erie, PA | On Site | Sep 16 |
 | **[Columbia](https://www.columbiacardiology.org)** | **[Student Research Worker](https://jobright.ai/jobs/info/66e878189f6ea85fbcb7b573?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 16 |
 | **[TSI Incorporated](http://www.tsi.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/66e862989552047ece48fdfb?utm_campaign=1066&utm_source=git)** | St Paul, MN | On Site | Sep 16 |
-| **[InfiniteQuant](http://www.infquant.com)** | **[Quantitative Researcher - Internship](https://jobright.ai/jobs/info/66e84834e15b302f5b5eb805?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 16 |
+| **[InfiniteQuant](http://www.infquant.com)** | **[Quantitative Researcher - Internship - Summer 2025](https://jobright.ai/jobs/info/66e84834e15b302f5b5eb805?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 16 |
 | **[Crane Currency](http://www.cranecurrency.com/)** | **[IT Intern PowerBI Content Creator](https://jobright.ai/jobs/info/66d20153aa876eac75f1ae8d?utm_campaign=1066&utm_source=git)** | Dalton, MA | On Site | Sep 16 |
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/66e8278946789e8c56f9da67?utm_campaign=1066&utm_source=git)** | Frederick, MD | On Site | Sep 16 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Enterprise Technology - Data Analyst](https://jobright.ai/jobs/info/66e81f10f701a22fa3611c74?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 16 |
@@ -111,12 +127,13 @@ For a complete list, click the following sortable link below:
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[Research Intern](https://jobright.ai/jobs/info/66e7d8f80f23c401fcd3914c?utm_campaign=1066&utm_source=git)** | Bethesda, MD | On Site | Sep 15 |
 | **[Zuru Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/66e7c3d1b30015e59f2ba70b?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Sep 15 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Claims Advanced Analytics](https://jobright.ai/jobs/info/66e7b8a04d88e00e2f5ea0e6?utm_campaign=1066&utm_source=git)** | Tempe, AZ | Hybrid | Sep 15 |
-| **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern - Quantitative Modeling Analyst](https://jobright.ai/jobs/info/66e87487675d7abbdb7c970e?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Sep 15 |
+| **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern - Quantitative Modeling Analyst](https://jobright.ai/jobs/info/66e87487675d7abbdb7c96a2?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Sep 15 |
 | **[Ascension Health](https://healthcare.ascension.org)** | **[Intern, Data Action](https://jobright.ai/jobs/info/66e86f6f1c3f86afbd3cf871?utm_campaign=1066&utm_source=git)** | St Louis, MO | Remote | Sep 15 |
 | **[ZURU](https://zuru.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/66e7943d1bef216a525b78c0?utm_campaign=1066&utm_source=git)** | United States, Los Angeles | On Site | Sep 15 |
 | **[Whole Foods Market](http://www.wholefoodsmarket.com)** | **[Business Insights and Analytics Graduate and MBA Internship - Summer 2025](https://jobright.ai/jobs/info/66e855b70ae57a418c6d7974?utm_campaign=1066&utm_source=git)** | TX, Austin - Global Support | Hybrid | Sep 15 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[Research Intern](https://jobright.ai/jobs/info/66e7b864dae5b4020351d070?utm_campaign=1066&utm_source=git)** | Bethesda, MD, USA | On Site | Sep 15 |
 | **[Nalco Water, An Ecolab Company](http://ecolab.com/nalco-water)** | **[Data Science Graduate Intern](https://jobright.ai/jobs/info/66e927ca8e4d93d90e39656d?utm_campaign=1066&utm_source=git)** | USA - Illinois - Naperville | On Site | Sep 15 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Supply Chain Data Analyst Internship 2025](https://jobright.ai/jobs/info/66e97bc7f9613b80d54fe227?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Sep 15 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[Data Science Analyst Co-op](https://jobright.ai/jobs/info/66e82ecb1e08496163e6a8ad?utm_campaign=1066&utm_source=git)** | Boston | Hybrid | Sep 15 |
 | **[KeyBank](https://www.key.com)** | **[Analytics and Quantitative Modeling Internship](https://jobright.ai/jobs/info/66e8466dc331f19bcf93aec7?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Sep 15 |
 | **[Invesco US](http://www.invesco.com/us)** | **[Real Estate Strategic Analytics Summer Specialist](https://jobright.ai/jobs/info/66e88c2b863390515ef99546?utm_campaign=1066&utm_source=git)** | Dallas, Texas | Hybrid | Sep 15 |
@@ -137,24 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Charles Schwab](https://www.schwab.com/)** | **[Data & Analytics Internship](https://jobright.ai/jobs/info/66e5e01bed8d3f466a05a852?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Sep 14 |
 | ↳ | **[Data & Analytics Internship](https://jobright.ai/jobs/info/66e5d3ea421cb35987ba6a71?utm_campaign=1066&utm_source=git)** | Omaha, NE | On Site | Sep 14 |
 | ↳ | **[Data & Analytics Internship](https://jobright.ai/jobs/info/66e5d3ea421cb35987ba6b81?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Sep 14 |
-| ↳ | **[Data & Analytics Internship](https://jobright.ai/jobs/info/66e5d3ea421cb35987ba6b84?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Sep 14 |
 | ↳ | **[Data & Analytics Internship](https://jobright.ai/jobs/info/66e5d3ea421cb35987ba6b88?utm_campaign=1066&utm_source=git)** | Lone Tree, CO | On Site | Sep 14 |
 | ↳ | **[Data & Analytics Internship](https://jobright.ai/jobs/info/66e5d3ea421cb35987ba6b87?utm_campaign=1066&utm_source=git)** | Westlake, TX | On Site | Sep 14 |
-| **[Microsoft](https://www.microsoft.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/66e828d2cda692bc52e1080e?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Sep 14 |
-| **[IBM](http://www.ibm.com)** | **[Associate Data Scientist Intern](https://jobright.ai/jobs/info/66e57129297f1419c7aba782?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 14 |
-| **[Microsoft](https://www.microsoft.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc25?utm_campaign=1066&utm_source=git)** | Montana, United States | Remote | Sep 14 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc47?utm_campaign=1066&utm_source=git)** | Nevada, United States | Remote | Sep 14 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc2c?utm_campaign=1066&utm_source=git)** | South Carolina, United States | Remote | Sep 14 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc65?utm_campaign=1066&utm_source=git)** | North Dakota, United States | Remote | Sep 14 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4cc21?utm_campaign=1066&utm_source=git)** | Hawaii, United States | Remote | Sep 14 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4ccf9?utm_campaign=1066&utm_source=git)** | Washington, United States | Remote | Sep 14 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4ccec?utm_campaign=1066&utm_source=git)** | Minnesota, United States | Remote | Sep 14 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/66c94fcbb43aa96908c4ccfb?utm_campaign=1066&utm_source=git)** | South Dakota, United States | Remote | Sep 14 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/66cf012980b2dbec1daa2dd8?utm_campaign=1066&utm_source=git)** | Illinois, United States | On Site | Sep 14 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/66d06f0dd25d3c82b1773139?utm_campaign=1066&utm_source=git)** | Kentucky, United States | On Site | Sep 14 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/66cf457d5f39b7c08b0180ad?utm_campaign=1066&utm_source=git)** | Connecticut, United States | On Site | Sep 14 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/66cf367292536bb86a8190d8?utm_campaign=1066&utm_source=git)** | Virginia, United States | On Site | Sep 14 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/66e2fecad3df2cf8909fe303?utm_campaign=1066&utm_source=git)** | North Carolina, United States | On Site | Sep 14 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/66cf1ccc540f3fa32f2bc2e6?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Sep 14 |
-| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/66cf457d5f39b7c08b0180a6?utm_campaign=1066&utm_source=git)** | Maryland, United States | On Site | Sep 14 |
+| ↳ | **[Data & Analytics Internship](https://jobright.ai/jobs/info/66e5d3ea421cb35987ba6b84?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
