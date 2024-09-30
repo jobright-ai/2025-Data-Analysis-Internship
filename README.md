@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Competitive Intelligence Technical Analyst](https://jobright.ai/jobs/info/66fa1780799c62e04d9cce73?utm_campaign=1066&utm_source=git)** | Framingham, MA | On Site | Sep 29 |
+| **[Nissan Motor](https://www.nissan-global.com/EN/)** | **[SCM Analytics Internship](https://jobright.ai/jobs/info/66fa14e046ad2538911fba72?utm_campaign=1066&utm_source=git)** | Smyrna, TN | On Site | Sep 29 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Data Management & Stewardship Summer Internship](https://jobright.ai/jobs/info/66f89f1c7ae6ef5a5baef90f?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Sep 28 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Data Analyst/Information Systems Intern](https://jobright.ai/jobs/info/66f80d6b468668a2676e47f6?utm_campaign=1066&utm_source=git)** | Jefferson City, MO | On Site | Sep 28 |
 | ↳ | **[Data Analyst/Information Systems Intern](https://jobright.ai/jobs/info/66f7fffef2fdf522d6c7b880?utm_campaign=1066&utm_source=git)** | North Carolina, United States | On Site | Sep 28 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Chatham Financial Corp](http://www.chathamfinancial.com/)** | **[Quantitative Analyst Internship](https://jobright.ai/jobs/info/66d9e18974d19475a0be1add?utm_campaign=1066&utm_source=git)** | Kennett Square, PA | Hybrid | Sep 27 |
 | **[Uline](http://www.uline.com)** | **[eCommerce Data Analyst Internship](https://jobright.ai/jobs/info/66be7b8c0122d62156b0c0ae?utm_campaign=1066&utm_source=git)** | Waukegan, IL | On Site | Sep 27 |
 | **[Mount Sinai Health System](https://www.mountsinai.org)** | **[Post Doctoral Fellow](https://jobright.ai/jobs/info/66da6709fb538750c3cddbe7?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 27 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/66beedf075eb11c627265091?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Sep 27 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/66beedf075eb11c6272650a2?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Sep 27 |
 | **[L’OCCITANE Group](https://group.loccitane.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/66da0fe8fe4eeb6b7da88bc6?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[Facebook Careers](https://www.metacareers.com/)** | **[Research Scientist Intern, Product Algorithms](https://jobright.ai/jobs/info/66daa9096050429495351ace?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Sep 27 |
-| **[Uline](http://www.uline.com)** | **[eCommerce Data Analyst Internship](https://jobright.ai/jobs/info/66be91b55ed46d88a72bc819?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Sep 27 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Assoc Data & Reporting Analyst](https://jobright.ai/jobs/info/66beedf075eb11c62726509e?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
