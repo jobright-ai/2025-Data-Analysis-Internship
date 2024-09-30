@@ -57,8 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nissan Motor](https://www.nissan-global.com/EN/)** | **[SCM Analytics Internship](https://jobright.ai/jobs/info/66f9a493b8cd43f7a28caa1b?utm_campaign=1066&utm_source=git)** | Smyrna, TN | On Site | Sep 29 |
-| **[IMEG Corp.](http://www.imegcorp.com/)** | **[Building Intelligence & Integration Intern](https://jobright.ai/jobs/info/66f9a867c8ff91fcd7171a35?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Sep 28 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[Data Management & Stewardship Summer Internship](https://jobright.ai/jobs/info/66f89f1c7ae6ef5a5baef90f?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Sep 28 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Data Analyst/Information Systems Intern](https://jobright.ai/jobs/info/66f80d6b468668a2676e47f6?utm_campaign=1066&utm_source=git)** | Jefferson City, MO | On Site | Sep 28 |
 | ↳ | **[Data Analyst/Information Systems Intern](https://jobright.ai/jobs/info/66f7fffef2fdf522d6c7b880?utm_campaign=1066&utm_source=git)** | North Carolina, United States | On Site | Sep 28 |
@@ -114,10 +112,10 @@ For a complete list, click the following sortable link below:
 | **[BerkleyNet](https://berkleynet.com)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/66d8c332bc5c2e125e036578?utm_campaign=1066&utm_source=git)** | Manassas, VA | On Site | Sep 27 |
 | **[J.S. Held](http://jsheld.com/)** | **[IP Analyst – Summer 2025 Internship](https://jobright.ai/jobs/info/66f72845d990f672ad7cd3f8?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Sep 27 |
 | **[Kia Motors Manufacturing Georgia](http://www.kmmgusa.com)** | **[Technical Operation Systems Intern](https://jobright.ai/jobs/info/66f71a500281fc729f696148?utm_campaign=1066&utm_source=git)** | West Point, GA | On Site | Sep 27 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Data Science Co-op](https://jobright.ai/jobs/info/66f7b0a31e70265ab77357a4?utm_campaign=1066&utm_source=git)** | Danvers, MA | On Site | Sep 27 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Intern, Statistics](https://jobright.ai/jobs/info/66f71fa17b1b41fc345f2c27?utm_campaign=1066&utm_source=git)** | Bloomington, IN | On Site | Sep 27 |
 | **[Daikin Applied](https://www.daikinapplied.com)** | **[Sales Operation Data Analyst - Intern](https://jobright.ai/jobs/info/66f71294486db36d106f52b8?utm_campaign=1066&utm_source=git)** | Plymouth, MN | Hybrid | Sep 27 |
 | ↳ | **[Digital Transformation Analyst - Intern](https://jobright.ai/jobs/info/66f71294486db36d106f52e7?utm_campaign=1066&utm_source=git)** | Plymouth, MN | On Site | Sep 27 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Data Science Co-op](https://jobright.ai/jobs/info/66f7b15cd468686c4f675688?utm_campaign=1066&utm_source=git)** | Danvers, MA | On Site | Sep 27 |
 | **[Oakland University](http://www.oakland.edu)** | **[Undergraduate Research Assistant](https://jobright.ai/jobs/info/66f7137dbb692bf70848ab70?utm_campaign=1066&utm_source=git)** | Rochester, MI | On Site | Sep 27 |
 | **[Interpublic Group](http://www.interpublic.com)** | **[Intern, DEI Data & Insights](https://jobright.ai/jobs/info/66f574823c79e198327552c5?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[ABS Group](http://abs-group.com)** | **[Intern](https://jobright.ai/jobs/info/66f71294486db36d106f5515?utm_campaign=1066&utm_source=git)** | Knoxville, TN | Hybrid | Sep 27 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/66beedf075eb11c627265091?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Sep 27 |
 | **[L’OCCITANE Group](https://group.loccitane.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/66da0fe8fe4eeb6b7da88bc6?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[Facebook Careers](https://www.metacareers.com/)** | **[Research Scientist Intern, Product Algorithms](https://jobright.ai/jobs/info/66daa9096050429495351ace?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Sep 27 |
+| **[Uline](http://www.uline.com)** | **[eCommerce Data Analyst Internship](https://jobright.ai/jobs/info/66be91b55ed46d88a72bc819?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Sep 27 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Assoc Data & Reporting Analyst](https://jobright.ai/jobs/info/66beedf075eb11c62726509e?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
