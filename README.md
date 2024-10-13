@@ -57,13 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Penn State University](https://www.ime.psu.edu/)** | **[Postdoctoral Scholar](https://jobright.ai/jobs/info/670b5ca6ba02b9cb87ea9842?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Oct 12 |
-| **[Leidos](https://www.leidos.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/670b22dbb36b1d9200af2fa1?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 12 |
+| **[Strider Technologies](https://www.striderintel.com)** | **[Research Assistant Intern](https://jobright.ai/jobs/info/668e8a1506f3000f3f211e03?utm_campaign=1066&utm_source=git)** | Tysons Corner, VA | On Site | Oct 13 |
+| **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/670ba95efa1f61ef06706d83?utm_campaign=1066&utm_source=git)** | Massachusetts, United States | Remote | Oct 13 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2025 - Clinical Pharmacology Analysis and Reporting/Data Science Internship](https://jobright.ai/jobs/info/670a837e6bc74641fa46206f?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Oct 12 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Data Scientist Co-op/Intern](https://jobright.ai/jobs/info/670a6e02a8fe6b9ada170d36?utm_campaign=1066&utm_source=git)** | Greater Tampa Bay Area | Hybrid | Oct 12 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[2025 BI Developer & Data Analytics Summer Internship](https://jobright.ai/jobs/info/66ee76e318376b4d39481652?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Oct 12 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Analytics: MBA Internship Opportunity](https://jobright.ai/jobs/info/6706310506406fab66a137c1?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Oct 12 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Gen AI Data Science Intern](https://jobright.ai/jobs/info/670b93a105d1f8228d64e534?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Oct 12 |
 | **[Sanofi](https://www.sanofi.com)** | **[Data Science and Digital Transformation (DSD) Modeling - Spring 2025 Co-op](https://jobright.ai/jobs/info/66ee60f4d1378f7e2c83d3cc?utm_campaign=1066&utm_source=git)** | Framingham, MA | On Site | Oct 12 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Quality Systems Data Science Co-op- Spring 2025](https://jobright.ai/jobs/info/66b689cee106f3e7fd539f6c?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Oct 12 |
 | **[Nicolet National Bank](http://nicoletbank.com)** | **[DATA ANALYTICS INTERN - Summer 2025](https://jobright.ai/jobs/info/66d273b76be7de6b06afefc0?utm_campaign=1066&utm_source=git)** | Green Bay, WI | On Site | Oct 12 |
@@ -116,6 +115,7 @@ For a complete list, click the following sortable link below:
 | **[MITRE](http://www.mitre.org)** | **[Internships in Data Science, Operations Research, Math and Statistics](https://jobright.ai/jobs/info/66d762fd7d0a82100743e503?utm_campaign=1066&utm_source=git)** | McLean, VA | On Site | Oct 11 |
 | **[Central Insurance](http://www.central-insurance.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/66ecaad00b8740b6daf2c998?utm_campaign=1066&utm_source=git)** | Van Wert, OH | Hybrid | Oct 11 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66ed269cd9bd6c4f36c5be29?utm_campaign=1066&utm_source=git)** | New Jersey, United States | On Site | Oct 11 |
+| ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66ed269cd9bd6c4f36c5bdbd?utm_campaign=1066&utm_source=git)** | New Hampshire, United States | On Site | Oct 11 |
 | **[Accuray](http://www.accuray.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/66fcbfd64e07bdb739868ddc?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Oct 11 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66ed28bc8de735c5f3850195?utm_campaign=1066&utm_source=git)** | Washington, United States | On Site | Oct 11 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66ed28bc8de735c5f3850203?utm_campaign=1066&utm_source=git)** | Wyoming, United States | On Site | Oct 11 |
@@ -128,10 +128,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66ed29268de735c5f3850787?utm_campaign=1066&utm_source=git)** | Delaware, United States | On Site | Oct 11 |
 | ↳ | **[Data Science: Internship Opportunities - Redmond](https://jobright.ai/jobs/info/670621d27ec9158ebe84fcd9?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Oct 11 |
 | **[Central Insurance](http://www.central-insurance.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/66ecaf9340f7ddcfa7aedcaf?utm_campaign=1066&utm_source=git)** | Dublin, OH | Hybrid | Oct 11 |
-| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[ENTERPRISE ANALYTICS INTERN](https://jobright.ai/jobs/info/67093825cd8de5050421c242?utm_campaign=1066&utm_source=git)** | Camden, NJ | On Site | Oct 11 |
 | **[American Equity](http://www.american-equity.com)** | **[IT Intern, Data Science](https://jobright.ai/jobs/info/66e8e28be9ebc660e2cc8b26?utm_campaign=1066&utm_source=git)** | West Des Moines, IA | On Site | Oct 11 |
+| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[ENTERPRISE ANALYTICS INTERN](https://jobright.ai/jobs/info/67093825cd8de5050421c5fe?utm_campaign=1066&utm_source=git)** | Camden, NJ | On Site | Oct 11 |
 | **[Ecolab](http://www.ecolab.com)** | **[Data Science Graduate Intern](https://jobright.ai/jobs/info/66ec6a3c4ad9bf587e7ac115?utm_campaign=1066&utm_source=git)** | Naperville, IL | On Site | Oct 11 |
-| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Research Internship](https://jobright.ai/jobs/info/66b46e8850534badb66910f0?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Oct 11 |
+| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Research Internship](https://jobright.ai/jobs/info/66b46e8850534badb6690fef?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Oct 11 |
+| ↳ | **[Research Internship](https://jobright.ai/jobs/info/66b46e8850534badb66910f0?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Oct 11 |
 | ↳ | **[Research Internship](https://jobright.ai/jobs/info/66b47b4e583ee4992a0ed649?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Oct 11 |
 | **[Allstate](http://www.allstate.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/66ec0658a8c91bee6e996c67?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Remote | Oct 11 |
 | **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, Computational Social Science (PhD)](https://jobright.ai/jobs/info/66ec6856e643fd87b6c5dcc7?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Oct 11 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Intuit](http://www.intuit.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/66ec4f6db2d1b3061b457ec2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | **[Medpace](http://www.medpace.com)** | **[Informatics Internship/Co-Op Spring 2025](https://jobright.ai/jobs/info/66d0da1ff0590922b192dbe9?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 11 |
 | **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, Computational Social Science (PhD)](https://jobright.ai/jobs/info/66ec6856e643fd87b6c5d79b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 11 |
+| **[Cohere Health](https://coherehealth.com)** | **[Data Scientist Co-Op (January - June 2025)](https://jobright.ai/jobs/info/6708de64a46c1f4f06ec20c0?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 11 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Bioinformatics Scientist Intern - MRD](https://jobright.ai/jobs/info/6708e17904399a403cc5921d?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Oct 11 |
 | ↳ | **[Bioinformatics Scientist Intern](https://jobright.ai/jobs/info/6708e77050e776e23656d6b7?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Oct 11 |
-| **[Cohere Health](https://coherehealth.com)** | **[Data Scientist Co-Op (January-June 2025)](https://jobright.ai/jobs/info/6708de64a46c1f4f06ec20c0?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 11 |
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/67099d000b508e871f393323?utm_campaign=1066&utm_source=git)** | Morrisville, NC | On Site | Oct 10 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Supply Chain Data Analytics Internship 2025](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a0e?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 10 |
 | ↳ | **[Supply Chain Data Analytics Internship 2025](https://jobright.ai/jobs/info/6709d13d0cdc3e9f80771674?utm_campaign=1066&utm_source=git)** | Schaumburg, IL | On Site | Oct 10 |
 | **[Cohere Health](https://coherehealth.com)** | **[Data Scientist Co-Op (January-June 2025)](https://jobright.ai/jobs/info/6708be21d2ee6b3cc923962c?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Oct 10 |
-| **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Solar & Storage Solutions Data Analytics Co-Op - Spring 2025](https://jobright.ai/jobs/info/6708a8802bc658b49a27e096?utm_campaign=1066&utm_source=git)** | Schenectady, NY | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
