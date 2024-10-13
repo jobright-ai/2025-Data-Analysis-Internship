@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Intern  Clinical Data Sciences, Biostatistics Innovation](https://jobright.ai/jobs/info/670beecea33ef6e94cba1eae?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Oct 13 |
 | **[Strider Technologies](https://www.striderintel.com)** | **[Research Assistant Intern](https://jobright.ai/jobs/info/668e8a1506f3000f3f211e03?utm_campaign=1066&utm_source=git)** | Tysons Corner, VA | On Site | Oct 13 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/670ba95efa1f61ef06706d83?utm_campaign=1066&utm_source=git)** | Massachusetts, United States | Remote | Oct 13 |
+| **[Post Consumer Brands](https://postconsumerbrands.com)** | **[Commercial Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/66d25a988c5792405f3bf084?utm_campaign=1066&utm_source=git)** | Lakeville, MN | On Site | Oct 13 |
+| **[TELUS International](https://www.telusinternational.com)** | **[Personalized Internet Assessor – Canada (English Language)](https://jobright.ai/jobs/info/66e19644123fa518c952ce8a?utm_campaign=1066&utm_source=git)** | California, United States | Hybrid | Oct 13 |
+| **[MSA - The Safety Company](https://www.msasafety.com/global)** | **[Strategic Sourcing Data Analyst Intern (Spring 2025)](https://jobright.ai/jobs/info/66d0db88505db71c77eadd09?utm_campaign=1066&utm_source=git)** | Murrysville, PA | Hybrid | Oct 12 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2025 - Clinical Pharmacology Analysis and Reporting/Data Science Internship](https://jobright.ai/jobs/info/670a837e6bc74641fa46206f?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Oct 12 |
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Data Scientist Co-op/Intern](https://jobright.ai/jobs/info/670a6e02a8fe6b9ada170d36?utm_campaign=1066&utm_source=git)** | Greater Tampa Bay Area | Hybrid | Oct 12 |
 | **[Builders FirstSource](http://www.bldr.com)** | **[2025 BI Developer & Data Analytics Summer Internship](https://jobright.ai/jobs/info/66ee76e318376b4d39481652?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Oct 12 |
@@ -128,8 +132,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/66ed29268de735c5f3850787?utm_campaign=1066&utm_source=git)** | Delaware, United States | On Site | Oct 11 |
 | ↳ | **[Data Science: Internship Opportunities - Redmond](https://jobright.ai/jobs/info/670621d27ec9158ebe84fcd9?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Oct 11 |
 | **[Central Insurance](http://www.central-insurance.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/66ecaf9340f7ddcfa7aedcaf?utm_campaign=1066&utm_source=git)** | Dublin, OH | Hybrid | Oct 11 |
+| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[ENTERPRISE ANALYTICS INTERN](https://jobright.ai/jobs/info/67093825cd8de5050421c5fd?utm_campaign=1066&utm_source=git)** | Camden, NJ | On Site | Oct 11 |
 | **[American Equity](http://www.american-equity.com)** | **[IT Intern, Data Science](https://jobright.ai/jobs/info/66e8e28be9ebc660e2cc8b26?utm_campaign=1066&utm_source=git)** | West Des Moines, IA | On Site | Oct 11 |
-| **[Cooper University Health Care](https://www.cooperhealth.edu/cooper-innovation-center)** | **[ENTERPRISE ANALYTICS INTERN](https://jobright.ai/jobs/info/67093825cd8de5050421c5fe?utm_campaign=1066&utm_source=git)** | Camden, NJ | On Site | Oct 11 |
 | **[Ecolab](http://www.ecolab.com)** | **[Data Science Graduate Intern](https://jobright.ai/jobs/info/66ec6a3c4ad9bf587e7ac115?utm_campaign=1066&utm_source=git)** | Naperville, IL | On Site | Oct 11 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Research Internship](https://jobright.ai/jobs/info/66b46e8850534badb6690fef?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Oct 11 |
 | ↳ | **[Research Internship](https://jobright.ai/jobs/info/66b46e8850534badb66910f0?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Oct 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cohere Health](https://coherehealth.com)** | **[Data Scientist Co-Op (January - June 2025)](https://jobright.ai/jobs/info/6708de64a46c1f4f06ec20c0?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 11 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Bioinformatics Scientist Intern - MRD](https://jobright.ai/jobs/info/6708e17904399a403cc5921d?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Oct 11 |
 | ↳ | **[Bioinformatics Scientist Intern](https://jobright.ai/jobs/info/6708e77050e776e23656d6b7?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Oct 11 |
-| **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/67099d000b508e871f393323?utm_campaign=1066&utm_source=git)** | Morrisville, NC | On Site | Oct 10 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Supply Chain Data Analytics Internship 2025](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770a0e?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 10 |
-| ↳ | **[Supply Chain Data Analytics Internship 2025](https://jobright.ai/jobs/info/6709d13d0cdc3e9f80771674?utm_campaign=1066&utm_source=git)** | Schaumburg, IL | On Site | Oct 10 |
-| **[Cohere Health](https://coherehealth.com)** | **[Data Scientist Co-Op (January-June 2025)](https://jobright.ai/jobs/info/6708be21d2ee6b3cc923962c?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
