@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist - Model Risk Management)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e478?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Oct 15 |
+| **[AgReliant Genetics, LLC](http://www.agreliantgenetics.com)** | **[Quantitative Genetics Research Internship](https://jobright.ai/jobs/info/66f1bcd905f21fac89a34c20?utm_campaign=1066&utm_source=git)** | Lebanon, IN | Hybrid | Oct 15 |
+| **[ISO New England Inc.](http://www.iso-ne.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/66f207a461c467f7d35fd1da?utm_campaign=1066&utm_source=git)** | Holyoke, MA | On Site | Oct 15 |
+| **[AbbVie](http://www.abbvie.com)** | **[2025 Pharmacometrics Intern](https://jobright.ai/jobs/info/66f28e9b217fb1910546a176?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Oct 15 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (CCO - Data Analyst)](https://jobright.ai/jobs/info/66f2ab2607a75121d38b2588?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Oct 15 |
 | **[Raven Industries](http://ravenind.com)** | **[Data Scientist - Python Intern](https://jobright.ai/jobs/info/670df88f50eb7d79d9e345f4?utm_campaign=1066&utm_source=git)** | Cook County, IL | On Site | Oct 14 |
 | **[Charter Manufacturing](http://chartermfg.com)** | **[Data Science Intern (Year-Round)](https://jobright.ai/jobs/info/670debadce5ab939651f0383?utm_campaign=1066&utm_source=git)** | Mequon, WI | Hybrid | Oct 14 |
 | **[Labcorp](https://www.labcorp.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/670df093b653fe85037dcfb5?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Oct 14 |
@@ -68,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Wellabe](https://www.wellabe.com)** | **[Summer 2025 Data Governance Intern- Onsite Des Moines, Iowa](https://jobright.ai/jobs/info/670db5974d9f9c13ecef244e?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Oct 14 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Data Science Analyst Co-op - Winter 2024/Spring 2025](https://jobright.ai/jobs/info/670dd08574b9f42409c6241d?utm_campaign=1066&utm_source=git)** | Portland, ME | On Site | Oct 14 |
 | **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[Vertex Summer 2025 Intern, Data Science, Computational Science, and Analytics (Boston, MA)](https://jobright.ai/jobs/info/670dcdef7d733a23793e93f6?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Oct 14 |
-| **[AstraZeneca](http://www.astrazeneca.com)** | **[Analytical Sciences Intern](https://jobright.ai/jobs/info/670e073ef5dde43c1c946ea0?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Oct 14 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Data Science Intern (Year-Round)](https://jobright.ai/jobs/info/670d9b4a754670af9f3e1f25?utm_campaign=1066&utm_source=git)** | Charter Manufacturing Company, Inc - Mequon, WI | On Site | Oct 14 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Eydent Intern-ArborMax, Summer 2025](https://jobright.ai/jobs/info/670db5974d9f9c13ecef23f6?utm_campaign=1066&utm_source=git)** | Mount Pleasant, MI | On Site | Oct 14 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Internship Informatics](https://jobright.ai/jobs/info/670d9bc473d55f9b40dd1705?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | Hybrid | Oct 14 |
@@ -103,9 +107,9 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Intern  Clinical Data Sciences, Biostatistics Innovation](https://jobright.ai/jobs/info/670beecea33ef6e94cba1eae?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Oct 13 |
 | **[Strider Technologies](https://www.striderintel.com)** | **[Research Assistant Intern](https://jobright.ai/jobs/info/668e8a1506f3000f3f211e03?utm_campaign=1066&utm_source=git)** | Tysons Corner, VA | On Site | Oct 13 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/670ba95efa1f61ef06706d83?utm_campaign=1066&utm_source=git)** | Massachusetts, United States | Remote | Oct 13 |
+| **[IBM](http://www.ibm.com)** | **[Data Scientist: 2025](https://jobright.ai/jobs/info/670a76292137472f128ae66b?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Oct 13 |
 | **[Post Consumer Brands](https://postconsumerbrands.com)** | **[Commercial Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/66d25a988c5792405f3bf084?utm_campaign=1066&utm_source=git)** | Lakeville, MN | On Site | Oct 13 |
 | **[TELUS International](https://www.telusinternational.com)** | **[Personalized Internet Assessor – Canada (English Language)](https://jobright.ai/jobs/info/66e19644123fa518c952ce8a?utm_campaign=1066&utm_source=git)** | California, United States | Hybrid | Oct 13 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Data Science Intern- Insurance](https://jobright.ai/jobs/info/670e1996ba9c8fb687c9046e?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Oct 12 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Summer PhD Intern: Sr. Data Scientist](https://jobright.ai/jobs/info/670df2ae8942ee2a6a3bf0ab?utm_campaign=1066&utm_source=git)** | Bentonville, AR | On Site | Oct 12 |
 | **[Microsoft](https://www.microsoft.com)** | **[Analytics: Internship Opportunities](https://jobright.ai/jobs/info/670dd8293f2ce6fd2745c6e0?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Oct 12 |
 | **[MSA - The Safety Company](https://www.msasafety.com/global)** | **[Strategic Sourcing Data Analyst Intern (Spring 2025)](https://jobright.ai/jobs/info/66d0db88505db71c77eadd09?utm_campaign=1066&utm_source=git)** | Murrysville, PA | Hybrid | Oct 12 |
@@ -140,8 +144,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/670e09fb34df0f48d1c21c79?utm_campaign=1066&utm_source=git)** | Alabama, United States | On Site | Oct 11 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/670e09fb34df0f48d1c21c7f?utm_campaign=1066&utm_source=git)** | Ohio, United States | On Site | Oct 11 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/670e09fb34df0f48d1c21c83?utm_campaign=1066&utm_source=git)** | New Mexico, United States | On Site | Oct 11 |
-| ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/670dfad8404fe875a6d30247?utm_campaign=1066&utm_source=git)** | Oklahoma, United States | On Site | Oct 11 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/670dfad8404fe875a6d30246?utm_campaign=1066&utm_source=git)** | Illinois, United States | On Site | Oct 11 |
+| ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/670dfad8404fe875a6d30247?utm_campaign=1066&utm_source=git)** | Oklahoma, United States | On Site | Oct 11 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/670dfad8404fe875a6d3024e?utm_campaign=1066&utm_source=git)** | Connecticut, United States | On Site | Oct 11 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/670dfad8404fe875a6d30254?utm_campaign=1066&utm_source=git)** | Tennessee, United States | On Site | Oct 11 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/670dee9f7b266802a9c97ee6?utm_campaign=1066&utm_source=git)** | Louisiana, United States | On Site | Oct 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schneider](https://schneider.com)** | **[Data Science and Engineering Intern - Summer 2025](https://jobright.ai/jobs/info/670a338dd88049e9ce64c4f9?utm_campaign=1066&utm_source=git)** | Green Bay, WI | On Site | Oct 11 |
 | ↳ | **[Data Science Intern - Summer 2025](https://jobright.ai/jobs/info/670a338dd88049e9ce64c4f8?utm_campaign=1066&utm_source=git)** | Green Bay, WI | On Site | Oct 11 |
 | **[Comcast](http://corporate.comcast.com)** | **[Comcast Data Scientist Intern](https://jobright.ai/jobs/info/6709e5f7cf8c803181a15eaa?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 11 |
-| **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/670dd8293f2ce6fd2745c70f?utm_campaign=1066&utm_source=git)** | Arkansas, United States | On Site | Oct 11 |
-| ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/670dd8293f2ce6fd2745c710?utm_campaign=1066&utm_source=git)** | West Virginia, United States | On Site | Oct 11 |
-| ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/670dd8293f2ce6fd2745c717?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Oct 11 |
-| ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/670dd8293f2ce6fd2745c71b?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
