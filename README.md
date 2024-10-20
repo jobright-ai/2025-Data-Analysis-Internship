@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2025 Summer Data Analyst/Information Systems Intern (Jefferson City)](https://jobright.ai/jobs/info/66f80d6b468668a2676e47f6?utm_campaign=1066&utm_source=git)** | Jefferson City, MO | On Site | Oct 20 |
+| **[Uline](http://www.uline.com)** | **[Business Intelligence Internship - Summer 2025](https://jobright.ai/jobs/info/66bfe476d332064e955dc92c?utm_campaign=1066&utm_source=git)** | Pleasant Prairie, WI | On Site | Oct 20 |
+| ↳ | **[Business Intelligence Internship - Summer 2025](https://jobright.ai/jobs/info/66bfce630e58ac9ff69d9f5c?utm_campaign=1066&utm_source=git)** | Glenview, IL | On Site | Oct 20 |
+| ↳ | **[Business Intelligence Internship - Summer 2025](https://jobright.ai/jobs/info/66bfe476d332064e955dc931?utm_campaign=1066&utm_source=git)** | Waukegan, IL | On Site | Oct 20 |
 | **[InfiniteQuant](http://www.infquant.com)** | **[Quantitative Researcher  - 2025 Summer Internship](https://jobright.ai/jobs/info/67145e3428a7e39e9a3fc601?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 19 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[DPI Business Data Analytics Apprentice – Business Insights](https://jobright.ai/jobs/info/6714772f6868b0d7daac954c?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 19 |
 | ↳ | **[DPI Business Data Analytics Apprentice – IT](https://jobright.ai/jobs/info/67144331d9fbb339e583babe?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 19 |
@@ -91,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2025 - Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/6714cbdf951803e4fbcaa4ad?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Oct 19 |
 | **[Alaska Airlines](https://alaskaair.jobs)** | **[Graduate Intern - Revenue Performance Research](https://jobright.ai/jobs/info/670d6cc53bd0d1725adf768e?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Oct 19 |
 | **[Texas Instruments](http://www.ti.com)** | **[Facilities Data Analytics Intern](https://jobright.ai/jobs/info/67136edafb2360c4d50820bc?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Oct 19 |
+| **[Lennox](http://www.lennox.com)** | **[IT Data Science Intern - Summer 2025](https://jobright.ai/jobs/info/66d8e845fdf9fb17d61e6aee?utm_campaign=1066&utm_source=git)** | Richardson, TX | On Site | Oct 19 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2025 - Graduate/PhD Biostatistics Internship](https://jobright.ai/jobs/info/6714b30b5e67ade55a15c2b7?utm_campaign=1066&utm_source=git)** | Summit, NJ | Hybrid | Oct 19 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2025 Summer Internship - Data Analytics](https://jobright.ai/jobs/info/67133c38a3488d4f484a17e5?utm_campaign=1066&utm_source=git)** | Rosemead, CA | Hybrid | Oct 18 |
 | **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[Applied Decision Science in Cancer](https://jobright.ai/jobs/info/67133035ed03ace47108a4f0?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Oct 18 |
@@ -104,16 +109,16 @@ For a complete list, click the following sortable link below:
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2025 - Graduate Statistical Programming Internship](https://jobright.ai/jobs/info/67130b266e8ae473bcb11840?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Oct 18 |
 | **[Recorded Future](http://www.recordedfuture.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6712fc734e3f45ee32cce7ad?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 18 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2025 - Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/6712fc0859e803dd85a85b26?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Oct 18 |
-| ↳ | **[Summer 2025 - Graduate Statistical Programming Internship](https://jobright.ai/jobs/info/6712fc0859e803dd85a85b1f?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Oct 18 |
 | ↳ | **[Summer 2025 - Graduate/PhD Biostatistics Internship](https://jobright.ai/jobs/info/6712fc0859e803dd85a85b79?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Oct 18 |
+| ↳ | **[Summer 2025 - Graduate Statistical Programming Internship](https://jobright.ai/jobs/info/6712fc0859e803dd85a85b1f?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Oct 18 |
 | ↳ | **[Summer 2025 - Graduate Statistical Programming Internship](https://jobright.ai/jobs/info/6712fc0859e803dd85a85b7d?utm_campaign=1066&utm_source=git)** | Summit, NJ | Hybrid | Oct 18 |
 | ↳ | **[Summer 2025 - PhD Data Science Internship](https://jobright.ai/jobs/info/6712fc0859e803dd85a85b1e?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Oct 18 |
 | ↳ | **[Summer 2025 - Graduate Statistical Programming Internship](https://jobright.ai/jobs/info/6712fc0859e803dd85a85b7c?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Oct 18 |
 | ↳ | **[Summer 2025 - Graduate/PhD Biostatistics Internship](https://jobright.ai/jobs/info/6712fc0859e803dd85a85b7e?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Oct 18 |
 | **[American Society of Anesthesiologists®](https://www.asahq.org)** | **[Part-time Intern (AQI Data Registry) - Schaumburg, IL - Flexible Hybrid Schedule](https://jobright.ai/jobs/info/66d71d48dd5dbbb9de199cff?utm_campaign=1066&utm_source=git)** | Schaumburg, IL | Hybrid | Oct 18 |
 | **[The New York Times](https://www.nytco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6712f4b0ecbfdca4c29c2d48?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 18 |
-| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6712f1c6d42cfd3e326a28f8?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | ↳ | **[Data Science Intern ](https://jobright.ai/jobs/info/6712dd617c526ca55371397f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 18 |
+| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6712dd617c526ca55371399f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | ↳ | **[Advertising Business Analytics Intern](https://jobright.ai/jobs/info/6712dd617c526ca55371399d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | **[Merck](http://www.merck.com)** | **[Postdoctoral Research Fellow- Quantitative Pharmacology and Pharmacometrics- Hybrid](https://jobright.ai/jobs/info/6712ebdf652d63681b059d0a?utm_campaign=1066&utm_source=git)** | West Point, PA | Hybrid | Oct 18 |
 | **[PIM Brands, Inc.](https://pimbrands.com)** | **[Master Data Coordinator Intern](https://jobright.ai/jobs/info/6712e350cbf571fa7607880a?utm_campaign=1066&utm_source=git)** | Park Ridge, NJ | On Site | Oct 18 |
@@ -141,20 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Texas A&M University](http://www.tamu.edu/)** | **[Undergraduate Research Assistant (NSF-CAP)](https://jobright.ai/jobs/info/671261f85dba2bc585e6ec11?utm_campaign=1066&utm_source=git)** | Laredo, TX | On Site | Oct 18 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern – IT, Data & Analytics – PDM (Supply Chain & Manufacturing)](https://jobright.ai/jobs/info/66da27c4a47203ddff2106db?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Oct 18 |
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/671261b36ba99be0c7397c76?utm_campaign=1066&utm_source=git)** | Morrisville, NC | On Site | Oct 18 |
-| **[Lennox](http://www.lennox.com)** | **[IT Data Science Intern - Summer 2025](https://jobright.ai/jobs/info/66fb5ee41fa63688465f65be?utm_campaign=1066&utm_source=git)** | Richardson, TX | On Site | Oct 18 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[IDAR Summer Intern](https://jobright.ai/jobs/info/66f5cab90fbbd96829d714e5?utm_campaign=1066&utm_source=git)** | Raritan, NJ | On Site | Oct 18 |
 | **[Cisco](http://www.cisco.com)** | **[Data Scientist (Intern) United States](https://jobright.ai/jobs/info/66f5e8dd6d59fcfcf15b8be7?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 18 |
 | **[Strider Technologies](https://www.striderintel.com)** | **[Intelligence Specialist Internship - Japan Focus](https://jobright.ai/jobs/info/66c58b854031dddaece8f76a?utm_campaign=1066&utm_source=git)** | South Jordan, UT | On Site | Oct 18 |
+| **[PSP Investments](http://www.investpsp.com/en/)** | **[Intern, Fundamental Research Platform (June - August 2025)](https://jobright.ai/jobs/info/6714d8176912ead302de85a6?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | **[IBM](http://www.ibm.com)** | **[2025 Masters or PhD Intern – Sr. Marketing Data Science & Analytics](https://jobright.ai/jobs/info/66e174712c2ac661986fc7e4?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Oct 18 |
+| **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Business Analytics Co-Op- Winter/Spring](https://jobright.ai/jobs/info/66d9e1c2c842851916b4d20b?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Oct 18 |
 | **[Fox News Media](http://foxnews.com)** | **[Spring 2025 FOX News Media Internship Program - Data Analytics - New York](https://jobright.ai/jobs/info/66f68fca00a5e330e44c5705?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Statistics Data Management Analyst Intern - Division of Information Technology](https://jobright.ai/jobs/info/66f5911940145fa4d57ff26b?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Oct 18 |
+| **[Lennox](http://www.lennox.com)** | **[IT Data Science Intern - Summer 2025](https://jobright.ai/jobs/info/67021407e5a326fdbae4bccf?utm_campaign=1066&utm_source=git)** | Richardson, TX | On Site | Oct 18 |
 | **[L’OCCITANE Group](https://group.loccitane.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/66fb7c4b4d429f835314b17b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | **[Cisco](http://www.cisco.com)** | **[Data Scientist (Intern) United States](https://jobright.ai/jobs/info/66f5dc2e216137402523c594?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Oct 18 |
-| **[Scoular](http://www.scoular.com/)** | **[IT Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/66da33fb97051847808e4612?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Oct 18 |
-| **[Starbucks](https://www.starbucks.com)** | **[graduate intern, data analyst - 2025 Starbucks Summer Internship Program - Data, Analytics, Insights & Business Operations](https://jobright.ai/jobs/info/66f5adf18a60e03974bdc635?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Oct 18 |
-| **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, Graph Science and Statistics Research (PhD)](https://jobright.ai/jobs/info/66d8568006c57bfec4d37865?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 18 |
-| ↳ | **[Research Scientist Intern, Graph Science and Statistics Research (PhD)](https://jobright.ai/jobs/info/66e02d4afca3b1d99587a573?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Oct 18 |
-| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/66beedf075eb11c6272650a2?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Oct 18 |
-| **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Quality Systems Data Analyst Co-Op](https://jobright.ai/jobs/info/66f62fb1753c62abc1723530?utm_campaign=1066&utm_source=git)** | Woburn, MA | Hybrid | Oct 18 |
-| **[Shure Incorporated](http://www.shure.com)** | **[Web Analytics Intern](https://jobright.ai/jobs/info/66d8cb9967e86ef4ec956bcb?utm_campaign=1066&utm_source=git)** | Niles, IL | Hybrid | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
