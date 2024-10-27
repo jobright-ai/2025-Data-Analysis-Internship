@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novelis](http://novelis.com)** | **[Data Science Co Op](https://jobright.ai/jobs/info/671d8f85510c8f1808c01064?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Oct 26 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Systems & Data Analytics Intern, US TV Production – Spring 2025](https://jobright.ai/jobs/info/671d4e97b7557c11cbaa93a7?utm_campaign=1066&utm_source=git)** | Culver City, CA | Hybrid | Oct 26 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[CRM Analyst - Data Governance & QA Testing](https://jobright.ai/jobs/info/671d57602fd46857a2f021c4?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Oct 26 |
 | **[Novelis](http://novelis.com)** | **[Data Governance (Analytics & Transformations) Intern](https://jobright.ai/jobs/info/671d57602fd46857a2f0213e?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Oct 26 |
@@ -75,10 +76,12 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](http://www.thermofisher.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/671c9930f4cbcd107f920467?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Oct 26 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/671c9930f4cbcd107f92046f?utm_campaign=1066&utm_source=git)** | Grand Island, NY | On Site | Oct 26 |
 | **[Novelis](http://novelis.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/671c9936b76416dc2373f5c7?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Oct 25 |
-| ↳ | **[BI Data Analyst Co - Op](https://jobright.ai/jobs/info/671d3c0729bca739389ce3f3?utm_campaign=1066&utm_source=git)** | 1950 Vaughn Road, Kennesaw, GA, US | On Site | Oct 25 |
 | ↳ | **[Data Governance (Analytics & Transformations) Intern](https://jobright.ai/jobs/info/671d3c0729bca739389ce3eb?utm_campaign=1066&utm_source=git)** | 3550 Peachtree Rd., Atlanta, GA, US | On Site | Oct 25 |
+| ↳ | **[Data Science Co Op](https://jobright.ai/jobs/info/671d91208f230125317440e3?utm_campaign=1066&utm_source=git)** | 3550 Peachtree Rd., Atlanta, GA, US | On Site | Oct 25 |
+| ↳ | **[BI Data Analyst Co - Op](https://jobright.ai/jobs/info/671d3c0729bca739389ce3f3?utm_campaign=1066&utm_source=git)** | 1950 Vaughn Road, Kennesaw, GA, US | On Site | Oct 25 |
 | **[Daimler Truck North America](http://www.daimler-trucksnorthamerica.com/)** | **[AMS IT & Data Analytics Intern](https://jobright.ai/jobs/info/671c664ace33783204eb847e?utm_campaign=1066&utm_source=git)** | Detroit, MI | Hybrid | Oct 25 |
 | ↳ | **[Data Analytics Telematics Intern](https://jobright.ai/jobs/info/671c664ace33783204eb83fc?utm_campaign=1066&utm_source=git)** | Portland, OR | Hybrid | Oct 25 |
+| **[Delta Air Lines](http://www.delta.com)** | **[Co-op, Delta Wellness - Data Science (Summer, 2025)](https://jobright.ai/jobs/info/671db643d2ab7640c1682f63?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Oct 25 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Data Insights Analyst](https://jobright.ai/jobs/info/671c749acd0c39238407810e?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Oct 25 |
 | **[University of Arkansas](http://uark.edu)** | **[Web Analytics and Technology Intern](https://jobright.ai/jobs/info/671c719e608f8cab624584af?utm_campaign=1066&utm_source=git)** | Fayetteville, AR | On Site | Oct 25 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Data Insights Analyst](https://jobright.ai/jobs/info/671c583f77c08f13dc83424e?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Oct 25 |
@@ -100,9 +103,9 @@ For a complete list, click the following sortable link below:
 | **[Chainguard](https://chainguard.dev)** | **[Undergraduate Research Intern - Summer 2025](https://jobright.ai/jobs/info/671c2d09583f31aee947239e?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 25 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Intern, Data Analytics](https://jobright.ai/jobs/info/671c18897b324d50973cce38?utm_campaign=1066&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 25 |
 | **[Southeast Toyota Distributors, LLC](https://jmfamily.com/our-businesses/southeast-toyota-distributors/)** | **[Intern, Data Analyst](https://jobright.ai/jobs/info/671c18897b324d50973cce4e?utm_campaign=1066&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 25 |
-| **[Daimler Truck North America](http://www.daimler-trucksnorthamerica.com/)** | **[Data Analytics Telematics Intern](https://jobright.ai/jobs/info/671c1210cfb7253c30980432?utm_campaign=1066&utm_source=git)** | Portland, OR US | Hybrid | Oct 25 |
-| ↳ | **[AMS IT & Data Analytics Intern](https://jobright.ai/jobs/info/671c1210cfb7253c30980435?utm_campaign=1066&utm_source=git)** | Detroit, MI US | Hybrid | Oct 25 |
-| **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[Vertex Summer 2025 Intern, Clinical Data Management & Metrics (Boston, MA)](https://jobright.ai/jobs/info/671c109bd7dfa9520c48da66?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Oct 25 |
+| **[Daimler Truck North America](http://www.daimler-trucksnorthamerica.com/)** | **[AMS IT & Data Analytics Intern](https://jobright.ai/jobs/info/671c1210cfb7253c30980435?utm_campaign=1066&utm_source=git)** | Detroit, MI US | Hybrid | Oct 25 |
+| ↳ | **[Data Analytics Telematics Intern](https://jobright.ai/jobs/info/671c1210cfb7253c30980432?utm_campaign=1066&utm_source=git)** | Portland, OR US | Hybrid | Oct 25 |
+| **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[Vertex Summer 2025 Intern, Clinical Data Management & Metrics (Boston, MA)](https://jobright.ai/jobs/info/671c109bd7dfa9520c48da4a?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Oct 25 |
 | **[University of Pennsylvania](http://www.upenn.edu)** | **[Postdoctoral Fellow in Global Aging at the University of Pennsylvania's Population Aging Research Center (PARC)](https://jobright.ai/jobs/info/671c10c69fd4b8fe1ed5c36c?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Oct 25 |
 | **[FM Global](https://www.fmglobal.com)** | **[Business Intelligence Analyst Co-op](https://jobright.ai/jobs/info/671c8b31ba890a3c7975cfbb?utm_campaign=1066&utm_source=git)** | Johnston, RI | On Site | Oct 25 |
 | **[Regent University](http://www.regent.edu/)** | **[Graduate Assistant (Research Assistant)](https://jobright.ai/jobs/info/671c50803a4a336fe5c35ea6?utm_campaign=1066&utm_source=git)** | Virginia Beach, VA | On Site | Oct 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2025 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/671ad96f3d8dfabcb55ee7a8?utm_campaign=1066&utm_source=git)** | Vestal, NY | On Site | Oct 24 |
 | ↳ | **[2025 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/671ad96f3d8dfabcb55ee7b3?utm_campaign=1066&utm_source=git)** | Rochester, New York Metropolitan Area | On Site | Oct 24 |
 | ↳ | **[2025 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/671ac1fe4386b63e4a326aa5?utm_campaign=1066&utm_source=git)** | Orange, CT | On Site | Oct 24 |
-| ↳ | **[2025 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/671ac1fe4386b63e4a326aa8?utm_campaign=1066&utm_source=git)** | Portland, ME | On Site | Oct 24 |
-| ↳ | **[2025 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/671ac1fe4386b63e4a326ab7?utm_campaign=1066&utm_source=git)** | Portland, OR | On Site | Oct 24 |
-| **[Penn State University](https://www.ime.psu.edu/)** | **[Postdoctoral Research Associate in Water, Nutrition, Health, and Human Biology](https://jobright.ai/jobs/info/671ac76657722dde609de41f?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
