@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Labcorp](https://www.labcorp.com/)** | **[Genomics/Bioinformatics Intern](https://jobright.ai/jobs/info/67222c4ac596f74b7ccd6f31?utm_campaign=1066&utm_source=git)** | Westborough, MA | On Site | Oct 30 |
+| **[Norfolk Southern](https://www.nscorp.com)** | **[Intermodal & Automotive Operations Data Analyst- Summer Intern 2025](https://jobright.ai/jobs/info/67057d359514d68b3da12632?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Oct 30 |
+| **[Child Mind Institute](http://childmind.org)** | **[Postdoctoral Fellow, CDB](https://jobright.ai/jobs/info/67056890e9579076030ce590?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Oct 30 |
+| **[Ericsson](https://www.ericsson.com)** | **[Data Scientist Intern (Summer 2025)](https://jobright.ai/jobs/info/6705ce78af85fe39aabfc15c?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Oct 30 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - Data Scientist Intern](https://jobright.ai/jobs/info/6705974ae07b0853b87e34a6?utm_campaign=1066&utm_source=git)** | Norfolk, VA | Hybrid | Oct 30 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6705f0a16aa823e2a6f774e1?utm_campaign=1066&utm_source=git)** | Fargo, ND | Hybrid | Oct 30 |
 | **[VSP Vision](https://vspglobal.com/)** | **[Internship, Business Intelligence Analyst](https://jobright.ai/jobs/info/6721ddcd71bf5ba462a21785?utm_campaign=1066&utm_source=git)** | Remote US | Remote | Oct 30 |
 | ↳ | **[Internship, Business Intelligence Analyst](https://jobright.ai/jobs/info/6721ddcd71bf5ba462a21783?utm_campaign=1066&utm_source=git)** | Remote US | Remote | Oct 30 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Data Intern- Summer 2025](https://jobright.ai/jobs/info/6721d7f4e0384b7f4d145520?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Oct 29 |
@@ -69,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Hexagon Asset Lifecycle Intelligence](https://hexagonppm.com/)** | **[Data Analytics & Business Intelligence Intern](https://jobright.ai/jobs/info/67219159b09f2135d7872443?utm_campaign=1066&utm_source=git)** | Greater Houston | Remote | Oct 29 |
 | **[SelectQuote Insurance Services](https://www.selectquote.com)** | **[Intern - IT Data Science](https://jobright.ai/jobs/info/67219604098a72bb6c4b2cb0?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 29 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[Data Science Research Intern (Spring)](https://jobright.ai/jobs/info/67218a02deaea27f1915117c?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Oct 29 |
-| **[Central Insurance](http://www.central-insurance.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/672187f8480fab7ee235653e?utm_campaign=1066&utm_source=git)** | Van Wert, OH | Hybrid | Oct 29 |
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/672166a1c862284b995070ae?utm_campaign=1066&utm_source=git)** | Ankeny, IA | On Site | Oct 29 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Biostatistician](https://jobright.ai/jobs/info/67216e2823b93d13251e7709?utm_campaign=1066&utm_source=git)** | Cary, NC | Hybrid | Oct 29 |
 | **[Central Insurance](http://www.central-insurance.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/672166a1c862284b9950731c?utm_campaign=1066&utm_source=git)** | Dublin, OH | Hybrid | Oct 29 |
@@ -102,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern (End User Analytics Summer Intern)](https://jobright.ai/jobs/info/672100ce355b4dcdea10549c?utm_campaign=1066&utm_source=git)** | Aiken, SC | On Site | Oct 29 |
 | **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/672103635ed3591a42104df7?utm_campaign=1066&utm_source=git)** | Chesterfield, MO | On Site | Oct 29 |
 | **[Capital Group](https://www.capitalgroup.com/us/landing-pages/linkedin-terms-of-use.html)** | **[CAMPUS: Insights & Analytics Business Intelligence Summer Associate (2025)](https://jobright.ai/jobs/info/6720e4e20bbefe80a79e17c5?utm_campaign=1066&utm_source=git)** | Los Angeles | On Site | Oct 29 |
+| **[IBM](http://www.ibm.com)** | **[Quantum Business Transformation Data Scientist Internship 2025](https://jobright.ai/jobs/info/6704f05a37a2cc3c3153e000?utm_campaign=1066&utm_source=git)** | Albany, NY | On Site | Oct 29 |
 | **[Zoox](https://www.zoox.com/)** | **[Data Scientist Internship/Co-op](https://jobright.ai/jobs/info/6704c5b8d6c2ee4d3127e4e5?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Oct 29 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Delivery Analyst (Spring) - Conway, AR](https://jobright.ai/jobs/info/6720c4f16e069af37b96a126?utm_campaign=1066&utm_source=git)** | United States | On Site | Oct 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Digital Analytics Intern, Spring 2025](https://jobright.ai/jobs/info/6720d635899f6499574722d5?utm_campaign=1066&utm_source=git)** | Celebration, FL | On Site | Oct 29 |
@@ -112,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/670492841bc4fb0b8d66d85c?utm_campaign=1066&utm_source=git)** | Detroit, MI | Hybrid | Oct 29 |
 | ↳ | **[Intern - Data Science](https://jobright.ai/jobs/info/670492841bc4fb0b8d66d85e?utm_campaign=1066&utm_source=git)** | Fort Worth, TX | Hybrid | Oct 29 |
 | **[Amtrak](https://amtrakstations.com/)** | **[Summer 2025/2026 - Crime Analysis Intern - 90299690 - Washington](https://jobright.ai/jobs/info/6703fb2a6d359de618236fbc?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Oct 29 |
+| **[Housing Partnership Network](https://www.housingpartnership.net)** | **[Data Analytics Associate (Spring Co-op 2025)](https://jobright.ai/jobs/info/671fb810d758f7b32dc0ef80?utm_campaign=1066&utm_source=git)** | United States | On Site | Oct 29 |
 | **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6720e5fdf94246bca48d86a4?utm_campaign=1066&utm_source=git)** | 14755 N Outer Forty Drive, Chesterfield, MO, US | On Site | Oct 28 |
 | **[Amazon](https://amazon.com)** | **[Amazon Robotics - Business Intelligence Engineer Co-op - Spring & Fall 2025](https://jobright.ai/jobs/info/672064a2d2816aef76923ed1?utm_campaign=1066&utm_source=git)** | North Reading, MA | On Site | Oct 28 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Data Systems](https://jobright.ai/jobs/info/672061ee60419818ad1e7f98?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Oct 28 |
@@ -147,14 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern - Pharmacy Aggregation Group](https://jobright.ai/jobs/info/671fd6a35bc65591e6c8811c?utm_campaign=1066&utm_source=git)** | Cape Girardeau County, MO | On Site | Oct 28 |
 | ↳ | **[Summer Intern - Pharmacy Aggregation Group](https://jobright.ai/jobs/info/671fd6a35bc65591e6c8811d?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Oct 28 |
 | ↳ | **[Summer Intern - Pharmacy Aggregation Group](https://jobright.ai/jobs/info/671fd6a35bc65591e6c8811e?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Oct 28 |
-| **[Housing Partnership Network](https://www.housingpartnership.net)** | **[Data Analytics Associate (Co-Op)](https://jobright.ai/jobs/info/671fb810d758f7b32dc0ef80?utm_campaign=1066&utm_source=git)** | United States | On Site | Oct 28 |
 | **[Oakland University](http://www.oakland.edu)** | **[Undergraduate Research Assistant](https://jobright.ai/jobs/info/671fa723050d94c3643835b6?utm_campaign=1066&utm_source=git)** | Rochester, MI | On Site | Oct 28 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Analyst, Reporting & Analytics Internship](https://jobright.ai/jobs/info/671fa360fc0e8d1dc41e79fb?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Oct 28 |
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - Bioinformatics - Oncology](https://jobright.ai/jobs/info/671f8e042729df24f245ed89?utm_campaign=1066&utm_source=git)** | Baltimore MD | On Site | Oct 28 |
-| **[Moffitt Cancer Center](http://moffitt.org)** | **[Bioinformatics/Machine Learning/Biomarker Discovery Postdoctoral Fellow](https://jobright.ai/jobs/info/6720de193e3cf99dd4a5617c?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Oct 28 |
-| **[ORAU](https://www.orau.org/)** | **[2025 DEVCOM ARL Summer Student Experience: End-to-End Data Science Workflows on High Performance Computing Machines](https://jobright.ai/jobs/info/671f65cd19abd8f9661ec124?utm_campaign=1066&utm_source=git)** | Aberdeen, MD | On Site | Oct 28 |
-| **[Concord](https://concord.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/671f36b2ee8b7157e2311899?utm_campaign=1066&utm_source=git)** | Nashville, TN | On Site | Oct 27 |
-| **[Ingredion Incorporated](http://ingredion.com)** | **[Analytics Power BI Development Intern (Summer 2025)](https://jobright.ai/jobs/info/66e495ece44fe7310e8ccf87?utm_campaign=1066&utm_source=git)** | Westchester, IL | On Site | Oct 27 |
-| **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Product Data Analyst](https://jobright.ai/jobs/info/66e4a2adba227f94793e8bf0?utm_campaign=1066&utm_source=git)** | Cincinnati Metro | Hybrid | Oct 27 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Digital Analytics Intern, Spring 2025](https://jobright.ai/jobs/info/671f1123538783a582eac1a4?utm_campaign=1066&utm_source=git)** | Celebration, FL, USA | Hybrid | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
