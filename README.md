@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Circle K](http://www.circlek.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/672f4d377d1b770370e64c06?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Nov 09 |
+| **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, GenAI Llama Multimodal Data Research (PhD)](https://jobright.ai/jobs/info/67125dea86a7631cfcc2a209?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Nov 09 |
+| **[PIM Brands, Inc.](https://pimbrands.com)** | **[Master Data Coordinator Intern](https://jobright.ai/jobs/info/6712e350cbf571fa7607880a?utm_campaign=1066&utm_source=git)** | Park Ridge, NJ | On Site | Nov 09 |
+| **[DriveTime](https://www.drivetime.com)** | **[Data Science Intern (Summer 2025)](https://jobright.ai/jobs/info/671c77bd110804783ab43468?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Nov 09 |
+| **[GSD&M](http://www.gsdm.com)** | **[Spring 2025 - Analytics Assistant](https://jobright.ai/jobs/info/672f3237caf102a990808956?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Nov 09 |
 | **[ASML](https://www.asml.com)** | **[Internship - Business Performance Engineering - Data Analyst](https://jobright.ai/jobs/info/672eeae7e94a95c880b508a4?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Nov 08 |
 | **[Truveta](https://www.truveta.com/)** | **[Clinical Data Analyst Intern](https://jobright.ai/jobs/info/672ee65cd59dadc015dd96e4?utm_campaign=1066&utm_source=git)** | Greater Seattle Area | On Site | Nov 08 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Business Intelligence Analyst, Critical Operations Reporting and Analytics Internship](https://jobright.ai/jobs/info/672ecc7769f6762be92074aa?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Nov 08 |
@@ -105,7 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/671cda78063fc7ed63c8acee?utm_campaign=1066&utm_source=git)** | California, United States | On Site | Nov 07 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/67125763cf29a50fb54c441d?utm_campaign=1066&utm_source=git)** | Arizona, United States | On Site | Nov 07 |
 | **[The Johns Hopkins University Applied Physics Laboratory](http://jhuapl.edu/)** | **[2025 Internship – National Security Affordability Analyst or Data Scientist](https://jobright.ai/jobs/info/672db486ebb37fc59b6770a8?utm_campaign=1066&utm_source=git)** | Laurel, MD | On Site | Nov 07 |
-| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Database Analyst (DBA) Intern](https://jobright.ai/jobs/info/672eb60fab8f07eac41771e7?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | On Site | Nov 07 |
+| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Database Analyst (DBA) Intern](https://jobright.ai/jobs/info/672eb60fab8f07eac417720e?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | On Site | Nov 07 |
 | **[Paramount](https://www.paramount.com)** | **[Data Internships (Summer 2025, Hybrid - NYC/LA)](https://jobright.ai/jobs/info/67297f356abe2e9d5f9cd8e1?utm_campaign=1066&utm_source=git)** | Burbank, CA | Hybrid | Nov 07 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/6710b3c8809b9a74eb8d2fe5?utm_campaign=1066&utm_source=git)** | Washington, United States | On Site | Nov 07 |
 | **[Moody's](https://www.moodysanalytics.com)** | **[Research Analyst Summer Intern](https://jobright.ai/jobs/info/672d917eab629eeb6a44215b?utm_campaign=1066&utm_source=git)** | King of Prussia, PA | On Site | Nov 07 |
@@ -140,7 +145,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Analytics & Insights Intern](https://jobright.ai/jobs/info/672ce0847ccdc5947caa1cef?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 07 |
 | **[The Pew Charitable Trusts](http://www.pewtrusts.org/en)** | **[Intern, Content Analysis – Religion and World Affairs, Winter/Spring 2025](https://jobright.ai/jobs/info/672cd7d6c31e4a6f5c1879d7?utm_campaign=1066&utm_source=git)** | Washington, DC (Pew Research Center) | On Site | Nov 07 |
 | **[Aptiv](http://www.aptiv.com)** | **[Vehicle System Data Analytic Intern](https://jobright.ai/jobs/info/671b2fc5fdfd1447332dabcc?utm_campaign=1066&utm_source=git)** | Troy, MI | On Site | Nov 07 |
-| **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Redmond](https://jobright.ai/jobs/info/6710aff4ba29c1cb08e1850d?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Nov 07 |
+| **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/6710af14ba29c1cb08e180aa?utm_campaign=1066&utm_source=git)** | Tennessee, United States | On Site | Nov 07 |
+| ↳ | **[Data Science: PhD Internship Opportunities - Redmond](https://jobright.ai/jobs/info/6710aff4ba29c1cb08e1850d?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Nov 07 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/6710b326809b9a74eb8d2d3e?utm_campaign=1066&utm_source=git)** | Hawaii, United States | On Site | Nov 07 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/6710b3c8809b9a74eb8d2f04?utm_campaign=1066&utm_source=git)** | Louisiana, United States | On Site | Nov 07 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/6710caf5882f8c7a65a8d10f?utm_campaign=1066&utm_source=git)** | South Carolina, United States | On Site | Nov 07 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Workplace Infrastructure & Analytics - Data Analyst)](https://jobright.ai/jobs/info/66f3dfde49c757f5ebe3b7ba?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 07 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern- Tableau Research](https://jobright.ai/jobs/info/672cd7ceb61150486af2ef20?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Nov 07 |
 | **[Labcorp](https://www.labcorp.com/)** | **[Crisis Management Analyst Intern](https://jobright.ai/jobs/info/67103b7fae5542dc1aaf30f0?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Nov 07 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern- Tableau Research](https://jobright.ai/jobs/info/672cc7137e3b872a4974e79a?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Nov 07 |
-| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Predictive Finance](https://jobright.ai/jobs/info/67103e8706a1d0c95e53f69b?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Nov 07 |
-| ↳ | **[2025 Intern - Finance Data Scientist](https://jobright.ai/jobs/info/6710304024b86d8ca8833fd5?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 07 |
-| **[Trimble Inc.](http://www.trimble.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/66f7c003aa62783f5501b685?utm_campaign=1066&utm_source=git)** | Dayton, OH | On Site | Nov 07 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Quality Control Data Analyst](https://jobright.ai/jobs/info/672c73187d31ae7e87e3a8f6?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Nov 06 |
-| **[John Deere](https://www.deere.com)** | **[Part-Time Student Data Analytics - Waterloo, IA](https://jobright.ai/jobs/info/672c6ba7879aa41ec7f39adc?utm_campaign=1066&utm_source=git)** | Waterloo, IA | Hybrid | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
