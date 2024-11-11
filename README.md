@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Business Intelligence Internship - Summer 2025](https://jobright.ai/jobs/info/66bfce630e58ac9ff69d9f5c?utm_campaign=1066&utm_source=git)** | Glenview, IL | On Site | Nov 10 |
 | ↳ | **[Business Intelligence Internship - Summer 2025](https://jobright.ai/jobs/info/66bfe476d332064e955dc92c?utm_campaign=1066&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 10 |
 | **[Camping World](http://www.campingworld.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/672d5ed7e054cfb1d33d9fbe?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 09 |
+| **[Acxiom](http://www.acxiom.com)** | **[Intern - Delivery Analyst (SPRING) - Conway, AR](https://jobright.ai/jobs/info/671b129218c735e928824885?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 09 |
 | **[Intuit](https://www.intuit.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/672fb5cd5efe279dd5db45ef?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Nov 09 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/672fb5cd5efe279dd5db4621?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 09 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/672fb5cd5efe279dd5db4622?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Nov 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/6710cbba882f8c7a65a8d38c?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Nov 07 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - EABI](https://jobright.ai/jobs/info/672d73d8810a3088675d7870?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Nov 07 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/6710b3c8809b9a74eb8d301d?utm_campaign=1066&utm_source=git)** | New Mexico, United States | On Site | Nov 07 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Collections Data Analyst Intern](https://jobright.ai/jobs/info/672d6567df01e4455074987c?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
