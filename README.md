@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dexcom](http://www.dexcom.com)** | **[Intern I - Clinical Data Analyst](https://jobright.ai/jobs/info/6731df6f0360bbb17c9a5f61?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 11 |
+| **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2025 Summer]](https://jobright.ai/jobs/info/66a3e896b020465e7d35d056?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Nov 11 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[MBA Sr. Data Analyst Intern - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6731ca1f9690e064bd249ac3?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | Remote | Nov 11 |
 | ↳ | **[MBA Sr. Data Analyst Intern - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6731c5d4a6dacf778f70378a?utm_campaign=1066&utm_source=git)** | USA - Remote, CA | Remote | Nov 11 |
 | **[Invesco US](http://www.invesco.com/us)** | **[Client Research Intern](https://jobright.ai/jobs/info/6730eb437454315f9557784a?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Nov 10 |
@@ -109,10 +111,10 @@ For a complete list, click the following sortable link below:
 | **[Recursion](https://www.recursion.com)** | **[Biostatistics Internship - SLC](https://jobright.ai/jobs/info/672e8adf12058b00ba563405?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Nov 08 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Computational Social Science](https://jobright.ai/jobs/info/672e90e971dd777880e8f40b?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | **[Numerator](http://numerator.com)** | **[Survey Research Intern](https://jobright.ai/jobs/info/672e993a52f1b20d0a073cc4?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 08 |
-| **[Vail Systems](http://www.vailsys.com/)** | **[Data Analyst Intern (Summer 2025)](https://jobright.ai/jobs/info/672e7dff437919e80aa3b1c4?utm_campaign=1066&utm_source=git)** | Greater Chicago Area | Hybrid | Nov 08 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/672e7a7a503a5d105872393f?utm_campaign=1066&utm_source=git)** | Bedford, MA | Hybrid | Nov 08 |
 | **[Red Ventures](http://www.redventures.com)** | **[2025 Launch Program: Data Science Intern](https://jobright.ai/jobs/info/672e78bc4e411477f97ca66a?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Nov 08 |
 | **[Fred Hutch](http://www.fredhutch.org/)** | **[Research Intern (Temporary)](https://jobright.ai/jobs/info/672e9441f44d10ba109491dc?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Nov 08 |
+| **[Vail Systems](http://www.vailsys.com/)** | **[Data Analyst Intern (Summer 2025)](https://jobright.ai/jobs/info/672e882566be2bb9a0dec8c6?utm_campaign=1066&utm_source=git)** | Greater Chicago Area | Hybrid | Nov 08 |
 | **[Empower](https://www.empower.com)** | **[Summer 2025 Intern – Business Data Analyst](https://jobright.ai/jobs/info/672e6676f66960fa3a894bf9?utm_campaign=1066&utm_source=git)** | MA Boston - Federal St | Hybrid | Nov 08 |
 | ↳ | **[Summer 2025 Intern – Business Data Analyst](https://jobright.ai/jobs/info/672e6676f66960fa3a894c1c?utm_campaign=1066&utm_source=git)** | CT Hartford | Hybrid | Nov 08 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Statistics Summer Intern, Biometrics (Multiple Locations)](https://jobright.ai/jobs/info/672e6de7ae70eafa9ff003eb?utm_campaign=1066&utm_source=git)** | Gaithersburg, MD | On Site | Nov 08 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/6710b3c8809b9a74eb8d302c?utm_campaign=1066&utm_source=git)** | Georgia, United States | On Site | Nov 07 |
 | **[Ameritas](http://www.ameritas.com)** | **[Data Analytics Intern - Reinsurance](https://jobright.ai/jobs/info/6731a6e71203502b2b08337c?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 07 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/671f18fa5c0ad0742f3c8cfb?utm_campaign=1066&utm_source=git)** | Minnesota, United States | On Site | Nov 07 |
+| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Database Analyst (DBA) Intern](https://jobright.ai/jobs/info/6731a1ab92e535ba7fdb056a?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 07 |
 | **[The Johns Hopkins University Applied Physics Laboratory](http://jhuapl.edu/)** | **[2025 Internship – National Security Affordability Analyst or Data Scientist](https://jobright.ai/jobs/info/672db486ebb37fc59b6770a8?utm_campaign=1066&utm_source=git)** | Laurel, MD | On Site | Nov 07 |
-| **[Microsoft](https://www.microsoft.com)** | **[Data Science: Internship Opportunities - Redmond](https://jobright.ai/jobs/info/6713874ee4d275a42577a547?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Nov 07 |
-| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2025 - Database Analyst (DBA) Intern](https://jobright.ai/jobs/info/673192e53fbfbe06f19f97bc?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 07 |
-| ↳ | **[Summer Internship Program 2025 - Database Analyst (DBA) Intern](https://jobright.ai/jobs/info/672eb60fab8f07eac417720e?utm_campaign=1066&utm_source=git)** | Atlanta, GA, US | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
