@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ACT Group](https://actcommodities.com)** | **[Summer 2025 Quantitative Analyst Intern](https://jobright.ai/jobs/info/6747de14459d0b520d0a3f9c?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Nov 27 |
+| **[StepStone Group](https://www.stepstoneglobal.com)** | **[SPAR - Research Analytics Junior Analyst](https://jobright.ai/jobs/info/6747bc4c53ae1636b8da27ea?utm_campaign=1066&utm_source=git)** | La Jolla, CA | Hybrid | Nov 27 |
 | **[Zoox](https://www.zoox.com/)** | **[Test Bench and Data Analysis Engineer Intern](https://jobright.ai/jobs/info/6747a18ec16fb5351928669d?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Nov 27 |
 | **[Natera](https://www.natera.com/)** | **[Bioinformatics Scientist Intern](https://jobright.ai/jobs/info/67479c17f025da7576f9061b?utm_campaign=1066&utm_source=git)** | San Carlos, CA | Hybrid | Nov 27 |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern - Pharmacy Aggregation Group](https://jobright.ai/jobs/info/6747a5a09b4663e8065e2ab0?utm_campaign=1066&utm_source=git)** | Irving, TX | Hybrid | Nov 27 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Data Science Intern - IT Services](https://jobright.ai/jobs/info/6747a13fb22ac1b028a73df2?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Nov 27 |
-| **[ACT Group](https://actcommodities.com)** | **[Summer 2025 Quantitative Analyst Intern](https://jobright.ai/jobs/info/67479ed6034f5bfe0d511638?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[Visa](https://www.visa.com)** | **[Data Science, Intern – Summer 2025](https://jobright.ai/jobs/info/674798c5c9d875ad4cb5f6f0?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 27 |
 | ↳ | **[Data Science Intern, Visa Predictive Models - Summer 2025](https://jobright.ai/jobs/info/674798c5c9d875ad4cb5f6f1?utm_campaign=1066&utm_source=git)** | Foster City, CA | Hybrid | Nov 27 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Business Intelligence Developer/Analyst Internship (Summer 2025)](https://jobright.ai/jobs/info/67478c42d610e5439e5dbe2d?utm_campaign=1066&utm_source=git)** | Westerville, OH | On Site | Nov 27 |
@@ -107,7 +108,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67463d4ff9780a257a0e3719?utm_campaign=1066&utm_source=git)** | Lawrence, MA | Hybrid | Nov 26 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67463d4ff9780a257a0e371a?utm_campaign=1066&utm_source=git)** | Leominster, MA | Hybrid | Nov 26 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67463d4ff9780a257a0e371d?utm_campaign=1066&utm_source=git)** | Westminster, MA | Hybrid | Nov 26 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/67463d4ff9780a257a0e371f?utm_campaign=1066&utm_source=git)** | Gardner, MA | Hybrid | Nov 26 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/674638fc954efe7ed4ef68c3?utm_campaign=1066&utm_source=git)** | Ayer, MA | Hybrid | Nov 26 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/674638fc954efe7ed4ef68cf?utm_campaign=1066&utm_source=git)** | Clinton, MA | Hybrid | Nov 26 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/674638fc954efe7ed4ef68f1?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Nov 26 |
@@ -136,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Zoox](https://www.zoox.com/)** | **[Quantitative Risk Intern](https://jobright.ai/jobs/info/67453889fdba9e6ea3b7d3bb?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Nov 25 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Observability and Data Analytics Intern](https://jobright.ai/jobs/info/6745419ca3e0cb7a67260fc9?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Nov 25 |
 | ↳ | **[Summer 2025 Observability and Data Analytics Intern](https://jobright.ai/jobs/info/6745419ca3e0cb7a67261022?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Nov 25 |
-| **[Commerce Bank](https://www.commercebank.com/)** | **[Data Analyst Intern - EABI](https://jobright.ai/jobs/info/674536e27c9b650b60b8e686?utm_campaign=1066&utm_source=git)** | Clayton, MO | Hybrid | Nov 25 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Data Science](https://jobright.ai/jobs/info/67452bb02f5378bda6535479?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 25 |
 | **[Inari Medical](http://inarimedical.com/)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/67452bb02f5378bda6535489?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Nov 25 |
 | **[84 Lumber](http://www.84lumber.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/67451e126e900c720544c774?utm_campaign=1066&utm_source=git)** | Eighty Four, PA | On Site | Nov 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Health Informatics Intern, Health Services (Corporate)](https://jobright.ai/jobs/info/6744c19453e9640566802208?utm_campaign=1066&utm_source=git)** | 3655 NW 87th Avenue, Miami, FL, 33178, US | Hybrid | Nov 25 |
 | **[The RealReal](http://www.therealreal.com)** | **[Analytics Engineer Intern - Summer 2025](https://jobright.ai/jobs/info/6744b8b3bf0ee7ef3777bc36?utm_campaign=1066&utm_source=git)** | Perth Amboy, NJ | On Site | Nov 25 |
 | **[IBM](http://www.ibm.com)** | **[2025 Intern – Digital Analytics Intern](https://jobright.ai/jobs/info/6744b3ca6e7f074befac5404?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 25 |
+| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Automated Underwriting Intern (Summer 2025)](https://jobright.ai/jobs/info/6744b088b8d87fe0bc775033?utm_campaign=1066&utm_source=git)** | One Park Circle, Westfield Center, OH, 44251-5001, US | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
