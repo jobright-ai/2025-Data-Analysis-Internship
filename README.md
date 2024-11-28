@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leidos](https://www.leidos.com/)** | **[Tech Refresh/Data Analyst Intern](https://jobright.ai/jobs/info/6747fc0732b0e5f4eda95edb?utm_campaign=1066&utm_source=git)** | Alexandria, VA | On Site | Nov 27 |
+| **[National Heritage Academies](https://www.nhaschools.com)** | **[Data Analytics Intern NEX YR](https://jobright.ai/jobs/info/6747ec6a64a6d466fa486a2d?utm_campaign=1066&utm_source=git)** | 3850 Broadmoor Ave SE, Grand Rapids, MI, 49512, US | On Site | Nov 27 |
 | **[ACT Group](https://actcommodities.com)** | **[Summer 2025 Quantitative Analyst Intern](https://jobright.ai/jobs/info/6747de14459d0b520d0a3f9c?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Nov 27 |
 | **[StepStone Group](https://www.stepstoneglobal.com)** | **[SPAR - Research Analytics Junior Analyst](https://jobright.ai/jobs/info/6747bc4c53ae1636b8da27ea?utm_campaign=1066&utm_source=git)** | La Jolla, CA | Hybrid | Nov 27 |
-| **[Zoox](https://www.zoox.com/)** | **[Test Bench and Data Analysis Engineer Intern](https://jobright.ai/jobs/info/6747a18ec16fb5351928669d?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Nov 27 |
+| **[Zoox](https://www.zoox.com/)** | **[Test Bench and Data Analysis Engineer Intern](https://jobright.ai/jobs/info/6747b0464b0a1aebba5def99?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Nov 27 |
+| ↳ | **[Test Bench and Data Analysis Engineer Intern](https://jobright.ai/jobs/info/6747a18ec16fb5351928669d?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Nov 27 |
 | **[Natera](https://www.natera.com/)** | **[Bioinformatics Scientist Intern](https://jobright.ai/jobs/info/67479c17f025da7576f9061b?utm_campaign=1066&utm_source=git)** | San Carlos, CA | Hybrid | Nov 27 |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern - Pharmacy Aggregation Group](https://jobright.ai/jobs/info/6747a5a09b4663e8065e2ab0?utm_campaign=1066&utm_source=git)** | Irving, TX | Hybrid | Nov 27 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Data Science Intern - IT Services](https://jobright.ai/jobs/info/6747a13fb22ac1b028a73df2?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Nov 27 |
@@ -97,21 +100,17 @@ For a complete list, click the following sortable link below:
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Economics Intern](https://jobright.ai/jobs/info/6746572e9492827c0bfd70d7?utm_campaign=1066&utm_source=git)** | Norcross, GA | On Site | Nov 26 |
 | **[Rice University](http://www.rice.edu)** | **[Postdoctoral Associate - Sociology](https://jobright.ai/jobs/info/6736c5516fc2f026059f8317?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Nov 26 |
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Research Intern](https://jobright.ai/jobs/info/673bab0d7926fa7e2bf112e9?utm_campaign=1066&utm_source=git)** | Kansas City, MO | Hybrid | Nov 26 |
-| **[Southern Environmental Law Center](https://southernenvironment.org)** | **[Geospatial Data Intern -Spring Semester 2025](https://jobright.ai/jobs/info/6746419881fec35e7e33ea6f?utm_campaign=1066&utm_source=git)** | Chapel Hill, NC | On Site | Nov 26 |
+| **[Southern Environmental Law Center](https://southernenvironment.org)** | **[Geospatial Data Intern](https://jobright.ai/jobs/info/6746419881fec35e7e33ea6f?utm_campaign=1066&utm_source=git)** | Chapel Hill, NC | Hybrid | Nov 26 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Data Science Analyst Co-op - Winter 2024/Spring 2025](https://jobright.ai/jobs/info/670d91d2e50cb81924a52bc7?utm_campaign=1066&utm_source=git)** | Portland, ME | Hybrid | Nov 26 |
 | **[Making Opportunity Count](https://www.mocinc.org/)** | **[Intern](https://jobright.ai/jobs/info/674648e48a63ab2e30a4a044?utm_campaign=1066&utm_source=git)** | Milford, MA | On Site | Nov 26 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/674648e48a63ab2e30a4a04c?utm_campaign=1066&utm_source=git)** | Concord, MA | On Site | Nov 26 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/674648e48a63ab2e30a4a055?utm_campaign=1066&utm_source=git)** | Winchendon, MA | On Site | Nov 26 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/674648e48a63ab2e30a4a05a?utm_campaign=1066&utm_source=git)** | Barre, MA | On Site | Nov 26 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/674638fc954efe7ed4ef6880?utm_campaign=1066&utm_source=git)** | Shrewsbury, MA | Hybrid | Nov 26 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/674638fc954efe7ed4ef6307?utm_campaign=1066&utm_source=git)** | Devens, MA | Hybrid | Nov 26 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/67463d4ff9780a257a0e3719?utm_campaign=1066&utm_source=git)** | Lawrence, MA | Hybrid | Nov 26 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/67463d4ff9780a257a0e371a?utm_campaign=1066&utm_source=git)** | Leominster, MA | Hybrid | Nov 26 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/67463d4ff9780a257a0e371d?utm_campaign=1066&utm_source=git)** | Westminster, MA | Hybrid | Nov 26 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/674638fc954efe7ed4ef68c3?utm_campaign=1066&utm_source=git)** | Ayer, MA | Hybrid | Nov 26 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/67463d4ff9780a257a0e3719?utm_campaign=1066&utm_source=git)** | Lawrence, MA | Hybrid | Nov 26 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/674638fc954efe7ed4ef68cf?utm_campaign=1066&utm_source=git)** | Clinton, MA | Hybrid | Nov 26 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/674638fc954efe7ed4ef68f1?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Nov 26 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/674638fc954efe7ed4ef6900?utm_campaign=1066&utm_source=git)** | Acton, MA | Hybrid | Nov 26 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/674648e48a63ab2e30a4a0ed?utm_campaign=1066&utm_source=git)** | Watertown, MA | On Site | Nov 26 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Economics Intern](https://jobright.ai/jobs/info/674630600fb620388f669b40?utm_campaign=1066&utm_source=git)** | Norcross, GA | On Site | Nov 26 |
 | **[Percheron, LLC](http://www.percheronllc.com)** | **[GIS Intern](https://jobright.ai/jobs/info/67461fa50ce5e70b6f691597?utm_campaign=1066&utm_source=git)** | Katy, TX | On Site | Nov 26 |
@@ -124,11 +123,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AADS Decision Analytics Internship - MS](https://jobright.ai/jobs/info/6745e33cc84a7154c1d32c76?utm_campaign=1066&utm_source=git)** | US, Indianapolis IN | On Site | Nov 26 |
 | **[Cummins Inc.](https://www.cummins.com/)** | **[Business Analytics - School to Work - Hybrid](https://jobright.ai/jobs/info/671c4dd5b52b09468c22ce22?utm_campaign=1066&utm_source=git)** | Florence, KY | Hybrid | Nov 26 |
 | **[MassMutual](https://www.massmutual.com/)** | **[Analyst Intern, immerse - Summer 2025](https://jobright.ai/jobs/info/6745df1125153af60a80f63e?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Nov 26 |
-| **[CPower Energy](https://cpowerenergy.com)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/67450279095490c374fa6a59?utm_campaign=1066&utm_source=git)** | Baltimore, MD | Hybrid | Nov 26 |
 | **[ISO New England Inc.](http://www.iso-ne.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/66f207a461c467f7d35fd1da?utm_campaign=1066&utm_source=git)** | Holyoke, MA | On Site | Nov 26 |
 | **[Netflix](https://www.netflix.com)** | **[Experimentation & Causal Inference Intern, Summer 2025](https://jobright.ai/jobs/info/6729a1ed75e343cf75934668?utm_campaign=1066&utm_source=git)** | Los Gatos, CA | On Site | Nov 26 |
 | **[Raven Industries](http://ravenind.com)** | **[Data Scientist - Python Intern](https://jobright.ai/jobs/info/670df88f50eb7d79d9e345f4?utm_campaign=1066&utm_source=git)** | Cook County, IL | On Site | Nov 26 |
 | **[Four Hands](https://fourhands.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6746f4d4048849db94f827a2?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Nov 26 |
+| **[Schonfeld](http://www.schonfeld.com/)** | **[2025 Quant Research Summer Intern](https://jobright.ai/jobs/info/67483152bce81d58ce2e7881?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 26 |
 | **[AQR Capital Management](https://www.aqr.com)** | **[2025 Quantitative Research Development Summer Analyst](https://jobright.ai/jobs/info/674587df00987e2394127625?utm_campaign=1066&utm_source=git)** | Greenwich, CT | On Site | Nov 26 |
 | **[Zoox](https://www.zoox.com/)** | **[Quantitative Risk Intern](https://jobright.ai/jobs/info/6745615c5379b2632f24ba22?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Nov 25 |
 | **[Cisco](http://www.cisco.com)** | **[Data Science Intern, Generative AI Infrastructure (Meraki)](https://jobright.ai/jobs/info/67454442281a36e1e1510ac4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Nov 25 |
@@ -143,12 +142,13 @@ For a complete list, click the following sortable link below:
 | **[Voith Group](https://voith.com/corp-en/index.html)** | **[SPEC Intern](https://jobright.ai/jobs/info/67450a0df2d2a9f3a709fb38?utm_campaign=1066&utm_source=git)** | York, PA | On Site | Nov 25 |
 | **[ETS](http://www.ets.org)** | **[2025 Ida Lawrence Research Summer Internship Program](https://jobright.ai/jobs/info/6744ff5c69ac708940ea7f42?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Remote | Nov 25 |
 | **[Carnival Cruise Line](http://www.carnival.com)** | **[Health Informatics Intern, Health Services (Corporate)](https://jobright.ai/jobs/info/6744fc202c19e55d27d4793f?utm_campaign=1066&utm_source=git)** | Miami, FL | Hybrid | Nov 25 |
+| **[CPower Energy](https://cpowerenergy.com)** | **[Business Intelligence Developer](https://jobright.ai/jobs/info/67450279095490c374fa6a59?utm_campaign=1066&utm_source=git)** | Baltimore, MD | Hybrid | Nov 25 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Intern Summer 2025, IT Data Analytics (ACoE)](https://jobright.ai/jobs/info/6744eca5d01db1421b25679d?utm_campaign=1066&utm_source=git)** | Detroit, MI | Hybrid | Nov 25 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[MBA Sales Commission Data Analyst Intern (Remote)](https://jobright.ai/jobs/info/6744e7992a494ba3baea06b7?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | Remote | Nov 25 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Undergraduate Intern - Data Science AI&I (On-site)](https://jobright.ai/jobs/info/6744f7b8f9e4cc0a0d79d44b?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | Nov 25 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[MBA Sales Commission Data Analyst Intern (Remote)](https://jobright.ai/jobs/info/6744e1cfe8ee90a00d35e12c?utm_campaign=1066&utm_source=git)** | USA - Remote, CA | Remote | Nov 25 |
 | **[Schneider Electric](https://www.se.com)** | **[Data Analyst Intern (Summer 2025)](https://jobright.ai/jobs/info/6744eca5d01db1421b25694b?utm_campaign=1066&utm_source=git)** | Foxborough (Foxboro), MA | On Site | Nov 25 |
-| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Reporting & Analytics (Early Careers)](https://jobright.ai/jobs/info/6744de015abff3594e0eedd7?utm_campaign=1066&utm_source=git)** | US - TX - HOUSTON | On Site | Nov 25 |
+| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Reporting & Analytics (Early Careers)](https://jobright.ai/jobs/info/6744de015abff3594e0eed0c?utm_campaign=1066&utm_source=git)** | US - TX - HOUSTON | On Site | Nov 25 |
 | **[Panasonic Energy of North America](https://www.panasonicnv.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/66e4d858b40004178cd09835?utm_campaign=1066&utm_source=git)** | De Soto, KS | On Site | Nov 25 |
 | **[Inari Medical](http://inarimedical.com/)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/6744cf2b17757d023b427689?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Nov 25 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - HanaHaus Business Intelligence Analyst [Newport Beach, CA]](https://jobright.ai/jobs/info/6744cfd4e4c45a3cbae98199?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | Hybrid | Nov 25 |
