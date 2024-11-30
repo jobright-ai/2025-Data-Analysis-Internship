@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[CDx Data Science Intern 2025](https://jobright.ai/jobs/info/674a6ada8886127e2b8b6d26?utm_campaign=1066&utm_source=git)** | Arden Hills, MN | On Site | Nov 29 |
 | **[Cortex](http://www.cortex-intelligence.com)** | **[Intern Data Science](https://jobright.ai/jobs/info/674a392103d9ec741c03ab14?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 29 |
 | **[UT Southwestern Medical Center](https://utswmed.org)** | **[Postdoctoral Researcher](https://jobright.ai/jobs/info/6749f9dc60f768985ee9f741?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Nov 29 |
+| **[Lucid Software](https://lucid.co)** | **[Data Analyst Internship 2025](https://jobright.ai/jobs/info/674a86f95b71d72cec5e8aa4?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 29 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/6710b3c8809b9a74eb8d2eed?utm_campaign=1066&utm_source=git)** | Michigan, United States | On Site | Nov 29 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/6719f1cce5dd250a508bbc22?utm_campaign=1066&utm_source=git)** | Wisconsin, United States | On Site | Nov 29 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/6710b3c8809b9a74eb8d301d?utm_campaign=1066&utm_source=git)** | New Mexico, United States | On Site | Nov 29 |
+| ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/671cda78063fc7ed63c8acee?utm_campaign=1066&utm_source=git)** | California, United States | On Site | Nov 29 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Summer 2025](https://jobright.ai/jobs/info/67119961d02686d58fe30c3d?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 29 |
 | ↳ | **[Clinical Data Intern - Spring 2025](https://jobright.ai/jobs/info/6711b16abe17a6a4f42d2d75?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 29 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/672d4531b0cdbcc7e80da338?utm_campaign=1066&utm_source=git)** | Westminster, CO | On Site | Nov 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CPower Energy](https://cpowerenergy.com)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/67450279095490c374fa6a59?utm_campaign=1066&utm_source=git)** | Baltimore, MD | Hybrid | Nov 26 |
 | **[ISO New England Inc.](http://www.iso-ne.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/66f207a461c467f7d35fd1da?utm_campaign=1066&utm_source=git)** | Holyoke, MA | On Site | Nov 26 |
 | **[Netflix](https://www.netflix.com)** | **[Experimentation & Causal Inference Intern, Summer 2025](https://jobright.ai/jobs/info/6729a1ed75e343cf75934668?utm_campaign=1066&utm_source=git)** | Los Gatos, CA | On Site | Nov 26 |
-| **[Raven Industries](http://ravenind.com)** | **[Data Scientist - Python Intern](https://jobright.ai/jobs/info/670df88f50eb7d79d9e345f4?utm_campaign=1066&utm_source=git)** | Cook County, IL | On Site | Nov 26 |
-| **[Four Hands](https://fourhands.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6746f4d4048849db94f827a2?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Nov 26 |
-| **[Schonfeld](http://www.schonfeld.com/)** | **[2025 Quant Research Summer Intern - Ft. Lauderdale / Miami](https://jobright.ai/jobs/info/674988e522f21fa6a6bcc646?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
