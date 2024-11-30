@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cortex](http://www.cortex-intelligence.com)** | **[Intern Data Science](https://jobright.ai/jobs/info/674a392103d9ec741c03ab14?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 29 |
 | **[UT Southwestern Medical Center](https://utswmed.org)** | **[Postdoctoral Researcher](https://jobright.ai/jobs/info/6749f9dc60f768985ee9f741?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Nov 29 |
-| **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/6719f1cce5dd250a508bbc22?utm_campaign=1066&utm_source=git)** | Wisconsin, United States | On Site | Nov 29 |
+| **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/6710b3c8809b9a74eb8d2eed?utm_campaign=1066&utm_source=git)** | Michigan, United States | On Site | Nov 29 |
+| ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/6719f1cce5dd250a508bbc22?utm_campaign=1066&utm_source=git)** | Wisconsin, United States | On Site | Nov 29 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/6710b3c8809b9a74eb8d301d?utm_campaign=1066&utm_source=git)** | New Mexico, United States | On Site | Nov 29 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Summer 2025](https://jobright.ai/jobs/info/67119961d02686d58fe30c3d?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 29 |
 | ↳ | **[Clinical Data Intern - Spring 2025](https://jobright.ai/jobs/info/6711b16abe17a6a4f42d2d75?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 29 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/672d4531b0cdbcc7e80da338?utm_campaign=1066&utm_source=git)** | Westminster, CO | On Site | Nov 29 |
+| **[Acxiom](http://www.acxiom.com)** | **[Intern - Data Scientist (SPRING) - DETROIT METRO](https://jobright.ai/jobs/info/672c187df402915f89eaa656?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 28 |
 | **[DLL](http://dllgroup.com)** | **[Commercial Finance Operations Data Analytics Intern](https://jobright.ai/jobs/info/6748d5014e80061ac1aab7b3?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Nov 28 |
 | **[Louisville Presbyterian Theological Seminary](http://www.lpts.edu/)** | **[Sun-Walking Fellowship Student Worker (Data Assistant) 2024–2025](https://jobright.ai/jobs/info/6748df0ad3548eb1251e9124?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Nov 28 |
 | **[DriveTime](https://www.drivetime.com)** | **[Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/6748a080a441acc88fdf89a4?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Nov 28 |
@@ -103,6 +106,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6747814f61ca29d200df47ef?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Nov 27 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6747814f61ca29d200df47f0?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 27 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6747814f61ca29d200df47f2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 27 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst-  BSA/AML/OFAC)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e46b?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 27 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[PT BUSINESS ANALYTICS INTERN, YEAR ROUND](https://jobright.ai/jobs/info/674763a7a5350a07c2e5f68d?utm_campaign=1066&utm_source=git)** | Evansville, IN | On Site | Nov 27 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Business Intelligence Developer/Analyst Internship (Summer 2025)](https://jobright.ai/jobs/info/674750c684acc02542c44033?utm_campaign=1066&utm_source=git)** | Westerville, OH, United States | On Site | Nov 27 |
 | **[Babson College](http://www.babson.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/67474d8780eee2d437e1ce3d?utm_campaign=1066&utm_source=git)** | Wellesley MA | On Site | Nov 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Raven Industries](http://ravenind.com)** | **[Data Scientist - Python Intern](https://jobright.ai/jobs/info/670df88f50eb7d79d9e345f4?utm_campaign=1066&utm_source=git)** | Cook County, IL | On Site | Nov 26 |
 | **[Four Hands](https://fourhands.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6746f4d4048849db94f827a2?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Nov 26 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2025 Quant Research Summer Intern - Ft. Lauderdale / Miami](https://jobright.ai/jobs/info/674988e522f21fa6a6bcc646?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Nov 26 |
-| **[AQR Capital Management](https://www.aqr.com)** | **[2025 Quantitative Research Development Summer Analyst](https://jobright.ai/jobs/info/674587df00987e2394127625?utm_campaign=1066&utm_source=git)** | Greenwich, CT | On Site | Nov 26 |
-| **[Zoox](https://www.zoox.com/)** | **[Quantitative Risk Intern](https://jobright.ai/jobs/info/6745615c5379b2632f24ba22?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Nov 25 |
-| **[Cisco](http://www.cisco.com)** | **[Data Science Intern, Generative AI Infrastructure (Meraki)](https://jobright.ai/jobs/info/67454442281a36e1e1510ac4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Nov 25 |
-| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Reporting & Analytics (Early Careers)](https://jobright.ai/jobs/info/67453c44c332f96efe0f2223?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
