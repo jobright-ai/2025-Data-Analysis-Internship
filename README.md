@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[J-U-B ENGINEERS, Inc.](http://jub.com)** | **[GIS Intern 2024-51](https://jobright.ai/jobs/info/674c182595eb2f02a4bdad60?utm_campaign=1066&utm_source=git)** | Utah, United States | On Site | Nov 30 |
 | **[University of Southern California](http://www.usc.edu)** | **[Postdoctoral Researcher](https://jobright.ai/jobs/info/674b28aa0a02076f2d11e872?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 30 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Computational Social Science](https://jobright.ai/jobs/info/672e90e971dd777880e8f40b?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 30 |
+| **[Shure Incorporated](http://www.shure.com)** | **[Web Analytics Intern](https://jobright.ai/jobs/info/66d8cb9967e86ef4ec956bcb?utm_campaign=1066&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
 | **[PIM Brands, Inc.](https://pimbrands.com)** | **[Master Data Coordinator Intern](https://jobright.ai/jobs/info/6712e350cbf571fa7607880a?utm_campaign=1066&utm_source=git)** | Park Ridge, NJ | Hybrid | Nov 30 |
+| **[ZS](https://www.zs.com/)** | **[Advanced Data Science Associate - Intern (North America-University)](https://jobright.ai/jobs/info/66e17ab09c52e95399ac8037?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Nov 30 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/66beedf075eb11c6272650a2?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Nov 30 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2025 Quantitative Analyst Internship](https://jobright.ai/jobs/info/674aed76ccbf25ae0e08c7bd?utm_campaign=1066&utm_source=git)** | Kennett Square, PA | On Site | Nov 30 |
 | **[ASML](https://www.asml.com)** | **[Internship - Business Performance Engineering - Data Analyst](https://jobright.ai/jobs/info/672eeae7e94a95c880b508a4?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Nov 30 |
@@ -67,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Data Governance)](https://jobright.ai/jobs/info/66dbbfd4314959e7109b089f?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Nov 30 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2025: Data Privacy & AI Governance Co-op (January through June)](https://jobright.ai/jobs/info/674aed09c6b71582a02fb67d?utm_campaign=1066&utm_source=git)** | Needham, MA | On Site | Nov 30 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern, Ramin Lab: Per Diem - Onsite](https://jobright.ai/jobs/info/672dfe5bc7f1c85c2b3255cf?utm_campaign=1066&utm_source=git)** | Beverly Hills, CA | On Site | Nov 30 |
+| **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/671f18fa5c0ad0742f3c8cfb?utm_campaign=1066&utm_source=git)** | Minnesota, United States | On Site | Nov 29 |
 | **[Panasonic Energy of North America](https://www.panasonicnv.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/66e4d858b40004178cd09856?utm_campaign=1066&utm_source=git)** | De Soto, KS | On Site | Nov 29 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/6710b326809b9a74eb8d2c21?utm_campaign=1066&utm_source=git)** | Maine, United States | On Site | Nov 29 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/6710af14ba29c1cb08e180c0?utm_campaign=1066&utm_source=git)** | Montana, United States | On Site | Nov 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IMEG](http://www.imegcorp.com/)** | **[Client Data Research Intern](https://jobright.ai/jobs/info/6746e72ff6a47d7e0d00df26?utm_campaign=1066&utm_source=git)** | Rock Island, IL | On Site | Nov 27 |
 | **[United Educators](https://www.ue.org/)** | **[Data Intern](https://jobright.ai/jobs/info/674973e29a71c8abf4986121?utm_campaign=1066&utm_source=git)** | Bethesda, MD | On Site | Nov 26 |
 | **[University of Phoenix](http://www.phoenix.edu)** | **[Data Diver Internship](https://jobright.ai/jobs/info/6746b09d6e093b2d0a2fccdf?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Nov 26 |
-| **[Moody's Corporation](www.moodys.com)** | **[Methodology Review Intern](https://jobright.ai/jobs/info/67468ef9e314b3ee49f4c0e5?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 26 |
-| **[Electronic Arts (EA)](http://www.ea.com)** | **[Data Science Intern - Masters/PhD](https://jobright.ai/jobs/info/67467c7d9e896a3252859155?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Nov 26 |
-| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/67466f6e0494c2da2e92c98e?utm_campaign=1066&utm_source=git)** | Savannah, GA | On Site | Nov 26 |
-| **[University of North Carolina at Chapel Hill](https://www.unc.edu/)** | **[Post-Doc Research Associate](https://jobright.ai/jobs/info/6746e72ff6a47d7e0d00df6e?utm_campaign=1066&utm_source=git)** | Chapel Hill, NC | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
