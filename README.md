@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ParetoHealth](https://paretohealth.com)** | **[Analytics Summer Intern ](https://jobright.ai/jobs/info/674ce0d6970701d7eb4c1b97?utm_campaign=1066&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Dec 01 |
+| **[ParetoHealth](https://paretohealth.com)** | **[Analytics Summer Intern](https://jobright.ai/jobs/info/674d06ac483648bb2375ff2b?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | Hybrid | Dec 01 |
+| ↳ | **[Analytics Summer Intern ](https://jobright.ai/jobs/info/674ce0d6970701d7eb4c1b97?utm_campaign=1066&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Dec 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Intern, Biometrics](https://jobright.ai/jobs/info/674c83b216409a458790b014?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Dec 01 |
 | **[ofi](https://www.ofi.com)** | **[2025 Summer Intern: Data Analyst (Food Safety & Quality Assurance)](https://jobright.ai/jobs/info/6713049b3d2fe20964cdb7a8?utm_campaign=1066&utm_source=git)** | Bayonne, NJ | On Site | Dec 01 |
 | **[Zoox](https://www.zoox.com/)** | **[Enterprise Data Governance Intern](https://jobright.ai/jobs/info/66f72de6973a2a042ecd23d6?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Dec 01 |
 | **[J-U-B ENGINEERS, Inc.](http://jub.com)** | **[GIS Intern 2024-51](https://jobright.ai/jobs/info/674c182595eb2f02a4bdad60?utm_campaign=1066&utm_source=git)** | Utah, United States | On Site | Nov 30 |
+| **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, Graph Science and Statistics Research (PhD)](https://jobright.ai/jobs/info/66e02d4afca3b1d99587a573?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Nov 30 |
 | **[Utah Transit Authority](http://www.rideuta.com/)** | **[Data Reporting and Analytics Intern](https://jobright.ai/jobs/info/674c678d39ecd4ec4eb6e664?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Nov 30 |
 | **[Sanofi](https://www.sanofi.com)** | **[mRNA Center of Excellence - Scientific Data Support Analyst - 2025 Spring Co-op - Vaccine](https://jobright.ai/jobs/info/66fba0963a5f613bf54ffb4e?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Nov 30 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Computational Social Science](https://jobright.ai/jobs/info/672e90e971dd777880e8f40b?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Intern, Visa Predictive Models - Summer 2025](https://jobright.ai/jobs/info/674798c5c9d875ad4cb5f6f1?utm_campaign=1066&utm_source=git)** | Foster City, CA | Hybrid | Nov 27 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Business Intelligence Developer/Analyst Internship (Summer 2025)](https://jobright.ai/jobs/info/67478c42d610e5439e5dbe2d?utm_campaign=1066&utm_source=git)** | Westerville, OH | On Site | Nov 27 |
 | **[Safety National](https://www.safetynational.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/674784396bbdc5b96d39c424?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Nov 27 |
-| **[Intuit](https://www.intuit.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/674793a8de251a0f81592429?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Nov 27 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6747814f61ca29d200df47ef?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
