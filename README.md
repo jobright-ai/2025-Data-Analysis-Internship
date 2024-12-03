@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cox Enterprises](http://coxenterprises.com)** | **[Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/674e79dde6a5b665f02e08a2?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Dec 02 |
+| **[CommScope](http://www.commscope.com)** | **[Enablement and Development Intern](https://jobright.ai/jobs/info/674e64b745176defbbb77dea?utm_campaign=1066&utm_source=git)** | Shakopee, MN | On Site | Dec 02 |
+| **[Roseburg Forest Products](http://www.Roseburg.com)** | **[Internship - GIS Technician](https://jobright.ai/jobs/info/674e607ff9bb5a88336cebb1?utm_campaign=1066&utm_source=git)** | Dillard, OR | On Site | Dec 02 |
 | **[Denali Therapeutics](https://www.denalitherapeutics.com)** | **[Intern, Quantitative Pharmacology](https://jobright.ai/jobs/info/674e46514b7ebcb880e17fc8?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Dec 02 |
+| **[HRL Laboratories, LLC](http://www.hrl.com/)** | **[Spectroscopy Data Scientist Intern](https://jobright.ai/jobs/info/674e520890521cb6c1e5f524?utm_campaign=1066&utm_source=git)** | Malibu, CA | On Site | Dec 02 |
 | **[Schnuck Markets, Inc.](http://www.schnucks.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/674e434ca193d995ef3c850e?utm_campaign=1066&utm_source=git)** | St Louis, MO | Hybrid | Dec 02 |
 | **[IBM](http://www.ibm.com)** | **[Associate Data Scientist Intern 2025](https://jobright.ai/jobs/info/674e46514b7ebcb880e17fd0?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 02 |
 | **[Oceaneering](http://www.oceaneering.com/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/674e3e09acd20f49aee4def9?utm_campaign=1066&utm_source=git)** | Greater Houston | On Site | Dec 02 |
@@ -70,8 +74,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spectrum, 2025 Summer Intern: Associate Data Insights Analyst - Application via WayUp](https://jobright.ai/jobs/info/674e2d4d652b5dfb044e63d3?utm_campaign=1066&utm_source=git)** | Englewood, CO | On Site | Dec 02 |
 | **[Perry Homes](http://perryhomes.com)** | **[2025 Spring Internship - Customer Experience- Data Analyst - Houston](https://jobright.ai/jobs/info/674e2a8cec00fc6d856bc05f?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Dec 02 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Summer Undergraduate Intern: Walmart Fashion (USA) Corporate Intern](https://jobright.ai/jobs/info/674e16e80ca1e10a7c8f219a?utm_campaign=1066&utm_source=git)** | Bentonville, AR | On Site | Dec 02 |
-| **[Zoetis](https://www.zoetis.com)** | **[Platform Forecast Model & Analyst Intern](https://jobright.ai/jobs/info/674e15a9edb49b39784f74cc?utm_campaign=1066&utm_source=git)** | Parsippany | On Site | Dec 02 |
-| ↳ | **[Platform Forecast Model & Analyst Intern](https://jobright.ai/jobs/info/674e15a9edb49b39784f7409?utm_campaign=1066&utm_source=git)** | Kansas City | On Site | Dec 02 |
+| **[Zoetis](https://www.zoetis.com)** | **[Platform Forecast Model & Analyst Intern](https://jobright.ai/jobs/info/674e15a9edb49b39784f7409?utm_campaign=1066&utm_source=git)** | Kansas City | On Site | Dec 02 |
+| ↳ | **[Platform Forecast Model & Analyst Intern](https://jobright.ai/jobs/info/674e15a9edb49b39784f74cc?utm_campaign=1066&utm_source=git)** | Parsippany | On Site | Dec 02 |
 | ↳ | **[Platform Forecast Model & Analyst Intern](https://jobright.ai/jobs/info/674e15a9edb49b39784f74cd?utm_campaign=1066&utm_source=git)** | Parsippany | On Site | Dec 02 |
 | ↳ | **[Platform Forecast Model & Analyst Intern](https://jobright.ai/jobs/info/674e15a9edb49b39784f741c?utm_campaign=1066&utm_source=git)** | Kansas City | On Site | Dec 02 |
 | **[Notion](https://www.notion.so)** | **[Data Science Intern, Product (Summer 2025)](https://jobright.ai/jobs/info/674e2518a5dc411694ec1cb0?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Dec 02 |
@@ -117,7 +121,9 @@ For a complete list, click the following sortable link below:
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern, Ramin Lab: Per Diem - Onsite](https://jobright.ai/jobs/info/672dfe5bc7f1c85c2b3255cf?utm_campaign=1066&utm_source=git)** | Beverly Hills, CA | On Site | Nov 30 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/671f00bd48b3e60b9bf0410d?utm_campaign=1066&utm_source=git)** | Kansas, United States | On Site | Nov 29 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/671f18fa5c0ad0742f3c8cfb?utm_campaign=1066&utm_source=git)** | Minnesota, United States | On Site | Nov 29 |
-| **[Panasonic Energy of North America](https://www.panasonicnv.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/66e4d858b40004178cd09856?utm_campaign=1066&utm_source=git)** | De Soto, KS | On Site | Nov 29 |
+| **[Crowe](https://www.crowe.com/)** | **[Data Intelligence Intern Summer 2025](https://jobright.ai/jobs/info/674e7da3025c2d7b574c62b3?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 29 |
+| **[Susquehanna International Group, LLP (SIG)](sig.com)** | **[Analytics Internship: Spring 2025](https://jobright.ai/jobs/info/674e79dde6a5b665f02e0b3b?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Nov 29 |
+| **[Central Insurance](http://www.central-insurance.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6710fe20d317b74d08f37439?utm_campaign=1066&utm_source=git)** | Dublin, OH | Hybrid | Nov 29 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/6710b326809b9a74eb8d2c21?utm_campaign=1066&utm_source=git)** | Maine, United States | On Site | Nov 29 |
 | ↳ | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/6710af14ba29c1cb08e180c0?utm_campaign=1066&utm_source=git)** | Montana, United States | On Site | Nov 29 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[CDx Data Science Intern 2025](https://jobright.ai/jobs/info/674a6ada8886127e2b8b6d26?utm_campaign=1066&utm_source=git)** | Arden Hills, MN | On Site | Nov 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](http://www.trimble.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/672d4531b0cdbcc7e80da338?utm_campaign=1066&utm_source=git)** | Westminster, CO | On Site | Nov 29 |
 | **[Databricks](https://www.databricks.com)** | **[Data Science Intern (2025 Start)](https://jobright.ai/jobs/info/66bbc55857881abf660d5e19?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Nov 28 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Savings & Membership - Data Governance)](https://jobright.ai/jobs/info/66d6b9d34d17fd6bb7c7e434?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 28 |
-| **[Arthrex](https://www.arthrex.com/)** | **[Digital Innovations Intern](https://jobright.ai/jobs/info/670ee84509b9cdeb181fc5c4?utm_campaign=1066&utm_source=git)** | Naples, FL | On Site | Nov 28 |
-| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Data Science Institute Undergraduate Student Intern - Summer 2025](https://jobright.ai/jobs/info/670f1546def1ec4937bbe15b?utm_campaign=1066&utm_source=git)** | Livermore, CA | On Site | Nov 28 |
-| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Predictive Finance](https://jobright.ai/jobs/info/6741ab1eb8dc53bcb4516e43?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Nov 28 |
-| **[Acxiom](http://www.acxiom.com)** | **[Intern - Data Scientist (SPRING) - DETROIT METRO](https://jobright.ai/jobs/info/672c187df402915f89eaa656?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 28 |
-| **[DLL](http://dllgroup.com)** | **[Commercial Finance Operations Data Analytics Intern](https://jobright.ai/jobs/info/6748d5014e80061ac1aab7b3?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Nov 28 |
-| **[Louisville Presbyterian Theological Seminary](http://www.lpts.edu/)** | **[Sun-Walking Fellowship Student Worker (Data Assistant) 2024–2025](https://jobright.ai/jobs/info/6748df0ad3548eb1251e9124?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
