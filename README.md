@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Interclypse](https://interclypse.com/)** | **[Data Scientist - All Levels](https://jobright.ai/jobs/info/675556d3f907fa3fbad13782?utm_campaign=1066&utm_source=git)** | Reston, VA | On Site | Dec 07 |
+| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/67553ff4c1bd380f2a3501d3?utm_campaign=1066&utm_source=git)** | Chillicothe, OH | On Site | Dec 07 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Clinical Pharmacology and Pharmacometrics Intern](https://jobright.ai/jobs/info/67552845a656e538afac39a0?utm_campaign=1066&utm_source=git)** | Gwynedd, PA | Remote | Dec 07 |
 | **[CrowdPlat](http://crowdplat.com)** | **[Data Scientist intern (TX or CA based candidates only)](https://jobright.ai/jobs/info/6754fe61928e3f0773dbf99d?utm_campaign=1066&utm_source=git)** | Texas, United States | Remote | Dec 07 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Data Science Technician Manufacturing Operations Support  Intern](https://jobright.ai/jobs/info/6754f29628e30a3d84bbf680?utm_campaign=1066&utm_source=git)** | Carlsbad, CA | On Site | Dec 07 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6754bec7e2e8788f5578042e?utm_campaign=1066&utm_source=git)** | Grand Island, NY | On Site | Dec 07 |
@@ -67,15 +70,16 @@ For a complete list, click the following sortable link below:
 | **[Supplyframe](http://www.supplyframe.com)** | **[Data Scientist Intern (Supplyframe)](https://jobright.ai/jobs/info/67348e8a8fbbb7652123a3a4?utm_campaign=1066&utm_source=git)** | Pasadena, CA | On Site | Dec 07 |
 | **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2025 Summer Internship – Data Science](https://jobright.ai/jobs/info/67550cc9c1bf6529533b277d?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Dec 07 |
 | **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Data Science Intern](https://jobright.ai/jobs/info/671c42cf73f494c443dacf8f?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Dec 07 |
+| **[Liquidnet](http://www.liquidnet.com)** | **[Liquidnet Summer Internship 2025](https://jobright.ai/jobs/info/6737f59fb444791c5246a51a?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Dec 07 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Real Estate Research Intern (PHX)](https://jobright.ai/jobs/info/6679630df6b36b4aa01a325a?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Dec 07 |
 | **[HR&A Advisors](http://www.hraadvisors.com)** | **[Summer Analyst Internship (Track One: Internship)](https://jobright.ai/jobs/info/6738278e59eb43cfe8a96e4c?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Dec 07 |
 | ↳ | **[Summer Analyst Internship (Track Two: Internship to Full-Time Employment)](https://jobright.ai/jobs/info/6738278e59eb43cfe8a96e52?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Dec 07 |
 | **[Moderna](http://www.modernatx.com)** | **[2025 Intern, Biometrics](https://jobright.ai/jobs/info/675411aae6e0c42c37da417d?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Dec 07 |
+| **[John Deere](https://www.deere.com)** | **[Data Analytics Summer Intern 2025a](https://jobright.ai/jobs/info/66e0e9a537b1750b13ff9d7a?utm_campaign=1066&utm_source=git)** | Moline, IL | Hybrid | Dec 06 |
 | **[Zipline](http://flyzipline.com)** | **[Data Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/6753e3ab245a63ad43af2bb1?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Dec 06 |
 | ↳ | **[Data Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/6753ccf77b0ab57c8872e277?utm_campaign=1066&utm_source=git)** | South San Francisco, California, USA | On Site | Dec 06 |
 | **[FedEx Dataworks](https://www.fedex.com/en-us/dataworks.html)** | **[Intern - Data Science-1](https://jobright.ai/jobs/info/6753c2673fa866aa569f3b88?utm_campaign=1066&utm_source=git)** | Memphis, TN | Remote | Dec 06 |
 | ↳ | **[Intern - Data Science-1](https://jobright.ai/jobs/info/6753c2673fa866aa569f4098?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 06 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Delta Wellness - Data Science (Summer, 2025)](https://jobright.ai/jobs/info/67551259b671d6be4797880b?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Dec 06 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 CoRE Reporting & Analytics Internship](https://jobright.ai/jobs/info/6753d82f1fb094993f4f8bcb?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Dec 06 |
 | **[RTX](http://www.raytheon.com)** | **[Summer 2025, Intern: Human Computer Interactions](https://jobright.ai/jobs/info/6753c2673fa866aa569f3c03?utm_campaign=1066&utm_source=git)** | Sacramento, CA | Hybrid | Dec 06 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6736af2cb998a2e3a3b442a0?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | Hybrid | Dec 06 |
@@ -87,8 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Zeno Group](http://www.zenogroup.com)** | **[Intern, Research](https://jobright.ai/jobs/info/675380d21db810aa99739b1f?utm_campaign=1066&utm_source=git)** | Washington DC | Hybrid | Dec 06 |
 | **[Tencent](https://www.tencent.com/en-us)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/67538ceeba1e3a7a824939a5?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Dec 06 |
 | **[CSC](http://www.cscglobal.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/675379f06a2662a18097e2ec?utm_campaign=1066&utm_source=git)** | 251 Little Falls Dr., Wilmington, DE, 19808, US | On Site | Dec 06 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Data Science Intern](https://jobright.ai/jobs/info/67537993b637c6eabd304406?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Dec 06 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/67538843461ed1822b4f3721?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Dec 06 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Data Science Intern](https://jobright.ai/jobs/info/67538843461ed1822b4f3721?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Dec 06 |
 | **[Genius Sports](https://www.geniussports.com/)** | **[Sports Statistician](https://jobright.ai/jobs/info/67536b20fa3b4f989056469f?utm_campaign=1066&utm_source=git)** | Utica, NY | On Site | Dec 06 |
 | **[Credit One Bank](http://creditonebank.com)** | **[Collections Risk Analyst Intern](https://jobright.ai/jobs/info/6753781bce0626af105d2fe0?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Dec 06 |
 | **[Arity](http://www.arity.com)** | **[Arity - Data Science Intern - Arity](https://jobright.ai/jobs/info/6753726a05d6f23c7ab2040d?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 06 |
@@ -130,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2025 - Graduate Statistical Programming Internship](https://jobright.ai/jobs/info/6752451a9f8a186df1064e3a?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Dec 05 |
 | ↳ | **[Summer 2025 - Graduate Statistical Programming Internship](https://jobright.ai/jobs/info/6752451a9f8a186df1064e3d?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Dec 05 |
 | ↳ | **[Summer 2025 - Graduate/PhD Biostatistics Internship](https://jobright.ai/jobs/info/6752451a9f8a186df1064e45?utm_campaign=1066&utm_source=git)** | Brisbane, CA | Hybrid | Dec 05 |
-| ↳ | **[Summer 2025 - Graduate/PhD Biostatistics Internship](https://jobright.ai/jobs/info/6752451a9f8a186df1064e44?utm_campaign=1066&utm_source=git)** | Madison, MS | Hybrid | Dec 05 |
 | ↳ | **[Summer 2025 - Graduate Statistical Programming Internship](https://jobright.ai/jobs/info/6752451a9f8a186df1064e46?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Dec 05 |
+| ↳ | **[Summer 2025 - Graduate/PhD Biostatistics Internship](https://jobright.ai/jobs/info/6752451a9f8a186df1064e44?utm_campaign=1066&utm_source=git)** | Madison, MS | Hybrid | Dec 05 |
 | ↳ | **[Summer 2025 - Graduate/PhD Biostatistics Internship](https://jobright.ai/jobs/info/6752451a9f8a186df1064e47?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Dec 05 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Data Science Internship - Spring 2025](https://jobright.ai/jobs/info/67523cbd812570dfec7791ad?utm_campaign=1066&utm_source=git)** | Chicago, IL | Remote | Dec 05 |
 | **[Gallagher](http://www.ajg.com)** | **[U.S. Internship – Data Analytics](https://jobright.ai/jobs/info/675233dd04cb9c21d9e3603d?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | Hybrid | Dec 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Parsons Corporation](http://www.parsons.com)** | **[Data Science Internship (Summer 2025)](https://jobright.ai/jobs/info/6751e7664188a2f16250b140?utm_campaign=1066&utm_source=git)** | US - AL, Huntsville | On Site | Dec 05 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2025 Data & Analytics Intern - Los Angeles](https://jobright.ai/jobs/info/6751d8f173016e95bc23177d?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 05 |
 | ↳ | **[2025 Data & Analytics Intern - New York](https://jobright.ai/jobs/info/6751e1211e49b7a287c7dd38?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Dec 05 |
-| ↳ | **[2025 Data & Analytics Intern - Chicago](https://jobright.ai/jobs/info/6751e1211e49b7a287c7dd35?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
-| **[CS Energy](http://www.csenergy.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6751e1211e49b7a287c7ddbc?utm_campaign=1066&utm_source=git)** | Edison, NJ | On Site | Dec 05 |
-| **[Valor Equity Partners](http://www.valorep.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6751d42c17b81bb64cb11a6c?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
