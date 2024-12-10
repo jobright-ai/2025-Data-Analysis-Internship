@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[Vertex Summer 2025 Intern, Global Patient Safety Systems (Boston, MA)](https://jobright.ai/jobs/info/675780c99509ac6217c1f7fe?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Dec 09 |
+| **[Principal Financial Group](https://principaletfs.com/)** | **[Intern - Business Analytics, Asset Management](https://jobright.ai/jobs/info/6757b5e9b1361ea11c27360c?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Hybrid | Dec 09 |
+| **[LinQuest](http://www.linquest.com/)** | **[SkillBridge Operations Research Analyst Internship](https://jobright.ai/jobs/info/6757aa577f86ce7c05706eed?utm_campaign=1066&utm_source=git)** | San Antonio, TX | Hybrid | Dec 09 |
+| **[Nelnet](https://nelnetinc.com)** | **[Data Analyst I - Intern](https://jobright.ai/jobs/info/6757b3016d5e712d7cf01e42?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Dec 09 |
+| **[Labcorp](https://www.labcorp.com)** | **[Undergrad Data Science Intern](https://jobright.ai/jobs/info/67579b07ad02230d500dc878?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Dec 09 |
+| **[Komatsu](http://www.ehrbar.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/67578c53d6eabfdf01b01f6d?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Dec 09 |
+| **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[Vertex Summer 2025 Intern, Global Patient Safety Systems (Boston, MA)](https://jobright.ai/jobs/info/67579b07ad02230d500dc88f?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Dec 09 |
+| **[Newmont Corporation](https://www.newmont.com)** | **[Resource Modeling, Intern 2025](https://jobright.ai/jobs/info/67578c0954fd7ed065ab0399?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Dec 09 |
 | **[Perry Homes](http://perryhomes.com)** | **[2025 Spring/Summer Internship - Data Scientist](https://jobright.ai/jobs/info/675770463d9838030a72a688?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Dec 09 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[Quant Research Associate Intern](https://jobright.ai/jobs/info/675768682ce5e5ffa76732a8?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Dec 09 |
-| **[Argonne National Laboratory](http://www.anl.gov/)** | **[Research Aide - CFCT - Sawatzky, Kevin - 12.6.24](https://jobright.ai/jobs/info/675756c062f40bd292864584?utm_campaign=1066&utm_source=git)** | On-site | On Site | Dec 09 |
-| ↳ | **[Research Aide - CFCT - Sawatzky, Kevin - 12.6.24](https://jobright.ai/jobs/info/675756c062f40bd292864515?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Dec 09 |
+| **[Argonne National Laboratory](http://www.anl.gov/)** | **[Research Aide - CFCT - Sawatzky, Kevin - 12.6.24](https://jobright.ai/jobs/info/675756c062f40bd292864515?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Dec 09 |
+| ↳ | **[Research Aide - CFCT - Sawatzky, Kevin - 12.6.24](https://jobright.ai/jobs/info/675756c062f40bd292864584?utm_campaign=1066&utm_source=git)** | On-site | On Site | Dec 09 |
 | **[Genuine Parts Company](http://genpt.com)** | **[Technology Intern – Digital Analytics- Summer 2025](https://jobright.ai/jobs/info/67574e38ae2e1f7fd6dd1273?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Dec 09 |
 | **[ITW Automotive](https://www.itwautomotive.com)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/6757566224a26970b553efa6?utm_campaign=1066&utm_source=git)** | Frankfort, IL | On Site | Dec 09 |
 | **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[Lab Inventory Analyst Summer 2025 Intern](https://jobright.ai/jobs/info/6757566224a26970b553efd1?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Dec 09 |
@@ -133,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Postdoctoral Research Associate - Biostatistics](https://jobright.ai/jobs/info/66e18521bb7c5c770a2b1190?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Dec 06 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6736af2cb998a2e3a3b442a3?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Dec 06 |
 | **[Oracle](https://www.oracle.com/)** | **[Data Scientist Co-Op – Construction & Engineering Global Industry Unit](https://jobright.ai/jobs/info/671af935e5a3eff6fc2cc283?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Dec 06 |
-| **[Gallagher Bassett](https://www.robanda.com/)** | **[Intern, Consultative Analytics](https://jobright.ai/jobs/info/67366bb29f7f2b564b95e0c5?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | Hybrid | Dec 06 |
 | **[E Source](http://www.esource.com)** | **[Research and Advisory Data Intern - REMOTE](https://jobright.ai/jobs/info/67368be435c4956321f7bd33?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 06 |
+| **[Gallagher Bassett](https://www.robanda.com/)** | **[Intern, Consultative Analytics](https://jobright.ai/jobs/info/67366f6e6524546e43061613?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | Hybrid | Dec 06 |
 | **[Ramp](https://ramp.com)** | **[Summer 2025 / Applied Scientist Intern](https://jobright.ai/jobs/info/66ff5262646299eebce33ab1?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Dec 06 |
 | **[Hexion Inc.](https://www.hexion.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6739b49b30f83b19a4320db3?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Dec 06 |
 | **[PIMCO](http://www.pimco.com)** | **[2025 Masters Summer Internship - Quant Research Analyst, Client Solutions & Analytics, US](https://jobright.ai/jobs/info/66e0dbbff91d4b8015ec78e3?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Dec 06 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 - Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/6756819a51ddf2cc26516634?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Dec 05 |
 | ↳ | **[Summer 2025 - Graduate/PhD Biostatistics Internship](https://jobright.ai/jobs/info/67567d3871ca143c82058721?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Dec 05 |
 | ↳ | **[Summer 2025 - Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/67567d3871ca143c82058722?utm_campaign=1066&utm_source=git)** | Summit, NJ | Hybrid | Dec 05 |
-| ↳ | **[Summer 2025 - Graduate Statistical Programming Internship](https://jobright.ai/jobs/info/67566ee89829c833ff272231?utm_campaign=1066&utm_source=git)** | Summit, NJ | Hybrid | Dec 05 |
-| **[Panasonic Energy of North America](https://www.panasonicnv.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/66e4d858b40004178cd09835?utm_campaign=1066&utm_source=git)** | De Soto, KS | On Site | Dec 05 |
-| **[Intuitive](https://intusurg.com)** | **[Business Intelligence Data Analyst Intern](https://jobright.ai/jobs/info/67526e390d9b1d84d6c52be9?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Dec 05 |
-| **[Sanofi](https://www.sanofi.com)** | **[mRNA Center of Excellence - Scientific Data Support Analyst - 2025 Spring Co-op - Vaccine](https://jobright.ai/jobs/info/66fba0963a5f613bf54ffb4e?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Dec 05 |
-| **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2025 - Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/67565e008e945f81668616b3?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Dec 05 |
-| ↳ | **[Summer 2025 - Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/67565e008e945f81668616b5?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
