@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Commercial Advanced Analytics - Intern](https://jobright.ai/jobs/info/67656537ae31c9fafd497e5a?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 20 |
 | **[KIPP DC](https://www.kippdc.org/)** | **[Data Analysis Intern (Summer 2025)](https://jobright.ai/jobs/info/67652c5742fb5cd3b91e1834?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Dec 19 |
 | **[PIMCO](http://www.pimco.com)** | **[2025 Masters Summer Internship - Quant Research Analyst, Client Solutions & Analytics, US](https://jobright.ai/jobs/info/675eb8051241623133272018?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Dec 19 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Card Fraud Analysis](https://jobright.ai/jobs/info/6764f992ed02adc9987da7ab?utm_campaign=1066&utm_source=git)** | Metairie, LA | On Site | Dec 19 |
@@ -74,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Accolade, Inc.](http://www.accolade.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6764be234d3c7c49633fe8fb?utm_campaign=1066&utm_source=git)** | Plymouth Meeting, PA | Hybrid | Dec 19 |
 | **[PlushCare](http://www.plushcare.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6764bba662795f5ff50cc36b?utm_campaign=1066&utm_source=git)** | Plymouth Meeting, PA | Hybrid | Dec 19 |
 | **[Republic National Distributing Company](http://www.rndc-usa.com/)** | **[Data Analyst College Intern](https://jobright.ai/jobs/info/6764a8eeb4e76ee02d6121e0?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Dec 19 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Biostatistics (PhD level) - Research](https://jobright.ai/jobs/info/67649f3aa43cf244a067a44d?utm_campaign=1066&utm_source=git)** | 55905 | On Site | Dec 19 |
-| ↳ | **[Intern - Biostatistics (BS degree level) - Research](https://jobright.ai/jobs/info/67649f3aa43cf244a067a439?utm_campaign=1066&utm_source=git)** | 55905 | On Site | Dec 19 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Biostatistics (BS degree level) - Research](https://jobright.ai/jobs/info/67649f3aa43cf244a067a439?utm_campaign=1066&utm_source=git)** | 55905 | On Site | Dec 19 |
+| ↳ | **[Intern - Biostatistics (PhD level) - Research](https://jobright.ai/jobs/info/67649f3aa43cf244a067a44d?utm_campaign=1066&utm_source=git)** | 55905 | On Site | Dec 19 |
 | **[S&P Global](https://www.spglobal.com)** | **[Data Science & Modeling Intern (Early Careers)](https://jobright.ai/jobs/info/67649f3aa43cf244a067a463?utm_campaign=1066&utm_source=git)** | Virtual, TX | On Site | Dec 19 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/67649b75c5792d74f76b3b23?utm_campaign=1066&utm_source=git)** | United States | On Site | Dec 19 |
 | **[Schneider Electric](https://www.se.com)** | **[Data Analyics Intern](https://jobright.ai/jobs/info/6764ab8fc9114368eecd6061?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Dec 19 |
@@ -103,21 +104,23 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Graduate Intern - Real World Evidence](https://jobright.ai/jobs/info/6764579072913816b18b6373?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Dec 19 |
 | **[Takeda](http://www.takeda.com)** | **[2025 U.S Summer Internship Program: Operational Excellence Data Science Intern](https://jobright.ai/jobs/info/67644254759f2ea73f0928c9?utm_campaign=1066&utm_source=git)** | Thousand Oaks, CA | On Site | Dec 19 |
 | **[KCF Technologies, Inc.](http://www.kcftech.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/67637a0812126ee4095912ba?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Dec 19 |
+| **[CareSource](https://www.caresource.com/)** | **[REMOTE - Summer Internship 2025 - IT, Consumer Insights - R8142](https://jobright.ai/jobs/info/6729a2821bffc5b262e8b589?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Dec 19 |
 | **[Meta](https://www.metacareers.com/)** | **[Data Scientist Intern, Product Analytics (PhD)](https://jobright.ai/jobs/info/67641b572ea0ca83af221849?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 19 |
 | ↳ | **[Data Scientist Intern, Product Analytics (PhD)](https://jobright.ai/jobs/info/6763fab5b1e1e2af4543f68a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 19 |
+| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Biostatistics and Data Mgmt Programming – R Intern](https://jobright.ai/jobs/info/672b01f931235e93a49d3086?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Dec 19 |
 | **[University of Washington](http://www.washington.edu)** | **[DATA ANALYST 2 - TEMPORARY / FULL BENEFITS](https://jobright.ai/jobs/info/6763f9351a5f8c0c2a67e429?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Dec 19 |
 | **[Leidos](https://www.leidos.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6763f029d351658160095960?utm_campaign=1066&utm_source=git)** | Huntsville, AL | Hybrid | Dec 19 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Data Science Analyst Co-op - Winter 2024/Spring 2025](https://jobright.ai/jobs/info/670d91d2e50cb81924a52bc7?utm_campaign=1066&utm_source=git)** | Portland, ME | Hybrid | Dec 18 |
 | **[Spectrum Real-Time Visual Solutions](http://www.specorp.com)** | **[2025 Summer Intern: Data Science](https://jobright.ai/jobs/info/6763defaed6f46ffc3fa0e81?utm_campaign=1066&utm_source=git)** | Englewood, CO | Hybrid | Dec 18 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[Geographic Information Systems Intern – US based remote](https://jobright.ai/jobs/info/6763c8b51a1ee208b2ffa09f?utm_campaign=1066&utm_source=git)** | Arlington, VA | Remote | Dec 18 |
 | **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Computational Sciences and Informatics (CSI)](https://jobright.ai/jobs/info/6763a868c215a26453dc3f27?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Dec 18 |
-| **[Takeda](http://www.takeda.com)** | **[2025 U.S Summer Internship Program: Bioinformatics Intern](https://jobright.ai/jobs/info/6763aab8d05b0b7ea61dd35c?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Dec 18 |
-| ↳ | **[2025 U.S Summer Internship Program: Data Analytics Intern](https://jobright.ai/jobs/info/6763aab8d05b0b7ea61dd35e?utm_campaign=1066&utm_source=git)** | Brooklyn Park, MN | On Site | Dec 18 |
+| **[Takeda](http://www.takeda.com)** | **[2025 U.S Summer Internship Program: Data Analytics Intern](https://jobright.ai/jobs/info/6763aab8d05b0b7ea61dd35e?utm_campaign=1066&utm_source=git)** | Brooklyn Park, MN | On Site | Dec 18 |
+| ↳ | **[2025 U.S Summer Internship Program: Bioinformatics Intern](https://jobright.ai/jobs/info/6763aab8d05b0b7ea61dd35c?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Dec 18 |
 | ↳ | **[2025 U.S Summer Internship Program: Data Insights and Quality Intern](https://jobright.ai/jobs/info/6763aab8d05b0b7ea61dd380?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Dec 18 |
 | ↳ | **[2025 U.S Summer Internship Program: Statistical Research Intern](https://jobright.ai/jobs/info/6763aab8d05b0b7ea61dd365?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Dec 18 |
 | **[Convergent Research](https://www.convergentresearch.org/)** | **[Imaging Data Intern](https://jobright.ai/jobs/info/6763a0d86687020ea3511dc9?utm_campaign=1066&utm_source=git)** | Alameda, CA | On Site | Dec 18 |
-| **[Takeda](http://www.takeda.com)** | **[2025 U.S Summer Internship Program: Statistics Intern](https://jobright.ai/jobs/info/676396a739700be47ba90a68?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Dec 18 |
-| ↳ | **[2025 U.S Summer Internship Program: Data Products Intern](https://jobright.ai/jobs/info/676396a739700be47ba90a76?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Dec 18 |
+| **[Takeda](http://www.takeda.com)** | **[2025 U.S Summer Internship Program: Data Products Intern](https://jobright.ai/jobs/info/676396a739700be47ba90a76?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Dec 18 |
+| ↳ | **[2025 U.S Summer Internship Program: Statistics Intern](https://jobright.ai/jobs/info/676396a739700be47ba90a68?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Dec 18 |
 | ↳ | **[2025 U.S Summer Internship Program: Bioinformatics Intern](https://jobright.ai/jobs/info/676396a739700be47ba90abc?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Dec 18 |
 | ↳ | **[2025 U.S Summer Internship Program: Data Governance Analyst Intern](https://jobright.ai/jobs/info/676396a739700be47ba90a4d?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Dec 18 |
 | **[Convergent Research](https://www.convergentresearch.org/)** | **[Imaging Data Intern](https://jobright.ai/jobs/info/6763887c516d5bfac2700af9?utm_campaign=1066&utm_source=git)** | Alameda, California | On Site | Dec 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brewer Science](http://www.brewerscience.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/676531c2d6e33f4a8d8a0af9?utm_campaign=1066&utm_source=git)** | Rolla, MO | On Site | Dec 18 |
 | **[Takeda](http://www.takeda.com)** | **[2025 U.S Summer Internship Program: Data Analytics Intern](https://jobright.ai/jobs/info/676270c2b7b951e29357f08a?utm_campaign=1066&utm_source=git)** | Brooklyn Park, MN | On Site | Dec 17 |
 | **[Resources for the Future](http://www.rff.org/)** | **[Intern SU25: Extreme Weather Impacts on Electricity Markets](https://jobright.ai/jobs/info/67626b3a5b8c08e7051ad906?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Dec 17 |
-| **[FM](https://www.fmglobal.com)** | **[Data Visualization & Reporting Internship Summer 2025](https://jobright.ai/jobs/info/6762732800f87f063abdcd9c?utm_campaign=1066&utm_source=git)** | Johnston, RI | On Site | Dec 17 |
-| **[Takeda](http://www.takeda.com)** | **[2025 U.S Summer Internship Program: Data Governance Analyst Intern](https://jobright.ai/jobs/info/6762611b3b06d998b7c4a476?utm_campaign=1066&utm_source=git)** | USA - MA - Cambridge - Kendall Square - 500 | Hybrid | Dec 17 |
-| ↳ | **[2025 U.S Summer Internship Program: Statistical Research Intern](https://jobright.ai/jobs/info/6762611b3b06d998b7c4a43a?utm_campaign=1066&utm_source=git)** | Massachusetts - Virtual | Remote | Dec 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
