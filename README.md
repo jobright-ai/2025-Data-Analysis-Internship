@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Data Analyst Intern, Support Operations (Summer 2025)](https://jobright.ai/jobs/info/67492867d60c91937bed20f4?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Dec 28 |
 | **[EconONE Research](https://www.econone.com/)** | **[Summer Analyst](https://jobright.ai/jobs/info/676f50b267943b40805f6e8b?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 27 |
 | **[Duke University](http://www.duke.edu)** | **[CLINICAL RESEARCH INTERN](https://jobright.ai/jobs/info/676f29cbf70a153f1fbab01b?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Dec 27 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[Geographic Information Systems Intern – US based remote](https://jobright.ai/jobs/info/6763c8b51a1ee208b2ffa09f?utm_campaign=1066&utm_source=git)** | Arlington, VA | Remote | Dec 27 |
