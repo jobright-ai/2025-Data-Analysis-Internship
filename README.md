@@ -117,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Holden Forests & Gardens](https://holdenfg.org/)** | **[Research Intern](https://jobright.ai/jobs/info/676ce6ff3524160869cf31a5?utm_campaign=1066&utm_source=git)** | Kirtland, OH | On Site | Dec 23 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Real Word Evidence - Summer 2025](https://jobright.ai/jobs/info/676a433131119bbc5c867dd7?utm_campaign=1066&utm_source=git)** | Cary, NC | Hybrid | Dec 23 |
 | **[Zipline](http://flyzipline.com)** | **[Data Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/6753e3ab245a63ad43af2bb1?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Dec 23 |
+| **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6770c43eb3c75c044dec7490?utm_campaign=1066&utm_source=git)** | Campbell, CA | On Site | Dec 23 |
 | **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[2025 Summer Data Analyst/Information Systems Intern (Jefferson City)](https://jobright.ai/jobs/info/66f80d6b468668a2676e47f6?utm_campaign=1066&utm_source=git)** | Jefferson City, MO | On Site | Dec 23 |
 | **[E15 Group](https://e15group.com/)** | **[Business Analytics Summer Intern, E15 / Chicago, IL](https://jobright.ai/jobs/info/676a18ccd28e90b53236ebea?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
 | ↳ | **[Data Science Intern, E15 / Summer / Chicago, IL](https://jobright.ai/jobs/info/676a18ccd28e90b53236ec0b?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
@@ -154,5 +155,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern - Biostatistics](https://jobright.ai/jobs/info/6768450bbc0e5d9594a07453?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | Hybrid | Dec 22 |
 | ↳ | **[2025 U.S Summer Internship Program: Operational Excellence Data Science Intern](https://jobright.ai/jobs/info/6768360ff4f1e2af5187cbef?utm_campaign=1066&utm_source=git)** | Thousand Oaks, CA | On Site | Dec 22 |
 | ↳ | **[2025 U.S Summer Internship Program: Digital Analyst Intern](https://jobright.ai/jobs/info/6766e241dfb3744a5fbe129c?utm_campaign=1066&utm_source=git)** | Thousand Oaks, CA | On Site | Dec 22 |
-| **[Congruex](http://congruex.com)** | **[Intern, Data, Business and Operations Analyst](https://jobright.ai/jobs/info/676a8d28fcacbca2cbc1159a?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
