@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Daiichi Sankyo](http://www.daiichisankyo.com)** | **[Data and Statistical Science for Evidence Generation Intern](https://jobright.ai/jobs/info/6771d09abc47dcaebae236df?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Dec 29 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Neuroscience Bioinformatics Intern](https://jobright.ai/jobs/info/6771716954762df786c0cfcd?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Dec 29 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Data Science Intern - Summer 2025](https://jobright.ai/jobs/info/67404df89e08fdbe9743c8be?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Dec 29 |
 | **[Amazon](https://amazon.com)** | **[2025 Data Science Internship - United States, PhD or Masters Student](https://jobright.ai/jobs/info/675d0f7051cd2f5731d4fca6?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 29 |
@@ -137,16 +138,14 @@ For a complete list, click the following sortable link below:
 | **[CoStar Group](http://www.costargroup.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6769b16f447b0397d8da8e58?utm_campaign=1066&utm_source=git)** | US-VA Richmond | On Site | Dec 23 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/67698cb0c209cd85cf7d600e?utm_campaign=1066&utm_source=git)** | La Crosse, WI | On Site | Dec 23 |
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Trade Desk Intern](https://jobright.ai/jobs/info/66f4b617a1003749c95c64db?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Dec 23 |
-| **[DC Water](https://dcwater.com/)** | **[Summer Intern, Data Analyst, Customer Care (25-CC-600003-036)](https://jobright.ai/jobs/info/67695e767698f9918a7820ac?utm_campaign=1066&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | On Site | Dec 23 |
-| ↳ | **[Summer Intern, Data Analysis (25-WQ&T-813012-115)](https://jobright.ai/jobs/info/67695e767698f9918a7820a4?utm_campaign=1066&utm_source=git)** | 3900 Donaldson Place, N. W., Washington, DC, 20016, US | On Site | Dec 23 |
+| **[DC Water](https://dcwater.com/)** | **[Summer Intern, Data Analysis (25-WQ&T-813012-115)](https://jobright.ai/jobs/info/67695e767698f9918a7820a4?utm_campaign=1066&utm_source=git)** | 3900 Donaldson Place, N. W., Washington, DC, 20016, US | On Site | Dec 23 |
+| ↳ | **[Summer Intern, Data Analyst, Customer Care (25-CC-600003-036)](https://jobright.ai/jobs/info/67695e767698f9918a7820ac?utm_campaign=1066&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | On Site | Dec 23 |
 | ↳ | **[Summer Intern, Data Analytics (25-DDCS-815012-016)](https://jobright.ai/jobs/info/67695e767698f9918a78209e?utm_campaign=1066&utm_source=git)** | 301 Bryant Street, N. W, Washington, DC, 20001, US | On Site | Dec 23 |
 | ↳ | **[Summer Intern, Engineering and Technical Services (ETS)-Design (25-DETS-801003-938)](https://jobright.ai/jobs/info/67695e767698f9918a78209d?utm_campaign=1066&utm_source=git)** | 5000 Overlook Avenue S. W., Washington, DC, 20032, US | On Site | Dec 23 |
-| ↳ | **[Summer Intern, HCM Systems (25-FAB-300018-013)](https://jobright.ai/jobs/info/67695e767698f9918a782089?utm_campaign=1066&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | On Site | Dec 23 |
 | ↳ | **[Summer Intern, Data Analysis-DDCS (25-DDCS-815003-102)](https://jobright.ai/jobs/info/67695e767698f9918a7820ab?utm_campaign=1066&utm_source=git)** | 5000 Overlook Avenue S. W., Washington, DC, 20032, US | On Site | Dec 23 |
+| ↳ | **[Summer Intern, HCM Systems (25-FAB-300018-013)](https://jobright.ai/jobs/info/67695e767698f9918a782089?utm_campaign=1066&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | On Site | Dec 23 |
 | ↳ | **[Summer Intern, IT-Data and Analytics (25-IT-601006-082)](https://jobright.ai/jobs/info/67695e767698f9918a782088?utm_campaign=1066&utm_source=git)** | 5000 Overlook Avenue S. W., Washington, DC, 20032, US | On Site | Dec 23 |
 | **[AbbVie](https://www.abbvie.com)** | **[2025 Neuroscience Bioinformatics Intern](https://jobright.ai/jobs/info/66f7aa84a1ce286321bc706c?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Dec 23 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2025](https://jobright.ai/jobs/info/6711b16abe17a6a4f42d2d75?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 23 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Assoc Data & Reporting Analyst](https://jobright.ai/jobs/info/66beedf075eb11c62726509e?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Dec 23 |
-| **[Shure Incorporated](http://www.shure.com)** | **[Web Analytics Intern](https://jobright.ai/jobs/info/66d8cb9967e86ef4ec956bcb?utm_campaign=1066&utm_source=git)** | Niles, IL | Hybrid | Dec 22 |
-| **[NEOGOV](http://www.neogov.com)** | **[2025 Intern - Data Analytics for Revenue Operations Intern (2 Positions)](https://jobright.ai/jobs/info/6769155dd2409eb9bd388d5d?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
