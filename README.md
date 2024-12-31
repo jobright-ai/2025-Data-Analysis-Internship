@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NBME](http://www.nbme.org/)** | **[Remote 2025 Summer Internship: Psychometrics and Data Science (PhD)](https://jobright.ai/jobs/info/67736f6de6da362164568649?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Dec 30 |
 | **[Lazard](http://www.lazard.com)** | **[Lazard 2026 Summer Analyst Fellowship](https://jobright.ai/jobs/info/67735306beadaeb19b1bb147?utm_campaign=1066&utm_source=git)** | Boston, NY | Hybrid | Dec 30 |
 | **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Data Quality & Governance Intern](https://jobright.ai/jobs/info/6773453513299cf522cc3d2d?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Dec 30 |
 | **[ETS](http://www.ets.org)** | **[Data Analyst Internship – ETS Praxis](https://jobright.ai/jobs/info/677325aba5c7f83e81072f4c?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Remote | Dec 30 |
 | **[Phoenix Children's](http://www.phoenixchildrens.org)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/677321e163be56730f282e19?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Dec 30 |
 | **[CAS](http://www.cas.org)** | **[BU24IN- Bioinformatics Scientist Intern](https://jobright.ai/jobs/info/677322bc63be56730f2836ff?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Dec 30 |
-| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Data Scientist](https://jobright.ai/jobs/info/675107e8af9a23e35e97e2ff?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 30 |
-| ↳ | **[2025 Intern - Data Scientist](https://jobright.ai/jobs/info/673f2a9ad70ba267a339fbcc?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Finance Data Scientist](https://jobright.ai/jobs/info/6741fbc15589671dda5edf44?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Dec 30 |
+| ↳ | **[2025 Intern - Data Scientist](https://jobright.ai/jobs/info/6741861fc55ecf658fc89733?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
+| ↳ | **[2025 Intern - Data Scientist](https://jobright.ai/jobs/info/675107e8af9a23e35e97e2ff?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 30 |
+| ↳ | **[2025 Intern - Predictive Finance](https://jobright.ai/jobs/info/6741ab1eb8dc53bcb4516e43?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Dec 30 |
 | **[Tempus AI](https://www.tempus.com)** | **[Biostatistics Summer Associate](https://jobright.ai/jobs/info/6772e7db1a66497d400d2286?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Data Scientist](https://jobright.ai/jobs/info/674217b9b86cc48cb18279f0?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Dec 30 |
 | ↳ | **[2025 Intern - Data Science](https://jobright.ai/jobs/info/67452bb02f5378bda6535479?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
@@ -79,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Data Analysis - Service Delivery Intern](https://jobright.ai/jobs/info/67700b6355f6c9255255af83?utm_campaign=1066&utm_source=git)** | Carlsbad, CA | On Site | Dec 28 |
 | **[Ericsson](https://www.ericsson.com)** | **[Research Intern Summer 2025](https://jobright.ai/jobs/info/671ae85d3bc7f25709273de9?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Dec 28 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Data Analyst Intern, Support Operations (Summer 2025)](https://jobright.ai/jobs/info/67492867d60c91937bed20f4?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Dec 28 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[Advanced Quality Data Analytics - Co-op (Spring/Summer 2025)](https://jobright.ai/jobs/info/677363974bb96582ead7af2a?utm_campaign=1066&utm_source=git)** | Davidson, NC | On Site | Dec 27 |
 | **[EconONE Research](https://www.econone.com/)** | **[Summer Analyst](https://jobright.ai/jobs/info/676f50b267943b40805f6e8b?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 27 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/6752bea7412617fc01e58d6a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 27 |
 | **[Duke University](http://www.duke.edu)** | **[CLINICAL RESEARCH INTERN](https://jobright.ai/jobs/info/676f29cbf70a153f1fbab01b?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Dec 27 |
@@ -129,8 +131,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PCCTC Data Management Internship, Remote](https://jobright.ai/jobs/info/676b2869283503ed0682e951?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 24 |
 | **[Corsair](http://www.corsair.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4ae3?utm_campaign=1066&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
 | **[TD](https://www.td.com)** | **[2025 Summer Internship Program - Platforms & Technology - Enterprise Protect - Data Scientist](https://jobright.ai/jobs/info/6760f206f194e295768ff323?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Dec 24 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/676af3c541e279f2a1d59c81?utm_campaign=1066&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 24 |
-| **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern in Survey Design, Pew Research Center Summer 2025](https://jobright.ai/jobs/info/675cd8a7da8e3cc12a8763da?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Dec 24 |
-| **[BioSpace](http://www.biospace.com/)** | **[Global Development Information Management Intern](https://jobright.ai/jobs/info/676ad6eb705347bc48561ee2?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Dec 24 |
-| **[Siemens](https://www.siemens.com/)** | **[Software Development for Data Curation for Vulnerability Detection: 6 Months Internship in Research & Development](https://jobright.ai/jobs/info/676acf2de620edcaf48f634e?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
