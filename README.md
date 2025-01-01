@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NT Concepts](http://www.ntconcepts.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/67746924b3dc6b188a863804?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Dec 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/6773e0abe5c0d4a701049c88?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 31 |
+| **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, GenAI Llama Multimodal Data Research (PhD)](https://jobright.ai/jobs/info/6739d92f9364d74736f31f10?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Dec 31 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern – Bioinformatics Technologies (Summer 2025)](https://jobright.ai/jobs/info/67547a7a097225d3e3934224?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 31 |
 | **[KeyData Cyber](http://keydata.ca/)** | **[KeyData's Talent Pool](https://jobright.ai/jobs/info/677447c96830b7b205a5d2f3?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 31 |
 | **[NBME](http://www.nbme.org/)** | **[Remote 2025 Summer Internship: Psychometrics and Data Science (PhD)](https://jobright.ai/jobs/info/67736f6de6da362164568649?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Dec 30 |
@@ -65,18 +67,19 @@ For a complete list, click the following sortable link below:
 | **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Data Quality & Governance Intern](https://jobright.ai/jobs/info/6773453513299cf522cc3d2d?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Dec 30 |
 | **[ETS](http://www.ets.org)** | **[Data Analyst Internship – ETS Praxis](https://jobright.ai/jobs/info/677325aba5c7f83e81072f4c?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Remote | Dec 30 |
 | **[Phoenix Children's](http://www.phoenixchildrens.org)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/677321e163be56730f282e19?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Dec 30 |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Data Scientist](https://jobright.ai/jobs/info/67419687d52a35807f954656?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 30 |
 | **[CAS](http://www.cas.org)** | **[BU24IN- Bioinformatics Scientist Intern](https://jobright.ai/jobs/info/677322bc63be56730f2836ff?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Dec 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Finance Data Scientist](https://jobright.ai/jobs/info/6741fbc15589671dda5edf44?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Dec 30 |
 | ↳ | **[2025 Intern - Data Scientist](https://jobright.ai/jobs/info/6741861fc55ecf658fc89733?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
 | ↳ | **[2025 Intern - Data Scientist](https://jobright.ai/jobs/info/675110af33009ce831c68055?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Dec 30 |
-| ↳ | **[2025 Intern - Data Scientist](https://jobright.ai/jobs/info/675107e8af9a23e35e97e2ff?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 30 |
 | ↳ | **[2025 Intern - Predictive Finance](https://jobright.ai/jobs/info/6741ab1eb8dc53bcb4516e43?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Dec 30 |
+| ↳ | **[2025 Intern - Data Scientist](https://jobright.ai/jobs/info/6740660a23c31a534c803581?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 30 |
 | **[Tempus AI](https://www.tempus.com)** | **[Biostatistics Summer Associate](https://jobright.ai/jobs/info/6772e7db1a66497d400d2286?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Data Scientist](https://jobright.ai/jobs/info/674217b9b86cc48cb18279f0?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Dec 30 |
-| ↳ | **[2025 Intern - Data Science](https://jobright.ai/jobs/info/67452bb02f5378bda6535479?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
 | **[KCF Technologies, Inc.](http://www.kcftech.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/67637a0812126ee4095912ba?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Dec 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Finance Data Scientist](https://jobright.ai/jobs/info/673f3e1294a51395e0609abe?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
 | ↳ | **[2025 Intern - Data Scientist](https://jobright.ai/jobs/info/6741b2948cc0dc31277894fd?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
+| ↳ | **[2025 Intern - Data Science](https://jobright.ai/jobs/info/673f154bd7d3ec929f79f7a1?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
 | ↳ | **[2025 Intern - Data Science and Strategic Analytics Manager](https://jobright.ai/jobs/info/6740050222e7eebe1ee6bceb?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Neuroscience Bioinformatics Intern](https://jobright.ai/jobs/info/6771716954762df786c0cfcd?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Dec 29 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Data Science Intern - Summer 2025](https://jobright.ai/jobs/info/67404df89e08fdbe9743c8be?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Dec 29 |
@@ -86,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Data Analysis - Service Delivery Intern](https://jobright.ai/jobs/info/67700b6355f6c9255255af83?utm_campaign=1066&utm_source=git)** | Carlsbad, CA | On Site | Dec 28 |
 | **[Ericsson](https://www.ericsson.com)** | **[Research Intern Summer 2025](https://jobright.ai/jobs/info/671ae85d3bc7f25709273de9?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Dec 28 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Data Analyst Intern, Support Operations (Summer 2025)](https://jobright.ai/jobs/info/67492867d60c91937bed20f4?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Dec 28 |
-| **[EconONE Research](https://www.econone.com/)** | **[Summer Analyst](https://jobright.ai/jobs/info/676f50b267943b40805f6e8b?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 27 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/6752bea7412617fc01e58d6a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 27 |
 | **[Duke University](http://www.duke.edu)** | **[CLINICAL RESEARCH INTERN](https://jobright.ai/jobs/info/676f29cbf70a153f1fbab01b?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Dec 27 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/6752ccfc81e5e0c234f5a8fb?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 27 |
@@ -123,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern - Clinical Biometrics](https://jobright.ai/jobs/info/674ef1ec40783365266a8433?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Dec 25 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations – Associate Data Modeler Senior Intern](https://jobright.ai/jobs/info/676c398f20e978ef05bd51c1?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 25 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Multiple Locations](https://jobright.ai/jobs/info/674f31cd4cdc32920fc32a08?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 25 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Sr. Biostatistics Intern](https://jobright.ai/jobs/info/676bb2845f6023f5f3d5305d?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Remote | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
