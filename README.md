@@ -57,13 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/677501746447c986a04e81f0?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Dec 31 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/677501746447c986a04e81f1?utm_campaign=1066&utm_source=git)** | Grand Island, NY | On Site | Dec 31 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/677501746447c986a04e81f2?utm_campaign=1066&utm_source=git)** | Frederick, MD | On Site | Dec 31 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6774ebf84b76b67a40e17a6e?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Dec 31 |
+| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6774d6d91d8ad22a7b7c0d8c?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 31 |
+| **[ICF](https://www.icf.com)** | **[2025 Summer Intern, Energy Analyst - Maryland (Bachelors, Hybrid)](https://jobright.ai/jobs/info/6774ed0c95db754b27bf8835?utm_campaign=1066&utm_source=git)** | Columbia, MD | Hybrid | Dec 31 |
+| ↳ | **[2025 Summer Intern, Energy Analyst - Maryland (Bachelors, Hybrid)](https://jobright.ai/jobs/info/6774ed0c95db754b27bf8c3d?utm_campaign=1066&utm_source=git)** | Reston, VA | Hybrid | Dec 31 |
+| **[Broward Health](http://www.browardhealth.org)** | **[IT Extern Analyst-IT-Pool BHC #10765](https://jobright.ai/jobs/info/6774beac113170e4989a5e87?utm_campaign=1066&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 31 |
+| **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/67750c0e0375815823eb1804?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Hybrid | Dec 31 |
 | **[NT Concepts](http://www.ntconcepts.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/67746924b3dc6b188a863804?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Dec 31 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Neuroscience Bioinformatics Intern](https://jobright.ai/jobs/info/6771716954762df786c0cfcd?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Dec 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/6773e0abe5c0d4a701049c88?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 31 |
 | **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, GenAI Llama Multimodal Data Research (PhD)](https://jobright.ai/jobs/info/6739d92f9364d74736f31f10?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Dec 31 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern – Bioinformatics Technologies (Summer 2025)](https://jobright.ai/jobs/info/67547a7a097225d3e3934224?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 31 |
 | **[KeyData Cyber](http://keydata.ca/)** | **[KeyData's Talent Pool](https://jobright.ai/jobs/info/677447c96830b7b205a5d2f3?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 31 |
+| **[FM](https://www.fmglobal.com)** | **[Data Science Advanced Analytics Summer Technical Internship 2025](https://jobright.ai/jobs/info/6770e2e15d72ca21653332b7?utm_campaign=1066&utm_source=git)** | Johnston, RI | On Site | Dec 30 |
+| **[Philip Morris International](https://www.pmi.com)** | **[Data Insights & Analytics Internship Summer 2025](https://jobright.ai/jobs/info/6774bcf7f885c47881c3e86f?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Dec 30 |
 | **[NBME](http://www.nbme.org/)** | **[Remote 2025 Summer Internship: Psychometrics and Data Science (PhD)](https://jobright.ai/jobs/info/67736f6de6da362164568649?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Dec 30 |
+| **[Adobe](http://www.adobe.com)** | **[2025 Intern - Data Science](https://jobright.ai/jobs/info/6740660a23c31a534c8035c0?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 30 |
 | **[Lazard](http://www.lazard.com)** | **[Lazard 2026 Summer Analyst Fellowship](https://jobright.ai/jobs/info/67735306beadaeb19b1bb147?utm_campaign=1066&utm_source=git)** | Boston, NY | Hybrid | Dec 30 |
 | **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Data Quality & Governance Intern](https://jobright.ai/jobs/info/6773453513299cf522cc3d2d?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Dec 30 |
 | **[ETS](http://www.ets.org)** | **[Data Analyst Internship – ETS Praxis](https://jobright.ai/jobs/info/677325aba5c7f83e81072f4c?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Remote | Dec 30 |
@@ -74,18 +86,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Intern - Data Scientist](https://jobright.ai/jobs/info/675110af33009ce831c68055?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Dec 30 |
 | ↳ | **[2025 Intern - Predictive Finance](https://jobright.ai/jobs/info/6741ab1eb8dc53bcb4516e43?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Dec 30 |
 | ↳ | **[2025 Intern - Data Scientist](https://jobright.ai/jobs/info/673f2a9ad70ba267a339fbcc?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
+| ↳ | **[2025 Intern - Data Scientist](https://jobright.ai/jobs/info/6740660a23c31a534c803581?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 30 |
 | **[Tempus AI](https://www.tempus.com)** | **[Biostatistics Summer Associate](https://jobright.ai/jobs/info/6772e7db1a66497d400d2286?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Data Scientist](https://jobright.ai/jobs/info/674217b9b86cc48cb18279f0?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Dec 30 |
+| ↳ | **[2025 Intern - Data Science](https://jobright.ai/jobs/info/67452bb02f5378bda6535479?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
 | **[KCF Technologies, Inc.](http://www.kcftech.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/67637a0812126ee4095912ba?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Dec 30 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Finance Data Scientist](https://jobright.ai/jobs/info/673f3e1294a51395e0609abe?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
-| ↳ | **[2025 Intern - Data Scientist](https://jobright.ai/jobs/info/675110af33009ce831c67fbf?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 30 |
 | ↳ | **[2025 Intern - Data Scientist](https://jobright.ai/jobs/info/6741b2948cc0dc31277894fd?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
-| ↳ | **[2025 Intern - Data Science](https://jobright.ai/jobs/info/673f154bd7d3ec929f79f7a1?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
 | ↳ | **[2025 Intern - Data Science and Strategic Analytics Manager](https://jobright.ai/jobs/info/6740050222e7eebe1ee6bceb?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Assoc Data & Reporting Analyst](https://jobright.ai/jobs/info/67505d2855e2fe78a228c923?utm_campaign=1066&utm_source=git)** | Maryland Heights, MO | Hybrid | Dec 29 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Data Science Intern - Summer 2025](https://jobright.ai/jobs/info/67404df89e08fdbe9743c8be?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Dec 29 |
 | **[Amazon](https://amazon.com)** | **[2025 Data Science Internship - United States, PhD or Masters Student](https://jobright.ai/jobs/info/675d0f7051cd2f5731d4fca6?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 29 |
 | **[Rice University](http://www.rice.edu)** | **[Postdoctoral Associate - Sociology](https://jobright.ai/jobs/info/6736c5516fc2f026059f8317?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Dec 28 |
-| **[FM](https://www.fmglobal.com)** | **[Data Science Advanced Analytics Summer Technical Internship 2025](https://jobright.ai/jobs/info/6770e2e15d72ca21653332b7?utm_campaign=1066&utm_source=git)** | Johnston, RI | On Site | Dec 28 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Data Analysis - Service Delivery Intern](https://jobright.ai/jobs/info/67700b6355f6c9255255af83?utm_campaign=1066&utm_source=git)** | Carlsbad, CA | On Site | Dec 28 |
 | **[Ericsson](https://www.ericsson.com)** | **[Research Intern Summer 2025](https://jobright.ai/jobs/info/671ae85d3bc7f25709273de9?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Dec 28 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Data Analyst Intern, Support Operations (Summer 2025)](https://jobright.ai/jobs/info/67492867d60c91937bed20f4?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Dec 28 |
@@ -123,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations — Provider Network Data Science Engineering Intern](https://jobright.ai/jobs/info/676d331e93f44cdcf3274935?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 26 |
 | **[CohnReznick LLP](http://www.cohnreznick.com/)** | **[2025 Digital Data & AI Summer Internship](https://jobright.ai/jobs/info/674e434ca193d995ef3c85d3?utm_campaign=1066&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Dec 26 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern - Clinical Biometrics](https://jobright.ai/jobs/info/674ef1ec40783365266a8433?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Dec 25 |
-| **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations – Associate Data Modeler Senior Intern](https://jobright.ai/jobs/info/676c398f20e978ef05bd51c1?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
