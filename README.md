@@ -85,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Data & Insights, Chief Diversity Office](https://jobright.ai/jobs/info/67789bc07a863a9e00c7272e?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 03 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/677899b20e9fff4f796b36fa?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Jan 03 |
 | ↳ | **[Analyst Intern](https://jobright.ai/jobs/info/677899b20e9fff4f796b366a?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Jan 03 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Assoc Data & Reporting Analyst](https://jobright.ai/jobs/info/66beedf075eb11c62726507b?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Jan 03 |
 | **[Utah Transit Authority](http://www.rideuta.com/)** | **[Data Reporting and Analytics Intern](https://jobright.ai/jobs/info/677892e27ff864d44eb02bae?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Jan 03 |
 | **[ASML](https://www.asml.com)** | **[Internship – System Software and Data Analytic Engineer](https://jobright.ai/jobs/info/67788367acb7a5c23e23a55c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jan 03 |
 | **[FINRA](http://www.finra.org)** | **[2025 Summer Intern - Data Analytics/Data Science](https://jobright.ai/jobs/info/677884182274cb9baaf8daa8?utm_campaign=1066&utm_source=git)** | Rockville, MD | On Site | Jan 03 |
@@ -145,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Intern the Otsuka Way 2025 - Statistician Intern (Data & Analytics)](https://jobright.ai/jobs/info/677710eeeb2458bc1fac55f1?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 02 |
 | **[Albemarle Corporation](http://albemarle.com)** | **[Ketjen 2025 Summer Data Science Intern](https://jobright.ai/jobs/info/67770d57290f702aa4a0fe15?utm_campaign=1066&utm_source=git)** | Pasadena, TX | On Site | Jan 02 |
 | **[Otsuka Pharmaceutical Companies (U.S.)](https://www.otsuka-us.com)** | **[Intern the Otsuka Way 2025 - Data Scientist Intern](https://jobright.ai/jobs/info/67770304ad3d6c96c5c32e50?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 02 |
-| ↳ | **[Intern the Otsuka Way 2025 -Statistical Programming Intern](https://jobright.ai/jobs/info/6776fadc1d447e15843fb7b0?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jan 02 |
 | ↳ | **[Intern the Otsuka Way 2025 - Statistics Intern](https://jobright.ai/jobs/info/67770304ad3d6c96c5c32e8f?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 02 |
+| ↳ | **[Intern the Otsuka Way 2025 -Statistical Programming Intern](https://jobright.ai/jobs/info/6776fadc1d447e15843fb7b0?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jan 02 |
 | ↳ | **[Intern the Otsuka Way 2025 -Data Scientist Intern](https://jobright.ai/jobs/info/6776fadc1d447e15843fb74c?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 02 |
 | ↳ | **[Intern the Otsuka Way 2025 -Data Analyst Intern](https://jobright.ai/jobs/info/67770304ad3d6c96c5c32e57?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jan 02 |
 | **[Lucid Software](https://lucid.co)** | **[Data Analyst Internship Summer 2025](https://jobright.ai/jobs/info/677715636f5406270c7a3481?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Hybrid | Jan 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Delivery Analyst (SUMMER) - Remote](https://jobright.ai/jobs/info/6776fadc1d447e15843fb7db?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 02 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Continuous Improvement Intern (Summer 2025)](https://jobright.ai/jobs/info/66e955dab833db82bc79e53e?utm_campaign=1066&utm_source=git)** | Anderson, SC | On Site | Jan 02 |
 | **[INNOCEAN USA](http://www.innoceanusa.com/)** | **[Data Science INNtern](https://jobright.ai/jobs/info/6776c6606aa5f7aa51289cbc?utm_campaign=1066&utm_source=git)** | Huntington Beach, CA | On Site | Jan 02 |
-| **[Acxiom](http://www.acxiom.com)** | **[Intern - Delivery Analyst (SUMMER) - Remote](https://jobright.ai/jobs/info/6776b5c054081bde7bae92ee?utm_campaign=1066&utm_source=git)** | Remote/Homebased | Remote | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
