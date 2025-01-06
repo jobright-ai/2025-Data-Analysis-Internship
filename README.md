@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Dexcom](http://www.dexcom.com)** | **[Intern II – Data Science](https://jobright.ai/jobs/info/677b3e42c224693d687b9404?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Jan 05 |
+| **[Dexcom](http://www.dexcom.com)** | **[Intern II – Data Science](https://jobright.ai/jobs/info/677ba08a3757fbf6ba85288a?utm_campaign=1066&utm_source=git)** | Remote - United States | Hybrid | Jan 06 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Sr. Data Science Intern](https://jobright.ai/jobs/info/677b92cfe12c1819fe5e42bc?utm_campaign=1066&utm_source=git)** | Guilford, CT | On Site | Jan 05 |
 | **[Health Advances](http://www.healthadvances.com)** | **[Analyst Intern - Summer 2025 (Newton)](https://jobright.ai/jobs/info/677b37d78de6237d8b747333?utm_campaign=1066&utm_source=git)** | Weston, MA | Hybrid | Jan 05 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Summer Intern, Translational Research](https://jobright.ai/jobs/info/677b075c073075fdef7325c8?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Jan 05 |
 | **[BioSpace](http://www.biospace.com/)** | **[Biostatistics and Data Mgmt Programming – R Intern](https://jobright.ai/jobs/info/677ab10d4963fdb564905913?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Jan 05 |
 | **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Business Intelligence & Data Management - R8060](https://jobright.ai/jobs/info/6709a339ffa355a931c75e02?utm_campaign=1066&utm_source=git)** | Dayton, OH | Hybrid | Jan 05 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Chemistry - Data Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/6740d020d609d48944f5ef30?utm_campaign=1066&utm_source=git)** | Wickliffe, OH | Hybrid | Jan 05 |
+| **[StepStone Group](https://www.stepstoneglobal.com)** | **[SPAR - Research Analytics Junior Analyst](https://jobright.ai/jobs/info/6747bc4c53ae1636b8da27ea?utm_campaign=1066&utm_source=git)** | La Jolla, CA | Hybrid | Jan 04 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[GIS Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/67241b6560765c6a2b18ff8e?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Jan 04 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '25 Intern - Business Insights](https://jobright.ai/jobs/info/6758b318e2a6c19d3a366e73?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jan 04 |
 | **[BioSpace](http://www.biospace.com/)** | **[Global Center for Data Governance Intern](https://jobright.ai/jobs/info/6779566d12f639d839fc756b?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Jan 04 |
@@ -91,6 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Voya Investment Management](http://investments.voya.com)** | **[Summer Student - Quantitative Analyst and Programmer](https://jobright.ai/jobs/info/67225c93146ed90b08539e0a?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 03 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Polling Intern, Center for Communications, Winter/Spring 2025](https://jobright.ai/jobs/info/672443cd7f8b2a8d369833f6?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Jan 03 |
 | **[Invesco US](http://www.invesco.com/us)** | **[Client Research Intern](https://jobright.ai/jobs/info/6730eb437454315f9557784a?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Jan 03 |
+| **[Walmart](http://www.walmart.com)** | **[2025 Summer Undergraduate Intern: Walmart Fashion (USA) Corporate Intern](https://jobright.ai/jobs/info/677b6d707d59e9d41b040152?utm_campaign=1066&utm_source=git)** | Bentonville, AR | On Site | Jan 03 |
+| **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/674e9152d7e87045b841ef03?utm_campaign=1066&utm_source=git)** | Carlisle, PA | On Site | Jan 03 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Data Visualization & Management Intern- WI, MN, or CO](https://jobright.ai/jobs/info/6778b0b0148c9c832dd7254c?utm_campaign=1066&utm_source=git)** | Eau Claire, WI | On Site | Jan 03 |
 | ↳ | **[Data Visualization & Management Intern- WI, MN, or CO](https://jobright.ai/jobs/info/6778b1d4148c9c832dd73018?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Jan 03 |
 | ↳ | **[Data Visualization & Management Intern- WI, MN, or CO](https://jobright.ai/jobs/info/6778b1d4148c9c832dd73019?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Jan 03 |
@@ -124,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Infectious Diseases Research and Early Development](https://jobright.ai/jobs/info/67782aa8bbcd50f0ae275ccc?utm_campaign=1066&utm_source=git)** | Pleasanton | On Site | Jan 03 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Division of Epidemiologic Research Master's Intern](https://jobright.ai/jobs/info/677882351464a795e5d36d4d?utm_campaign=1066&utm_source=git)** | Pasadena, CA | Hybrid | Jan 03 |
 | **[Optum](https://www.optum.com/)** | **[Grad Intern - Data or Research - Remote](https://jobright.ai/jobs/info/67782b02cad1791e077a020b?utm_campaign=1066&utm_source=git)** | Eden Prairie, MN | Hybrid | Jan 03 |
+| **[Henkel](http://www.henkel.com)** | **[IT Performance & Analytics Intern](https://jobright.ai/jobs/info/6778139c6cb7e5f826e61129?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Jan 03 |
 | **[ORAU](https://www.orau.org/)** | **[A Next Generation Quick Fire Emissions Dataset (QFED)](https://jobright.ai/jobs/info/67783002b43caf125639fd59?utm_campaign=1066&utm_source=git)** | Greenbelt, MD | On Site | Jan 03 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Summer Intern - Clinical Data Sciences (PhD)](https://jobright.ai/jobs/info/676ec2e0e278a2f7a920a83b?utm_campaign=1066&utm_source=git)** | Ridgefield, CT | Remote | Jan 03 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[GIS Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/6723f0b8e7062bb57d1fe11a?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Jan 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[dormakaba Americas](https://www.dormakaba.com/us-en)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6759bffae718f506b55ea39e?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jan 03 |
 | **[Principal Financial Group](https://principaletfs.com/)** | **[Intern - Business Analytics, Asset Management](https://jobright.ai/jobs/info/6757b5e9b1361ea11c27360c?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Hybrid | Jan 03 |
 | **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Assessment Technical Data Analyst Intern](https://jobright.ai/jobs/info/67778d0a89e97efa49ec8767?utm_campaign=1066&utm_source=git)** | United States | On Site | Jan 02 |
-| **[BASF](http://www.basf.com)** | **[2025 Summer Internship - Data Science/Computer Engineering - Geismar, LA 1 1 1 1](https://jobright.ai/jobs/info/6777789612e548f33fe92698?utm_campaign=1066&utm_source=git)** | Geismar, LA | Hybrid | Jan 02 |
-| **[IBM](http://www.ibm.com)** | **[2025 Masters or PhD Intern – Sr. Marketing Data Science & Analytics](https://jobright.ai/jobs/info/677771d16eff1e87fd9298da?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jan 02 |
-| **[Revolution Medicines](https://www.revmed.com)** | **[Summer Intern, Translational Research](https://jobright.ai/jobs/info/677760816f87dde5707de0d7?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 02 |
-| **[XPO](https://www.xpo.com)** | **[Tech Program Intern III (Data Science)](https://jobright.ai/jobs/info/6777564ae3b367a5553551ca?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jan 02 |
-| **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Data and Analytics Intern](https://jobright.ai/jobs/info/677791c2367e58bd252e38fe?utm_campaign=1066&utm_source=git)** | Glen Allen, VA | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
