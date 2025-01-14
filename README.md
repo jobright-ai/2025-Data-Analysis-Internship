@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zipline](http://flyzipline.com)** | **[Data Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/6753e3ab245a63ad43af2bb1?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 14 |
+| **[ASML](https://www.asml.com)** | **[Internship - Data Science and Analytics](https://jobright.ai/jobs/info/678648cb0acd71fee04d95b4?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Jan 14 |
+| **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship Data Analytics (Claims)](https://jobright.ai/jobs/info/67648699870b8ec868b000e9?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 14 |
+| **[Brown University](http://www.brown.edu/)** | **[Postdoctoral Researcher](https://jobright.ai/jobs/info/67863c92e3aace8d3b43f478?utm_campaign=1066&utm_source=git)** | Providence, RI | Hybrid | Jan 14 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Research Intern - Hidden Reach/ iDeas Lab (Spring 2025)](https://jobright.ai/jobs/info/678630b117d32389d2cad680?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jan 14 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Data Privacy Intern](https://jobright.ai/jobs/info/6786015b998d6bc8f92f77c4?utm_campaign=1066&utm_source=git)** | State College, PA | On Site | Jan 13 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Data Science Internship - Summer 2025](https://jobright.ai/jobs/info/6785f60e893300d6ca842f37?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 13 |
@@ -77,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[BASF](http://www.basf.com)** | **[2025 Summer Internship - Data Science/Computer Engineering - Geismar, LA 1 1 1 1](https://jobright.ai/jobs/info/6777789612e548f33fe92698?utm_campaign=1066&utm_source=git)** | Geismar, LA | Hybrid | Jan 13 |
 | **[ASML](https://www.asml.com)** | **[Internship - Reliability Data Science](https://jobright.ai/jobs/info/67859a0ca6d625df5c684e7a?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Jan 13 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Domestic Network Analysis (Summer 2025)](https://jobright.ai/jobs/info/67859a0ca6d625df5c684e3a?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 13 |
+| **[Meijer](https://www.meijer.com/)** | **[IT Data Science Intern- Summer 2025](https://jobright.ai/jobs/info/6785a7ee1a62fe05398a75d9?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Jan 13 |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern - Pharmacy Aggregation Group](https://jobright.ai/jobs/info/6782f9b412cfff8b89e5eabc?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | Hybrid | Jan 13 |
 | **[Dun & Bradstreet](http://www.dnb.com)** | **[2025 Dun & Bradstreet Summer Internship Program - Data & Analytics](https://jobright.ai/jobs/info/678595c95f6deb7a257216d5?utm_campaign=1066&utm_source=git)** | Jacksonville - Florida - United States | On Site | Jan 13 |
 | **[Aetion](https://www.aetion.com)** | **[Analyst Intern (Epidemiology)](https://jobright.ai/jobs/info/6785a1004e1be79d7be6de77?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 13 |
@@ -91,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[EPRI](http://www.epri.com)** | **[Forecasting and Data Analytics Summer Student Employee](https://jobright.ai/jobs/info/678576e389c0e1544620807c?utm_campaign=1066&utm_source=git)** | Home, KS | Remote | Jan 13 |
 | **[Henkel](http://www.henkel.com)** | **[R&D Intern, Customer Insights – Summer 2025](https://jobright.ai/jobs/info/67857632a39e07443ea43fbc?utm_campaign=1066&utm_source=git)** | Trumbull, CT | On Site | Jan 13 |
 | **[CAS](http://www.cas.org)** | **[BU24IN- Bioinformatics Scientist Intern](https://jobright.ai/jobs/info/67857e826a69907ee946cc2c?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Jan 13 |
-| **[Meijer](https://www.meijer.com/)** | **[IT Data Science Intern- Summer 2025](https://jobright.ai/jobs/info/67856c58e3f1ebd7f4411e4a?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Jan 13 |
 | **[May Mobility](https://maymobility.com/)** | **[Autonomy - Data Science Intern](https://jobright.ai/jobs/info/678574009a945a407bc0ea92?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Remote | Jan 13 |
 | **[EPRI](http://www.epri.com)** | **[Forecasting and Data Analytics Summer Student Employee](https://jobright.ai/jobs/info/678562c23a590f10c783579c?utm_campaign=1066&utm_source=git)** | Remote/Home Based | Remote | Jan 13 |
 | ↳ | **[Forecasting and Data Analytics Summer Student Employee](https://jobright.ai/jobs/info/678562c23a590f10c78356a7?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Jan 13 |
@@ -144,7 +148,7 @@ For a complete list, click the following sortable link below:
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD](https://jobright.ai/jobs/info/6696e8e9a1ae585fe37b3f3b?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Jan 10 |
 | **[Cisco](http://www.cisco.com)** | **[Data Science Intern, Generative AI Infrastructure (Meraki)](https://jobright.ai/jobs/info/675aa26b19053cbf97c9f15b?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jan 10 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Epidemiology and Real World Science Intern](https://jobright.ai/jobs/info/6781cfcd617dc5eb5c664aae?utm_campaign=1066&utm_source=git)** | US - Wilmington - DE | On Site | Jan 10 |
-| ↳ | **[Biostatistician Intern](https://jobright.ai/jobs/info/6781cfcd617dc5eb5c664a96?utm_campaign=1066&utm_source=git)** | US - Boston - MA | On Site | Jan 10 |
+| ↳ | **[Biostatistician Intern](https://jobright.ai/jobs/info/6781cfcd617dc5eb5c664a90?utm_campaign=1066&utm_source=git)** | US - Boston - MA | On Site | Jan 10 |
 | ↳ | **[HEOR Data Analytics Intern](https://jobright.ai/jobs/info/6781c78f6295bf7ede77f533?utm_campaign=1066&utm_source=git)** | US - Boston - MA | On Site | Jan 10 |
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6781c78f6295bf7ede77f4f0?utm_campaign=1066&utm_source=git)** | US - Boston - MA | On Site | Jan 10 |
 | **[Teva Pharmaceuticals](https://www.tevapharm.com)** | **[Intern - R&D, Statistics](https://jobright.ai/jobs/info/6781d2f1b91d899969d9ac5e?utm_campaign=1066&utm_source=git)** | West Chester, PA | On Site | Jan 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Boise Cascade Company](http://www.bc.com/index.html)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6781c874b2b916def5e2951f?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Jan 10 |
 | **[Viasat](http://www.viasat.com)** | **[Data Analytics and Visualization Intern,  Part-Time (Spring 2025) & Full Time (Summer 2025)](https://jobright.ai/jobs/info/6781bf4049e85fd67ed681ff?utm_campaign=1066&utm_source=git)** | Carlsbad, CA | Hybrid | Jan 10 |
 | **[SGS](http://www.sgs.com/)** | **[Research Internship](https://jobright.ai/jobs/info/6781bf3d8a2c7417fa2afcad?utm_campaign=1066&utm_source=git)** | 840 US Hwy 12 SE , Degraff, MN , United States | On Site | Jan 10 |
-| ↳ | **[Research Internship](https://jobright.ai/jobs/info/6781c15062c8c33b7dba1912?utm_campaign=1066&utm_source=git)** | Minnesota, United States | On Site | Jan 10 |
-| **[The Mosaic Company](http://www.mosaicco.com/)** | **[Data Scientist Co-op/Intern - Fall 2025](https://jobright.ai/jobs/info/6781c18bdd3184abe7268e04?utm_campaign=1066&utm_source=git)** | Greater Tampa Bay Area | Hybrid | Jan 10 |
-| **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Informatics (Summer)](https://jobright.ai/jobs/info/6781bc6ba35d27437dd2f91b?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD | On Site | Jan 10 |
-| **[General Motors](https://www.gm.com)** | **[2025 Summer Intern – ADAS Insights](https://jobright.ai/jobs/info/6781b5b67278fcfd2f0779fd?utm_campaign=1066&utm_source=git)** | Mountain View, CA | Hybrid | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
