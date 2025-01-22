@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles River Laboratories](http://www.criver.com)** | **[2025 Summer Intern - Biostatistics Associate](https://jobright.ai/jobs/info/6790e192f2fb52b526d8d8a5?utm_campaign=1066&utm_source=git)** | Mattawan, MI | On Site | Jan 22 |
+| **[Pella Corporation](http://www.pella.com)** | **[Data Science Intern - Summer 2025](https://jobright.ai/jobs/info/675085c3b41da3d0cd8e1611?utm_campaign=1066&utm_source=git)** | Pella, IA | On Site | Jan 22 |
+| **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Data Analyst/Process Automation Intern, Community Aide (NCS) - Department of Finance](https://jobright.ai/jobs/info/6765e86e79b4dcede75bb184?utm_campaign=1066&utm_source=git)** | Baltimore, MD | On Site | Jan 22 |
+| **[Intuitive](https://intusurg.com)** | **[Business Intelligence Data Analyst Intern](https://jobright.ai/jobs/info/67526e390d9b1d84d6c52be9?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Jan 22 |
 | **[Aptima](http://aptima.com)** | **[Scientist, Intern](https://jobright.ai/jobs/info/6790b2c89c8c8206db27b996?utm_campaign=1066&utm_source=git)** | Woburn, MA | On Site | Jan 21 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern MAGNet Program @ Arizona State University](https://jobright.ai/jobs/info/6790950585d97dd7a8229197?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Jan 21 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Summer Data Scientist Intern](https://jobright.ai/jobs/info/67908aac8e842276d4050976?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
@@ -86,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Allegiant](https://www.allegiantair.com/)** | **[Intern, Customer Intelligence (Spring 2025)](https://jobright.ai/jobs/info/678fe6c6bc7d25fce37c8a38?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Jan 21 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2025 Data Analyst Intern, Construction - RPM](https://jobright.ai/jobs/info/678fe99f1e2a0844215f309f?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | On Site | Jan 21 |
 | ↳ | **[2025-2026 Yearlong Safety Computer Asset Data Analysis Intern](https://jobright.ai/jobs/info/678fe99f1e2a0844215f3080?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | On Site | Jan 21 |
-| ↳ | **[2025-2026 Yearlong Service Planning Analyst Intern](https://jobright.ai/jobs/info/678fe99f1e2a0844215f30a4?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | On Site | Jan 21 |
 | ↳ | **[2025-2026 Yearlong Finance and Data Analytics Intern](https://jobright.ai/jobs/info/678fe99f1e2a0844215f308e?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | On Site | Jan 21 |
+| ↳ | **[2025-2026 Yearlong Service Planning Analyst Intern](https://jobright.ai/jobs/info/678fe99f1e2a0844215f30a4?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | On Site | Jan 21 |
 | ↳ | **[2025-2026 Yearlong Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/678fe99f1e2a0844215f30bc?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | On Site | Jan 21 |
 | ↳ | **[2025-2026 Yearlong Data Analytics Intern](https://jobright.ai/jobs/info/678fe99f1e2a0844215f30a5?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | On Site | Jan 21 |
 | ↳ | **[2025-2026 Yearlong Safety Data Analyst](https://jobright.ai/jobs/info/678fe99f1e2a0844215f30c0?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | On Site | Jan 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2025 - Research Intern, Beyond Jails Initiative](https://jobright.ai/jobs/info/678b15fdc2967b41b82448ce?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 17 |
 | **[Kalderos](https://kalderos.com/)** | **[Data Science & Analytics Intern](https://jobright.ai/jobs/info/678b0e5e2f4fee8e35a69b53?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jan 17 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Statistical Programming](https://jobright.ai/jobs/info/6786b1d0a50a52df05693811?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Remote | Jan 17 |
-| **[Franklin Templeton](http://www.franklintempleton.com)** | **[FTIS - MPACT Team - Undergrad Intern](https://jobright.ai/jobs/info/678af7ddd808b44d38d3a846?utm_campaign=1066&utm_source=git)** | USA-BOS100-Boston | On Site | Jan 17 |
-| **[Moog Inc.](http://www.moog.com)** | **[Intern, IT Business/MIS/Data Analytics](https://jobright.ai/jobs/info/678aedf1671ee30955348a83?utm_campaign=1066&utm_source=git)** | Buffalo, NY | Hybrid | Jan 17 |
-| **[Niantic, Inc.](http://www.nianticlabs.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/678aee5441240f32e1253a43?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 17 |
-| **[Cisco](http://www.cisco.com)** | **[Data Analyst (Intern) United States](https://jobright.ai/jobs/info/678aec0d998c3603ab0fef63?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
