@@ -67,6 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/679e1f6d46a0e1a9ebb047b5?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Feb 01 |
 | **[Amazon](https://amazon.com)** | **[Business Intelligence Engineer Summer Internship – 2025 (US)](https://jobright.ai/jobs/info/6719d09efb3216d9a2a78901?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 01 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6795bc13c7eb23763d3fd9f6?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 01 |
+| **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Real Word Evidence - Spring 2025](https://jobright.ai/jobs/info/67460bdb64c9f44bb08b5b38?utm_campaign=1066&utm_source=git)** | Cary, NC | Hybrid | Feb 01 |
 | **[Moody's Corporation](www.moodys.com)** | **[Modeling Analyst Summer Intern](https://jobright.ai/jobs/info/67521c671012aecb21208329?utm_campaign=1066&utm_source=git)** | Newark, CA | On Site | Feb 01 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Risk](https://jobright.ai/jobs/info/679ddfa04f1ffa949ba2fc56?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Jan 31 |
 | ↳ | **[2026 Summer Analyst Internship - Transversal Operation Permanent Control](https://jobright.ai/jobs/info/679ddd2fff95d390c3da7ec3?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Graduate Statistics/Ops Research/Engineering Summer 2025 Intern 3 - 22179](https://jobright.ai/jobs/info/679c057f66bfc6200b21b78d?utm_campaign=1066&utm_source=git)** | Wright-Patterson Air Force Base, OH | On Site | Jan 30 |
 | **[Riverside Research](http://riversideresearch.org)** | **[GIS Intern](https://jobright.ai/jobs/info/679bf009c4a145745b740dba?utm_campaign=1066&utm_source=git)** | Fairfax, VA | On Site | Jan 30 |
 | **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Data Management and Analysis Co-op/Intern- Fall 2025](https://jobright.ai/jobs/info/6781a0e8ee4c417beeb07b34?utm_campaign=1066&utm_source=git)** | Marysville, OH | On Site | Jan 30 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[GIS Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/679bfa0e291eb200fcac0d8d?utm_campaign=1066&utm_source=git)** | Brentwood, TN | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
