@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Data and Statistical Science for Evidence Generation Intern](https://jobright.ai/jobs/info/679fa207418ef851f72f13e5?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Feb 02 |
+| ↳ | **[Global Competitive Intelligence Intern](https://jobright.ai/jobs/info/679f914c5b1b45596d377d45?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Feb 02 |
+| **[Amgen](http://www.amgen.com)** | **[Grad Intern - CD&A Data Science Program (Summer 2025)](https://jobright.ai/jobs/info/679f8922f80fe26b57d766eb?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 02 |
+| ↳ | **[Undergrad Intern - CD&A Data Science Program (Summer 2025)](https://jobright.ai/jobs/info/679f8922f80fe26b57d766e9?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 02 |
+| **[Upstate Medical University](https://www.upstate.edu)** | **[Research Aide - Research Core Lab (SPORE)](https://jobright.ai/jobs/info/679f86a7988d8a440ed0da33?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Feb 02 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Data Science Technician Manufacturing Operations Support  Intern](https://jobright.ai/jobs/info/679f1fa25acf3971b92921ed?utm_campaign=1066&utm_source=git)** | Carlsbad, CA | On Site | Feb 01 |
 | **[Health Advances](http://www.healthadvances.com)** | **[Analyst Intern - Summer 2025 (SF)](https://jobright.ai/jobs/info/679eda6409c80ba5093ccb99?utm_campaign=1066&utm_source=git)** | Weston, MA | Hybrid | Feb 01 |
 | **[ESPN](http://espncareers.com)** | **[ESPN Research Intern, New York City, Summer 2025](https://jobright.ai/jobs/info/679e55933158556f16a265dd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 01 |
@@ -83,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Vanderlande](https://www.vanderlande.com)** | **[Sourcing Data Analytics Intern](https://jobright.ai/jobs/info/679d70d096badb40019c940a?utm_campaign=1066&utm_source=git)** | Marietta, GA | On Site | Jan 31 |
 | **[GlobalFoundries](https://gf.com/)** | **[Business Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/679d6a907dcd8702f4dc054c?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Jan 31 |
 | **[Fiskars Group](http://www.fiskarsgroup.com)** | **[Category Management and Analytics Intern](https://jobright.ai/jobs/info/679d5996af6620d4252de012?utm_campaign=1066&utm_source=git)** | Middleton, WI | Hybrid | Jan 31 |
-| **[KBR, Inc.](https://www.kbr.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/679d536d59a5d6568d6eeee5?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | On Site | Jan 31 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/679d536d59a5d6568d6eefee?utm_campaign=1066&utm_source=git)** | Beavercreek, OH | On Site | Jan 31 |
+| **[KBR, Inc.](https://www.kbr.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/679d536d59a5d6568d6eefee?utm_campaign=1066&utm_source=git)** | Beavercreek, OH | On Site | Jan 31 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/679d536d59a5d6568d6eeee5?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | On Site | Jan 31 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Geographic Information Systems Science Intern - Summer 2025](https://jobright.ai/jobs/info/677f20fca5a7af50dd58e785?utm_campaign=1066&utm_source=git)** | Albuquerque, NM | Hybrid | Jan 31 |
 | **[Dealer Tire](http://dealertire.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/679d4f16b155637a5ddbf133?utm_campaign=1066&utm_source=git)** | Remote Pennsylvania | Remote | Jan 31 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Co-op Epidemiology & Data Analytics](https://jobright.ai/jobs/info/679d4c8807e0785fdcc0eb2a?utm_campaign=1066&utm_source=git)** | Raritan, NJ | Remote | Jan 31 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[Research Analyst Intern - Fuels, Chemicals, Resource Solutions (Early Careers)](https://jobright.ai/jobs/info/677ee6b4599e4c9d299ee98c?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jan 30 |
 | **[maurices](https://www.maurices.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/679c2674036078aa07d59c64?utm_campaign=1066&utm_source=git)** | Duluth, MN | On Site | Jan 30 |
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Data Science and Analytics Intern](https://jobright.ai/jobs/info/67996f5f24120515f43b304a?utm_campaign=1066&utm_source=git)** | Farmington, CT | On Site | Jan 30 |
-| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern, Ramin Lab: Per Diem - Onsite](https://jobright.ai/jobs/info/677fba0e9e986613247e6cb0?utm_campaign=1066&utm_source=git)** | Beverly Hills, CA | On Site | Jan 30 |
-| **[maurices](https://www.maurices.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/679c063f84e2bc7b1f60f0a8?utm_campaign=1066&utm_source=git)** | Corporate Office-maurices-Duluth, MN 55802 | On Site | Jan 30 |
-| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Graduate Statistics/Ops Research/Engineering Summer 2025 Intern 3 - 22179](https://jobright.ai/jobs/info/679c057f66bfc6200b21b78d?utm_campaign=1066&utm_source=git)** | Wright-Patterson Air Force Base, OH | On Site | Jan 30 |
-| **[Riverside Research](http://riversideresearch.org)** | **[GIS Intern](https://jobright.ai/jobs/info/679bf009c4a145745b740dba?utm_campaign=1066&utm_source=git)** | Fairfax, VA | On Site | Jan 30 |
-| **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Data Management and Analysis Co-op/Intern- Fall 2025](https://jobright.ai/jobs/info/6781a0e8ee4c417beeb07b34?utm_campaign=1066&utm_source=git)** | Marysville, OH | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
