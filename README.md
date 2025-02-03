@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Daiichi Sankyo](http://www.daiichisankyo.com)** | **[Data and Statistical Science for Evidence Generation Intern](https://jobright.ai/jobs/info/679fe7868432002214189630?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Feb 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[Data and Statistical Science for Evidence Generation Intern](https://jobright.ai/jobs/info/679fa207418ef851f72f13e5?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Feb 02 |
 | ↳ | **[Global Competitive Intelligence Intern](https://jobright.ai/jobs/info/679f914c5b1b45596d377d45?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Feb 02 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern - CD&A Data Science Program (Summer 2025)](https://jobright.ai/jobs/info/679f8922f80fe26b57d766eb?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 02 |
@@ -65,6 +64,7 @@ For a complete list, click the following sortable link below:
 | **[Upstate Medical University](https://www.upstate.edu)** | **[Research Aide - Research Core Lab (SPORE)](https://jobright.ai/jobs/info/679f86a7988d8a440ed0da33?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Feb 02 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Data Science Technician Manufacturing Operations Support  Intern](https://jobright.ai/jobs/info/679f1fa25acf3971b92921ed?utm_campaign=1066&utm_source=git)** | Carlsbad, CA | On Site | Feb 01 |
 | **[Health Advances](http://www.healthadvances.com)** | **[Analyst Intern - Summer 2025 (SF)](https://jobright.ai/jobs/info/679eda6409c80ba5093ccb99?utm_campaign=1066&utm_source=git)** | Weston, MA | Hybrid | Feb 01 |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern](https://jobright.ai/jobs/info/679e7020b4285eb6c8fd1116?utm_campaign=1066&utm_source=git)** | O'Fallon, MO | On Site | Feb 01 |
 | **[ESPN](http://espncareers.com)** | **[ESPN Research Intern, New York City, Summer 2025](https://jobright.ai/jobs/info/679e55933158556f16a265dd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 01 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/679e1f6d46a0e1a9ebb047a2?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Feb 01 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/679e1f6d46a0e1a9ebb047a7?utm_campaign=1066&utm_source=git)** | Grand Island, NY | On Site | Feb 01 |
