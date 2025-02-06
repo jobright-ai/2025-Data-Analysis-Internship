@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midland States Bank](https://www.midlandsb.com)** | **[Intern](https://jobright.ai/jobs/info/67a498e501eadcb3579455d3?utm_campaign=1066&utm_source=git)** | O'Fallon, MO | On Site | Feb 06 |
 | **[PNC](http://www.pnc.com)** | **[Data Analytics Undergraduate Intern](https://jobright.ai/jobs/info/67a47b20d51be39671fd1e01?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Feb 06 |
 | ↳ | **[Quantitative Analytics Undergraduate Intern](https://jobright.ai/jobs/info/67a47e096e6a90b67f1e5589?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Feb 06 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/67a476e69f82d86bc5cb60e3?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 06 |
@@ -93,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[ResMed](https://www.resmed.com.au)** | **[Data Scientist Engineering Intern](https://jobright.ai/jobs/info/67a3d77c807df1fe83dfed28?utm_campaign=1066&utm_source=git)** | San Diego, CA, United States | On Site | Feb 05 |
 | **[Relias](https://www.relias.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/67a3efd767fe72e795cc45d2?utm_campaign=1066&utm_source=git)** | Morrisville, NC | Hybrid | Feb 05 |
 | **[Schneider Electric](https://www.se.com)** | **[Data Analytic Intern](https://jobright.ai/jobs/info/67a3d8e53aa7eda6708b6068?utm_campaign=1066&utm_source=git)** | Athens, TX | On Site | Feb 05 |
-| **[John Deere](https://www.deere.com)** | **[Part Time Student - Data Science and Analytics - Champaign, IL](https://jobright.ai/jobs/info/67a3ca437585c63de5c8604d?utm_campaign=1066&utm_source=git)** | Champaign, IL | Hybrid | Feb 05 |
 | **[MRC Global](http://www.mrcglobal.com)** | **[Summer Intern- Data and Analytics](https://jobright.ai/jobs/info/67a3afcd73832324e1c63eeb?utm_campaign=1066&utm_source=git)** | TX,HSTN HQ;012A HQ | On Site | Feb 05 |
 | **[PNC](http://www.pnc.com)** | **[Quantitative Analytics Undergraduate Intern](https://jobright.ai/jobs/info/67a3afcd73832324e1c6405d?utm_campaign=1066&utm_source=git)** | NY - New York | On Site | Feb 05 |
 | ↳ | **[Quantitative Analytics Undergraduate Intern](https://jobright.ai/jobs/info/67a3afcd73832324e1c63f00?utm_campaign=1066&utm_source=git)** | VA - Tysons Corner | On Site | Feb 05 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Chime](https://www.chime.com)** | **[Reporting and Data Infrastructure Intern (Summer 2025)](https://jobright.ai/jobs/info/67a298974bafe03d7a4acfdd?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Feb 04 |
 | **[CSL](https://www.csl.com)** | **[2025 Summer CDIS Clinical Programming Internship](https://jobright.ai/jobs/info/67a287f76d41836be5772bb0?utm_campaign=1066&utm_source=git)** | Americas, US-PA, King of Prussia, CSL Behring | On Site | Feb 04 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Innovation Analyst Intern](https://jobright.ai/jobs/info/677a13916e0e4b469f3f8fc9?utm_campaign=1066&utm_source=git)** | Carlisle, PA | On Site | Feb 04 |
+| **[Veradigm®](https://veradigm.com)** | **[Medical Informatics Intern](https://jobright.ai/jobs/info/67a2928b539164e59ddbe1bf?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 04 |
 | **[Truveta](https://www.truveta.com)** | **[Clinical Data Analyst Intern](https://jobright.ai/jobs/info/675056a4607e29c8c09af63b?utm_campaign=1066&utm_source=git)** | Greater Seattle Area | On Site | Feb 04 |
 | **[Flashpoint](https://www.flashpoint.io)** | **[Intelligence Skillbridge Intern](https://jobright.ai/jobs/info/67a2825c54d0f0be6bb64ed8?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 04 |
-| **[Hibbett](http://www.hibbett.com)** | **[IT Data Scientist Intern](https://jobright.ai/jobs/info/67a27f48323cadc0c08ed698?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
