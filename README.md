@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City and County of Denver](https://www.denvergov.org)** | **[Data Analytics and Innovation intern– (6-month College Internship)](https://jobright.ai/jobs/info/67a9e84a547aac78f2a64b23?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Feb 10 |
+| ↳ | **[Data Analyst College Intern– Air Service Development – 10 weeks - Denver International Airport](https://jobright.ai/jobs/info/67a9ef750a36f56963f3fdb5?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Feb 10 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Data Analyst College Intern– Air Service Development – 10 weeks - Denver International Airport](https://jobright.ai/jobs/info/67a9a8a93bdfd7ef98b9e7c9?utm_campaign=1066&utm_source=git)** | Denver International Airport | Hybrid | Feb 09 |
 | ↳ | **[Data Analytics and Innovation intern– (6-month College Internship)](https://jobright.ai/jobs/info/67a9a8a93bdfd7ef98b9e7cb?utm_campaign=1066&utm_source=git)** | Denver International Airport | Hybrid | Feb 09 |
 | **[MITRE](http://www.mitre.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/67a97dc155b36518bc4fda44?utm_campaign=1066&utm_source=git)** | O'Fallon, IL | On Site | Feb 09 |
@@ -66,12 +68,13 @@ For a complete list, click the following sortable link below:
 | **[Twitch](https://www.twitch.tv)** | **[Data Science Intern (MA/PhD)](https://jobright.ai/jobs/info/675cecbc09d42800c96c3971?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Feb 09 |
 | **[ASML](https://www.asml.com)** | **[Internship - Reliability Data Science](https://jobright.ai/jobs/info/67859a0ca6d625df5c684e7a?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Feb 09 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Real Estate Research Intern (PHX)](https://jobright.ai/jobs/info/6679630df6b36b4aa01a325a?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Feb 09 |
-| **[Valley Bank](https://www.valley.com/)** | **[Intern - Consumer Data & Analytics](https://jobright.ai/jobs/info/67a84c02fdcb92d4fac094b5?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Feb 09 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Data Scientist](https://jobright.ai/jobs/info/67419687d52a35807f954656?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 09 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Global Services Business Intelligence & Analytics Internship (Summer 2025)](https://jobright.ai/jobs/info/6786a3cd6e5289adbc71de66?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Feb 09 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Intelligence Analyst Intern - Summer 2025 (Remote)](https://jobright.ai/jobs/info/6780456469fdd998349f8f4d?utm_campaign=1066&utm_source=git)** | Virginia Beach, VA | Remote | Feb 09 |
 | **[East West Bank](http://eastwestbank.com)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/67a866bf54ab799e6f509f99?utm_campaign=1066&utm_source=git)** | Pasadena, CA | On Site | Feb 09 |
 | **[Zello](https://zello.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/678b0e5e2f4fee8e35a69a80?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Feb 09 |
 | **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: Associate Data Insights Analyst](https://jobright.ai/jobs/info/67133c38a3488d4f484a1823?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | On Site | Feb 09 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/67848008c0c51e126e671ffb?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Feb 09 |
 | **[LMI](http://www.lmi.org)** | **[Data Science Intern - Summer 2025](https://jobright.ai/jobs/info/67a8456812fa60800ecb92c2?utm_campaign=1066&utm_source=git)** | Tysons Corner, VA | On Site | Feb 08 |
 | **[Walmart](http://www.walmart.com)** | **[2025 Summer Grad Intern: Data Science III](https://jobright.ai/jobs/info/67a97103b211750e93372fe7?utm_campaign=1066&utm_source=git)** | Bentonville, AR | On Site | Feb 08 |
 | **[Municipal Securities Rulemaking Board](http://www.msrb.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/67a7d0db808089308b0d60f4?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Feb 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Clinical Data Science Communications](https://jobright.ai/jobs/info/67a5e14f73a5dc304955221a?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Feb 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Research & Analytics Intern, Summer 2025](https://jobright.ai/jobs/info/67a5c16b023078209e0484d3?utm_campaign=1066&utm_source=git)** | Burbank, CA, USA | On Site | Feb 07 |
 | **[89bio](https://www.89bio.com/)** | **[2025 Summer Intern - Clinical Science/Development](https://jobright.ai/jobs/info/67a866bf54ab799e6f509edd?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Feb 06 |
-| **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Information Solutions, Real World Data (RWD)](https://jobright.ai/jobs/info/67a5b53331847b8afe60c242?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Feb 06 |
-| ↳ | **[2025 Summer Intern - RDS Clinical Development and Medical Affairs (Clinical Operations)](https://jobright.ai/jobs/info/67a5b53331847b8afe60c246?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | On Site | Feb 06 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Load Research and Analysis Intern](https://jobright.ai/jobs/info/67a5bfe6f85227809a7e98f5?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
