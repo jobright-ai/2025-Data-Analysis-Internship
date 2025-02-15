@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[insitro](http://www.insitro.com)** | **[Data Science & Machine Learning Intern (Summer 2025)](https://jobright.ai/jobs/info/6764f992ed02adc9987da83d?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Feb 15 |
+| **[Intuitive](https://intusurg.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/673e592cece66d29ddf94188?utm_campaign=1066&utm_source=git)** | Blacksburg, VA | On Site | Feb 15 |
+| **[Roblox](https://corp.roblox.com)** | **[[Summer 2025] Data Scientist - PhD Intern](https://jobright.ai/jobs/info/673e8f673ee18dfcba7ac7cd?utm_campaign=1066&utm_source=git)** | San Mateo, CA | On Site | Feb 15 |
+| **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Intern, Data Intelligence](https://jobright.ai/jobs/info/678ae4d090f104b969d7a1f0?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Feb 15 |
+| **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Data Analytics Summer/Fall Co-Op](https://jobright.ai/jobs/info/67b07306b1af5a90127a1e49?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Feb 15 |
+| **[Houlihan Lokey](https://www.hl.com)** | **[Financial Services IT Intern](https://jobright.ai/jobs/info/67b06be3681d045984a2527d?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Feb 15 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Intern - Data Governance Analyst](https://jobright.ai/jobs/info/67b05c9cdc577ad1b41cf471?utm_campaign=1066&utm_source=git)** | Irving, TX | Hybrid | Feb 15 |
 | **[Corsair](http://www.corsair.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/67b04ed6029fb742c40761ea?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Feb 14 |
+| **[Lazard](http://www.lazard.com)** | **[Quant Researcher Summer Internship](https://jobright.ai/jobs/info/67940a6a2cbf26af60eafd43?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Feb 14 |
 | **[IQVIA](https://www.iqvia.com)** | **[Business Analytics Intern (Summer 2025 - Hybrid)](https://jobright.ai/jobs/info/67b035d916bc539f70c959e1?utm_campaign=1066&utm_source=git)** | San Mateo, CA | Hybrid | Feb 14 |
 | **[The Standard](https://www.standard.com)** | **[Data Analyst Intern - RP Sales](https://jobright.ai/jobs/info/67b0354a1bbea9132f88cb7c?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 14 |
 | ↳ | **[Data Analyst Intern - RP Sales](https://jobright.ai/jobs/info/67b0372a1bbea9132f88d5e2?utm_campaign=1066&utm_source=git)** | Portland, OR | Remote | Feb 14 |
@@ -68,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Data Scientist Intern (Summer 2025)](https://jobright.ai/jobs/info/6793d3775358f051f461cd4e?utm_campaign=1066&utm_source=git)** | Schaumburg, IL | Hybrid | Feb 14 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Statistical Programming](https://jobright.ai/jobs/info/67afeb1f065a0804a6ecffb0?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Feb 14 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, SQA Data Analyst, Summer 2025](https://jobright.ai/jobs/info/67afeabfe8d2d04973e38d63?utm_campaign=1066&utm_source=git)** | Newark, CA | On Site | Feb 14 |
-| **[The Standard](https://www.standard.com)** | **[Data  Analyst Intern - RP Sales](https://jobright.ai/jobs/info/67afe1df9f133d36b4e76a82?utm_campaign=1066&utm_source=git)** | Remote, USA | Remote | Feb 14 |
-| ↳ | **[Data  Analyst Intern - RP Sales](https://jobright.ai/jobs/info/67afe40b9f133d36b4e77593?utm_campaign=1066&utm_source=git)** | Portland, OR | On Site | Feb 14 |
+| **[The Standard](https://www.standard.com)** | **[Data  Analyst Intern - RP Sales](https://jobright.ai/jobs/info/67afe40b9f133d36b4e77593?utm_campaign=1066&utm_source=git)** | Portland, OR | On Site | Feb 14 |
+| ↳ | **[Data  Analyst Intern - RP Sales](https://jobright.ai/jobs/info/67afe1df9f133d36b4e76a82?utm_campaign=1066&utm_source=git)** | Remote, USA | Remote | Feb 14 |
 | **[First American](http://www.firstam.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/67afe828ac18507ef4877d4a?utm_campaign=1066&utm_source=git)** | Santa Ana, CA | On Site | Feb 14 |
 | **[Emory University](http://www.emory.edu)** | **[Post Doctoral Fellow](https://jobright.ai/jobs/info/67afe1cf93fa8460f5503ce1?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 14 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/67afc356baeed950f26ca2c1?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Remote | Feb 14 |
@@ -98,10 +105,10 @@ For a complete list, click the following sortable link below:
 | **[iHeartMedia](http://iheartmedia.com)** | **[Analytics Summer Intern](https://jobright.ai/jobs/info/67af4fafe31f4e92ca749f27?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 14 |
 | **[The Campbell's Company](http://www.campbellsoupcompany.com/)** | **[IT Intern - Enterprise Data & Reporting Jr. Analyst](https://jobright.ai/jobs/info/67af4ccb1983ad444646f527?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 14 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Analytics Summer Intern](https://jobright.ai/jobs/info/67af4d3c57ddeb887fad625b?utm_campaign=1066&utm_source=git)** | New York, NY (55th St) | On Site | Feb 14 |
-| **[dentsu](https://www.dentsu.com)** | **[Summer Internship Experience – Internships in Analytics and Data Platforms](https://jobright.ai/jobs/info/67af4f8c57ddeb887fad6def?utm_campaign=1066&utm_source=git)** | Remote Working | Remote | Feb 14 |
-| ↳ | **[Summer Internship Experience – Internships in Analytics and Data Platforms](https://jobright.ai/jobs/info/67af4f8c57ddeb887fad6dee?utm_campaign=1066&utm_source=git)** | Chicago - N. State | On Site | Feb 14 |
-| ↳ | **[Summer Internship Experience – Internships in Analytics and Data Platforms](https://jobright.ai/jobs/info/67af4d3c57ddeb887fad6257?utm_campaign=1066&utm_source=git)** | Detroit - 3000 Town Center | On Site | Feb 14 |
+| **[dentsu](https://www.dentsu.com)** | **[Summer Internship Experience – Internships in Analytics and Data Platforms](https://jobright.ai/jobs/info/67af4d3c57ddeb887fad6257?utm_campaign=1066&utm_source=git)** | Detroit - 3000 Town Center | On Site | Feb 14 |
 | ↳ | **[Summer Internship Experience – Internships in Analytics and Data Platforms](https://jobright.ai/jobs/info/67af4f8c57ddeb887fad6ded?utm_campaign=1066&utm_source=git)** | New York | On Site | Feb 14 |
+| ↳ | **[Summer Internship Experience – Internships in Analytics and Data Platforms](https://jobright.ai/jobs/info/67af4f8c57ddeb887fad6dee?utm_campaign=1066&utm_source=git)** | Chicago - N. State | On Site | Feb 14 |
+| ↳ | **[Summer Internship Experience – Internships in Analytics and Data Platforms](https://jobright.ai/jobs/info/67af4f8c57ddeb887fad6def?utm_campaign=1066&utm_source=git)** | Remote Working | Remote | Feb 14 |
 | **[C3 AI](https://c3.ai)** | **[Data Scientist - Intern (Spring 2025)](https://jobright.ai/jobs/info/6781946a15f64505c9961e39?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Feb 14 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - Summer Internship 2025 - IT, Consumer Insights - R8142](https://jobright.ai/jobs/info/6729a2821bffc5b262e8b589?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Feb 14 |
 | **[Red Hat](http://www.redhat.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/679c55b15aef894243dfc022?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Feb 14 |
@@ -149,12 +156,5 @@ For a complete list, click the following sortable link below:
 | **[RTW Investments, LP](http://www.rtwfunds.com)** | **[Research Specialist Internship](https://jobright.ai/jobs/info/67ae3c94a4112187eecca145?utm_campaign=1066&utm_source=git)** | NYC Metro Area | On Site | Feb 13 |
 | **[Humana](http://www.humana.com)** | **[Wharton AI & Analytics Accelerator CenterWell Externs](https://jobright.ai/jobs/info/67ae370fb4edee95996ef3ba?utm_campaign=1066&utm_source=git)** | Remote Nationwide | Remote | Feb 13 |
 | **[Bergen New Bridge Medical Center](http://www.newbridgehealth.org/)** | **[2025 SUMMER STUDENT INTERN/INTERNSHIP - BUSINESS ANALYTICS (23757)](https://jobright.ai/jobs/info/67ae3c94a4112187eecca46f?utm_campaign=1066&utm_source=git)** | Paramus, NJ | On Site | Feb 13 |
-| **[Argonne National Laboratory](http://www.anl.gov/)** | **[Research Aide - LCF - Prasad Bondapalli, Akhilesh - 2.12.25.](https://jobright.ai/jobs/info/67ae2b8e27c3c2d19fc298bb?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Feb 13 |
-| ↳ | **[Research Aide - LCF - Prasad Bondapalli, Akhilesh - 2.12.25.](https://jobright.ai/jobs/info/67ae2dac27c3c2d19fc2a347?utm_campaign=1066&utm_source=git)** | On-site | On Site | Feb 13 |
-| ↳ | **[Research Aide – MCS – Tao, Yiheng– 2.12.25](https://jobright.ai/jobs/info/67ae2dac27c3c2d19fc2a34e?utm_campaign=1066&utm_source=git)** | On-site | On Site | Feb 13 |
-| ↳ | **[Research Aide – MCS – Tao, Yiheng– 2.12.25](https://jobright.ai/jobs/info/67ae2b8e27c3c2d19fc2987d?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Feb 13 |
-| **[BioSpace](http://www.biospace.com/)** | **[Global Development Information Management Intern](https://jobright.ai/jobs/info/67ae2cc20a427d8a909286b0?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Feb 13 |
-| ↳ | **[Biostatistics Real World Evidence Intern](https://jobright.ai/jobs/info/67ae2cc20a427d8a909286b4?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Feb 13 |
-| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Primary Research Assistant Co-op](https://jobright.ai/jobs/info/67af0d0867fbb93cc732550a?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Feb 13 |
-| **[RELEX Solutions](http://www.relexsolutions.com)** | **[Space and Assortment Analyst Intern](https://jobright.ai/jobs/info/67ae2467cdcbfa5eb50c6e34?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 13 |
+| **[Argonne National Laboratory](http://www.anl.gov/)** | **[Research Aide - LCF - Prasad Bondapalli, Akhilesh - 2.12.25.](https://jobright.ai/jobs/info/67ae2dac27c3c2d19fc2a347?utm_campaign=1066&utm_source=git)** | On-site | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
