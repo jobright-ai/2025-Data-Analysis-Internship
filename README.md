@@ -57,20 +57,31 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legend Biotech](https://www.legendbiotech.com)** | **[Data Analysis & AI in CMC Intern](https://jobright.ai/jobs/info/67b7df3fd2f184471cb50d66?utm_campaign=1066&utm_source=git)** | Somerset, NJ | Hybrid | Feb 20 |
+| **[Danone](https://www.danone.com/)** | **[Summer 2025: IT & Data Intern, Undergraduate](https://jobright.ai/jobs/info/67b7df3fd2f184471cb50e0b?utm_campaign=1066&utm_source=git)** | White Plains, NY | Hybrid | Feb 20 |
+| **[Legend Biotech](https://www.legendbiotech.com)** | **[Analytical Data Science, CMC Intern](https://jobright.ai/jobs/info/67b7dc917ce2b8426b7cae3f?utm_campaign=1066&utm_source=git)** | Somerset, NJ | Hybrid | Feb 20 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/67b7dc917ce2b8426b7cae15?utm_campaign=1066&utm_source=git)** | Raritan, NJ | On Site | Feb 20 |
+| **[Premier Inc.](http://www.premierinc.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/67b7ea70033a2799237989e0?utm_campaign=1066&utm_source=git)** | United States | On Site | Feb 20 |
+| ↳ | **[Clinical Trial Intern](https://jobright.ai/jobs/info/67b7d4cad98ab6ae5ff1906c?utm_campaign=1066&utm_source=git)** | United States | On Site | Feb 20 |
+| **[Ultragenyx](http://www.ultragenyx.com)** | **[Intern, Data Sciences & Development Strategy](https://jobright.ai/jobs/info/67b7c8fba3c2453cf9de2cbc?utm_campaign=1066&utm_source=git)** | United States - Remote | Remote | Feb 20 |
+| **[Amazon](https://amazon.com)** | **[Intern - Economics, PXT Central Science](https://jobright.ai/jobs/info/67b7d0ca448e0718a88be164?utm_campaign=1066&utm_source=git)** | New York, New York, USA | On Site | Feb 20 |
+| ↳ | **[Intern - Economics, PXT Central Science](https://jobright.ai/jobs/info/67b7ceda448e0718a88bd655?utm_campaign=1066&utm_source=git)** | Arlington, Virginia, USA | On Site | Feb 20 |
+| **[Revamp Engineering, Inc.](https://www.revamp-eng.com)** | **[Power BI Engineering Internship](https://jobright.ai/jobs/info/67b7ceda448e0718a88bd6d6?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 20 |
+| **[Ensono](https://www.ensono.com)** | **[Capacity & Data Analytics Intern](https://jobright.ai/jobs/info/67b7cb2b6ae01bcdc053fa8b?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 20 |
 | **[Western Union](http://westernunion.com)** | **[Data Analytics and Modeling - Internship](https://jobright.ai/jobs/info/67b7b82aa38bddc108ab20cb?utm_campaign=1066&utm_source=git)** | USA - CO - Denver | Hybrid | Feb 20 |
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Operations Data Analyst Intern - i-0048](https://jobright.ai/jobs/info/67b7c1ff0f585bc30a4494d3?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Feb 20 |
 | ↳ | **[Memory Business Unit Analyst Intern - i-0049](https://jobright.ai/jobs/info/67b7c1ff0f585bc30a4494f2?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Feb 20 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Ph.D. Intern - Optimization (Summer 2025)](https://jobright.ai/jobs/info/67b7c0af97958776314a45e1?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 20 |
+| **[Duke University](http://www.duke.edu)** | **[RESEARCH SCHOLAR](https://jobright.ai/jobs/info/67b7cb2b6ae01bcdc053fde4?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Feb 20 |
+| **[Nautilus Insurance Group (a Berkley Company)](https://www.nautilusinsgroup.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/67b7cb2b6ae01bcdc053fe27?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Feb 20 |
 | **[BlackSky](http://www.blacksky.com/)** | **[Geospatial Analysis Intern ](https://jobright.ai/jobs/info/67b7b7f732c7daa4bdaefa47?utm_campaign=1066&utm_source=git)** | Herndon, VA | On Site | Feb 20 |
 | **[Staples](http://www.staples.com)** | **[Supply Chain – Associate Data Scientist Co-Op (Hybrid) - July 2025](https://jobright.ai/jobs/info/67b7aeb89b8cce72bae91c8e?utm_campaign=1066&utm_source=git)** | 500 Staples Drive, Framingham, MA, 01702, US | Hybrid | Feb 20 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Biostatistics](https://jobright.ai/jobs/info/67b7aeb89b8cce72bae91ca3?utm_campaign=1066&utm_source=git)** | Jacksonville, FL, United States | On Site | Feb 20 |
 | **[BlackSky](http://www.blacksky.com/)** | **[Geospatial Analysis Intern](https://jobright.ai/jobs/info/67b7c1ff0f585bc30a449689?utm_campaign=1066&utm_source=git)** | Herndon, VA | On Site | Feb 20 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/67b7aeb89b8cce72bae91d3e?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Feb 20 |
-| **[Radiant Digital](https://www.radiant.digital/)** | **[Research Analyst](https://jobright.ai/jobs/info/67b7b7f732c7daa4bdaefb6d?utm_campaign=1066&utm_source=git)** | Tysons Corner, VA | Hybrid | Feb 20 |
 | **[CareSource](https://www.caresource.com/)** | **[Summer Internship 2025 - Data Science - R8077](https://jobright.ai/jobs/info/67b7ae21e3bf7d247192fab3?utm_campaign=1066&utm_source=git)** | Dayton, OH | Hybrid | Feb 20 |
 | **[Team One](http://www.teamone-usa.com/)** | **[Summer Internship - Strategic Analytics](https://jobright.ai/jobs/info/67b7b7f732c7daa4bdaefbab?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 20 |
 | ↳ | **[Summer Internship - Strategic Analytics](https://jobright.ai/jobs/info/67b7ae21e3bf7d247192fad2?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Feb 20 |
-| **[Kendo Brands, Inc.](http://www.kendobrands.com/)** | **[Internship, Supply Chain Data Analyst](https://jobright.ai/jobs/info/67b7ae21e3bf7d247192fba8?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Feb 20 |
 | **[MITRE](http://www.mitre.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/67b7c1ff0f585bc30a449893?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | On Site | Feb 20 |
 | **[American Medical Association](http://ama-assn.org)** | **[Intern (Remote)](https://jobright.ai/jobs/info/67b7b7f732c7daa4bdaefee6?utm_campaign=1066&utm_source=git)** | Chicago, IL | Remote | Feb 20 |
 | **[Agiliti](https://www.agilitihealth.com/)** | **[Business Analytics Summer Intern - Eden Prairie, MN](https://jobright.ai/jobs/info/67b7c1ff0f585bc30a449a15?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Feb 20 |
@@ -131,13 +142,12 @@ For a complete list, click the following sortable link below:
 | **[CompanyCam](https://www.companycam.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/67b69b7dc199943da3a66d16?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Feb 19 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Data Governance](https://jobright.ai/jobs/info/67b68a5218c4a1d83611f303?utm_campaign=1066&utm_source=git)** | Irving, TX | Hybrid | Feb 19 |
 | ↳ | **[Intern - Data Governance](https://jobright.ai/jobs/info/67b68a5218c4a1d83611f308?utm_campaign=1066&utm_source=git)** | Arlington, TX | Hybrid | Feb 19 |
-| **[Stantec](http://www.stantec.com)** | **[Data Scientist](https://jobright.ai/jobs/info/67b7be2c807acbf8dd007b06?utm_campaign=1066&utm_source=git)** | Walnut Creek, CA | On Site | Feb 19 |
 | **[Zoox](https://www.zoox.com/)** | **[Reliability Data Intern](https://jobright.ai/jobs/info/67b678983e92d395cfdbbbdc?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Feb 19 |
 | **[Rakuten Advertising](https://rakutenadvertising.com/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/67b678983e92d395cfdbc211?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 19 |
 | **[IFC - International Finance Corporation](http://www.ifc.org)** | **[IFC Global Internship Program(47) - Data Cleaning and Analysis, literature research - req31584](https://jobright.ai/jobs/info/67b6a68d9ed2919bb0cdcfb2?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 19 |
 | ↳ | **[IFC Global Internship Program(45) - Data Management Processes Improvement Internship - req31582](https://jobright.ai/jobs/info/67b6a68d9ed2919bb0cdcfb4?utm_campaign=1066&utm_source=git)** | Washington, DC | Remote | Feb 19 |
-| **[Cox Enterprises](http://coxenterprises.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/67b668460bc7cae4925956f1?utm_campaign=1066&utm_source=git)** | Carmel IN | On Site | Feb 19 |
-| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/67b668460bc7cae4925957d2?utm_campaign=1066&utm_source=git)** | Atlanta GA | On Site | Feb 19 |
+| **[Cox Enterprises](http://coxenterprises.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/67b668460bc7cae4925957d2?utm_campaign=1066&utm_source=git)** | Atlanta GA | On Site | Feb 19 |
+| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/67b668460bc7cae4925956f1?utm_campaign=1066&utm_source=git)** | Carmel IN | On Site | Feb 19 |
 | **[UFCU](http://www.ufcu.org)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/67b678983e92d395cfdbc088?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 19 |
 | **[Samsung Electronics America](http://www.samsung.com/us/)** | **[Analyst Intern](https://jobright.ai/jobs/info/67b67018a0bea90d22f6a087?utm_campaign=1066&utm_source=git)** | Ridgefield Park, NJ | On Site | Feb 19 |
 | **[CF Industries](http://www.cfindustries.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/67b7b82aa38bddc108ab20f6?utm_campaign=1066&utm_source=git)** | Northbrook,Il | On Site | Feb 19 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Intern - Summer 2025](https://jobright.ai/jobs/info/67b657cee11aa749fd83119f?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Feb 19 |
 | ↳ | **[Data Science Intern - Summer 2025](https://jobright.ai/jobs/info/67b657cee11aa749fd8311a1?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Feb 19 |
 | **[Tenaska](http://www.tenaska.com/)** | **[Intern Settlements](https://jobright.ai/jobs/info/67b644f4e30cfe8b14e520f6?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Feb 19 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[Summer 2025 Data Science Intern- Master's (Santa Clara, CA)](https://jobright.ai/jobs/info/67b62ede310710fdb6d4b0de?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Feb 19 |
-| **[Environmental Defense Fund](http://www.edf.org/)** | **[Development Records & Data Intern](https://jobright.ai/jobs/info/67b722bcc3509d9e170165c3?utm_campaign=1066&utm_source=git)** | Washington, DC | Remote | Feb 19 |
-| ↳ | **[Development Records & Data Intern](https://jobright.ai/jobs/info/67b644f4e30cfe8b14e522cb?utm_campaign=1066&utm_source=git)** | Austin, TX | Remote | Feb 19 |
-| ↳ | **[Development Records & Data Intern](https://jobright.ai/jobs/info/67b646bfe30cfe8b14e52b91?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Feb 19 |
-| ↳ | **[Development Records & Data Intern](https://jobright.ai/jobs/info/67b646bfe30cfe8b14e52b92?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Remote | Feb 19 |
-| ↳ | **[Development Records & Data Intern](https://jobright.ai/jobs/info/67b646bfe30cfe8b14e52b96?utm_campaign=1066&utm_source=git)** | New York, United States | Remote | Feb 19 |
-| ↳ | **[Development Records & Data Intern](https://jobright.ai/jobs/info/67b646bfe30cfe8b14e52b97?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Feb 19 |
-| ↳ | **[Development Records & Data Intern](https://jobright.ai/jobs/info/67b646bfe30cfe8b14e52b93?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 19 |
-| ↳ | **[Development Records & Data Intern](https://jobright.ai/jobs/info/67b646bfe30cfe8b14e52b94?utm_campaign=1066&utm_source=git)** | Boulder, CO | Remote | Feb 19 |
-| **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[JMU Libraries Data & Scholarly Communications GA (25-26)](https://jobright.ai/jobs/info/67b63847942f7cbfc27226c4?utm_campaign=1066&utm_source=git)** | Harrisonburg, VA | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
