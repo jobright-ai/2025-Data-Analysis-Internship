@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/67bb52910cff28dbee199c34?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Feb 23 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[China Research Summer 2025 Internship](https://jobright.ai/jobs/info/67ba921dbb63d6e97c3bd5c2?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 22 |
 | **[Utah Transit Authority](http://www.rideuta.com/)** | **[Data Reporting and Analytics Intern](https://jobright.ai/jobs/info/67aee30203d558e5f7f667b8?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Feb 22 |
 | **[NetApp](http://netapp.com)** | **[Performance Analyst Intern](https://jobright.ai/jobs/info/67ba0d242ab732437c2f429c?utm_campaign=1066&utm_source=git)** | Durham, NC | Hybrid | Feb 22 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Maze Therapeutics](https://www.mazetx.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/67b98d7a7e029f42c9fd8664?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Feb 21 |
 | **[IBM](http://www.ibm.com)** | **[2025 Senior Data Scientist Intern (Corporate Development - M&A)](https://jobright.ai/jobs/info/67b95cfe4a02d41d6b57af64?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 21 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[GIS Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/679bfa0e291eb200fcac0d8d?utm_campaign=1066&utm_source=git)** | Brentwood, TN | Hybrid | Feb 21 |
-| **[MarshBerry](http://marshberry.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/67baaec44a52af9f61490256?utm_campaign=1066&utm_source=git)** | Woodmere, OH | Hybrid | Feb 21 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[Co-op Data Science](https://jobright.ai/jobs/info/67ae7fb9b4f1f53b5bfb6c11?utm_campaign=1066&utm_source=git)** | Hazelwood, MO | On Site | Feb 21 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[GIS Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/679bde2cdf29163b0fba1e8a?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Feb 21 |
 | **[Humacyte](http://humacyte.com)** | **[2025 Summer Internship - Biometrics, Clinical Data Management](https://jobright.ai/jobs/info/67b951604de917ed398dd85d?utm_campaign=1066&utm_source=git)** | Durham, NC | Hybrid | Feb 21 |
@@ -139,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Argonne National Laboratory](http://www.anl.gov/)** | **[Research Aide - LCF - Dahleh, Kaled - 2.20.25.](https://jobright.ai/jobs/info/67b8b57dc1fb344bf44be64f?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Feb 21 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Data Production & Document Management - Undergrad Intern](https://jobright.ai/jobs/info/67b8b57dc1fb344bf44be688?utm_campaign=1066&utm_source=git)** | St. Petersburg, Florida, United States of America | On Site | Feb 21 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[Data Science Intern- Summer 2025 Internship](https://jobright.ai/jobs/info/67b8c00c687db2ae171d06cc?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Feb 21 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[GIS Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/679bd41bcc1e56da93da8e71?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Feb 21 |
 | **[Bvlgari](https://www.bulgari.com/en-sg/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/67b8acf0af0c59a515278c94?utm_campaign=1066&utm_source=git)** | NYC Metro Area | Hybrid | Feb 21 |
 | **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[Data Analytics & Machine Learning Intern- Summer 2025 Internship](https://jobright.ai/jobs/info/67b8c00c687db2ae171d0779?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Feb 21 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Strategic Insights & Analytics Co-op](https://jobright.ai/jobs/info/67b8b7cb645748541d8c704e?utm_campaign=1066&utm_source=git)** | Horsham, PA | On Site | Feb 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, Data Science](https://jobright.ai/jobs/info/679c6a561a9aecd1b00a3d05?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Feb 21 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern, Ramin Lab: Per Diem - Onsite](https://jobright.ai/jobs/info/677fba0e9e986613247e6cb0?utm_campaign=1066&utm_source=git)** | Beverly Hills, CA | On Site | Feb 21 |
 | **[S&P Global](https://www.spglobal.com)** | **[Research Analyst Intern - Gas, Power, & Climate Solutions (Early Career)](https://jobright.ai/jobs/info/677f01a63207e250d68c4c1a?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 21 |
-| ↳ | **[Research Analyst Intern - Fuels, Chemicals, Resource Solutions (Early Careers)](https://jobright.ai/jobs/info/67b85f94866215fe5b3aae06?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
