@@ -94,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2025 - Graduate Research Intern, Incarceration and Inequality Project](https://jobright.ai/jobs/info/67b939bd53e36e95d3a4c425?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | Feb 21 |
 | **[BioLegend](http://biolegend.com)** | **[Intern - IT Data Analyst](https://jobright.ai/jobs/info/67b93047523312ea7214d512?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Feb 21 |
 | **[Komatsu](http://www.ehrbar.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/67b9265c25af46a282daab3c?utm_campaign=1066&utm_source=git)** | Peoria, IL | On Site | Feb 21 |
-| ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/67b93243523312ea7214dad4?utm_campaign=1066&utm_source=git)** | Longview, TX | On Site | Feb 21 |
 | ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/67b93243523312ea7214dad5?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Feb 21 |
+| ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/67b93243523312ea7214dad4?utm_campaign=1066&utm_source=git)** | Longview, TX | On Site | Feb 21 |
 | **[Amazon](https://amazon.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/67b91c3e3140ee960eb483ef?utm_campaign=1066&utm_source=git)** | Newark, New Jersey, USA | On Site | Feb 21 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Digital Health Intern](https://jobright.ai/jobs/info/67b90f192057c36545014333?utm_campaign=1066&utm_source=git)** | US - Boston - MA | On Site | Feb 21 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: PRO Intern (Remote)](https://jobright.ai/jobs/info/67b911ddbd36b8c8585923fb?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 21 |
