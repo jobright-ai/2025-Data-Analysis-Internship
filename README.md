@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skechers](http://www.skechers.com)** | **[Data Science and Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/67bbe3fd3d6ece4bb1c6335a?utm_campaign=1066&utm_source=git)** | Manhattan Beach, CA | On Site | Feb 23 |
+| ↳ | **[Data Science and Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/67bbe2b6c4b3f17ff0469317?utm_campaign=1066&utm_source=git)** | Manhattan Beach, CA | On Site | Feb 23 |
+| **[Daiichi Sankyo](http://www.daiichisankyo.com)** | **[Data and Statistical Science for Evidence Generation Intern](https://jobright.ai/jobs/info/67bbdf3487ec5ea1a080b044?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Feb 23 |
+| **[Xavier University of Louisiana](http://www.xula.edu/)** | **[Research Associate](https://jobright.ai/jobs/info/67bbd43a98c340d7a7210988?utm_campaign=1066&utm_source=git)** | New Orleans, LA | On Site | Feb 23 |
+| **[Municipal Securities Rulemaking Board](http://www.msrb.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/67bbcb748585e80b4a7812d7?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Feb 23 |
+| **[Elephas](https://elephas.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/67bbdf3487ec5ea1a080af0d?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Feb 23 |
 | **[BioSpace](http://www.biospace.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/67bb52910cff28dbee199c34?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Feb 23 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[China Research Summer 2025 Internship](https://jobright.ai/jobs/info/67ba921dbb63d6e97c3bd5c2?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 22 |
 | **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2025](https://jobright.ai/jobs/info/67a071db8546b803b7a4dbe7?utm_campaign=1066&utm_source=git)** | Novi, MI | On Site | Feb 22 |
@@ -132,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/67b8e1da5d3321910ebeabbb?utm_campaign=1066&utm_source=git)** | Massachusetts, United States | Remote | Feb 21 |
 | ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/67b8ce204bcfe65d6cd99a03?utm_campaign=1066&utm_source=git)** | Manchester, CT | On Site | Feb 21 |
 | ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/67b8d76b008cd5df56055ef3?utm_campaign=1066&utm_source=git)** | New York, United States | Remote | Feb 21 |
-| ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/67b8d76b008cd5df56055efa?utm_campaign=1066&utm_source=git)** | Providence County, RI | Remote | Feb 21 |
 | ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/67b8d76b008cd5df56055efd?utm_campaign=1066&utm_source=git)** | Manhattan, NY | On Site | Feb 21 |
+| ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/67b8d76b008cd5df56055efa?utm_campaign=1066&utm_source=git)** | Providence County, RI | Remote | Feb 21 |
 | ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/67b8cfee4bcfe65d6cd9a4b1?utm_campaign=1066&utm_source=git)** | New Jersey, United States | Remote | Feb 21 |
 | **[Construction Specialties](https://www.c-sgroup.com/)** | **[Intern - IT Business Intelligence](https://jobright.ai/jobs/info/67b8e890894454ce6065b9fe?utm_campaign=1066&utm_source=git)** | Lebanon, NJ | Hybrid | Feb 21 |
 | **[Topcon Positioning Systems](https://www.topconpositioning.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/67b8ca9560bbe30d2be187a3?utm_campaign=1066&utm_source=git)** | Oakland, NJ | On Site | Feb 21 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Stanford Rebele Summer Analyst Intern 2025](https://jobright.ai/jobs/info/679c4f3321c8aa817d3e9c3b?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Feb 21 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern II – Commercial Analytics](https://jobright.ai/jobs/info/67b6b3b51c9d9aa22c354270?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Feb 21 |
 | **[Aon](http://www.aon.com)** | **[Early Careers: Intern, IT Analyst](https://jobright.ai/jobs/info/679c65648c594d2186ced542?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Feb 21 |
-| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Graduate Statistics/Ops Research/Engineering Summer 2025 Intern 3 - 22179](https://jobright.ai/jobs/info/679c057f66bfc6200b21b78d?utm_campaign=1066&utm_source=git)** | Wright-Patterson Air Force Base, OH | On Site | Feb 21 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2025 Summer Intern - Data Scientist](https://jobright.ai/jobs/info/67b87e6376ef475b777297fa?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Feb 21 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[GIS Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/679bfa0e291eb200fcac0d8f?utm_campaign=1066&utm_source=git)** | Knoxville, TN | Hybrid | Feb 21 |
-| **[Pima County](https://webcms.pima.gov/)** | **[Intern - Epidemiology](https://jobright.ai/jobs/info/67b8920cf6a17d7b8bbd2b25?utm_campaign=1066&utm_source=git)** | Tucson, AZ | On Site | Feb 21 |
-| **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Data Science Internship - Spring 2025](https://jobright.ai/jobs/info/67ac2572290bd5176a1cb93f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 21 |
-| **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, Data Science](https://jobright.ai/jobs/info/679c6a561a9aecd1b00a3d05?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
