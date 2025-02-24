@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[BioSpace](http://www.biospace.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/67bb52910cff28dbee199c34?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Feb 23 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[China Research Summer 2025 Internship](https://jobright.ai/jobs/info/67ba921dbb63d6e97c3bd5c2?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 22 |
+| **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2025](https://jobright.ai/jobs/info/67a071db8546b803b7a4dbe7?utm_campaign=1066&utm_source=git)** | Novi, MI | On Site | Feb 22 |
 | **[Utah Transit Authority](http://www.rideuta.com/)** | **[Data Reporting and Analytics Intern](https://jobright.ai/jobs/info/67aee30203d558e5f7f667b8?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Feb 22 |
 | **[NetApp](http://netapp.com)** | **[Performance Analyst Intern](https://jobright.ai/jobs/info/67ba0d242ab732437c2f429c?utm_campaign=1066&utm_source=git)** | Durham, NC | Hybrid | Feb 22 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Research Data Management Intern  - Undergraduate](https://jobright.ai/jobs/info/67ba12f004d6f693e57d0b20?utm_campaign=1066&utm_source=git)** | Aurora, CO | Hybrid | Feb 22 |
@@ -106,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2025 - Graduate Research Intern, Incarceration and Inequality Project](https://jobright.ai/jobs/info/67b903709ee9a508ac2c2baa?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | Feb 21 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Data Science Neuroscience Discovery & Molecular Summer Intern](https://jobright.ai/jobs/info/67b905ec888d5e7b5c34df84?utm_campaign=1066&utm_source=git)** | Titusville, NJ | Hybrid | Feb 21 |
 | ↳ | **[Digital Transformation Intern, Healthcare Distribution (SDC)](https://jobright.ai/jobs/info/67b90880e63eff236a03de43?utm_campaign=1066&utm_source=git)** | Ontario, CA | On Site | Feb 21 |
+| **[John Deere](https://www.deere.com)** | **[Part-Time Student - Data Science & Analytics - Ames, IA](https://jobright.ai/jobs/info/678736d558f3409c29006801?utm_campaign=1066&utm_source=git)** | Ames, IA | Hybrid | Feb 21 |
 | **[Samsung Electronics America](http://www.samsung.com/us/)** | **[Data Analyst (Intern) - Samsung Product Management (Services)](https://jobright.ai/jobs/info/67b903709ee9a508ac2c2cec?utm_campaign=1066&utm_source=git)** | Plano, TX | On Site | Feb 21 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/67b903709ee9a508ac2c2cdd?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | Hybrid | Feb 21 |
 | **[Villanova University](http://www.villanueva.edu)** | **[Graduate Research Assistant - Data Analyst: Migration](https://jobright.ai/jobs/info/67b9435d8f70c73ca83ce9ec?utm_campaign=1066&utm_source=git)** | Villanova, PA | On Site | Feb 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pima County](https://webcms.pima.gov/)** | **[Intern - Epidemiology](https://jobright.ai/jobs/info/67b8920cf6a17d7b8bbd2b25?utm_campaign=1066&utm_source=git)** | Tucson, AZ | On Site | Feb 21 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Data Science Internship - Spring 2025](https://jobright.ai/jobs/info/67ac2572290bd5176a1cb93f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 21 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, Data Science](https://jobright.ai/jobs/info/679c6a561a9aecd1b00a3d05?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Feb 21 |
-| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern, Ramin Lab: Per Diem - Onsite](https://jobright.ai/jobs/info/677fba0e9e986613247e6cb0?utm_campaign=1066&utm_source=git)** | Beverly Hills, CA | On Site | Feb 21 |
-| **[S&P Global](https://www.spglobal.com)** | **[Research Analyst Intern - Gas, Power, & Climate Solutions (Early Career)](https://jobright.ai/jobs/info/677f01a63207e250d68c4c1a?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
