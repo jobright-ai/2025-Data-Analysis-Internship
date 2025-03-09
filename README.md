@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Intern - Economics, CBA](https://jobright.ai/jobs/info/67cdc040498ff4cfbca27594?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 09 |
+| **[BioSpace](http://www.biospace.com/)** | **[Intern, Genomics](https://jobright.ai/jobs/info/67cdc11b48c032073f50c62e?utm_campaign=1066&utm_source=git)** | Home, KS | Remote | Mar 09 |
+| **[TMEIC](https://www.tmeic.com/)** | **[Intern - Data and Analytics (ET25017)](https://jobright.ai/jobs/info/67c62b05c0a2932cdecc6a7c?utm_campaign=1066&utm_source=git)** | Roanoke, VA | On Site | Mar 09 |
 | **[Pittsburgh Steelers](http://www.steelers.com/)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/67ccd9eaef9e2bd4e9cd716f?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Mar 08 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Data Visualization Master's Intern](https://jobright.ai/jobs/info/67cccc2d5563efe18f0419cf?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Mar 08 |
 | **[Central States](https://centralstatesco.com)** | **[IT Intern](https://jobright.ai/jobs/info/67ccc0252851862db86eff6f?utm_campaign=1066&utm_source=git)** | Springdale, AR | On Site | Mar 08 |
@@ -130,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[XiFin, Inc.](http://www.xifin.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/67ca845b19fb030270a346e6?utm_campaign=1066&utm_source=git)** | SD Metro Area | On Site | Mar 06 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[CDS Summer Intern - Data Analytics Engineering Operations](https://jobright.ai/jobs/info/67ca67352128c4bbb138a518?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 06 |
 | **[Security Service Federal Credit Union](https://www.ssfcu.org)** | **[Performance Analytics Intern](https://jobright.ai/jobs/info/67ca5a1cd6f69d84bfa6f5c1?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Mar 06 |
-| **[CNA Corporation](https://www.cna.org)** | **[ Enterprise Systems & Data Analysis - Research Intern (AI/ML Emerging Tech)](https://jobright.ai/jobs/info/67ca43eec07885cbd7f7f666?utm_campaign=1066&utm_source=git)** | CNA, Arlington, Virginia, United States of America | Hybrid | Mar 06 |
 | **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[Vertex Summer 2025 Intern, Data & Computational Sciences](https://jobright.ai/jobs/info/67ca50fde8e49940fe7c3603?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Mar 06 |
 | **[Spot & Tango](http://www.spotandtango.com)** | **[Data Science/Analytics Intern](https://jobright.ai/jobs/info/67ca3ecff4acae9f8e9f29bb?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Mar 06 |
 | **[Graphic Packaging International, LLC](http://www.graphicpkg.com)** | **[Data & AI Intern](https://jobright.ai/jobs/info/67ca3a39db83bd488767abc2?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 06 |
@@ -145,7 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Tyler Technologies](https://www.tylertech.com/)** | **[Data Collector Intern, Summer 2025](https://jobright.ai/jobs/info/67ca1f5dfafcf41eb4522be3?utm_campaign=1066&utm_source=git)** | Williamsport, PA | On Site | Mar 06 |
 | ↳ | **[Data Collector Intern, Summer 2025](https://jobright.ai/jobs/info/67ca1f5dfafcf41eb4522bee?utm_campaign=1066&utm_source=git)** | Mercer County, PA | On Site | Mar 06 |
 | **[Driscoll's](https://www.driscolls.com)** | **[Blueberry-Blackberry Bioinformatics and Breeding Intern](https://jobright.ai/jobs/info/67c0260ef283c02615bf4782?utm_campaign=1066&utm_source=git)** | Watsonville, CA | On Site | Mar 06 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Data Analyst Intern, New Media – Summer 2025](https://jobright.ai/jobs/info/67ca032a123be62537fe3d95?utm_campaign=1066&utm_source=git)** | Culver City, California | On Site | Mar 06 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Data Analyst Intern, New Media – Summer 2025](https://jobright.ai/jobs/info/67ca032a123be62537fe3c90?utm_campaign=1066&utm_source=git)** | Culver City, California | On Site | Mar 06 |
 | ↳ | **[Data Science Intern, Theatrical Marketing – Summer 2025](https://jobright.ai/jobs/info/67c9f5110d3c6b5ed01a8fa2?utm_campaign=1066&utm_source=git)** | Culver City, California | On Site | Mar 06 |
 | **[Visa](https://www.visa.com)** | **[Global Data Office Intern - Summer 2025](https://jobright.ai/jobs/info/67c9eeca86b4b3135dc01c5f?utm_campaign=1066&utm_source=git)** | Miami, FL, USA | Hybrid | Mar 06 |
 | **[Kodiak](http://www.kodiak.ai)** | **[Summer 2025 Intern, Data Science](https://jobright.ai/jobs/info/67c9f56caf068980819b5216?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Mar 06 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Application Analyst Intern](https://jobright.ai/jobs/info/67c9d0e98dab73f061613870?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 06 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Master Data](https://jobright.ai/jobs/info/67c9cca3892921fb107cbd49?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Mar 06 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Application Analyst Intern](https://jobright.ai/jobs/info/67c9ca5e4a837382a8fb7e13?utm_campaign=1066&utm_source=git)** | Chicago (Green St), IL | On Site | Mar 06 |
-| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Enterprise Analytics Temp-3](https://jobright.ai/jobs/info/67c9bfc9be40af3244e4326b?utm_campaign=1066&utm_source=git)** | BJ's Club Support Center Marlborough, MA #5997 | Hybrid | Mar 06 |
-| ↳ | **[Enterprise Analytics Temp-2](https://jobright.ai/jobs/info/67c9bfc9be40af3244e43270?utm_campaign=1066&utm_source=git)** | BJ's Club Support Center Marlborough, MA #5997 | Hybrid | Mar 06 |
+| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Enterprise Analytics Temp-4](https://jobright.ai/jobs/info/67c9bfc9be40af3244e4326e?utm_campaign=1066&utm_source=git)** | BJ's Club Support Center Marlborough, MA #5997 | Hybrid | Mar 06 |
 | ↳ | **[Enterprise Analytics Temp-1](https://jobright.ai/jobs/info/67c9bfc9be40af3244e43269?utm_campaign=1066&utm_source=git)** | BJ's Club Support Center Marlborough, MA #5997 | Hybrid | Mar 06 |
-| ↳ | **[Enterprise Analytics Temp-4](https://jobright.ai/jobs/info/67c9bfc9be40af3244e4326e?utm_campaign=1066&utm_source=git)** | BJ's Club Support Center Marlborough, MA #5997 | Hybrid | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
