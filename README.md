@@ -75,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[GSD&M](http://www.gsdm.com)** | **[Summer 2025 - Analytics Intern](https://jobright.ai/jobs/info/67cc2ae3457d6e10c4e3e879?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Mar 08 |
 | **[ABS Group](http://abs-group.com)** | **[Data Analytics Intern - Spring/Summer](https://jobright.ai/jobs/info/6758e84f209d9a8243c0fecd?utm_campaign=1066&utm_source=git)** | Knoxville, TN | Hybrid | Mar 08 |
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Translational Safety](https://jobright.ai/jobs/info/67cc0a8f84e8404ac382e3e3?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Mar 08 |
-| **[CompanyCam](https://www.companycam.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/67cc1b61821e2393759d1238?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Mar 07 |
 | **[Brightwell](https://brightwell.com/)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/67ccb7368a479c1b28a5f300?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 07 |
 | **[Razorfish](http://www.amnesia.com.au)** | **[Intern, Data Science and Analytics](https://jobright.ai/jobs/info/67cbe4b89a7279447254c4fa?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 07 |
 | ↳ | **[Intern, Data Instrumentation](https://jobright.ai/jobs/info/67cbe4b89a7279447254c509?utm_campaign=1066&utm_source=git)** | Miami, FL | Hybrid | Mar 07 |
@@ -110,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Longevity Holdings, Inc.](https://longevity.inc/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/67cb5baf5d60346486c5e47f?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Mar 07 |
 | **[JUST Capital](http://justcapital.com/)** | **[Research Intern - Summer 2025](https://jobright.ai/jobs/info/67cb64bbbf7d0c8827654012?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Mar 07 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Geospatial Intelligence and National Security Technologies Internship Summer 2025](https://jobright.ai/jobs/info/67c1417cb7381318d0647834?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 07 |
-| **[Tyler Technologies](https://www.tylertech.com/)** | **[Strategic Intelligence Intern, Summer 2025](https://jobright.ai/jobs/info/67cb3fe7a3f97264895e3e43?utm_campaign=1066&utm_source=git)** | Yarmouth, Maine | On Site | Mar 07 |
-| ↳ | **[Strategic Intelligence Intern, Summer 2025](https://jobright.ai/jobs/info/67cb4150a3f97264895e46aa?utm_campaign=1066&utm_source=git)** | Troy, Michigan | On Site | Mar 07 |
+| **[Tyler Technologies](https://www.tylertech.com/)** | **[Strategic Intelligence Intern, Summer 2025](https://jobright.ai/jobs/info/67cb4150a3f97264895e46aa?utm_campaign=1066&utm_source=git)** | Troy, Michigan | On Site | Mar 07 |
+| ↳ | **[Strategic Intelligence Intern, Summer 2025](https://jobright.ai/jobs/info/67cb3fe7a3f97264895e3e43?utm_campaign=1066&utm_source=git)** | Yarmouth, Maine | On Site | Mar 07 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Research Internship (Spring 2025) - True Global Intelligence, San Francisco](https://jobright.ai/jobs/info/67ca845b19fb030270a34892?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Mar 07 |
 | **[Union Tank Car Company - UTLX](http://www.utlx.com/index.asp)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/67cb3274e8e9122c125be320?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 07 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Data Science CoOp](https://jobright.ai/jobs/info/67cb2c728cdaabe8d2a85d4b?utm_campaign=1066&utm_source=git)** | Horsham, PA | Hybrid | Mar 07 |
@@ -153,8 +152,9 @@ For a complete list, click the following sortable link below:
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Application Analyst Intern](https://jobright.ai/jobs/info/67c9ca5e4a837382a8fb7e13?utm_campaign=1066&utm_source=git)** | Chicago (Green St), IL | On Site | Mar 06 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Enterprise Analytics Temp-1](https://jobright.ai/jobs/info/67c9bfc9be40af3244e43269?utm_campaign=1066&utm_source=git)** | BJ's Club Support Center Marlborough, MA #5997 | Hybrid | Mar 06 |
 | ↳ | **[Enterprise Analytics Temp-4](https://jobright.ai/jobs/info/67c9bfc9be40af3244e4326e?utm_campaign=1066&utm_source=git)** | BJ's Club Support Center Marlborough, MA #5997 | Hybrid | Mar 06 |
-| ↳ | **[Enterprise Analytics Temp-2](https://jobright.ai/jobs/info/67c9bfc9be40af3244e43270?utm_campaign=1066&utm_source=git)** | BJ's Club Support Center Marlborough, MA #5997 | Hybrid | Mar 06 |
 | ↳ | **[Enterprise Analytics Temp-3](https://jobright.ai/jobs/info/67c9bfc9be40af3244e4326b?utm_campaign=1066&utm_source=git)** | BJ's Club Support Center Marlborough, MA #5997 | Hybrid | Mar 06 |
+| ↳ | **[Enterprise Analytics Temp-2](https://jobright.ai/jobs/info/67c9bfc9be40af3244e43270?utm_campaign=1066&utm_source=git)** | BJ's Club Support Center Marlborough, MA #5997 | Hybrid | Mar 06 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/67ace4f0e9930be40014a1c4?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Mar 06 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Intelligence Analyst Intern, GTAC - Summer 2025 (Remote)](https://jobright.ai/jobs/info/67adc29861c656fc56936110?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | Remote | Mar 06 |
+| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Supply Chain Data Analytics Internship - Summer 2025](https://jobright.ai/jobs/info/67ad2a731ea8a1881804fe87?utm_campaign=1066&utm_source=git)** | Middleton, WI | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
