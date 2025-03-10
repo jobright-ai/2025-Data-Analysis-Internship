@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Tyler Technologies](https://www.tylertech.com/)** | **[Data Analyst Intern, Summer 2025](https://jobright.ai/jobs/info/67ce07074ba5f065a74fa049?utm_campaign=1066&utm_source=git)** | Lawrenceville, GA | On Site | Mar 09 |
-| **[Trulieve](https://www.trulieve.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/67ce0a029a9b1ae411bd3f05?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Mar 09 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, CBA](https://jobright.ai/jobs/info/67cdc040498ff4cfbca27594?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Mar 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Genomics](https://jobright.ai/jobs/info/67cdc11b48c032073f50c62e?utm_campaign=1066&utm_source=git)** | Home, KS | Remote | Mar 09 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Image & Metadata Quality Control, Internship – Portuguese Language Support](https://jobright.ai/jobs/info/67c120091b9ab4b1288d990e?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 09 |
@@ -116,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Longevity Holdings, Inc.](https://longevity.inc/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/67cb5baf5d60346486c5e47f?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Mar 07 |
 | **[JUST Capital](http://justcapital.com/)** | **[Research Intern - Summer 2025](https://jobright.ai/jobs/info/67cb64bbbf7d0c8827654012?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Mar 07 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Geospatial Intelligence and National Security Technologies Internship Summer 2025](https://jobright.ai/jobs/info/67c1417cb7381318d0647834?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 07 |
-| **[Tyler Technologies](https://www.tylertech.com/)** | **[Strategic Intelligence Intern, Summer 2025](https://jobright.ai/jobs/info/67cb3fe7a3f97264895e3e43?utm_campaign=1066&utm_source=git)** | Yarmouth, Maine | On Site | Mar 07 |
-| ↳ | **[Strategic Intelligence Intern, Summer 2025](https://jobright.ai/jobs/info/67cb4150a3f97264895e46aa?utm_campaign=1066&utm_source=git)** | Troy, Michigan | On Site | Mar 07 |
+| **[Tyler Technologies](https://www.tylertech.com/)** | **[Strategic Intelligence Intern, Summer 2025](https://jobright.ai/jobs/info/67cb4150a3f97264895e46aa?utm_campaign=1066&utm_source=git)** | Troy, Michigan | On Site | Mar 07 |
+| ↳ | **[Strategic Intelligence Intern, Summer 2025](https://jobright.ai/jobs/info/67cb3fe7a3f97264895e3e43?utm_campaign=1066&utm_source=git)** | Yarmouth, Maine | On Site | Mar 07 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Research Internship (Spring 2025) - True Global Intelligence, San Francisco](https://jobright.ai/jobs/info/67ca845b19fb030270a34892?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Mar 07 |
 | **[Union Tank Car Company - UTLX](http://www.utlx.com/index.asp)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/67cb3274e8e9122c125be320?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 07 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Data Science CoOp](https://jobright.ai/jobs/info/67cb2c728cdaabe8d2a85d4b?utm_campaign=1066&utm_source=git)** | Horsham, PA | Hybrid | Mar 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Citco Group Limited](https://www.citco.com)** | **[Intern, Data Transformation](https://jobright.ai/jobs/info/67c9eda01031cd7112c27752?utm_campaign=1066&utm_source=git)** | 201 South College Street 20th Floor, Charlotte, NC, 28244, US | On Site | Mar 06 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Application Analyst Intern](https://jobright.ai/jobs/info/67c9d0e98dab73f061613870?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 06 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Master Data](https://jobright.ai/jobs/info/67c9cca3892921fb107cbd49?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Mar 06 |
+| **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Application Analyst Intern](https://jobright.ai/jobs/info/67c9ca5e4a837382a8fb7e13?utm_campaign=1066&utm_source=git)** | Chicago (Green St), IL | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
