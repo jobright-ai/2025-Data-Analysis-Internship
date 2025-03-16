@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Biostatistics and Data Management Intern](https://jobright.ai/jobs/info/67d704d70dc700761e2a0598?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Mar 16 |
+| ↳ | **[2025 U.S Summer Internship Program: US Medical Communications Intern](https://jobright.ai/jobs/info/67d704d70dc700761e2a05af?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Mar 16 |
 | **[The University of Texas at Arlington](http://www.uta.edu/)** | **[Postdoctoral Researcher](https://jobright.ai/jobs/info/67d6ceb2dc5cf021799e1b3d?utm_campaign=1066&utm_source=git)** | Arlington, TX | On Site | Mar 16 |
 | **[Office of Management and Budget](https://www.whitehouse.gov/omb/)** | **[SUMMER GRADUATE INTERN - Data & Analytics Management](https://jobright.ai/jobs/info/67d6cab73b0785e77cc29194?utm_campaign=1066&utm_source=git)** | Manhattan, NY | On Site | Mar 16 |
 | ↳ | **[SUMMER COLLEGE INTERN - Data & Analytics Management](https://jobright.ai/jobs/info/67d6bbbe704cdaaaedce0721?utm_campaign=1066&utm_source=git)** | Manhattan, NY | On Site | Mar 16 |
-| **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Internship: Data Scientist, Health Informatics](https://jobright.ai/jobs/info/67d6b195521e7d1464d80ad2?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Mar 16 |
 | **[Bainbridge](http://www.bainbridge.com)** | **[Research Analyst Intern- Data Analytics](https://jobright.ai/jobs/info/67d646c4aa065a3fa25f6c8d?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 15 |
 | **[Authentica Solutions](http://authenticasolutions.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/67d5e46f825fd97f23a035b1?utm_campaign=1066&utm_source=git)** | Caney City, TX | On Site | Mar 15 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Data Analytics Intern-Undergraduate](https://jobright.ai/jobs/info/67d5c5ef5c6159862f0cbb67?utm_campaign=1066&utm_source=git)** | Pasadena, CA | On Site | Mar 15 |
 | **[BioSpace](http://www.biospace.com/)** | **[Biostatistics Real World Evidence Intern](https://jobright.ai/jobs/info/67d5a9ea7e6351dc5ad3a33c?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Mar 15 |
+| **[Humacyte](http://humacyte.com)** | **[2025 Summer Internship - Biometrics, Clinical Data Management](https://jobright.ai/jobs/info/67b951604de917ed398dd85d?utm_campaign=1066&utm_source=git)** | Durham, NC | Hybrid | Mar 15 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Graduate Statistics/Ops Research/Engineering Summer 2025 Intern 3 - 22179](https://jobright.ai/jobs/info/679c057f66bfc6200b21b78d?utm_campaign=1066&utm_source=git)** | Wright-Patterson Air Force Base, OH | On Site | Mar 15 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, Data Science](https://jobright.ai/jobs/info/679c6a561a9aecd1b00a3d05?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Mar 15 |
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Data Science Internship - Spring 2025](https://jobright.ai/jobs/info/67c536815b7308dbab7e3201?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 15 |
@@ -146,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Rexford Industrial](http://rexfordindustrial.com)** | **[Property Data Management Intern](https://jobright.ai/jobs/info/67d3713ec7bbf99efe6cd206?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 13 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Data Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/67d375e11862f52749a2ec83?utm_campaign=1066&utm_source=git)** | Omaha, NE | On Site | Mar 13 |
 | **[RIVA Solutions, Inc.](https://rivasolutionsinc.com)** | **[Solutions/Technology Intern](https://jobright.ai/jobs/info/67d36f649fbcb447d6b49db2?utm_campaign=1066&utm_source=git)** | Reston, VA | Hybrid | Mar 13 |
-| **[UPS](http://www.ups.com)** | **[Engineering Co-Op](https://jobright.ai/jobs/info/67d35c63e006dfd6a197f2a7?utm_campaign=1066&utm_source=git)** | US - SCS-HEBRON BLDG K - 2741 (KYHBR) | On Site | Mar 13 |
-| ↳ | **[Engineering Co-Op](https://jobright.ai/jobs/info/67d35c63e006dfd6a197f208?utm_campaign=1066&utm_source=git)** | US - OUTERLOOP BUILDING 5 (KYLSE) | On Site | Mar 13 |
+| **[UPS](http://www.ups.com)** | **[Engineering Co-Op](https://jobright.ai/jobs/info/67d35c63e006dfd6a197f208?utm_campaign=1066&utm_source=git)** | US - OUTERLOOP BUILDING 5 (KYLSE) | On Site | Mar 13 |
+| ↳ | **[Engineering Co-Op](https://jobright.ai/jobs/info/67d35c63e006dfd6a197f2a7?utm_campaign=1066&utm_source=git)** | US - SCS-HEBRON BLDG K - 2741 (KYHBR) | On Site | Mar 13 |
 | **[G2](https://www.g2.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/67d362043520244d3a6c76dc?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Mar 13 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Strategic Insights & Analytics Summer Intern](https://jobright.ai/jobs/info/67d36244f590631ce67d8ab2?utm_campaign=1066&utm_source=git)** | Horsham, PA | On Site | Mar 13 |
 | **[MacroGenics, Inc.](http://www.macrogenics.com)** | **[Statistician Intern](https://jobright.ai/jobs/info/67d35f96eb5a2d172b08b2ac?utm_campaign=1066&utm_source=git)** | Rockville, MD | On Site | Mar 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[XiFin, Inc.](http://www.xifin.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/67ca845b19fb030270a346e6?utm_campaign=1066&utm_source=git)** | SD Metro Area | On Site | Mar 13 |
 | **[Pearson](https://www.pearson.com/)** | **[Psychometric Intern](https://jobright.ai/jobs/info/67d340e256d880117173f096?utm_campaign=1066&utm_source=git)** | Hadley, MA | On Site | Mar 13 |
 | **[Crédit Agricole CIB](http://www.ca-cib.com)** | **[Vulnerabilities Data Analyst and Business Intelligence Summer 2025 Analyst](https://jobright.ai/jobs/info/67d32f2b5fee2e23bc2eac3a?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Mar 13 |
-| **[Airbus](https://us.airbus.com)** | **[Summer Internship - Paint Shop Data Analyst](https://jobright.ai/jobs/info/67d32b1fbd2e7d1207320f53?utm_campaign=1066&utm_source=git)** | Mobile Area, AL | On Site | Mar 13 |
-| **[Alkermes](http://www.alkermes.com)** | **[Intern, Market Access Analytics](https://jobright.ai/jobs/info/67d3283ecf7731d51ffeffd5?utm_campaign=1066&utm_source=git)** | Greater Boston | Hybrid | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
