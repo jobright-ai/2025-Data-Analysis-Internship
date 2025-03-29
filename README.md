@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Biostatistics and Data Mgmt Programming – R Intern](https://jobright.ai/jobs/info/67e82304c34f200bcb384d23?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Mar 29 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Corporate Strategy Intern – Data Science](https://jobright.ai/jobs/info/67e7f617319951664c719cc0?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Mar 29 |
+| **[Stripe](https://stripe.com)** | **[Data Analyst Intern (Master's Degree)](https://jobright.ai/jobs/info/67ae9de5eb4e4d975799711a?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 29 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2025-2026 Yearlong Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/67e7b60fbd17ea5c61698a80?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 28 |
 | ↳ | **[2025-2026 Yearlong Safety Computer Asset Data Analysis Intern](https://jobright.ai/jobs/info/67e7ac43c013e79d684551cc?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Mar 28 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Analytics Summer Intern](https://jobright.ai/jobs/info/67e7ac43c013e79d68455259?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[Clinical Trial Landscape Intern](https://jobright.ai/jobs/info/67e47f9006cf4deb5e7be0c6?utm_campaign=1066&utm_source=git)** | Somerset, New Jersey, United States | On Site | Mar 26 |
 | **[Tanium](http://www.tanium.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/67e48bcd30c6703a6d0e08f4?utm_campaign=1066&utm_source=git)** | Durham, NC (Hybrid) | Hybrid | Mar 26 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: BI and Reporting Intern (Remote)](https://jobright.ai/jobs/info/67e470dd71aed03fe6c3b95f?utm_campaign=1066&utm_source=git)** | Remote (US) | Remote | Mar 26 |
-| **[Nexus Health Systems](https://nexushealthsystems.com)** | **[Research Intern](https://jobright.ai/jobs/info/67e48bcd30c6703a6d0e0da2?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Mar 26 |
-| **[Intermedia Cloud Communications](https://www.intermedia.com)** | **[Data Scientist Intern (Summer 2025)](https://jobright.ai/jobs/info/67e478827eb7981958978afd?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
