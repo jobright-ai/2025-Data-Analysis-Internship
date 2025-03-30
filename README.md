@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First American](http://www.firstam.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/67dba0a6d8fe6af6538cedc6?utm_campaign=1066&utm_source=git)** | Santa Ana, CA | On Site | Mar 30 |
 | **[Intrado](https://www.intrado.com/)** | **[Intern Data Validation– Networking Department](https://jobright.ai/jobs/info/67e8809951690478a6fadaaf?utm_campaign=1066&utm_source=git)** | Longmont, CO | On Site | Mar 29 |
 | **[BioSpace](http://www.biospace.com/)** | **[Biostatistics and Data Mgmt Programming – R Intern](https://jobright.ai/jobs/info/67e82304c34f200bcb384d23?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Mar 29 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Geospatial Intelligence and National Security Technologies Internship Summer 2025](https://jobright.ai/jobs/info/67c1417cb7381318d0647834?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Mar 29 |
@@ -96,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[CCC Intelligent Solutions](http://www.cccis.com)** | **[Application Analyst Intern](https://jobright.ai/jobs/info/67c9d0e98dab73f061613870?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 28 |
 | **[SHI International Corp.](http://www.shi.com)** | **[Jr. IT Analyst - Internship](https://jobright.ai/jobs/info/67e67bd2129318a2b7c5ee60?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Mar 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Graduate Associate Research Analyst, People Insights](https://jobright.ai/jobs/info/67e671f5acbc176aea0dbfea?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Mar 28 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Data Analytics Intern-Undergraduate](https://jobright.ai/jobs/info/67e5a934c881d3ed390e5990?utm_campaign=1066&utm_source=git)** | Pasadena, CA | On Site | Mar 28 |
 | **[Raich Ende Malter & Co. LLP](https://www.rem-co.com)** | **[2025 Solution Architect & Data Analyst Summer Intern](https://jobright.ai/jobs/info/67e662079d4c6316fe5ff768?utm_campaign=1066&utm_source=git)** | Iselin, NJ | On Site | Mar 27 |
 | **[Wave Broadband](http://www.wavebroadband.com)** | **[Web Analyst Intern](https://jobright.ai/jobs/info/67e657eff06235a0d75bcfa1?utm_campaign=1066&utm_source=git)** | Falls Church, VA | Hybrid | Mar 27 |
 | **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[Intern- Data Analytics](https://jobright.ai/jobs/info/67e62c40c3e0b8a6a4c8c984?utm_campaign=1066&utm_source=git)** | Springfield, MO | On Site | Mar 27 |
@@ -105,9 +107,9 @@ For a complete list, click the following sortable link below:
 | **[Atlanta Regional Commission](https://atlantaregional.org)** | **[Intern - Research Data Assistant](https://jobright.ai/jobs/info/67e731c50b7de206a8a13c02?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Institutional Research - BYU-Pathway Worldwide (Part-Time, Student Employee)](https://jobright.ai/jobs/info/67e5fa8ca68a26d46464acd5?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 27 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Biostatistics and Data Mgmt Programming – R Intern](https://jobright.ai/jobs/info/67e5f0bf7500eb4c256faee5?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Mar 27 |
-| **[Draper](https://www.draper.com)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/67e5f0bf7500eb4c256faf6a?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 27 |
 | **[New York Air Brake](http://nyab.com)** | **[Intern, Data Analytics andd Business Intelligence](https://jobright.ai/jobs/info/67e5e5890aebbd3f0f7b56ac?utm_campaign=1066&utm_source=git)** | Watertown, NY | On Site | Mar 27 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern NE](https://jobright.ai/jobs/info/67e5d9db822cf7267c2a57f4?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Mar 27 |
+| **[Draper](https://www.draper.com)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/67e5c2882b2f2edea17bb154?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Mar 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Graduate Associate Research Analyst, People Insights](https://jobright.ai/jobs/info/67e5c2882b2f2edea17bb14c?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Mar 27 |
 | **[Yahoo](http://www.yahoo.com)** | **[Data Editorial Intern, Yahoo Finance](https://jobright.ai/jobs/info/67e5d9db822cf7267c2a599e?utm_campaign=1066&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2025 Guardian Summer Intern, Data Science](https://jobright.ai/jobs/info/67e5d9db822cf7267c2a5aed?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Mar 27 |
@@ -116,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Delta Defense LLC](https://www.deltadefense.com/)** | **[Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/67e5e3b80aebbd3f0f7b554a?utm_campaign=1066&utm_source=git)** | West Bend, WI | Hybrid | Mar 27 |
 | **[CAS](http://www.cas.org)** | **[BU24IN- Bioinformatics Scientist Intern](https://jobright.ai/jobs/info/67e5bb7c4fcdf0994dc437e5?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Mar 27 |
 | **[EisnerAmper](http://www.eisneramper.com)** | **[2025 Solution Architect & Data Analyst Summer Intern](https://jobright.ai/jobs/info/67e5a6e2ba4d27e86f4b78e8?utm_campaign=1066&utm_source=git)** | Iselin | On Site | Mar 27 |
-| **[Argonne National Laboratory](http://www.anl.gov/)** | **[Research Aide - DSL - Lavelle, Vincent - 3.26.25.](https://jobright.ai/jobs/info/67e59fe1e6a1b3b50b2826ba?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Mar 27 |
-| ↳ | **[Research Aide - DSL - Lavelle, Vincent - 3.26.25.](https://jobright.ai/jobs/info/67e59db1e6a1b3b50b281c6b?utm_campaign=1066&utm_source=git)** | On-site | On Site | Mar 27 |
+| **[Argonne National Laboratory](http://www.anl.gov/)** | **[Research Aide - DSL - Lavelle, Vincent - 3.26.25.](https://jobright.ai/jobs/info/67e59db1e6a1b3b50b281c6b?utm_campaign=1066&utm_source=git)** | On-site | On Site | Mar 27 |
+| ↳ | **[Research Aide - DSL - Lavelle, Vincent - 3.26.25.](https://jobright.ai/jobs/info/67e59fe1e6a1b3b50b2826ba?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Mar 27 |
 | **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Clinical Informatics Intern [Summer 2025 College COACH program]](https://jobright.ai/jobs/info/67e59db1e6a1b3b50b281e63?utm_campaign=1066&utm_source=git)** | Boston | On Site | Mar 27 |
 | **[Juniper Networks](http://www.juniper.net)** | **[Data Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/67e59db1e6a1b3b50b281e75?utm_campaign=1066&utm_source=git)** | 1137 Innovation Way, Sunnyvale, CA, 94089, US | On Site | Mar 27 |
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[Data and Analytics Intern](https://jobright.ai/jobs/info/67e59f65eff21432b1198e3d?utm_campaign=1066&utm_source=git)** | Overland Park, KS | Hybrid | Mar 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/67e49f8031a542f4cff6efdd?utm_campaign=1066&utm_source=git)** | Appleton, WI | On Site | Mar 26 |
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[INTERN I](https://jobright.ai/jobs/info/67e483fb832d5dc9a115884d?utm_campaign=1066&utm_source=git)** | FS800 SC Carrollton Suprt Cntr2085 Midway Rd | On Site | Mar 26 |
 | **[Docusign](http://www.docusign.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/67e4859abc07785910fb8370?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Mar 26 |
-| **[Vera Institute of Justice](https://www.vera.org)** | **[CUNY Summer Research Fellow - APPLICATION EXTENDED 3/21](https://jobright.ai/jobs/info/67e48dd530c6703a6d0e0f85?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | Mar 26 |
-| **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Summer Associate Intern - Blue HPN](https://jobright.ai/jobs/info/67e48bcd30c6703a6d0e08eb?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
