@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Balance](http://www.newbalance.com)** | **[Sports Research Athlete Insights Intern](https://jobright.ai/jobs/info/67f2e8255724f9292329b4c3?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Apr 06 |
 | **[Vanderlande](https://www.vanderlande.com)** | **[Sourcing Data Analytics Intern](https://jobright.ai/jobs/info/679d70d096badb40019c940a?utm_campaign=1066&utm_source=git)** | Marietta, GA | On Site | Apr 06 |
 | **[Humacyte](http://humacyte.com)** | **[2025 Summer Internship - Biometrics, Clinical Data Management](https://jobright.ai/jobs/info/67b951604de917ed398dd85d?utm_campaign=1066&utm_source=git)** | Durham, NC | Hybrid | Apr 06 |
 | **[John Deere](https://www.deere.com)** | **[Part-Time Student - Data Science & Analytics - Ames, IA](https://jobright.ai/jobs/info/67e766dbbb6b976da15ab22b?utm_campaign=1066&utm_source=git)** | Ames, IA | Hybrid | Apr 06 |
 | **[Tatari](https://www.tatari.tv/)** | **[Data Science, Intern](https://jobright.ai/jobs/info/67f22e1a78e18ca4a9dcb983?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 05 |
+| **[Primoris Services Corporation](http://prim.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/67e4e45a6a43df4c5c44edb7?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Apr 05 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Temporary Intern - Data & Insight Analyst](https://jobright.ai/jobs/info/67f1aa8516041967dfd966f2?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 05 |
 | **[WEX](http://www.wexinc.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/67f14c25a044f80a2b79247a?utm_campaign=1066&utm_source=git)** | Maine, United States | Remote | Apr 05 |
 | **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, Data Science](https://jobright.ai/jobs/info/67f14cf1c3660467a1b6ed64?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Apr 05 |
@@ -109,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[City of Philadelphia](http://www.phila.gov/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/67f02ef914f97b2ed0369f8e?utm_campaign=1066&utm_source=git)** | 1234 Market St, Philadelphia, PA 19107, USA | On Site | Apr 04 |
 | **[Stantec](http://www.stantec.com)** | **[Data Scientist Intern (Summer 2025)](https://jobright.ai/jobs/info/67f02cf97433e4fcb9c5b43b?utm_campaign=1066&utm_source=git)** | Walnut Creek, CA | On Site | Apr 04 |
 | **[Omnidian](http://www.omnidian.com)** | **[Competitive Analysis Internship](https://jobright.ai/jobs/info/67f033e84f5d2e802a15910a?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 04 |
-| **[Primerica](https://www.primerica.com)** | **[Analyst Intern](https://jobright.ai/jobs/info/67f0156c5422e6fd08f47302?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Apr 04 |
 | **[Intermedia Cloud Communications](https://www.intermedia.com)** | **[Data Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/67f02030330e4ca458eb3b3b?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 04 |
 | **[Healthfirst](https://healthfirst.org)** | **[Information Management Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/67dc27b85b0ee6adc39b4970?utm_campaign=1066&utm_source=git)** | Lake Mary, FL | Hybrid | Apr 04 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Healthcare Analyst Summer Intern - Start Date: May 19, 2025](https://jobright.ai/jobs/info/67effb1a06180c4fc4049f01?utm_campaign=1066&utm_source=git)** | Morris Plains, NJ | On Site | Apr 04 |
@@ -119,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Enterprise Reporting - HS Enterprise Reporting Analytics](https://jobright.ai/jobs/info/67d52716d19474209a8c119e?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Apr 04 |
 | **[American Medical Association](http://ama-assn.org)** | **[Intern (Remote)](https://jobright.ai/jobs/info/67f0031b1d84821d9cd7e213?utm_campaign=1066&utm_source=git)** | Chicago, IL | Remote | Apr 04 |
 | **[Argonne National Laboratory](http://www.anl.gov/)** | **[Research Aide - MCS - Darmora, Smita - 4.2.25.](https://jobright.ai/jobs/info/67efede368e7b0fe359cee8c?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Apr 04 |
+| **[Primerica](https://www.primerica.com)** | **[Analyst Intern](https://jobright.ai/jobs/info/67efede368e7b0fe359cee9f?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Apr 04 |
 | **[BISSELL Homecare, Inc.](http://www.bissell.com)** | **[BISStern - Data & Analytics](https://jobright.ai/jobs/info/67b69b7dc199943da3a67031?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Apr 04 |
 | **[Werfen](http://www.werfen.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/67f00d66c906e086f59cf0ff?utm_campaign=1066&utm_source=git)** | Bedford, MA | On Site | Apr 04 |
 | **[PrimeRevenue](https://primerevenue.com)** | **[Summer 2025 SQL & Data Analytics Intern](https://jobright.ai/jobs/info/67eedf657ff7179d40474fa6?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Apr 04 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Actian](http://www.actian.com)** | **[CX User Analytics Intern](https://jobright.ai/jobs/info/67ef3ac38459ff38f478b3ff?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Omnidian](http://www.omnidian.com)** | **[Competitive Analysis Internship](https://jobright.ai/jobs/info/67ef1bda67c5bb19c72d9430?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Actian](http://www.actian.com)** | **[CX User Analytics Intern](https://jobright.ai/jobs/info/67ef1bda67c5bb19c72d94a2?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Apr 03 |
-| **[Amazon](https://amazon.com)** | **[Intern - Economics, SCOT - AIM Science](https://jobright.ai/jobs/info/67ef51cf678e25d72ec0da4c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 03 |
+| **[Amazon](https://amazon.com)** | **[Intern - Economics, SCOT - AIM Science](https://jobright.ai/jobs/info/67ef51cf678e25d72ec0da45?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[Georgia Institute of Technology](http://gatech.edu)** | **[Research Intern (GTRI-CIPHER)](https://jobright.ai/jobs/info/67ef27a9c343c6e79581bd93?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Analytics & Insights Co-Op](https://jobright.ai/jobs/info/67ef1281e75c0124bcfd6362?utm_campaign=1066&utm_source=git)** | Ridgefield, CT | Hybrid | Apr 03 |
 | **[Hexion Inc.](https://www.hexion.com/)** | **[Commercial Analytics Intern](https://jobright.ai/jobs/info/67eefe2d0f19392fa3d882c1?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Apr 03 |
-| **[Forbes](https://www.forbesmagazine.com)** | **[Summer 2025 Business Intelligence/Insights Intern](https://jobright.ai/jobs/info/67eefe2d0f19392fa3d883af?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | Hybrid | Apr 03 |
-| **[McGill University](http://www.mcgill.ca/)** | **[Student Research Assistant](https://jobright.ai/jobs/info/67eef113d5a5ef25aad57c2e?utm_campaign=1066&utm_source=git)** | Education Building | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
