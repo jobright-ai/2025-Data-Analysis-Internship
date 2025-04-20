@@ -79,10 +79,10 @@ For a complete list, click the following sortable link below:
 | **[AACSB](http://www.aacsb.edu/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/6802dc19623b228048282066?utm_campaign=1066&utm_source=git)** | Tampa, FL | Hybrid | Apr 18 |
 | **[Conference of State Bank Supervisors (CSBS)](http://www.csbs.org/Pages/default.aspx)** | **[Information Architecture Intern](https://jobright.ai/jobs/info/6802d73d2b2fc02e9b44ce03?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Apr 18 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[Business Intelligence Intern (Remote in California)](https://jobright.ai/jobs/info/6802d3af6dc3af5015218c60?utm_campaign=1066&utm_source=git)** | California | Remote | Apr 18 |
-| ↳ | **[Business Intelligence Intern (Remote in North Carolina)](https://jobright.ai/jobs/info/6802d3af6dc3af5015218c5d?utm_campaign=1066&utm_source=git)** | North Carolina | Remote | Apr 18 |
-| ↳ | **[Business Intelligence Intern (Remote in Arizona)](https://jobright.ai/jobs/info/6802d3af6dc3af5015218c5f?utm_campaign=1066&utm_source=git)** | Arizona | Remote | Apr 18 |
 | ↳ | **[Business Intelligence Intern (Remote in Utah)](https://jobright.ai/jobs/info/6802d3af6dc3af5015218c5c?utm_campaign=1066&utm_source=git)** | Utah | Remote | Apr 18 |
 | ↳ | **[Business Intelligence Intern (Remote in Colorado)](https://jobright.ai/jobs/info/6802d3af6dc3af5015218c5e?utm_campaign=1066&utm_source=git)** | Colorado | Remote | Apr 18 |
+| ↳ | **[Business Intelligence Intern (Remote in North Carolina)](https://jobright.ai/jobs/info/6802d3af6dc3af5015218c5d?utm_campaign=1066&utm_source=git)** | North Carolina | Remote | Apr 18 |
+| ↳ | **[Business Intelligence Intern (Remote in Arizona)](https://jobright.ai/jobs/info/6802d3af6dc3af5015218c5f?utm_campaign=1066&utm_source=git)** | Arizona | Remote | Apr 18 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Biostatistics Research (PHD level)](https://jobright.ai/jobs/info/6802ca8f0e4fdeaac8f1ceb2?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | Apr 18 |
 | **[MV Transportation](http://www.mvtransit.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6802c884be7299b52f709911?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Apr 18 |
 | **[Delta Dental of Michigan](http://www.deltadentalmi.com/)** | **[Internship - Data Science](https://jobright.ai/jobs/info/6802c4bac8f20f37dcb40747?utm_campaign=1066&utm_source=git)** | Okemos, MI | Hybrid | Apr 18 |
@@ -128,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://psu.edu)** | **[Student Co-Researcher/Research Assistant](https://jobright.ai/jobs/info/68015f9679c5070a0f2f2264?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Apr 17 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Data Science and Forensics - Intern](https://jobright.ai/jobs/info/680149711da688716fffecea?utm_campaign=1066&utm_source=git)** | Texas | On Site | Apr 17 |
 | **[NewYork-Presbyterian Hospital](https://www.nyp.org/)** | **[Graduate Intern](https://jobright.ai/jobs/info/68013ac07fb4ddc0e4084a2a?utm_campaign=1066&utm_source=git)** | NYP/Weill Cornell Medical Center | On Site | Apr 17 |
-| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[BR-2508 Great Plains Analysis Undergraduate Intern](https://jobright.ai/jobs/info/680134c717ce420817be92f0?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Apr 17 |
-| ↳ | **[BR-2521 Global Science Data Management and AI Graduate Intern](https://jobright.ai/jobs/info/680134c717ce420817be92bb?utm_campaign=1066&utm_source=git)** | Washington, DC | Remote | Apr 17 |
+| **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[BR-2521 Global Science Data Management and AI Graduate Intern](https://jobright.ai/jobs/info/680134c717ce420817be92bb?utm_campaign=1066&utm_source=git)** | Washington, DC | Remote | Apr 17 |
+| ↳ | **[BR-2508 Great Plains Analysis Undergraduate Intern](https://jobright.ai/jobs/info/680134c717ce420817be92f0?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Apr 17 |
 | ↳ | **[BR-2509 WILDLABS Graduate Intern](https://jobright.ai/jobs/info/68012ce8af7f8f488de3b526?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Apr 17 |
 | **[Nexus Health Systems](https://nexushealthsystems.com)** | **[Research Intern - On-Site](https://jobright.ai/jobs/info/67e48bcd30c6703a6d0e0da2?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Apr 17 |
 | **[IQVIA](https://www.iqvia.com)** | **[AIML PhD Intern (Summer 2025)](https://jobright.ai/jobs/info/6801245a8351264a01748932?utm_campaign=1066&utm_source=git)** | Wayne, PA | Remote | Apr 17 |
