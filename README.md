@@ -57,8 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Making Opportunity Count](https://www.mocinc.org/)** | **[Intern](https://jobright.ai/jobs/info/680d7227dafab93be8e27943?utm_campaign=1066&utm_source=git)** | Fitchburg, MA | Hybrid | Apr 26 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/680d7227dafab93be8e2798f?utm_campaign=1066&utm_source=git)** | Lawrence, MA | Hybrid | Apr 26 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/680d7227dafab93be8e27949?utm_campaign=1066&utm_source=git)** | Auburn, MA | Hybrid | Apr 26 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/680d70e0d338bd9779c5a0ea?utm_campaign=1066&utm_source=git)** | Concord, MA | Hybrid | Apr 26 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/680d70e0d338bd9779c5a100?utm_campaign=1066&utm_source=git)** | Acton, MA | Hybrid | Apr 26 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/680d6fa2b80eeaa33f9f25bf?utm_campaign=1066&utm_source=git)** | Clinton, MA | Hybrid | Apr 26 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/680d682f062cafb4f8a33e04?utm_campaign=1066&utm_source=git)** | Westminster, MA | Hybrid | Apr 26 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/680d682f062cafb4f8a33e05?utm_campaign=1066&utm_source=git)** | Watertown, MA | Hybrid | Apr 26 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/680d62c0be4925c37c2926ad?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Apr 26 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/680d62c0be4925c37c2926d6?utm_campaign=1066&utm_source=git)** | Gardner, MA | Hybrid | Apr 26 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/680d5cce829efe789b4b8ca7?utm_campaign=1066&utm_source=git)** | Northborough, MA | Hybrid | Apr 26 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/680d5cce829efe789b4b8cae?utm_campaign=1066&utm_source=git)** | Leominster, MA | Hybrid | Apr 26 |
+| **[WestLand, a Trinity Consultants Team](http://westlandresources.com)** | **[GIS Intern](https://jobright.ai/jobs/info/680d4a91ab9ea0aa5226995d?utm_campaign=1066&utm_source=git)** | Tucson, AZ | Hybrid | Apr 26 |
 | **[Cypress Creek Renewables](https://ccrenew.com/)** | **[Summer Intern, Quantitative Analytics](https://jobright.ai/jobs/info/680d350bfe975e6366a7fa44?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | Hybrid | Apr 26 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/67f143526748e9475cf09039?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Apr 26 |
+| **[Bob's Discount Furniture](http://www.mybobs.com)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/67b8d76b008cd5df56055efa?utm_campaign=1066&utm_source=git)** | Providence County, RI | Remote | Apr 26 |
+| ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/67b8d76b008cd5df56055ef3?utm_campaign=1066&utm_source=git)** | New York, United States | Remote | Apr 26 |
+| ↳ | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/67b8cfee4bcfe65d6cd9a4b1?utm_campaign=1066&utm_source=git)** | New Jersey, United States | Remote | Apr 26 |
 | **[Legend Biotech](https://www.legendbiotech.com)** | **[Analytical Data Science, CMC Intern](https://jobright.ai/jobs/info/67b7dc917ce2b8426b7cae3f?utm_campaign=1066&utm_source=git)** | Somerset, NJ | Hybrid | Apr 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Research Scientist Intern (Data-TnS-Algo-Day Dreamer) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/680cb7630be34182f8430bd5?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Apr 26 |
 | **[Intermedia Cloud Communications](https://www.intermedia.com)** | **[Data Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/67f02030330e4ca458eb3b3b?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 26 |
@@ -77,7 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Bell Techlogix, Inc.](https://belltechlogix.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/680c035bb1631c63370b3c25?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Apr 25 |
 | **[Penn State University](http://psu.edu)** | **[College of IST Interdisciplinary Summer Research Assistant in Data Science and A.I. w/ Dr. Wang](https://jobright.ai/jobs/info/680bfca0c4e9fe0bb37b030b?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Apr 25 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern (PhD level) - Data Science AI&I](https://jobright.ai/jobs/info/680bf3637983c0ad02507247?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Apr 25 |
-| **[Trideum Corporation](http://trideum.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/680be1bd1134e27e66820c2a?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Apr 25 |
+| **[Trideum Corporation](http://trideum.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/680bdc54eae6489e75b5b0d8?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Apr 25 |
 | **[InterDev](https://www.interdev.com)** | **[Geospatial Solutions Intern](https://jobright.ai/jobs/info/680bdc55eae6489e75b5b1f6?utm_campaign=1066&utm_source=git)** | Hybrid Remote | Hybrid | Apr 25 |
 | **[Symrise AG](http://www.symrise.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/680bd0bf4fb4ef2a199046b7?utm_campaign=1066&utm_source=git)** | Teterboro, NJ | On Site | Apr 25 |
 | **[BioSpace](http://www.biospace.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/680bcaa0968f71640d77dd62?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Apr 25 |
@@ -106,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[CAE](http://www.cae.com)** | **[Technical Analyst Internship-EN](https://jobright.ai/jobs/info/680ae0b715502e5ebf310681?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Apr 24 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[MM&D Data Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/680adb7996dd87d62e6296fb?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[Blue Bird Corporation](http://blue-bird.com/)** | **[Intern, Service (Data Analysis)](https://jobright.ai/jobs/info/680ad0e1f1049e3dce7a8a76?utm_campaign=1066&utm_source=git)** | Fort Valley, GA | On Site | Apr 24 |
-| **[CAE](http://www.cae.com)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/680ac7b7cf1ee712194f75bf?utm_campaign=1066&utm_source=git)** | Irving | On Site | Apr 24 |
-| ↳ | **[Technical Analyst Internship](https://jobright.ai/jobs/info/680ac7b7cf1ee712194f754d?utm_campaign=1066&utm_source=git)** | Irving | On Site | Apr 24 |
+| **[CAE](http://www.cae.com)** | **[Technical Analyst Internship](https://jobright.ai/jobs/info/680ac7b7cf1ee712194f754d?utm_campaign=1066&utm_source=git)** | Irving | On Site | Apr 24 |
+| ↳ | **[Technical Analyst Intern](https://jobright.ai/jobs/info/680ac7b7cf1ee712194f75bf?utm_campaign=1066&utm_source=git)** | Irving | On Site | Apr 24 |
 | **[Dashing Diva](https://dashingdiva.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/67e6f19f3921e1af457d5557?utm_campaign=1066&utm_source=git)** | Port Washington, NY | On Site | Apr 24 |
 | **[Nextracker Inc.](http://nextracker.com)** | **[FP&A Analyst Internship](https://jobright.ai/jobs/info/680aad832a94be607ef376bb?utm_campaign=1066&utm_source=git)** | California - Remote - USA | Remote | Apr 24 |
 | **[Scientific Research Corporation](http://www.scires.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/680aaba8a5a25b3b914fbc88?utm_campaign=1066&utm_source=git)** | North Charleston, SC | On Site | Apr 24 |
@@ -140,21 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/680a3539064efe811946e572?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Apr 24 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Tableau Data Analyst Summer Intern](https://jobright.ai/jobs/info/67ed977fbee89c6f973648a6?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Apr 24 |
 | **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/67edf45e02fb9ab99bcde215?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Apr 24 |
-| **[Juniper Networks](http://www.juniper.net)** | **[Supply Chain Analytics Intern - Summer 2025](https://jobright.ai/jobs/info/680a787cb3616448b2a9e9e6?utm_campaign=1066&utm_source=git)** | Westford, MA | On Site | Apr 24 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6809eda9d0115ab7c662cf2c?utm_campaign=1066&utm_source=git)** | East Syracuse, NY | On Site | Apr 23 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2025-2026 Yearlong Safety Data Analyst](https://jobright.ai/jobs/info/680c9b9ab17403c3ff26c5ad?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Apr 23 |
-| **[AcreTrader](https://www.acretrader.com)** | **[Data Intern](https://jobright.ai/jobs/info/680c9b9ab17403c3ff26c63f?utm_campaign=1066&utm_source=git)** | Fayetteville, AR | On Site | Apr 23 |
-| **[Duke University](http://www.duke.edu)** | **[POSTDOCTORAL ASSOCIATE](https://jobright.ai/jobs/info/6809b3d2fc9e6aff92576177?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Apr 23 |
-| **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/6752bea7412617fc01e58d6a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Apr 23 |
-| **[Triple Ring Technologies](http://tripleringtech.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6809a0f6c29886eae31c12d7?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Apr 23 |
-| **[J. Craig Venter Institute](http://www.jcvi.org)** | **[Intern - BV-BRC Project (Singh)](https://jobright.ai/jobs/info/6809a0f6c29886eae31c130a?utm_campaign=1066&utm_source=git)** | Rockville, MD | On Site | Apr 23 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Data Oncology Intern](https://jobright.ai/jobs/info/680999456b70dbf589873ba2?utm_campaign=1066&utm_source=git)** | Covington, TN | On Site | Apr 23 |
-| **[Actian](http://www.actian.com)** | **[Data Intelligence Intern](https://jobright.ai/jobs/info/67f821a08f14befa8e493478?utm_campaign=1066&utm_source=git)** | United States | Remote | Apr 23 |
-| **[MidAmerican Energy Company](https://www.midamericanenergy.com)** | **[Intern - Data Science, Meteorology and Disaster Mitigation](https://jobright.ai/jobs/info/680abda95de69ab99155173a?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Apr 23 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Analyst Paid Intern](https://jobright.ai/jobs/info/68098476e37f072f9b8c84d7?utm_campaign=1066&utm_source=git)** | Lehi, UT | Hybrid | Apr 23 |
-| ↳ | **[FamilySearch Data Quality Intern](https://jobright.ai/jobs/info/68098476e37f072f9b8c849e?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 23 |
-| **[MidAmerican Energy Company](https://www.midamericanenergy.com)** | **[Intern - Data Science, Electric Delivery Support](https://jobright.ai/jobs/info/680abda95de69ab99155177d?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Apr 23 |
-| **[American Fidelity](http://www.americanfidelity.com)** | **[Data Science Internship](https://jobright.ai/jobs/info/68097c5c85a9575aab0f5d1c?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Apr 23 |
-| **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/67ee13cebc6c2f6104769cde?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Apr 23 |
-| **[Foley & Lardner LLP](http://www.foley.com)** | **[Data Science Development Intern](https://jobright.ai/jobs/info/6806ae35dee863b1ee3ba3eb?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
