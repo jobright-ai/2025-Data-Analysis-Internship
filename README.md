@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Reporting and Analytics Intern](https://jobright.ai/jobs/info/681b58a5a4437e8c8e032c47?utm_campaign=1066&utm_source=git)** | Nashville, TN | On Site | May 07 |
+| **[Bio-Techne](https://www.bio-techne.com)** | **[Supplier Management Data Analyst, Graduate Intern](https://jobright.ai/jobs/info/67fec3b3ab8d84433b2e9278?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | May 07 |
 | **[The Geneva Foundation](https://genevausa.org)** | **[Research Intern](https://jobright.ai/jobs/info/681b0db37b97fa8aad602757?utm_campaign=1066&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | May 07 |
 | **[M1 Support Services](https://www.m1services.com/)** | **[Data Analyst (University North Texas Internship)](https://jobright.ai/jobs/info/681af894d90297d0f6814da1?utm_campaign=1066&utm_source=git)** | Denton, TX | On Site | May 06 |
 | **[Engineers Gate](https://www.eglp.com)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/681ac42526161b49e5e9efcd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[AIG](https://www.aig.com/)** | **[2025 – Early Career – Data Office – Summer Intern – United States, Atlanta (GA)](https://jobright.ai/jobs/info/681ac42526161b49e5e9f00c?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | May 06 |
-| **[Carilion Clinic](https://www.carilionclinic.org)** | **[Internship- Data Science](https://jobright.ai/jobs/info/681abe4bc4ef73cb86d91f70?utm_campaign=1066&utm_source=git)** | United States | Remote | May 06 |
 | **[Olson Kundig](http://olsonkundig.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/681abcd8ccdb33340bbd3e38?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | May 06 |
 | **[Everly](https://www.everlylife.com)** | **[Internship - Data Scientist - EVR](https://jobright.ai/jobs/info/681abcd8ccdb33340bbd3c7b?utm_campaign=1066&utm_source=git)** | KC Metro Area | Hybrid | May 06 |
 | **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[Data Science Intern](https://jobright.ai/jobs/info/681aad26c12b4580a1b1c9a8?utm_campaign=1066&utm_source=git)** | Peoria, IL | On Site | May 06 |
@@ -69,13 +70,13 @@ For a complete list, click the following sortable link below:
 | **[American University](http://american.edu)** | **[Research Assistant (Student)](https://jobright.ai/jobs/info/681aaa64794c0390c45b5ae3?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | May 06 |
 | **[The Venetian Resort Las Vegas](https://www.venetianlasvegas.com)** | **[INTERN - ENTERPRISE ANALYTICS](https://jobright.ai/jobs/info/681aa71bbe40a219f7a04389?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | May 06 |
 | **[Jefferson Health](https://www.jeffersonhealth.org/index.html)** | **[Research Assistant - Summer 2025](https://jobright.ai/jobs/info/681a982f6ea426fdd2b20cde?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | May 06 |
-| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Reporting & Analytics (Early Careers)](https://jobright.ai/jobs/info/681a92aa34b988848418b679?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | May 06 |
 | **[Michael Kors](https://www.michaelkors.com/)** | **[Planning & Analytics Intern](https://jobright.ai/jobs/info/681a907055dcebe72a073eda?utm_campaign=1066&utm_source=git)** | Whittier, CA | On Site | May 06 |
 | **[Wounded Warrior Project](https://www.woundedwarriorproject.org)** | **[Intern - Mission Data & Insights](https://jobright.ai/jobs/info/68114ee47f7551c945c2998e?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | Hybrid | May 06 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-25037 Coastal Tourism Analyst Intern](https://jobright.ai/jobs/info/681a7ba70bf0f56342e03263?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | May 06 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[AR/Credit Internship](https://jobright.ai/jobs/info/681a793fbc2178a3fca97d2b?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | May 06 |
 | **[Upgrade, Inc.](http://www.upgrade.com)** | **[Model Risk Intern](https://jobright.ai/jobs/info/681a70828b7f2593cc41e418?utm_campaign=1066&utm_source=git)** | United States (Remote) | Remote | May 06 |
-| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Reporting & Analytics (Early Careers)](https://jobright.ai/jobs/info/681a6236633ef90f26eca1a2?utm_campaign=1066&utm_source=git)** | US - TX - DALLAS 5430 LBJ FREEWAY 40 HRS | On Site | May 06 |
+| **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Reporting & Analytics (Early Careers)](https://jobright.ai/jobs/info/681a6236633ef90f26eca437?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | May 06 |
+| ↳ | **[Summer Intern, Reporting & Analytics (Early Careers)](https://jobright.ai/jobs/info/681a6236633ef90f26eca436?utm_campaign=1066&utm_source=git)** | US - TX - DALLAS 5430 LBJ FREEWAY 40 HRS | On Site | May 06 |
 | **[Fisher-Titus Medical Center](https://www.fishertitus.org/)** | **[IT Intern - Reporting and Analytics](https://jobright.ai/jobs/info/681a36d2a7dd4ab4fa5df0f7?utm_campaign=1066&utm_source=git)** | Norwalk, OH | On Site | May 06 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[AR/Credit Internship](https://jobright.ai/jobs/info/681a28ef001730a509a288b9?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | May 06 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Employee Experience and Relations](https://jobright.ai/jobs/info/67ff2895a87a2d972dd9f4ba?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 06 |
@@ -103,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Mile Two](https://www.miletwo.us/)** | **[Seasonal Intern, Data Stakeholder Survey Support](https://jobright.ai/jobs/info/6819071224105e31959a98e0?utm_campaign=1066&utm_source=git)** | Remote Worker - N/A | Remote | May 05 |
 | ↳ | **[Seasonal Intern, Data Stakeholder Survey Support](https://jobright.ai/jobs/info/681906cf24105e31959a8fcb?utm_campaign=1066&utm_source=git)** | Fully Remote | Remote | May 05 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, Prime Economics](https://jobright.ai/jobs/info/681906cf24105e31959a9012?utm_campaign=1066&utm_source=git)** | Seattle, Washington, USA | On Site | May 05 |
-| **[University of Oregon](https://journalism.uoregon.edu)** | **[Research Assistant](https://jobright.ai/jobs/info/681905adc59075fed0af6949?utm_campaign=1066&utm_source=git)** | Eugene, OR | On Site | May 05 |
+| **[University of Oregon](http://www.cirl.uoregon.edu/)** | **[Research Assistant](https://jobright.ai/jobs/info/681905adc59075fed0af6949?utm_campaign=1066&utm_source=git)** | Eugene, OR | On Site | May 05 |
 | **[Concept Plus, LLC](http://www.conceptplus.com)** | **[Summer Intern (Data Analyst)](https://jobright.ai/jobs/info/6819027acf9261d3a8beff95?utm_campaign=1066&utm_source=git)** | Fairfax, VA | Hybrid | May 05 |
 | **[Energy Acuity](http://www.energyacuity.com)** | **[Intern - 25106
     
@@ -162,5 +163,4 @@ For a complete list, click the following sortable link below:
 | **[Continental](https://www.continental.com)** | **[Intern - Data Analysis Software](https://jobright.ai/jobs/info/6814114a09d067cfc0e75e43?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | May 01 |
 | **[E Source](http://www.esource.com)** | **[Research and Advisory Data Intern - REMOTE](https://jobright.ai/jobs/info/68140c450440843860728bba?utm_campaign=1066&utm_source=git)** | United States | Remote | May 01 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH ASST I (TEMP)](https://jobright.ai/jobs/info/6814dff06c9647fc289fec91?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | May 01 |
-| **[CyrusOne](http://www.cyrusone.com)** | **[IT Intern](https://jobright.ai/jobs/info/6813d93fb798c04a534b388a?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
