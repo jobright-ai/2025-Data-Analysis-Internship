@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chromalloy](https://www.chromalloy.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/683669eb57cffe650cb8576c?utm_campaign=1066&utm_source=git)** | 3600 NW 54th St, Fort Lauderdale, FL 33309, USA | On Site | May 27 |
+| **[Elder Research](http://elderresearch.com/)** | **[Intern](https://jobright.ai/jobs/info/683664b828e8571f8e248812?utm_campaign=1066&utm_source=git)** | Charlottesville, VA | On Site | May 27 |
+| **[American University](http://american.edu)** | **[Research Assistant (Student)](https://jobright.ai/jobs/info/68365ad7bde18298466c38c3?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | May 27 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Engineering (Marketing)](https://jobright.ai/jobs/info/6836402b978894974f8958c6?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | May 27 |
 | **[BlueHalo](https://www.bluehalo.com)** | **[Student Intern-Biohybrid Sensing](https://jobright.ai/jobs/info/68362daab0a825aa27e9dcc7?utm_campaign=1066&utm_source=git)** | Germantown, MD | Hybrid | May 27 |
+| **[Jefferson Health](https://www.jeffersonhealth.org/index.html)** | **[Research Assistant- JeffSolves](https://jobright.ai/jobs/info/682e7d23f08c1b39156e2afb?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | May 27 |
 | **[PharPoint Research, Inc.](http://pharpoint.com)** | **[Biostatistics & Statistical Programming Intern (Summer 2025)](https://jobright.ai/jobs/info/68361e5fc280b3d72f4d9a6c?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | May 27 |
 | **[Sentara Health](https://www.sentara.com/)** | **[Research Intern](https://jobright.ai/jobs/info/68361a1ac51ec81a929dc31d?utm_campaign=1066&utm_source=git)** | Virginia Beach, VA | Remote | May 27 |
 | ↳ | **[Research Intern](https://jobright.ai/jobs/info/68360f7ae95c77f1c740f5b0?utm_campaign=1066&utm_source=git)** | Virginia Beach, VA | On Site | May 27 |
@@ -135,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Arxada](https://www.arxada.com/)** | **[R&D Data Scientist Intern](https://jobright.ai/jobs/info/681238604cb41a11e611f5c8?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | May 22 |
 | **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[Research Intern - Radiation Oncology (Dr. Enderling Lab)](https://jobright.ai/jobs/info/682ed135f39d546f7a3d2f52?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | May 22 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Church History Database Intern](https://jobright.ai/jobs/info/682e7e90e49b39d049eb2744?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | May 21 |
-| **[Jefferson Health](https://www.jeffersonhealth.org/index.html)** | **[Research Assistant- JeffSolves](https://jobright.ai/jobs/info/682e7d23f08c1b39156e2afb?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | May 21 |
 | **[American University](http://american.edu)** | **[Data Assistant (Student)(FWS)](https://jobright.ai/jobs/info/682e78728d059c576f947a8e?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 21 |
 | **[KLA](https://www.kla.com)** | **[Workforce Data Analytics Intern](https://jobright.ai/jobs/info/682e74b5afdb7a9bc4fe35ae?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | May 21 |
 | **[Airbnb](https://www.airbnb.com)** | **[Data Science Intern, Platform (PhD)](https://jobright.ai/jobs/info/682e7169c5e165f57b3ea4a7?utm_campaign=1066&utm_source=git)** | United States | Remote | May 21 |
