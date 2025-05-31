@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[insightsoftware](https://www.insightsoftware.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/683a54b19a7f46ede4c06b42?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | May 30 |
+| ↳ | **[Data & Analytics Intern](https://jobright.ai/jobs/info/683a53e010b95a64a2750e23?utm_campaign=1066&utm_source=git)** | Raleigh | On Site | May 30 |
+| **[Centauri Health Solutions, Inc](http://www.centaurihs.com/)** | **[Intern, Data Analyst](https://jobright.ai/jobs/info/683a53e010b95a64a2750e77?utm_campaign=1066&utm_source=git)** | Phoenix, AZ, USA | Hybrid | May 30 |
+| **[General Motors](https://www.gm.com)** | **[2025 Summer Intern – ADAS Insights](https://jobright.ai/jobs/info/683a536e5d2ddf446270d5a8?utm_campaign=1066&utm_source=git)** | Mountain View, CA | Hybrid | May 30 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Delta Wellbeing - Data Engineering and Visualization (Fall 2025)](https://jobright.ai/jobs/info/683a4406c5dfb1c136c356fc?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | May 30 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2025, Research Internship, Global Economy and Development ( Job ID 2025-3653)](https://jobright.ai/jobs/info/683a332cdab670f5464b725a?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | May 30 |
 | **[General Motors](https://www.gm.com)** | **[2025 Summer Intern – ADAS Insights](https://jobright.ai/jobs/info/683a27bc1bc1c7f8714bcb55?utm_campaign=1066&utm_source=git)** | Mountain View, California, United States of America | On Site | May 30 |
@@ -73,9 +77,9 @@ For a complete list, click the following sortable link below:
 | **[Amentum](https://www.amentum.com/)** | **[Summer 2025 Internship - AI and Astronaut Physiology](https://jobright.ai/jobs/info/68391733e3bca59dacc15d82?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | May 29 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Intern - Data Science (Memphis, TN or Remote)](https://jobright.ai/jobs/info/683909cb3d98046e15d9fae7?utm_campaign=1066&utm_source=git)** | Memphis, TN | Remote | May 29 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Data Science Co-op/Intern- Master's (Year-Round, Santa Clara, CA)](https://jobright.ai/jobs/info/6839059e53f71a4389a60c33?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | May 29 |
-| **[Trideum Corporation](http://trideum.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6839e3638f32b2419eb2d2a1?utm_campaign=1066&utm_source=git)** | Killeen, TX | On Site | May 29 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Data Analysis/Web Assistant](https://jobright.ai/jobs/info/6839974a5897c18116f37a91?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | May 29 |
 | **[ASU Enterprise Partners](http://asuenterprisepartners.org/)** | **[Student Assistant, Data Science](https://jobright.ai/jobs/info/68390acca3165427a2c878ba?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | Hybrid | May 29 |
+| **[Trideum Corporation](http://trideum.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6839e39a8f32b2419eb2dc7a?utm_campaign=1066&utm_source=git)** | Killeen, TX | On Site | May 29 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/6838d71071a5a76aeb5e1b34?utm_campaign=1066&utm_source=git)** | Memphis Metro | Hybrid | May 29 |
 | ↳ | **[Intern - Data Science  (Memphis, TN or Remote)](https://jobright.ai/jobs/info/6838d0df7eded323693b1d9d?utm_campaign=1066&utm_source=git)** | Memphis, TN | Remote | May 29 |
 | **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Student Assistant, Data Science](https://jobright.ai/jobs/info/6838d0df7eded323693b1db4?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | Hybrid | May 29 |
@@ -90,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Research Intern](https://jobright.ai/jobs/info/681b9669121f09659a5d31de?utm_campaign=1066&utm_source=git)** | Kansas City, MO | Hybrid | May 29 |
 | **[Bombora](http://bombora.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6838255b9c374e74c509399c?utm_campaign=1066&utm_source=git)** | Reno, NV | On Site | May 29 |
 | **[CarbonCapture Inc.](https://carboncapture.com/)** | **[Scientific Computing Intern](https://jobright.ai/jobs/info/6837c5d0988d6ce38a991cac?utm_campaign=1066&utm_source=git)** | Arts District, Los Angeles, CA | On Site | May 28 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Data Scientist Co-op](https://jobright.ai/jobs/info/6837b8934a25a5e74731f4cf?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | May 28 |
 | **[T.D. Williamson](http://www.tdwilliamson.com)** | **[Data Analyst Trainee](https://jobright.ai/jobs/info/6837af58513394dcc9c56bae?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | May 28 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6837abeeea5d357c67c6f3f1?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | May 28 |
 | **[University of Miami](http://miami.edu)** | **[Research Assistant Intern](https://jobright.ai/jobs/info/683796afef8f94bbf9bcc9dc?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | May 28 |
@@ -127,6 +130,4 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Data Science Intern - Summer 2025](https://jobright.ai/jobs/info/681520612634be03b4563dfa?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | May 24 |
 | **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Postdoctoral Research Associate - Biostatistics](https://jobright.ai/jobs/info/681615b58c2bda1a674b7851?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | May 24 |
 | **[Amazon](https://amazon.com)** | **[Amazon Robotics - Business Analyst Co-op - Spring or Fall 2025, Global Robotics Delivery](https://jobright.ai/jobs/info/675d682d94c4ef11e23ff79f?utm_campaign=1066&utm_source=git)** | Westborough, MA | On Site | May 24 |
-| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Commercial & Investment Bank Innovation Development Summer Analyst Program](https://jobright.ai/jobs/info/67f9fa32b78f81c7f3866bdf?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | May 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok-User Growth) - 2025 Summer (MBA)](https://jobright.ai/jobs/info/680cdd8769609bcbb8cc2d41?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
