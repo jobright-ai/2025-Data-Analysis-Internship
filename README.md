@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SCAN](https://www.thescangroup.org/)** | **[SCAN Intern-Graduate ( Consumer Experience Insights CXI)](https://jobright.ai/jobs/info/683bd978dbbdab99147717c4?utm_campaign=1066&utm_source=git)** | Long Beach, CA | On Site | May 31 |
+| **[V2X Inc](https://gov2x.com)** | **[Competitive Intelligence Intern](https://jobright.ai/jobs/info/682fd65ccfe48529b8c41e20?utm_campaign=1066&utm_source=git)** | United States | Remote | May 31 |
+| **[SCAN](https://www.scanhealthplan.com)** | **[SCAN Intern-Graduate ( Consumer Experience Insights CXI)](https://jobright.ai/jobs/info/683bd978dbbdab99147717c4?utm_campaign=1066&utm_source=git)** | Long Beach, CA | On Site | May 31 |
 | **[Flow](https://flowai.tech)** | **[Senior Data Scientist Intern (May 2025 Start)](https://jobright.ai/jobs/info/683b073b86d86e7d35563b1b?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | May 31 |
 | **[Avison Young](https://www.avisonyoung.com)** | **[Intern](https://jobright.ai/jobs/info/683ac7db68c7a3c89f0db0f3?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | May 31 |
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/683a54b19a7f46ede4c06b42?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | May 30 |
@@ -81,9 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Amentum](https://www.amentum.com/)** | **[Summer 2025 Internship - AI and Astronaut Physiology](https://jobright.ai/jobs/info/68391733e3bca59dacc15d82?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | May 29 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Intern - Data Science (Memphis, TN or Remote)](https://jobright.ai/jobs/info/683909cb3d98046e15d9fae7?utm_campaign=1066&utm_source=git)** | Memphis, TN | Remote | May 29 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Data Science Co-op/Intern- Master's (Year-Round, Santa Clara, CA)](https://jobright.ai/jobs/info/6839059e53f71a4389a60c33?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | May 29 |
+| **[Trideum Corporation](http://trideum.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6839e3638f32b2419eb2d2a1?utm_campaign=1066&utm_source=git)** | Killeen, TX | On Site | May 29 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Data Analysis/Web Assistant](https://jobright.ai/jobs/info/6839974a5897c18116f37a91?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | May 29 |
-| **[Trideum Corporation](http://trideum.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6839e39a8f32b2419eb2dc7a?utm_campaign=1066&utm_source=git)** | Killeen, TX | On Site | May 29 |
-| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide](https://jobright.ai/jobs/info/6838e9d370b85b5142b8e041?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | May 29 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/6838d71071a5a76aeb5e1b34?utm_campaign=1066&utm_source=git)** | Memphis Metro | Hybrid | May 29 |
 | ↳ | **[Intern - Data Science  (Memphis, TN or Remote)](https://jobright.ai/jobs/info/6838d0df7eded323693b1d9d?utm_campaign=1066&utm_source=git)** | Memphis, TN | Remote | May 29 |
 | **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Student Assistant, Data Science](https://jobright.ai/jobs/info/6838d0df7eded323693b1db4?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | Hybrid | May 29 |
