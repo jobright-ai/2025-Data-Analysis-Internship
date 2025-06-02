@@ -86,6 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Data Science Co-op/Intern- Master's (Year-Round, Santa Clara, CA)](https://jobright.ai/jobs/info/6839059e53f71a4389a60c33?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | May 29 |
 | **[Trideum Corporation](http://trideum.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6839e3638f32b2419eb2d2a1?utm_campaign=1066&utm_source=git)** | Killeen, TX | On Site | May 29 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Data Analysis/Web Assistant](https://jobright.ai/jobs/info/6839974a5897c18116f37a91?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | May 29 |
+| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide](https://jobright.ai/jobs/info/6838f87b33bc9011ec0eb3f1?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | May 29 |
+| ↳ | **[Intern/Aide](https://jobright.ai/jobs/info/6838e9d370b85b5142b8e041?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | May 29 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/6838d71071a5a76aeb5e1b34?utm_campaign=1066&utm_source=git)** | Memphis Metro | Hybrid | May 29 |
 | ↳ | **[Intern - Data Science  (Memphis, TN or Remote)](https://jobright.ai/jobs/info/6838d0df7eded323693b1d9d?utm_campaign=1066&utm_source=git)** | Memphis, TN | Remote | May 29 |
 | **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Student Assistant, Data Science](https://jobright.ai/jobs/info/6838d0df7eded323693b1db4?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | Hybrid | May 29 |
