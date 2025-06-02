@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/683d9ca8ee192a578d01cc21?utm_campaign=1066&utm_source=git)** | Newark | On Site | Jun 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/6826da845d451099c23f373f?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 01 |
 | **[V2X Inc](https://gov2x.com)** | **[Competitive Intelligence Intern](https://jobright.ai/jobs/info/682fd65ccfe48529b8c41e20?utm_campaign=1066&utm_source=git)** | United States | Remote | May 31 |
 | **[Roche](http://www.roche.com)** | **[Cheminformatics-AI Intern - CICoR](https://jobright.ai/jobs/info/67e6a173cf88de894f510850?utm_campaign=1066&utm_source=git)** | Shanghai, VA | On Site | May 31 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[Data Science Co-op/Intern- Master's (Year-Round, Santa Clara, CA)](https://jobright.ai/jobs/info/6839059e53f71a4389a60c33?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | May 29 |
 | **[Trideum Corporation](http://trideum.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6839e3638f32b2419eb2d2a1?utm_campaign=1066&utm_source=git)** | Killeen, TX | On Site | May 29 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Data Analysis/Web Assistant](https://jobright.ai/jobs/info/6839974a5897c18116f37a91?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | May 29 |
-| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide](https://jobright.ai/jobs/info/6838e9d370b85b5142b8e041?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | May 29 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/6838d71071a5a76aeb5e1b34?utm_campaign=1066&utm_source=git)** | Memphis Metro | Hybrid | May 29 |
 | ↳ | **[Intern - Data Science  (Memphis, TN or Remote)](https://jobright.ai/jobs/info/6838d0df7eded323693b1d9d?utm_campaign=1066&utm_source=git)** | Memphis, TN | Remote | May 29 |
 | **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Student Assistant, Data Science](https://jobright.ai/jobs/info/6838d0df7eded323693b1db4?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | Hybrid | May 29 |
@@ -124,6 +124,11 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Global Development Information Management Intern](https://jobright.ai/jobs/info/683304887ddd89015ee635e3?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | May 27 |
 | **[Christian Dior Couture](https://www.dior.com/carrieres/index.html)** | **[Trainee, CRM Analytics](https://jobright.ai/jobs/info/67e19a4ce44d8e9245d9e6dc?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | May 27 |
 | **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Data Analytics](https://jobright.ai/jobs/info/68294f4810d4aee6623fc378?utm_campaign=1066&utm_source=git)** | Bellevue, WA | Hybrid | May 27 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/683d9ca8ee192a578d01cc48?utm_campaign=1066&utm_source=git)** | New York | On Site | May 27 |
+| ↳ | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/683d9ca8ee192a578d01cc4b?utm_campaign=1066&utm_source=git)** | Addison | On Site | May 27 |
+| ↳ | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/683d9ca8ee192a578d01cc4a?utm_campaign=1066&utm_source=git)** | Plano | On Site | May 27 |
+| ↳ | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/683d9ca8ee192a578d01cc49?utm_campaign=1066&utm_source=git)** | Jersey City | On Site | May 27 |
+| ↳ | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/683d9ca8ee192a578d01cc47?utm_campaign=1066&utm_source=git)** | Charlotte | On Site | May 27 |
 | **[MediaRadar, Inc.](http://www.mediaradar.com)** | **[BI Analytics Summer Intern](https://jobright.ai/jobs/info/6835c51734dab5efb3ca68a4?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | May 27 |
 | **[Chromalloy](https://www.chromalloy.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/683997675897c18116f381c5?utm_campaign=1066&utm_source=git)** | Fort Lauderdale, FL | On Site | May 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/680a338dbdf8f7f7b3418d4e?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | May 27 |
