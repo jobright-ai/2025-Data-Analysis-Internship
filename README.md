@@ -63,14 +63,14 @@ For a complete list, click the following sortable link below:
 | **[Circle K](http://www.circlek.com)** | **[Analyst Intern – Global Fuels](https://jobright.ai/jobs/info/6830bd57a0916eec299da9b5?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jun 14 |
 | **[AbbVie](https://www.abbvie.com)** | **[Postdoctoral Fellow, Ophthalmology Discovery Research](https://jobright.ai/jobs/info/6830b9098e2c690bdcd8b723?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Jun 14 |
 | **[Medpace](http://www.medpace.com)** | **[Business Intelligence Internship - Fall 2025](https://jobright.ai/jobs/info/6813d41ab2e69cf086704133?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 14 |
+| **[Stoneridge](http://www.stoneridge.com)** | **[Data Information Sciences Intern](https://jobright.ai/jobs/info/678036c65f00a85234004029?utm_campaign=1066&utm_source=git)** | Detroit Metro | On Site | Jun 14 |
+| **[ByteDance](http://bytedance.com)** | **[Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/684dfa94d401df430d550186?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 14 |
 | **[PriceLabs](https://hello.pricelabs.co)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/684d59002c0723c7e31d0ba4?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jun 14 |
 | **[Northside Hospital](http://www.northside.com)** | **[Pro Fee Intern](https://jobright.ai/jobs/info/684d13f8007d7cef5d297eb5?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 13 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Network Planning - Schedule Analytics (Spring 2026)](https://jobright.ai/jobs/info/684d12fcc4f257fd723a2c79?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 13 |
 | **[Western University of Health Sciences](http://www.westernu.edu/)** | **[Research Assistant](https://jobright.ai/jobs/info/684cff460e8dd314a2e781c3?utm_campaign=1066&utm_source=git)** | Lebanon, OR | On Site | Jun 13 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[Postdoctoral Fellow - Normativity Lab](https://jobright.ai/jobs/info/684cedb4e36ccd4756a598e1?utm_campaign=1066&utm_source=git)** | Baltimore, MD | On Site | Jun 13 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Student Researcher - Part-Time](https://jobright.ai/jobs/info/684ceac35c914a5780453f4d?utm_campaign=1066&utm_source=git)** | East Chicago, IN | On Site | Jun 13 |
-| **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/684ce4c47cce977ea2db50d1?utm_campaign=1066&utm_source=git)** | Lexington, KY | On Site | Jun 13 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/684cdbe1835b684321d0be36?utm_campaign=1066&utm_source=git)** | Rockville, MD | On Site | Jun 13 |
 | **[Infinite Campus](http://www.infinitecampus.com)** | **[INTERN, DATA TECHNICAL ADVISOR (333INT52325)](https://jobright.ai/jobs/info/68311dc8a88db23fc4e13157?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Jun 13 |
 | **[Donor Network West](https://www.donornetworkwest.org/)** | **[Research Assistant](https://jobright.ai/jobs/info/684cb5cfba4e40bebf9cb51d?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Jun 13 |
 | ↳ | **[Research Assistant](https://jobright.ai/jobs/info/684ca5d6606df8a38227da63?utm_campaign=1066&utm_source=git)** | Bay Area, CA | On Site | Jun 13 |
@@ -114,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Genentech](http://gene.com)** | **[2025–2026 gCS Computational Biology Internship (9 months)](https://jobright.ai/jobs/info/684a0d63ab18d2944e052904?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jun 11 |
 | **[Infinite Campus](http://www.infinitecampus.com)** | **[INTERN, DATA TECHNICAL ADVISOR (333INT52125)](https://jobright.ai/jobs/info/682fcaa23285f324a58b95d9?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Jun 11 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Analytics Co-op – Tableau Dashboard Development](https://jobright.ai/jobs/info/6849e2befef6a65076fe1e5e?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jun 11 |
+| **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Year Round - Data Analysis & Exploitation, Onsite](https://jobright.ai/jobs/info/682cdcf20921e94a30f767cc?utm_campaign=1066&utm_source=git)** | Albuquerque, NM | Hybrid | Jun 11 |
 | **[Roche](http://www.roche.com)** | **[2025–2026 gCS Computational Biology Internship (9 months) ](https://jobright.ai/jobs/info/6849bfb67e2a518ce2882010?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Jun 11 |
 | **[City of Fort Wayne](https://www.cityoffortwayne.org/)** | **[Intern-Information Technical Analyst](https://jobright.ai/jobs/info/6849a150d11738177018f15e?utm_campaign=1066&utm_source=git)** | Fort Wayne, IN | On Site | Jun 11 |
 | **[GE Aerospace](https://www.geaerospace.com)** | **[Analytics Co-op – Tableau Dashboard Development](https://jobright.ai/jobs/info/68498274a432a529a8159273?utm_campaign=1066&utm_source=git)** | Boston | On Site | Jun 11 |
@@ -124,37 +125,36 @@ For a complete list, click the following sortable link below:
 | **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Intern - ACESO](https://jobright.ai/jobs/info/684a5752e9dbf48f4669b531?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Jun 10 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Fall 2025, Research Internship, Global Economy and Development (Job ID 2025-3675)](https://jobright.ai/jobs/info/6848fb9aa8e305c329a289be?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 10 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics, WW Returns & ReComm Tech& Inn](https://jobright.ai/jobs/info/684820d42f2b896ae703b147?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jun 10 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6847dd4a4c2ef0239bf7b985?utm_campaign=1066&utm_source=git)** | Winchester, VA | Hybrid | Jun 10 |
-| ↳ | **[Intern - Year Round (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6847dd4a4c2ef0239bf7b986?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Jun 10 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6847dd4a4c2ef0239bf7b986?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Jun 10 |
+| ↳ | **[Intern - Year Round (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6847dd4a4c2ef0239bf7b985?utm_campaign=1066&utm_source=git)** | Winchester, VA | Hybrid | Jun 10 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Intelligence Analyst)](https://jobright.ai/jobs/info/6847ced72929d984e04c6bad?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Jun 09 |
 | **[Villanova University](http://www.villanueva.edu)** | **[Temporary Research Assistant](https://jobright.ai/jobs/info/6847a9b322a7a24971bb91be?utm_campaign=1066&utm_source=git)** | Villanova, PA | On Site | Jun 09 |
 | **[Peerlogic](https://www.peerlogic.com)** | **[Junior Data Scientist](https://jobright.ai/jobs/info/684771d5dc2e9f5e6b1a7de2?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Jun 09 |
 | **[New York University](http://www.nyu.edu)** | **[Associate Research Scientist/Indigenous Data Sovereignty](https://jobright.ai/jobs/info/68477697dda5433a5c550c79?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 09 |
 | **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Intern - ACESO](https://jobright.ai/jobs/info/684734b03b4bb73bd22c044b?utm_campaign=1066&utm_source=git)** | Jacksonville, Florida | On Site | Jun 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Business Intelligence Analyst)](https://jobright.ai/jobs/info/684734b03b4bb73bd22c050b?utm_campaign=1066&utm_source=git)** | Pensacola, FL, United States | On Site | Jun 09 |
-| **[University of Miami](http://miami.edu)** | **[Research Assistant Intern - Part Time TEMP](https://jobright.ai/jobs/info/68472180093abe6e0dd87bb9?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Jun 09 |
 | **[Institute for the Study of War](http://understandingwar.org/)** | **[Geospatial Intelligence and National Security Technologies Internship Fall 2025](https://jobright.ai/jobs/info/67fe85a1bea71abe87c058ab?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Jun 09 |
 | ↳ | **[National Security and Intelligence Analysis Internship Fall 2025](https://jobright.ai/jobs/info/67fd7f3d35009fa75ac500be?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Jun 09 |
-| **[Del Monte Foods](https://www.delmontefoods.com/)** | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c24?utm_campaign=1066&utm_source=git)** | Home Office - Iowa | On Site | Jun 09 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c12?utm_campaign=1066&utm_source=git)** | Home Office - Ohio | On Site | Jun 09 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c17?utm_campaign=1066&utm_source=git)** | Home Office - Texas | On Site | Jun 09 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c18?utm_campaign=1066&utm_source=git)** | Home Office - Indiana | On Site | Jun 09 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c1f?utm_campaign=1066&utm_source=git)** | Home Office - Tennessee | On Site | Jun 09 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c21?utm_campaign=1066&utm_source=git)** | Home Office - Colorado | On Site | Jun 09 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c14?utm_campaign=1066&utm_source=git)** | Home Office - Wisconsin | On Site | Jun 09 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c1c?utm_campaign=1066&utm_source=git)** | Home Office - Washington | On Site | Jun 09 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c22?utm_campaign=1066&utm_source=git)** | Home Office - Virginia | On Site | Jun 09 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c23?utm_campaign=1066&utm_source=git)** | Home Office - Illinois | On Site | Jun 09 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c16?utm_campaign=1066&utm_source=git)** | Home Office - Arkansas | On Site | Jun 09 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c15?utm_campaign=1066&utm_source=git)** | Home Office - Nevada | On Site | Jun 09 |
+| **[University of Miami](http://miami.edu)** | **[Research Assistant Intern - Part Time TEMP](https://jobright.ai/jobs/info/68470d9c046afbdd294209d5?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Jun 09 |
+| **[Del Monte Foods](https://www.delmontefoods.com/)** | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c1b?utm_campaign=1066&utm_source=git)** | Home Office - Michigan | On Site | Jun 09 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c1d?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jun 09 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c20?utm_campaign=1066&utm_source=git)** | Home Office - Nebraska | On Site | Jun 09 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c1a?utm_campaign=1066&utm_source=git)** | Home Office - Minnesota | On Site | Jun 09 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c19?utm_campaign=1066&utm_source=git)** | Home Office - Oregon | On Site | Jun 09 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c14?utm_campaign=1066&utm_source=git)** | Home Office - Wisconsin | On Site | Jun 09 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c13?utm_campaign=1066&utm_source=git)** | Home Office - California | On Site | Jun 09 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c1d?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jun 09 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c25?utm_campaign=1066&utm_source=git)** | Home Office - Pennsylvania | On Site | Jun 09 |
-| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c1b?utm_campaign=1066&utm_source=git)** | Home Office - Michigan | On Site | Jun 09 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c24?utm_campaign=1066&utm_source=git)** | Home Office - Iowa | On Site | Jun 09 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c19?utm_campaign=1066&utm_source=git)** | Home Office - Oregon | On Site | Jun 09 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c21?utm_campaign=1066&utm_source=git)** | Home Office - Colorado | On Site | Jun 09 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c17?utm_campaign=1066&utm_source=git)** | Home Office - Texas | On Site | Jun 09 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c1e?utm_campaign=1066&utm_source=git)** | Home Office - North Carolina | On Site | Jun 09 |
 | ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd294209dc?utm_campaign=1066&utm_source=git)** | Home Office - Florida | On Site | Jun 09 |
-| **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68480faf78724d2d992aae97?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jun 09 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c12?utm_campaign=1066&utm_source=git)** | Home Office - Ohio | On Site | Jun 09 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c1c?utm_campaign=1066&utm_source=git)** | Home Office - Washington | On Site | Jun 09 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c16?utm_campaign=1066&utm_source=git)** | Home Office - Arkansas | On Site | Jun 09 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c1f?utm_campaign=1066&utm_source=git)** | Home Office - Tennessee | On Site | Jun 09 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c18?utm_campaign=1066&utm_source=git)** | Home Office - Indiana | On Site | Jun 09 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c15?utm_campaign=1066&utm_source=git)** | Home Office - Nevada | On Site | Jun 09 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c23?utm_campaign=1066&utm_source=git)** | Home Office - Illinois | On Site | Jun 09 |
+| ↳ | **[IT Intern](https://jobright.ai/jobs/info/68470d9c046afbdd29420c22?utm_campaign=1066&utm_source=git)** | Home Office - Virginia | On Site | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
