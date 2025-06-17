@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Faraday Future](https://www.ff.com)** | **[Intern, Data Analyst](https://jobright.ai/jobs/info/6850da863095bed035ce8a53?utm_campaign=1066&utm_source=git)** | Gardena, California, United States | On Site | Jun 16 |
+| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/6850c0a88f493779c0156788?utm_campaign=1066&utm_source=git)** | Myrtle Beach, SC | On Site | Jun 16 |
+| **[Ansys](http://www.ansys.com)** | **[Spring 2026 Intern - Data Analytics - Mechanical (Bachelor's)](https://jobright.ai/jobs/info/6850bb634bc4e2d9774a93a2?utm_campaign=1066&utm_source=git)** | Canonsburg, PA | On Site | Jun 16 |
 | **[The Center for Health Information and Analysis](https://www.chiamass.gov/)** | **[Summer Research Internship](https://jobright.ai/jobs/info/6850a99a059bb5aa433a23d1?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Jun 16 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Research Internship - Fall 2025](https://jobright.ai/jobs/info/68507b3fd74f8eead6737cdd?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Jun 16 |
 | **[Twist Bioscience](http://www.twistbioscience.com)** | **[Intern IBT](https://jobright.ai/jobs/info/68507b397f5e47c6a096abc9?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jun 16 |
