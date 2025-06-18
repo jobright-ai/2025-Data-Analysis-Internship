@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[CJP - Combined Jewish Philanthropies](https://www.cjp.org)** | **[Data Analyst Co-op](https://jobright.ai/jobs/info/6851cef7fe2edaf8853c099c?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Jun 17 |
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Research Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68197a2d6096156592cac710?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 17 |
 | **[Faraday Future](https://www.ff.com)** | **[Intern, Data Analyst](https://jobright.ai/jobs/info/68513b9f9835e4e04672a7af?utm_campaign=1066&utm_source=git)** | Gardena, CA | On Site | Jun 17 |
+| **[Maricopa Association of Governments (MAG)](https://azmag.gov/)** | **[Transportation Data Intern](https://jobright.ai/jobs/info/6852716243cace422c5c91df?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Jun 16 |
 | **[Northside Hospital](http://www.northside.com)** | **[Pro Fee Intern](https://jobright.ai/jobs/info/684d13f8007d7cef5d297eb5?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 16 |
 | **[Faraday Future](https://www.ff.com)** | **[Intern, Data Analyst](https://jobright.ai/jobs/info/6850da863095bed035ce8a53?utm_campaign=1066&utm_source=git)** | Gardena, California, United States | On Site | Jun 16 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/6850c0a88f493779c0156788?utm_campaign=1066&utm_source=git)** | Myrtle Beach, SC | On Site | Jun 16 |
@@ -110,9 +111,9 @@ For a complete list, click the following sortable link below:
 | **[CyrusOne](http://www.cyrusone.com)** | **[IT Intern](https://jobright.ai/jobs/info/6813e2126775ce4ed11514e3?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jun 13 |
 | **[Flow](https://flowai.tech)** | **[Senior Full Stack Data Scientist Intern (June 2025 Start)](https://jobright.ai/jobs/info/68525a58958ad43329b26aa3?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Jun 12 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Data Science, Global Product and Pricing (Spring 2026)](https://jobright.ai/jobs/info/68429501e9520a51adaa35c4?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/684b9716c906e303bf470e9c?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jun 12 |
-| ↳ | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/684b9716c906e303bf470e9a?utm_campaign=1066&utm_source=git)** | Pennington, NJ | On Site | Jun 12 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/684b9716c906e303bf470e9a?utm_campaign=1066&utm_source=git)** | Pennington, NJ | On Site | Jun 12 |
 | ↳ | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/684b9716c906e303bf470e92?utm_campaign=1066&utm_source=git)** | Plano, TX | On Site | Jun 12 |
+| ↳ | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/684b9716c906e303bf470e9c?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jun 12 |
 | ↳ | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/684b84b44025a751a37f9a4e?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 12 |
 | **[Jefferson Health](https://www.jeffersonhealth.org/index.html)** | **[Research Student](https://jobright.ai/jobs/info/684879ff076d932c8167fc50?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Jun 12 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/684b42120631334b05b91b4f?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | Jun 12 |
@@ -125,7 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Airbnb](https://www.airbnb.com)** | **[Summer 2025 - Data Science Intern, Platform (PhD)](https://jobright.ai/jobs/info/682e7169c5e165f57b3ea4a7?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 12 |
 | **[KLA](https://www.kla.com)** | **[Workforce Data Analytics Intern](https://jobright.ai/jobs/info/682e74b5afdb7a9bc4fe35ae?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Jun 12 |
 | **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/684bb7ec7bffd8bdd3d50add?utm_campaign=1066&utm_source=git)** | Greater Boston | Hybrid | Jun 12 |
-| **[University of Kentucky](https://medicine.uky.edu/centers/sbcoa/)** | **[Postdoctoral Scholar](https://jobright.ai/jobs/info/684a2df39b809477d9c15f1a?utm_campaign=1066&utm_source=git)** | Greater Lexington Area | On Site | Jun 11 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/684a274063ce61c08585b1d6?utm_campaign=1066&utm_source=git)** | Beverly Hills, CA, USA | On Site | Jun 11 |
-| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/684a1ad3f629dd7e953fe530?utm_campaign=1066&utm_source=git)** | Beverly Hills, CA | Hybrid | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
