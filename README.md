@@ -57,20 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Healthcare Fraud Shield](http://www.hcfraudshield.com/)** | **[FWA Analyst Intern](https://jobright.ai/jobs/info/68543de29d18b3178fd35561?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 19 |
+| **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (PhD 2025)](https://jobright.ai/jobs/info/67f1889fd82de3d6e76d20ef?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jun 19 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6837abeeea5d357c67c6f3f1?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jun 19 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/6853ecc7bf180b65c1391f4c?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Jun 19 |
 | **[Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org)** | **[High School Research Intern](https://jobright.ai/jobs/info/68375340a4a8b1b302203c29?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Jun 19 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/6853da66149df9089ef6d6d7?utm_campaign=1066&utm_source=git)** | Savannah, GA | On Site | Jun 18 |
 | **[Cook Children's Health Care System](https://www.cookchildrens.org)** | **[Clinical Research Intern](https://jobright.ai/jobs/info/6853eb96963664268c62c39a?utm_campaign=1066&utm_source=git)** | Fort Worth, TX | On Site | Jun 18 |
 | **[The Henry M. Jackson Foundation for the Advancement of Military Medicine](https://www.hjf.org/)** | **[Intern - ACESO](https://jobright.ai/jobs/info/68534810e07e4888e15dda75?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | Remote | Jun 18 |
+| **[Ormco](http://www.ormco.com)** | **[R&D Data Scientist Intern](https://jobright.ai/jobs/info/683f97664bf15f6970a6cfa2?utm_campaign=1066&utm_source=git)** | Brea, CA | On Site | Jun 18 |
 | **[Research for Action](https://researchforaction.org)** | **[Research Analyst](https://jobright.ai/jobs/info/685336d16204761c478882b5?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Jun 18 |
 | **[Injective](https://injectivelabs.org)** | **[Intern: Quant Developer](https://jobright.ai/jobs/info/685331d5a372cfa7941ab4fc?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 18 |
 | **[Verily](https://verily.com)** | **[Data Science Platform Intern](https://jobright.ai/jobs/info/68532b335e267793b994872c?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jun 18 |
 | **[PharPoint Research, Inc.](http://pharpoint.com)** | **[Biostatistics and Statistical Programming Intern](https://jobright.ai/jobs/info/68532b335e267793b99483b8?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Jun 18 |
 | **[Twist Bioscience](http://www.twistbioscience.com)** | **[Intern - Bioinformatics](https://jobright.ai/jobs/info/68532884c1141a78b1229a31?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jun 18 |
 | **[University of Idaho](http://www.uidaho.edu/)** | **[Postdoctoral Research Associates, Statistical and Computational Modeling](https://jobright.ai/jobs/info/6853f14bfdcaaa18ae154b88?utm_campaign=1066&utm_source=git)** | Moscow, ME | On Site | Jun 18 |
-| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Research Internship - Fall 2025](https://jobright.ai/jobs/info/6853193608e0d604dd713ea9?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Jun 18 |
 | **[Injective](https://injectivelabs.org)** | **[Quant intern](https://jobright.ai/jobs/info/68533f142d7521a1f0e6c080?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 18 |
 | **[Verily](https://verily.com)** | **[Data Science Platform Intern](https://jobright.ai/jobs/info/685315305cd31e0b4ade735c?utm_campaign=1066&utm_source=git)** | Boston, Massachusetts | On Site | Jun 18 |
+| **[Fujitsu](http://www.fujitsu.com)** | **[Research Intern](https://jobright.ai/jobs/info/6853131fd3866b639dba5851?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jun 18 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[High School Student Intern](https://jobright.ai/jobs/info/68530f0e3f24d7c4b2cdbd70?utm_campaign=1066&utm_source=git)** | Texas | On Site | Jun 18 |
 | **[Schnuck Markets, Inc.](http://www.schnucks.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6852fddb8afd7f3b9842239a?utm_campaign=1066&utm_source=git)** | St Louis, MO | Hybrid | Jun 18 |
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide](https://jobright.ai/jobs/info/6853f8c646f9459d7ef6e952?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jun 18 |
@@ -126,9 +130,7 @@ For a complete list, click the following sortable link below:
 | **[CyrusOne](http://www.cyrusone.com)** | **[IT Intern](https://jobright.ai/jobs/info/6813e2126775ce4ed11514e3?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jun 13 |
 | **[Flow](https://flowai.tech)** | **[Senior Full Stack Data Scientist Intern (June 2025 Start)](https://jobright.ai/jobs/info/68525a58958ad43329b26aa3?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Jun 12 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Data Science, Global Product and Pricing (Spring 2026)](https://jobright.ai/jobs/info/68429501e9520a51adaa35c4?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/684b9716c906e303bf470e92?utm_campaign=1066&utm_source=git)** | Plano, TX | On Site | Jun 12 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/684b9716c906e303bf470e9a?utm_campaign=1066&utm_source=git)** | Pennington, NJ | On Site | Jun 12 |
 | ↳ | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/684b9716c906e303bf470e9c?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jun 12 |
-| ↳ | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/684b9716c906e303bf470e9a?utm_campaign=1066&utm_source=git)** | Pennington, NJ | On Site | Jun 12 |
-| ↳ | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/684b84b44025a751a37f9a4e?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 12 |
-| **[Jefferson Health](https://www.jeffersonhealth.org/index.html)** | **[Research Student](https://jobright.ai/jobs/info/684879ff076d932c8167fc50?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Jun 12 |
+| ↳ | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/684b9716c906e303bf470e92?utm_campaign=1066&utm_source=git)** | Plano, TX | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
