@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/681da5c8df7c7209071aed12?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
+| ↳ | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/681d8f38ba8010ef641ba98d?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
+| ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/681d8f38ba8010ef641ba992?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
+| **[AGAP Technologies Inc](https://agaptech.com/)** | **[Data Analyst Training](https://jobright.ai/jobs/info/685533d198e0131bb8e5fdc5?utm_campaign=1066&utm_source=git)** | Henderson, NV | On Site | Jun 19 |
 | **[Keystone AI](https://www.keystone.ai)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/6854a177536967a6bdc28076?utm_campaign=1066&utm_source=git)** | Washington, United States | On Site | Jun 19 |
 | ↳ | **[Intern - Data Analyst](https://jobright.ai/jobs/info/6854719b25bdd79e4b15bf74?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Jun 19 |
 | **[Healthcare Fraud Shield](http://www.hcfraudshield.com/)** | **[FWA Analyst Intern](https://jobright.ai/jobs/info/68543de29d18b3178fd35561?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 19 |
@@ -119,10 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Amazon Robotics - Business Analyst Co-op - Spring or Fall 2025, Global Robotics Delivery](https://jobright.ai/jobs/info/675d682d94c4ef11e23ff79f?utm_campaign=1066&utm_source=git)** | Westborough, MA | On Site | Jun 14 |
 | **[Circle K](http://www.circlek.com)** | **[Analyst Intern – Global Fuels](https://jobright.ai/jobs/info/6830bd57a0916eec299da9b5?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jun 14 |
 | **[AbbVie](https://www.abbvie.com)** | **[Postdoctoral Fellow, Ophthalmology Discovery Research](https://jobright.ai/jobs/info/6830b9098e2c690bdcd8b723?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Jun 14 |
-| **[Stoneridge](http://www.stoneridge.com)** | **[Data Information Sciences Intern](https://jobright.ai/jobs/info/678036c65f00a85234004029?utm_campaign=1066&utm_source=git)** | Detroit Metro | Hybrid | Jun 14 |
 | **[ByteDance](http://bytedance.com)** | **[Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/684dfa94d401df430d550186?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 14 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Network Planning - Schedule Analytics (Spring 2026)](https://jobright.ai/jobs/info/684d12fcc4f257fd723a2c79?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 13 |
-| **[Western University of Health Sciences](http://www.westernu.edu/)** | **[Research Assistant](https://jobright.ai/jobs/info/684cff460e8dd314a2e781c3?utm_campaign=1066&utm_source=git)** | Lebanon, OR | On Site | Jun 13 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[Postdoctoral Fellow - Normativity Lab](https://jobright.ai/jobs/info/684cedb4e36ccd4756a598e1?utm_campaign=1066&utm_source=git)** | Baltimore, MD | On Site | Jun 13 |
 | **[Donor Network West](https://www.donornetworkwest.org/)** | **[Research Assistant](https://jobright.ai/jobs/info/684cb5cfba4e40bebf9cb51d?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Jun 13 |
 | ↳ | **[Research Assistant](https://jobright.ai/jobs/info/684ca5d6606df8a38227da63?utm_campaign=1066&utm_source=git)** | Bay Area, CA | On Site | Jun 13 |
