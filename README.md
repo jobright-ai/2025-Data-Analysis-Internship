@@ -57,9 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/681da5c8df7c7209071aed12?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
-| ↳ | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/681d8f38ba8010ef641ba98d?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
-| ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/681d8f38ba8010ef641ba992?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
+| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Intern, Business Intelligence R2Net-4](https://jobright.ai/jobs/info/6855b8e425b1ff13bfa30b07?utm_campaign=1066&utm_source=git)** | R2Net Operations New York, NY | On Site | Jun 20 |
+| ↳ | **[Intern, Business Intelligence R2Net-3](https://jobright.ai/jobs/info/6855b8e425b1ff13bfa30bea?utm_campaign=1066&utm_source=git)** | R2Net Operations New York, NY | On Site | Jun 20 |
+| ↳ | **[Intern, Business Intelligence R2Net-2](https://jobright.ai/jobs/info/6855b26940702334a45a1029?utm_campaign=1066&utm_source=git)** | R2Net Operations New York, NY | On Site | Jun 20 |
+| ↳ | **[Intern, Business Intelligence R2Net-1](https://jobright.ai/jobs/info/6855b26940702334a45a0fe5?utm_campaign=1066&utm_source=git)** | R2Net Operations New York, NY | On Site | Jun 20 |
+| **[Sanofi](https://www.sanofi.com)** | **[Winter/Spring 2026 Co-op/Intern - mRNA Data & Computational Science](https://jobright.ai/jobs/info/6855b26940702334a45a1048?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Jun 20 |
+| **[Jabil](https://www.jabil.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6855a0e37ae0d7da46c282a5?utm_campaign=1066&utm_source=git)** | Nicholasville, KY | On Site | Jun 20 |
+| **[Amentum](https://www.amentum.com/)** | **[Intern](https://jobright.ai/jobs/info/68559a2793176b753f227cf4?utm_campaign=1066&utm_source=git)** | US-MD-Aberdeen Proving Ground | On Site | Jun 20 |
+| **[Del Monte Foods](https://www.delmontefoods.com/)** | **[IT Intern](https://jobright.ai/jobs/info/6855941672028ad6f5ac24ef?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jun 20 |
+| **[Jabil](https://www.jabil.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/685580c6a2327243eed6e361?utm_campaign=1066&utm_source=git)** | Lexington, KY | On Site | Jun 20 |
+| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/681d8f38ba8010ef641ba98d?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
+| ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/681da5c8df7c7209071aed12?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
+| **[East West Bank](http://eastwestbank.com)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/68395c56ed9877426dd7b2e3?utm_campaign=1066&utm_source=git)** | Pasadena, CA | On Site | Jun 20 |
+| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/681d8f38ba8010ef641ba992?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
 | **[AGAP Technologies Inc](https://agaptech.com/)** | **[Data Analyst Training](https://jobright.ai/jobs/info/685533d198e0131bb8e5fdc5?utm_campaign=1066&utm_source=git)** | Henderson, NV | On Site | Jun 19 |
 | **[Keystone AI](https://www.keystone.ai)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/6854a177536967a6bdc28076?utm_campaign=1066&utm_source=git)** | Washington, United States | On Site | Jun 19 |
 | ↳ | **[Intern - Data Analyst](https://jobright.ai/jobs/info/6854719b25bdd79e4b15bf74?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Jun 19 |
@@ -83,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[University of Idaho](http://www.uidaho.edu/)** | **[Postdoctoral Research Associates, Statistical and Computational Modeling](https://jobright.ai/jobs/info/6853f14bfdcaaa18ae154b88?utm_campaign=1066&utm_source=git)** | Moscow, ME | On Site | Jun 18 |
 | **[Injective](https://injectivelabs.org)** | **[Quant intern](https://jobright.ai/jobs/info/68533f142d7521a1f0e6c080?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 18 |
 | **[Verily](https://verily.com)** | **[Data Science Platform Intern](https://jobright.ai/jobs/info/685315305cd31e0b4ade735c?utm_campaign=1066&utm_source=git)** | Boston, Massachusetts | On Site | Jun 18 |
+| **[Fujitsu](http://www.fujitsu.com)** | **[Research Intern](https://jobright.ai/jobs/info/6853131fd3866b639dba5851?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jun 18 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[High School Student Intern](https://jobright.ai/jobs/info/68530f0e3f24d7c4b2cdbd70?utm_campaign=1066&utm_source=git)** | Texas | On Site | Jun 18 |
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide](https://jobright.ai/jobs/info/6853f8c646f9459d7ef6e952?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jun 18 |
 | **[North Dakota State University](http://www.ndsu.edu/)** | **[Research Assistant](https://jobright.ai/jobs/info/6852ec4dc283936cf5a736b0?utm_campaign=1066&utm_source=git)** | Fargo, ND | On Site | Jun 18 |
@@ -126,6 +137,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/684dfa94d401df430d550186?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 14 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Network Planning - Schedule Analytics (Spring 2026)](https://jobright.ai/jobs/info/684d12fcc4f257fd723a2c79?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 13 |
 | **[The Johns Hopkins University](https://www.jhu.edu)** | **[Postdoctoral Fellow - Normativity Lab](https://jobright.ai/jobs/info/684cedb4e36ccd4756a598e1?utm_campaign=1066&utm_source=git)** | Baltimore, MD | On Site | Jun 13 |
-| **[Donor Network West](https://www.donornetworkwest.org/)** | **[Research Assistant](https://jobright.ai/jobs/info/684cb5cfba4e40bebf9cb51d?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Jun 13 |
-| ↳ | **[Research Assistant](https://jobright.ai/jobs/info/684ca5d6606df8a38227da63?utm_campaign=1066&utm_source=git)** | Bay Area, CA | On Site | Jun 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
