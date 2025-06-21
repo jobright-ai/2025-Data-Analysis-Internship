@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Geographic Information Systems (Spring 2026)](https://jobright.ai/jobs/info/68569a35f940a7e465a2a1bf?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Jun 21 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/685625ec50c9ebcea96ec14e?utm_campaign=1066&utm_source=git)** | Addison, IL | On Site | Jun 20 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/68561c34e011adcbce261d21?utm_campaign=1066&utm_source=git)** | Summerville, SC | On Site | Jun 20 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Intern, Business Intelligence R2Net-1](https://jobright.ai/jobs/info/68560db7708e480a3554aa24?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 20 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Clinical Analyst Intern](https://jobright.ai/jobs/info/685603b2ff9724a316e0bd52?utm_campaign=1066&utm_source=git)** | Thousand Oaks, CA | On Site | Jun 20 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Intern, Business Intelligence R2Net-4](https://jobright.ai/jobs/info/6856007d7352b4d0c2d27b0b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 20 |
-| ↳ | **[Intern, Business Intelligence R2Net-2](https://jobright.ai/jobs/info/6856007d7352b4d0c2d27acc?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 20 |
+| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Intern, Business Intelligence R2Net-2](https://jobright.ai/jobs/info/6856007d7352b4d0c2d27acc?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 20 |
+| ↳ | **[Intern, Business Intelligence R2Net-4](https://jobright.ai/jobs/info/6856007d7352b4d0c2d27b0b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 20 |
 | ↳ | **[Intern, Business Intelligence R2Net-3](https://jobright.ai/jobs/info/68562dcb117f8bd9974da20b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 20 |
 | **[Louis Dreyfus Company](http://www.ldc.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/6855f995b0e8b59b0e9db197?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Jun 20 |
 | **[CUBRC](http://www.cubrc.org)** | **[Research Intern](https://jobright.ai/jobs/info/685679245a2f0eed0ee9d62f?utm_campaign=1066&utm_source=git)** | Buffalo, NY | On Site | Jun 20 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Jabil](https://www.jabil.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6855a0e37ae0d7da46c282a5?utm_campaign=1066&utm_source=git)** | Nicholasville, KY | On Site | Jun 20 |
 | **[Amentum](https://www.amentum.com/)** | **[Intern](https://jobright.ai/jobs/info/68559a2793176b753f227cf4?utm_campaign=1066&utm_source=git)** | US-MD-Aberdeen Proving Ground | On Site | Jun 20 |
 | **[Jabil](https://www.jabil.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/685580c6a2327243eed6e361?utm_campaign=1066&utm_source=git)** | Lexington, KY | On Site | Jun 20 |
-| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/681da5c8df7c7209071aed12?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
-| ↳ | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/681d8f38ba8010ef641ba98d?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
+| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/681d8f38ba8010ef641ba98d?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
+| ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/681da5c8df7c7209071aed12?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
 | **[East West Bank](http://eastwestbank.com)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/68395c56ed9877426dd7b2e3?utm_campaign=1066&utm_source=git)** | Pasadena, CA | On Site | Jun 20 |
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/681d8f38ba8010ef641ba992?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
 | **[AGAP Technologies Inc](https://agaptech.com/)** | **[Data Analyst Training](https://jobright.ai/jobs/info/685533d198e0131bb8e5fdc5?utm_campaign=1066&utm_source=git)** | Henderson, NV | On Site | Jun 19 |
@@ -137,6 +138,4 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Commercial & Investment Bank Innovation Development Summer Analyst Program](https://jobright.ai/jobs/info/67f9fa32b78f81c7f3866bdf?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jun 15 |
 | **[ENSCO, Inc.](http://www.ensco.com)** | **[Data Analyst Specialist - SkillBridge Internship](https://jobright.ai/jobs/info/67f769a6a2b4f9a76dfc3490?utm_campaign=1066&utm_source=git)** | Melbourne, FL | On Site | Jun 15 |
 | **[Arxada](https://www.arxada.com/)** | **[R&D Data Scientist Intern](https://jobright.ai/jobs/info/681238604cb41a11e611f5c8?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Jun 14 |
-| **[Procter & Gamble](https://us.pg.com/)** | **[Lab Analyst (Learn and Earn Co-Op)](https://jobright.ai/jobs/info/67f7bbddbd5791c69c165c0d?utm_campaign=1066&utm_source=git)** | Inwood, WV | On Site | Jun 14 |
-| **[Southern Utah University](http://www.suu.edu/)** | **[Orphan Gas and Oil Well Inventory/ Remote Sensing GIS Intern](https://jobright.ai/jobs/info/684dc4cdf8713278933a832c?utm_campaign=1066&utm_source=git)** | Cedar City, UT | Remote | Jun 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
