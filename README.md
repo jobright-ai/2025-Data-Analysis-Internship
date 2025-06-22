@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Quality Systems Data Science Co-op](https://jobright.ai/jobs/info/6857e49230477ce86146616b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jun 22 |
 | **[Dignity Health](https://www.dignityhealth.org)** | **[Research Post Doctoral Fellow](https://jobright.ai/jobs/info/680d4f33045480b64e77f063?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Jun 21 |
 | **[Sanofi](https://www.sanofi.com)** | **[Winter/Spring 2026 Co-op/Intern - mRNA Data & Computational Science](https://jobright.ai/jobs/info/6856fb92eefc42780236ac7f?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Jun 21 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Reporting and Analytics Intern](https://jobright.ai/jobs/info/683fd3ae96f25b521d0b3146?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Jun 21 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/68561c34e011adcbce261d21?utm_campaign=1066&utm_source=git)** | Summerville, SC | On Site | Jun 20 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Intern, Business Intelligence R2Net-1](https://jobright.ai/jobs/info/68560db7708e480a3554aa24?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 20 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Clinical Analyst Intern](https://jobright.ai/jobs/info/685603b2ff9724a316e0bd52?utm_campaign=1066&utm_source=git)** | Thousand Oaks, CA | On Site | Jun 20 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Intern, Business Intelligence R2Net-4](https://jobright.ai/jobs/info/6856007d7352b4d0c2d27b0b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 20 |
-| ↳ | **[Intern, Business Intelligence R2Net-2](https://jobright.ai/jobs/info/6856007d7352b4d0c2d27acc?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 20 |
+| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Intern, Business Intelligence R2Net-2](https://jobright.ai/jobs/info/6856007d7352b4d0c2d27acc?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 20 |
+| ↳ | **[Intern, Business Intelligence R2Net-4](https://jobright.ai/jobs/info/6856007d7352b4d0c2d27b0b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 20 |
 | ↳ | **[Intern, Business Intelligence R2Net-3](https://jobright.ai/jobs/info/68562dcb117f8bd9974da20b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 20 |
 | **[Louis Dreyfus Company](http://www.ldc.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/6855f995b0e8b59b0e9db197?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Jun 20 |
 | **[CUBRC](http://www.cubrc.org)** | **[Research Intern](https://jobright.ai/jobs/info/685679245a2f0eed0ee9d62f?utm_campaign=1066&utm_source=git)** | Buffalo, NY | On Site | Jun 20 |
@@ -83,13 +84,13 @@ For a complete list, click the following sortable link below:
 | **[Jabil](https://www.jabil.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6855a0e37ae0d7da46c282a5?utm_campaign=1066&utm_source=git)** | Nicholasville, KY | On Site | Jun 20 |
 | **[Amentum](https://www.amentum.com/)** | **[Intern](https://jobright.ai/jobs/info/68559a2793176b753f227cf4?utm_campaign=1066&utm_source=git)** | US-MD-Aberdeen Proving Ground | On Site | Jun 20 |
 | **[Jabil](https://www.jabil.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/685580c6a2327243eed6e361?utm_campaign=1066&utm_source=git)** | Lexington, KY | On Site | Jun 20 |
-| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/681d8f38ba8010ef641ba98d?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
-| ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/681da5c8df7c7209071aed12?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
+| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/681da5c8df7c7209071aed12?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
+| ↳ | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/681d8f38ba8010ef641ba98d?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
 | **[East West Bank](http://eastwestbank.com)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/68395c56ed9877426dd7b2e3?utm_campaign=1066&utm_source=git)** | Pasadena, CA | On Site | Jun 20 |
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/681d8f38ba8010ef641ba992?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
 | **[AGAP Technologies Inc](https://agaptech.com/)** | **[Data Analyst Training](https://jobright.ai/jobs/info/685533d198e0131bb8e5fdc5?utm_campaign=1066&utm_source=git)** | Henderson, NV | On Site | Jun 19 |
 | **[Keystone AI](https://www.keystone.ai)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/6854a177536967a6bdc28076?utm_campaign=1066&utm_source=git)** | Washington, United States | On Site | Jun 19 |
-| ↳ | **[Intern - Data Analyst](https://jobright.ai/jobs/info/6854a177536967a6bdc281b9?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Jun 19 |
+| ↳ | **[Intern - Data Analyst](https://jobright.ai/jobs/info/6854719b25bdd79e4b15bf74?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Jun 19 |
 | **[Healthcare Fraud Shield](http://www.hcfraudshield.com/)** | **[FWA Analyst Intern](https://jobright.ai/jobs/info/68543de29d18b3178fd35561?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 19 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (PhD 2025)](https://jobright.ai/jobs/info/67f1889fd82de3d6e76d20ef?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jun 19 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Real Estate Research Intern (PHX)](https://jobright.ai/jobs/info/6679630df6b36b4aa01a325a?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Jun 19 |
