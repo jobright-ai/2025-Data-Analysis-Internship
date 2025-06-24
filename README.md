@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascent](https://www.ascentfunding.com/)** | **[Business Data Analyst Intern](https://jobright.ai/jobs/info/6859f854d3b885d69bbfe16f?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Jun 23 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Insights Delivery and Market Development (Spring 2026)](https://jobright.ai/jobs/info/6859e5c41123907c7ff5311f?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 23 |
 | ↳ | **[Co-op, Crew Resources - Data Analyst (Fall 2025)](https://jobright.ai/jobs/info/6859a9af4a7f15be77c93216?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 23 |
 | **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[Intern - Data Scientist](https://jobright.ai/jobs/info/685981edf0416ac6ceb51b31?utm_campaign=1066&utm_source=git)** | Malvern, PA | Hybrid | Jun 23 |
@@ -73,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/683a54b19a7f46ede4c06b42?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jun 21 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/68561c34e011adcbce261d21?utm_campaign=1066&utm_source=git)** | Summerville, SC | On Site | Jun 20 |
 | ↳ | **[Clinical Analyst Intern](https://jobright.ai/jobs/info/685603b2ff9724a316e0bd52?utm_campaign=1066&utm_source=git)** | Thousand Oaks, CA | On Site | Jun 20 |
-| **[Louis Dreyfus Company](http://www.ldc.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/6855f995b0e8b59b0e9db197?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Jun 20 |
 | **[CUBRC](http://www.cubrc.org)** | **[Research Intern](https://jobright.ai/jobs/info/685679245a2f0eed0ee9d62f?utm_campaign=1066&utm_source=git)** | Buffalo, NY | On Site | Jun 20 |
 | **[TabaPay](https://www.tabapay.com)** | **[Data Analyst, Intern](https://jobright.ai/jobs/info/6855c1dd2ce5b04f9825a9a5?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Jun 20 |
 | **[Amentum](https://www.amentum.com/)** | **[Intern](https://jobright.ai/jobs/info/685625e1bc541e6170c5057f?utm_campaign=1066&utm_source=git)** | Aberdeen, MD | On Site | Jun 20 |
@@ -81,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d88?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 20 |
 | **[Amentum](https://www.amentum.com/)** | **[Intern](https://jobright.ai/jobs/info/68559a2793176b753f227cf4?utm_campaign=1066&utm_source=git)** | US-MD-Aberdeen Proving Ground | On Site | Jun 20 |
 | **[Jabil](https://www.jabil.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/685580c6a2327243eed6e361?utm_campaign=1066&utm_source=git)** | Lexington, KY | On Site | Jun 20 |
-| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/681d8f38ba8010ef641ba98d?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
-| ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/681da5c8df7c7209071aed12?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
+| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/681da5c8df7c7209071aed12?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
+| ↳ | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/681d8f38ba8010ef641ba98d?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
 | **[East West Bank](http://eastwestbank.com)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/68395c56ed9877426dd7b2e3?utm_campaign=1066&utm_source=git)** | Pasadena, CA | On Site | Jun 20 |
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/681d8f38ba8010ef641ba992?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 20 |
 | **[AGAP Technologies Inc](https://agaptech.com/)** | **[Data Analyst Training](https://jobright.ai/jobs/info/685533d198e0131bb8e5fdc5?utm_campaign=1066&utm_source=git)** | Henderson, NV | On Site | Jun 19 |
@@ -117,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Overdrive Interactive](http://www.ovrdrv.com)** | **[Economist Research Internship](https://jobright.ai/jobs/info/6851d66a0dbbd4c98454ced0?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jun 17 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[Data Science/Machine Learning/Cognitive Science GRA - Fall 2025 - SEAL](https://jobright.ai/jobs/info/6851ba6de41e06d696399001?utm_campaign=1066&utm_source=git)** | Smyrna, GA | On Site | Jun 17 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Production Data Analytics](https://jobright.ai/jobs/info/6851b85d9927ee476afa271f?utm_campaign=1066&utm_source=git)** | Garden Grove, CA | On Site | Jun 17 |
-| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Research Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68197a2d6096156592cac710?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
