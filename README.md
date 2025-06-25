@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adswerve, Inc.](http://www.adswerve.com)** | **[Analytics Internship](https://jobright.ai/jobs/info/685b5297960682eefd69650c?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Jun 24 |
 | **[Optimum Media](https://a4alticeadvertising.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/685b43debc23eac2e2129fdd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 24 |
+| **[Amazon](https://amazon.com)** | **[2025 Data Science Internship - United States, PhD or Masters Student](https://jobright.ai/jobs/info/685b64fca93cfb04020256ba?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 24 |
 | **[Adswerve, Inc.](http://www.adswerve.com)** | **[Analytics Internship](https://jobright.ai/jobs/info/685b2ae1e6572e3ac416c46b?utm_campaign=1066&utm_source=git)** | United States - Remote | Hybrid | Jun 24 |
 | **[Trove Tourism Development Advisors](http://www.trovetourism.com)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/685b21342770fd7573ecd319?utm_campaign=1066&utm_source=git)** | NYC Metro Area | Remote | Jun 24 |
 | **[Veracyte, Inc.](http://www.veracyte.com)** | **[Data Analyst - Revenue Cycle Operations Intern](https://jobright.ai/jobs/info/685b09538ba8dca775a24189?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Jun 24 |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/685b5297960682eefd69699c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 24 |
 | **[Auburn University](https://www.auburn.edu/)** | **[TES Research Assistant - Li An](https://jobright.ai/jobs/info/685afa588e3eaaed78cfc525?utm_campaign=1066&utm_source=git)** | Auburn, AL | On Site | Jun 24 |
 | **[Veracyte, Inc.](http://www.veracyte.com)** | **[Data Analyst - Revenue Cycle Operations Intern](https://jobright.ai/jobs/info/685af307b4de0d3e650af8b5?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 24 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[2025 Extended Intern, Research, St. Louis](https://jobright.ai/jobs/info/685aeea7e3c3f138e49e039e?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jun 24 |
@@ -74,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Insights Delivery and Market Development (Spring 2026)](https://jobright.ai/jobs/info/6859e5c41123907c7ff5311f?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 23 |
 | ↳ | **[Co-op, Crew Resources - Data Analyst (Fall 2025)](https://jobright.ai/jobs/info/6859a9af4a7f15be77c93216?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 23 |
 | **[Penta Group](https://pentagroup.co)** | **[Custom Research Paid Internship](https://jobright.ai/jobs/info/685a463c74c42892a4bda2ff?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jun 23 |
-| **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[Intern - Data Scientist](https://jobright.ai/jobs/info/685981edf0416ac6ceb5193c?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Jun 23 |
-| ↳ | **[Intern - Data Scientist](https://jobright.ai/jobs/info/685981edf0416ac6ceb51b31?utm_campaign=1066&utm_source=git)** | Malvern, PA | Hybrid | Jun 23 |
+| **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[Intern - Data Scientist](https://jobright.ai/jobs/info/685981edf0416ac6ceb51b31?utm_campaign=1066&utm_source=git)** | Malvern, PA | Hybrid | Jun 23 |
+| ↳ | **[Intern - Data Scientist](https://jobright.ai/jobs/info/685981edf0416ac6ceb5193c?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Jun 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/684a78dd0ad10d9db9d98d6d?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 23 |
 | **[Penta Group](https://pentagroup.co)** | **[Custom Research Paid Internship](https://jobright.ai/jobs/info/68596a3df7e1d7c7ec214cff?utm_campaign=1066&utm_source=git)** | Washington, D.C. | Hybrid | Jun 23 |
 | **[ABB](https://global.abb/group/en)** | **[Data Scientist & AI Intern - Fall 2025](https://jobright.ai/jobs/info/6859478265631f24a62f17f3?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Jun 23 |
@@ -118,7 +121,4 @@ For a complete list, click the following sortable link below:
 | **[Fujitsu](http://www.fujitsu.com)** | **[Research Intern](https://jobright.ai/jobs/info/6853131fd3866b639dba5851?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jun 18 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[High School Student Intern](https://jobright.ai/jobs/info/68530f0e3f24d7c4b2cdbd70?utm_campaign=1066&utm_source=git)** | Texas | On Site | Jun 18 |
 | **[Twist Bioscience](http://www.twistbioscience.com)** | **[Intern - Bioinformatics](https://jobright.ai/jobs/info/6852e8e8f817cbca54b1fa95?utm_campaign=1066&utm_source=git)** | USA - South San Francisco, CA | On Site | Jun 18 |
-| **[Dolby OptiView](https://dolby.io)** | **[Multimodal Data Intern (PhD, Fall 2025)](https://jobright.ai/jobs/info/6852961a97272d20c07f3aa5?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jun 18 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/684a715959c11ab4995d95d4?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
-| ↳ | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/680a338dbdf8f7f7b3418d4e?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
