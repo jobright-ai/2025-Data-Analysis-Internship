@@ -120,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[Verily](https://verily.com)** | **[Data Science Platform Intern](https://jobright.ai/jobs/info/685315305cd31e0b4ade735c?utm_campaign=1066&utm_source=git)** | Boston, Massachusetts | On Site | Jun 18 |
 | **[Fujitsu](http://www.fujitsu.com)** | **[Research Intern](https://jobright.ai/jobs/info/6853131fd3866b639dba5851?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jun 18 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[High School Student Intern](https://jobright.ai/jobs/info/68530f0e3f24d7c4b2cdbd70?utm_campaign=1066&utm_source=git)** | Texas | On Site | Jun 18 |
-| **[Twist Bioscience](http://www.twistbioscience.com)** | **[Intern - Bioinformatics](https://jobright.ai/jobs/info/6852e8e8f817cbca54b1fa95?utm_campaign=1066&utm_source=git)** | USA - South San Francisco, CA | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
