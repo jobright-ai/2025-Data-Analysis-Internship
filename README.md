@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Airbus](https://us.airbus.com)** | **[Working Student (d/f/m) for Technical Data AMM & IPC](https://jobright.ai/jobs/info/685d236ceceaf5fc9447b807?utm_campaign=1066&utm_source=git)** | Hamburg Area | Hybrid | Jun 26 |
+| **[Medpace](http://www.medpace.com)** | **[Informatics Internship/Co-Op Fall 2025](https://jobright.ai/jobs/info/67ec058eac82e86de266e328?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 26 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Co-Op IT Data Science](https://jobright.ai/jobs/info/685cfb78243aa473bd770aef?utm_campaign=1066&utm_source=git)** | Ridgefield, CT | Hybrid | Jun 26 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Quality Assurance Analyst, Robotaxi (Summer 2025)](https://jobright.ai/jobs/info/685ce0bc6c512d62cd43a345?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Jun 25 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/685ce0256f3bf47d96578ded?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Jun 25 |
 | **[Amazon](https://amazon.com)** | **[Amazon Robotics - Data Scientist Co-op - 2025](https://jobright.ai/jobs/info/685cb63f854b270ab6b68a7f?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jun 25 |
-| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Coop, Research](https://jobright.ai/jobs/info/684b33e54c5ab8819961d199?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jun 25 |
 | **[Arizona State University](http://www.asu.edu)** | **[Undergraduate Research Assistant](https://jobright.ai/jobs/info/685c9d7ca48907e41a188d3f?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Jun 25 |
 | **[Dignity Health](https://www.dignityhealth.org)** | **[Research Post Doctoral Fellow](https://jobright.ai/jobs/info/685c92e0405e076a68e99614?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Jun 25 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/685c902321c80253fe8aae58?utm_campaign=1066&utm_source=git)** | Newark, DE | On Site | Jun 25 |
@@ -76,12 +77,11 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Data Scientist & AI Intern - Fall 2025](https://jobright.ai/jobs/info/685c4b028146ebc0b1c3813a?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Jun 25 |
 | **[Veolia North America](http://growingblue.com/)** | **[Intern - Data Scientist](https://jobright.ai/jobs/info/685c3ab632a883848a24cdd7?utm_campaign=1066&utm_source=git)** | Hopkins, MN | Hybrid | Jun 25 |
 | **[Denver Water](https://www.denverwater.org/)** | **[Fall Data Analysis Intern - Power BI](https://jobright.ai/jobs/info/685c3ab632a883848a24ccd0?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Jun 25 |
-| **[Endeavor Health](https://www.endeavorhealth.org)** | **[Summer Research Intern](https://jobright.ai/jobs/info/685c357f6391a7762e7738fb?utm_campaign=1066&utm_source=git)** | NCH 880 W Central Rd Arlington Heights | On Site | Jun 25 |
-| ↳ | **[Summer Research Intern](https://jobright.ai/jobs/info/685c317e70d50b3beefc3a94?utm_campaign=1066&utm_source=git)** | Arlington Heights, IL | On Site | Jun 25 |
+| **[Endeavor Health](https://www.endeavorhealth.org)** | **[Summer Research Intern](https://jobright.ai/jobs/info/685c360b9c4281af5973a4c1?utm_campaign=1066&utm_source=git)** | Arlington Heights, IL | On Site | Jun 25 |
+| ↳ | **[Summer Research Intern](https://jobright.ai/jobs/info/685c357f6391a7762e773925?utm_campaign=1066&utm_source=git)** | NCH 880 W Central Rd Arlington Heights | On Site | Jun 25 |
 | **[L'Oréal](https://www.loreal.com)** | **[Internship - Data](https://jobright.ai/jobs/info/685c1b4ff5f4c5cd0e3cf2dd?utm_campaign=1066&utm_source=git)** | Massachusetts, United States | On Site | Jun 25 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Fall 2025](https://jobright.ai/jobs/info/680699b6d90e2f79f1718a69?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist (Spring, 2025)](https://jobright.ai/jobs/info/68490d321314d3150c19aa60?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
-| **[John Deere](https://www.deere.com)** | **[Part-Time Student - Data Analytics - Urbandale, IA](https://jobright.ai/jobs/info/684b9fec9aa1bdadf592592b?utm_campaign=1066&utm_source=git)** | Urbandale, IA | Hybrid | Jun 25 |
 | **[Adswerve, Inc.](http://www.adswerve.com)** | **[Analytics Internship](https://jobright.ai/jobs/info/685b5297960682eefd69650c?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Jun 24 |
 | **[Amazon](https://amazon.com)** | **[2025 Data Science Internship - United States, PhD or Masters Student](https://jobright.ai/jobs/info/685b64fca93cfb04020256ba?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 24 |
 | **[Adswerve, Inc.](http://www.adswerve.com)** | **[Analytics Internship](https://jobright.ai/jobs/info/685b2ae1e6572e3ac416c46b?utm_campaign=1066&utm_source=git)** | United States - Remote | Hybrid | Jun 24 |
