@@ -61,7 +61,6 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Multilingual Data Intern (Speech) - 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/685f2ce913fddba5d339d6d2?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 27 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Research Scholar](https://jobright.ai/jobs/info/685efe774eb092450f74d356?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jun 27 |
 | **[CorVel Corporation](https://www.corvel.com/)** | **[Databricks GraphFrames Analyst - Intern](https://jobright.ai/jobs/info/685efc353adc1330d1c013af?utm_campaign=1066&utm_source=git)** | Fort Worth, TX | Remote | Jun 27 |
-| **[CERIS](https://www.ceris.com/)** | **[Databricks GraphFrames Analyst - Intern](https://jobright.ai/jobs/info/685eef5b9781f1e4c530a350?utm_campaign=1066&utm_source=git)** | Fort Worth, TX | Remote | Jun 27 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Data Analyst - Intern](https://jobright.ai/jobs/info/685ee24eb93e274e6626712f?utm_campaign=1066&utm_source=git)** | Keystone, NE | On Site | Jun 27 |
 | **[Sword Health](http://www.swordhealth.com)** | **[Data Science Trainee](https://jobright.ai/jobs/info/685ed18e009810f6f5233433?utm_campaign=1066&utm_source=git)** | Remote (PT) | Remote | Jun 27 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/67d1cebe7b1578e26a758665?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Jun 27 |
@@ -126,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Sanofi](https://www.sanofi.com)** | **[Winter/Spring 2026 Co-op/Intern - mRNA Data & Computational Science](https://jobright.ai/jobs/info/6856fb92eefc42780236ac7f?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Jun 21 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Reporting and Analytics Intern](https://jobright.ai/jobs/info/683fd3ae96f25b521d0b3146?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Jun 21 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Delta Wellness - Data Science (Summer, 2025)](https://jobright.ai/jobs/info/6848f21702926d2c504550c1?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 21 |
-| **[insightsoftware](https://www.insightsoftware.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/683a54b19a7f46ede4c06b42?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jun 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
