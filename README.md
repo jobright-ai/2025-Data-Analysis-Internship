@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fred Hutch](http://www.fredhutch.org/)** | **[Post-Doctoral Research Fellow](https://jobright.ai/jobs/info/685f33a5fe1c349374a2611c?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 27 |
+| **[ByteDance](http://bytedance.com)** | **[Multilingual Data Intern (Speech) - 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/685f2ce913fddba5d339d6d2?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jun 27 |
+| **[North Carolina State University](http://www.ncsu.edu/)** | **[Research Scholar](https://jobright.ai/jobs/info/685efe774eb092450f74d356?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jun 27 |
+| **[CorVel Corporation](https://www.corvel.com/)** | **[Databricks GraphFrames Analyst - Intern](https://jobright.ai/jobs/info/685efc353adc1330d1c013af?utm_campaign=1066&utm_source=git)** | Fort Worth, TX | Remote | Jun 27 |
 | **[CERIS](https://www.ceris.com/)** | **[Databricks GraphFrames Analyst - Intern](https://jobright.ai/jobs/info/685eef5b9781f1e4c530a350?utm_campaign=1066&utm_source=git)** | Fort Worth, TX | Remote | Jun 27 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[Data Analyst - Intern](https://jobright.ai/jobs/info/685ee24eb93e274e6626712f?utm_campaign=1066&utm_source=git)** | Keystone, NE | On Site | Jun 27 |
 | **[Sword Health](http://www.swordhealth.com)** | **[Data Science Trainee](https://jobright.ai/jobs/info/685ed18e009810f6f5233433?utm_campaign=1066&utm_source=git)** | Remote (PT) | Remote | Jun 27 |
@@ -69,13 +73,13 @@ For a complete list, click the following sortable link below:
 | **[Sanofi](https://www.sanofi.com)** | **[Winter, Spring 2026 Co-op-Intern - mRNA Data and Computational Science](https://jobright.ai/jobs/info/685e01d2c91cba6844eb3abd?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Jun 26 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Data Analytics & Reporting Intern (Remote)](https://jobright.ai/jobs/info/685dea135630ffbb009ff60f?utm_campaign=1066&utm_source=git)** | Greater Cleveland | Remote | Jun 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Oral Genealogy Research Analyst Paid Intern](https://jobright.ai/jobs/info/685e0ba5ce08e482ea1b3194?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 26 |
+| **[University of Florida](https://www.ufl.edu)** | **[Student Data Analyst Intern](https://jobright.ai/jobs/info/685f0852f60ee32b29ee3454?utm_campaign=1066&utm_source=git)** | Gainesville, FL | On Site | Jun 26 |
 | **[AARP](http://www.aarp.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/685de4091361d54b63c99f69?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jun 26 |
 | **[BerryDunn — Assurance, Tax and Consulting](http://www.berrydunn.com)** | **[Financial Services Data Analyst Intern](https://jobright.ai/jobs/info/685dd8e778ccca5a21420b01?utm_campaign=1066&utm_source=git)** | United States | Remote | Jun 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Oral Genealogy Research Analyst Paid Intern](https://jobright.ai/jobs/info/685dcc6e290065f8263432b6?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jun 26 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern,  Optimization (Fall 2025)](https://jobright.ai/jobs/info/685db7909797476362457c0d?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 26 |
 | **[Signet Jewelers](http://www.signetjewelers.com)** | **[Data Analytics & Reporting Intern (Remote)](https://jobright.ai/jobs/info/685db0ade59184cc073340fd?utm_campaign=1066&utm_source=git)** | Support Center - Akron, OH | Remote | Jun 26 |
 | **[BerryDunn — Assurance, Tax and Consulting](http://www.berrydunn.com)** | **[Financial Services Data Analyst Intern](https://jobright.ai/jobs/info/685da428d1a060260e82385f?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Jun 26 |
-| **[Baton Rouge General Medical Center](http://www.brgeneral.org/site406.php)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/685d9f594dc4f5309b6a0044?utm_campaign=1066&utm_source=git)** | Baton Rouge, LA | On Site | Jun 26 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2026](https://jobright.ai/jobs/info/67e3c9fe66371eacaaca30a8?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Jun 26 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Coop, Research](https://jobright.ai/jobs/info/685d586c2fd791ff9922e1c5?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jun 26 |
 | **[Amazon](https://amazon.com)** | **[Amazon Robotics - Business Intelligence Engineer Co-op - Spring & Fall 2025](https://jobright.ai/jobs/info/675d64dadcc8750b9005c4ea?utm_campaign=1066&utm_source=git)** | North Reading, MA | On Site | Jun 26 |
@@ -113,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Insights Delivery and Market Development (Spring 2026)](https://jobright.ai/jobs/info/6859e5c41123907c7ff5311f?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 23 |
 | ↳ | **[Co-op, Crew Resources - Data Analyst (Fall 2025)](https://jobright.ai/jobs/info/6859a9af4a7f15be77c93216?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 23 |
 | **[Penta Group](https://pentagroup.co)** | **[Custom Research Paid Internship](https://jobright.ai/jobs/info/685a463c74c42892a4bda2ff?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jun 23 |
-| **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[Intern - Data Scientist](https://jobright.ai/jobs/info/685981edf0416ac6ceb5193c?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Jun 23 |
-| ↳ | **[Intern - Data Scientist](https://jobright.ai/jobs/info/685981edf0416ac6ceb51b31?utm_campaign=1066&utm_source=git)** | Malvern, PA | Hybrid | Jun 23 |
+| **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[Intern - Data Scientist](https://jobright.ai/jobs/info/685981edf0416ac6ceb51b31?utm_campaign=1066&utm_source=git)** | Malvern, PA | Hybrid | Jun 23 |
+| ↳ | **[Intern - Data Scientist](https://jobright.ai/jobs/info/685981edf0416ac6ceb5193c?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Jun 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/684a78dd0ad10d9db9d98d6d?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jun 23 |
 | **[Penta Group](https://pentagroup.co)** | **[Custom Research Paid Internship](https://jobright.ai/jobs/info/68596a3df7e1d7c7ec214cff?utm_campaign=1066&utm_source=git)** | Washington, D.C. | Hybrid | Jun 23 |
 | **[Peraton](https://www.peraton.com/)** | **[Social Science Intern](https://jobright.ai/jobs/info/6844d504b6fa76b5c5351923?utm_campaign=1066&utm_source=git)** | Reston, VA | Remote | Jun 22 |
@@ -123,5 +127,4 @@ For a complete list, click the following sortable link below:
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Reporting and Analytics Intern](https://jobright.ai/jobs/info/683fd3ae96f25b521d0b3146?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Jun 21 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Delta Wellness - Data Science (Summer, 2025)](https://jobright.ai/jobs/info/6848f21702926d2c504550c1?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 21 |
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/683a54b19a7f46ede4c06b42?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jun 21 |
-| **[East West Bank](http://eastwestbank.com)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/685e382163e0863ca44222b8?utm_campaign=1066&utm_source=git)** | Pasadena, CA | On Site | Jun 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
