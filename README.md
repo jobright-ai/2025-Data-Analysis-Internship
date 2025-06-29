@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/68615713da798a48426a6436?utm_campaign=1066&utm_source=git)** | Addison, IL | On Site | Jun 29 |
+| ↳ | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/68615713da798a48426a6435?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jun 29 |
+| ↳ | **[Technical Analyst - Year Up](https://jobright.ai/jobs/info/68614fef0217163ad61e3196?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Jun 29 |
+| **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/67f143526748e9475cf09039?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jun 29 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Test Engineering Co-op- Data Science](https://jobright.ai/jobs/info/682f1d1d2adba239cf73ecb9?utm_campaign=1066&utm_source=git)** | Frederick, MD | Hybrid | Jun 29 |
+| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Data Analyst](https://jobright.ai/jobs/info/684433a003bc8309e6efae7a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Jun 29 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[China Research Fall 2025 Internship](https://jobright.ai/jobs/info/686055ce7b54c4a9614e6778?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Jun 28 |
 | **[SciTec, Inc.](https://scitec.com/)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/66c5246e93950544f36d9278?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jun 28 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[Grad Research Assistant - Testing Services](https://jobright.ai/jobs/info/686002fa6a9f621ce44acce1?utm_campaign=1066&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
@@ -100,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](http://www.trimble.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/685c4f9ce031745cca58addd?utm_campaign=1066&utm_source=git)** | US - Remote, NC | Remote | Jun 25 |
 | **[ABB](https://global.abb/group/en)** | **[Data Scientist & AI Intern - Fall 2025](https://jobright.ai/jobs/info/685c4b028146ebc0b1c3813a?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Jun 25 |
 | **[Denver Water](https://www.denverwater.org/)** | **[Fall Data Analysis Intern - Power BI](https://jobright.ai/jobs/info/685c3ab632a883848a24ccd0?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Jun 25 |
-| **[Endeavor Health](https://www.endeavorhealth.org)** | **[Summer Research Intern](https://jobright.ai/jobs/info/685c357f6391a7762e7738fb?utm_campaign=1066&utm_source=git)** | NCH 880 W Central Rd Arlington Heights | On Site | Jun 25 |
-| ↳ | **[Summer Research Intern](https://jobright.ai/jobs/info/685c317e70d50b3beefc3a94?utm_campaign=1066&utm_source=git)** | Arlington Heights, IL | On Site | Jun 25 |
+| **[Endeavor Health](https://www.endeavorhealth.org)** | **[Summer Research Intern](https://jobright.ai/jobs/info/685c360b9c4281af5973a4c2?utm_campaign=1066&utm_source=git)** | Arlington Heights, IL | On Site | Jun 25 |
+| ↳ | **[Summer Research Intern](https://jobright.ai/jobs/info/685c357f6391a7762e7738fb?utm_campaign=1066&utm_source=git)** | NCH 880 W Central Rd Arlington Heights | On Site | Jun 25 |
 | **[L'Oréal](https://www.loreal.com)** | **[Internship - Data](https://jobright.ai/jobs/info/685c1b4ff5f4c5cd0e3cf2dd?utm_campaign=1066&utm_source=git)** | Massachusetts, United States | On Site | Jun 25 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Fall 2025](https://jobright.ai/jobs/info/680699b6d90e2f79f1718a69?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Jun 25 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist (Spring, 2025)](https://jobright.ai/jobs/info/68490d321314d3150c19aa60?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jun 25 |
