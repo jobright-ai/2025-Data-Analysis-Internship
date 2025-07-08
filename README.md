@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Research Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68197a2d6096156592cac710?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jul 08 |
 | **[Sutter Health](http://www.sutterhealth.org)** | **[Data Analytics & AI Intern](https://jobright.ai/jobs/info/686ce1ce70c57a9705c38694?utm_campaign=1066&utm_source=git)** | Sacramento, CA | On Site | Jul 08 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/686cbdf735584b65425cd545?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Jul 07 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist - Technical Operations (Spring 2026)](https://jobright.ai/jobs/info/686cb87e35584b6542499e03?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 07 |
@@ -93,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Corpay Technologies](http://www.corpay.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68673bc3afc79b6161e5b89a?utm_campaign=1066&utm_source=git)** | Peachtree Corners, GA | On Site | Jul 03 |
 | **[Primoris Services Corporation](http://prim.com)** | **[Estimating Data Intern- Part Time](https://jobright.ai/jobs/info/6866da26db334829072c8ee0?utm_campaign=1066&utm_source=git)** | Aurora, CO | Hybrid | Jul 03 |
 | **[Chevron](http://www.chevron.com)** | **[2025-2026: Information Technology – Information and Analytics – Full Time (Previous Intern)](https://jobright.ai/jobs/info/6866d620fd0c13945975c9d0?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States of America | Hybrid | Jul 03 |
-| ↳ | **[2025-2026 Information Technology – Information and Analytics – Intern (Previous Intern)](https://jobright.ai/jobs/info/6866d620fd0c13945975c9cc?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States of America | On Site | Jul 03 |
 | ↳ | **[2025-2026: Information Technology – Information and Analytics – Full Time (Previous Intern)](https://jobright.ai/jobs/info/6866d620fd0c13945975ccfa?utm_campaign=1066&utm_source=git)** | San Ramon, California, United States of America | Hybrid | Jul 03 |
+| ↳ | **[2025-2026 Information Technology – Information and Analytics – Intern (Previous Intern)](https://jobright.ai/jobs/info/6866d620fd0c13945975c9cc?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States of America | On Site | Jul 03 |
 | ↳ | **[2025-2026 Information Technology – Information and Analytics – Intern (Previous Intern)](https://jobright.ai/jobs/info/6866d620fd0c13945975cd02?utm_campaign=1066&utm_source=git)** | San Ramon, California, United States of America | On Site | Jul 03 |
 | **[Corpay](https://payments.corpay.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6866b38c2becb9cfcf15b87d?utm_campaign=1066&utm_source=git)** | Peachtree Corners, GA | On Site | Jul 03 |
 | **[ZIM Integrated Shipping Services](http://www.zim.com)** | **[Student - Resolution Analyst](https://jobright.ai/jobs/info/68669ace1a02703ac06ef803?utm_campaign=1066&utm_source=git)** | Virginia Beach, VA | On Site | Jul 03 |
@@ -115,6 +116,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/686b357535584b654233f3c0?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 01 |
 | ↳ | **[Quantitative Research Intern, Bachelor’s or Master’s Degree](https://jobright.ai/jobs/info/686493d3fee3780c06446b2c?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 01 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Summer Analyst](https://jobright.ai/jobs/info/68646d68ba31bc5fb8a5e323?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Jul 01 |
-| **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (PhD)](https://jobright.ai/jobs/info/686434ab3b01d176faa6fe7b?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 01 |
-| ↳ | **[Quantitative Research Intern (BS/MS)](https://jobright.ai/jobs/info/686430586fdefa497e27de92?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
