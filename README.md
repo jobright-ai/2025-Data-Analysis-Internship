@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern – Information Technology](https://jobright.ai/jobs/info/686f0628de69584b9e37a09f?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Jul 09 |
+| **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2026 Summer]](https://jobright.ai/jobs/info/686f04c8ecaa3a16731d769f?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Jul 09 |
+| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/686efc4758dd0e9007995f94?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jul 09 |
+| **[University of New Hampshire](https://www.unh.edu)** | **[Data Visualization Assistant](https://jobright.ai/jobs/info/686ee249382429a8d892f3fc?utm_campaign=1066&utm_source=git)** | New Hampshire, United States | On Site | Jul 09 |
+| **[Georgia Institute of Technology](http://gatech.edu)** | **[Research Intern (GTRI-CIPHER)](https://jobright.ai/jobs/info/686ed1ba2a39bf21f1f7e5a4?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 09 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/686ec4019ac195524dc1d370?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 09 |
 | **[Citadel Securities](https://www.citadelsecurities.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/686eb5a3d0ddb21febf36157?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 09 |
+| **[American Heart Association](http://www.heart.org)** | **[Intern, Data Science-Remote](https://jobright.ai/jobs/info/686edd7e9f5f2363699bc0e1?utm_campaign=1066&utm_source=git)** | Dallas, TX | Remote | Jul 09 |
 | **[Amcor](http://www.amcor.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/686eb4b1888b6c025ded6d60?utm_campaign=1066&utm_source=git)** | Appleton-Oshkosh Area | On Site | Jul 09 |
-| **[CME Group](http://www.cmegroup.com)** | **[Data Science Intern - Year Round 2025](https://jobright.ai/jobs/info/686eaa79706ef96ccd422d2f?utm_campaign=1066&utm_source=git)** | Chicago - 20 S. Wacker | On Site | Jul 09 |
 | **[Cincinnati Children's](http://cincinnatichildrens.org)** | **[Student II - Business Intelligence](https://jobright.ai/jobs/info/686e997ba3c8920a0afe6fe7?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jul 09 |
 | **[Amcor](http://www.amcor.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/686e8e48d58751a257e8cfa7?utm_campaign=1066&utm_source=git)** | AF Oshkosh Division Head Office WI | On Site | Jul 09 |
 | **[Cincinnati Children's](http://cincinnatichildrens.org)** | **[Student II - Business Intelligence](https://jobright.ai/jobs/info/686e704984d8325ad17dba06?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Jul 09 |
@@ -112,9 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Primoris Services Corporation](http://prim.com)** | **[Estimating Data Intern- Part Time](https://jobright.ai/jobs/info/6866da26db334829072c8ee0?utm_campaign=1066&utm_source=git)** | Aurora, CO | Hybrid | Jul 03 |
 | **[Chevron](http://www.chevron.com)** | **[2025-2026: Information Technology – Information and Analytics – Full Time (Previous Intern)](https://jobright.ai/jobs/info/6866d620fd0c13945975c9d0?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States of America | Hybrid | Jul 03 |
 | ↳ | **[2025-2026: Information Technology – Information and Analytics – Full Time (Previous Intern)](https://jobright.ai/jobs/info/6866d620fd0c13945975ccfa?utm_campaign=1066&utm_source=git)** | San Ramon, California, United States of America | Hybrid | Jul 03 |
-| ↳ | **[2025-2026 Information Technology – Information and Analytics – Intern (Previous Intern)](https://jobright.ai/jobs/info/6866d620fd0c13945975cd02?utm_campaign=1066&utm_source=git)** | San Ramon, California, United States of America | On Site | Jul 03 |
 | ↳ | **[2025-2026 Information Technology – Information and Analytics – Intern (Previous Intern)](https://jobright.ai/jobs/info/6866d620fd0c13945975c9cc?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States of America | On Site | Jul 03 |
+| ↳ | **[2025-2026 Information Technology – Information and Analytics – Intern (Previous Intern)](https://jobright.ai/jobs/info/6866d620fd0c13945975cd02?utm_campaign=1066&utm_source=git)** | San Ramon, California, United States of America | On Site | Jul 03 |
 | **[Corpay](https://payments.corpay.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6866b38c2becb9cfcf15b87d?utm_campaign=1066&utm_source=git)** | Peachtree Corners, GA | On Site | Jul 03 |
 | **[ZIM Integrated Shipping Services](http://www.zim.com)** | **[Student - Resolution Analyst](https://jobright.ai/jobs/info/68669ace1a02703ac06ef803?utm_campaign=1066&utm_source=git)** | Virginia Beach, VA | On Site | Jul 03 |
-| **[PriceLabs](https://hello.pricelabs.co)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/686cc11d35584b6542680f58?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
