@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Postdoctoral Research Scholar](https://jobright.ai/jobs/info/687075a701cc0956e7e81fa2?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jul 10 |
+| ↳ | **[Data Dialogue and Visualization Postdoctoral Research Scholar](https://jobright.ai/jobs/info/687089a6a5ae807a59cf922d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jul 10 |
 | **[The University of Texas Health Science Center at Houston (UTHealth Houston)](http://www.uth.edu)** | **[Postdoctoral Research Fellow - School of Public Health](https://jobright.ai/jobs/info/68706487a5ae807a59cf804c?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jul 10 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Administrative & Data Analytics Assistant Intern](https://jobright.ai/jobs/info/68705f61a5ae807a59cf7e87?utm_campaign=1066&utm_source=git)** | Allen, TX | Hybrid | Jul 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist, Product Analytics - USDS](https://jobright.ai/jobs/info/6870381606ad7073463bc212?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Jul 10 |
@@ -130,5 +131,4 @@ For a complete list, click the following sortable link below:
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Technology](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957825?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Jul 05 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Network Planning - Schedule Analytics (Spring 2026)](https://jobright.ai/jobs/info/684d12fcc4f257fd723a2c79?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 05 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Computer, Computational, and Statistical Sciences Postbac](https://jobright.ai/jobs/info/686fa53fa5ae807a59cf246e?utm_campaign=1066&utm_source=git)** | Los Alamos, NM | On Site | Jul 05 |
-| **[Louis Dreyfus Company](http://www.ldc.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/685aedbb1ebec50136d3c724?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Jul 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
