@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Applexus Technologies](https://www.applexus.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6872227506ad7073463cb809?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | **[The AES Corporation](http://www.aes.com)** | **[Summer Intern](https://jobright.ai/jobs/info/68717603ff9bcd850a7262df?utm_campaign=1066&utm_source=git)** | US, Huntington Beach, CA | On Site | Jul 11 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Graduate Research Assistant](https://jobright.ai/jobs/info/6871722c06ad7073463c5209?utm_campaign=1066&utm_source=git)** | Auburn, AL | On Site | Jul 11 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Graduate Research Associate](https://jobright.ai/jobs/info/68716d3706ad7073463c5083?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Jul 11 |
@@ -107,8 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Cincinnati Children's](http://cincinnatichildrens.org)** | **[Student II - Business Intelligence](https://jobright.ai/jobs/info/686e704984d8325ad17dba06?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Jul 09 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Multimodal Data Intern (PhD, Fall 2025)](https://jobright.ai/jobs/info/685e44ba4d8d3c2bc84e4f82?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jul 09 |
 | **[Georgia Tech Research Institute](http://www.gtrc.gatech.edu)** | **[Data Science/Machine Learning/Cognitive Science GRA - Fall 2025 - SEAL](https://jobright.ai/jobs/info/6851ba6de41e06d696399001?utm_campaign=1066&utm_source=git)** | Smyrna, GA | On Site | Jul 09 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/6869fdeb35584b65421f1ab2?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jul 09 |
-| ↳ | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/686b353f35584b6542332a8c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 09 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/686b353f35584b6542332a8c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 09 |
 | ↳ | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/6869f77635584b6542063846?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 09 |
 | **[JT4](https://www.jt4llc.com/)** | **[JT4 SkillBridge Program - Intelligence Analyst Internship](https://jobright.ai/jobs/info/6851f51c4b5999cb93c2424b?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Jul 09 |
 | **[Penumbra, Inc.](http://www.penumbrainc.com)** | **[OAA Data Analyst Intern](https://jobright.ai/jobs/info/686d91a202d6881bf8489682?utm_campaign=1066&utm_source=git)** | Alameda, CA | Hybrid | Jul 08 |
@@ -138,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Commercial & Investment Bank Innovation Development Summer Analyst Program](https://jobright.ai/jobs/info/67f9fa32b78f81c7f3866bdf?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 07 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Quantitative Data Analytics Summer 2026 Analyst - Enterprise Credit](https://jobright.ai/jobs/info/686b9c4135584b6542ec70d8?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jul 07 |
 | ↳ | **[Global Quantitative Data Analytics Summer 2026 Analyst - Analytics, Modeling and Insights (AMI)](https://jobright.ai/jobs/info/686b9bf335584b6542ea51b0?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jul 07 |
-| **[Zipline](http://flyzipline.com)** | **[Data Analytics Intern (Fall 2025)](https://jobright.ai/jobs/info/68316e38b5e2f027313e12ac?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jul 07 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH INTERN](https://jobright.ai/jobs/info/6868bc7e35584b654234cbde?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Jul 06 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Data & Insights Intern - Fall 2025](https://jobright.ai/jobs/info/68637e0cd6c57d7bbfc977af?utm_campaign=1066&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 06 |
 | **[Amazon](https://amazon.com)** | **[Amazon Robotics - Business Analyst Co-op - Spring or Fall 2025, Global Robotics Delivery](https://jobright.ai/jobs/info/675d682d94c4ef11e23ff79f?utm_campaign=1066&utm_source=git)** | Westborough, MA | On Site | Jul 06 |
