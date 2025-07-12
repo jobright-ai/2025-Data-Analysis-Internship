@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d88?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
 | **[Applexus Technologies](https://www.applexus.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6872227506ad7073463cb809?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | **[The AES Corporation](http://www.aes.com)** | **[Summer Intern](https://jobright.ai/jobs/info/68717603ff9bcd850a7262df?utm_campaign=1066&utm_source=git)** | US, Huntington Beach, CA | On Site | Jul 11 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Graduate Research Assistant](https://jobright.ai/jobs/info/6871722c06ad7073463c5209?utm_campaign=1066&utm_source=git)** | Auburn, AL | On Site | Jul 11 |
@@ -99,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2026 Summer]](https://jobright.ai/jobs/info/686f04c8ecaa3a16731d769f?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Jul 09 |
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/686efc4758dd0e9007995f94?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jul 09 |
 | **[University of New Hampshire](https://innovation.unh.edu/)** | **[Data Visualization Assistant](https://jobright.ai/jobs/info/686ee249382429a8d892f3fc?utm_campaign=1066&utm_source=git)** | New Hampshire, United States | On Site | Jul 09 |
-| **[Georgia Institute of Technology](http://gatech.edu)** | **[Research Intern (GTRI-CIPHER)](https://jobright.ai/jobs/info/686ecde75cc4111d9fe609a7?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 09 |
+| **[Georgia Institute of Technology](http://gatech.edu)** | **[Research Intern (GTRI-CIPHER)](https://jobright.ai/jobs/info/686ed1ba2a39bf21f1f7e5a4?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 09 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/686ec4019ac195524dc1d370?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 09 |
 | **[Citadel Securities](https://www.citadelsecurities.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/686eb5a3d0ddb21febf36157?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 09 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Data Science-Remote](https://jobright.ai/jobs/info/686edd7e9f5f2363699bc0e1?utm_campaign=1066&utm_source=git)** | Dallas, TX | Remote | Jul 09 |
