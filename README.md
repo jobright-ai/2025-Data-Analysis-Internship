@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sanofi](https://www.sanofi.com)** | **[Winter/Spring 2026 Co-op/Intern - mRNA Data & Computational Science](https://jobright.ai/jobs/info/6856fb92eefc42780236ac7f?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Jul 13 |
 | **[Twist Bioscience](http://www.twistbioscience.com)** | **[Intern - Bioinformatics](https://jobright.ai/jobs/info/6872bc5fa5ae807a59d070ec?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jul 12 |
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/683a54b19a7f46ede4c06b42?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jul 12 |
 | **[ByteDance](http://bytedance.com)** | **[Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d88?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Auburn University](https://www.auburn.edu/)** | **[Graduate Research Assistant](https://jobright.ai/jobs/info/6871722c06ad7073463c5209?utm_campaign=1066&utm_source=git)** | Auburn, AL | On Site | Jul 11 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Graduate Research Associate](https://jobright.ai/jobs/info/68716d3706ad7073463c5083?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Jul 11 |
 | **[Midwest Employers Casualty (a Berkley Company)](https://www.mecasualty.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68716275a5ae807a59cff436?utm_campaign=1066&utm_source=git)** | Chesterfield, MO | Hybrid | Jul 11 |
+| **[Syracuse University](http://emc.syr.edu)** | **[Postdoctoral Scholar – Data Ethics and Research Openness](https://jobright.ai/jobs/info/6873960f4001e95011b17990?utm_campaign=1066&utm_source=git)** | Syracuse, NY | Hybrid | Jul 11 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Digital Data Science)](https://jobright.ai/jobs/info/68715c40a5ae807a59cff288?utm_campaign=1066&utm_source=git)** | Winchester, VA | Hybrid | Jul 11 |
 | ↳ | **[Intern - Year Round (Digital Data Science)](https://jobright.ai/jobs/info/6871594a06ad7073463c49d2?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Jul 11 |
 | ↳ | **[Intern - Year Round (Digital Data Science)](https://jobright.ai/jobs/info/68717c9b06ad7073463c5654?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Jul 11 |
@@ -92,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Spencer's](http://www.spencersonline.com/)** | **[BI Internship](https://jobright.ai/jobs/info/6871ee31a5ae807a59d03851?utm_campaign=1066&utm_source=git)** | Egg Harbor, NJ | On Site | Jul 09 |
 | **[Duke University](http://www.duke.edu)** | **[NONDUKE STUDENT/INTERN](https://jobright.ai/jobs/info/686f35917a2a4c8a7bf14956?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Jul 09 |
 | **[Amcor](http://www.amcor.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6870ae8001cc0956e7e84382?utm_campaign=1066&utm_source=git)** | Appleton-Oshkosh Area | On Site | Jul 09 |
+| **[Spencer's](http://www.spencersonline.com/)** | **[Data Governance Internship](https://jobright.ai/jobs/info/687385f04001e95011b16cf1?utm_campaign=1066&utm_source=git)** | Egg Harbor, NJ | On Site | Jul 09 |
 | **[Amazon](https://amazon.com)** | **[Amazon Robotics - Business Intelligence Engineer Co-op - Spring & Fall 2025](https://jobright.ai/jobs/info/686f24a49363c4a2d107ed4a?utm_campaign=1066&utm_source=git)** | North Reading, MA | On Site | Jul 09 |
 | **[ABB](https://global.abb/group/en)** | **[Data Scientist & AI Intern - Fall 2025](https://jobright.ai/jobs/info/685c4b028146ebc0b1c3813a?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Jul 09 |
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student- Data Analytics and Reporting Student Eco Rep](https://jobright.ai/jobs/info/68715be54b595fce1666fd49?utm_campaign=1066&utm_source=git)** | On-Site (New Hampshire) | On Site | Jul 09 |
