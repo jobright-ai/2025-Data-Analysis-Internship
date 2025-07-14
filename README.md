@@ -103,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student- Data Analytics and Reporting Student Eco Rep](https://jobright.ai/jobs/info/68715be54b595fce1666fd49?utm_campaign=1066&utm_source=git)** | On-Site (New Hampshire) | On Site | Jul 09 |
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/686f0c16f0f03582b4c21306?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 09 |
 | ↳ | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/686f0c16f0f03582b4c212a6?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 09 |
-| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern – Information Technology](https://jobright.ai/jobs/info/686f0c16f0f03582b4c215d8?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jul 09 |
-| ↳ | **[Intern – Information Technology](https://jobright.ai/jobs/info/686f0c16f0f03582b4c215d7?utm_campaign=1066&utm_source=git)** | Metairie, LA | On Site | Jul 09 |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern – Information Technology](https://jobright.ai/jobs/info/686f0c16f0f03582b4c215d7?utm_campaign=1066&utm_source=git)** | Metairie, LA | On Site | Jul 09 |
+| ↳ | **[Intern – Information Technology](https://jobright.ai/jobs/info/686f0c16f0f03582b4c215d8?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jul 09 |
 | ↳ | **[Intern – Information Technology](https://jobright.ai/jobs/info/686f0628de69584b9e37a09f?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Jul 09 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2026 Summer]](https://jobright.ai/jobs/info/686f04c8ecaa3a16731d769f?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Jul 09 |
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/686efc4758dd0e9007995f94?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jul 09 |
@@ -133,6 +133,4 @@ For a complete list, click the following sortable link below:
 | **[The Mosaic Company](http://www.mosaicco.com/)** | **[Data Analyst Co-op/Intern - Spring 2026](https://jobright.ai/jobs/info/686c689035584b65428f6048?utm_campaign=1066&utm_source=git)** | Greater Tampa Bay Area | Hybrid | Jul 07 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Polymer Informatics PhD Intern](https://jobright.ai/jobs/info/686c63a735584b654279305c?utm_campaign=1066&utm_source=git)** | Mason, OH | On Site | Jul 07 |
 | **[McKinney](http://mckinney.com)** | **[Intern, Data ](https://jobright.ai/jobs/info/686c642f35584b65427c880c?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Jul 07 |
-| **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2025 Coding and Data Internship](https://jobright.ai/jobs/info/686c4d7135584b6542f57025?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jul 07 |
-| **[The Mosaic Company](http://www.mosaicco.com/)** | **[Data Analyst Co-op/Intern - Spring 2026](https://jobright.ai/jobs/info/686c488935584b6542d71368?utm_campaign=1066&utm_source=git)** | US - Tampa, FL (Lithia area) | Hybrid | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
