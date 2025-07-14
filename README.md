@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BIGO](https://www.bigo.sg)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/687479bd5cebcd1dd51b9d8b?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 13 |
 | **[Sanofi](https://www.sanofi.com)** | **[Winter/Spring 2026 Co-op/Intern - mRNA Data & Computational Science](https://jobright.ai/jobs/info/6856fb92eefc42780236ac7f?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Jul 13 |
 | **[Twist Bioscience](http://www.twistbioscience.com)** | **[Intern - Bioinformatics](https://jobright.ai/jobs/info/6872bc5fa5ae807a59d070ec?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jul 12 |
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/683a54b19a7f46ede4c06b42?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jul 12 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[The AES Corporation](http://www.aes.com)** | **[Summer Intern](https://jobright.ai/jobs/info/68717603ff9bcd850a7262df?utm_campaign=1066&utm_source=git)** | US, Huntington Beach, CA | On Site | Jul 11 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Graduate Research Assistant](https://jobright.ai/jobs/info/6871722c06ad7073463c5209?utm_campaign=1066&utm_source=git)** | Auburn, AL | On Site | Jul 11 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Graduate Research Associate](https://jobright.ai/jobs/info/68716d3706ad7073463c5083?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Jul 11 |
-| **[Sanofi](https://www.sanofi.com)** | **[Winter, Spring 2026 Co-op-Intern– Data Science and Digital Transformation](https://jobright.ai/jobs/info/68716b54a5ae807a59cff74c?utm_campaign=1066&utm_source=git)** | Framingham, MA | On Site | Jul 11 |
 | **[Midwest Employers Casualty (a Berkley Company)](https://www.mecasualty.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68716275a5ae807a59cff436?utm_campaign=1066&utm_source=git)** | Chesterfield, MO | Hybrid | Jul 11 |
 | **[Syracuse University](https://www.tracfed.syr.edu/)** | **[Postdoctoral Scholar – Data Ethics and Research Openness](https://jobright.ai/jobs/info/6873960f4001e95011b17990?utm_campaign=1066&utm_source=git)** | Syracuse, NY | Hybrid | Jul 11 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Digital Data Science)](https://jobright.ai/jobs/info/68715c40a5ae807a59cff288?utm_campaign=1066&utm_source=git)** | Winchester, VA | Hybrid | Jul 11 |
@@ -77,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Research Assistant Internship (Open to Current UT Students Only)](https://jobright.ai/jobs/info/687149e8630cfafb2db09661?utm_campaign=1066&utm_source=git)** | UT MAIN CAMPUS | On Site | Jul 11 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Digital Data Science)](https://jobright.ai/jobs/info/68713f97ca2b96cbce3f4eb7?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | On Site | Jul 11 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Real Estate Research Intern (PHX)](https://jobright.ai/jobs/info/6679630df6b36b4aa01a325a?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Jul 11 |
+| **[Sanofi](https://www.sanofi.com)** | **[Winter, Spring 2026 Co-op-Intern– Data Science and Digital Transformation](https://jobright.ai/jobs/info/6870b31d835ae97aab01899d?utm_campaign=1066&utm_source=git)** | Framingham, MA | On Site | Jul 10 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Postdoctoral Research Scholar](https://jobright.ai/jobs/info/687075a701cc0956e7e81fa2?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jul 10 |
 | ↳ | **[Data Dialogue and Visualization Postdoctoral Research Scholar](https://jobright.ai/jobs/info/687089a6a5ae807a59cf922d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jul 10 |
 | **[The University of Texas Health Science Center at Houston (UTHealth Houston)](http://www.uth.edu)** | **[Postdoctoral Research Fellow - School of Public Health](https://jobright.ai/jobs/info/68706487a5ae807a59cf804c?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jul 10 |
@@ -102,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student- Data Analytics and Reporting Student Eco Rep](https://jobright.ai/jobs/info/68715be54b595fce1666fd49?utm_campaign=1066&utm_source=git)** | On-Site (New Hampshire) | On Site | Jul 09 |
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/686f0c16f0f03582b4c21306?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 09 |
 | ↳ | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/686f0c16f0f03582b4c212a6?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 09 |
-| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern – Information Technology](https://jobright.ai/jobs/info/686f0c16f0f03582b4c215d8?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jul 09 |
-| ↳ | **[Intern – Information Technology](https://jobright.ai/jobs/info/686f0c16f0f03582b4c215d7?utm_campaign=1066&utm_source=git)** | Metairie, LA | On Site | Jul 09 |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern – Information Technology](https://jobright.ai/jobs/info/686f0c16f0f03582b4c215d7?utm_campaign=1066&utm_source=git)** | Metairie, LA | On Site | Jul 09 |
+| ↳ | **[Intern – Information Technology](https://jobright.ai/jobs/info/686f0c16f0f03582b4c215d8?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jul 09 |
 | ↳ | **[Intern – Information Technology](https://jobright.ai/jobs/info/686f0628de69584b9e37a09f?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Jul 09 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2026 Summer]](https://jobright.ai/jobs/info/686f04c8ecaa3a16731d769f?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Jul 09 |
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/686efc4758dd0e9007995f94?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jul 09 |
@@ -142,8 +143,4 @@ For a complete list, click the following sortable link below:
 | **[DRW](http://drw.com/)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/686bf61235584b6542bdcb22?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Jul 07 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Fellowship](https://jobright.ai/jobs/info/67a434800fe8f7f7d8d268f3?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Jul 07 |
 | **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Postdoctoral Research Associate - Biostatistics](https://jobright.ai/jobs/info/681615b58c2bda1a674b7851?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Jul 07 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Global Quantitative Data Analytics Summer 2026 Analyst - Global Risk Management](https://jobright.ai/jobs/info/686b9f6235584b6542fb1eb0?utm_campaign=1066&utm_source=git)** | Atlanta, NY | On Site | Jul 07 |
-| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Commercial & Investment Bank Innovation Development Summer Analyst Program](https://jobright.ai/jobs/info/67f9fa32b78f81c7f3866bdf?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 07 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Global Quantitative Data Analytics Summer 2026 Analyst - Enterprise Credit](https://jobright.ai/jobs/info/686b9c4135584b6542ec70d8?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jul 07 |
-| ↳ | **[Global Quantitative Data Analytics Summer 2026 Analyst - Analytics, Modeling and Insights (AMI)](https://jobright.ai/jobs/info/686b9bf335584b6542ea51b0?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
