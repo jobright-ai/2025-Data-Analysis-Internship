@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Silvaco Inc](http://www.silvaco.com/company/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6876fb72ae2f413e4a5b5a04?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | Remote | Jul 15 |
+| **[Capital One](http://www.capitalone.com)** | **[Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6876fb0d5cebcd1dd51ce2d9?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Jul 15 |
+| **[American University](http://american.edu)** | **[Graduate Data Analyst (Student)](https://jobright.ai/jobs/info/6876f67e5cebcd1dd51cdf24?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Jul 15 |
+| **[Capital One](http://www.capitalone.com)** | **[Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6876f38f299cbc74b876206f?utm_campaign=1066&utm_source=git)** | Richmond, VA | Hybrid | Jul 15 |
+| **[University of Utah](http://utah.edu)** | **[GIS Intern](https://jobright.ai/jobs/info/6876ff4b299cbc74b876281d?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Jul 15 |
 | **[Texas A&M University](http://www.tamu.edu)** | **[Graduate Research Assistant (CONHS- SANE)](https://jobright.ai/jobs/info/6876d63f299cbc74b87611f7?utm_campaign=1066&utm_source=git)** | Laredo, TX | On Site | Jul 15 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Graduate Research Associate](https://jobright.ai/jobs/info/6876b583299cbc74b875fd5a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Jul 15 |
 | **[Climate Policy Initiative](https://www.climatepolicyinitiative.org/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6876b018ae2f413e4a5b2668?utm_campaign=1066&utm_source=git)** | San Francisco, California, United States | Remote | Jul 15 |
-| **[Silvaco Inc](http://www.silvaco.com/company/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6876c72c5cebcd1dd51cc540?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | Remote | Jul 15 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-EHR Business](https://jobright.ai/jobs/info/6876a1345cebcd1dd51ca908?utm_campaign=1066&utm_source=git)** | Loma Linda, CA | On Site | Jul 15 |
 | **[CMI Media Group](http://www.cmimediagroup.com/)** | **[Intern, Business Insights](https://jobright.ai/jobs/info/6876bf395cebcd1dd51cbfe0?utm_campaign=1066&utm_source=git)** | Cherry Hill, NJ | On Site | Jul 15 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Data Science & Analytics Intern](https://jobright.ai/jobs/info/6876995f5cebcd1dd51ca5c4?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jul 15 |
@@ -96,7 +100,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Year Round (Digital Data Science)](https://jobright.ai/jobs/info/68717c9b06ad7073463c5654?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Jul 11 |
 | ↳ | **[Intern - Year Round (Digital Data Science)](https://jobright.ai/jobs/info/6871568106ad7073463c48d6?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Jul 11 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern – Information Technology](https://jobright.ai/jobs/info/6871786306ad7073463c5479?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Jul 11 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Research Assistant Internship (Open to Current UT Students Only)](https://jobright.ai/jobs/info/687149e8630cfafb2db09661?utm_campaign=1066&utm_source=git)** | UT MAIN CAMPUS | On Site | Jul 11 |
+| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Research Assistant Internship (Open to Current UT Students Only)](https://jobright.ai/jobs/info/687149e8630cfafb2db09661?utm_campaign=1066&utm_source=git)** | UT MAIN CAMPUS | Hybrid | Jul 11 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Digital Data Science)](https://jobright.ai/jobs/info/68713f97ca2b96cbce3f4eb7?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | On Site | Jul 11 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Real Estate Research Intern (PHX)](https://jobright.ai/jobs/info/6679630df6b36b4aa01a325a?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Jul 11 |
 | **[Sanofi](https://www.sanofi.com)** | **[Winter, Spring 2026 Co-op-Intern– Data Science and Digital Transformation](https://jobright.ai/jobs/info/6870b31d835ae97aab01899d?utm_campaign=1066&utm_source=git)** | Framingham, MA | On Site | Jul 10 |
@@ -124,10 +128,10 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Amazon Robotics - Business Intelligence Engineer Co-op - Spring & Fall 2025](https://jobright.ai/jobs/info/686f24a49363c4a2d107ed4a?utm_campaign=1066&utm_source=git)** | North Reading, MA | On Site | Jul 09 |
 | **[ABB](https://global.abb/group/en)** | **[Data Scientist & AI Intern - Fall 2025](https://jobright.ai/jobs/info/685c4b028146ebc0b1c3813a?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Jul 09 |
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student- Data Analytics and Reporting Student Eco Rep](https://jobright.ai/jobs/info/68715be54b595fce1666fd49?utm_campaign=1066&utm_source=git)** | On-Site (New Hampshire) | On Site | Jul 09 |
-| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/686f0c16f0f03582b4c212a6?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 09 |
-| ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/686f0c16f0f03582b4c21306?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 09 |
-| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern – Information Technology](https://jobright.ai/jobs/info/686f0c16f0f03582b4c215d7?utm_campaign=1066&utm_source=git)** | Metairie, LA | On Site | Jul 09 |
-| ↳ | **[Intern – Information Technology](https://jobright.ai/jobs/info/686f0c16f0f03582b4c215d8?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jul 09 |
+| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/686f0c16f0f03582b4c21306?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 09 |
+| ↳ | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/686f0c16f0f03582b4c212a6?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 09 |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern – Information Technology](https://jobright.ai/jobs/info/686f0c16f0f03582b4c215d8?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jul 09 |
+| ↳ | **[Intern – Information Technology](https://jobright.ai/jobs/info/686f0c16f0f03582b4c215d7?utm_campaign=1066&utm_source=git)** | Metairie, LA | On Site | Jul 09 |
 | ↳ | **[Intern – Information Technology](https://jobright.ai/jobs/info/686f0628de69584b9e37a09f?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Jul 09 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2026 Summer]](https://jobright.ai/jobs/info/686f04c8ecaa3a16731d769f?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Jul 09 |
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/686efc4758dd0e9007995f94?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jul 09 |
