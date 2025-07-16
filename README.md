@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Texas A&M University](http://www.tamu.edu)** | **[Graduate Research Assistant (CONHS- SANE)](https://jobright.ai/jobs/info/6876d63f299cbc74b87611f7?utm_campaign=1066&utm_source=git)** | Laredo, TX | On Site | Jul 15 |
+| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Graduate Research Associate](https://jobright.ai/jobs/info/6876b583299cbc74b875fd5a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Jul 15 |
 | **[Climate Policy Initiative](https://www.climatepolicyinitiative.org/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6876b018ae2f413e4a5b2668?utm_campaign=1066&utm_source=git)** | San Francisco, California, United States | Remote | Jul 15 |
 | **[Silvaco Inc](http://www.silvaco.com/company/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6876c72c5cebcd1dd51cc540?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | Remote | Jul 15 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-EHR Business](https://jobright.ai/jobs/info/6876a1345cebcd1dd51ca908?utm_campaign=1066&utm_source=git)** | Loma Linda, CA | On Site | Jul 15 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok-Product-Data Science-Interaction-US) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/687604ac5cebcd1dd51c5aa7?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 15 |
 | ↳ | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/6866332144382f9a51a4b757?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jul 15 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Quantitative Research Intern, Summer 2026](https://jobright.ai/jobs/info/6875a0f7ae2f413e4a5a883f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Graduate Research Associate](https://jobright.ai/jobs/info/6875bc2a299cbc74b8757418?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Jul 14 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Power BI Co-Op](https://jobright.ai/jobs/info/6875702bae2f413e4a5a6ec0?utm_campaign=1066&utm_source=git)** | Middletown, IA | On Site | Jul 14 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Quantitative Research Intern, Summer 2026](https://jobright.ai/jobs/info/687557c5ae2f413e4a5a601d?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | **[University of Pittsburgh](https://www.pitt.edu/pittwire)** | **[Post Doctoral Associate](https://jobright.ai/jobs/info/6875781c5cebcd1dd51c1129?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jul 14 |
