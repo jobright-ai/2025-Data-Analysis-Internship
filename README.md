@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[Analyst, Data Science - Internship - (Remote)](https://jobright.ai/jobs/info/687775895cebcd1dd51d31ea?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 16 |
+| **[Virginia Commonwealth University](http://www.vcu.edu/)** | **[Imaging Data Analyst, School of Medicine, Internal Medicine, SSLI](https://jobright.ai/jobs/info/687789da5cebcd1dd51d35c9?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Jul 15 |
 | **[AGAP Technologies Inc](https://agaptech.com/)** | **[Data Analyst Training](https://jobright.ai/jobs/info/6877318d5cebcd1dd51d108c?utm_campaign=1066&utm_source=git)** | Henderson, NV | Remote | Jul 15 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Coop, Research](https://jobright.ai/jobs/info/68771145299cbc74b87631ca?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jul 15 |
 | **[Auburn University](https://www.auburn.edu/)** | **[RFID Student Data Analyst (Undergrad)](https://jobright.ai/jobs/info/6877084f299cbc74b8762c84?utm_campaign=1066&utm_source=git)** | Auburn, AL | On Site | Jul 15 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/687664dc5cebcd1dd51c8ad5?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Jul 15 |
 | ↳ | **[Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68766440299cbc74b875cd08?utm_campaign=1066&utm_source=git)** | Richmond, VA | Hybrid | Jul 15 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Insights Delivery and Market Development (Spring 2026)](https://jobright.ai/jobs/info/6859e5c41123907c7ff5311f?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 15 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok-Product-Data Science-Interaction-US) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/687604ac5cebcd1dd51c5aa7?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 15 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Postdoctoral Research Associate - Advanced Data Analytics, Modeling, and Control  for Diabetes Technology](https://jobright.ai/jobs/info/687768ebae2f413e4a5bae08?utm_campaign=1066&utm_source=git)** | Charlottesville, VA | On Site | Jul 14 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Quantitative Research Intern, Summer 2026](https://jobright.ai/jobs/info/6875a0f7ae2f413e4a5a883f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Graduate Research Associate](https://jobright.ai/jobs/info/6875bc2a299cbc74b8757418?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Jul 14 |
@@ -142,6 +143,4 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/686efc4758dd0e9007995f94?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jul 09 |
 | **[University of New Hampshire](https://innovation.unh.edu/)** | **[Data Visualization Assistant](https://jobright.ai/jobs/info/686ee249382429a8d892f3fc?utm_campaign=1066&utm_source=git)** | New Hampshire, United States | On Site | Jul 09 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/686ec4019ac195524dc1d370?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 09 |
-| **[Citadel Securities](https://www.citadelsecurities.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/686eb5a3d0ddb21febf36157?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 09 |
-| **[American Heart Association](http://www.heart.org)** | **[Intern, Data Science-Remote](https://jobright.ai/jobs/info/686edd7e9f5f2363699bc0e1?utm_campaign=1066&utm_source=git)** | Dallas, TX | Remote | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
