@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Five Rings](https://fiverings.com)** | **[Summer Intern 2026 - Quantitative Researcher](https://jobright.ai/jobs/info/6877d86e5cebcd1dd51d58fd?utm_campaign=1066&utm_source=git)** | New York | On Site | Jul 16 |
 | **[Amcor](http://www.amcor.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6870ae8001cc0956e7e84382?utm_campaign=1066&utm_source=git)** | Appleton-Oshkosh Area | On Site | Jul 16 |
 | **[Jobright.ai](https://jobright.ai)** | **[Analyst, Data Science - Internship - (Remote)](https://jobright.ai/jobs/info/687775895cebcd1dd51d31ea?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 16 |
 | **[AGAP Technologies Inc](https://agaptech.com/)** | **[Data Analyst Training](https://jobright.ai/jobs/info/6877318d5cebcd1dd51d108c?utm_campaign=1066&utm_source=git)** | Henderson, NV | Remote | Jul 15 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6876f38f299cbc74b876206f?utm_campaign=1066&utm_source=git)** | Richmond, VA | Hybrid | Jul 15 |
 | **[University of Utah](http://utah.edu)** | **[GIS Intern](https://jobright.ai/jobs/info/6876ff4b299cbc74b876281d?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Jul 15 |
 | **[Texas A&M University](http://www.tamu.edu)** | **[Graduate Research Assistant (CONHS- SANE)](https://jobright.ai/jobs/info/6876d63f299cbc74b87611f7?utm_campaign=1066&utm_source=git)** | Laredo, TX | On Site | Jul 15 |
+| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Graduate Research Associate](https://jobright.ai/jobs/info/6876b583299cbc74b875fd5a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Jul 15 |
 | **[Climate Policy Initiative](https://www.climatepolicyinitiative.org/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6876b018ae2f413e4a5b2668?utm_campaign=1066&utm_source=git)** | San Francisco, California, United States | Remote | Jul 15 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-EHR Business](https://jobright.ai/jobs/info/6876a1345cebcd1dd51ca908?utm_campaign=1066&utm_source=git)** | Loma Linda, CA | On Site | Jul 15 |
 | **[CMI Media Group](http://www.cmimediagroup.com/)** | **[Intern, Business Insights](https://jobright.ai/jobs/info/6876bf395cebcd1dd51cbfe0?utm_campaign=1066&utm_source=git)** | Cherry Hill, NJ | On Site | Jul 15 |
@@ -81,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Insights Delivery and Market Development (Spring 2026)](https://jobright.ai/jobs/info/6859e5c41123907c7ff5311f?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 15 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Postdoctoral Research Associate - Advanced Data Analytics, Modeling, and Control  for Diabetes Technology](https://jobright.ai/jobs/info/687768ebae2f413e4a5bae08?utm_campaign=1066&utm_source=git)** | Charlottesville, VA | On Site | Jul 14 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Quantitative Research Intern, Summer 2026](https://jobright.ai/jobs/info/6875a0f7ae2f413e4a5a883f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Graduate Research Associate](https://jobright.ai/jobs/info/6875bc2a299cbc74b8757418?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Jul 14 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Power BI Co-Op](https://jobright.ai/jobs/info/6875702bae2f413e4a5a6ec0?utm_campaign=1066&utm_source=git)** | Middletown, IA | On Site | Jul 14 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Quantitative Research Intern, Summer 2026](https://jobright.ai/jobs/info/687557c5ae2f413e4a5a601d?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | **[University of Pittsburgh](https://www.pitt.edu/pittwire)** | **[Post Doctoral Associate](https://jobright.ai/jobs/info/6875781c5cebcd1dd51c1129?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jul 14 |
@@ -120,11 +121,9 @@ For a complete list, click the following sortable link below:
 | **[Businessolver](https://www.businessolver.com)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/686ffe0d06ad7073463ba3a0?utm_campaign=1066&utm_source=git)** | Work Remotely Anywhere in the U.S. | Remote | Jul 10 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (PhD 2026)](https://jobright.ai/jobs/info/687015e206ad7073463bae80?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 10 |
 | **[Businessolver](https://www.businessolver.com)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/687008da06ad7073463ba877?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 10 |
-| **[Cook Children's Health Care System](https://www.cookchildrens.org)** | **[Clinical Research Intern](https://jobright.ai/jobs/info/6853eb96963664268c62c39a?utm_campaign=1066&utm_source=git)** | Fort Worth, TX | On Site | Jul 10 |
 | **[Fujitsu](http://www.fujitsu.com)** | **[Research Intern](https://jobright.ai/jobs/info/6853131fd3866b639dba5851?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jul 10 |
 | **[Ormco](http://www.ormco.com)** | **[R&D Data Scientist Intern](https://jobright.ai/jobs/info/683f97664bf15f6970a6cfa2?utm_campaign=1066&utm_source=git)** | Brea, CA | On Site | Jul 10 |
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Research Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/686fc150a5ae807a59cf331d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 10 |
-| **[Twist Bioscience](http://www.twistbioscience.com)** | **[Intern IBT](https://jobright.ai/jobs/info/6870b1bea5ae807a59cfac1b?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jul 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/68734845a5ae807a59d090f7?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jul 09 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[BI Internship](https://jobright.ai/jobs/info/6871ee31a5ae807a59d03851?utm_campaign=1066&utm_source=git)** | Egg Harbor, NJ | On Site | Jul 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/6875e207ae2f413e4a5aac65?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 09 |
@@ -133,11 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Amazon Robotics - Business Intelligence Engineer Co-op - Spring & Fall 2025](https://jobright.ai/jobs/info/686f24a49363c4a2d107ed4a?utm_campaign=1066&utm_source=git)** | North Reading, MA | On Site | Jul 09 |
 | **[ABB](https://global.abb/group/en)** | **[Data Scientist & AI Intern - Fall 2025](https://jobright.ai/jobs/info/685c4b028146ebc0b1c3813a?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Jul 09 |
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student- Data Analytics and Reporting Student Eco Rep](https://jobright.ai/jobs/info/68715be54b595fce1666fd49?utm_campaign=1066&utm_source=git)** | On-Site (New Hampshire) | On Site | Jul 09 |
-| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/686f0c16f0f03582b4c212a6?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 09 |
-| ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/686f0c16f0f03582b4c21306?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 09 |
-| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern – Information Technology](https://jobright.ai/jobs/info/686f0c16f0f03582b4c215d8?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jul 09 |
-| ↳ | **[Intern – Information Technology](https://jobright.ai/jobs/info/686f0c16f0f03582b4c215d7?utm_campaign=1066&utm_source=git)** | Metairie, LA | On Site | Jul 09 |
-| ↳ | **[Intern – Information Technology](https://jobright.ai/jobs/info/686f0628de69584b9e37a09f?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Jul 09 |
-| **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2026 Summer]](https://jobright.ai/jobs/info/686f04c8ecaa3a16731d769f?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Jul 09 |
-| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/686efc4758dd0e9007995f94?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
