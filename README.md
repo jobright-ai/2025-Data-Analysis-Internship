@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tetra Tech](http://www.tetratech.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68784a80866a435525ab80e0?utm_campaign=1066&utm_source=git)** | Colorado Springs, Colorado, United States | Hybrid | Jul 16 |
 | **[WinnCompanies](https://www.winncompanies.com)** | **[Data Collections & Organization Intern](https://jobright.ai/jobs/info/687819c7ae2f413e4a5bfd1a?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Jul 16 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Data Science, Emerging Talent Intern](https://jobright.ai/jobs/info/6877f5455cebcd1dd51d662f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | ↳ | **[Enterprise Asset Management Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/6877f4a8ae2f413e4a5be619?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 16 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6876f38f299cbc74b876206f?utm_campaign=1066&utm_source=git)** | Richmond, VA | Hybrid | Jul 15 |
 | **[University of Utah](http://utah.edu)** | **[GIS Intern](https://jobright.ai/jobs/info/6876ff4b299cbc74b876281d?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Jul 15 |
 | **[Texas A&M University](http://www.tamu.edu)** | **[Graduate Research Assistant (CONHS- SANE)](https://jobright.ai/jobs/info/6876d63f299cbc74b87611f7?utm_campaign=1066&utm_source=git)** | Laredo, TX | On Site | Jul 15 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Graduate Research Associate](https://jobright.ai/jobs/info/6876b583299cbc74b875fd5a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Jul 15 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-EHR Business](https://jobright.ai/jobs/info/6876a1345cebcd1dd51ca908?utm_campaign=1066&utm_source=git)** | Loma Linda, CA | On Site | Jul 15 |
 | **[CMI Media Group](http://www.cmimediagroup.com/)** | **[Intern, Business Insights](https://jobright.ai/jobs/info/6876bf395cebcd1dd51cbfe0?utm_campaign=1066&utm_source=git)** | Cherry Hill, NJ | On Site | Jul 15 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Data Science & Analytics Intern](https://jobright.ai/jobs/info/6876995f5cebcd1dd51ca5c4?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jul 15 |
@@ -84,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Insights Delivery and Market Development (Spring 2026)](https://jobright.ai/jobs/info/6859e5c41123907c7ff5311f?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 15 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Postdoctoral Research Associate - Advanced Data Analytics, Modeling, and Control  for Diabetes Technology](https://jobright.ai/jobs/info/687768ebae2f413e4a5bae08?utm_campaign=1066&utm_source=git)** | Charlottesville, VA | On Site | Jul 14 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Quantitative Research Intern, Summer 2026](https://jobright.ai/jobs/info/6875a0f7ae2f413e4a5a883f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
+| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Graduate Research Associate](https://jobright.ai/jobs/info/6875bc2a299cbc74b8757418?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Jul 14 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Power BI Co-Op](https://jobright.ai/jobs/info/6875702bae2f413e4a5a6ec0?utm_campaign=1066&utm_source=git)** | Middletown, IA | On Site | Jul 14 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Quantitative Research Intern, Summer 2026](https://jobright.ai/jobs/info/687557c5ae2f413e4a5a601d?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | **[University of Pittsburgh](https://www.pitt.edu/pittwire)** | **[Post Doctoral Associate](https://jobright.ai/jobs/info/6875781c5cebcd1dd51c1129?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jul 14 |
@@ -102,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Applexus Technologies](https://www.applexus.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6872227506ad7073463cb809?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[Research Intern - Clinical Cancer Prevention](https://jobright.ai/jobs/info/6873bb864001e95011b1966a?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jul 11 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Graduate Research Assistant](https://jobright.ai/jobs/info/6871722c06ad7073463c5209?utm_campaign=1066&utm_source=git)** | Auburn, AL | On Site | Jul 11 |
-| **[Sanofi](https://www.sanofi.com)** | **[Winter, Spring 2026 Co-op-Intern– Data Science and Digital Transformation](https://jobright.ai/jobs/info/68716b54a5ae807a59cff74c?utm_campaign=1066&utm_source=git)** | Framingham, MA | On Site | Jul 11 |
 | **[Midwest Employers Casualty (a Berkley Company)](https://www.mecasualty.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68716275a5ae807a59cff436?utm_campaign=1066&utm_source=git)** | Chesterfield, MO | Hybrid | Jul 11 |
 | **[Syracuse University](http://whitman.syr.edu/eee/incubator)** | **[Postdoctoral Scholar – Data Ethics and Research Openness](https://jobright.ai/jobs/info/6873960f4001e95011b17990?utm_campaign=1066&utm_source=git)** | Syracuse, NY | Hybrid | Jul 11 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Digital Data Science)](https://jobright.ai/jobs/info/68715c40a5ae807a59cff288?utm_campaign=1066&utm_source=git)** | Winchester, VA | Hybrid | Jul 11 |
@@ -112,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Research Assistant Internship (Open to Current UT Students Only)](https://jobright.ai/jobs/info/687149e8630cfafb2db09661?utm_campaign=1066&utm_source=git)** | UT MAIN CAMPUS | Hybrid | Jul 11 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Digital Data Science)](https://jobright.ai/jobs/info/68713f97ca2b96cbce3f4eb7?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | On Site | Jul 11 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Real Estate Research Intern (PHX)](https://jobright.ai/jobs/info/6679630df6b36b4aa01a325a?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Jul 11 |
+| **[Sanofi](https://www.sanofi.com)** | **[Winter, Spring 2026 Co-op-Intern– Data Science and Digital Transformation](https://jobright.ai/jobs/info/6870b31d835ae97aab01899d?utm_campaign=1066&utm_source=git)** | Framingham, MA | On Site | Jul 10 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Postdoctoral Research Scholar](https://jobright.ai/jobs/info/687075a701cc0956e7e81fa2?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jul 10 |
 | ↳ | **[Data Dialogue and Visualization Postdoctoral Research Scholar](https://jobright.ai/jobs/info/687089a6a5ae807a59cf922d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jul 10 |
 | **[The University of Texas Health Science Center at Houston (UTHealth Houston)](http://www.uth.edu)** | **[Postdoctoral Research Fellow - School of Public Health](https://jobright.ai/jobs/info/68706487a5ae807a59cf804c?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jul 10 |
