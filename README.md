@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6878882fae2f413e4a5c3b21?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Jul 17 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6878a653ae2f413e4a5c4f4b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 17 |
 | ↳ | **[Student Intern](https://jobright.ai/jobs/info/6878a524ae2f413e4a5c4eb7?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Jul 17 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68785ef3866a435525ab8c05?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | Remote | Jul 16 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[CMI Media Group](http://www.cmimediagroup.com/)** | **[Intern, Business Insights](https://jobright.ai/jobs/info/6876bf395cebcd1dd51cbfe0?utm_campaign=1066&utm_source=git)** | Cherry Hill, NJ | On Site | Jul 15 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Data Science & Analytics Intern](https://jobright.ai/jobs/info/6876995f5cebcd1dd51ca5c4?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jul 15 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-EHR Business](https://jobright.ai/jobs/info/687681c2ae2f413e4a5b05af?utm_campaign=1066&utm_source=git)** | 197 East Caroline St, San Bernardino, CA, 92408, US | On Site | Jul 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok-Product-Data Science-Interaction-US) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68792282ed63844c94498fbb?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 15 |
 | **[Chevron](http://www.chevron.com)** | **[2025-2026 Information Technology – Information and Analytics – Intern](https://jobright.ai/jobs/info/68766665299cbc74b875ce70?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States of America | On Site | Jul 15 |
 | ↳ | **[2025-2026 Information Technology – Information and Analytics – Intern](https://jobright.ai/jobs/info/687665a0ae2f413e4a5af64f?utm_campaign=1066&utm_source=git)** | San Ramon, California, United States of America | On Site | Jul 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/687664dc5cebcd1dd51c8ad5?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Jul 15 |
@@ -115,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Postdoctoral Research Scholar](https://jobright.ai/jobs/info/687075a701cc0956e7e81fa2?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jul 10 |
 | ↳ | **[Data Dialogue and Visualization Postdoctoral Research Scholar](https://jobright.ai/jobs/info/687089a6a5ae807a59cf922d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jul 10 |
 | **[The University of Texas Health Science Center at Houston (UTHealth Houston)](http://www.uth.edu)** | **[Postdoctoral Research Fellow - School of Public Health](https://jobright.ai/jobs/info/68706487a5ae807a59cf804c?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jul 10 |
-| **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Administrative & Data Analytics Assistant Intern](https://jobright.ai/jobs/info/68705f61a5ae807a59cf7e87?utm_campaign=1066&utm_source=git)** | Allen, TX | Hybrid | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
