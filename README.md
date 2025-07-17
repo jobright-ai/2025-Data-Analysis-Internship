@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[Data Analyst - Internship](https://jobright.ai/jobs/info/68796c0c2097a271a89776d5?utm_campaign=1066&utm_source=git)** | Edison, NJ | On Site | Jul 17 |
+| **[Argonne National Laboratory](http://www.anl.gov/)** | **[XSD - Research Aide - Fico, Noemi - 7.15.25](https://jobright.ai/jobs/info/68796ba1a7fc8904e3962ade?utm_campaign=1066&utm_source=git)** | On-site | On Site | Jul 17 |
+| **[Trajektory](https://www.trajektory.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/68796b52a7fc8904e3962a77?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jul 17 |
+| **[Argonne National Laboratory](http://www.anl.gov/)** | **[XSD - Research Aide - Fico, Noemi - 7.15.25](https://jobright.ai/jobs/info/68796a41ed63844c9449b79e?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Jul 17 |
+| ↳ | **[Research Aide - DSL - Yu, Harry - 7.17.25.](https://jobright.ai/jobs/info/68796a03ed63844c9449b756?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Jul 17 |
+| **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Power BI (Fall 2025)](https://jobright.ai/jobs/info/6879537bed63844c9449aac7?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Jul 17 |
 | **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6878882fae2f413e4a5c3b21?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Jul 17 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6878a653ae2f413e4a5c4f4b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 17 |
-| ↳ | **[Student Intern](https://jobright.ai/jobs/info/6878a524ae2f413e4a5c4eb7?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Jul 17 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68785ef3866a435525ab8c05?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | Remote | Jul 16 |
-| **[Jobright.ai](https://jobright.ai)** | **[Analyst, Data Science - Internship - (Remote)](https://jobright.ai/jobs/info/68786b925cebcd1dd51da4ff?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 16 |
-| **[Tetra Tech](http://www.tetratech.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68784a80866a435525ab80e0?utm_campaign=1066&utm_source=git)** | Colorado Springs, Colorado, United States | Hybrid | Jul 16 |
+| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/68784a80866a435525ab80e0?utm_campaign=1066&utm_source=git)** | Colorado Springs, Colorado, United States | Hybrid | Jul 16 |
+| **[University of Arizona](https://www.arizona.edu)** | **[Postdoctoral Research Associate I](https://jobright.ai/jobs/info/68796cdf2097a271a8977738?utm_campaign=1066&utm_source=git)** | Tucson, AZ | On Site | Jul 16 |
 | **[WinnCompanies](https://www.winncompanies.com)** | **[Data Collections & Organization Intern](https://jobright.ai/jobs/info/687819c7ae2f413e4a5bfd1a?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Jul 16 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Data Science, Emerging Talent Intern](https://jobright.ai/jobs/info/6877f5455cebcd1dd51d662f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | ↳ | **[Enterprise Asset Management Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/6877f4a8ae2f413e4a5be619?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 16 |
@@ -88,7 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Insights Delivery and Market Development (Spring 2026)](https://jobright.ai/jobs/info/6859e5c41123907c7ff5311f?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 15 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Postdoctoral Research Associate - Advanced Data Analytics, Modeling, and Control  for Diabetes Technology](https://jobright.ai/jobs/info/687768ebae2f413e4a5bae08?utm_campaign=1066&utm_source=git)** | Charlottesville, VA | On Site | Jul 14 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Quantitative Research Intern, Summer 2026](https://jobright.ai/jobs/info/6875a0f7ae2f413e4a5a883f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Graduate Research Associate](https://jobright.ai/jobs/info/6875c909ae2f413e4a5a9bdd?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Jul 14 |
+| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Graduate Research Associate](https://jobright.ai/jobs/info/6875bc2a299cbc74b8757418?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Jul 14 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Power BI Co-Op](https://jobright.ai/jobs/info/6875702bae2f413e4a5a6ec0?utm_campaign=1066&utm_source=git)** | Middletown, IA | On Site | Jul 14 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Quantitative Research Intern, Summer 2026](https://jobright.ai/jobs/info/687557c5ae2f413e4a5a601d?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | **[University of Pittsburgh](https://www.pitt.edu/pittwire)** | **[Post Doctoral Associate](https://jobright.ai/jobs/info/6875781c5cebcd1dd51c1129?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jul 14 |
