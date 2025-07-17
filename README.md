@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[John Deere](https://www.deere.com)** | **[Part-Time Student - Data Analytics - Urbandale, IA](https://jobright.ai/jobs/info/6878cf2fd444e1727b2df790?utm_campaign=1066&utm_source=git)** | Urbandale, IA | Hybrid | Jul 17 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Intern](https://jobright.ai/jobs/info/6878a653ae2f413e4a5c4f4b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 17 |
 | ↳ | **[Student Intern](https://jobright.ai/jobs/info/6878a524ae2f413e4a5c4eb7?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Jul 17 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68785ef3866a435525ab8c05?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | Remote | Jul 16 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enterprise Asset Management Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/6877f4a8ae2f413e4a5be619?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | **[Five Rings](https://fiverings.com)** | **[Summer Intern 2026 - Quantitative Researcher](https://jobright.ai/jobs/info/6877d86e5cebcd1dd51d58fd?utm_campaign=1066&utm_source=git)** | New York | On Site | Jul 16 |
 | **[Amcor](http://www.amcor.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6870ae8001cc0956e7e84382?utm_campaign=1066&utm_source=git)** | Appleton-Oshkosh Area | On Site | Jul 16 |
+| **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Fall 2025](https://jobright.ai/jobs/info/680699b6d90e2f79f1718a69?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 16 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Coop, Research](https://jobright.ai/jobs/info/68771145299cbc74b87631ca?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jul 15 |
 | **[Auburn University](https://www.auburn.edu/)** | **[RFID Student Data Analyst (Undergrad)](https://jobright.ai/jobs/info/6877084f299cbc74b8762c84?utm_campaign=1066&utm_source=git)** | Auburn, AL | On Site | Jul 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6876fb0d5cebcd1dd51ce2d9?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Jul 15 |
@@ -117,6 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Administrative & Data Analytics Assistant Intern](https://jobright.ai/jobs/info/68705f61a5ae807a59cf7e87?utm_campaign=1066&utm_source=git)** | Allen, TX | Hybrid | Jul 10 |
 | **[University of New Hampshire](https://innovation.unh.edu/)** | **[Research Assistant](https://jobright.ai/jobs/info/6870400f01cc0956e7e80954?utm_campaign=1066&utm_source=git)** | Durham, NH | On Site | Jul 10 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (Summer 2026)](https://jobright.ai/jobs/info/687016c406ad7073463baf09?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 10 |
-| **[Businessolver](https://www.businessolver.com)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/686ffe0d06ad7073463ba3a0?utm_campaign=1066&utm_source=git)** | Work Remotely Anywhere in the U.S. | Remote | Jul 10 |
-| **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (PhD 2026)](https://jobright.ai/jobs/info/687015e206ad7073463bae80?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
