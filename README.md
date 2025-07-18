@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nemours](http://www.nemours.org)** | **[Intern-Research](https://jobright.ai/jobs/info/68797d0aed63844c9449c17d?utm_campaign=1066&utm_source=git)** | 1600 Rockland Road, Wilmington, DE, 19803, US | On Site | Jul 17 |
 | **[Jobright.ai](https://jobright.ai)** | **[Data Analyst - Internship](https://jobright.ai/jobs/info/68796c0c2097a271a89776d5?utm_campaign=1066&utm_source=git)** | Edison, NJ | On Site | Jul 17 |
 | **[Argonne National Laboratory](http://www.anl.gov/)** | **[XSD - Research Aide - Fico, Noemi - 7.15.25](https://jobright.ai/jobs/info/68796ba1a7fc8904e3962ade?utm_campaign=1066&utm_source=git)** | On-site | On Site | Jul 17 |
-| **[Trajektory](https://www.trajektory.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/68796b52a7fc8904e3962a77?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jul 17 |
-| **[Argonne National Laboratory](http://www.anl.gov/)** | **[XSD - Research Aide - Fico, Noemi - 7.15.25](https://jobright.ai/jobs/info/68796a41ed63844c9449b79e?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Jul 17 |
+| ↳ | **[XSD - Research Aide - Fico, Noemi - 7.15.25](https://jobright.ai/jobs/info/68796a41ed63844c9449b79e?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Jul 17 |
 | ↳ | **[Research Aide - DSL - Yu, Harry - 7.17.25.](https://jobright.ai/jobs/info/68796a03ed63844c9449b756?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Jul 17 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Power BI (Fall 2025)](https://jobright.ai/jobs/info/6879537bed63844c9449aac7?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Jul 17 |
 | **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6878882fae2f413e4a5c3b21?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Jul 17 |
@@ -109,7 +109,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/681da5c8df7c7209071aed12?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jul 12 |
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/683a54b19a7f46ede4c06b42?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jul 12 |
 | **[ByteDance](http://bytedance.com)** | **[Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d88?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 12 |
-| **[Applexus Technologies](https://www.applexus.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6872227506ad7073463cb809?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jul 12 |
 | **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[Research Intern - Clinical Cancer Prevention](https://jobright.ai/jobs/info/6873bb864001e95011b1966a?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jul 11 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Graduate Research Assistant](https://jobright.ai/jobs/info/6871722c06ad7073463c5209?utm_campaign=1066&utm_source=git)** | Auburn, AL | On Site | Jul 11 |
 | **[Midwest Employers Casualty (a Berkley Company)](https://www.mecasualty.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68716275a5ae807a59cff436?utm_campaign=1066&utm_source=git)** | Chesterfield, MO | Hybrid | Jul 11 |
@@ -118,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Research Assistant Internship (Open to Current UT Students Only)](https://jobright.ai/jobs/info/687149e8630cfafb2db09661?utm_campaign=1066&utm_source=git)** | UT MAIN CAMPUS | Hybrid | Jul 11 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Digital Data Science)](https://jobright.ai/jobs/info/68713f97ca2b96cbce3f4eb7?utm_campaign=1066&utm_source=git)** | Vienna, VA, United States | On Site | Jul 11 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Real Estate Research Intern (PHX)](https://jobright.ai/jobs/info/6679630df6b36b4aa01a325a?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Jul 11 |
-| **[Sanofi](https://www.sanofi.com)** | **[Winter, Spring 2026 Co-op-Intern– Data Science and Digital Transformation](https://jobright.ai/jobs/info/6870b31d835ae97aab01899d?utm_campaign=1066&utm_source=git)** | Framingham, MA | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
