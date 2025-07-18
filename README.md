@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Catholic Extension Society](http://www.catholicextension.org)** | **[AI Data Strategy Intern](https://jobright.ai/jobs/info/687a76af2097a271a897f07f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 18 |
+| **[Jobright.ai](https://jobright.ai)** | **[Data Analyst - Internship](https://jobright.ai/jobs/info/687a6f1bed63844c944a3043?utm_campaign=1066&utm_source=git)** | Edison, NJ | On Site | Jul 18 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Research Intern](https://jobright.ai/jobs/info/687a5d70ed63844c944a2a54?utm_campaign=1066&utm_source=git)** | Florida, United States | Remote | Jul 18 |
-| **[Jobright.ai](https://jobright.ai)** | **[Data Specialist - Internship](https://jobright.ai/jobs/info/687a3153ed63844c944a1b5c?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jul 18 |
+| **[Jobright.ai](https://jobright.ai)** | **[CareIQ Data Specialist I, Internship, (Remote)](https://jobright.ai/jobs/info/687a76aded63844c944a3301?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 18 |
+| ↳ | **[Data Specialist - Internship](https://jobright.ai/jobs/info/687a3153ed63844c944a1b5c?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jul 18 |
 | ↳ | **[Data Analyst (Internship) (Remote)](https://jobright.ai/jobs/info/687a2bbaed63844c944a1a52?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 18 |
 | ↳ | **[Data Analyst – Energy Analytics - Internship](https://jobright.ai/jobs/info/687a28752097a271a897d829?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Jul 18 |
 | ↳ | **[CareIQ Data Specialist I (Internship) (Remote)](https://jobright.ai/jobs/info/687a5abb2097a271a897e75f?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 18 |
@@ -95,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[University of Utah](http://utah.edu)** | **[GIS Intern](https://jobright.ai/jobs/info/6876ff4b299cbc74b876281d?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Jul 15 |
 | **[Texas A&M University](http://www.tamu.edu)** | **[Graduate Research Assistant (CONHS- SANE)](https://jobright.ai/jobs/info/6876d63f299cbc74b87611f7?utm_campaign=1066&utm_source=git)** | Laredo, TX | On Site | Jul 15 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-EHR Business](https://jobright.ai/jobs/info/6876a1345cebcd1dd51ca908?utm_campaign=1066&utm_source=git)** | Loma Linda, CA | On Site | Jul 15 |
-| **[CMI Media Group](http://www.cmimediagroup.com/)** | **[Intern, Business Insights](https://jobright.ai/jobs/info/6876bf395cebcd1dd51cbfe0?utm_campaign=1066&utm_source=git)** | Cherry Hill, NJ | On Site | Jul 15 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Data Science & Analytics Intern](https://jobright.ai/jobs/info/6876995f5cebcd1dd51ca5c4?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jul 15 |
 | **[Loma Linda University Health](https://lluh.org/)** | **[Intern-EHR Business](https://jobright.ai/jobs/info/687681c2ae2f413e4a5b05af?utm_campaign=1066&utm_source=git)** | 197 East Caroline St, San Bernardino, CA, 92408, US | On Site | Jul 15 |
 | **[Chevron](http://www.chevron.com)** | **[2025-2026 Information Technology – Information and Analytics – Intern](https://jobright.ai/jobs/info/68766665299cbc74b875ce70?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States of America | On Site | Jul 15 |
