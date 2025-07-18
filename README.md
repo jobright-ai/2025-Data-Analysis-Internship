@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[Data Specialist - Internship](https://jobright.ai/jobs/info/687a3153ed63844c944a1b5c?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jul 18 |
+| ↳ | **[Data Analyst (Internship) (Remote)](https://jobright.ai/jobs/info/687a2bbaed63844c944a1a52?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 18 |
+| ↳ | **[Data Analyst – Energy Analytics - Internship](https://jobright.ai/jobs/info/687a28752097a271a897d829?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Jul 18 |
 | **[Apziva](https://www.apziva.com/)** | **[Data Scientist in Residence](https://jobright.ai/jobs/info/687a147b2097a271a897d2d9?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 18 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Intelligence UWEP Internship - (Remote)](https://jobright.ai/jobs/info/6879e2ffa7fc8904e3966908?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 17 |
 | **[Wesleyan University](http://wesleyan.edu)** | **[Digital Humanities Postdoctoral Researcher](https://jobright.ai/jobs/info/6879b16bed63844c9449d6f3?utm_campaign=1066&utm_source=git)** | Middletown, CT | Hybrid | Jul 17 |
@@ -121,6 +124,4 @@ For a complete list, click the following sortable link below:
 | **[Auburn University](https://www.auburn.edu/)** | **[Graduate Research Assistant](https://jobright.ai/jobs/info/6871722c06ad7073463c5209?utm_campaign=1066&utm_source=git)** | Auburn, AL | On Site | Jul 11 |
 | **[Sanofi](https://www.sanofi.com)** | **[Winter, Spring 2026 Co-op-Intern– Data Science and Digital Transformation](https://jobright.ai/jobs/info/68716b54a5ae807a59cff74c?utm_campaign=1066&utm_source=git)** | Framingham, MA | On Site | Jul 11 |
 | **[Midwest Employers Casualty (a Berkley Company)](https://www.mecasualty.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68716275a5ae807a59cff436?utm_campaign=1066&utm_source=git)** | Chesterfield, MO | Hybrid | Jul 11 |
-| **[Syracuse University](http://emc.syr.edu)** | **[Postdoctoral Scholar – Data Ethics and Research Openness](https://jobright.ai/jobs/info/6873960f4001e95011b17990?utm_campaign=1066&utm_source=git)** | Syracuse, NY | Hybrid | Jul 11 |
-| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern – Information Technology](https://jobright.ai/jobs/info/6871786306ad7073463c5479?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
