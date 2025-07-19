@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Motors](https://www.gm.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/687c02622097a271a898816c?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 19 |
 | **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Power BI Intern](https://jobright.ai/jobs/info/687bf3ef2097a271a8987f85?utm_campaign=1066&utm_source=git)** | Catonsville, MD | On Site | Jul 19 |
 | **[Jobright.ai](https://jobright.ai)** | **[Junior Business Intelligence Analyst - Internship](https://jobright.ai/jobs/info/687bcc1a764c3d7411c358d4?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Jul 19 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/67d1cebe7b1578e26a758665?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Jul 19 |
 | **[Argonne National Laboratory](http://www.anl.gov/)** | **[Research Aide - DSL - Yu, Harry - 7.17.25.](https://jobright.ai/jobs/info/68796a03ed63844c9449b756?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Jul 19 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern - Optimization (Summer 2026)](https://jobright.ai/jobs/info/687ba756ed63844c944aa763?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 19 |
-| ↳ | **[Graduate Intern - Optimization (Spring 2026)](https://jobright.ai/jobs/info/687babf32097a271a8986754?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 19 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern - Optimization (Spring 2026)](https://jobright.ai/jobs/info/687babf32097a271a8986754?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 19 |
+| ↳ | **[Graduate Intern - Optimization (Summer 2026)](https://jobright.ai/jobs/info/687ba756ed63844c944aa763?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/6875cb8d5cebcd1dd51c36c0?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 19 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Intelligence UWEP Internship - (Remote)](https://jobright.ai/jobs/info/687ba36a764c3d7411c346b9?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 19 |
 | **[ByteDance](http://bytedance.com)** | **[Multilingual Data Intern (Speech) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/685f2ce913fddba5d339d6d2?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 19 |
@@ -75,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[QuantCo](https://www.quantco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/687aa6582097a271a8980af4?utm_campaign=1066&utm_source=git)** | USA | On Site | Jul 18 |
 | **[ClearView Healthcare Partners](http://clearviewhcp.com)** | **[Life Sciences Summer Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/687ad826764c3d7411c2fb6b?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jul 18 |
 | **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Graduate Assistant](https://jobright.ai/jobs/info/687ad9c4ed63844c944a5afb?utm_campaign=1066&utm_source=git)** | Lubbock, TX | On Site | Jul 18 |
-| **[Penn State University](http://psu.edu)** | **[Postdoctoral Scholar](https://jobright.ai/jobs/info/687aa5cbed63844c944a4c01?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Jul 18 |
 | **[Catholic Extension Society](http://www.catholicextension.org)** | **[AI Data Strategy Intern](https://jobright.ai/jobs/info/687a76af2097a271a897f07f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 18 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2026](https://jobright.ai/jobs/info/67e3c9fe66371eacaaca30a8?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Jul 18 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Research Intern](https://jobright.ai/jobs/info/687a5d70ed63844c944a2a54?utm_campaign=1066&utm_source=git)** | Florida, United States | Remote | Jul 18 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Quality Analyst, Internship, (Remote)](https://jobright.ai/jobs/info/687a56b1764c3d7411c2c8d7?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (Product Analytics, USDS) - 2025 Start (BS, MS)](https://jobright.ai/jobs/info/687adb062097a271a89818d4?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Jul 18 |
 | **[Medpace](http://www.medpace.com)** | **[Informatics Internship/Co-Op Fall 2025](https://jobright.ai/jobs/info/67ec058eac82e86de266e328?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 18 |
-| **[Apziva](https://www.apziva.com/)** | **[Data Scientist in Residence](https://jobright.ai/jobs/info/687a147b2097a271a897d2d9?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 18 |
 | **[Wesleyan University](http://wesleyan.edu)** | **[Digital Humanities Postdoctoral Researcher](https://jobright.ai/jobs/info/6879b16bed63844c9449d6f3?utm_campaign=1066&utm_source=git)** | Middletown, CT | Hybrid | Jul 17 |
 | **[Nemours](http://www.nemours.org)** | **[Intern-Research](https://jobright.ai/jobs/info/6879ae40ed63844c9449d5f4?utm_campaign=1066&utm_source=git)** | Wilmington, DE | On Site | Jul 17 |
 | **[SignalFire](http://www.signalfire.com)** | **[Data & Research Analyst - Contractor/Internship](https://jobright.ai/jobs/info/687a99f22097a271a8980144?utm_campaign=1066&utm_source=git)** | Bay Area - Hybrid | Hybrid | Jul 17 |
@@ -119,7 +119,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025-2026 Information Technology – Information and Analytics – Intern](https://jobright.ai/jobs/info/687665a0ae2f413e4a5af64f?utm_campaign=1066&utm_source=git)** | San Ramon, California, United States of America | On Site | Jul 15 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Insights Delivery and Market Development (Spring 2026)](https://jobright.ai/jobs/info/6859e5c41123907c7ff5311f?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 15 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Quantitative Research Intern, Summer 2026](https://jobright.ai/jobs/info/6875a0f7ae2f413e4a5a883f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Graduate Research Associate](https://jobright.ai/jobs/info/6875c909ae2f413e4a5a9bdd?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Jul 14 |
+| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Graduate Research Associate](https://jobright.ai/jobs/info/6875bc2a299cbc74b8757418?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Jul 14 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Power BI Co-Op](https://jobright.ai/jobs/info/6875702bae2f413e4a5a6ec0?utm_campaign=1066&utm_source=git)** | Middletown, IA | On Site | Jul 14 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Quantitative Research Intern, Summer 2026](https://jobright.ai/jobs/info/687557c5ae2f413e4a5a601d?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | **[University of Pittsburgh](https://www.pitt.edu/pittwire)** | **[Post Doctoral Associate](https://jobright.ai/jobs/info/6875781c5cebcd1dd51c1129?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jul 14 |
@@ -128,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Concord](https://concord.com/)** | **[A&R Research Intern](https://jobright.ai/jobs/info/68760bad299cbc74b875a4e0?utm_campaign=1066&utm_source=git)** | Nashville, TN | On Site | Jul 13 |
 | **[Donald Danforth Plant Science Center](http://www.danforthcenter.org)** | **[Postdoctoral Associate - Topp Lab](https://jobright.ai/jobs/info/68775f3dae2f413e4a5ba878?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jul 13 |
 | **[Sanofi](https://www.sanofi.com)** | **[Winter/Spring 2026 Co-op/Intern - mRNA Data & Computational Science](https://jobright.ai/jobs/info/6856fb92eefc42780236ac7f?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Jul 13 |
-| **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Power BI Intern](https://jobright.ai/jobs/info/687734f6ae2f413e4a5b8585?utm_campaign=1066&utm_source=git)** | Catonsville, MD | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
