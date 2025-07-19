@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Jobright.ai](https://jobright.ai)** | **[CareIQ Data Specialist I (Internship) (Remote)](https://jobright.ai/jobs/info/687b0ccded63844c944a6761?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 18 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Data Information and Project Support  Intern](https://jobright.ai/jobs/info/687ac6712097a271a89813cf?utm_campaign=1066&utm_source=git)** | United States-Massachusetts-Marlborough - 67 Forest Street | On Site | Jul 18 |
+| **[Jobright.ai](https://jobright.ai)** | **[Intern: Power BI (Fall 2025) (Internship)](https://jobright.ai/jobs/info/687b19322097a271a89826fe?utm_campaign=1066&utm_source=git)** | Triad Area | On Site | Jul 18 |
 | **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Student Assistant, Data Science](https://jobright.ai/jobs/info/687ab8e1764c3d7411c2f4ec?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | Hybrid | Jul 18 |
 | **[QuantCo](https://www.quantco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/687aa6582097a271a8980af4?utm_campaign=1066&utm_source=git)** | USA | On Site | Jul 18 |
 | **[ClearView Healthcare Partners](http://clearviewhcp.com)** | **[Life Sciences Summer Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/687ad826764c3d7411c2fb6b?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jul 18 |
@@ -78,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Apziva](https://www.apziva.com/)** | **[Data Scientist in Residence](https://jobright.ai/jobs/info/687a147b2097a271a897d2d9?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 18 |
 | **[Wesleyan University](http://wesleyan.edu)** | **[Digital Humanities Postdoctoral Researcher](https://jobright.ai/jobs/info/6879b16bed63844c9449d6f3?utm_campaign=1066&utm_source=git)** | Middletown, CT | Hybrid | Jul 17 |
 | **[Nemours](http://www.nemours.org)** | **[Intern-Research](https://jobright.ai/jobs/info/6879ae40ed63844c9449d5f4?utm_campaign=1066&utm_source=git)** | Wilmington, DE | On Site | Jul 17 |
+| **[The University of Georgia](http://www.ai.uga.edu)** | **[Postdoctoral Researcher](https://jobright.ai/jobs/info/68798feda7fc8904e3963aac?utm_campaign=1066&utm_source=git)** | Athens, GA | On Site | Jul 17 |
 | **[SignalFire](http://www.signalfire.com)** | **[Data & Research Analyst - Contractor/Internship](https://jobright.ai/jobs/info/687a99f22097a271a8980144?utm_campaign=1066&utm_source=git)** | Bay Area - Hybrid | Hybrid | Jul 17 |
 | **[Nemours](http://www.nemours.org)** | **[Intern-Research](https://jobright.ai/jobs/info/68797d0aed63844c9449c17d?utm_campaign=1066&utm_source=git)** | 1600 Rockland Road, Wilmington, DE, 19803, US | On Site | Jul 17 |
 | **[Argonne National Laboratory](http://www.anl.gov/)** | **[XSD - Research Aide - Fico, Noemi - 7.15.25](https://jobright.ai/jobs/info/68796ba1a7fc8904e3962ade?utm_campaign=1066&utm_source=git)** | On-site | On Site | Jul 17 |
@@ -123,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Twist Bioscience](http://www.twistbioscience.com)** | **[Intern - Bioinformatics](https://jobright.ai/jobs/info/6872bc5fa5ae807a59d070ec?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jul 12 |
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/681d8f38ba8010ef641ba992?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jul 12 |
 | ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/681da5c8df7c7209071aed12?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jul 12 |
-| **[insightsoftware](https://www.insightsoftware.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/683a54b19a7f46ede4c06b42?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
