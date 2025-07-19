@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Data Information and Project Support  Intern](https://jobright.ai/jobs/info/687ac6712097a271a89813cf?utm_campaign=1066&utm_source=git)** | United States-Massachusetts-Marlborough - 67 Forest Street | On Site | Jul 18 |
 | **[ASU Foundation for a New American University](http://www.asufoundation.org/)** | **[Student Assistant, Data Science](https://jobright.ai/jobs/info/687ab8e1764c3d7411c2f4ec?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | Hybrid | Jul 18 |
 | **[QuantCo](https://www.quantco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/687aa6582097a271a8980af4?utm_campaign=1066&utm_source=git)** | USA | On Site | Jul 18 |
-| **[John Deere](https://www.deere.com)** | **[Part-Time Student - Data Science & Analytics - Ames, IA, Champaign, IL or Austin, TX](https://jobright.ai/jobs/info/687aa26c2097a271a8980747?utm_campaign=1066&utm_source=git)** | Ames, IA | Hybrid | Jul 18 |
+| **[ClearView Healthcare Partners](http://clearviewhcp.com)** | **[Life Sciences Summer Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/687ad826764c3d7411c2fb6b?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jul 18 |
+| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Graduate Assistant](https://jobright.ai/jobs/info/687ad9c4ed63844c944a5afb?utm_campaign=1066&utm_source=git)** | Lubbock, TX | On Site | Jul 18 |
 | **[Penn State University](http://psu.edu)** | **[Postdoctoral Scholar](https://jobright.ai/jobs/info/687a88ebed63844c944a3a4e?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Jul 18 |
 | **[Catholic Extension Society](http://www.catholicextension.org)** | **[AI Data Strategy Intern](https://jobright.ai/jobs/info/687a76af2097a271a897f07f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 18 |
 | **[Jobright.ai](https://jobright.ai)** | **[Data Analyst - Internship](https://jobright.ai/jobs/info/687a6f1bed63844c944a3043?utm_campaign=1066&utm_source=git)** | Edison, NJ | On Site | Jul 18 |
@@ -70,6 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analyst – Energy Analytics - Internship](https://jobright.ai/jobs/info/687a28752097a271a897d829?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Jul 18 |
 | ↳ | **[CareIQ Data Specialist I (Internship) (Remote)](https://jobright.ai/jobs/info/687a5abb2097a271a897e75f?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 18 |
 | ↳ | **[Data Quality Analyst, Internship, (Remote)](https://jobright.ai/jobs/info/687a56b1764c3d7411c2c8d7?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 18 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (Product Analytics, USDS) - 2025 Start (BS, MS)](https://jobright.ai/jobs/info/687adb062097a271a89818d4?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Jul 18 |
 | **[Apziva](https://www.apziva.com/)** | **[Data Scientist in Residence](https://jobright.ai/jobs/info/687a147b2097a271a897d2d9?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 18 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Intelligence UWEP Internship - (Remote)](https://jobright.ai/jobs/info/6879e2ffa7fc8904e3966908?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 17 |
 | **[Wesleyan University](http://wesleyan.edu)** | **[Digital Humanities Postdoctoral Researcher](https://jobright.ai/jobs/info/6879b16bed63844c9449d6f3?utm_campaign=1066&utm_source=git)** | Middletown, CT | Hybrid | Jul 17 |
