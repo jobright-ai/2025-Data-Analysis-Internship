@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Jobright.ai](https://jobright.ai)** | **[Data Quality Analyst, Internship, (Remote)](https://jobright.ai/jobs/info/687c28b9764c3d7411c36581?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 19 |
+| **[Jobright.ai](https://jobright.ai)** | **[Data Specialist - Internship](https://jobright.ai/jobs/info/687c472f2097a271a89885bc?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jul 19 |
+| ↳ | **[Data Quality Analyst, Internship, (Remote)](https://jobright.ai/jobs/info/687c28b9764c3d7411c36581?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 19 |
+| ↳ | **[CareIQ Data Specialist I (Internship) (Remote)](https://jobright.ai/jobs/info/687c28b7ed63844c944ac7eb?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 19 |
 | ↳ | **[Data Analyst – Energy Analytics - Internship](https://jobright.ai/jobs/info/687c2886ed63844c944ac7d6?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Jul 19 |
 | ↳ | **[Business Intelligence UWEP Internship (Remote)](https://jobright.ai/jobs/info/687c2585ed63844c944ac7b5?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 19 |
 | ↳ | **[Data Quality Analyst (Internship) (Remote)](https://jobright.ai/jobs/info/687c1c6e764c3d7411c364d9?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 19 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Jobright.ai](https://jobright.ai)** | **[Business Intelligence UWEP Internship - (Remote)](https://jobright.ai/jobs/info/687ba36a764c3d7411c346b9?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 19 |
 | **[ByteDance](http://bytedance.com)** | **[Multilingual Data Intern (Speech) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/685f2ce913fddba5d339d6d2?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 19 |
 | **[Jobright.ai](https://jobright.ai)** | **[CareIQ Data Specialist I, Internship, (Remote)](https://jobright.ai/jobs/info/687bb71a764c3d7411c35107?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 18 |
-| ↳ | **[CareIQ Data Specialist I (Internship) (Remote)](https://jobright.ai/jobs/info/687b0ccded63844c944a6761?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 18 |
 | **[University of Kentucky](https://medicine.uky.edu/centers/sbcoa/)** | **[Post-Doctoral Scholar](https://jobright.ai/jobs/info/687b2ffeed63844c944a6d5f?utm_campaign=1066&utm_source=git)** | Greater Lexington Area | On Site | Jul 18 |
 | **[ASU Enterprise Partners](http://asuenterprisepartners.org/)** | **[Student Assistant, Data Science](https://jobright.ai/jobs/info/687bb843ed63844c944ab168?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | Hybrid | Jul 18 |
 | **[Alfa Laval](http://www.alfalaval.com)** | **[Purchasing Data Validation Intern](https://jobright.ai/jobs/info/687b5055764c3d7411c31ee8?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jul 18 |
