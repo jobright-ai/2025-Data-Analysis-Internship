@@ -79,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern - Optimization (Spring 2026)](https://jobright.ai/jobs/info/687babf32097a271a8986754?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 19 |
 | ↳ | **[Graduate Intern - Optimization (Summer 2026)](https://jobright.ai/jobs/info/687ba756ed63844c944aa763?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/6875cb8d5cebcd1dd51c36c0?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 19 |
-| **[Jobright.ai](https://jobright.ai)** | **[Business Intelligence UWEP Internship - (Remote)](https://jobright.ai/jobs/info/687ba36a764c3d7411c346b9?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 19 |
 | **[ByteDance](http://bytedance.com)** | **[Multilingual Data Intern (Speech) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/685f2ce913fddba5d339d6d2?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 19 |
 | **[Jobright.ai](https://jobright.ai)** | **[CareIQ Data Specialist I, Internship, (Remote)](https://jobright.ai/jobs/info/687bb71a764c3d7411c35107?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 18 |
 | **[University of Colorado Boulder](https://www.colorado.edu)** | **[Mars Postdoc](https://jobright.ai/jobs/info/687c948f2097a271a898b432?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Jul 18 |
@@ -100,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Informatics Internship/Co-Op Fall 2025](https://jobright.ai/jobs/info/67ec058eac82e86de266e328?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 18 |
 | **[Wesleyan University](http://wesleyan.edu)** | **[Digital Humanities Postdoctoral Researcher](https://jobright.ai/jobs/info/6879b16bed63844c9449d6f3?utm_campaign=1066&utm_source=git)** | Middletown, CT | Hybrid | Jul 17 |
 | **[Nemours](http://www.nemours.org)** | **[Intern-Research](https://jobright.ai/jobs/info/6879ae40ed63844c9449d5f4?utm_campaign=1066&utm_source=git)** | Wilmington, DE | On Site | Jul 17 |
-| **[The University of Georgia](http://www.ai.uga.edu)** | **[Postdoctoral Researcher](https://jobright.ai/jobs/info/68798feda7fc8904e3963aac?utm_campaign=1066&utm_source=git)** | Athens, GA | On Site | Jul 17 |
 | **[SignalFire](http://www.signalfire.com)** | **[Data & Research Analyst - Contractor/Internship](https://jobright.ai/jobs/info/687a99f22097a271a8980144?utm_campaign=1066&utm_source=git)** | Bay Area - Hybrid | Hybrid | Jul 17 |
 | **[Nemours](http://www.nemours.org)** | **[Intern-Research](https://jobright.ai/jobs/info/68797d0aed63844c9449c17d?utm_campaign=1066&utm_source=git)** | 1600 Rockland Road, Wilmington, DE, 19803, US | On Site | Jul 17 |
 | **[Argonne National Laboratory](http://www.anl.gov/)** | **[XSD - Research Aide - Fico, Noemi - 7.15.25](https://jobright.ai/jobs/info/68796ba1a7fc8904e3962ade?utm_campaign=1066&utm_source=git)** | On-site | On Site | Jul 17 |
@@ -135,6 +133,4 @@ For a complete list, click the following sortable link below:
 | **[Akuna Capital](https://akunacapital.com)** | **[Quantitative Research Intern, Summer 2026](https://jobright.ai/jobs/info/687557c5ae2f413e4a5a601d?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | **[University of South Florida](http://www.usf.edu)** | **[Postdoctoral Scholar Research](https://jobright.ai/jobs/info/687559e75cebcd1dd51bfd3c?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Jul 14 |
 | **[BIGO](https://www.bigo.sg)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6874c221299cbc74b8750651?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 14 |
-| **[Concord](https://concord.com/)** | **[A&R Research Intern](https://jobright.ai/jobs/info/68760bad299cbc74b875a4e0?utm_campaign=1066&utm_source=git)** | Nashville, TN | On Site | Jul 13 |
-| **[Donald Danforth Plant Science Center](http://www.danforthcenter.org)** | **[Postdoctoral Associate - Topp Lab](https://jobright.ai/jobs/info/68775f3dae2f413e4a5ba878?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
