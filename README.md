@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medicom Technologies Inc.](https://home.medicom.us)** | **[Research Data Analyst, Internship](https://jobright.ai/jobs/info/687ea4eedb19f31cf0d6be8d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Remote | Jul 23 |
+| **[Jobright.ai](https://jobright.ai)** | **[Data Analyst – Energy Analytics - Internship](https://jobright.ai/jobs/info/6881529716ea5743a37382af?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Jul 23 |
+| **[Onni Creative](http://www.onnicreative.xyz)** | **[Analytics Intern](https://jobright.ai/jobs/info/688150edf4f06100f3a25fa5?utm_campaign=1066&utm_source=git)** | LA Metro Area | Hybrid | Jul 23 |
+| **[Jobright.ai](https://jobright.ai)** | **[Data Specialist - Internship](https://jobright.ai/jobs/info/6881505829ad6b2744ae1192?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jul 23 |
+| ↳ | **[Junior Business Intelligence Analyst, Internship](https://jobright.ai/jobs/info/68814e8f29ad6b2744ae107a?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Jul 23 |
+| **[Artisan Partners](http://www.artisanpartners.com/)** | **[Data Science Internship – Credit Investment Team](https://jobright.ai/jobs/info/6881355a16ea5743a3737344?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Jul 23 |
 | **[Jobright.ai](https://jobright.ai)** | **[Graduate Quantitative Researcher - Internship](https://jobright.ai/jobs/info/688125aff4f06100f3a247f3?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 23 |
 | ↳ | **[Data Analyst Intern, Internship](https://jobright.ai/jobs/info/68812428f4f06100f3a24748?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 23 |
 | ↳ | **[Linguistics Data Analyst - Internship - (Remote)](https://jobright.ai/jobs/info/6881156416ea5743a3735d1f?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 23 |
 | ↳ | **[IT Student - Temporary - Internship](https://jobright.ai/jobs/info/68811408f4f06100f3a23b64?utm_campaign=1066&utm_source=git)** | Lansing, MI | Hybrid | Jul 23 |
 | **[Sanofi](https://www.sanofi.com)** | **[stage 6 mois - data analyse](https://jobright.ai/jobs/info/688104c5f4f06100f3a2310f?utm_campaign=1066&utm_source=git)** | Gentilly | On Site | Jul 23 |
 | **[Skipfour](https://www.skipfour.com)** | **[Research Intern](https://jobright.ai/jobs/info/6881242d16ea5743a37368c8?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 23 |
-| **[Artisan Partners](http://www.artisanpartners.com/)** | **[Data Science Internship – Credit Investment Team](https://jobright.ai/jobs/info/6880fc6916ea5743a3734b22?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Jul 23 |
 | **[Jobright.ai](https://jobright.ai)** | **[Data Analyst, Internship](https://jobright.ai/jobs/info/6881174829ad6b2744adef61?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Jul 23 |
 | ↳ | **[Data Scientist / Network Analyst - Internship - (Remote)](https://jobright.ai/jobs/info/688113e7f4f06100f3a23b50?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 23 |
 | ↳ | **[Coding and Data Intern - Internship](https://jobright.ai/jobs/info/6881050016ea5743a3735192?utm_campaign=1066&utm_source=git)** | Washington, United States | Hybrid | Jul 23 |
@@ -81,10 +86,10 @@ For a complete list, click the following sortable link below:
 | **[Jobright.ai](https://jobright.ai)** | **[Business Intelligence UWEP Internship - (Remote)](https://jobright.ai/jobs/info/68806d322097a271a89a4a88?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 22 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Intelligence (Part-Time/Seasonal)](https://jobright.ai/jobs/info/68806cbb764c3d7411c52e8b?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Jul 22 |
 | **[Jobright.ai](https://jobright.ai)** | **[Research Data Analyst, Internship (Remote)](https://jobright.ai/jobs/info/68804c289f72804245709090?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 22 |
-| **[Medicom Technologies Inc.](https://home.medicom.us)** | **[Research Data Analyst, Internship](https://jobright.ai/jobs/info/687ea4eedb19f31cf0d6be8d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Remote | Jul 22 |
 | **[Blockhouse](https://www.blockhouse.app)** | **[Quantitative Research Internship](https://jobright.ai/jobs/info/68812f8329ad6b2744adff22?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 22 |
 | **[Jobright.ai](https://jobright.ai)** | **[Data Analyst - National General (Internship) (Remote)](https://jobright.ai/jobs/info/688059329f72804245709bfa?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 22 |
 | **[University of Louisiana at Lafayette](http://louisiana.edu)** | **[Postdoctoral Researcher](https://jobright.ai/jobs/info/6880f2f1f4f06100f3a2250d?utm_campaign=1066&utm_source=git)** | Lafayette, LA | On Site | Jul 22 |
+| **[University of Kentucky](https://education.uky.edu/)** | **[Post-Doctoral Scholar](https://jobright.ai/jobs/info/687b2ffeed63844c944a6d5f?utm_campaign=1066&utm_source=git)** | Greater Lexington Area | On Site | Jul 22 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Postdoc Data Science, Dermatology Imaging](https://jobright.ai/jobs/info/68800e7f764c3d7411c4edb9?utm_campaign=1066&utm_source=git)** | Raritan, NJ | Remote | Jul 22 |
 | **[USF College of Nursing](http://health.usf.edu/nursing)** | **[IAE Research Support Assistant (CDAO/Data Science) - Fall 2025](https://jobright.ai/jobs/info/68804d3f9f72804245709193?utm_campaign=1066&utm_source=git)** | Tampa, FL, United States | On Site | Jul 22 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Intelligence (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6880d83829ad6b2744adc803?utm_campaign=1066&utm_source=git)** | Washington, DC 20004 | On Site | Jul 22 |
@@ -139,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Cable East Inc.](https://cable-east.com)** | **[Intern - Fleet Data & Systems](https://jobright.ai/jobs/info/687e4b822097a271a8994119?utm_campaign=1066&utm_source=git)** | Statham, GA | On Site | Jul 20 |
 | **[Jobright.ai](https://jobright.ai)** | **[Data Quality Analyst, Internship, (Remote)](https://jobright.ai/jobs/info/687d81052097a271a898ea7c?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
 | ↳ | **[CareIQ Data Specialist I (Internship) (Remote)](https://jobright.ai/jobs/info/687d80e9ed63844c944b2b8a?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
-| ↳ | **[Data Analyst – Energy Analytics - Internship](https://jobright.ai/jobs/info/687d80e0764c3d7411c3d0a7?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Jul 20 |
 | ↳ | **[Data Quality Analyst - Internship - (Remote)](https://jobright.ai/jobs/info/687db8662097a271a898fe48?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
 | ↳ | **[Business Intelligence UWEP Internship (Remote)](https://jobright.ai/jobs/info/687d5c8f764c3d7411c3cb95?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
 | ↳ | **[CareIQ Data Specialist I - Internship - (Remote)](https://jobright.ai/jobs/info/687d5696ed63844c944b25e0?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Junior Business Intelligence Analyst, Internship](https://jobright.ai/jobs/info/687d1926ed63844c944b1ef4?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Jul 20 |
 | **[Zipline](http://flyzipline.com)** | **[Data Analytics Intern (Fall 2025)](https://jobright.ai/jobs/info/686e93783e89580edcb1b66d?utm_campaign=1066&utm_source=git)** | South San Francisco, California, USA | On Site | Jul 20 |
 | **[Jobright.ai](https://jobright.ai)** | **[Data Quality Analyst (Internship) (Remote)](https://jobright.ai/jobs/info/687d0f412097a271a898dda1?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
+| ↳ | **[Data Analyst – Energy Analytics - Internship](https://jobright.ai/jobs/info/687d0dd1ed63844c944b1e8f?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Jul 20 |
 | ↳ | **[Data Quality Analyst (Internship) (Remote)](https://jobright.ai/jobs/info/687dbc7c2097a271a898fe71?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
 | **[SciTec, Inc.](https://scitec.com/)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/66c5246e93950544f36d9278?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jul 20 |
 | **[Jobright.ai](https://jobright.ai)** | **[Junior Business Intelligence Analyst - Internship](https://jobright.ai/jobs/info/687cdbe12097a271a898d607?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Jul 20 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Data Oncology Intern](https://jobright.ai/jobs/info/680999456b70dbf589873ba2?utm_campaign=1066&utm_source=git)** | Covington, TN | On Site | Jul 19 |
-| **[Jobright.ai](https://jobright.ai)** | **[Data Quality Analyst, Internship, (Remote)](https://jobright.ai/jobs/info/687c28b9764c3d7411c36581?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 19 |
-| ↳ | **[Data Analyst – Energy Analytics - Internship](https://jobright.ai/jobs/info/687c2886ed63844c944ac7d6?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Jul 19 |
-| **[RELI Group, Inc.](http://www.religroupinc.com)** | **[Power BI Intern](https://jobright.ai/jobs/info/687bf3ef2097a271a8987f85?utm_campaign=1066&utm_source=git)** | Catonsville, MD | On Site | Jul 19 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/67d1cebe7b1578e26a758665?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
