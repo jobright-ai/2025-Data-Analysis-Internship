@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[Linguistics Data Analyst - Internship - (Remote)](https://jobright.ai/jobs/info/6881156416ea5743a3735d1f?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 23 |
+| ↳ | **[IT Student - Temporary - Internship](https://jobright.ai/jobs/info/68811408f4f06100f3a23b64?utm_campaign=1066&utm_source=git)** | Lansing, MI | Hybrid | Jul 23 |
+| **[Sanofi](https://www.sanofi.com)** | **[stage 6 mois - data analyse](https://jobright.ai/jobs/info/688104c5f4f06100f3a2310f?utm_campaign=1066&utm_source=git)** | Gentilly | On Site | Jul 23 |
 | **[Artisan Partners](http://www.artisanpartners.com/)** | **[Data Science Internship – Credit Investment Team](https://jobright.ai/jobs/info/6880fc6916ea5743a3734b22?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Jul 23 |
+| **[Jobright.ai](https://jobright.ai)** | **[Data Analyst, Internship](https://jobright.ai/jobs/info/6881174829ad6b2744adef61?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Jul 23 |
+| ↳ | **[Data Scientist / Network Analyst - Internship - (Remote)](https://jobright.ai/jobs/info/688113e7f4f06100f3a23b50?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 23 |
+| ↳ | **[Coding and Data Intern - Internship](https://jobright.ai/jobs/info/6881050016ea5743a3735192?utm_campaign=1066&utm_source=git)** | Washington, United States | Hybrid | Jul 23 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2025 Coding and Data Internship](https://jobright.ai/jobs/info/686c4d7135584b6542f57025?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jul 23 |
 | **[Jobright.ai](https://jobright.ai)** | **[Data Scientist Assistant, Internship](https://jobright.ai/jobs/info/6880e9c6f4f06100f3a21fcc?utm_campaign=1066&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Jul 23 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/6880f7d016ea5743a37348ed?utm_campaign=1066&utm_source=git)** | Savannah, GA | On Site | Jul 23 |
@@ -122,16 +128,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Analyst, Data Science (Internship) (Remote)](https://jobright.ai/jobs/info/687eab0e2097a271a8996e11?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 21 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/67f143526748e9475cf09039?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 21 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH ASST I (TEMP) - Project: Unequal Despair: Cohort Analysis of Racial/Ethnic Disparities in Cognitive Impairment Among Older Adults](https://jobright.ai/jobs/info/687e23c0db19f31cf0d68663?utm_campaign=1066&utm_source=git)** | Dearborn, MI | On Site | Jul 21 |
-| **[Jobright.ai](https://jobright.ai)** | **[Data Specialist - Internship](https://jobright.ai/jobs/info/687e1ec12097a271a89933c9?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jul 21 |
-| ↳ | **[Data Quality Analyst - Internship - (Remote)](https://jobright.ai/jobs/info/687e186bdb19f31cf0d68264?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 21 |
+| **[Jobright.ai](https://jobright.ai)** | **[Data Quality Analyst - Internship - (Remote)](https://jobright.ai/jobs/info/687e186bdb19f31cf0d68264?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 21 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Sports Analytics Internships: ATL - Fall 2025](https://jobright.ai/jobs/info/687deaa9764c3d7411c3fc22?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Jul 21 |
 | **[Jobright.ai](https://jobright.ai)** | **[CareIQ Data Specialist I, Internship, (Remote)](https://jobright.ai/jobs/info/687db8462097a271a898fe38?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
 | ↳ | **[Business Intelligence UWEP Internship - (Remote)](https://jobright.ai/jobs/info/687f179d2097a271a899a858?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
+| ↳ | **[Data Specialist - Internship](https://jobright.ai/jobs/info/687d8dae764c3d7411c3d228?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jul 20 |
 | **[Cable East Inc.](https://cable-east.com)** | **[Intern - Fleet Data & Systems](https://jobright.ai/jobs/info/687e4b822097a271a8994119?utm_campaign=1066&utm_source=git)** | Statham, GA | On Site | Jul 20 |
 | **[Jobright.ai](https://jobright.ai)** | **[Data Quality Analyst, Internship, (Remote)](https://jobright.ai/jobs/info/687d81052097a271a898ea7c?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
 | ↳ | **[CareIQ Data Specialist I (Internship) (Remote)](https://jobright.ai/jobs/info/687d80e9ed63844c944b2b8a?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
-| ↳ | **[Business Intelligence UWEP Internship (Remote)](https://jobright.ai/jobs/info/687d7b86ed63844c944b2b49?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
 | ↳ | **[Data Quality Analyst - Internship - (Remote)](https://jobright.ai/jobs/info/687db8662097a271a898fe48?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
+| ↳ | **[Business Intelligence UWEP Internship (Remote)](https://jobright.ai/jobs/info/687d5c8f764c3d7411c3cb95?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
 | ↳ | **[CareIQ Data Specialist I - Internship - (Remote)](https://jobright.ai/jobs/info/687d5696ed63844c944b25e0?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
 | **[Del Monte Foods](https://www.delmontefoods.com/)** | **[IT Intern](https://jobright.ai/jobs/info/687d2ccd2097a271a898e0c4?utm_campaign=1066&utm_source=git)** | Plover, WI | On Site | Jul 20 |
 | **[Jobright.ai](https://jobright.ai)** | **[Analyst, Data Science (Internship) (Remote)](https://jobright.ai/jobs/info/687d2536ed63844c944b2185?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fred Hutch](http://www.fredhutch.org/)** | **[Post-Doctoral Research Fellow](https://jobright.ai/jobs/info/685f33a5fe1c349374a2611c?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jul 19 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern - Optimization (Summer 2026)](https://jobright.ai/jobs/info/687ba756ed63844c944aa763?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 19 |
 | ↳ | **[Graduate Intern - Optimization (Spring 2026)](https://jobright.ai/jobs/info/687babf32097a271a8986754?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 19 |
-| **[CU Online](https://online.cu.edu/)** | **[Mars Postdoc](https://jobright.ai/jobs/info/687ca15a764c3d7411c3a500?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Jul 19 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/6875cb8d5cebcd1dd51c36c0?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 19 |
-| **[ByteDance](http://bytedance.com)** | **[Multilingual Data Intern (Speech) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/685f2ce913fddba5d339d6d2?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 19 |
-| **[Medpace](http://www.medpace.com)** | **[Informatics Internship/Co-Op Fall 2025](https://jobright.ai/jobs/info/6880c29829ad6b2744adb8bb?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 18 |
-| **[Jobright.ai](https://jobright.ai)** | **[CareIQ Data Specialist I, Internship, (Remote)](https://jobright.ai/jobs/info/687bb71a764c3d7411c35107?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 18 |
-| **[Texas Tech University Health Sciences Center](https://www.ttuhsc.edu)** | **[Graduate Assistant](https://jobright.ai/jobs/info/688060039f7280424570a302?utm_campaign=1066&utm_source=git)** | Lubbock, TX | On Site | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
