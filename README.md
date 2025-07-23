@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobright.ai](https://jobright.ai)** | **[Research Data Analyst, Internship (Remote)](https://jobright.ai/jobs/info/68804c289f72804245709090?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 22 |
 | **[Medicom Technologies Inc.](https://home.medicom.us)** | **[Research Data Analyst, Internship](https://jobright.ai/jobs/info/687ea4eedb19f31cf0d6be8d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Remote | Jul 22 |
+| **[Jobright.ai](https://jobright.ai)** | **[Data Analyst - National General (Internship) (Remote)](https://jobright.ai/jobs/info/688059329f72804245709bfa?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 22 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Postdoc Data Science, Dermatology Imaging](https://jobright.ai/jobs/info/68800e7f764c3d7411c4edb9?utm_campaign=1066&utm_source=git)** | Raritan, NJ | Remote | Jul 22 |
+| **[USF College of Nursing](http://health.usf.edu/nursing)** | **[IAE Research Support Assistant (CDAO/Data Science) - Fall 2025](https://jobright.ai/jobs/info/68804d3f9f72804245709193?utm_campaign=1066&utm_source=git)** | Tampa, FL, United States | On Site | Jul 22 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/687f9403764c3d7411c4bc45?utm_campaign=1066&utm_source=git)** | CHANDLER, AZ | On Site | Jul 22 |
 | ↳ | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/687f93f2764c3d7411c4bc31?utm_campaign=1066&utm_source=git)** | MINNEAPOLIS, MN | On Site | Jul 22 |
 | ↳ | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/687f93b69f72804245703c4e?utm_campaign=1066&utm_source=git)** | CHARLOTTE, NC | On Site | Jul 22 |
@@ -100,12 +103,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Analyst, Data Science (Internship) (Remote)](https://jobright.ai/jobs/info/687eab0e2097a271a8996e11?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 21 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/67f143526748e9475cf09039?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 21 |
 | **[University of Michigan](https://www.umich.edu)** | **[RESEARCH ASST I (TEMP) - Project: Unequal Despair: Cohort Analysis of Racial/Ethnic Disparities in Cognitive Impairment Among Older Adults](https://jobright.ai/jobs/info/687e23c0db19f31cf0d68663?utm_campaign=1066&utm_source=git)** | Dearborn, MI | On Site | Jul 21 |
-| **[Jobright.ai](https://jobright.ai)** | **[Data Specialist - Internship](https://jobright.ai/jobs/info/687e1ec12097a271a89933c9?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jul 21 |
 | **[Princeton Theological Seminary](http://ptsem.edu)** | **[Graduate Student Qualitative Researcher](https://jobright.ai/jobs/info/687e1d9cdb19f31cf0d68571?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jul 21 |
 | **[Jobright.ai](https://jobright.ai)** | **[Data Quality Analyst - Internship - (Remote)](https://jobright.ai/jobs/info/687e186bdb19f31cf0d68264?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 21 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Sports Analytics Internships: ATL - Fall 2025](https://jobright.ai/jobs/info/687deaa9764c3d7411c3fc22?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Jul 21 |
 | **[Jobright.ai](https://jobright.ai)** | **[CareIQ Data Specialist I, Internship, (Remote)](https://jobright.ai/jobs/info/687db8462097a271a898fe38?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
 | ↳ | **[Business Intelligence UWEP Internship - (Remote)](https://jobright.ai/jobs/info/687f179d2097a271a899a858?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
+| ↳ | **[Data Specialist - Internship](https://jobright.ai/jobs/info/687d8dae764c3d7411c3d228?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jul 20 |
 | **[Cable East Inc.](https://cable-east.com)** | **[Intern - Fleet Data & Systems](https://jobright.ai/jobs/info/687e4b822097a271a8994119?utm_campaign=1066&utm_source=git)** | Statham, GA | On Site | Jul 20 |
 | **[Jobright.ai](https://jobright.ai)** | **[Data Quality Analyst, Internship, (Remote)](https://jobright.ai/jobs/info/687d81052097a271a898ea7c?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
 | ↳ | **[CareIQ Data Specialist I (Internship) (Remote)](https://jobright.ai/jobs/info/687d80e9ed63844c944b2b8a?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
@@ -117,7 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Jobright.ai](https://jobright.ai)** | **[Analyst, Data Science (Internship) (Remote)](https://jobright.ai/jobs/info/687d2536ed63844c944b2185?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
 | ↳ | **[Data Specialist - Internship](https://jobright.ai/jobs/info/687d1abb2097a271a898def4?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jul 20 |
 | ↳ | **[Junior Business Intelligence Analyst, Internship](https://jobright.ai/jobs/info/687d1926ed63844c944b1ef4?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Jul 20 |
-| ↳ | **[Data Quality Analyst (Internship) (Remote)](https://jobright.ai/jobs/info/687d0f412097a271a898dda1?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
+| **[Zipline](http://flyzipline.com)** | **[Data Analytics Intern (Fall 2025)](https://jobright.ai/jobs/info/686e93783e89580edcb1b66d?utm_campaign=1066&utm_source=git)** | South San Francisco, California, USA | On Site | Jul 20 |
+| **[Jobright.ai](https://jobright.ai)** | **[Data Quality Analyst (Internship) (Remote)](https://jobright.ai/jobs/info/687d0f412097a271a898dda1?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
 | ↳ | **[Data Quality Analyst (Internship) (Remote)](https://jobright.ai/jobs/info/687dbc7c2097a271a898fe71?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 20 |
 | **[SciTec, Inc.](https://scitec.com/)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/66c5246e93950544f36d9278?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jul 20 |
 | **[Jobright.ai](https://jobright.ai)** | **[Junior Business Intelligence Analyst - Internship](https://jobright.ai/jobs/info/687cdbe12097a271a898d607?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Jul 20 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Wesleyan University](http://wesleyan.edu)** | **[Digital Humanities Postdoctoral Researcher](https://jobright.ai/jobs/info/6879b16bed63844c9449d6f3?utm_campaign=1066&utm_source=git)** | Middletown, CT | Hybrid | Jul 17 |
 | **[Girl Scouts of Eastern Missouri](https://www.girlscoutsem.org/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/687c84e5ed63844c944aeba9?utm_campaign=1066&utm_source=git)** | Missouri River, MO | Hybrid | Jul 17 |
 | **[Nemours](http://www.nemours.org)** | **[Intern-Research](https://jobright.ai/jobs/info/6879ae40ed63844c9449d5f4?utm_campaign=1066&utm_source=git)** | Wilmington, DE | On Site | Jul 17 |
-| **[The University of Georgia](http://www.ai.uga.edu)** | **[Postdoctoral Researcher](https://jobright.ai/jobs/info/68798feda7fc8904e3963aac?utm_campaign=1066&utm_source=git)** | Athens, GA | On Site | Jul 17 |
 | **[SignalFire](http://www.signalfire.com)** | **[Data & Research Analyst - Contractor/Internship](https://jobright.ai/jobs/info/687a99f22097a271a8980144?utm_campaign=1066&utm_source=git)** | Bay Area - Hybrid | Hybrid | Jul 17 |
 | **[Nemours](http://www.nemours.org)** | **[Intern-Research](https://jobright.ai/jobs/info/68797d0aed63844c9449c17d?utm_campaign=1066&utm_source=git)** | 1600 Rockland Road, Wilmington, DE, 19803, US | On Site | Jul 17 |
-| **[Argonne National Laboratory](http://www.anl.gov/)** | **[XSD - Research Aide - Fico, Noemi - 7.15.25](https://jobright.ai/jobs/info/68796ba1a7fc8904e3962ade?utm_campaign=1066&utm_source=git)** | On-site | On Site | Jul 17 |
-| ↳ | **[XSD - Research Aide - Fico, Noemi - 7.15.25](https://jobright.ai/jobs/info/68796a41ed63844c9449b79e?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Jul 17 |
-| **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6878882fae2f413e4a5c3b21?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
