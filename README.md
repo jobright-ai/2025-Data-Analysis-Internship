@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blockhouse](https://www.blockhouse.app)** | **[Quantitative Research Internship](https://jobright.ai/jobs/info/6881761ef4f06100f3a271de?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 24 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern Data Research
+Job ID : 261385](https://jobright.ai/jobs/info/6881f679ee15177ae97193fe?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 24 |
+| **[Jobright.ai](https://jobright.ai)** | **[Data Specialist - Internship](https://jobright.ai/jobs/info/6881f54aee15177ae9719375?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jul 24 |
+| ↳ | **[Business Intelligence UWEP Internship (Remote)](https://jobright.ai/jobs/info/6881f253ee15177ae9719228?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 24 |
+| ↳ | **[Data Analyst – Energy Analytics - Internship](https://jobright.ai/jobs/info/6881ef441321092fa006302a?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Jul 24 |
 | **[Jobright.ai](https://jobright.ai)** | **[Data Analyst, Internship](https://jobright.ai/jobs/info/6881b175f4f06100f3a293b6?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Jul 23 |
 | ↳ | **[Data Scientist / Network Analyst - Internship - (Remote)](https://jobright.ai/jobs/info/68819e2a29ad6b2744ae36b6?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 23 |
 | ↳ | **[Data Science Internship – Credit Investment Team](https://jobright.ai/jobs/info/68819c7129ad6b2744ae35d1?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Jul 23 |
@@ -72,7 +78,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science - Service Performance, Emerging Talent Intern](https://jobright.ai/jobs/info/688184dff4f06100f3a278fe?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Intelligence (Part-Time/Seasonal)](https://jobright.ai/jobs/info/68806cbb764c3d7411c52e8b?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Jul 23 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Research Assistant – Intern at Resolution Economics, LLC](https://jobright.ai/jobs/info/68817d7216ea5743a373975c?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
-| **[Blockhouse](https://www.blockhouse.app)** | **[Quantitative Research Internship](https://jobright.ai/jobs/info/6881761ef4f06100f3a271de?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | **[Resolution Economics](http://resecon.com)** | **[Research Assistant - Intern](https://jobright.ai/jobs/info/6881757df4f06100f3a27191?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Jul 23 |
 | **[UCLA Health](https://uclahealth.org)** | **[Postdoc (MD or PhD) in Digital Health](https://jobright.ai/jobs/info/6881677e16ea5743a3738dce?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
 | **[Concord](https://concord.com/)** | **[A&R Research Intern](https://jobright.ai/jobs/info/68819ee616ea5743a373a7ae?utm_campaign=1066&utm_source=git)** | Nashville, TN | On Site | Jul 23 |
@@ -104,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, Bachelor’s or Master’s Degree](https://jobright.ai/jobs/info/6880c5c429ad6b2744adbc24?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Jul 23 |
 | ↳ | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/686b357535584b654233f3c0?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 23 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Summer Analyst](https://jobright.ai/jobs/info/68646d68ba31bc5fb8a5e323?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Jul 23 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern(TikTok Shop-Supply Chain & Logistics) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6881e62f41fbda106ee6e8fd?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jul 23 |
 | **[Jobright.ai](https://jobright.ai)** | **[Junior Business Intelligence Analyst - Internship](https://jobright.ai/jobs/info/6880d61b29ad6b2744adc74c?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Jul 23 |
 | **[Argonne National Laboratory](http://www.anl.gov/)** | **[Research Aide - DSL - Yu, Harry - 7.17.25.](https://jobright.ai/jobs/info/68796a03ed63844c9449b756?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Jul 22 |
 | **[Jobright.ai](https://jobright.ai)** | **[Business Intelligence UWEP Internship - (Remote)](https://jobright.ai/jobs/info/68806d322097a271a89a4a88?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 22 |
@@ -138,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Jobright.ai](https://jobright.ai)** | **[Junior Business Intelligence Analyst, Internship](https://jobright.ai/jobs/info/687f1d1b764c3d7411c49466?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Jul 21 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/687ef84c764c3d7411c47a4b?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Jul 21 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687f171b764c3d7411c49170?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Jul 21 |
+| **[Texas A&M University System](http://www.tamus.edu/)** | **[Postdoctoral Research Associate](https://jobright.ai/jobs/info/687858e7866a435525ab8930?utm_campaign=1066&utm_source=git)** | College Station, TX | On Site | Jul 21 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687ef119db19f31cf0d6e49a?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Jul 21 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/687eef012097a271a899905c?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jul 21 |
 | **[Bucknell University](https://www.bucknell.edu/news/bucknell-sbdc-partnering-new-danville-business-incubator)** | **[Postdoctoral Research Associate](https://jobright.ai/jobs/info/687eea54764c3d7411c4741b?utm_campaign=1066&utm_source=git)** | Lewisburg, PA | On Site | Jul 21 |
@@ -151,10 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Medicom Technologies Inc.](https://home.medicom.us)** | **[Research Data Analyst, Internship](https://jobright.ai/jobs/info/687ea5a2764c3d7411c4529c?utm_campaign=1066&utm_source=git)** | Remote (United States) | Remote | Jul 21 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Research & Analytics Internships: NYC - Fall 2025](https://jobright.ai/jobs/info/687e9ff0db19f31cf0d6bc65?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jul 21 |
 | **[UCAR - The University Corporation for Atmospheric Research](https://www.ucar.edu/)** | **[CATE Postdoc Fellow I](https://jobright.ai/jobs/info/687eba1bdb19f31cf0d6ca20?utm_campaign=1066&utm_source=git)** | Boulder, CO | Hybrid | Jul 21 |
-| **[Penn State University](http://psu.edu)** | **[Part Time Research Assistant](https://jobright.ai/jobs/info/687eba78db19f31cf0d6ca50?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Jul 21 |
-| **[University of Colorado Boulder](https://www.colorado.edu)** | **[Mars Postdoc](https://jobright.ai/jobs/info/687c948f2097a271a898b432?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Jul 21 |
-| **[Jobright.ai](https://jobright.ai)** | **[Data Analyst – Energy Analytics - Internship](https://jobright.ai/jobs/info/687e71202097a271a89951b1?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Jul 21 |
-| ↳ | **[Junior Business Intelligence Analyst, Internship](https://jobright.ai/jobs/info/687e5b912097a271a89947cc?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Jul 21 |
-| ↳ | **[Analyst, Data Science (Internship) (Remote)](https://jobright.ai/jobs/info/687eab0e2097a271a8996e11?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 21 |
-| **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/67f143526748e9475cf09039?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
