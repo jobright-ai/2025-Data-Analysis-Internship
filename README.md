@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Jobright.ai](https://jobright.ai)** | **[Data Scientist / Network Analyst - Internship - (Remote)](https://jobright.ai/jobs/info/68819e2a29ad6b2744ae36b6?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 23 |
+| **[Jobright.ai](https://jobright.ai)** | **[Data Analyst, Internship](https://jobright.ai/jobs/info/6881b175f4f06100f3a293b6?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Jul 23 |
+| ↳ | **[Data Scientist / Network Analyst - Internship - (Remote)](https://jobright.ai/jobs/info/68819e2a29ad6b2744ae36b6?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 23 |
 | ↳ | **[Data Science Internship – Credit Investment Team](https://jobright.ai/jobs/info/68819c7129ad6b2744ae35d1?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Jul 23 |
 | **[Aflac](http://www.aflac.com)** | **[Sr Data Analyst Internal Audit](https://jobright.ai/jobs/info/68819b0b16ea5743a373a434?utm_campaign=1066&utm_source=git)** | Georgia, United States | Hybrid | Jul 23 |
 | **[Panasonic North America](https://www.na.panasonic.com/)** | **[Data Analytics and Cloud Application Specialist Intern (Fall 2025)](https://jobright.ai/jobs/info/688197caf4f06100f3a280ea?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 23 |
@@ -83,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Onni Creative](http://www.onnicreative.xyz)** | **[Analytics Intern](https://jobright.ai/jobs/info/688150edf4f06100f3a25fa5?utm_campaign=1066&utm_source=git)** | LA Metro Area | Hybrid | Jul 23 |
 | **[Jobright.ai](https://jobright.ai)** | **[Data Specialist - Internship](https://jobright.ai/jobs/info/6881505829ad6b2744ae1192?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jul 23 |
 | ↳ | **[Junior Business Intelligence Analyst, Internship](https://jobright.ai/jobs/info/68814e8f29ad6b2744ae107a?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Jul 23 |
+| **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/6881bc1441fbda106ee6c83c?utm_campaign=1066&utm_source=git)** | Westport, CT | On Site | Jul 23 |
 | **[Artisan Partners](http://www.artisanpartners.com/)** | **[Data Science Internship – Credit Investment Team](https://jobright.ai/jobs/info/6881355a16ea5743a3737344?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Jul 23 |
 | **[Jobright.ai](https://jobright.ai)** | **[Graduate Quantitative Researcher - Internship](https://jobright.ai/jobs/info/688125aff4f06100f3a247f3?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 23 |
 | ↳ | **[Data Analyst Intern, Internship](https://jobright.ai/jobs/info/68812428f4f06100f3a24748?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 23 |
@@ -114,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[USF College of Nursing](http://health.usf.edu/nursing)** | **[IAE Research Support Assistant (CDAO/Data Science) - Fall 2025](https://jobright.ai/jobs/info/68804d3f9f72804245709193?utm_campaign=1066&utm_source=git)** | Tampa, FL, United States | On Site | Jul 22 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Intelligence (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6880d83829ad6b2744adc803?utm_campaign=1066&utm_source=git)** | Washington, DC 20004 | On Site | Jul 22 |
 | **[Jobright.ai](https://jobright.ai)** | **[Junior Data Scientist & AI, Internship, (Remote)](https://jobright.ai/jobs/info/6880e32b29ad6b2744adcd76?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 22 |
+| **[Paybility Financial](www.paybility.net)** | **[Fall Intern](https://jobright.ai/jobs/info/6881c9c51321092fa00614a2?utm_campaign=1066&utm_source=git)** | Roanoke, VA | Remote | Jul 22 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/687f9403764c3d7411c4bc45?utm_campaign=1066&utm_source=git)** | CHANDLER, AZ | On Site | Jul 22 |
 | ↳ | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/687f93f2764c3d7411c4bc31?utm_campaign=1066&utm_source=git)** | MINNEAPOLIS, MN | On Site | Jul 22 |
 | ↳ | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/687f93b69f72804245703c4e?utm_campaign=1066&utm_source=git)** | CHARLOTTE, NC | On Site | Jul 22 |
@@ -134,7 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Jobright.ai](https://jobright.ai)** | **[Junior Business Intelligence Analyst, Internship](https://jobright.ai/jobs/info/687f1d1b764c3d7411c49466?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Jul 21 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/687ef84c764c3d7411c47a4b?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Jul 21 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687f171b764c3d7411c49170?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Jul 21 |
-| **[Princeton Theological Seminary](http://ptsem.edu)** | **[Graduate Student Qualitative Researcher](https://jobright.ai/jobs/info/6880c5f2f4f06100f3a20d05?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jul 21 |
+| **[Texas A&M University System](http://www.tamus.edu/)** | **[Postdoctoral Research Associate](https://jobright.ai/jobs/info/687858e7866a435525ab8930?utm_campaign=1066&utm_source=git)** | College Station, TX | On Site | Jul 21 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687ef119db19f31cf0d6e49a?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Jul 21 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/687eef012097a271a899905c?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jul 21 |
 | **[Bucknell University](https://www.bucknell.edu/news/bucknell-sbdc-partnering-new-danville-business-incubator)** | **[Postdoctoral Research Associate](https://jobright.ai/jobs/info/687eea54764c3d7411c4741b?utm_campaign=1066&utm_source=git)** | Lewisburg, PA | On Site | Jul 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Junior Business Intelligence Analyst, Internship](https://jobright.ai/jobs/info/687e5b912097a271a89947cc?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Jul 21 |
 | ↳ | **[Analyst, Data Science (Internship) (Remote)](https://jobright.ai/jobs/info/687eab0e2097a271a8996e11?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 21 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/67f143526748e9475cf09039?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 21 |
-| **[University of Michigan](https://www.umich.edu)** | **[RESEARCH ASST I (TEMP) - Project: Unequal Despair: Cohort Analysis of Racial/Ethnic Disparities in Cognitive Impairment Among Older Adults](https://jobright.ai/jobs/info/687e23c0db19f31cf0d68663?utm_campaign=1066&utm_source=git)** | Dearborn, MI | On Site | Jul 21 |
-| **[Jobright.ai](https://jobright.ai)** | **[Data Specialist - Internship](https://jobright.ai/jobs/info/687e1ec12097a271a89933c9?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jul 21 |
-| ↳ | **[Data Quality Analyst - Internship - (Remote)](https://jobright.ai/jobs/info/687e186bdb19f31cf0d68264?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
