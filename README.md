@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[QuantCo](https://www.quantco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/688742024174df41e0f9d690?utm_campaign=1066&utm_source=git)** | USA | On Site | Jul 28 |
 | **[Danfoss](https://www.danfoss.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6883e058835a903aa07f87f6?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Jul 28 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Systems & Data Analytics Intern, US TV Production – Fall 2025](https://jobright.ai/jobs/info/68865c69fbbf032d0007000f?utm_campaign=1066&utm_source=git)** | Culver City, CA | On Site | Jul 27 |
 | **[AriesView](ariesview.com)** | **[Data Science Intern (Academic Credit)](https://jobright.ai/jobs/info/68870e8bfbbf032d00072981?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 27 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Technology](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957825?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | **[MyShell.ai](https://myshell.ai/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6885c6e1b651c92cb78ae11a?utm_campaign=1066&utm_source=git)** | Remote (APAC) | Hybrid | Jul 26 |
 | **[JOS](https://josephstudios.net)** | **[Digital Intelligence Intern (REMOTE)](https://jobright.ai/jobs/info/688564b14174df41e0f96939?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Remote | Jul 26 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Systems & Data Analytics Intern, US TV Production – Fall 2025](https://jobright.ai/jobs/info/68850dd8b651c92cb78ab15d?utm_campaign=1066&utm_source=git)** | Culver City, California | On Site | Jul 26 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Systems & Data Analytics Intern, US TV Production – Fall 2025](https://jobright.ai/jobs/info/68850dd8b651c92cb78ab15c?utm_campaign=1066&utm_source=git)** | Culver City, California | On Site | Jul 26 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Network Planning - Schedule Analytics (Spring 2026)](https://jobright.ai/jobs/info/684d12fcc4f257fd723a2c79?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 26 |
 | ↳ | **[Graduate Intern, Data Scientist (Spring 2026)](https://jobright.ai/jobs/info/68842fcb6fcd973d15ae621f?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 26 |
 | **[The University of Memphis Rudi E. Scheidt School of Music](https://www.memphis.edu/music/)** | **[Research Coordinator](https://jobright.ai/jobs/info/68847524b651c92cb78a8ac8?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Jul 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Full-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687ec15a2097a271a89979ff?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 21 |
 | **[Nikkiso Clean Energy & Industrial Gases](https://www.NikkisoCEIG.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6882b5996fcd973d15adbd21?utm_campaign=1066&utm_source=git)** | Tomball, TX | On Site | Jul 21 |
 | **[Medicom Technologies Inc.](https://home.medicom.us)** | **[Research Data Analyst, Internship](https://jobright.ai/jobs/info/687ea5a2764c3d7411c4529c?utm_campaign=1066&utm_source=git)** | Remote (United States) | Remote | Jul 21 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[Research & Analytics Internships: NYC - Fall 2025](https://jobright.ai/jobs/info/687e9ff0db19f31cf0d6bc65?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
