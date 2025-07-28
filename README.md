@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of Memphis Rudi E. Scheidt School of Music](https://www.memphis.edu/music/)** | **[Research Coordinator](https://jobright.ai/jobs/info/6887b9a7fbbf032d00075fc7?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Jul 28 |
+| **[Ensign College ](https://www.ldsbc.edu/)** | **[Student Employee-Data Analyst](https://jobright.ai/jobs/info/6887b6c273e3e13cbd93f7b8?utm_campaign=1066&utm_source=git)** | Ensign College | On Site | Jul 28 |
+| **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/6887b51a73e3e13cbd93f69d?utm_campaign=1066&utm_source=git)** | Westport, CT | Remote | Jul 28 |
+| **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2025 Associate, Analytics](https://jobright.ai/jobs/info/6887afcffbbf032d00075a99?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 28 |
 | **[KeyBank](https://www.key.com)** | **[2026 Summer Analytics and Quantitative Modeling Internship - Cleveland](https://jobright.ai/jobs/info/688789d74174df41e0f9ec2a?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Jul 28 |
 | **[QuantCo](https://www.quantco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/688742024174df41e0f9d690?utm_campaign=1066&utm_source=git)** | USA | On Site | Jul 28 |
 | **[Danfoss](https://www.danfoss.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6883e058835a903aa07f87f6?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Jul 28 |
@@ -79,7 +83,7 @@ For a complete list, click the following sortable link below:
 | **[University of Rhode Island](http://www.uri.edu/)** | **[Postdoctoral Fellow (BIAS Project)](https://jobright.ai/jobs/info/688794ad73e3e13cbd93e7df?utm_campaign=1066&utm_source=git)** | Kingston, RI | On Site | Jul 25 |
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2025 Internship, Fall - Data Science (Remote)](https://jobright.ai/jobs/info/688290dc835a903aa07eeed5?utm_campaign=1066&utm_source=git)** | East Hanover, NJ | Remote | Jul 25 |
 | **[Medicom Technologies Inc.](https://home.medicom.us)** | **[Research Data Analyst, Internship](https://jobright.ai/jobs/info/687ea4eedb19f31cf0d6be8d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Remote | Jul 25 |
-| **[UPS](http://www.ups.com)** | **[Engineering Co-Op](https://jobright.ai/jobs/info/68827abe6fcd973d15ad95b0?utm_campaign=1066&utm_source=git)** | Mira Monte, CA | On Site | Jul 25 |
+| **[UPS](http://www.ups.com)** | **[Engineering Co-Op](https://jobright.ai/jobs/info/68826505b54cac0f1e72f21f?utm_campaign=1066&utm_source=git)** | Mira Monte, CA | On Site | Jul 25 |
 | **[City of Greenwood Village](greenwoodvillage.com/SMPolicy)** | **[Parks Data Analyst Intern](https://jobright.ai/jobs/info/68831ac4835a903aa07f38ab?utm_campaign=1066&utm_source=git)** | Englewood, CO | Hybrid | Jul 24 |
 | **[Revvity](https://www.revvity.com/)** | **[Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/68830659835a903aa07f2c3b?utm_campaign=1066&utm_source=git)** | Hopkinton, MA | Hybrid | Jul 24 |
 | **[Kingland](http://www.kingland.com)** | **[Data Research Analyst Intern](https://jobright.ai/jobs/info/6883f3d1835a903aa07f93cc?utm_campaign=1066&utm_source=git)** | Ames, IA | Hybrid | Jul 24 |
@@ -143,13 +147,9 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Part-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687f1a6d2097a271a899ac49?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Jul 21 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/687ef84c764c3d7411c47a4b?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Jul 21 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687f171b764c3d7411c49170?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Jul 21 |
-| **[Texas A&M University System](http://www.tamus.edu/)** | **[Postdoctoral Research Associate](https://jobright.ai/jobs/info/687858e7866a435525ab8930?utm_campaign=1066&utm_source=git)** | College Station, TX | On Site | Jul 21 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687ef119db19f31cf0d6e49a?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Jul 21 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/687eef012097a271a899905c?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jul 21 |
 | **[Bucknell University](https://www.bucknell.edu/news/bucknell-sbdc-partnering-new-danville-business-incubator)** | **[Postdoctoral Research Associate](https://jobright.ai/jobs/info/687eea54764c3d7411c4741b?utm_campaign=1066&utm_source=git)** | Lewisburg, PA | On Site | Jul 21 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/687ee98b2097a271a8998d7f?utm_campaign=1066&utm_source=git)** | West Des Moines, IA | On Site | Jul 21 |
 | ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/687ee8f2db19f31cf0d6e0fc?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | Jul 21 |
-| ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/687ee0d8764c3d7411c46d94?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jul 21 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687ef9d7764c3d7411c47ae6?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Jul 21 |
-| **[Five Rings](https://fiverings.com)** | **[Summer Intern 2026 - Quantitative Research Analyst](https://jobright.ai/jobs/info/687ed2f52097a271a89981fb?utm_campaign=1066&utm_source=git)** | New York | On Site | Jul 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
