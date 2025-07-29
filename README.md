@@ -147,5 +147,4 @@ For a complete list, click the following sortable link below:
 | **[UNDP Careers](https://www.undp.org)** | **[Geospatial Sciences Internship](https://jobright.ai/jobs/info/687f8c099f728042457039d4?utm_campaign=1066&utm_source=git)** | Home, KS | On Site | Jul 22 |
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[Geospatial Sciences Internship](https://jobright.ai/jobs/info/6880e00df4f06100f3a21a07?utm_campaign=1066&utm_source=git)** | Home, KS | On Site | Jul 22 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Data Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/68632b7ea0871509d56205f7?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Jul 22 |
-| **[Jobgether](https://jobgether.com/)** | **[Student Assistant, Data Science](https://jobright.ai/jobs/info/6880cb7029ad6b2744adc1b4?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | Hybrid | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
