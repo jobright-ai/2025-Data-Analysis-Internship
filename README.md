@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spencer's](http://www.spencersonline.com/)** | **[Data Governance Internship](https://jobright.ai/jobs/info/687385f04001e95011b16cf1?utm_campaign=1066&utm_source=git)** | Egg Harbor, NJ | On Site | Jul 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/687b1f50764c3d7411c30c36?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 30 |
 | ↳ | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/687b8cfbed63844c944a8885?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jul 30 |
 | ↳ | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/687b82742097a271a89849d0?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 30 |
@@ -111,16 +112,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/68882dcbfbbf032d00079234?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jul 28 |
 | ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/68882d5373e3e13cbd942bfd?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Jul 28 |
 | **[University of Michigan](https://www.umich.edu)** | **[POST-DOCTORAL RESEARCH FELLOW](https://jobright.ai/jobs/info/688817c1fbbf032d00078ac6?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Jul 28 |
-| **[HC3](https://hc3.io)** | **[IT Intern](https://jobright.ai/jobs/info/6889611daab47a17f67012b2?utm_campaign=1066&utm_source=git)** | Irondale, AL | On Site | Jul 28 |
 | **[Panasonic North America](https://www.na.panasonic.com/)** | **[Data Analytics and Cloud Application Specialist Intern (Fall 2025)](https://jobright.ai/jobs/info/688197caf4f06100f3a280ea?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Asana](https://asana.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6888078573e3e13cbd941e23?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jul 28 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6888006a73e3e13cbd941c38?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Jul 28 |
 | **[Businessolver](https://www.businessolver.com)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/687008da06ad7073463ba877?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 28 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/6888458f4174df41e0fa3f89?utm_campaign=1066&utm_source=git)** | DALLAS, TX | On Site | Jul 28 |
-| ↳ | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/6888453ffbbf032d00079e97?utm_campaign=1066&utm_source=git)** | MINNEAPOLIS, MN | On Site | Jul 28 |
-| ↳ | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/68884507fbbf032d00079e44?utm_campaign=1066&utm_source=git)** | CHANDLER, AZ | On Site | Jul 28 |
-| ↳ | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/688844d94174df41e0fa3ef1?utm_campaign=1066&utm_source=git)** | CHARLOTTE, NC | On Site | Jul 28 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/6888453ffbbf032d00079e97?utm_campaign=1066&utm_source=git)** | MINNEAPOLIS, MN | On Site | Jul 28 |
 | ↳ | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/6888457f73e3e13cbd943990?utm_campaign=1066&utm_source=git)** | WEST DES MOINES, IA | On Site | Jul 28 |
+| ↳ | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/6888458f4174df41e0fa3f89?utm_campaign=1066&utm_source=git)** | DALLAS, TX | On Site | Jul 28 |
+| ↳ | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/688844d94174df41e0fa3ef1?utm_campaign=1066&utm_source=git)** | CHARLOTTE, NC | On Site | Jul 28 |
+| ↳ | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/68884507fbbf032d00079e44?utm_campaign=1066&utm_source=git)** | CHANDLER, AZ | On Site | Jul 28 |
 | **[Danfoss](https://www.danfoss.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6883e058835a903aa07f87f6?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Jul 28 |
 | **[KeyBank](https://www.key.com)** | **[2026 Summer Analytics and Quantitative Modeling Internship - Cleveland](https://jobright.ai/jobs/info/6887eea24174df41e0fa1c47?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Jul 28 |
 | **[Argonne National Laboratory](http://www.anl.gov/)** | **[Research Aide - MSD - Singh, Roushan - 7.17.25](https://jobright.ai/jobs/info/6887edeb73e3e13cbd94134e?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Jul 28 |
@@ -150,7 +150,7 @@ For a complete list, click the following sortable link below:
 | **[Nexus](https://www.linkedin.com/company/107713175)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/688869cd4174df41e0fa5fbf?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 27 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Technology](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957825?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Jul 27 |
 | **[JOS](https://josephstudios.net)** | **[Digital Intelligence Intern (REMOTE)](https://jobright.ai/jobs/info/688564b14174df41e0f96939?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Remote | Jul 26 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Systems & Data Analytics Intern, US TV Production – Fall 2025](https://jobright.ai/jobs/info/68850dd8b651c92cb78ab15c?utm_campaign=1066&utm_source=git)** | Culver City, California | On Site | Jul 26 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Systems & Data Analytics Intern, US TV Production – Fall 2025](https://jobright.ai/jobs/info/68850dd8b651c92cb78ab15d?utm_campaign=1066&utm_source=git)** | Culver City, California | On Site | Jul 26 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Network Planning - Schedule Analytics (Spring 2026)](https://jobright.ai/jobs/info/684d12fcc4f257fd723a2c79?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 26 |
 | ↳ | **[Graduate Intern, Data Scientist (Spring 2026)](https://jobright.ai/jobs/info/68842fcb6fcd973d15ae621f?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 26 |
 | **[The University of Memphis Rudi E. Scheidt School of Music](https://www.memphis.edu/music/)** | **[Research Coordinator](https://jobright.ai/jobs/info/68847524b651c92cb78a8ac8?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Jul 25 |
