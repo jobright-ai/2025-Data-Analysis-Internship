@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HyperWare Tech LLC](https://www.linkedin.com/company/107974212)** | **[Data Science Intern (Unpaid Internship)](https://jobright.ai/jobs/info/688ae46f9f961617fe21efe2?utm_campaign=1066&utm_source=git)** | Erie, PA | On Site | Jul 30 |
 | **[AECOM](http://www.aecom.com/)** | **[Data Management Intern](https://jobright.ai/jobs/info/688acb329f961617fe21e35c?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Jul 30 |
 | **[FGS Global](https://fgsglobal.com)** | **[IT Intern, CRM & Data Analytics](https://jobright.ai/jobs/info/688a80759f961617fe21c223?utm_campaign=1066&utm_source=git)** | New York | On Site | Jul 30 |
 | **[AECOM](http://www.aecom.com/)** | **[Data Management Intern](https://jobright.ai/jobs/info/688ac8059f961617fe21e188?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 30 |
@@ -68,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Engineering (Data Analyst)](https://jobright.ai/jobs/info/688a95c4aab47a17f670a08a?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | Jul 30 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Real Word Evidence - Fall 2025](https://jobright.ai/jobs/info/688a94d309808a6103e4ff23?utm_campaign=1066&utm_source=git)** | Cary, NC | Hybrid | Jul 30 |
 | **[Valero](http://www.valero.com)** | **[Data Analytics and Automation Intern (On-Going)](https://jobright.ai/jobs/info/688a4ff3aab47a17f6707cf8?utm_campaign=1066&utm_source=git)** | US-TX-San Antonio | On Site | Jul 30 |
+| **[Columbia | Department of Economics](https://econ.columbia.edu/)** | **[Staff Associate I (Haddad Predoctoral Fellow)](https://jobright.ai/jobs/info/688ae3d49f961617fe21ef81?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[Healthcare Network](http://www.healthcareswfl.org/)** | **[Population Health Data Analyst Intern](https://jobright.ai/jobs/info/688a6b5009808a6103e4e6ea?utm_campaign=1066&utm_source=git)** | FL,US | On Site | Jul 30 |
 | **[Johnson Law Group](http://johnsonlawgroup.com)** | **[Data Analyst Intern - Fall 2025](https://jobright.ai/jobs/info/68896bb0aab47a17f6701570?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States | On Site | Jul 30 |
 | **[PNC](http://www.pnc.com)** | **[Quantitative Analytics Undergraduate Intern](https://jobright.ai/jobs/info/688a5b7baab47a17f6708283?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jul 30 |
@@ -135,11 +137,11 @@ For a complete list, click the following sortable link below:
 | **[Asana](https://asana.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6888078573e3e13cbd941e23?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jul 28 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6888006a73e3e13cbd941c38?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Jul 28 |
 | **[Businessolver](https://www.businessolver.com)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/687008da06ad7073463ba877?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 28 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/6888457f73e3e13cbd943990?utm_campaign=1066&utm_source=git)** | WEST DES MOINES, IA | On Site | Jul 28 |
-| ↳ | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/688844d94174df41e0fa3ef1?utm_campaign=1066&utm_source=git)** | CHARLOTTE, NC | On Site | Jul 28 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/688844d94174df41e0fa3ef1?utm_campaign=1066&utm_source=git)** | CHARLOTTE, NC | On Site | Jul 28 |
 | ↳ | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/6888453ffbbf032d00079e97?utm_campaign=1066&utm_source=git)** | MINNEAPOLIS, MN | On Site | Jul 28 |
-| ↳ | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/6888458f4174df41e0fa3f89?utm_campaign=1066&utm_source=git)** | DALLAS, TX | On Site | Jul 28 |
+| ↳ | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/6888457f73e3e13cbd943990?utm_campaign=1066&utm_source=git)** | WEST DES MOINES, IA | On Site | Jul 28 |
 | ↳ | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/68884507fbbf032d00079e44?utm_campaign=1066&utm_source=git)** | CHANDLER, AZ | On Site | Jul 28 |
+| ↳ | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/6888458f4174df41e0fa3f89?utm_campaign=1066&utm_source=git)** | DALLAS, TX | On Site | Jul 28 |
 | **[Danfoss](https://www.danfoss.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6883e058835a903aa07f87f6?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Jul 28 |
 | **[KeyBank](https://www.key.com)** | **[2026 Summer Analytics and Quantitative Modeling Internship - Cleveland](https://jobright.ai/jobs/info/6887eea24174df41e0fa1c47?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Jul 28 |
 | **[Argonne National Laboratory](http://www.anl.gov/)** | **[Research Aide - MSD - Singh, Roushan - 7.17.25](https://jobright.ai/jobs/info/6887edeb73e3e13cbd94134e?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Jul 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kingland](http://www.kingland.com)** | **[Data Research Analyst Intern](https://jobright.ai/jobs/info/6883f3d1835a903aa07f93cc?utm_campaign=1066&utm_source=git)** | Ames, IA | Hybrid | Jul 28 |
 | **[University of South Florida](http://www.usf.edu)** | **[IAE Data Analyst / Accounting Operations Internship (Special Operations Financial Management Directorate) - Fall 2025](https://jobright.ai/jobs/info/6887bd3e4174df41e0fa0332?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Jul 28 |
 | **[The University of Memphis Rudi E. Scheidt School of Music](https://www.memphis.edu/music/)** | **[Research Coordinator](https://jobright.ai/jobs/info/6887b9a7fbbf032d00075fc7?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Jul 28 |
-| **[Ensign College ](https://www.ldsbc.edu/)** | **[Student Employee-Data Analyst](https://jobright.ai/jobs/info/6887b6c273e3e13cbd93f7b8?utm_campaign=1066&utm_source=git)** | Ensign College | On Site | Jul 28 |
-| **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/6887b51a73e3e13cbd93f69d?utm_campaign=1066&utm_source=git)** | Westport, CT | Remote | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
