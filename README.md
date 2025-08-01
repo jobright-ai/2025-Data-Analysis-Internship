@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chase](https://www.chase.com/)** | **[2026 Data Science Analyst Program - Summer Analyst](https://jobright.ai/jobs/info/688c685f3a30793eb964306c?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 01 |
+| ↳ | **[2026 Data & Analytics - Data Specialist - Summer Analyst - United States](https://jobright.ai/jobs/info/688c6824906ac06e1d1d400b?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
 | **[Oregon State University](https://oregonstate.edu)** | **[Graduate Research Assistant](https://jobright.ai/jobs/info/688c52b93a30793eb9642208?utm_campaign=1066&utm_source=git)** | Corvallis, OR | On Site | Jul 31 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Data Science Analyst Program - Summer Analyst](https://jobright.ai/jobs/info/688c486e906ac06e1d1d2a9c?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
 | ↳ | **[2026 Data & Analytics - Data Specialist - Summer Analyst - United States](https://jobright.ai/jobs/info/688c481d906ac06e1d1d2a1c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
@@ -87,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Asana](https://asana.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68894dd809808a6103e46a8a?utm_campaign=1066&utm_source=git)** | New York City | On Site | Jul 31 |
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/686efc4758dd0e9007995f94?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 | ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/686f0c16f0f03582b4c21306?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 31 |
-| **[FinSentinal](https://www.finsentinal.com/)** | **[Algorithmic Trading Intern (Remote, Unpaid, Task-Based)](https://jobright.ai/jobs/info/688b3242906ac06e1d1c9d74?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 31 |
+| **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern – Information Technology](https://jobright.ai/jobs/info/686f0c16f0f03582b4c215d7?utm_campaign=1066&utm_source=git)** | Metairie, LA | On Site | Jul 31 |
 | **[PhDFinder](Phdfinder.com)** | **[USA – Postdoctoral Research in Water Resources at University of Florida](https://jobright.ai/jobs/info/688b0de609808a6103e54123?utm_campaign=1066&utm_source=git)** | Cape Coral Metro | On Site | Jul 30 |
 | **[AECOM](http://www.aecom.com/)** | **[Data Management Intern](https://jobright.ai/jobs/info/688acb329f961617fe21e35c?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Jul 30 |
 | **[FGS Global](https://fgsglobal.com)** | **[IT Intern, CRM & Data Analytics](https://jobright.ai/jobs/info/688a80759f961617fe21c223?utm_campaign=1066&utm_source=git)** | New York | On Site | Jul 30 |
@@ -106,7 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Johnson Law Group](http://johnsonlawgroup.com)** | **[Data Analyst Intern - Fall 2025](https://jobright.ai/jobs/info/68896bb0aab47a17f6701570?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States | On Site | Jul 30 |
 | **[PNC](http://www.pnc.com)** | **[Quantitative Analytics Undergraduate Intern](https://jobright.ai/jobs/info/688a5b7baab47a17f6708283?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jul 30 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH FELLOW](https://jobright.ai/jobs/info/688a5b15aab47a17f670824f?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Jul 30 |
-| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Engineering (Data Analyst)](https://jobright.ai/jobs/info/688a5881aab47a17f67080ad?utm_campaign=1066&utm_source=git)** | AZ - Chandler | On Site | Jul 30 |
+| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Engineering (Data Analyst)](https://jobright.ai/jobs/info/688a59139f961617fe21ae89?utm_campaign=1066&utm_source=git)** | AZ - Chandler | On Site | Jul 30 |
 | **[FGS Global](https://fgsglobal.com)** | **[Fall Intern- Research & Insights](https://jobright.ai/jobs/info/688a4ffa09808a6103e4dbe6?utm_campaign=1066&utm_source=git)** | Washington, D.C | On Site | Jul 30 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/6850c0a88f493779c0156788?utm_campaign=1066&utm_source=git)** | Myrtle Beach, SC | On Site | Jul 30 |
 | **[HII](https://hii.com)** | **[Data Scientist](https://jobright.ai/jobs/info/688a54949f961617fe21abb7?utm_campaign=1066&utm_source=git)** | Pocasset, MA | On Site | Jul 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analyst – (ACE), Emerging Talent Intern](https://jobright.ai/jobs/info/6881857316ea5743a3739c5a?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 29 |
 | **[PhDFinder](Phdfinder.com)** | **[USA – Postdoctoral Position in Big Data Disaster Analysis at University of Washington](https://jobright.ai/jobs/info/6889ae1309808a6103e4a698?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jul 28 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Development (Quant Research) Internship – Summer 2026](https://jobright.ai/jobs/info/688806dbfbbf032d000783f3?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 28 |
-| **[Institute for the Study of War](http://understandingwar.org/)** | **[National Security and Intelligence Analysis Internship Fall 2025](https://jobright.ai/jobs/info/688855e2fbbf032d0007aeb9?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Jul 28 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/6888331afbbf032d000793e5?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
