@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[GDIT Summer Internship Program – Summer 2026 Data Science Associate Internship](https://jobright.ai/jobs/info/688bf1801808534a89cb753e?utm_campaign=1066&utm_source=git)** | USA FL Tampa | Hybrid | Jul 31 |
+| **[Maryland Hospital Association](http://mhaonline.org)** | **[Healthcare Analytics Fellow](https://jobright.ai/jobs/info/688bf1203a30793eb963ed43?utm_campaign=1066&utm_source=git)** | Elkridge, MD | Hybrid | Jul 31 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Co-Op, SH&E Data & Analytics](https://jobright.ai/jobs/info/688bdc3a3a30793eb963e505?utm_campaign=1066&utm_source=git)** | Loveland, CO | On Site | Jul 31 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Data Science Intern (Year-Round)](https://jobright.ai/jobs/info/688bda981808534a89cb6b2e?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | Hybrid | Jul 31 |
 | ↳ | **[Data Science Intern (Year-Round)](https://jobright.ai/jobs/info/688bca691808534a89cb62e8?utm_campaign=1066&utm_source=git)** | Auburn Hills - Michigan - USA | Hybrid | Jul 31 |
@@ -68,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Jr. Data Scientist - Austin, Jr. Developer Program](https://jobright.ai/jobs/info/688b5c001808534a89cb2820?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Jul 31 |
 | **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[Geographic Information System Intern](https://jobright.ai/jobs/info/688b9d983a30793eb963bf61?utm_campaign=1066&utm_source=git)** | Hollywood, FL | Hybrid | Jul 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (PhD)](https://jobright.ai/jobs/info/688b98531808534a89cb448d?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
+| **[Ormco](http://www.ormco.com)** | **[R&D Data Scientist Intern](https://jobright.ai/jobs/info/683f97664bf15f6970a6cfa2?utm_campaign=1066&utm_source=git)** | Brea, CA | On Site | Jul 31 |
 | **[Asana](https://asana.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6888006a73e3e13cbd941c38?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Jul 31 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist - Technical Operations (Spring 2026)](https://jobright.ai/jobs/info/686cb87e35584b6542499e03?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 31 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2026 Summer]](https://jobright.ai/jobs/info/686f04c8ecaa3a16731d769f?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Jul 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Panasonic North America](https://www.na.panasonic.com/)** | **[Data Analytics and Cloud Application Specialist Intern (Fall 2025)](https://jobright.ai/jobs/info/688197caf4f06100f3a280ea?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Asana](https://asana.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6888078573e3e13cbd941e23?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jul 28 |
 | **[Businessolver](https://www.businessolver.com)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/687008da06ad7073463ba877?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 28 |
-| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/6888458f4174df41e0fa3f89?utm_campaign=1066&utm_source=git)** | DALLAS, TX | On Site | Jul 28 |
-| ↳ | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/68884507fbbf032d00079e44?utm_campaign=1066&utm_source=git)** | CHANDLER, AZ | On Site | Jul 28 |
-| ↳ | **[2026 Analytics and Data Summer Internship – Early Careers](https://jobright.ai/jobs/info/688844d94174df41e0fa3ef1?utm_campaign=1066&utm_source=git)** | CHARLOTTE, NC | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
