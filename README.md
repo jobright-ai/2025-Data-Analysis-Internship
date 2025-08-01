@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern - Optimization (Summer 2026)](https://jobright.ai/jobs/info/688b1569aab47a17f670e8f2?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Aug 01 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Boston Data Analytics Intern - Academic Year 25/26](https://jobright.ai/jobs/info/688bc43e906ac06e1d1ce397?utm_campaign=1066&utm_source=git)** | 189 B Street, Needham, Massachusetts | On Site | Aug 01 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Data & Analytics - Data Specialist - Summer Analyst - United States](https://jobright.ai/jobs/info/688c481d906ac06e1d1d2a1c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
 | ↳ | **[2026 Data Science Analyst Program - Summer Analyst](https://jobright.ai/jobs/info/688c486e906ac06e1d1d2a9c?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 01 |
+| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Research Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/686fc150a5ae807a59cf331d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Data Science Intern - Ridership & Congestion Pricing, Emerging Talent Intern](https://jobright.ai/jobs/info/68818502f4f06100f3a27932?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Chase](https://www.chase.com/)** | **[2026 Data Science Analyst Program - Summer Analyst](https://jobright.ai/jobs/info/688c685f3a30793eb964306c?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 01 |
 | ↳ | **[2026 Data & Analytics - Data Specialist - Summer Analyst - United States](https://jobright.ai/jobs/info/688c6824906ac06e1d1d400b?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[McKinney](http://mckinney.com)** | **[Intern, Data](https://jobright.ai/jobs/info/686c642f35584b65427c880c?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Jul 29 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687ef9d7764c3d7411c47ae6?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Jul 29 |
 | ↳ | **[Full-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687ef119db19f31cf0d6e49a?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Jul 29 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern(TikTok Shop-Supply Chain & Logistics) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6881e62f41fbda106ee6e8fd?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jul 29 |
-| **[Metropolitan Transportation Authority](http://mta.info)** | **[Data Analyst – Automatic Camera Enforcement (ACE), Emerging Talent Intern](https://jobright.ai/jobs/info/6881854616ea5743a3739c0e?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
