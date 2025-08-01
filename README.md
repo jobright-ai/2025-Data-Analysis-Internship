@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fluxion AI](http://ai-fluxion.com)** | **[Healthcare AI & Venture Analyst](https://jobright.ai/jobs/info/688cdf3a3a30793eb9646b7f?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 01 |
+| **[Argonne National Laboratory](http://www.anl.gov/)** | **[Research Aide - HEP - Hodgson, Sophie - 7.29.25](https://jobright.ai/jobs/info/688cd4171808534a89cbee85?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Aug 01 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern - Optimization (Summer 2026)](https://jobright.ai/jobs/info/688b1569aab47a17f670e8f2?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Aug 01 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Boston Data Analytics Intern - Academic Year 25/26](https://jobright.ai/jobs/info/688bc43e906ac06e1d1ce397?utm_campaign=1066&utm_source=git)** | 189 B Street, Needham, Massachusetts | On Site | Aug 01 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Data & Analytics - Data Specialist - Summer Analyst - United States](https://jobright.ai/jobs/info/688c481d906ac06e1d1d2a1c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (Product Analytics, USDS) - 2025 Start (BS, MS)](https://jobright.ai/jobs/info/687adb062097a271a89818d4?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Jul 29 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Scientist, Customer and Competitive Market Intelligence](https://jobright.ai/jobs/info/687cb033764c3d7411c3b53f?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | Hybrid | Jul 29 |
 | **[McKinney](http://mckinney.com)** | **[Intern, Data](https://jobright.ai/jobs/info/686c642f35584b65427c880c?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Jul 29 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687ef9d7764c3d7411c47ae6?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Jul 29 |
-| ↳ | **[Full-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687ef119db19f31cf0d6e49a?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
