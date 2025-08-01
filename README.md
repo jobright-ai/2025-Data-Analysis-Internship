@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chase](https://www.chase.com/)** | **[2026 Focused Analytics Solutions Team (FAST) Summer Associate - Analytics Solutions](https://jobright.ai/jobs/info/688d0ccb27f9022553c08996?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | On Site | Aug 01 |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Data Science Fellow](https://jobright.ai/jobs/info/688cf9ac1808534a89cc007c?utm_campaign=1066&utm_source=git)** | Chicago, IL 60607 | On Site | Aug 01 |
 | ↳ | **[Data and Analytic Fellow](https://jobright.ai/jobs/info/688cf97727f9022553c08251?utm_campaign=1066&utm_source=git)** | Chicago, IL 60607 | On Site | Aug 01 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Focused Analytics Solutions Team (FAST) Summer Associate - Analytics Solutions](https://jobright.ai/jobs/info/688cf45627f9022553c08096?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | On Site | Aug 01 |
 | **[Chase](https://www.chase.com/)** | **[2026 Data Science Analyst Program - Summer Analyst](https://jobright.ai/jobs/info/688c685f3a30793eb964306c?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 01 |
 | **[Fluxion AI](http://ai-fluxion.com)** | **[Healthcare AI & Venture Analyst](https://jobright.ai/jobs/info/688cdf3a3a30793eb9646b7f?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 01 |
 | **[Argonne National Laboratory](http://www.anl.gov/)** | **[Research Aide - HEP - Hodgson, Sophie - 7.29.25](https://jobright.ai/jobs/info/688cd4171808534a89cbee85?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Aug 01 |
+| **[Businessolver](https://www.businessolver.com)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/687008da06ad7073463ba877?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern - Optimization (Summer 2026)](https://jobright.ai/jobs/info/688b1569aab47a17f670e8f2?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Aug 01 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Boston Data Analytics Intern - Academic Year 25/26](https://jobright.ai/jobs/info/688bc43e906ac06e1d1ce397?utm_campaign=1066&utm_source=git)** | 189 B Street, Needham, Massachusetts | On Site | Aug 01 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Data & Analytics - Data Specialist - Summer Analyst - United States](https://jobright.ai/jobs/info/688c481d906ac06e1d1d2a1c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
@@ -117,9 +119,8 @@ For a complete list, click the following sortable link below:
 | **[FGS Global](https://fgsglobal.com)** | **[Fall Intern- Research & Insights](https://jobright.ai/jobs/info/688af3d2aab47a17f670cf15?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Jul 30 |
 | **[Healthcare Network](http://www.healthcareswfl.org/)** | **[Population Health Data Analyst Intern](https://jobright.ai/jobs/info/688a6b5009808a6103e4e6ea?utm_campaign=1066&utm_source=git)** | FL,US | On Site | Jul 30 |
 | **[Johnson Law Group](http://johnsonlawgroup.com)** | **[Data Analyst Intern - Fall 2025](https://jobright.ai/jobs/info/68896bb0aab47a17f6701570?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States | On Site | Jul 30 |
-| **[PNC](http://www.pnc.com)** | **[Quantitative Analytics Undergraduate Intern](https://jobright.ai/jobs/info/688a5b7baab47a17f6708283?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jul 30 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH FELLOW](https://jobright.ai/jobs/info/688a5b15aab47a17f670824f?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Jul 30 |
-| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Engineering (Data Analyst)](https://jobright.ai/jobs/info/688a59139f961617fe21ae89?utm_campaign=1066&utm_source=git)** | AZ - Chandler | On Site | Jul 30 |
+| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Engineering (Data Analyst)](https://jobright.ai/jobs/info/688a5881aab47a17f67080ad?utm_campaign=1066&utm_source=git)** | AZ - Chandler | On Site | Jul 30 |
 | **[FGS Global](https://fgsglobal.com)** | **[Fall Intern- Research & Insights](https://jobright.ai/jobs/info/688a4ffa09808a6103e4dbe6?utm_campaign=1066&utm_source=git)** | Washington, D.C | On Site | Jul 30 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/6850c0a88f493779c0156788?utm_campaign=1066&utm_source=git)** | Myrtle Beach, SC | On Site | Jul 30 |
 | **[HII](https://hii.com)** | **[Data Scientist](https://jobright.ai/jobs/info/688a54949f961617fe21abb7?utm_campaign=1066&utm_source=git)** | Pocasset, MA | On Site | Jul 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/687b74e2764c3d7411c32de7?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jul 29 |
 | **[ZURU](https://zuru.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6840d1126d3c7601db9bdde0?utm_campaign=1066&utm_source=git)** | United States, Los Angeles | On Site | Jul 29 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Data Science, Emerging Talent Intern](https://jobright.ai/jobs/info/6877f5455cebcd1dd51d662f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 29 |
-| **[Girl Scouts of Eastern Missouri](https://www.girlscoutsem.org/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/687c84e5ed63844c944aeba9?utm_campaign=1066&utm_source=git)** | Missouri River, MO | Hybrid | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
