@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (Privacy and Data Protection Office)- 2025 Start (BS/MS)](https://jobright.ai/jobs/info/688c36ef1808534a89cb96d5?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
+| **[Drivetek AG](http://www.drivetek.ch)** | **[Data Science Intern (Year-Round)](https://jobright.ai/jobs/info/688c1ec83a30793eb96401f6?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | Hybrid | Jul 31 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[GDIT Summer Internship Program – Summer 2026 Data Science Associate Internship](https://jobright.ai/jobs/info/688bf1801808534a89cb753e?utm_campaign=1066&utm_source=git)** | USA FL Tampa | Hybrid | Jul 31 |
 | **[Maryland Hospital Association](http://mhaonline.org)** | **[Healthcare Analytics Fellow](https://jobright.ai/jobs/info/688bf1203a30793eb963ed43?utm_campaign=1066&utm_source=git)** | Elkridge, MD | Hybrid | Jul 31 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Co-Op, SH&E Data & Analytics](https://jobright.ai/jobs/info/688bdc3a3a30793eb963e505?utm_campaign=1066&utm_source=git)** | Loveland, CO | On Site | Jul 31 |
@@ -87,9 +89,9 @@ For a complete list, click the following sortable link below:
 | **[AECOM](http://www.aecom.com/)** | **[Data Management Intern](https://jobright.ai/jobs/info/688ac8059f961617fe21e188?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 30 |
 | **[Amazon](https://amazon.com)** | **[Jr. Data Scientist - Austin, Jr. Developer Program](https://jobright.ai/jobs/info/688aa1009f961617fe21d1a2?utm_campaign=1066&utm_source=git)** | Austin, Texas, USA | On Site | Jul 30 |
 | **[Central Minnesota Jobs and Training Services, Inc.](https://www.cmjts.org/)** | **[GIS & Data Analysis Intern (PT)](https://jobright.ai/jobs/info/688c0e3b906ac06e1d1d04ff?utm_campaign=1066&utm_source=git)** | Minnesota, United States | Hybrid | Jul 30 |
+| **[Panasonic North America](https://www.na.panasonic.com/)** | **[Data Analytics and Cloud Application Specialist Intern (Fall 2025)](https://jobright.ai/jobs/info/688197caf4f06100f3a280ea?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Postdoctoral Research Fellow](https://jobright.ai/jobs/info/6887ed6c4174df41e0fa1a78?utm_campaign=1066&utm_source=git)** | Charlestown, NH | On Site | Jul 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/687b82742097a271a89849d0?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 30 |
-| **[Mercedes-Benz Vans, LLC (Charleston, SC)](https://mbvcharleston.com)** | **[Business Analytics Intern - Fall 2025](https://jobright.ai/jobs/info/688a7cad09808a6103e4f272?utm_campaign=1066&utm_source=git)** | Charleston, SC | On Site | Jul 30 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Engineering (Data Analyst)](https://jobright.ai/jobs/info/688a95c4aab47a17f670a08a?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | Jul 30 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Real Word Evidence - Fall 2025](https://jobright.ai/jobs/info/688a94d309808a6103e4ff23?utm_campaign=1066&utm_source=git)** | Cary, NC | Hybrid | Jul 30 |
 | **[Valero](http://www.valero.com)** | **[Data Analytics and Automation Intern (On-Going)](https://jobright.ai/jobs/info/688a4ff3aab47a17f6707cf8?utm_campaign=1066&utm_source=git)** | US-TX-San Antonio | On Site | Jul 30 |
@@ -99,7 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Johnson Law Group](http://johnsonlawgroup.com)** | **[Data Analyst Intern - Fall 2025](https://jobright.ai/jobs/info/68896bb0aab47a17f6701570?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States | On Site | Jul 30 |
 | **[PNC](http://www.pnc.com)** | **[Quantitative Analytics Undergraduate Intern](https://jobright.ai/jobs/info/688a5b7baab47a17f6708283?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jul 30 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH FELLOW](https://jobright.ai/jobs/info/688a5b15aab47a17f670824f?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Jul 30 |
-| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Engineering (Data Analyst)](https://jobright.ai/jobs/info/688a5881aab47a17f67080ad?utm_campaign=1066&utm_source=git)** | AZ - Chandler | On Site | Jul 30 |
+| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Engineering (Data Analyst)](https://jobright.ai/jobs/info/688a59139f961617fe21ae89?utm_campaign=1066&utm_source=git)** | AZ - Chandler | On Site | Jul 30 |
 | **[FGS Global](https://fgsglobal.com)** | **[Fall Intern- Research & Insights](https://jobright.ai/jobs/info/688a4ffa09808a6103e4dbe6?utm_campaign=1066&utm_source=git)** | Washington, D.C | On Site | Jul 30 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/6850c0a88f493779c0156788?utm_campaign=1066&utm_source=git)** | Myrtle Beach, SC | On Site | Jul 30 |
 | **[HII](https://hii.com)** | **[Data Scientist](https://jobright.ai/jobs/info/688a54949f961617fe21abb7?utm_campaign=1066&utm_source=git)** | Pocasset, MA | On Site | Jul 30 |
@@ -116,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Business Risk Integrated Control-Risk Measurement) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6889945509808a6103e48bfb?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
 | ↳ | **[Data Science Graduate (Advertisement Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68899101aab47a17f6702adf?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
 | **[Johnson Law Group](http://johnsonlawgroup.com)** | **[Data Analyst Intern - Fall 2025](https://jobright.ai/jobs/info/6889809d09808a6103e48076?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jul 29 |
+| **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Postdoctoral Research Associate - Radiology](https://jobright.ai/jobs/info/686c7d0b35584b654200f251?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Jul 29 |
 | **[Auburn University](https://www.auburn.edu/)** | **[TES Research Assistant - Li An](https://jobright.ai/jobs/info/6889881609808a6103e4832e?utm_campaign=1066&utm_source=git)** | Auburn, AL | On Site | Jul 29 |
 | **[Yamaha Corporation](https://www.yamaha.com)** | **[Digital Analytics Intern](https://jobright.ai/jobs/info/68897ddeaab47a17f6701fba?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 29 |
 | **[PNC](http://www.pnc.com)** | **[Quantitative Analytics Undergraduate Intern](https://jobright.ai/jobs/info/688937049f961617fe212c86?utm_campaign=1066&utm_source=git)** | PA - Pittsburgh (15222) | On Site | Jul 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/6888315c4174df41e0fa34c8?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jul 28 |
 | ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/68882edc4174df41e0fa33d4?utm_campaign=1066&utm_source=git)** | West Des Moines, IA | On Site | Jul 28 |
 | ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/68882dcbfbbf032d00079234?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jul 28 |
-| ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/68882d5373e3e13cbd942bfd?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Jul 28 |
-| **[University of Michigan](https://www.umich.edu)** | **[POST-DOCTORAL RESEARCH FELLOW](https://jobright.ai/jobs/info/688817c1fbbf032d00078ac6?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Jul 28 |
-| **[Panasonic North America](https://www.na.panasonic.com/)** | **[Data Analytics and Cloud Application Specialist Intern (Fall 2025)](https://jobright.ai/jobs/info/688197caf4f06100f3a280ea?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
