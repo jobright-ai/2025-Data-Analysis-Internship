@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PhDFinder](Phdfinder.com)** | **[[Expired] Postdoctoral Positions in Genetic Epidemiology and Statistical Genetics](https://jobright.ai/jobs/info/688e6aab6a4aac5783cd9517?utm_campaign=1066&utm_source=git)** | Sewanee, TN | On Site | Aug 02 |
+| **[ByteDance](http://bytedance.com)** | **[Multilingual Data Intern (Speech) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/685f2ce913fddba5d339d6d2?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 02 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687ec15a2097a271a89979ff?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 02 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687f171b764c3d7411c49170?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Aug 02 |
+| ↳ | **[Part-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687f1a6d2097a271a899ac49?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Aug 02 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Data Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/68632b7ea0871509d56205f7?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Aug 02 |
 | **[HEAL Security | Cyber Threat, Incidents, Risk & Situational Intelligence for Healthcare.](https://healsecurity.org/)** | **[Data Analyst (UK)](https://jobright.ai/jobs/info/68820fc889987b37105b1386?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 02 |
 | ↳ | **[Data Analyst (US)](https://jobright.ai/jobs/info/68820bccb0824207391d0ead?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 02 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Focused Analytics Solutions Team (FAST) Summer Associate - Analytics Solutions](https://jobright.ai/jobs/info/688e4b7fcdbd821a366412c3?utm_campaign=1066&utm_source=git)** | Plano, TX | On Site | Aug 02 |
@@ -69,7 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/6888315c4174df41e0fa34c8?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Aug 02 |
 | ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/6888331afbbf032d000793e5?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | Aug 02 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Multimodal Data Intern (PhD, Fall 2025)](https://jobright.ai/jobs/info/6881dd7f41fbda106ee6dee3?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Aug 02 |
-| **[Vizient, Inc](https://www.vizientinc.com)** | **[Data and Analytic Fellow](https://jobright.ai/jobs/info/688dbfcbcdbd821a3663f014?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
+| **[Vizient, Inc](https://www.vizientinc.com)** | **[Data and Analytic Fellow](https://jobright.ai/jobs/info/688dbe0ccdbd821a3663ed1f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
 | **[Chase](https://www.chase.com/)** | **[2025 Data for Good Hackathon (Associate) - Manhattan, New York](https://jobright.ai/jobs/info/688d9567cdbd821a3663c517?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York](https://jobright.ai/jobs/info/688d63a21808534a89cc2f36?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
 | ↳ | **[2025 Data for Good Hackathon (Associate) - Manhattan, New York](https://jobright.ai/jobs/info/688d7edecdbd821a3663a95b?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
@@ -98,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Data Science Fellow](https://jobright.ai/jobs/info/688cf9ac1808534a89cc007c?utm_campaign=1066&utm_source=git)** | Chicago, IL 60607 | On Site | Aug 01 |
 | ↳ | **[Data and Analytic Fellow](https://jobright.ai/jobs/info/688cf97727f9022553c08251?utm_campaign=1066&utm_source=git)** | Chicago, IL 60607 | On Site | Aug 01 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Focused Analytics Solutions Team (FAST) Summer Associate - Analytics Solutions](https://jobright.ai/jobs/info/688cf45627f9022553c08096?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | On Site | Aug 01 |
+| **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (Summer 2026)](https://jobright.ai/jobs/info/687016c406ad7073463baf09?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 01 |
 | **[Chase](https://www.chase.com/)** | **[2026 Data Science Analyst Program - Summer Analyst](https://jobright.ai/jobs/info/688c685f3a30793eb964306c?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 01 |
 | **[Argonne National Laboratory](http://www.anl.gov/)** | **[Research Aide - HEP - Hodgson, Sophie - 7.29.25](https://jobright.ai/jobs/info/688cd4171808534a89cbee85?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Aug 01 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (PhD 2026)](https://jobright.ai/jobs/info/687015e206ad7073463bae80?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 01 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Engineering (Data Analyst)](https://jobright.ai/jobs/info/688a95c4aab47a17f670a08a?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | Jul 30 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Real Word Evidence - Fall 2025](https://jobright.ai/jobs/info/688a94d309808a6103e4ff23?utm_campaign=1066&utm_source=git)** | Cary, NC | Hybrid | Jul 30 |
 | **[Valero](http://www.valero.com)** | **[Data Analytics and Automation Intern (On-Going)](https://jobright.ai/jobs/info/688a4ff3aab47a17f6707cf8?utm_campaign=1066&utm_source=git)** | US-TX-San Antonio | On Site | Jul 30 |
-| **[Columbia | Department of Economics](https://econ.columbia.edu/)** | **[Staff Associate I (Haddad Predoctoral Fellow)](https://jobright.ai/jobs/info/688ae3d49f961617fe21ef81?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 30 |
-| **[FGS Global](https://fgsglobal.com)** | **[Fall Intern- Research & Insights](https://jobright.ai/jobs/info/688af3d2aab47a17f670cf15?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Jul 30 |
-| **[Healthcare Network](http://www.healthcareswfl.org/)** | **[Population Health Data Analyst Intern](https://jobright.ai/jobs/info/688a6b5009808a6103e4e6ea?utm_campaign=1066&utm_source=git)** | FL,US | On Site | Jul 30 |
-| **[Johnson Law Group](http://johnsonlawgroup.com)** | **[Data Analyst Intern - Fall 2025](https://jobright.ai/jobs/info/68896bb0aab47a17f6701570?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States | On Site | Jul 30 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH FELLOW](https://jobright.ai/jobs/info/688a5b15aab47a17f670824f?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Jul 30 |
-| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Engineering (Data Analyst)](https://jobright.ai/jobs/info/688a5881aab47a17f67080ad?utm_campaign=1066&utm_source=git)** | AZ - Chandler | On Site | Jul 30 |
-| **[FGS Global](https://fgsglobal.com)** | **[Fall Intern- Research & Insights](https://jobright.ai/jobs/info/688a4ffa09808a6103e4dbe6?utm_campaign=1066&utm_source=git)** | Washington, D.C | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
