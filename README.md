@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PhDFinder](Phdfinder.com)** | **[[Expired] Postdoctoral Positions in Genetic Epidemiology and Statistical Genetics](https://jobright.ai/jobs/info/688e6aab6a4aac5783cd9517?utm_campaign=1066&utm_source=git)** | Sewanee, TN | On Site | Aug 02 |
+| **[Total Quality Logistics](http://www.tql.com/)** | **[Data Science & Analytics Intern](https://jobright.ai/jobs/info/6876995f5cebcd1dd51ca5c4?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Aug 02 |
+| **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Fall 2025](https://jobright.ai/jobs/info/680699b6d90e2f79f1718a69?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 02 |
+| **[Tetra Tech](http://www.tetratech.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68784a80866a435525ab80e0?utm_campaign=1066&utm_source=git)** | Colorado Springs, Colorado, United States | Hybrid | Aug 02 |
+| **[SignalFire](http://www.signalfire.com)** | **[Data & Research Analyst - Contractor/Internship](https://jobright.ai/jobs/info/687a99f22097a271a8980144?utm_campaign=1066&utm_source=git)** | Bay Area - Hybrid | Hybrid | Aug 02 |
 | **[ByteDance](http://bytedance.com)** | **[Multilingual Data Intern (Speech) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/685f2ce913fddba5d339d6d2?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 02 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687ec15a2097a271a89979ff?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 02 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687f171b764c3d7411c49170?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Aug 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Panasonic North America](https://www.na.panasonic.com/)** | **[Data Analytics and Cloud Application Specialist Intern (Fall 2025)](https://jobright.ai/jobs/info/688197caf4f06100f3a280ea?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Postdoctoral Research Fellow](https://jobright.ai/jobs/info/6887ed6c4174df41e0fa1a78?utm_campaign=1066&utm_source=git)** | Charlestown, NH | On Site | Jul 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/687b82742097a271a89849d0?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 30 |
-| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Engineering (Data Analyst)](https://jobright.ai/jobs/info/688a95c4aab47a17f670a08a?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | Jul 30 |
-| **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Real Word Evidence - Fall 2025](https://jobright.ai/jobs/info/688a94d309808a6103e4ff23?utm_campaign=1066&utm_source=git)** | Cary, NC | Hybrid | Jul 30 |
-| **[Valero](http://www.valero.com)** | **[Data Analytics and Automation Intern (On-Going)](https://jobright.ai/jobs/info/688a4ff3aab47a17f6707cf8?utm_campaign=1066&utm_source=git)** | US-TX-San Antonio | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
