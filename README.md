@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Intern (Summer 2026)](https://jobright.ai/jobs/info/688d6c0527f9022553c0b599?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 01 |
+| **[Metropolitan Transportation Authority](http://mta.info)** | **[Enterprise Asset Management Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/688d65e627f9022553c0b348?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 01 |
+| **[Chase](https://www.chase.com/)** | **[2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York](https://jobright.ai/jobs/info/688d63c91808534a89cc2f79?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 01 |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York](https://jobright.ai/jobs/info/688d63a21808534a89cc2f36?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 01 |
 | **[Noblis](http://www.noblis.org)** | **[Fall 2025 Intern - Data Science](https://jobright.ai/jobs/info/688d1c5e3a30793eb9648a61?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 01 |
 | **[CSC](http://www.cscglobal.com)** | **[Data Reporting and Analysis Intern](https://jobright.ai/jobs/info/688d2c0d1808534a89cc195f?utm_campaign=1066&utm_source=git)** | 2100 E. Lake Cook Road, Buffalo Grove, IL, 60089, US | Remote | Aug 01 |
 | **[Jazwares, LLC](http://jazwares.com)** | **[Intern - BI](https://jobright.ai/jobs/info/688d1cfb1808534a89cc1150?utm_campaign=1066&utm_source=git)** | Plantation, FL | Hybrid | Aug 01 |
@@ -123,7 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Healthcare Network](http://www.healthcareswfl.org/)** | **[Population Health Data Analyst Intern](https://jobright.ai/jobs/info/688a6b5009808a6103e4e6ea?utm_campaign=1066&utm_source=git)** | FL,US | On Site | Jul 30 |
 | **[Johnson Law Group](http://johnsonlawgroup.com)** | **[Data Analyst Intern - Fall 2025](https://jobright.ai/jobs/info/68896bb0aab47a17f6701570?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States | On Site | Jul 30 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH FELLOW](https://jobright.ai/jobs/info/688a5b15aab47a17f670824f?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Jul 30 |
-| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Engineering (Data Analyst)](https://jobright.ai/jobs/info/688a5881aab47a17f67080ad?utm_campaign=1066&utm_source=git)** | AZ - Chandler | On Site | Jul 30 |
+| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Engineering (Data Analyst)](https://jobright.ai/jobs/info/688a59139f961617fe21ae89?utm_campaign=1066&utm_source=git)** | AZ - Chandler | On Site | Jul 30 |
 | **[FGS Global](https://fgsglobal.com)** | **[Fall Intern- Research & Insights](https://jobright.ai/jobs/info/688a4ffa09808a6103e4dbe6?utm_campaign=1066&utm_source=git)** | Washington, D.C | On Site | Jul 30 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/6850c0a88f493779c0156788?utm_campaign=1066&utm_source=git)** | Myrtle Beach, SC | On Site | Jul 30 |
 | **[HII](https://hii.com)** | **[Data Scientist](https://jobright.ai/jobs/info/688a54949f961617fe21abb7?utm_campaign=1066&utm_source=git)** | Pocasset, MA | On Site | Jul 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Quantitative Data Analytics Summer 2026 Analyst - Global Risk Management](https://jobright.ai/jobs/info/687daf9aed63844c944b3834?utm_campaign=1066&utm_source=git)** | Atlanta, NY | On Site | Jul 29 |
 | **[NexThreat](https://www.nexthreat.com/)** | **[Data Analysis Intern - HUBZone Residency (REQUIRED)](https://jobright.ai/jobs/info/6854aa1b03246578490f4545?utm_campaign=1066&utm_source=git)** | Reston, VA | Remote | Jul 29 |
 | **[Dolby OptiView](https://dolby.io)** | **[Multimodal Data Intern (PhD, Fall 2025)](https://jobright.ai/jobs/info/6868c20335584b654256c24e?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jul 29 |
-| **[Louis Dreyfus Company](http://www.ldc.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/685aedbb1ebec50136d3c724?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Jul 29 |
-| **[Penumbra, Inc.](http://www.penumbrainc.com)** | **[OAA Data Analyst Intern](https://jobright.ai/jobs/info/686d91a202d6881bf8489682?utm_campaign=1066&utm_source=git)** | Alameda, CA | Hybrid | Jul 29 |
-| **[ABB](https://global.abb/group/en)** | **[Data Scientist & AI Intern - Fall 2025](https://jobright.ai/jobs/info/685c4b028146ebc0b1c3813a?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Jul 29 |
-| **[ByteDance](http://bytedance.com)** | **[Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d88?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
