@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Noblis](http://www.noblis.org)** | **[Fall 2025 Intern - Data Science](https://jobright.ai/jobs/info/688d1c5e3a30793eb9648a61?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 01 |
 | **[CSC](http://www.cscglobal.com)** | **[Data Reporting and Analysis Intern](https://jobright.ai/jobs/info/688d2c0d1808534a89cc195f?utm_campaign=1066&utm_source=git)** | 2100 E. Lake Cook Road, Buffalo Grove, IL, 60089, US | Remote | Aug 01 |
 | **[Jazwares, LLC](http://jazwares.com)** | **[Intern - BI](https://jobright.ai/jobs/info/688d1cfb1808534a89cc1150?utm_campaign=1066&utm_source=git)** | Plantation, FL | Hybrid | Aug 01 |
-| **[Noblis](http://www.noblis.org)** | **[Fall 2025 Intern - Data Science](https://jobright.ai/jobs/info/688d1c5e3a30793eb9648a61?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Chase](https://www.chase.com/)** | **[2026 Focused Analytics Solutions Team (FAST) Summer Associate - Analytics Solutions](https://jobright.ai/jobs/info/688d0ccb27f9022553c08996?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | On Site | Aug 01 |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Data Science Fellow](https://jobright.ai/jobs/info/688cf9ac1808534a89cc007c?utm_campaign=1066&utm_source=git)** | Chicago, IL 60607 | On Site | Aug 01 |
 | ↳ | **[Data and Analytic Fellow](https://jobright.ai/jobs/info/688cf97727f9022553c08251?utm_campaign=1066&utm_source=git)** | Chicago, IL 60607 | On Site | Aug 01 |
