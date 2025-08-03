@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (On Site) Per Diem, Castellon-Lopez Lab](https://jobright.ai/jobs/info/688f15526a4aac5783cdce9d?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Aug 03 |
 | **[GenPark](https://genpark.ai)** | **[Research Intern](https://jobright.ai/jobs/info/688ef1d26a4aac5783cdb8ed?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Aug 02 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Data Science Analyst Program - Summer Analyst](https://jobright.ai/jobs/info/688e45d9cdbd821a36641120?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Intelligence (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6880d83829ad6b2744adc803?utm_campaign=1066&utm_source=git)** | Washington, DC 20004 | On Site | Aug 02 |
@@ -91,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Chase](https://www.chase.com/)** | **[2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York](https://jobright.ai/jobs/info/688d63c91808534a89cc2f79?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/683a54b19a7f46ede4c06b42?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Aug 02 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Real Estate Research Intern (PHX)](https://jobright.ai/jobs/info/6679630df6b36b4aa01a325a?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Aug 02 |
+| **[Fred Hutch](http://www.fredhutch.org/)** | **[Post-Doctoral Research Fellow](https://jobright.ai/jobs/info/685f33a5fe1c349374a2611c?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 02 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Research Coordinator](https://jobright.ai/jobs/info/688d98b7cdbd821a3663c86e?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 01 |
 | **[University of Michigan](https://www.umich.edu)** | **[POST-DOCTORAL RESEARCH FELLOW](https://jobright.ai/jobs/info/688ee3996a4aac5783cdad00?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Aug 01 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/688d7ca36a4aac5783cd265f?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 01 |
@@ -100,8 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Intern (Summer 2026)](https://jobright.ai/jobs/info/688d6c0527f9022553c0b599?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 01 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Enterprise Asset Management Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/688d65e627f9022553c0b348?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | ↳ | **[Data Analyst – (ACE), Emerging Talent Intern](https://jobright.ai/jobs/info/688d7e0ecdbd821a3663a8e3?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| ↳ | **[Data Science - Service Performance, Emerging Talent Intern](https://jobright.ai/jobs/info/688d8433e5cead4afd456366?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| ↳ | **[Data Science - Ridership & Congestion Pricing, Emerging Talent Intern](https://jobright.ai/jobs/info/688d982ccdbd821a3663c7f5?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Kent State School of Fashion](https://www.kent.edu/fashion)** | **[Postdoctoral Scholar](https://jobright.ai/jobs/info/688d77d6cdbd821a3663a520?utm_campaign=1066&utm_source=git)** | Kent, WA | On Site | Aug 01 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Data Analyst – Automatic Camera Enforcement (ACE), Emerging Talent Intern](https://jobright.ai/jobs/info/688da4d26a4aac5783cd52ed?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Noblis](http://www.noblis.org)** | **[Fall 2025 Intern - Data Science](https://jobright.ai/jobs/info/688d1c5e3a30793eb9648a61?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 01 |
