@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (On Site) Per Diem, Castellon-Lopez Lab](https://jobright.ai/jobs/info/688f15526a4aac5783cdce9d?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Aug 03 |
-| **[GenPark](https://genpark.ai)** | **[Research Intern](https://jobright.ai/jobs/info/688ef1d26a4aac5783cdb8ed?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Aug 02 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Data Science Analyst Program - Summer Analyst](https://jobright.ai/jobs/info/688e45d9cdbd821a36641120?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Intelligence (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6880d83829ad6b2744adc803?utm_campaign=1066&utm_source=git)** | Washington, DC 20004 | On Site | Aug 02 |
 | **[Blockhouse](https://www.blockhouse.app)** | **[Quantitative Research Internship](https://jobright.ai/jobs/info/68812f8329ad6b2744adff22?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 02 |
@@ -82,7 +81,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/6888315c4174df41e0fa34c8?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Aug 02 |
 | ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/6888331afbbf032d000793e5?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | Aug 02 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Multimodal Data Intern (PhD, Fall 2025)](https://jobright.ai/jobs/info/6881dd7f41fbda106ee6dee3?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Aug 02 |
-| **[Vizient, Inc](https://www.vizientinc.com)** | **[Data and Analytic Fellow](https://jobright.ai/jobs/info/688dbfcbcdbd821a3663f014?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
+| **[Vizient, Inc](https://www.vizientinc.com)** | **[Data and Analytic Fellow](https://jobright.ai/jobs/info/688dbe0ccdbd821a3663ed1f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
 | **[Chase](https://www.chase.com/)** | **[2025 Data for Good Hackathon (Associate) - Manhattan, New York](https://jobright.ai/jobs/info/688d9567cdbd821a3663c517?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York](https://jobright.ai/jobs/info/688d63a21808534a89cc2f36?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
 | ↳ | **[2025 Data for Good Hackathon (Associate) - Manhattan, New York](https://jobright.ai/jobs/info/688d7edecdbd821a3663a95b?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Engineering (Data Analyst)](https://jobright.ai/jobs/info/688dad99e5cead4afd459291?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | Jul 30 |
 | **[Central Minnesota Jobs and Training Services, Inc.](https://www.cmjts.org/)** | **[GIS & Data Analysis Intern (PT)](https://jobright.ai/jobs/info/688ee3fbe5cead4afd45e2e7?utm_campaign=1066&utm_source=git)** | Minnesota, United States | On Site | Jul 30 |
 | **[AECOM](http://www.aecom.com/)** | **[Data Management Intern](https://jobright.ai/jobs/info/688acb329f961617fe21e35c?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Jul 30 |
+| **[FGS Global](https://fgsglobal.com)** | **[IT Intern, CRM & Data Analytics](https://jobright.ai/jobs/info/688a80759f961617fe21c223?utm_campaign=1066&utm_source=git)** | New York | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
