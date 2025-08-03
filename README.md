@@ -101,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/688d7ca36a4aac5783cd265f?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Data Science, Emerging Talent Intern](https://jobright.ai/jobs/info/688d7863e5cead4afd455a82?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Rutgers University](http://www.rutgers.edu)** | **[Post-Doctoral Fellow](https://jobright.ai/jobs/info/688d77d4e5cead4afd455a3a?utm_campaign=1066&utm_source=git)** | New Brunswick, NJ | On Site | Aug 01 |
-| **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Post Doctoral Fellow-MSH-12380-001](https://jobright.ai/jobs/info/688d74a93a30793eb964b019?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Intern (Summer 2026)](https://jobright.ai/jobs/info/688d6c0527f9022553c0b599?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 01 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Enterprise Asset Management Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/688d65e627f9022553c0b348?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | ↳ | **[Data Analyst – (ACE), Emerging Talent Intern](https://jobright.ai/jobs/info/688d7e0ecdbd821a3663a8e3?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/686f0c16f0f03582b4c21306?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 31 |
 | **[PhDFinder](Phdfinder.com)** | **[USA – Postdoctoral Research in Water Resources at University of Florida](https://jobright.ai/jobs/info/688b0de609808a6103e54123?utm_campaign=1066&utm_source=git)** | Cape Coral Metro | On Site | Jul 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/688ef5a46a4aac5783cdba6a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jul 30 |
+| **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern- Engineering (Data Analyst)](https://jobright.ai/jobs/info/688dad99e5cead4afd459291?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
