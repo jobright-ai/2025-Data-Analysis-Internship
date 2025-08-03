@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Data Science Analyst Program - Summer Analyst](https://jobright.ai/jobs/info/688e45d9cdbd821a36641120?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Intelligence (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6880d83829ad6b2744adc803?utm_campaign=1066&utm_source=git)** | Washington, DC 20004 | On Site | Aug 02 |
 | **[Blockhouse](https://www.blockhouse.app)** | **[Quantitative Research Internship](https://jobright.ai/jobs/info/68812f8329ad6b2744adff22?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 02 |
-| **[GenPark](https://genpark.ai)** | **[Research Assistant](https://jobright.ai/jobs/info/688ea05ecdbd821a36641ced?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Aug 02 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Data Science & Analytics Intern](https://jobright.ai/jobs/info/6876995f5cebcd1dd51ca5c4?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Aug 02 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Fall 2025](https://jobright.ai/jobs/info/680699b6d90e2f79f1718a69?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 02 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68784a80866a435525ab80e0?utm_campaign=1066&utm_source=git)** | Colorado Springs, Colorado, United States | Hybrid | Aug 02 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[FGS Global](https://fgsglobal.com)** | **[IT Intern, CRM & Data Analytics](https://jobright.ai/jobs/info/688a80759f961617fe21c223?utm_campaign=1066&utm_source=git)** | New York | On Site | Jul 30 |
 | **[AECOM](http://www.aecom.com/)** | **[Data Management Intern](https://jobright.ai/jobs/info/688ac8059f961617fe21e188?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 30 |
 | **[Amazon](https://amazon.com)** | **[Jr. Data Scientist - Austin, Jr. Developer Program](https://jobright.ai/jobs/info/688aa1009f961617fe21d1a2?utm_campaign=1066&utm_source=git)** | Austin, Texas, USA | On Site | Jul 30 |
+| **[Panasonic North America](https://www.na.panasonic.com/)** | **[Data Analytics and Cloud Application Specialist Intern (Fall 2025)](https://jobright.ai/jobs/info/688197caf4f06100f3a280ea?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
