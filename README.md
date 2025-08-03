@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Data Science Analyst Program - Summer Analyst](https://jobright.ai/jobs/info/688e45d9cdbd821a36641120?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Intelligence (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6880d83829ad6b2744adc803?utm_campaign=1066&utm_source=git)** | Washington, DC 20004 | On Site | Aug 02 |
 | **[Blockhouse](https://www.blockhouse.app)** | **[Quantitative Research Internship](https://jobright.ai/jobs/info/68812f8329ad6b2744adff22?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 02 |
 | **[GenPark](https://genpark.ai)** | **[Research Assistant](https://jobright.ai/jobs/info/688ea05ecdbd821a36641ced?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Aug 02 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Data Science & Analytics Intern](https://jobright.ai/jobs/info/6876995f5cebcd1dd51ca5c4?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Aug 02 |
@@ -73,14 +75,13 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Focused Analytics Solutions Team (FAST) Summer Associate - Analytics Solutions](https://jobright.ai/jobs/info/688e4b7fcdbd821a366412c3?utm_campaign=1066&utm_source=git)** | Plano, TX | On Site | Aug 02 |
 | **[American Academy of Orthopaedic Surgeons (AAOS)](http://www.aaos.org)** | **[Clinical Data Analyst Intern](https://jobright.ai/jobs/info/68640b1c81c76de3a2b71851?utm_campaign=1066&utm_source=git)** | Rosemont, IL | Hybrid | Aug 02 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Data & Analytics - Data Specialist - Summer Analyst - United States](https://jobright.ai/jobs/info/688e470dcdbd821a366411c1?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 02 |
-| ↳ | **[2026 Data Science Analyst Program - Summer Analyst](https://jobright.ai/jobs/info/688e45d9cdbd821a36641120?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
 | **[Asana](https://asana.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6888078573e3e13cbd941e23?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Aug 02 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/68882d5373e3e13cbd942bfd?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Aug 02 |
 | ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/68882dcbfbbf032d00079234?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Aug 02 |
 | ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/6888315c4174df41e0fa34c8?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Aug 02 |
 | ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/6888331afbbf032d000793e5?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | Aug 02 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Multimodal Data Intern (PhD, Fall 2025)](https://jobright.ai/jobs/info/6881dd7f41fbda106ee6dee3?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Aug 02 |
-| **[Vizient, Inc](https://www.vizientinc.com)** | **[Data and Analytic Fellow](https://jobright.ai/jobs/info/688dbe0ccdbd821a3663ed1f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
+| **[Vizient, Inc](https://www.vizientinc.com)** | **[Data and Analytic Fellow](https://jobright.ai/jobs/info/688dbfcbcdbd821a3663f014?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
 | **[Chase](https://www.chase.com/)** | **[2025 Data for Good Hackathon (Associate) - Manhattan, New York](https://jobright.ai/jobs/info/688d9567cdbd821a3663c517?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York](https://jobright.ai/jobs/info/688d63a21808534a89cc2f36?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
 | ↳ | **[2025 Data for Good Hackathon (Associate) - Manhattan, New York](https://jobright.ai/jobs/info/688d7edecdbd821a3663a95b?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FGS Global](https://fgsglobal.com)** | **[IT Intern, CRM & Data Analytics](https://jobright.ai/jobs/info/688a80759f961617fe21c223?utm_campaign=1066&utm_source=git)** | New York | On Site | Jul 30 |
 | **[AECOM](http://www.aecom.com/)** | **[Data Management Intern](https://jobright.ai/jobs/info/688ac8059f961617fe21e188?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 30 |
 | **[Amazon](https://amazon.com)** | **[Jr. Data Scientist - Austin, Jr. Developer Program](https://jobright.ai/jobs/info/688aa1009f961617fe21d1a2?utm_campaign=1066&utm_source=git)** | Austin, Texas, USA | On Site | Jul 30 |
-| **[Panasonic North America](https://www.na.panasonic.com/)** | **[Data Analytics and Cloud Application Specialist Intern (Fall 2025)](https://jobright.ai/jobs/info/688197caf4f06100f3a280ea?utm_campaign=1066&utm_source=git)** | United States | Remote | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
