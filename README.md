@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exeevo](https://www.exeevo.com/)** | **[Data Scientist Intern - US](https://jobright.ai/jobs/info/68909909f47efe211394e7ca?utm_campaign=1066&utm_source=git)** | United States | On Site | Aug 04 |
+| **[Sanofi](https://www.sanofi.com)** | **[Winter/Spring 2026 Co-op/Intern - mRNA Data & Computational Science](https://jobright.ai/jobs/info/6856fb92eefc42780236ac7f?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Aug 04 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Research Assistant](https://jobright.ai/jobs/info/689077314c7e851b90ac6a70?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Aug 04 |
 | **[Joinrs](http://www.tutored.me)** | **[Junior Data Scientist & AI](https://jobright.ai/jobs/info/68906788f5ee707a15db6a8f?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 04 |
 | **[Apziva Fellowship](https://www.apziva.com/)** | **[Data Scientist in Residence](https://jobright.ai/jobs/info/689057ccf47efe211394ce0e?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 03 |
+| **[Talos](https://talos.com)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/68909c8cf5ee707a15db80a3?utm_campaign=1066&utm_source=git)** | New York | On Site | Aug 03 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Sports Analytics Internships: ATL - Fall 2025](https://jobright.ai/jobs/info/687deaa9764c3d7411c3fc22?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Aug 03 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2025 Data for Good Hackathon (Associate) - Manhattan, New York](https://jobright.ai/jobs/info/688f992be5cead4afd460f83?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 03 |
 | ↳ | **[2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York](https://jobright.ai/jobs/info/688f95fae5cead4afd460f61?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 03 |
@@ -71,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Data Science Analyst Program - Summer Analyst](https://jobright.ai/jobs/info/688e45d9cdbd821a36641120?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Intelligence (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6880d83829ad6b2744adc803?utm_campaign=1066&utm_source=git)** | Washington, DC 20004 | On Site | Aug 02 |
 | **[Blockhouse](https://www.blockhouse.app)** | **[Quantitative Research Internship](https://jobright.ai/jobs/info/68812f8329ad6b2744adff22?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 02 |
+| **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Analytics Rep](https://jobright.ai/jobs/info/689093abf5ee707a15db7879?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Data Science & Analytics Intern](https://jobright.ai/jobs/info/6876995f5cebcd1dd51ca5c4?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Aug 02 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Fall 2025](https://jobright.ai/jobs/info/680699b6d90e2f79f1718a69?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 02 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68784a80866a435525ab80e0?utm_campaign=1066&utm_source=git)** | Colorado Springs, Colorado, United States | Hybrid | Aug 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ormco](http://www.ormco.com)** | **[R&D Data Scientist Intern](https://jobright.ai/jobs/info/683f97664bf15f6970a6cfa2?utm_campaign=1066&utm_source=git)** | Brea, CA | On Site | Jul 31 |
 | **[Asana](https://asana.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6888006a73e3e13cbd941c38?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Jul 31 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist - Technical Operations (Spring 2026)](https://jobright.ai/jobs/info/686cb87e35584b6542499e03?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 31 |
-| **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2026 Summer]](https://jobright.ai/jobs/info/686f04c8ecaa3a16731d769f?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Jul 31 |
-| **[Asana](https://asana.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68895f24aab47a17f67011de?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
-| **[FGS Global](https://fgsglobal.com)** | **[IT Intern, CRM & Data Analytics](https://jobright.ai/jobs/info/688ac56f09808a6103e512db?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 31 |
-| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/686f0c16f0f03582b4c212a6?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
