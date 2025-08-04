@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exeevo](https://www.exeevo.com/)** | **[Data Scientist Intern - US](https://jobright.ai/jobs/info/68909909f47efe211394e7ca?utm_campaign=1066&utm_source=git)** | United States | On Site | Aug 04 |
+| **[Environmental Defense Fund](http://www.edf.org/)** | **[Data Analyst Intern, Methane Science](https://jobright.ai/jobs/info/68912612f47efe21139531f3?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Aug 04 |
+| **[John Deere](https://www.deere.com)** | **[Part-Time Student - Data Analytics - Waterloo, IA](https://jobright.ai/jobs/info/689119984c7e851b90acc0a6?utm_campaign=1066&utm_source=git)** | Waterloo, IA | Hybrid | Aug 04 |
+| ↳ | **[Part-Time Student - Data Analytics - Waterloo, IA](https://jobright.ai/jobs/info/689111844c7e851b90acbd20?utm_campaign=1066&utm_source=git)** | Waterloo, MI | Hybrid | Aug 04 |
 | **[Talos](https://talos.com)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/6890fbcaf5ee707a15dbb1d9?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Aug 04 |
 | **[Limex](http://whotrades.com/feed)** | **[Quant Trading Challenge Intern](https://jobright.ai/jobs/info/6890e1b24c7e851b90aca541?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 04 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[Data Analyst Intern, Methane Science](https://jobright.ai/jobs/info/6890d4f8f47efe2113950bba?utm_campaign=1066&utm_source=git)** | Austin | Remote | Aug 04 |
@@ -71,11 +75,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Current Accenture Summer Analysts Only - Global Data & AI Summer Analyst – NAELFY26](https://jobright.ai/jobs/info/6890c86d4c7e851b90ac9895?utm_campaign=1066&utm_source=git)** | Mountain View, 650 Castro, Corp | On Site | Aug 04 |
 | ↳ | **[Current Accenture Summer Analysts Only - Full-Time Analyst Corporate Functions - NAELFY26](https://jobright.ai/jobs/info/6890c82df5ee707a15db998b?utm_campaign=1066&utm_source=git)** | Chicago, Accenture Tower, Corp | On Site | Aug 04 |
 | ↳ | **[Current Accenture Summer Analysts Only - Full-Time Analyst Corporate Functions - NAELFY26](https://jobright.ai/jobs/info/6890c8044c7e851b90ac9819?utm_campaign=1066&utm_source=git)** | Atlanta, 75 Fifth, Corp | On Site | Aug 04 |
-| **[Exeevo](https://www.exeevo.com/)** | **[Data Scientist Intern - US](https://jobright.ai/jobs/info/68909909f47efe211394e7ca?utm_campaign=1066&utm_source=git)** | United States | On Site | Aug 04 |
 | **[Sanofi](https://www.sanofi.com)** | **[Winter/Spring 2026 Co-op/Intern - mRNA Data & Computational Science](https://jobright.ai/jobs/info/6856fb92eefc42780236ac7f?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Aug 04 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Research Assistant](https://jobright.ai/jobs/info/689077314c7e851b90ac6a70?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Aug 04 |
 | **[Joinrs](http://www.tutored.me)** | **[Junior Data Scientist & AI](https://jobright.ai/jobs/info/68906788f5ee707a15db6a8f?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 04 |
-| **[Apziva Fellowship](https://www.apziva.com/)** | **[Data Scientist in Residence](https://jobright.ai/jobs/info/689057ccf47efe211394ce0e?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 03 |
+| **[Southern Research](https://southernresearch.org/)** | **[Research Assistant - Intern](https://jobright.ai/jobs/info/68911012f47efe21139526f4?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Aug 03 |
 | **[Talos](https://talos.com)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/68909c8cf5ee707a15db80a3?utm_campaign=1066&utm_source=git)** | New York | On Site | Aug 03 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Sports Analytics Internships: ATL - Fall 2025](https://jobright.ai/jobs/info/687deaa9764c3d7411c3fc22?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Aug 03 |
 | **[ByteDance](http://bytedance.com)** | **[Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d88?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KeyBank](https://www.key.com)** | **[2026 Summer Analytics and Quantitative Modeling Internship - Cleveland](https://jobright.ai/jobs/info/6887eea24174df41e0fa1c47?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Jul 31 |
 | **[Health Advances](http://www.healthadvances.com)** | **[Analyst Intern (Summer 2026 Newton, MA)](https://jobright.ai/jobs/info/688d30481808534a89cc1bcb?utm_campaign=1066&utm_source=git)** | Weston, MA | Hybrid | Jul 31 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[GDIT Summer Internship Program – Summer 2026 Data Science Associate Internship](https://jobright.ai/jobs/info/688bf1801808534a89cb753e?utm_campaign=1066&utm_source=git)** | USA FL Tampa | Hybrid | Jul 31 |
-| **[BorgWarner](http://www.borgwarner.com)** | **[Data Science Intern (Year-Round)](https://jobright.ai/jobs/info/688bda981808534a89cb6b2e?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | Hybrid | Jul 31 |
-| ↳ | **[Data Science Intern (Year-Round)](https://jobright.ai/jobs/info/688bca691808534a89cb62e8?utm_campaign=1066&utm_source=git)** | Auburn Hills - Michigan - USA | Hybrid | Jul 31 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Network Planning - Schedule Analytics (Spring 2026)](https://jobright.ai/jobs/info/684d12fcc4f257fd723a2c79?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
