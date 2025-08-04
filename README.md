@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Joinrs](http://www.tutored.me)** | **[Junior Data Scientist & AI](https://jobright.ai/jobs/info/68906788f5ee707a15db6a8f?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 04 |
+| **[Apziva Fellowship](https://www.apziva.com/)** | **[Data Scientist in Residence](https://jobright.ai/jobs/info/689057ccf47efe211394ce0e?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Sports Analytics Internships: ATL - Fall 2025](https://jobright.ai/jobs/info/687deaa9764c3d7411c3fc22?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Aug 03 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Geographical Information Systems Intern
 Job ID : 247658](https://jobright.ai/jobs/info/6890266fcdbd821a36647148?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 03 |
@@ -156,6 +158,4 @@ Job ID : 247658](https://jobright.ai/jobs/info/6890266fcdbd821a36647148?utm_camp
 | **[Asana](https://asana.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68895f24aab47a17f67011de?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 | **[FGS Global](https://fgsglobal.com)** | **[IT Intern, CRM & Data Analytics](https://jobright.ai/jobs/info/688ac56f09808a6103e512db?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jul 31 |
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/686f0c16f0f03582b4c212a6?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 31 |
-| **[Asana](https://asana.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68894dd809808a6103e46a8a?utm_campaign=1066&utm_source=git)** | New York City | On Site | Jul 31 |
-| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/686efc4758dd0e9007995f94?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
