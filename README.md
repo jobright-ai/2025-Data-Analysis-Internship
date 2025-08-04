@@ -138,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[KeyBank](https://www.key.com)** | **[2026 Summer Analytics and Quantitative Modeling Internship - Cleveland](https://jobright.ai/jobs/info/6887eea24174df41e0fa1c47?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Jul 31 |
 | **[Health Advances](http://www.healthadvances.com)** | **[Analyst Intern (Summer 2026 Newton, MA)](https://jobright.ai/jobs/info/688d30481808534a89cc1bcb?utm_campaign=1066&utm_source=git)** | Weston, MA | Hybrid | Jul 31 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[GDIT Summer Internship Program – Summer 2026 Data Science Associate Internship](https://jobright.ai/jobs/info/688bf1801808534a89cb753e?utm_campaign=1066&utm_source=git)** | USA FL Tampa | Hybrid | Jul 31 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Co-Op, SH&E Data & Analytics](https://jobright.ai/jobs/info/688bdc3a3a30793eb963e505?utm_campaign=1066&utm_source=git)** | Loveland, CO | On Site | Jul 31 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Data Science Intern (Year-Round)](https://jobright.ai/jobs/info/688bda981808534a89cb6b2e?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | Hybrid | Jul 31 |
 | ↳ | **[Data Science Intern (Year-Round)](https://jobright.ai/jobs/info/688bca691808534a89cb62e8?utm_campaign=1066&utm_source=git)** | Auburn Hills - Michigan - USA | Hybrid | Jul 31 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Network Planning - Schedule Analytics (Spring 2026)](https://jobright.ai/jobs/info/684d12fcc4f257fd723a2c79?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jul 31 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Asana](https://asana.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68894dd809808a6103e46a8a?utm_campaign=1066&utm_source=git)** | New York City | On Site | Jul 31 |
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/686efc4758dd0e9007995f94?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 | ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/686f0c16f0f03582b4c21306?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jul 31 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/688ef5a46a4aac5783cdba6a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
