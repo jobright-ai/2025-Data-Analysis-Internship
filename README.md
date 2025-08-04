@@ -57,11 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Penn State University](http://psu.edu)** | **[Part-Time Research Assistant](https://jobright.ai/jobs/info/689077314c7e851b90ac6a70?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Aug 04 |
 | **[Joinrs](http://www.tutored.me)** | **[Junior Data Scientist & AI](https://jobright.ai/jobs/info/68906788f5ee707a15db6a8f?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 04 |
 | **[Apziva Fellowship](https://www.apziva.com/)** | **[Data Scientist in Residence](https://jobright.ai/jobs/info/689057ccf47efe211394ce0e?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Sports Analytics Internships: ATL - Fall 2025](https://jobright.ai/jobs/info/687deaa9764c3d7411c3fc22?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Aug 03 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Geographical Information Systems Intern
-Job ID : 247658](https://jobright.ai/jobs/info/6890266fcdbd821a36647148?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 03 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2025 Data for Good Hackathon (Associate) - Manhattan, New York](https://jobright.ai/jobs/info/688f992be5cead4afd460f83?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 03 |
 | ↳ | **[2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York](https://jobright.ai/jobs/info/688f95fae5cead4afd460f61?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 03 |
 | **[ByteDance](http://bytedance.com)** | **[Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d88?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 03 |
