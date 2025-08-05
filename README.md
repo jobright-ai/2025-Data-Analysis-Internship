@@ -57,24 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altruist](https://altruist.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68914106f47efe2113953eae?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Aug 05 |
+| ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/689141d0f47efe2113953f10?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 05 |
+| **[University of Michigan](https://www.umich.edu)** | **[Data Science Intern, temporary](https://jobright.ai/jobs/info/6891495b4c7e851b90acd742?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Aug 05 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (TikTok Shop Governance and Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68917f64f5ee707a15dbf1b8?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 05 |
+| ↳ | **[Data Scientist Intern (TikTok-Search)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6891822df47efe21139560a8?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 05 |
+| ↳ | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/687b74e2764c3d7411c32de7?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 05 |
 | **[UNSW](https://www.founders.unsw.edu.au)** | **[Postdoctoral Fellow - Psychology](https://jobright.ai/jobs/info/6891c6ac4c7e851b90ad203e?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Aug 05 |
 | ↳ | **[Postdoctoral Fellow - Psychology](https://jobright.ai/jobs/info/6891c5f44c7e851b90ad1fea?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Aug 05 |
 | ↳ | **[Postdoctoral Fellow - Psychology](https://jobright.ai/jobs/info/6891c52ff5ee707a15dc203d?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Aug 05 |
 | ↳ | **[Postdoctoral Fellow - Psychology](https://jobright.ai/jobs/info/6891c47ef5ee707a15dc2020?utm_campaign=1066&utm_source=git)** | Princeton, CA | On Site | Aug 05 |
 | ↳ | **[Postdoctoral Fellow - Psychology](https://jobright.ai/jobs/info/6891bff84c7e851b90ad1f3c?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Aug 05 |
 | ↳ | **[Postdoctoral Fellow - Psychology](https://jobright.ai/jobs/info/6891bd95f47efe21139589c9?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 05 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Search)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6891822df47efe21139560a8?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
-| ↳ | **[Data Scientist Graduate (TikTok Shop Governance and Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68917f64f5ee707a15dbf1b8?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 04 |
-| ↳ | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Start (PhD)](https://jobright.ai/jobs/info/68917c104c7e851b90acf022?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Start (PhD)](https://jobright.ai/jobs/info/68917c104c7e851b90acf022?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Commercial & Investment Bank Innovation Development Summer Analyst Program](https://jobright.ai/jobs/info/67c2abb896a77960752560f8?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 04 |
 | **[John Deere](https://www.deere.com)** | **[Part-Time Student - Data and Analytics - Remote](https://jobright.ai/jobs/info/68916e574c7e851b90ace7d3?utm_campaign=1066&utm_source=git)** | Iowa, United States | Hybrid | Aug 04 |
 | ↳ | **[Part-Time Student - Data and Analytics - Remote](https://jobright.ai/jobs/info/68916d2e4c7e851b90ace776?utm_campaign=1066&utm_source=git)** | Iowa, United States | Hybrid | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689188c1f5ee707a15dbf7f8?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
 | **[Alfa Laval](http://www.alfalaval.com)** | **[Purchasing Data Validation Intern](https://jobright.ai/jobs/info/68916464f5ee707a15dbe27d?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 04 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/68917bd64c7e851b90acefff?utm_campaign=1066&utm_source=git)** | Westport, CT | On Site | Aug 04 |
-| **[University of Michigan](https://www.umich.edu)** | **[Data Science Intern, temporary](https://jobright.ai/jobs/info/6891495b4c7e851b90acd742?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Aug 04 |
-| **[Altruist](https://altruist.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/689141d0f47efe2113953f10?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 04 |
-| ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68914106f47efe2113953eae?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Aug 04 |
 | **[Solely Inc.](http://www.solely.com/)** | **[AI and Data Analytics Intern](https://jobright.ai/jobs/info/689134dd4c7e851b90acce54?utm_campaign=1066&utm_source=git)** | La Jolla Shores, CA | On Site | Aug 04 |
 | **[DestinationNova](tejasavatar.com)** | **[Anti-Human Trafficking Researcher (Unpaid)](https://jobright.ai/jobs/info/68912bf4f47efe211395365d?utm_campaign=1066&utm_source=git)** | Manhattan, NY | Remote | Aug 04 |
 | **[Exeevo](https://www.exeevo.com/)** | **[Data Scientist Intern - US](https://jobright.ai/jobs/info/68909909f47efe211394e7ca?utm_campaign=1066&utm_source=git)** | United States | On Site | Aug 04 |
@@ -129,7 +130,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/6888315c4174df41e0fa34c8?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Aug 02 |
 | ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/6888331afbbf032d000793e5?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | Aug 02 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Multimodal Data Intern (PhD, Fall 2025)](https://jobright.ai/jobs/info/6881dd7f41fbda106ee6dee3?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Aug 02 |
-| **[Vizient, Inc](https://www.vizientinc.com)** | **[Data and Analytic Fellow](https://jobright.ai/jobs/info/688dbe0ccdbd821a3663ed1f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
+| **[Vizient, Inc](https://www.vizientinc.com)** | **[Data and Analytic Fellow](https://jobright.ai/jobs/info/688dbfcbcdbd821a3663f014?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
 | **[Chase](https://www.chase.com/)** | **[2025 Data for Good Hackathon (Associate) - Manhattan, New York](https://jobright.ai/jobs/info/688d9567cdbd821a3663c517?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York](https://jobright.ai/jobs/info/688d63a21808534a89cc2f36?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
 | ↳ | **[2025 Data for Good Hackathon (Associate) - Manhattan, New York](https://jobright.ai/jobs/info/688d7edecdbd821a3663a95b?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Focused Analytics Solutions Team (FAST) Summer Associate - Analytics Solutions](https://jobright.ai/jobs/info/688cf45627f9022553c08096?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | On Site | Aug 01 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (Summer 2026)](https://jobright.ai/jobs/info/687016c406ad7073463baf09?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 01 |
 | **[Chase](https://www.chase.com/)** | **[2026 Data Science Analyst Program - Summer Analyst](https://jobright.ai/jobs/info/688c685f3a30793eb964306c?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 01 |
-| **[Argonne National Laboratory](http://www.anl.gov/)** | **[Research Aide - HEP - Hodgson, Sophie - 7.29.25](https://jobright.ai/jobs/info/688cd4171808534a89cbee85?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
