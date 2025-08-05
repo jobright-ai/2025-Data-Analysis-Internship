@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Network Planning - Schedule Analytics (Spring 2026)](https://jobright.ai/jobs/info/68917f20f5ee707a15dbf197?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Aug 04 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Start (PhD)](https://jobright.ai/jobs/info/68917c104c7e851b90acf022?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Search)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6891822df47efe21139560a8?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
+| ↳ | **[Data Scientist Graduate (TikTok Shop Governance and Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68917f64f5ee707a15dbf1b8?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 04 |
+| ↳ | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Start (PhD)](https://jobright.ai/jobs/info/68917c104c7e851b90acf022?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Commercial & Investment Bank Innovation Development Summer Analyst Program](https://jobright.ai/jobs/info/67c2abb896a77960752560f8?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 04 |
-| **[John Deere](https://www.deere.com)** | **[Part-Time Student - Data and Analytics - Remote](https://jobright.ai/jobs/info/68916d2e4c7e851b90ace776?utm_campaign=1066&utm_source=git)** | Iowa, United States | Hybrid | Aug 04 |
+| **[John Deere](https://www.deere.com)** | **[Part-Time Student - Data and Analytics - Remote](https://jobright.ai/jobs/info/68916e574c7e851b90ace7d3?utm_campaign=1066&utm_source=git)** | Iowa, United States | Hybrid | Aug 04 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689188c1f5ee707a15dbf7f8?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
 | **[Alfa Laval](http://www.alfalaval.com)** | **[Purchasing Data Validation Intern](https://jobright.ai/jobs/info/68916464f5ee707a15dbe27d?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 04 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/68917bd64c7e851b90acefff?utm_campaign=1066&utm_source=git)** | Westport, CT | On Site | Aug 04 |
 | **[University of Michigan](https://www.umich.edu)** | **[Data Science Intern, temporary](https://jobright.ai/jobs/info/6891495b4c7e851b90acd742?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Aug 04 |
@@ -70,6 +72,8 @@ For a complete list, click the following sortable link below:
 | **[DestinationNova](tejasavatar.com)** | **[Anti-Human Trafficking Researcher (Unpaid)](https://jobright.ai/jobs/info/68912bf4f47efe211395365d?utm_campaign=1066&utm_source=git)** | Manhattan, NY | Remote | Aug 04 |
 | **[Exeevo](https://www.exeevo.com/)** | **[Data Scientist Intern - US](https://jobright.ai/jobs/info/68909909f47efe211394e7ca?utm_campaign=1066&utm_source=git)** | United States | On Site | Aug 04 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[Data Analyst Intern, Methane Science](https://jobright.ai/jobs/info/68912612f47efe21139531f3?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Aug 04 |
+| ↳ | **[Data Analyst Intern, Methane Science](https://jobright.ai/jobs/info/689190a4f5ee707a15dbfee8?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 04 |
+| **[Conexant](http://www.conexant.com/)** | **[Part-Time Student - Data Analytics - Waterloo, IA](https://jobright.ai/jobs/info/689191eaf47efe2113956b7b?utm_campaign=1066&utm_source=git)** | Waterloo, IA | Hybrid | Aug 04 |
 | **[Talos](https://talos.com)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/6890fbcaf5ee707a15dbb1d9?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Aug 04 |
 | **[Limex](http://whotrades.com/feed)** | **[Quant Trading Challenge Intern](https://jobright.ai/jobs/info/6890e1b24c7e851b90aca541?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 04 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[Data Analyst Intern, Methane Science](https://jobright.ai/jobs/info/6890d4f8f47efe2113950bba?utm_campaign=1066&utm_source=git)** | Austin | Remote | Aug 04 |
@@ -118,7 +122,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/6888315c4174df41e0fa34c8?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Aug 02 |
 | ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/6888331afbbf032d000793e5?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | Aug 02 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Multimodal Data Intern (PhD, Fall 2025)](https://jobright.ai/jobs/info/6881dd7f41fbda106ee6dee3?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Aug 02 |
-| **[Vizient, Inc](https://www.vizientinc.com)** | **[Data and Analytic Fellow](https://jobright.ai/jobs/info/688dbe0ccdbd821a3663ed1f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
+| **[Vizient, Inc](https://www.vizientinc.com)** | **[Data and Analytic Fellow](https://jobright.ai/jobs/info/688dbfcbcdbd821a3663f014?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
 | **[Chase](https://www.chase.com/)** | **[2025 Data for Good Hackathon (Associate) - Manhattan, New York](https://jobright.ai/jobs/info/688d9567cdbd821a3663c517?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York](https://jobright.ai/jobs/info/688d63a21808534a89cc2f36?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
 | ↳ | **[2025 Data for Good Hackathon (Associate) - Manhattan, New York](https://jobright.ai/jobs/info/688d7edecdbd821a3663a95b?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Boston Data Analytics Intern - Academic Year 25/26](https://jobright.ai/jobs/info/688bc43e906ac06e1d1ce397?utm_campaign=1066&utm_source=git)** | 189 B Street, Needham, Massachusetts | On Site | Aug 01 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Data & Analytics - Data Specialist - Summer Analyst - United States](https://jobright.ai/jobs/info/688c481d906ac06e1d1d2a1c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
 | ↳ | **[2026 Data Science Analyst Program - Summer Analyst](https://jobright.ai/jobs/info/688c486e906ac06e1d1d2a9c?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 01 |
-| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Research Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/686fc150a5ae807a59cf331d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| **[Metropolitan Transportation Authority](http://mta.info)** | **[Data Science Intern - Ridership & Congestion Pricing, Emerging Talent Intern](https://jobright.ai/jobs/info/68818502f4f06100f3a27932?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| **[Oregon State University](https://oregonstate.edu)** | **[Graduate Research Assistant](https://jobright.ai/jobs/info/688c52b93a30793eb9642208?utm_campaign=1066&utm_source=git)** | Corvallis, OR | On Site | Jul 31 |
-| **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (PhD)](https://jobright.ai/jobs/info/686434ab3b01d176faa6fe7b?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
