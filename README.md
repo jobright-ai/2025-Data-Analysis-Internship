@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intel Corporation](http://www.intel.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/689216e8f5ee707a15dc3171?utm_campaign=1066&utm_source=git)** | US, Arizona, Phoenix | On Site | Aug 05 |
 | **[Altruist](https://altruist.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68914106f47efe2113953eae?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Aug 05 |
 | ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/689141d0f47efe2113953f10?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 05 |
 | **[University of Michigan](https://www.umich.edu)** | **[Data Science Intern, temporary](https://jobright.ai/jobs/info/6891495b4c7e851b90acd742?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Aug 05 |
@@ -116,8 +117,7 @@ For a complete list, click the following sortable link below:
 | **[SignalFire](http://www.signalfire.com)** | **[Data & Research Analyst - Contractor/Internship](https://jobright.ai/jobs/info/687a99f22097a271a8980144?utm_campaign=1066&utm_source=git)** | Bay Area - Hybrid | Hybrid | Aug 02 |
 | **[ByteDance](http://bytedance.com)** | **[Multilingual Data Intern (Speech) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/685f2ce913fddba5d339d6d2?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 02 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687ec15a2097a271a89979ff?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 02 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687f171b764c3d7411c49170?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Aug 02 |
-| ↳ | **[Part-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687f1a6d2097a271a899ac49?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Aug 02 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Part-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687f1a6d2097a271a899ac49?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Aug 02 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Data Analyst Intern (Fall 2025)](https://jobright.ai/jobs/info/68632b7ea0871509d56205f7?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Aug 02 |
 | **[HEAL Security | Cyber Threat, Incidents, Risk & Situational Intelligence for Healthcare.](https://healsecurity.org/)** | **[Data Analyst (UK)](https://jobright.ai/jobs/info/68820fc889987b37105b1386?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 02 |
 | ↳ | **[Data Analyst (US)](https://jobright.ai/jobs/info/68820bccb0824207391d0ead?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 02 |
