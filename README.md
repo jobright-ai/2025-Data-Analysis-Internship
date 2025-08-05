@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Intel Corporation](http://www.intel.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/689216e8f5ee707a15dc3171?utm_campaign=1066&utm_source=git)** | US, Arizona, Phoenix | On Site | Aug 05 |
+| **[Rystad Energy](https://www.rystadenergy.com)** | **[Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68924068f47efe211395aca9?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 05 |
+| **[Penn State University](http://psu.edu)** | **[Graduate Student Research Assistant](https://jobright.ai/jobs/info/68923f6df5ee707a15dc40fa?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Aug 05 |
+| **[Day & Zimmermann](http://dayzim.com/)** | **[Power BI Co-Op](https://jobright.ai/jobs/info/6875702bae2f413e4a5a6ec0?utm_campaign=1066&utm_source=git)** | Middletown, IA | On Site | Aug 05 |
 | **[Altruist](https://altruist.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68914106f47efe2113953eae?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Aug 05 |
 | ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/689141d0f47efe2113953f10?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 05 |
 | **[University of Michigan](https://www.umich.edu)** | **[Data Science Intern, temporary](https://jobright.ai/jobs/info/6891495b4c7e851b90acd742?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Aug 05 |
@@ -114,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Analytics Rep](https://jobright.ai/jobs/info/689093abf5ee707a15db7879?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Data Science & Analytics Intern](https://jobright.ai/jobs/info/6876995f5cebcd1dd51ca5c4?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Aug 02 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Fall 2025](https://jobright.ai/jobs/info/680699b6d90e2f79f1718a69?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 02 |
-| **[SignalFire](http://www.signalfire.com)** | **[Data & Research Analyst - Contractor/Internship](https://jobright.ai/jobs/info/687a99f22097a271a8980144?utm_campaign=1066&utm_source=git)** | Bay Area - Hybrid | Hybrid | Aug 02 |
 | **[ByteDance](http://bytedance.com)** | **[Multilingual Data Intern (Speech) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/685f2ce913fddba5d339d6d2?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 02 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687ec15a2097a271a89979ff?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 02 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Part-Time Intern - Data Quality Specialist](https://jobright.ai/jobs/info/687f1a6d2097a271a899ac49?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Aug 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Focused Analytics Solutions Team (FAST) Summer Associate - Analytics Solutions](https://jobright.ai/jobs/info/688cf45627f9022553c08096?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | On Site | Aug 01 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (Summer 2026)](https://jobright.ai/jobs/info/687016c406ad7073463baf09?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 01 |
 | **[Chase](https://www.chase.com/)** | **[2026 Data Science Analyst Program - Summer Analyst](https://jobright.ai/jobs/info/688c685f3a30793eb964306c?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 01 |
-| **[Argonne National Laboratory](http://www.anl.gov/)** | **[Research Aide - HEP - Hodgson, Sophie - 7.29.25](https://jobright.ai/jobs/info/688cd4171808534a89cbee85?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
