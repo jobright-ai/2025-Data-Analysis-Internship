@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altruist](https://altruist.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/689141d0f47efe2113953f10?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 04 |
+| ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68914106f47efe2113953eae?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Aug 04 |
+| **[Solely Inc.](http://www.solely.com/)** | **[AI and Data Analytics Intern](https://jobright.ai/jobs/info/689134dd4c7e851b90acce54?utm_campaign=1066&utm_source=git)** | La Jolla Shores, CA | On Site | Aug 04 |
+| **[DestinationNova](tejasavatar.com)** | **[Anti-Human Trafficking Researcher (Unpaid)](https://jobright.ai/jobs/info/68912bf4f47efe211395365d?utm_campaign=1066&utm_source=git)** | Manhattan, NY | Remote | Aug 04 |
 | **[Exeevo](https://www.exeevo.com/)** | **[Data Scientist Intern - US](https://jobright.ai/jobs/info/68909909f47efe211394e7ca?utm_campaign=1066&utm_source=git)** | United States | On Site | Aug 04 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[Data Analyst Intern, Methane Science](https://jobright.ai/jobs/info/68912612f47efe21139531f3?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Aug 04 |
 | **[John Deere](https://www.deere.com)** | **[Part-Time Student - Data Analytics - Waterloo, IA](https://jobright.ai/jobs/info/689119984c7e851b90acc0a6?utm_campaign=1066&utm_source=git)** | Waterloo, IA | Hybrid | Aug 04 |
-| ↳ | **[Part-Time Student - Data Analytics - Waterloo, IA](https://jobright.ai/jobs/info/689111844c7e851b90acbd20?utm_campaign=1066&utm_source=git)** | Waterloo, MI | Hybrid | Aug 04 |
 | **[Talos](https://talos.com)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/6890fbcaf5ee707a15dbb1d9?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Aug 04 |
 | **[Limex](http://whotrades.com/feed)** | **[Quant Trading Challenge Intern](https://jobright.ai/jobs/info/6890e1b24c7e851b90aca541?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 04 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[Data Analyst Intern, Methane Science](https://jobright.ai/jobs/info/6890d4f8f47efe2113950bba?utm_campaign=1066&utm_source=git)** | Austin | Remote | Aug 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (Privacy and Data Protection Office)- 2025 Start (BS/MS)](https://jobright.ai/jobs/info/688c36ef1808534a89cb96d5?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
 | **[Dallas Mavericks](http://www.mavs.com)** | **[Scouting and Video Analytics Intern](https://jobright.ai/jobs/info/688d9815e5cead4afd457cd8?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jul 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/688c8a2f3a30793eb964410d?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
-| **[KeyBank](https://www.key.com)** | **[2026 Summer Analytics and Quantitative Modeling Internship - Cleveland](https://jobright.ai/jobs/info/6887eea24174df41e0fa1c47?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Jul 31 |
-| **[Health Advances](http://www.healthadvances.com)** | **[Analyst Intern (Summer 2026 Newton, MA)](https://jobright.ai/jobs/info/688d30481808534a89cc1bcb?utm_campaign=1066&utm_source=git)** | Weston, MA | Hybrid | Jul 31 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[GDIT Summer Internship Program – Summer 2026 Data Science Associate Internship](https://jobright.ai/jobs/info/688bf1801808534a89cb753e?utm_campaign=1066&utm_source=git)** | USA FL Tampa | Hybrid | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
