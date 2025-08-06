@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Ticket Analytics Intern - Fall 2025](https://jobright.ai/jobs/info/6892b262f47efe211395e524?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Aug 05 |
+| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Engineering (Data Science)](https://jobright.ai/jobs/info/6892ad8bf5ee707a15dc785b?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 05 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Ticket Analytics Intern - Fall 2025](https://jobright.ai/jobs/info/6892a4ce4c7e851b90ad73f0?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Aug 05 |
+| **[Veolia](http://www.veolia.com/en/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6892a2e84c7e851b90ad72c8?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Aug 05 |
+| **[Veolia North America](http://growingblue.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6892a23f4c7e851b90ad727f?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Aug 05 |
+| **[MARA](www.mara.com)** | **[Data Science Intern (Fall 2025)](https://jobright.ai/jobs/info/6892a0d74c7e851b90ad71f2?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 05 |
+| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Intern - Colorectal & Pelvic](https://jobright.ai/jobs/info/68929e97f5ee707a15dc7102?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 05 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Enterprise Asset Management Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/6877f4a8ae2f413e4a5be619?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/689285f1f5ee707a15dc6645?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 05 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Intern - Colorectal & Pelvic](https://jobright.ai/jobs/info/68927a3cf47efe211395cafe?utm_campaign=1066&utm_source=git)** | Main Campus, Columbus, OH | On Site | Aug 05 |
@@ -66,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[The Ohio State University](http://www.osu.edu/)** | **[Post-Doctoral Fellow](https://jobright.ai/jobs/info/689268def5ee707a15dc568c?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 05 |
 | **[Conexant](http://www.conexant.com/)** | **[Part-Time Student - Data and Analytics - Remote](https://jobright.ai/jobs/info/68925f1af47efe211395bcc0?utm_campaign=1066&utm_source=git)** | Iowa, United States | Hybrid | Aug 05 |
 | **[Gabbi](https://www.gabbi.com)** | **[Fractional Data Scientist Intern](https://jobright.ai/jobs/info/68925724f47efe211395b6eb?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 05 |
+| **[University of South Florida](http://www.usf.edu)** | **[Postdoctoral Scholar Research](https://jobright.ai/jobs/info/68925523f5ee707a15dc49fb?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Aug 05 |
 | **[Rystad Energy](https://www.rystadenergy.com)** | **[Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68924068f47efe211395aca9?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 05 |
 | **[Penn State University](http://psu.edu)** | **[Graduate Student Research Assistant](https://jobright.ai/jobs/info/68923f6df5ee707a15dc40fa?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Aug 05 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Power BI Co-Op](https://jobright.ai/jobs/info/6875702bae2f413e4a5a6ec0?utm_campaign=1066&utm_source=git)** | Middletown, IA | On Site | Aug 05 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Real Estate Research Intern (PHX)](https://jobright.ai/jobs/info/6679630df6b36b4aa01a325a?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Aug 02 |
 | **[Fred Hutch](http://www.fredhutch.org/)** | **[Post-Doctoral Research Fellow](https://jobright.ai/jobs/info/685f33a5fe1c349374a2611c?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 02 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Research Coordinator](https://jobright.ai/jobs/info/688d98b7cdbd821a3663c86e?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 01 |
-| **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Post Doctoral Fellow-MSH-12380-001](https://jobright.ai/jobs/info/68903ad7f5ee707a15db4f8a?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| **[University of Michigan](https://www.umich.edu)** | **[POST-DOCTORAL RESEARCH FELLOW](https://jobright.ai/jobs/info/688ee3996a4aac5783cdad00?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Aug 01 |
-| **[Metropolitan Transportation Authority](http://mta.info)** | **[Data Science, Emerging Talent Intern](https://jobright.ai/jobs/info/688d7863e5cead4afd455a82?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| **[Rutgers University](http://www.rutgers.edu)** | **[Post-Doctoral Fellow](https://jobright.ai/jobs/info/688d77d4e5cead4afd455a3a?utm_campaign=1066&utm_source=git)** | New Brunswick, NJ | On Site | Aug 01 |
-| **[Aquatic Capital Management](https://aquatic.com)** | **[Quantitative Researcher, Intern (Summer 2026)](https://jobright.ai/jobs/info/688d6c0527f9022553c0b599?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 01 |
-| **[Metropolitan Transportation Authority](http://mta.info)** | **[Enterprise Asset Management Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/688d65e627f9022553c0b348?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| ↳ | **[Data Analyst – (ACE), Emerging Talent Intern](https://jobright.ai/jobs/info/688d7e0ecdbd821a3663a8e3?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| **[Kent State School of Fashion](https://www.kent.edu/fashion)** | **[Postdoctoral Scholar](https://jobright.ai/jobs/info/688d77d6cdbd821a3663a520?utm_campaign=1066&utm_source=git)** | Kent, WA | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
