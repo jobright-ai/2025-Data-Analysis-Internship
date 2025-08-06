@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Transportation Authority](http://mta.info)** | **[Enterprise Asset Management Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/6877f4a8ae2f413e4a5be619?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 05 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/689285f1f5ee707a15dc6645?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 05 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Intern - Colorectal & Pelvic](https://jobright.ai/jobs/info/68927a3cf47efe211395cafe?utm_campaign=1066&utm_source=git)** | Main Campus, Columbus, OH | On Site | Aug 05 |
 | **[Flatiron School](http://flatironschool.com)** | **[Apprentice, Data Scientist](https://jobright.ai/jobs/info/68927543f5ee707a15dc5d40?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Engineering (Data Science)](https://jobright.ai/jobs/info/68926f094c7e851b90ad5bec?utm_campaign=1066&utm_source=git)** | 500 Grant Street, Pittsburgh, PA, 15258, US | Hybrid | Aug 05 |
@@ -64,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[The Ohio State University](http://www.osu.edu/)** | **[Post-Doctoral Fellow](https://jobright.ai/jobs/info/689268def5ee707a15dc568c?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 05 |
 | **[Conexant](http://www.conexant.com/)** | **[Part-Time Student - Data and Analytics - Remote](https://jobright.ai/jobs/info/68925f1af47efe211395bcc0?utm_campaign=1066&utm_source=git)** | Iowa, United States | Hybrid | Aug 05 |
 | **[Gabbi](https://www.gabbi.com)** | **[Fractional Data Scientist Intern](https://jobright.ai/jobs/info/68925724f47efe211395b6eb?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 05 |
-| **[University of South Florida](http://www.usf.edu)** | **[Postdoctoral Scholar Research](https://jobright.ai/jobs/info/68925523f5ee707a15dc49fb?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Aug 05 |
 | **[Rystad Energy](https://www.rystadenergy.com)** | **[Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68924068f47efe211395aca9?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 05 |
 | **[Penn State University](http://psu.edu)** | **[Graduate Student Research Assistant](https://jobright.ai/jobs/info/68923f6df5ee707a15dc40fa?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Aug 05 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Power BI Co-Op](https://jobright.ai/jobs/info/6875702bae2f413e4a5a6ec0?utm_campaign=1066&utm_source=git)** | Middletown, IA | On Site | Aug 05 |
@@ -81,10 +82,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Postdoctoral Fellow - Psychology](https://jobright.ai/jobs/info/6891bd95f47efe21139589c9?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Start (PhD)](https://jobright.ai/jobs/info/68917c104c7e851b90acf022?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Commercial & Investment Bank Innovation Development Summer Analyst Program](https://jobright.ai/jobs/info/67c2abb896a77960752560f8?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 04 |
-| **[John Deere](https://www.deere.com)** | **[Part-Time Student - Data and Analytics - Remote](https://jobright.ai/jobs/info/68916d2e4c7e851b90ace776?utm_campaign=1066&utm_source=git)** | Iowa, United States | Hybrid | Aug 04 |
+| **[John Deere](https://www.deere.com)** | **[Part-Time Student - Data and Analytics - Remote](https://jobright.ai/jobs/info/68916e574c7e851b90ace7d3?utm_campaign=1066&utm_source=git)** | Iowa, United States | Hybrid | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689188c1f5ee707a15dbf7f8?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
 | **[Alfa Laval](http://www.alfalaval.com)** | **[Purchasing Data Validation Intern](https://jobright.ai/jobs/info/68916464f5ee707a15dbe27d?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 04 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/68917bd64c7e851b90acefff?utm_campaign=1066&utm_source=git)** | Westport, CT | On Site | Aug 04 |
+| **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6892852bf5ee707a15dc65eb?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Aug 04 |
 | **[Solely Inc.](http://www.solely.com/)** | **[AI and Data Analytics Intern](https://jobright.ai/jobs/info/689134dd4c7e851b90acce54?utm_campaign=1066&utm_source=git)** | La Jolla Shores, CA | On Site | Aug 04 |
 | **[DestinationNova](tejasavatar.com)** | **[Anti-Human Trafficking Researcher (Unpaid)](https://jobright.ai/jobs/info/68912bf4f47efe211395365d?utm_campaign=1066&utm_source=git)** | Manhattan, NY | Remote | Aug 04 |
 | **[Exeevo](https://www.exeevo.com/)** | **[Data Scientist Intern - US](https://jobright.ai/jobs/info/68909909f47efe211394e7ca?utm_campaign=1066&utm_source=git)** | United States | On Site | Aug 04 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[Data Analyst Intern, Methane Science](https://jobright.ai/jobs/info/6890d4f8f47efe2113950bba?utm_campaign=1066&utm_source=git)** | Austin | Remote | Aug 04 |
 | ↳ | **[Data Analyst Intern, Methane Science](https://jobright.ai/jobs/info/6890d360f5ee707a15db9f85?utm_campaign=1066&utm_source=git)** | Remote - US Home | Remote | Aug 04 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York](https://jobright.ai/jobs/info/688f95fae5cead4afd460f61?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 04 |
-| ↳ | **[2025 Data for Good Hackathon (Associate) - Manhattan, New York](https://jobright.ai/jobs/info/688f992be5cead4afd460f83?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 04 |
 | **[Accenture](https://www.accenture.com)** | **[Current Accenture Summer Analysts Only - Full-Time Analyst Corporate Functions - NAELFY26](https://jobright.ai/jobs/info/6890c971f47efe21139504b5?utm_campaign=1066&utm_source=git)** | Dallas, 5205 N OConnor Las Colinas, Corp | On Site | Aug 04 |
 | ↳ | **[Current Accenture Summer Analysts Only - Full-Time Analyst Corporate Functions - NAELFY26](https://jobright.ai/jobs/info/6890c8fcf47efe211395042e?utm_campaign=1066&utm_source=git)** | Seattle, 1191 2nd Avenue, Corp | On Site | Aug 04 |
 | ↳ | **[Current Accenture Summer Analysts Only - Full-Time Analyst Corporate Functions - NAELFY26](https://jobright.ai/jobs/info/6890c8c64c7e851b90ac9904?utm_campaign=1066&utm_source=git)** | New York, One Manhattan West, Corp | On Site | Aug 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Enterprise Asset Management Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/688d65e627f9022553c0b348?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | ↳ | **[Data Analyst – (ACE), Emerging Talent Intern](https://jobright.ai/jobs/info/688d7e0ecdbd821a3663a8e3?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Kent State School of Fashion](https://www.kent.edu/fashion)** | **[Postdoctoral Scholar](https://jobright.ai/jobs/info/688d77d6cdbd821a3663a520?utm_campaign=1066&utm_source=git)** | Kent, WA | On Site | Aug 01 |
-| **[Metropolitan Transportation Authority](http://mta.info)** | **[Data Analyst – Automatic Camera Enforcement (ACE), Emerging Talent Intern](https://jobright.ai/jobs/info/688da4d26a4aac5783cd52ed?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
