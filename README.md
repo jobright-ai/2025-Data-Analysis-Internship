@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Data Science: Internship Opportunities – Redmond](https://jobright.ai/jobs/info/6892d800f47efe211395fdf6?utm_campaign=1066&utm_source=git)** | Redmond, Washington, United States | Hybrid | Aug 05 |
+| ↳ | **[Data Science: PhD Internship Opportunities – Redmond](https://jobright.ai/jobs/info/6892d7de4c7e851b90ad93ee?utm_campaign=1066&utm_source=git)** | Redmond, Washington, United States | Hybrid | Aug 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6892cbd1f5ee707a15dc875c?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 05 |
 | **[2nd Order Solutions](https://2os.com)** | **[INTERN DATA SCIENTIST](https://jobright.ai/jobs/info/6892ca5ff5ee707a15dc86c8?utm_campaign=1066&utm_source=git)** | Arlington, VA or Richmond, VA | On Site | Aug 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6892c8cf4c7e851b90ad86ea?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 05 |
@@ -69,6 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Veolia](http://www.veolia.com/en/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6892a2e84c7e851b90ad72c8?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Aug 05 |
 | **[Veolia North America](http://growingblue.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6892a23f4c7e851b90ad727f?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Aug 05 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Intern - Colorectal & Pelvic](https://jobright.ai/jobs/info/68929e97f5ee707a15dc7102?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 05 |
+| **[Fred Hutch](http://www.fredhutch.org/)** | **[Post-Doctoral Research Fellow](https://jobright.ai/jobs/info/685f33a5fe1c349374a2611c?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 05 |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Data Workflow Fall Internship - Orlando, FL](https://jobright.ai/jobs/info/6892e09bf47efe21139604ce?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Aug 05 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Enterprise Asset Management Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/6877f4a8ae2f413e4a5be619?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/689285f1f5ee707a15dc6645?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 05 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Intern - Colorectal & Pelvic](https://jobright.ai/jobs/info/68927a3cf47efe211395cafe?utm_campaign=1066&utm_source=git)** | Main Campus, Columbus, OH | On Site | Aug 05 |
@@ -80,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[University of South Florida](http://www.usf.edu)** | **[Postdoctoral Scholar Research](https://jobright.ai/jobs/info/68925523f5ee707a15dc49fb?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Aug 05 |
 | **[Rystad Energy](https://www.rystadenergy.com)** | **[Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68924068f47efe211395aca9?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 05 |
 | **[Penn State University](http://psu.edu)** | **[Graduate Student Research Assistant](https://jobright.ai/jobs/info/68923f6df5ee707a15dc40fa?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Aug 05 |
+| **[Duke University](http://www.duke.edu)** | **[POSTDOCTORAL ASSOCIATE](https://jobright.ai/jobs/info/6892e734f5ee707a15dca046?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Aug 05 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Power BI Co-Op](https://jobright.ai/jobs/info/6875702bae2f413e4a5a6ec0?utm_campaign=1066&utm_source=git)** | Middletown, IA | On Site | Aug 05 |
 | **[Altruist](https://altruist.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68914106f47efe2113953eae?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Aug 05 |
 | ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/689141d0f47efe2113953f10?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Multimodal Data Intern (PhD, Fall 2025)](https://jobright.ai/jobs/info/6881dd7f41fbda106ee6dee3?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Aug 02 |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Data and Analytic Fellow](https://jobright.ai/jobs/info/688dbfcbcdbd821a3663f014?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
 | **[Chase](https://www.chase.com/)** | **[2025 Data for Good Hackathon (Associate) - Manhattan, New York](https://jobright.ai/jobs/info/688d9567cdbd821a3663c517?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
-| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York](https://jobright.ai/jobs/info/688d63a21808534a89cc2f36?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
-| ↳ | **[2025 Data for Good Hackathon (Associate) - Manhattan, New York](https://jobright.ai/jobs/info/688d7edecdbd821a3663a95b?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
-| **[Chase](https://www.chase.com/)** | **[2026 Data & Analytics - Data Specialist - Summer Analyst - United States](https://jobright.ai/jobs/info/688c6824906ac06e1d1d400b?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 02 |
-| **[Cincinnati Children's](http://cincinnatichildrens.org)** | **[Student II - Business Intelligence](https://jobright.ai/jobs/info/688e0f4bcdbd821a3664067a?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Aug 02 |
-| **[Chase](https://www.chase.com/)** | **[2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York](https://jobright.ai/jobs/info/688d63c91808534a89cc2f79?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
