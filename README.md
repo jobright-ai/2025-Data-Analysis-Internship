@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Student Researcher - S3D - School of Computer Science](https://jobright.ai/jobs/info/6894ba778c6d6b4426773c99?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Aug 07 |
 | **[Montefiore Health System](https://www.montefiorehealthsystem.org)** | **[RESEARCH STUDENT (220284)](https://jobright.ai/jobs/info/689489468c6d6b44267724ee?utm_campaign=1066&utm_source=git)** | Bronx, NY | On Site | Aug 07 |
+| **[Mayo Clinic Healthcare](https://mayoclinichealthcare.co.uk)** | **[Bioinformatics Intern - Research (PhD degree level)](https://jobright.ai/jobs/info/6894b8e64ed2ea559ca4fc89?utm_campaign=1066&utm_source=git)** | Rochester, MN | Hybrid | Aug 07 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6826df13bda62b0c1d13c8a8?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 07 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Ticket Analytics Intern - Fall 2025](https://jobright.ai/jobs/info/68933b4aa9199876488dc7df?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Aug 07 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: Internship Opportunities – Redmond](https://jobright.ai/jobs/info/689342c1a9199876488dc9a8?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Aug 07 |
@@ -82,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2025 Data Analysis Intern- Unemployed](https://jobright.ai/jobs/info/6893b068a9199876488df50e?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Aug 06 |
 | **[University of South Florida](http://www.usf.edu)** | **[Postdoctoral Researcher](https://jobright.ai/jobs/info/6893ace34c7e851b90adf669?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Aug 06 |
 | **[MassMutual](https://www.massmutual.com/)** | **[Analyst, immerse](https://jobright.ai/jobs/info/68937a83f47efe211396468d?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Aug 06 |
+| **[Pennington Biomedical Research Center](http://www.pbrc.edu)** | **[WAE - Student Data Collector](https://jobright.ai/jobs/info/68935d124c7e851b90add2cd?utm_campaign=1066&utm_source=git)** | 0063 William B. Hatcher Hall | On Site | Aug 06 |
 | **[Sword Health](http://www.swordhealth.com)** | **[Data Science Trainee](https://jobright.ai/jobs/info/685ed18e009810f6f5233433?utm_campaign=1066&utm_source=git)** | Remote (PT) | Remote | Aug 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science intern (TikTok-Product-Data Science-Interaction-US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/688f01e26a4aac5783cdc3a3?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
 | **[onsemi](http://www.onsemi.com)** | **[Data Analytics and Business Systems Fall Intern 2025](https://jobright.ai/jobs/info/686c2e9535584b65422ece7e?utm_campaign=1066&utm_source=git)** | 5701 N Pima Road, Scottsdale, AZ, 85250, US | On Site | Aug 06 |
@@ -116,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[University of South Florida](http://www.usf.edu)** | **[Postdoctoral Scholar Research](https://jobright.ai/jobs/info/68925523f5ee707a15dc49fb?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Aug 05 |
 | **[Rystad Energy](https://www.rystadenergy.com)** | **[Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68924068f47efe211395aca9?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 05 |
 | **[Penn State University](http://psu.edu)** | **[Graduate Student Research Assistant](https://jobright.ai/jobs/info/68923f6df5ee707a15dc40fa?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Aug 05 |
-| **[Duke University](http://www.duke.edu)** | **[POSTDOCTORAL ASSOCIATE](https://jobright.ai/jobs/info/6892e734f5ee707a15dca046?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Aug 05 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Power BI Co-Op](https://jobright.ai/jobs/info/6875702bae2f413e4a5a6ec0?utm_campaign=1066&utm_source=git)** | Middletown, IA | On Site | Aug 05 |
 | **[Altruist](https://altruist.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68914106f47efe2113953eae?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Aug 05 |
 | ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/689141d0f47efe2113953f10?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Current Accenture Summer Analysts Only - Full Time Global Data & AI Analyst – NAELFY26](https://jobright.ai/jobs/info/6890c86ef5ee707a15db99da?utm_campaign=1066&utm_source=git)** | Mountain View, 650 Castro, Corp | On Site | Aug 04 |
 | ↳ | **[Current Accenture Summer Analysts Only - Global Data & AI Summer Analyst – NAELFY26](https://jobright.ai/jobs/info/6890c86d4c7e851b90ac9895?utm_campaign=1066&utm_source=git)** | Mountain View, 650 Castro, Corp | On Site | Aug 04 |
 | ↳ | **[Current Accenture Summer Analysts Only - Full-Time Analyst Corporate Functions - NAELFY26](https://jobright.ai/jobs/info/6890c82df5ee707a15db998b?utm_campaign=1066&utm_source=git)** | Chicago, Accenture Tower, Corp | On Site | Aug 04 |
-| ↳ | **[Current Accenture Summer Analysts Only - Full-Time Analyst Corporate Functions - NAELFY26](https://jobright.ai/jobs/info/6890c8044c7e851b90ac9819?utm_campaign=1066&utm_source=git)** | Atlanta, 75 Fifth, Corp | On Site | Aug 04 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Post Doctoral Scholar](https://jobright.ai/jobs/info/6891a225f47efe2113957c8a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
