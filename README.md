@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH FELLOW](https://jobright.ai/jobs/info/6893eb2e4c7e851b90ae1507?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Aug 06 |
+| **[City of Seattle](http://www.seattle.gov/)** | **[College Internship - Data Scientist Intern](https://jobright.ai/jobs/info/6893e5f4f47efe2113967b49?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Aug 06 |
+| **[Labelbox](https://labelbox.com)** | **[Applied Research Intern](https://jobright.ai/jobs/info/6893dc9ff47efe2113967857?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Aug 06 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Bioinformatics Intern - Research (PhD degree level)](https://jobright.ai/jobs/info/6893dbcc4c7e851b90ae0e2a?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Hybrid | Aug 06 |
 | **[Simatree](https://www.simatree1.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6893ce384c7e851b90ae08f7?utm_campaign=1066&utm_source=git)** | Arlington, VA | Hybrid | Aug 06 |
 | **[Jump Trading Group](http://www.jumptrading.com/)** | **[Campus Quantitative Trader (Intern)](https://jobright.ai/jobs/info/6893c773f47efe2113966ec2?utm_campaign=1066&utm_source=git)** | New York | On Site | Aug 06 |
 | ↳ | **[Campus Quantitative Researcher (Intern)](https://jobright.ai/jobs/info/6893c14d4c7e851b90ae02b0?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Aug 06 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2025 Data Analysis Intern- Unemployed](https://jobright.ai/jobs/info/6893b068a9199876488df50e?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Aug 06 |
 | **[University of South Florida](http://www.usf.edu)** | **[Postdoctoral Researcher](https://jobright.ai/jobs/info/6893ace34c7e851b90adf669?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Aug 06 |
-| **[Limex](http://whotrades.com/feed)** | **[Quant Trading Challenge Intern](https://jobright.ai/jobs/info/68939c2ea9199876488de925?utm_campaign=1066&utm_source=git)** | New York, United States | Remote | Aug 06 |
 | **[MassMutual](https://www.massmutual.com/)** | **[Analyst, immerse](https://jobright.ai/jobs/info/68937a83f47efe211396468d?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Aug 06 |
 | **[Pennington Biomedical Research Center](http://www.pbrc.edu)** | **[WAE - Student Data Collector](https://jobright.ai/jobs/info/68935d124c7e851b90add2cd?utm_campaign=1066&utm_source=git)** | 0063 William B. Hatcher Hall | On Site | Aug 06 |
 | **[Sword Health](http://www.swordhealth.com)** | **[Data Science Trainee](https://jobright.ai/jobs/info/685ed18e009810f6f5233433?utm_campaign=1066&utm_source=git)** | Remote (PT) | Remote | Aug 06 |
@@ -91,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Flatiron School](http://flatironschool.com)** | **[Apprentice, Data Scientist](https://jobright.ai/jobs/info/68926b54f47efe211395c2ee?utm_campaign=1066&utm_source=git)** | Hybrid (New York, New York, US) | Hybrid | Aug 05 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Research Intern](https://jobright.ai/jobs/info/6892b7ad4c7e851b90ad7c8a?utm_campaign=1066&utm_source=git)** | Eugene, OR | On Site | Aug 05 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Ticket Analytics Intern - Fall 2025](https://jobright.ai/jobs/info/6892a4ce4c7e851b90ad73f0?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Aug 05 |
-| **[Veolia](http://www.veolia.com/en/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6892a2e84c7e851b90ad72c8?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Aug 05 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Intern - Colorectal & Pelvic](https://jobright.ai/jobs/info/68929e97f5ee707a15dc7102?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 05 |
 | **[Fred Hutch](http://www.fredhutch.org/)** | **[Post-Doctoral Research Fellow](https://jobright.ai/jobs/info/685f33a5fe1c349374a2611c?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 05 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Data Workflow Fall Internship - Orlando, FL](https://jobright.ai/jobs/info/6892e09bf47efe21139604ce?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Aug 05 |
@@ -101,8 +103,10 @@ For a complete list, click the following sortable link below:
 | **[The Ohio State University](http://www.osu.edu/)** | **[Post-Doctoral Fellow](https://jobright.ai/jobs/info/689268def5ee707a15dc568c?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 05 |
 | **[Conexant](http://www.conexant.com/)** | **[Part-Time Student - Data and Analytics - Remote](https://jobright.ai/jobs/info/68925f1af47efe211395bcc0?utm_campaign=1066&utm_source=git)** | Iowa, United States | Hybrid | Aug 05 |
 | **[Gabbi](https://www.gabbi.com)** | **[Fractional Data Scientist Intern](https://jobright.ai/jobs/info/68925724f47efe211395b6eb?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 05 |
+| **[University of South Florida](http://www.usf.edu)** | **[Postdoctoral Scholar Research](https://jobright.ai/jobs/info/68925523f5ee707a15dc49fb?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Aug 05 |
 | **[Rystad Energy](https://www.rystadenergy.com)** | **[Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68924068f47efe211395aca9?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 05 |
 | **[Penn State University](http://psu.edu)** | **[Graduate Student Research Assistant](https://jobright.ai/jobs/info/68923f6df5ee707a15dc40fa?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Aug 05 |
+| **[Duke University](http://www.duke.edu)** | **[POSTDOCTORAL ASSOCIATE](https://jobright.ai/jobs/info/6892e734f5ee707a15dca046?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Aug 05 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Power BI Co-Op](https://jobright.ai/jobs/info/6875702bae2f413e4a5a6ec0?utm_campaign=1066&utm_source=git)** | Middletown, IA | On Site | Aug 05 |
 | **[Altruist](https://altruist.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68914106f47efe2113953eae?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Aug 05 |
 | ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/689141d0f47efe2113953f10?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/681d8f38ba8010ef641ba992?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Aug 03 |
 | ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/681da5c8df7c7209071aed12?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Aug 03 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern (On Site) Per Diem, Castellon-Lopez Lab](https://jobright.ai/jobs/info/688f15526a4aac5783cdce9d?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Aug 03 |
-| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Data Science Analyst Program - Summer Analyst](https://jobright.ai/jobs/info/688e45d9cdbd821a36641120?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Intelligence (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6880d83829ad6b2744adc803?utm_campaign=1066&utm_source=git)** | Washington, DC 20004 | On Site | Aug 02 |
-| **[Total Quality Logistics](http://www.tql.com/)** | **[Data Science & Analytics Intern](https://jobright.ai/jobs/info/6876995f5cebcd1dd51ca5c4?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Aug 02 |
-| **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Fall 2025](https://jobright.ai/jobs/info/680699b6d90e2f79f1718a69?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
