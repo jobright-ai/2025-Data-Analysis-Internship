@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Bioinformatics Intern - Research (PhD degree level)](https://jobright.ai/jobs/info/689440e1a9199876488e3fc7?utm_campaign=1066&utm_source=git)** | Rochester, MN | Hybrid | Aug 06 |
 | **[Jump Trading Group](http://www.jumptrading.com/)** | **[Campus Quantitative Researcher (Intern)](https://jobright.ai/jobs/info/6893c14d4c7e851b90ae02b0?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Aug 06 |
-| **[Karh](http://karh.energy)** | **[Data Science Internship](https://jobright.ai/jobs/info/68942d79f47efe211396a213?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Aug 06 |
 | **[Silvus Technologies](http://silvustechnologies.com)** | **[Intern – Data Scientist](https://jobright.ai/jobs/info/68941320f47efe21139691f5?utm_campaign=1066&utm_source=git)** | Los Angeles | On Site | Aug 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68940762a9199876488e1f85?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 06 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Advanced Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/689406daf47efe2113968cf6?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Aug 06 |
@@ -78,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2025 Data Analysis Intern- Unemployed](https://jobright.ai/jobs/info/6893b068a9199876488df50e?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Aug 06 |
 | **[University of South Florida](http://www.usf.edu)** | **[Postdoctoral Researcher](https://jobright.ai/jobs/info/6893ace34c7e851b90adf669?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Aug 06 |
 | **[MassMutual](https://www.massmutual.com/)** | **[Analyst, immerse](https://jobright.ai/jobs/info/68937a83f47efe211396468d?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Aug 06 |
+| **[Pennington Biomedical Research Center](http://www.pbrc.edu)** | **[WAE - Student Data Collector](https://jobright.ai/jobs/info/68935d124c7e851b90add2cd?utm_campaign=1066&utm_source=git)** | 0063 William B. Hatcher Hall | On Site | Aug 06 |
 | **[Sword Health](http://www.swordhealth.com)** | **[Data Science Trainee](https://jobright.ai/jobs/info/685ed18e009810f6f5233433?utm_campaign=1066&utm_source=git)** | Remote (PT) | Remote | Aug 06 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities – Redmond](https://jobright.ai/jobs/info/6893453a4c7e851b90adccc2?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Aug 06 |
 | ↳ | **[Data Science: Internship Opportunities – Redmond](https://jobright.ai/jobs/info/689342c1a9199876488dc9a8?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Aug 06 |
@@ -96,11 +97,11 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok-Product-Data Science-Interaction-US) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/688f01e26a4aac5783cdc3a3?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
 | **[Flatiron School](http://flatironschool.com)** | **[Apprentice, Data Scientist](https://jobright.ai/jobs/info/68927543f5ee707a15dc5d40?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 06 |
 | **[2nd Order Solutions](https://2os.com)** | **[INTERN DATA SCIENTIST](https://jobright.ai/jobs/info/6892ca5ff5ee707a15dc86c8?utm_campaign=1066&utm_source=git)** | Arlington, VA or Richmond, VA | On Site | Aug 06 |
-| **[MARA](www.mara.com)** | **[Data Science Intern (Fall 2025)](https://jobright.ai/jobs/info/6892d8ff4c7e851b90ad94d4?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Resolution Economics](http://resecon.com)** | **[Research Assistant - Intern](https://jobright.ai/jobs/info/6892f01cf47efe21139611a0?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Aug 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6892cbd1f5ee707a15dc875c?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 05 |
 | ↳ | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6892c8cf4c7e851b90ad86ea?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 05 |
 | **[Flatiron School](http://flatironschool.com)** | **[Apprentice, Data Scientist](https://jobright.ai/jobs/info/68926b54f47efe211395c2ee?utm_campaign=1066&utm_source=git)** | Hybrid (New York, New York, US) | Hybrid | Aug 05 |
+| **[MARA](www.mara.com)** | **[Data Science Intern (Fall 2025)](https://jobright.ai/jobs/info/6892a0d74c7e851b90ad71f2?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 05 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Ticket Analytics Intern - Fall 2025](https://jobright.ai/jobs/info/6892a4ce4c7e851b90ad73f0?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Aug 05 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Intern - Colorectal & Pelvic](https://jobright.ai/jobs/info/68929e97f5ee707a15dc7102?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 05 |
 | **[Fred Hutch](http://www.fredhutch.org/)** | **[Post-Doctoral Research Fellow](https://jobright.ai/jobs/info/685f33a5fe1c349374a2611c?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 05 |
@@ -110,9 +111,9 @@ For a complete list, click the following sortable link below:
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Intern - Colorectal & Pelvic](https://jobright.ai/jobs/info/68927a3cf47efe211395cafe?utm_campaign=1066&utm_source=git)** | Main Campus, Columbus, OH | On Site | Aug 05 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Post-Doctoral Fellow](https://jobright.ai/jobs/info/689268def5ee707a15dc568c?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 05 |
 | **[Gabbi](https://www.gabbi.com)** | **[Fractional Data Scientist Intern](https://jobright.ai/jobs/info/68925724f47efe211395b6eb?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 05 |
+| **[University of South Florida](http://www.usf.edu)** | **[Postdoctoral Scholar Research](https://jobright.ai/jobs/info/68925523f5ee707a15dc49fb?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Aug 05 |
 | **[Rystad Energy](https://www.rystadenergy.com)** | **[Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68924068f47efe211395aca9?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 05 |
 | **[Penn State University](http://psu.edu)** | **[Graduate Student Research Assistant](https://jobright.ai/jobs/info/68923f6df5ee707a15dc40fa?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Aug 05 |
-| **[Duke University](http://www.duke.edu)** | **[POSTDOCTORAL ASSOCIATE](https://jobright.ai/jobs/info/6892e734f5ee707a15dca046?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Aug 05 |
 | **[Day & Zimmermann](http://dayzim.com/)** | **[Power BI Co-Op](https://jobright.ai/jobs/info/6875702bae2f413e4a5a6ec0?utm_campaign=1066&utm_source=git)** | Middletown, IA | On Site | Aug 05 |
 | **[Altruist](https://altruist.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68914106f47efe2113953eae?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Aug 05 |
 | ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/689141d0f47efe2113953f10?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 05 |
@@ -129,9 +130,10 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Start (PhD)](https://jobright.ai/jobs/info/68917c104c7e851b90acf022?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Commercial & Investment Bank Innovation Development Summer Analyst Program](https://jobright.ai/jobs/info/67c2abb896a77960752560f8?utm_campaign=1066&utm_source=git)** | Chicago, IL, United States | On Site | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (TikTok Shop Governance and Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6893792fa9199876488dda08?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 04 |
+| **[John Deere](https://www.deere.com)** | **[Part-Time Student - Data and Analytics - Remote](https://jobright.ai/jobs/info/68916e574c7e851b90ace7d3?utm_campaign=1066&utm_source=git)** | Iowa, United States | Hybrid | Aug 04 |
 | **[Conexant](http://www.conexant.com/)** | **[Part-Time Student - Data Analytics - Waterloo, IA](https://jobright.ai/jobs/info/68941be2f47efe21139697d4?utm_campaign=1066&utm_source=git)** | Waterloo, IA | Hybrid | Aug 04 |
-| **[John Deere](https://www.deere.com)** | **[Part-Time Student - Data and Analytics - Remote](https://jobright.ai/jobs/info/68916d2e4c7e851b90ace776?utm_campaign=1066&utm_source=git)** | Iowa, United States | Hybrid | Aug 04 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689188c1f5ee707a15dbf7f8?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (TikTok Shop Governance and Experience) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68917f64f5ee707a15dbf1b8?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 04 |
+| ↳ | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689188c1f5ee707a15dbf7f8?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
 | **[Alfa Laval](http://www.alfalaval.com)** | **[Purchasing Data Validation Intern](https://jobright.ai/jobs/info/68916464f5ee707a15dbe27d?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 04 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/68917bd64c7e851b90acefff?utm_campaign=1066&utm_source=git)** | Westport, CT | On Site | Aug 04 |
 | **[Solely Inc.](http://www.solely.com/)** | **[AI and Data Analytics Intern](https://jobright.ai/jobs/info/689134dd4c7e851b90acce54?utm_campaign=1066&utm_source=git)** | La Jolla Shores, CA | On Site | Aug 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Post Doctoral Scholar](https://jobright.ai/jobs/info/6891a225f47efe2113957c8a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 04 |
 | **[Sanofi](https://www.sanofi.com)** | **[Winter/Spring 2026 Co-op/Intern - mRNA Data & Computational Science](https://jobright.ai/jobs/info/6856fb92eefc42780236ac7f?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Aug 04 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Research Assistant](https://jobright.ai/jobs/info/689077314c7e851b90ac6a70?utm_campaign=1066&utm_source=git)** | University Park, PA | On Site | Aug 04 |
-| **[Joinrs](http://www.tutored.me)** | **[Junior Data Scientist & AI](https://jobright.ai/jobs/info/68906788f5ee707a15db6a8f?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 04 |
-| **[Maricopa Association of Governments (MAG)](https://azmag.gov/)** | **[Socioeconomic Data Intern](https://jobright.ai/jobs/info/689302a8f5ee707a15dcb8e4?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
