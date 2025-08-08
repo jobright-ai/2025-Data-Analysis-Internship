@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Worldwide Distribution Analytics, Intern, MPG - Distribution – Fall 2025](https://jobright.ai/jobs/info/6896381b8c6d6b442677fc0d?utm_campaign=1066&utm_source=git)** | Culver City, CA | On Site | Aug 08 |
+| **[Great Southern Wood Preserving](https://www.yellawood.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/6896329c8c6d6b442677f8b2?utm_campaign=1066&utm_source=git)** | Abbeville, AL | On Site | Aug 08 |
+| **[Cable East Inc.](https://cable-east.com)** | **[Intern - Fleet Data & Systems](https://jobright.ai/jobs/info/68962cff8c6d6b442677f731?utm_campaign=1066&utm_source=git)** | Statham, GA | On Site | Aug 08 |
 | **[DePaul University](http://www.depaul.edu)** | **[Post Doctoral Researcher – NSF SCHOLAR](https://jobright.ai/jobs/info/689617b673b3a600fe88c9ca?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 08 |
+| **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6878882fae2f413e4a5c3b21?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Aug 08 |
 | **[NPower](http://www.npower.org/)** | **[Data Analyst Trainee](https://jobright.ai/jobs/info/6895de028c6d6b442677d6c0?utm_campaign=1066&utm_source=git)** | Detroit Metro | Hybrid | Aug 08 |
 | **[Honeywell UOP Training](https://uoptraining.secure.force.com/UOPTrainingHomePage)** | **[Software/Data Analyst Engineering Intern](https://jobright.ai/jobs/info/6895d25a73b3a600fe88b06a?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (Product Analytics, USDS) - 2025 Start (BS, MS)](https://jobright.ai/jobs/info/688ee33fcdbd821a36643011?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Aug 08 |
@@ -85,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[CAES](https://cobhamaes.com/)** | **[Software/Data Analyst Engineering Intern](https://jobright.ai/jobs/info/6895054e8c6d6b4426776a9f?utm_campaign=1066&utm_source=git)** | San Jose, California | On Site | Aug 07 |
 | **[Boise Cascade Company](http://www.bc.com/index.html)** | **[Data Analyst Intern- On-Site in Boise, Idaho](https://jobright.ai/jobs/info/6894fedc4ed2ea559ca5275e?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Aug 07 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Strategic Data Analytics Intern](https://jobright.ai/jobs/info/6894fcec8c6d6b4426776362?utm_campaign=1066&utm_source=git)** | Strongsville, OH | On Site | Aug 07 |
-| **[CDM Smith](https://www.cdmsmith.com)** | **[Masters - GIS Specialist Intern](https://jobright.ai/jobs/info/6894fc9373b3a600fe883f4e?utm_campaign=1066&utm_source=git)** | New York - New York City | Hybrid | Aug 07 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Trader (Quantitative Trader) Internship – Summer 2026](https://jobright.ai/jobs/info/6894fa804ed2ea559ca5227c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
 | ↳ | **[Algorithm Development (Quant Research) PhD Internship – Summer 2026](https://jobright.ai/jobs/info/6894f24d73b3a600fe88392d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6894ed9e4ed2ea559ca51c26?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Aug 07 |
@@ -123,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2025 Data Analysis Intern- Unemployed](https://jobright.ai/jobs/info/6893b068a9199876488df50e?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Aug 06 |
 | **[University of South Florida](http://www.usf.edu)** | **[Postdoctoral Researcher](https://jobright.ai/jobs/info/6893ace34c7e851b90adf669?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Aug 06 |
 | **[MassMutual](https://www.massmutual.com/)** | **[Analyst, immerse](https://jobright.ai/jobs/info/68937a83f47efe211396468d?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Aug 06 |
-| **[Pennington Biomedical Research Center](http://www.pbrc.edu)** | **[WAE - Student Data Collector](https://jobright.ai/jobs/info/68935d124c7e851b90add2cd?utm_campaign=1066&utm_source=git)** | 0063 William B. Hatcher Hall | On Site | Aug 06 |
 | **[Sword Health](http://www.swordhealth.com)** | **[Data Science Trainee](https://jobright.ai/jobs/info/685ed18e009810f6f5233433?utm_campaign=1066&utm_source=git)** | Remote (PT) | Remote | Aug 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science intern (TikTok-Product-Data Science-Interaction-US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/688f01e26a4aac5783cdc3a3?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 06 |
 | **[onsemi](http://www.onsemi.com)** | **[Data Analytics and Business Systems Fall Intern 2025](https://jobright.ai/jobs/info/686c2e9535584b65422ece7e?utm_campaign=1066&utm_source=git)** | 5701 N Pima Road, Scottsdale, AZ, 85250, US | On Site | Aug 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Data Workflow Fall Internship - Orlando, FL](https://jobright.ai/jobs/info/6892e09bf47efe21139604ce?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Aug 05 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Enterprise Asset Management Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/6877f4a8ae2f413e4a5be619?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/689285f1f5ee707a15dc6645?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 05 |
-| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Research Intern - Colorectal & Pelvic](https://jobright.ai/jobs/info/68927a3cf47efe211395cafe?utm_campaign=1066&utm_source=git)** | Main Campus, Columbus, OH | On Site | Aug 05 |
-| **[Gabbi](https://www.gabbi.com)** | **[Fractional Data Scientist Intern](https://jobright.ai/jobs/info/68925724f47efe211395b6eb?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
