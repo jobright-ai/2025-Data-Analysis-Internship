@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern - Optimization (Spring 2026)](https://jobright.ai/jobs/info/687babf32097a271a8986754?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Aug 10 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Data Analyst](https://jobright.ai/jobs/info/6898742e83d13d1f5b690449?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/68986e4583d13d1f5b690414?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 10 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Enterprise Asset Management Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/6897d5b473b3a600fe89ffa1?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 09 |
@@ -108,12 +109,11 @@ For a complete list, click the following sortable link below:
 | **[Integrity Risk International](http://www.integrityriskintl.com/)** | **[Fall Internships](https://jobright.ai/jobs/info/68954aff8c6d6b4426778a9e?utm_campaign=1066&utm_source=git)** | Reston, Virginia, United States | Hybrid | Aug 07 |
 | **[Sacramento Kings](http://www.Kings.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68954ad573b3a600fe886547?utm_campaign=1066&utm_source=git)** | Sacramento Office | On Site | Aug 07 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[Information Governance Intern](https://jobright.ai/jobs/info/689548508c6d6b44267788ae?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Aug 07 |
-| **[Metropolitan Transportation Authority](http://mta.info)** | **[Data Science - Ridership & Congestion Pricing, Emerging Talent Intern](https://jobright.ai/jobs/info/6895443073b3a600fe886216?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 07 |
+| **[Metropolitan Transportation Authority](http://mta.info)** | **[Data Analyst – (ACE), Emerging Talent Intern](https://jobright.ai/jobs/info/689545674ed2ea559ca548e0?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 07 |
+| ↳ | **[Data Science - Ridership & Congestion Pricing, Emerging Talent Intern](https://jobright.ai/jobs/info/6895443073b3a600fe886216?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Masters - GIS Specialist Intern](https://jobright.ai/jobs/info/689542f74ed2ea559ca54783?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 07 |
-| **[Metropolitan Transportation Authority](http://mta.info)** | **[Data Analyst – (ACE), Emerging Talent Intern](https://jobright.ai/jobs/info/689540e573b3a600fe88609f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Quantitative Research Intern, Summer 2026](https://jobright.ai/jobs/info/687557c5ae2f413e4a5a601d?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 07 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[Information Governance Intern](https://jobright.ai/jobs/info/6895382f73b3a600fe885ce0?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Aug 07 |
-| **[The Hartford](https://www.hartfordlife.com)** | **[Fall Intern, Data Science](https://jobright.ai/jobs/info/689534ed73b3a600fe885b79?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Aug 07 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Trader (Quantitative Trader) Internship – Summer 2026](https://jobright.ai/jobs/info/689534518c6d6b4426778095?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Data Science, Emerging Talent Intern](https://jobright.ai/jobs/info/6895749e8c6d6b4426779efd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Digital Lab Intern - Data Science](https://jobright.ai/jobs/info/68951c154ed2ea559ca53903?utm_campaign=1066&utm_source=git)** | DigitaLab University of Illinois | Hybrid | Aug 07 |
@@ -125,6 +125,7 @@ For a complete list, click the following sortable link below:
 | **[CoorsTek, Inc.](https://www.coorstek.com)** | **[Power BI Business Intelligence Intern](https://jobright.ai/jobs/info/6894ff1e4ed2ea559ca5278a?utm_campaign=1066&utm_source=git)** | Golden, CO | On Site | Aug 07 |
 | **[Boise Cascade Company](http://www.bc.com/index.html)** | **[Data Analyst Intern- On-Site in Boise, Idaho](https://jobright.ai/jobs/info/6894fedc4ed2ea559ca5275e?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Aug 07 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Strategic Data Analytics Intern](https://jobright.ai/jobs/info/6894fcec8c6d6b4426776362?utm_campaign=1066&utm_source=git)** | Strongsville, OH | On Site | Aug 07 |
+| **[The Hartford](https://www.hartfordlife.com)** | **[Fall Intern, Data Science](https://jobright.ai/jobs/info/6894fca04ed2ea559ca524b3?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Aug 07 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Masters - GIS Specialist Intern](https://jobright.ai/jobs/info/6894fc9373b3a600fe883f4e?utm_campaign=1066&utm_source=git)** | New York - New York City | Hybrid | Aug 07 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Trader (Quantitative Trader) Internship – Summer 2026](https://jobright.ai/jobs/info/6894fa804ed2ea559ca5227c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
 | ↳ | **[Algorithm Development (Quant Research) PhD Internship – Summer 2026](https://jobright.ai/jobs/info/6894f24d73b3a600fe88392d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[RESEARCH FELLOW](https://jobright.ai/jobs/info/6893eb2e4c7e851b90ae1507?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Aug 06 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[College Internship - Data Scientist Intern](https://jobright.ai/jobs/info/6893e5f4f47efe2113967b49?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Aug 06 |
 | **[Labelbox](https://labelbox.com)** | **[Applied Research Intern](https://jobright.ai/jobs/info/6893dc9ff47efe2113967857?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Aug 06 |
-| **[Jump Trading Group](http://www.jumptrading.com/)** | **[Campus Quantitative Trader (Intern)](https://jobright.ai/jobs/info/6893c773f47efe2113966ec2?utm_campaign=1066&utm_source=git)** | New York | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
