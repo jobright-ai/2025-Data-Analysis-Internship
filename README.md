@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Analyst Intern / Basketball Operations](https://jobright.ai/jobs/info/689a737583d13d1f5b698f87?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | Remote | Aug 11 |
+| **[Flow](https://flowai.tech)** | **[Senior Full-Stack Data Scientist Intern (August 2025 Start)](https://jobright.ai/jobs/info/689a65dbfaa4e875e82587b1?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Medpace](http://www.medpace.com)** | **[Informatics Internship/Co-Op Summer 2026](https://jobright.ai/jobs/info/689a4e6483d13d1f5b697f88?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 11 |
 | **[Oracle](https://www.oracle.com/)** | **[Undergrad Data Scientist - Full-time Intern Conversion](https://jobright.ai/jobs/info/689a4bc85574fd6bc0c81994?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Medpace](http://www.medpace.com)** | **[Informatics Internship/Co-Op Spring 2026](https://jobright.ai/jobs/info/689a4a6f5574fd6bc0c81812?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 11 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68950a0873b3a600fe884916?utm_campaign=1066&utm_source=git)** | Strongsville, OH | On Site | Aug 07 |
 | **[Boise Cascade Company](http://www.bc.com/index.html)** | **[Data Analyst Intern- On-Site in Boise, Idaho](https://jobright.ai/jobs/info/6894fedc4ed2ea559ca5275e?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Aug 07 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Strategic Data Analytics Intern](https://jobright.ai/jobs/info/6894fcec8c6d6b4426776362?utm_campaign=1066&utm_source=git)** | Strongsville, OH | On Site | Aug 07 |
-| **[CDM Smith](https://www.cdmsmith.com)** | **[Masters - GIS Specialist Intern](https://jobright.ai/jobs/info/6894fc9373b3a600fe883f4e?utm_campaign=1066&utm_source=git)** | New York - New York City | Hybrid | Aug 07 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Trader (Quantitative Trader) Internship – Summer 2026](https://jobright.ai/jobs/info/6894fa804ed2ea559ca5227c?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
 | ↳ | **[Algorithm Development (Quant Research) PhD Internship – Summer 2026](https://jobright.ai/jobs/info/6894f24d73b3a600fe88392d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6894ed9e4ed2ea559ca51c26?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Aug 07 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Developer (Quant Researcher) – 2026 Grads](https://jobright.ai/jobs/info/6894ebfe73b3a600fe88358d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | ↳ | **[Algorithm Development (Quant Research) PhD Internship – Summer 2026](https://jobright.ai/jobs/info/6894df7273b3a600fe882ed9?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[RMV Crash Data Analytics Co-op Fall 2025](https://jobright.ai/jobs/info/6894ddd373b3a600fe882d4b?utm_campaign=1066&utm_source=git)** | United States-Massachusetts-200 Newport Ave Ext Quincy | On Site | Aug 07 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[RMV Crash Data Analytics Co-op Fall 2025](https://jobright.ai/jobs/info/6894d8564ed2ea559ca50ee1?utm_campaign=1066&utm_source=git)** | United States-Massachusetts-200 Newport Ave Ext Quincy | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
