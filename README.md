@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Data Analyst
+Job ID : 261686](https://jobright.ai/jobs/info/689afe6cfaa4e875e825e83d?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 12 |
 | **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689ae31083d13d1f5b69d924?utm_campaign=1066&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689ae1bc83d13d1f5b69d788?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
 | ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689adfcd83d13d1f5b69d54b?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Aug 11 |
@@ -82,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/689a967e83d13d1f5b69a18e?utm_campaign=1066&utm_source=git)** | Dublin, GA | On Site | Aug 11 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[***Data Services Analyst Co-Op - Spring 2026- Indefinite Work Authorization Required](https://jobright.ai/jobs/info/689a9028faa4e875e8259b23?utm_campaign=1066&utm_source=git)** | New Bremen, OH | On Site | Aug 11 |
 | **[MAPFRE](https://www.mapfre.com)** | **[Intern Direct Business](https://jobright.ai/jobs/info/689a87d383d13d1f5b699991?utm_campaign=1066&utm_source=git)** | Webster, MA | On Site | Aug 11 |
+| **[Great Southern Wood Preserving](https://www.yellawood.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/689764e08c6d6b442678adff?utm_campaign=1066&utm_source=git)** | Abbeville, AL | On Site | Aug 11 |
 | **[Matter + Energy](www.matternenergy.com)** | **[Project Assistant - Data and AI](https://jobright.ai/jobs/info/689abf66faa4e875e825be11?utm_campaign=1066&utm_source=git)** | Virginia, United States | On Site | Aug 11 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Analyst Intern / Basketball Operations](https://jobright.ai/jobs/info/689a737583d13d1f5b698f87?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | Remote | Aug 11 |
 | **[Flow](https://flowai.tech)** | **[Senior Full-Stack Data Scientist Intern (August 2025 Start)](https://jobright.ai/jobs/info/689a65dbfaa4e875e82587b1?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 11 |
@@ -154,8 +157,6 @@ Job ID : 261968](https://jobright.ai/jobs/info/689ab7dc83d13d1f5b69bae7?utm_camp
 | **[CVS Health](https://www.cvshealth.com/)** | **[Analytics & Behavior Change – Data Science FT Position (Graduate - Current Interns Only)](https://jobright.ai/jobs/info/68971dce73b3a600fe892710?utm_campaign=1066&utm_source=git)** | NY - New York | Hybrid | Aug 08 |
 | ↳ | **[Analytics & Behavior Change – Data Science FT Position (Undergraduate - Current Interns Only)](https://jobright.ai/jobs/info/68978acb8c6d6b442678d765?utm_campaign=1066&utm_source=git)** | NY - New York | Hybrid | Aug 08 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, IT - Operations Research and Data Science - ATL (Summer 2026)](https://jobright.ai/jobs/info/6898387e5574fd6bc0c75d62?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Aug 08 |
-| **[Great Southern Wood Preserving](https://www.yellawood.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/689764e08c6d6b442678adff?utm_campaign=1066&utm_source=git)** | Abbeville, AL | On Site | Aug 08 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Worldwide Distribution Analytics, Intern, MPG - Distribution – Fall 2025](https://jobright.ai/jobs/info/68973aac8c6d6b442678789c?utm_campaign=1066&utm_source=git)** | Culver City, CA | On Site | Aug 08 |
 | **[DePaul University](http://www.depaul.edu)** | **[Post Doctoral Researcher – NSF SCHOLAR](https://jobright.ai/jobs/info/68971aaf73b3a600fe891fe3?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 08 |
-| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2026](https://jobright.ai/jobs/info/67e3c9fe66371eacaaca30a8?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
