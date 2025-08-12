@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Intel Corporation](http://www.intel.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/689a99485574fd6bc0c83fbb?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Aug 11 |
+| **[International Rescue Committee](http://www.rescue.org/)** | **[Fall 2025 Data Analysis Intern- Unpaid](https://jobright.ai/jobs/info/689a9e2a5574fd6bc0c84230?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Aug 11 |
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Data Scientist Intern - Digital and Technology Partners - Hybrid](https://jobright.ai/jobs/info/689a986bfaa4e875e825a018?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
 | **[Tobin Scientific](https://www.tobinscientific.com)** | **[Data & Inventory Management Specialist (Co-op/Intern)](https://jobright.ai/jobs/info/689a96ebfaa4e875e8259e96?utm_campaign=1066&utm_source=git)** | Peabody, MA | On Site | Aug 11 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/689a967e83d13d1f5b69a18e?utm_campaign=1066&utm_source=git)** | Dublin, GA | On Site | Aug 11 |
@@ -105,6 +105,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate Intern - Optimization (Spring 2026)](https://jobright.ai/jobs/info/687babf32097a271a8986754?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Aug 10 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Data Analyst](https://jobright.ai/jobs/info/6898742e83d13d1f5b690449?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/68986e4583d13d1f5b690414?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 10 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Data Analytics Intern
+Job ID : 261968](https://jobright.ai/jobs/info/689ab7dc83d13d1f5b69bae7?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 09 |
 | **[Metropolitan Transportation Authority](http://mta.info)** | **[Enterprise Asset Management Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/6897d5b473b3a600fe89ffa1?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 09 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Scientist, Customer and Competitive Market Intelligence](https://jobright.ai/jobs/info/687cb033764c3d7411c3b53f?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | Hybrid | Aug 09 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Quantitative Analytics Summer Internship Risk Analytics and Decision Science (PhD) - Early Careers](https://jobright.ai/jobs/info/6897ab9873b3a600fe89d863?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Aug 09 |
@@ -145,9 +147,9 @@ For a complete list, click the following sortable link below:
 | **[Integrity Risk International](http://www.integrityriskintl.com/)** | **[Fall Internships](https://jobright.ai/jobs/info/68954aff8c6d6b4426778a9e?utm_campaign=1066&utm_source=git)** | Reston, Virginia, United States | Hybrid | Aug 07 |
 | **[Sacramento Kings](http://www.Kings.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68954ad573b3a600fe886547?utm_campaign=1066&utm_source=git)** | Sacramento Office | On Site | Aug 07 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[Information Governance Intern](https://jobright.ai/jobs/info/689548508c6d6b44267788ae?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Aug 07 |
-| **[Metropolitan Transportation Authority](http://mta.info)** | **[Data Analyst – (ACE), Emerging Talent Intern](https://jobright.ai/jobs/info/689545674ed2ea559ca548e0?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 07 |
-| ↳ | **[Data Science - Ridership & Congestion Pricing, Emerging Talent Intern](https://jobright.ai/jobs/info/6895443073b3a600fe886216?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 07 |
+| **[Metropolitan Transportation Authority](http://mta.info)** | **[Data Science - Ridership & Congestion Pricing, Emerging Talent Intern](https://jobright.ai/jobs/info/6895443073b3a600fe886216?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Masters - GIS Specialist Intern](https://jobright.ai/jobs/info/689542f74ed2ea559ca54783?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 07 |
+| **[Metropolitan Transportation Authority](http://mta.info)** | **[Data Analyst – (ACE), Emerging Talent Intern](https://jobright.ai/jobs/info/689540e573b3a600fe88609f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[Akuna Capital](https://akunacapital.com)** | **[Quantitative Research Intern, Summer 2026](https://jobright.ai/jobs/info/687557c5ae2f413e4a5a601d?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 07 |
 | **[Fenwick & West](http://www.fenwick.com)** | **[Information Governance Intern](https://jobright.ai/jobs/info/6895382f73b3a600fe885ce0?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Aug 07 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Trader (Quantitative Trader) Internship – Summer 2026](https://jobright.ai/jobs/info/689534518c6d6b4426778095?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 07 |
@@ -156,5 +158,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[PostDoctoral Research Scholar](https://jobright.ai/jobs/info/68950a6173b3a600fe884948?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Aug 07 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68950a0873b3a600fe884916?utm_campaign=1066&utm_source=git)** | Strongsville, OH | On Site | Aug 07 |
 | **[Boise Cascade Company](http://www.bc.com/index.html)** | **[Data Analyst Intern- On-Site in Boise, Idaho](https://jobright.ai/jobs/info/6894fedc4ed2ea559ca5275e?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Aug 07 |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Strategic Data Analytics Intern](https://jobright.ai/jobs/info/6894fcec8c6d6b4426776362?utm_campaign=1066&utm_source=git)** | Strongsville, OH | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
