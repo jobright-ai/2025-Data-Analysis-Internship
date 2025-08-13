@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Activision Blizzard](https://activisionblizzard.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/689c368183d13d1f5b6a791f?utm_campaign=1066&utm_source=git)** | Santa Monica, CA | Remote | Aug 12 |
 | **[Activision](https://www.activision.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/689c1beffaa4e875e826613a?utm_campaign=1066&utm_source=git)** | Santa Monica, CA | Remote | Aug 12 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/689c123079a9f96662535e7f?utm_campaign=1066&utm_source=git)** | Westport, CT | Remote | Aug 12 |
 | **[Option Care Health](https://optioncarehealth.com)** | **[Business Intelligence - Intern](https://jobright.ai/jobs/info/689be799faa4e875e826472c?utm_campaign=1066&utm_source=git)** | Bannockburn, IL | On Site | Aug 12 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Connecting Mothers Initiative](https://www.linkedin.com/company/103130599)** | **[Research Methodologist (Volunteer)](https://jobright.ai/jobs/info/689bc78a79a9f96662533a3c?utm_campaign=1066&utm_source=git)** | New Haven, CT | Remote | Aug 12 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Data Analyst, Supply Chain (Winter/Spring 2026)](https://jobright.ai/jobs/info/689bbb2083d13d1f5b6a322e?utm_campaign=1066&utm_source=git)** | Fremont, CA | On Site | Aug 12 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Engineering (Data Science)](https://jobright.ai/jobs/info/689bb56583d13d1f5b6a2db0?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 12 |
+| **[University of Pittsburgh](pitt.edu)** | **[Post Doctoral Associate](https://jobright.ai/jobs/info/689baccd79a9f96662532a6f?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Aug 12 |
 | **[Option Care Health](https://optioncarehealth.com)** | **[Business Intelligence - Intern](https://jobright.ai/jobs/info/689ba8ab79a9f966625326c3?utm_campaign=1066&utm_source=git)** | Bannockburn, IL | On Site | Aug 12 |
 | **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Data Science DigitaLab Internship - CW](https://jobright.ai/jobs/info/689ba792faa4e875e8262244?utm_campaign=1066&utm_source=git)** | DigitaLab University of Illinois | Hybrid | Aug 12 |
 | **[Mortenson](https://www.mortenson.com)** | **[ITS Analyst Intern / Mortenson](https://jobright.ai/jobs/info/689ba641faa4e875e82621df?utm_campaign=1066&utm_source=git)** | Minnesota, United States | On Site | Aug 12 |
@@ -74,7 +76,7 @@ For a complete list, click the following sortable link below:
 | **[UVA Health](https://www.uvahealth.com)** | **[Darden Technical Research Assistant (Remote), Fall 2025 (Student Wage)](https://jobright.ai/jobs/info/689b8fa1faa4e875e82610e2?utm_campaign=1066&utm_source=git)** | Charlottesville, VA | Remote | Aug 12 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/689bec78faa4e875e82648b5?utm_campaign=1066&utm_source=git)** | Santa Monica | On Site | Aug 12 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Reporting Analyst, Fall 2025 (Internship) - 4 months (Part-Time)](https://jobright.ai/jobs/info/689b6d7679a9f966625306df?utm_campaign=1066&utm_source=git)** | Jacksonville, FL, USA | Hybrid | Aug 12 |
-| **[Walker Sands](https://www.walkersands.com/)** | **[Research and Insights Intern](https://jobright.ai/jobs/info/689b6c2779a9f966625305be?utm_campaign=1066&utm_source=git)** | Chicago, Illinois | On Site | Aug 12 |
+| **[Walker Sands](https://www.walkersands.com/)** | **[Research and Insights Intern](https://jobright.ai/jobs/info/689b69ccfaa4e875e82600e6?utm_campaign=1066&utm_source=git)** | Chicago, Illinois | On Site | Aug 12 |
 | **[Cornerstone Research](https://www.cornerstone.com)** | **[Summer Analyst](https://jobright.ai/jobs/info/689b5546faa4e875e825f630?utm_campaign=1066&utm_source=git)** | US | On Site | Aug 12 |
 | **[Forrester](http://www.forrester.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6862cbd141b12874771d76a8?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Aug 12 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Research & Analytics Internships: NYC - Fall 2025](https://jobright.ai/jobs/info/687e9ff0db19f31cf0d6bc65?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
@@ -156,6 +158,4 @@ Job ID : 261968](https://jobright.ai/jobs/info/689ab7dc83d13d1f5b69bae7?utm_camp
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Quantitative Analytics Summer Internship Risk Analytics and Decision Science (Masters) – Early Careers](https://jobright.ai/jobs/info/6897a5a31b9e81727f19e99c?utm_campaign=1066&utm_source=git)** | CHARLOTTE, NC | On Site | Aug 08 |
 | **[Databricks](https://www.databricks.com)** | **[Data Science Intern (2026 Start)](https://jobright.ai/jobs/info/68983e3b83d13d1f5b68ca8f?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Aug 08 |
 | ↳ | **[Data Science Intern (2026 Start)](https://jobright.ai/jobs/info/6898498a83d13d1f5b68d0ce?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Aug 08 |
-| **[Mercy Corps](http://www.mercycorps.org)** | **[Geospatial Analytics & Mapping Intern (US-Based Applicants ONLY)](https://jobright.ai/jobs/info/68983a8683d13d1f5b68c481?utm_campaign=1066&utm_source=git)** | Portland, OR | On Site | Aug 08 |
-| **[The Cincinnati Insurance Companies](http://www.cinfin.com)** | **[Student Opportunities - Statistical Modeling Internship (PhD level) - Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/689865af5574fd6bc0c79b31?utm_campaign=1066&utm_source=git)** | Fairfield, OH | Hybrid | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
