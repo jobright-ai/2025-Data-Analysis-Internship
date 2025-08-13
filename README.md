@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Interlinked](https://interlynked.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/689bf0bdfaa4e875e826495e?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Option Care Health](https://optioncarehealth.com)** | **[Business Intelligence - Intern](https://jobright.ai/jobs/info/689be799faa4e875e826472c?utm_campaign=1066&utm_source=git)** | Bannockburn, IL | On Site | Aug 12 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Post Doctoral Research Scholar](https://jobright.ai/jobs/info/689be4a179a9f9666253499f?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Aug 12 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Business Risk Intelligence Intern](https://jobright.ai/jobs/info/689bd34d79a9f96662533fa0?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Aug 12 |
@@ -76,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Reporting Analyst, Fall 2025 (Internship) - 4 months (Part-Time)](https://jobright.ai/jobs/info/689b6d7679a9f966625306df?utm_campaign=1066&utm_source=git)** | Jacksonville, FL, USA | Hybrid | Aug 12 |
 | **[Walker Sands](https://www.walkersands.com/)** | **[Research and Insights Intern](https://jobright.ai/jobs/info/689b69ccfaa4e875e82600e6?utm_campaign=1066&utm_source=git)** | Chicago, Illinois | On Site | Aug 12 |
 | **[Cornerstone Research](https://www.cornerstone.com)** | **[Summer Analyst](https://jobright.ai/jobs/info/689b5546faa4e875e825f630?utm_campaign=1066&utm_source=git)** | US | On Site | Aug 12 |
+| **[Forrester](http://www.forrester.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6862cbd141b12874771d76a8?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Aug 12 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Research & Analytics Internships: NYC - Fall 2025](https://jobright.ai/jobs/info/687e9ff0db19f31cf0d6bc65?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 12 |
 | **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689ae31083d13d1f5b69d924?utm_campaign=1066&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689ae1bc83d13d1f5b69d788?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
@@ -127,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[InfiniteQuant](https://infquant.com)** | **[Quantitative Researcher  - 2026 Summer Internship](https://jobright.ai/jobs/info/6899fe5e83d13d1f5b695517?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Current Master's - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/6899fe495574fd6bc0c7ef52?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Aug 11 |
 | ↳ | **[Current Master's - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/6899fe2efaa4e875e82550a8?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Aug 11 |
-| ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/6899fe0983d13d1f5b6954b2?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Aug 11 |
 | ↳ | **[Current Master's - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/6899fe0983d13d1f5b6954b3?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
+| ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/6899fe0983d13d1f5b6954b2?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Aug 11 |
 | ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/6899fe075574fd6bc0c7ef05?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 11 |
 | ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/6899fdf583d13d1f5b69548e?utm_campaign=1066&utm_source=git)** | Richmond, VA | Hybrid | Aug 11 |
 | ↳ | **[Current Master's - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/6899fdd4faa4e875e8255013?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Aug 11 |
