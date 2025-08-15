@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[Postdoctoral Fellow - Bioinformatics & Computational Biology (Chen Lab)](https://jobright.ai/jobs/info/689f90fbb3e889632cf08b5d?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 15 |
-| **[General Motors](https://www.gm.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/689f8c09faa4e875e8289a2c?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 15 |
+| **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[Research Intern -Computational - Statistical Research Intern](https://jobright.ai/jobs/info/689fa075faa4e875e828a4d9?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 15 |
+| ↳ | **[Research Intern - Radiation Oncology (Dr. Enderling Lab)](https://jobright.ai/jobs/info/689f9deb83d13d1f5b6ca0a4?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 15 |
+| ↳ | **[Postdoctoral Fellow - Bioinformatics & Computational Biology (Chen Lab)](https://jobright.ai/jobs/info/689f90fbb3e889632cf08b5d?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 15 |
 | **[PHOENIX Pharmahandel GmbH & Co KG](https://www.phoenix-online.de/)** | **[Intern (m/w/d) Operational Controlling Analytics](https://jobright.ai/jobs/info/689f821983d13d1f5b6c8bd2?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 15 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[GIS Intern](https://jobright.ai/jobs/info/689f7720faa4e875e8288825?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 15 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 IT Analytics Internship](https://jobright.ai/jobs/info/689f6888faa4e875e828695b?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Aug 15 |
@@ -118,8 +119,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/6888408773e3e13cbd9434c8?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern(TikTok Shop-Supply Chain & Logistics) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6881e62f41fbda106ee6e8fd?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 13 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Undergraduate Student Researcher](https://jobright.ai/jobs/info/689db0b7faa4e875e82737b8?utm_campaign=1066&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 13 |
-| **[Tulane University School of Medicine](https://medicine.tulane.edu)** | **[Postdoctoral Fellow, Computer Science  >>>](https://jobright.ai/jobs/info/689c43f6faa4e875e8268033?utm_campaign=1066&utm_source=git)** | New Orleans, LA | On Site | Aug 13 |
-| **[Walker Sands](https://www.walkersands.com/)** | **[Research and Insights Intern](https://jobright.ai/jobs/info/689d5aa383d13d1f5b6aef47?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 12 |
+| **[Walker Sands](https://www.walkersands.com/)** | **[Research and Insights Intern](https://jobright.ai/jobs/info/689ebca183d13d1f5b6c055c?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 12 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Post Doctoral Research Scholar](https://jobright.ai/jobs/info/689be4a179a9f9666253499f?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Aug 12 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Business Risk Intelligence Intern](https://jobright.ai/jobs/info/689bd34d79a9f96662533fa0?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Aug 12 |
 | **[Baird](http://www.rwbaird.com)** | **[Women in Equity Research Event (Fall 2025) - Virtual](https://jobright.ai/jobs/info/689bc7b279a9f96662533a67?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Remote | Aug 12 |
