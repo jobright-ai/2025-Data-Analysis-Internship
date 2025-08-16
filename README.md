@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Highwire](http://www.highwirepr.com)** | **[Post Graduate Insights Analyst Intern](https://jobright.ai/jobs/info/68a0dc59faa4e875e8291ca5?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 16 |
+| ↳ | **[Post Graduate Insights Analyst Intern](https://jobright.ai/jobs/info/68a0cdb0cc9ee94dc912098d?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | Hybrid | Aug 16 |
 | **[OneMain Financial](http://www.onemainfinancial.com)** | **[Analytics Analyst Intern](https://jobright.ai/jobs/info/68a0b707cc9ee94dc91202e1?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Aug 16 |
 | **[Department of Pharmacy, University of Copenhagen](https://pharmacy.ku.dk/)** | **[Computational Postdoc at ICMM](https://jobright.ai/jobs/info/68a0b6f1faa4e875e82914c5?utm_campaign=1066&utm_source=git)** | Medicine, NE | On Site | Aug 16 |
 | **[Del Monte Foods](https://www.delmontefoods.com/)** | **[IT Intern](https://jobright.ai/jobs/info/68a0b6effaa4e875e82914c4?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Aug 16 |
@@ -80,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Wisconsin Public Service](http://www.wisconsinpublicservice.com)** | **[Renewables Data Analytics Intern](https://jobright.ai/jobs/info/689fb9c8cc9ee94dc9119691?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/689fb71d83d13d1f5b6ca914?utm_campaign=1066&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/689fb70fcc9ee94dc9119558?utm_campaign=1066&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
-| ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/689fb70afaa4e875e828aa4e?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/689fb70a83d13d1f5b6ca8be?utm_campaign=1066&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
+| ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/689fb70afaa4e875e828aa4e?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/689fb6fbfaa4e875e828aa13?utm_campaign=1066&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | **[B Generous](http://www.bgenerous.com)** | **[Data Analytics and Product Intern](https://jobright.ai/jobs/info/689fb35eb3e889632cf09730?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 15 |
 | **[Highwire](http://www.highwirepr.com)** | **[Post Graduate Insights Analyst Intern](https://jobright.ai/jobs/info/689fb326faa4e875e828a885?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 15 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/6888408773e3e13cbd9434c8?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern(TikTok Shop-Supply Chain & Logistics) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6881e62f41fbda106ee6e8fd?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 13 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Undergraduate Student Researcher](https://jobright.ai/jobs/info/689db0b7faa4e875e82737b8?utm_campaign=1066&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 13 |
+| **[Tulane University School of Medicine](https://medicine.tulane.edu)** | **[Postdoctoral Fellow, Computer Science  >>>](https://jobright.ai/jobs/info/689c43f6faa4e875e8268033?utm_campaign=1066&utm_source=git)** | New Orleans, LA | On Site | Aug 13 |
 | **[Walker Sands](https://www.walkersands.com/)** | **[Research and Insights Intern](https://jobright.ai/jobs/info/689ebca183d13d1f5b6c055c?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 12 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Post Doctoral Research Scholar](https://jobright.ai/jobs/info/689be4a179a9f9666253499f?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Aug 12 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Business Risk Intelligence Intern](https://jobright.ai/jobs/info/689bd34d79a9f96662533fa0?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Aug 12 |
 | **[Baird](http://www.rwbaird.com)** | **[Women in Equity Research Event (Fall 2025) - Virtual](https://jobright.ai/jobs/info/689bc7b279a9f96662533a67?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Remote | Aug 12 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Data Analyst, Supply Chain (Winter/Spring 2026)](https://jobright.ai/jobs/info/689bbb2083d13d1f5b6a322e?utm_campaign=1066&utm_source=git)** | Fremont, CA | On Site | Aug 12 |
-| **[Mortenson](https://www.mortenson.com)** | **[ITS Analyst Intern / Mortenson](https://jobright.ai/jobs/info/689ba641faa4e875e82621df?utm_campaign=1066&utm_source=git)** | Minnesota, United States | On Site | Aug 12 |
-| **[Argonne National Laboratory](http://www.anl.gov/)** | **[Research Aide - DSL - Miller, Hayden - 8.12.25.](https://jobright.ai/jobs/info/689b9923faa4e875e8261829?utm_campaign=1066&utm_source=git)** | Lemont, IL USA | On Site | Aug 12 |
-| **[UVA Health](https://www.uvahealth.com)** | **[Darden Technical Research Assistant (Remote), Fall 2025 (Student Wage)](https://jobright.ai/jobs/info/689b8fa1faa4e875e82610e2?utm_campaign=1066&utm_source=git)** | Charlottesville, VA | Remote | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
