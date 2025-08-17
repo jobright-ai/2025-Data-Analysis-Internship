@@ -57,14 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/68a1d0e083d13d1f5b6d50f6?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Aug 17 |
-| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Research Reporting and Documentation Intern](https://jobright.ai/jobs/info/68a1cdf983d13d1f5b6d5079?utm_campaign=1066&utm_source=git)** | San Diego, CA | Remote | Aug 17 |
+| **[2nd Order Solutions](https://2os.com)** | **[DATA SCIENTIST - (Campus Hires)](https://jobright.ai/jobs/info/6892a8514c7e851b90ad7633?utm_campaign=1066&utm_source=git)** | Arlington, VA or Richmond, VA | Hybrid | Aug 17 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Data Science Internship (Great Pay) at CareYaya Health Technologies Inc.](https://jobright.ai/jobs/info/68a1c36ecc9ee94dc9123e06?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Aug 17 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Technology](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957825?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Aug 17 |
 | **[Department of Nutrition, Exercise and Sports by The University of Copenhagen](https://nexs.ku.dk/)** | **[Computational Postdoc at ICMM](https://jobright.ai/jobs/info/68a1032dcc9ee94dc9120db2?utm_campaign=1066&utm_source=git)** | Medicine, NE | On Site | Aug 16 |
 | **[Spaulding Clinical Research, LLC](http://spauldingclinical.com)** | **[Biostatistician Intern](https://jobright.ai/jobs/info/68a0eec9faa4e875e8291e55?utm_campaign=1066&utm_source=git)** | West Bend, WI | On Site | Aug 16 |
 | **[Highwire](http://www.highwirepr.com)** | **[Post Graduate Insights Analyst Intern](https://jobright.ai/jobs/info/68a0dc59faa4e875e8291ca5?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 16 |
 | ↳ | **[Post Graduate Insights Analyst Intern](https://jobright.ai/jobs/info/68a0cdb0cc9ee94dc912098d?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | Hybrid | Aug 16 |
+| **[Progressive Data Jobs](https://www.progressivedatajobs.org/)** | **[2025 Social Justice Research and Evaluation Internship](https://jobright.ai/jobs/info/68a1d0e183d13d1f5b6d50fd?utm_campaign=1066&utm_source=git)** | Utica-Rome Area | On Site | Aug 16 |
 | **[OneMain Financial](http://www.onemainfinancial.com)** | **[Analytics Analyst Intern](https://jobright.ai/jobs/info/68a0b707cc9ee94dc91202e1?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Aug 16 |
 | **[Department of Pharmacy, University of Copenhagen](https://pharmacy.ku.dk/)** | **[Computational Postdoc at ICMM](https://jobright.ai/jobs/info/68a0b6f1faa4e875e82914c5?utm_campaign=1066&utm_source=git)** | Medicine, NE | On Site | Aug 16 |
 | **[Del Monte Foods](https://www.delmontefoods.com/)** | **[IT Intern](https://jobright.ai/jobs/info/68a0b6effaa4e875e82914c4?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Aug 16 |
@@ -105,7 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Duke University](http://www.duke.edu)** | **[Non Duke Student/Intern](https://jobright.ai/jobs/info/689f4d58faa4e875e8285bda?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Aug 15 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Corporate Analyst Development Program - Summer Analyst (OH, DE, TX, FL)](https://jobright.ai/jobs/info/689eaad5faa4e875e827ee90?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 15 |
 | **[Link Logistics](https://www.linklogistics.com/)** | **[Research & Analytics Summer Intern](https://jobright.ai/jobs/info/689f314679a9f96662554d2d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 15 |
-| ↳ | **[Research & Analytics Summer Intern](https://jobright.ai/jobs/info/689f2cc3faa4e875e8284917?utm_campaign=1066&utm_source=git)** | New York, New York | On Site | Aug 15 |
+| **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Corporate Analyst Development Program - Summer Analyst (Chicago)](https://jobright.ai/jobs/info/689edfbf83d13d1f5b6c2ff3?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 15 |
+| **[Link Logistics](https://www.linklogistics.com/)** | **[Research & Analytics Summer Intern](https://jobright.ai/jobs/info/689f2cc3faa4e875e8284917?utm_campaign=1066&utm_source=git)** | New York, New York | On Site | Aug 15 |
 | **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[2026 Summer Analyst Program: Information Technology - NYC/Jersey City](https://jobright.ai/jobs/info/689f2ae7faa4e875e82848b7?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Aug 15 |
 | ↳ | **[2026 Summer Analyst Program: Information Technology - Tempe, AZ](https://jobright.ai/jobs/info/689f2adefaa4e875e828489e?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Aug 15 |
 | ↳ | **[2026 Summer Analyst Program: Information Technology - NYC/Jersey City](https://jobright.ai/jobs/info/689f2adb79a9f96662554ac2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/68807d3b2097a271a89a5607?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Aug 13 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Intelligence (Part-Time/Seasonal)](https://jobright.ai/jobs/info/688ae2ad9f961617fe21ed5c?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Aug 13 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, Bachelor’s or Master’s Degree (Summer 2026)](https://jobright.ai/jobs/info/6885a9e3b651c92cb78ad150?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 13 |
-| ↳ | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/6888408773e3e13cbd9434c8?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
