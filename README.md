@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PhDFinder](https://phdfinder.com)** | **[[Expired] Postdoctoral Opportunity in Network Intelligence and Quantum Computing at Khalifa University](https://jobright.ai/jobs/info/68a1714883d13d1f5b6d3ae5?utm_campaign=1066&utm_source=git)** | Sewanee, TN | On Site | Aug 16 |
 | **[Department of Nutrition, Exercise and Sports by The University of Copenhagen](https://nexs.ku.dk/)** | **[Computational Postdoc at ICMM](https://jobright.ai/jobs/info/68a1032dcc9ee94dc9120db2?utm_campaign=1066&utm_source=git)** | Medicine, NE | On Site | Aug 16 |
 | **[Spaulding Clinical Research, LLC](http://spauldingclinical.com)** | **[Biostatistician Intern](https://jobright.ai/jobs/info/68a0eec9faa4e875e8291e55?utm_campaign=1066&utm_source=git)** | West Bend, WI | On Site | Aug 16 |
 | **[Highwire](http://www.highwirepr.com)** | **[Post Graduate Insights Analyst Intern](https://jobright.ai/jobs/info/68a0dc59faa4e875e8291ca5?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 16 |
@@ -70,6 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Multilingual Data Intern (Speech) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68a05301faa4e875e8290183?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 16 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern PRN](https://jobright.ai/jobs/info/68a02c8cfaa4e875e828f005?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Aug 16 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Post-Doctoral Fellow](https://jobright.ai/jobs/info/689578188c6d6b442677a1c7?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 15 |
+| **[University of Rhode Island](http://www.uri.edu/)** | **[Postdoctoral Fellow (BIAS Project)](https://jobright.ai/jobs/info/68a17668cc9ee94dc9122e9c?utm_campaign=1066&utm_source=git)** | Kingston, RI | On Site | Aug 15 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/68a0109483d13d1f5b6cd0ce?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Aug 15 |
 | **[WinnCompanies](https://www.winncompanies.com)** | **[Data Collections & Organization Intern](https://jobright.ai/jobs/info/68a00a8483d13d1f5b6cccea?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Aug 15 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/68a15673cc9ee94dc9121ea3?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Aug 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, Bachelor’s or Master’s Degree (Summer 2026)](https://jobright.ai/jobs/info/6885a9e3b651c92cb78ad150?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 13 |
 | ↳ | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/6888408773e3e13cbd9434c8?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern(TikTok Shop-Supply Chain & Logistics) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6881e62f41fbda106ee6e8fd?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 13 |
-| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Undergraduate Student Researcher](https://jobright.ai/jobs/info/689db0b7faa4e875e82737b8?utm_campaign=1066&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 13 |
-| **[Tulane University School of Medicine](https://medicine.tulane.edu)** | **[Postdoctoral Fellow, Computer Science  >>>](https://jobright.ai/jobs/info/689c43f6faa4e875e8268033?utm_campaign=1066&utm_source=git)** | New Orleans, LA | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
