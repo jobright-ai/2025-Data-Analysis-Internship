@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Department of Nutrition, Exercise and Sports by The University of Copenhagen](https://nexs.ku.dk/)** | **[Computational Postdoc at ICMM](https://jobright.ai/jobs/info/68a1032dcc9ee94dc9120db2?utm_campaign=1066&utm_source=git)** | Medicine, NE | On Site | Aug 16 |
 | **[Spaulding Clinical Research, LLC](http://spauldingclinical.com)** | **[Biostatistician Intern](https://jobright.ai/jobs/info/68a0eec9faa4e875e8291e55?utm_campaign=1066&utm_source=git)** | West Bend, WI | On Site | Aug 16 |
 | **[Highwire](http://www.highwirepr.com)** | **[Post Graduate Insights Analyst Intern](https://jobright.ai/jobs/info/68a0dc59faa4e875e8291ca5?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 16 |
 | ↳ | **[Post Graduate Insights Analyst Intern](https://jobright.ai/jobs/info/68a0cdb0cc9ee94dc912098d?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | Hybrid | Aug 16 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/6888408773e3e13cbd9434c8?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern(TikTok Shop-Supply Chain & Logistics) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6881e62f41fbda106ee6e8fd?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 13 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Undergraduate Student Researcher](https://jobright.ai/jobs/info/689db0b7faa4e875e82737b8?utm_campaign=1066&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 13 |
-| **[Tulane University School of Medicine](https://medicine.tulane.edu)** | **[Postdoctoral Fellow, Computer Science  >>>](https://jobright.ai/jobs/info/689c43f6faa4e875e8268033?utm_campaign=1066&utm_source=git)** | New Orleans, LA | On Site | Aug 13 |
 | **[Walker Sands](https://www.walkersands.com/)** | **[Research and Insights Intern](https://jobright.ai/jobs/info/689ebca183d13d1f5b6c055c?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 12 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Post Doctoral Research Scholar](https://jobright.ai/jobs/info/689be4a179a9f9666253499f?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Aug 12 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Business Risk Intelligence Intern](https://jobright.ai/jobs/info/689bd34d79a9f96662533fa0?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Aug 12 |
 | **[Baird](http://www.rwbaird.com)** | **[Women in Equity Research Event (Fall 2025) - Virtual](https://jobright.ai/jobs/info/689bc7b279a9f96662533a67?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Remote | Aug 12 |
-| **[University of Pittsburgh](pitt.edu)** | **[Post Doctoral Associate](https://jobright.ai/jobs/info/689baccd79a9f96662532a6f?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Aug 12 |
+| **[Mortenson](https://www.mortenson.com)** | **[ITS Analyst Intern / Mortenson](https://jobright.ai/jobs/info/689ba641faa4e875e82621df?utm_campaign=1066&utm_source=git)** | Minnesota, United States | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
