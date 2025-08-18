@@ -59,8 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[MKS Inc.](https://www.mks.com)** | **[2025 IT Analytics and Dashboards Intern/co-op](https://jobright.ai/jobs/info/68a2ac64468ac21d6fab9ed8?utm_campaign=1066&utm_source=git)** | Andover, MA | On Site | Aug 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney World Transportation Logistics & Analytics Intern, Spring 2026](https://jobright.ai/jobs/info/68a2ac28da4b7a7e73072db7?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Aug 17 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Geographical Information Systems Intern
-Job ID : 247658](https://jobright.ai/jobs/info/68a23df183d13d1f5b6d5a2a?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Aug 17 |
 | **[2nd Order Solutions](https://2os.com)** | **[DATA SCIENTIST - (Campus Hires)](https://jobright.ai/jobs/info/6892a8514c7e851b90ad7633?utm_campaign=1066&utm_source=git)** | Arlington, VA or Richmond, VA | Hybrid | Aug 17 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Corporate Functions, Operations](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957896?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Aug 17 |
 | ↳ | **[2026 - Summer Analyst Internship - Technology](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957825?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Aug 17 |
@@ -158,4 +156,5 @@ Job ID : 247658](https://jobright.ai/jobs/info/68a23df183d13d1f5b6d5a2a?utm_camp
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/689cdf9479a9f9666253bbf9?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 13 |
 | **[Draper](https://www.draper.com)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/689cd46483d13d1f5b6aaf8e?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Aug 13 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Research](https://jobright.ai/jobs/info/686437ec8827871dc3db6c43?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Aug 13 |
+| **[NJM Insurance Group](https://www.njm.com)** | **[Intern - SIU](https://jobright.ai/jobs/info/689c94f179a9f966625392a1?utm_campaign=1066&utm_source=git)** | NJM - Trenton | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
