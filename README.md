@@ -57,19 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MKS Inc.](https://www.mks.com)** | **[2025 IT Analytics and Dashboards Intern/co-op](https://jobright.ai/jobs/info/68a2ac64468ac21d6fab9ed8?utm_campaign=1066&utm_source=git)** | Andover, MA | On Site | Aug 17 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney World Transportation Logistics & Analytics Intern, Spring 2026](https://jobright.ai/jobs/info/68a2ac28da4b7a7e73072db7?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Aug 17 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern Data Research
 Job ID : 261385](https://jobright.ai/jobs/info/68a2913bfaa4e875e82965ae?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 17 |
 | ↳ | **[Geographical Information Systems Intern
 Job ID : 247658](https://jobright.ai/jobs/info/68a23df183d13d1f5b6d5a2a?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Aug 17 |
 | **[2nd Order Solutions](https://2os.com)** | **[DATA SCIENTIST - (Campus Hires)](https://jobright.ai/jobs/info/6892a8514c7e851b90ad7633?utm_campaign=1066&utm_source=git)** | Arlington, VA or Richmond, VA | Hybrid | Aug 17 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Technology](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957825?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Aug 17 |
+| **[John Deere](https://www.deere.com)** | **[Part-Time Student - Data Science & Analytics - Ames, IA, Champaign, IL or Austin, TX](https://jobright.ai/jobs/info/68a2ba9dda4b7a7e73073303?utm_campaign=1066&utm_source=git)** | Ames, IA | Hybrid | Aug 16 |
 | **[Conexant](http://www.conexant.com/)** | **[Part-Time Student - Data Science & Analytics - Ames, IA, Champaign, IL or Austin, TX](https://jobright.ai/jobs/info/68a28fa283d13d1f5b6d64f5?utm_campaign=1066&utm_source=git)** | Ames, IA | Hybrid | Aug 16 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Computer, Computational, and Statistical Sciences Postbac](https://jobright.ai/jobs/info/686fa53fa5ae807a59cf246e?utm_campaign=1066&utm_source=git)** | Los Alamos, NM | On Site | Aug 16 |
 | **[Department of Nutrition, Exercise and Sports by The University of Copenhagen](https://nexs.ku.dk/)** | **[Computational Postdoc at ICMM](https://jobright.ai/jobs/info/68a1032dcc9ee94dc9120db2?utm_campaign=1066&utm_source=git)** | Medicine, NE | On Site | Aug 16 |
-| **[Spaulding Clinical Research, LLC](http://spauldingclinical.com)** | **[Biostatistician Intern](https://jobright.ai/jobs/info/68a0eec9faa4e875e8291e55?utm_campaign=1066&utm_source=git)** | West Bend, WI | On Site | Aug 16 |
 | **[Highwire](http://www.highwirepr.com)** | **[Post Graduate Insights Analyst Intern](https://jobright.ai/jobs/info/68a0dc59faa4e875e8291ca5?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 16 |
 | ↳ | **[Post Graduate Insights Analyst Intern](https://jobright.ai/jobs/info/68a0cdb0cc9ee94dc912098d?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | Hybrid | Aug 16 |
 | **[Progressive Data Jobs](https://www.progressivedatajobs.org/)** | **[2025 Social Justice Research and Evaluation Internship](https://jobright.ai/jobs/info/68a1d0e183d13d1f5b6d50fd?utm_campaign=1066&utm_source=git)** | Utica-Rome Area | On Site | Aug 16 |
+| ↳ | **[Data Intern](https://jobright.ai/jobs/info/68a2b9c1ff570d7ffd65d29c?utm_campaign=1066&utm_source=git)** | City of Washington County, DC | On Site | Aug 16 |
 | **[OneMain Financial](http://www.onemainfinancial.com)** | **[Analytics Analyst Intern](https://jobright.ai/jobs/info/68a0b707cc9ee94dc91202e1?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Aug 16 |
 | **[Department of Pharmacy, University of Copenhagen](https://pharmacy.ku.dk/)** | **[Computational Postdoc at ICMM](https://jobright.ai/jobs/info/68a0b6f1faa4e875e82914c5?utm_campaign=1066&utm_source=git)** | Medicine, NE | On Site | Aug 16 |
 | **[Del Monte Foods](https://www.delmontefoods.com/)** | **[IT Intern](https://jobright.ai/jobs/info/68a0b6effaa4e875e82914c4?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Aug 16 |
@@ -119,6 +122,7 @@ Job ID : 247658](https://jobright.ai/jobs/info/68a23df183d13d1f5b6d5a2a?utm_camp
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Corporate Analyst Development Program - Summer Analyst (New York Metro)](https://jobright.ai/jobs/info/689ed89783d13d1f5b6c2ce2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Workplace Solutions](https://jobright.ai/jobs/info/689ed58c79a9f96662551bcc?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Aug 14 |
 | **[MAPFRE](https://www.mapfre.com)** | **[Intern-Digital-Advanced Analytics](https://jobright.ai/jobs/info/689ecfd583d13d1f5b6c20a6?utm_campaign=1066&utm_source=git)** | Webster, MA | On Site | Aug 14 |
+| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, Bachelor’s or Master’s Degree (Summer 2026)](https://jobright.ai/jobs/info/68a2a7a3468ac21d6fab9a6a?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Aug 14 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Italian Metadata Technician - Full-Time Internship](https://jobright.ai/jobs/info/689e9cef83d13d1f5b6be133?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Aug 14 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Bioinfo-Comput Biologist Inter](https://jobright.ai/jobs/info/68a14621cc9ee94dc9121835?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Aug 14 |
 | **[Silimate (YC S23)](https://www.silimate.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/689e994379a9f9666254e14a?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Aug 14 |
@@ -155,8 +159,4 @@ Job ID : 247658](https://jobright.ai/jobs/info/68a23df183d13d1f5b6d5a2a?utm_camp
 | ↳ | **[2026 Summer Internship - Estimating Analyst](https://jobright.ai/jobs/info/689d107e83d13d1f5b6ace2e?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 13 |
 | **[Nemours](http://www.nemours.org)** | **[Intern-Research](https://jobright.ai/jobs/info/689cfbbd79a9f9666253cbde?utm_campaign=1066&utm_source=git)** | 1600 Rockland Road, Wilmington, DE, 19803, US | On Site | Aug 13 |
 | **[Citadel Securities](https://www.citadelsecurities.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/689ce2b383d13d1f5b6ab9f6?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 13 |
-| **[Citadel](https://www.citadel.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/689cdf9479a9f9666253bbf9?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 13 |
-| **[Draper](https://www.draper.com)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/689cae3f83d13d1f5b6a9bb7?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Aug 13 |
-| **[NJM Insurance Group](https://www.njm.com)** | **[Intern - SIU](https://jobright.ai/jobs/info/689c94f179a9f966625392a1?utm_campaign=1066&utm_source=git)** | NJM - Trenton | On Site | Aug 13 |
-| **[Insight Investment](http://www.insightinvestment.com)** | **[Insight 2026 US Internship Program - Register your interest](https://jobright.ai/jobs/info/689c777479a9f96662538c92?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
