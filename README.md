@@ -92,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Wisconsin Public Service](http://www.wisconsinpublicservice.com)** | **[Renewables Data Analytics Intern](https://jobright.ai/jobs/info/689fb9c8cc9ee94dc9119691?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/689fb71d83d13d1f5b6ca914?utm_campaign=1066&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/689fb70fcc9ee94dc9119558?utm_campaign=1066&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
-| ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/689fb70a83d13d1f5b6ca8be?utm_campaign=1066&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
 | ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/689fb70afaa4e875e828aa4e?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
+| ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/689fb70a83d13d1f5b6ca8be?utm_campaign=1066&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
 | ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/689fb6fbfaa4e875e828aa13?utm_campaign=1066&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | **[B Generous](http://www.bgenerous.com)** | **[Data Analytics and Product Intern](https://jobright.ai/jobs/info/689fb35eb3e889632cf09730?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 15 |
 | **[Highwire](http://www.highwirepr.com)** | **[Post Graduate Insights Analyst Intern](https://jobright.ai/jobs/info/689fb326faa4e875e828a885?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 15 |
@@ -105,7 +105,9 @@ For a complete list, click the following sortable link below:
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 IT Analytics Internship](https://jobright.ai/jobs/info/689f6888faa4e875e828695b?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Aug 15 |
 | ↳ | **[Fall 2025 IT Data Internship](https://jobright.ai/jobs/info/689f6843faa4e875e828689c?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Aug 15 |
 | **[Duke University](http://www.duke.edu)** | **[Non Duke Student/Intern](https://jobright.ai/jobs/info/689f4d58faa4e875e8285bda?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Aug 15 |
+| **[Matter + Energy](www.matternenergy.com)** | **[Project Assistant - Data and AI](https://jobright.ai/jobs/info/68a348dc403ad4363b1bfd76?utm_campaign=1066&utm_source=git)** | Virginia, United States | On Site | Aug 15 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Corporate Analyst Development Program - Summer Analyst (OH, DE, TX, FL)](https://jobright.ai/jobs/info/689eaad5faa4e875e827ee90?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 15 |
+| **[University of Rhode Island](http://www.uri.edu/)** | **[Postdoctoral Fellow (BIAS Project)](https://jobright.ai/jobs/info/68a3409e1ab5f8579e8a42d0?utm_campaign=1066&utm_source=git)** | Kingston, RI | On Site | Aug 15 |
 | **[Link Logistics](https://www.linklogistics.com/)** | **[Research & Analytics Summer Intern](https://jobright.ai/jobs/info/689f314679a9f96662554d2d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Corporate Analyst Development Program - Summer Analyst (Chicago)](https://jobright.ai/jobs/info/689edfbf83d13d1f5b6c2ff3?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 15 |
 | **[Link Logistics](https://www.linklogistics.com/)** | **[Research & Analytics Summer Intern](https://jobright.ai/jobs/info/689f2cc3faa4e875e8284917?utm_campaign=1066&utm_source=git)** | New York, New York | On Site | Aug 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Citadel Securities](https://www.citadelsecurities.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/689ce2b383d13d1f5b6ab9f6?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 13 |
 | **[Citadel](https://www.citadel.com)** | **[Quantitative Research Engineer – PhD Intern (US)](https://jobright.ai/jobs/info/689cdf9479a9f9666253bbf9?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 13 |
 | **[Draper](https://www.draper.com)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/689cae3f83d13d1f5b6a9bb7?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Aug 13 |
-| **[NJM Insurance Group](https://www.njm.com)** | **[Intern - SIU](https://jobright.ai/jobs/info/689c94f179a9f966625392a1?utm_campaign=1066&utm_source=git)** | NJM - Trenton | On Site | Aug 13 |
-| **[Insight Investment](http://www.insightinvestment.com)** | **[Insight 2026 US Internship Program - Register your interest](https://jobright.ai/jobs/info/689c777479a9f96662538c92?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
