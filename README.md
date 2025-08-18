@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Geographical Information Systems Intern
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern Data Research
+Job ID : 261385](https://jobright.ai/jobs/info/68a2913bfaa4e875e82965ae?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 17 |
+| ↳ | **[Geographical Information Systems Intern
 Job ID : 247658](https://jobright.ai/jobs/info/68a23df183d13d1f5b6d5a2a?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Aug 17 |
 | **[2nd Order Solutions](https://2os.com)** | **[DATA SCIENTIST - (Campus Hires)](https://jobright.ai/jobs/info/6892a8514c7e851b90ad7633?utm_campaign=1066&utm_source=git)** | Arlington, VA or Richmond, VA | Hybrid | Aug 17 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Technology](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a957825?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Aug 17 |
+| **[Conexant](http://www.conexant.com/)** | **[Part-Time Student - Data Science & Analytics - Ames, IA, Champaign, IL or Austin, TX](https://jobright.ai/jobs/info/68a28fa283d13d1f5b6d64f5?utm_campaign=1066&utm_source=git)** | Ames, IA | Hybrid | Aug 16 |
 | **[Los Alamos National Laboratory](http://www.lanl.gov)** | **[Computer, Computational, and Statistical Sciences Postbac](https://jobright.ai/jobs/info/686fa53fa5ae807a59cf246e?utm_campaign=1066&utm_source=git)** | Los Alamos, NM | On Site | Aug 16 |
 | **[Department of Nutrition, Exercise and Sports by The University of Copenhagen](https://nexs.ku.dk/)** | **[Computational Postdoc at ICMM](https://jobright.ai/jobs/info/68a1032dcc9ee94dc9120db2?utm_campaign=1066&utm_source=git)** | Medicine, NE | On Site | Aug 16 |
 | **[Spaulding Clinical Research, LLC](http://spauldingclinical.com)** | **[Biostatistician Intern](https://jobright.ai/jobs/info/68a0eec9faa4e875e8291e55?utm_campaign=1066&utm_source=git)** | West Bend, WI | On Site | Aug 16 |
@@ -156,6 +159,4 @@ Job ID : 247658](https://jobright.ai/jobs/info/68a23df183d13d1f5b6d5a2a?utm_camp
 | **[Draper](https://www.draper.com)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/689cae3f83d13d1f5b6a9bb7?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Aug 13 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Intern - SIU](https://jobright.ai/jobs/info/689c94f179a9f966625392a1?utm_campaign=1066&utm_source=git)** | NJM - Trenton | On Site | Aug 13 |
 | **[Insight Investment](http://www.insightinvestment.com)** | **[Insight 2026 US Internship Program - Register your interest](https://jobright.ai/jobs/info/689c777479a9f96662538c92?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 13 |
-| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/68807d3b2097a271a89a5607?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Aug 13 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Intelligence (Part-Time/Seasonal)](https://jobright.ai/jobs/info/688ae2ad9f961617fe21ed5c?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
