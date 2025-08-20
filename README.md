@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flatiron School](http://flatironschool.com)** | **[Apprentice, Data Scientist](https://jobright.ai/jobs/info/68927543f5ee707a15dc5d40?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 20 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Post Doctoral Scholar](https://jobright.ai/jobs/info/6891a225f47efe2113957c8a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 19 |
 | **[2nd Order Solutions](https://2os.com)** | **[INTERN DATA SCIENTIST - (Campus Hires)](https://jobright.ai/jobs/info/6892ca5ff5ee707a15dc86c8?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Aug 19 |
 | **[griddable.io](https://griddable.io)** | **[Fall 2025 Intern - Strategic Data Science](https://jobright.ai/jobs/info/68a55f58b6a3617d7fa711a8?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Aug 19 |
@@ -64,9 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Schneider Electric](https://www.se.com)** | **[Data & Analytics Intern (January 2026)](https://jobright.ai/jobs/info/68a5110633dd7158bbc96d5c?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Aug 19 |
 | **[Fred Hutch](http://www.fredhutch.org/)** | **[Post-Doctoral Research Fellow](https://jobright.ai/jobs/info/68a51586758f2e4ac3fdbc7b?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
 | **[BASF](https://www.basf.com/)** | **[2026 Summer Internship - Data Science/Computer Engineering - Geismar, LA](https://jobright.ai/jobs/info/68a51573b6a3617d7fa6e5d6?utm_campaign=1066&utm_source=git)** | Geismar, LA | Hybrid | Aug 19 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Commercial Operations Data Analyst Co-Op at Hill’s Pet Nutrition](https://jobright.ai/jobs/info/68a50d36b6a3617d7fa6e236?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 19 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Walt Disney World Transportation Logistics & Analytics Intern, Spring 2026](https://jobright.ai/jobs/info/68a50202758f2e4ac3fdb495?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Aug 19 |
-| **[Liberty Harbor](https://www.libertyharbor.com/)** | **[Data/Computer Science Intern/Technician](https://jobright.ai/jobs/info/68a50138758f2e4ac3fdb361?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Aug 19 |
 | **[Catholic Extension Society](http://www.catholicextension.org)** | **[AI Data Strategy Intern](https://jobright.ai/jobs/info/68a4f777b6a3617d7fa6da1a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 19 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68a4e2fa33dd7158bbc95f3c?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Aug 19 |
 | ↳ | **[(SPRING) Research Analyst Intern](https://jobright.ai/jobs/info/68a4e22f33dd7158bbc95e7c?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Aug 19 |
@@ -97,7 +96,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/68882d5373e3e13cbd942bfd?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Aug 19 |
 | **[Asana](https://asana.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6888078573e3e13cbd941e23?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Aug 19 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/68882dcbfbbf032d00079234?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Search)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c500e79a9f96662538675?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (Privacy and Data Protection Office)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6887e4a773e3e13cbd940efd?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
+| ↳ | **[Data Scientist Intern (TikTok-Search)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c500e79a9f96662538675?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
 | ↳ | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6898a69f83d13d1f5b6909f0?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
 | ↳ | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/6899791383d13d1f5b692f4a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
 | ↳ | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c304a83d13d1f5b6a7503?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
@@ -125,8 +125,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Procter & Gamble – Consumer & Market Knowledge: Analytics & Insights Internship (Advanced Analytics) – Summer 2026](https://jobright.ai/jobs/info/68a40cb2e9f1c744da1202f6?utm_campaign=1066&utm_source=git)** | Mason, OH | On Site | Aug 18 |
 | ↳ | **[Procter & Gamble – Consumer & Market Knowledge: Analytics & Insights Internship (Advanced Analytics) – Summer 2026](https://jobright.ai/jobs/info/68a40c44e9f1c744da12028b?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Aug 18 |
 | ↳ | **[Procter & Gamble – Consumer & Market Knowledge: Analytics & Insights Internship (Advanced Analytics) – Summer 2026](https://jobright.ai/jobs/info/68a40bdc541cc34798409d58?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Aug 18 |
-| **[MKS Inc.](https://www.mks.com)** | **[2025 IT Analytics and Dashboards Intern/co-op](https://jobright.ai/jobs/info/68a568bab6a3617d7fa7176a?utm_campaign=1066&utm_source=git)** | Andover, MA | On Site | Aug 18 |
-| **[Procter & Gamble](https://us.pg.com/)** | **[Procter & Gamble – Consumer & Market Knowledge: Analytics & Insights Internship (Advanced Analytics) – Summer 2026](https://jobright.ai/jobs/info/68a408ba2d2a252445cd50b0?utm_campaign=1066&utm_source=git)** | Cumberland, RI | On Site | Aug 18 |
+| ↳ | **[Procter & Gamble – Consumer & Market Knowledge: Analytics & Insights Internship (Advanced Analytics) – Summer 2026](https://jobright.ai/jobs/info/68a408ba2d2a252445cd50b0?utm_campaign=1066&utm_source=git)** | Cumberland, RI | On Site | Aug 18 |
 | **[Schneider Electric](https://www.se.com)** | **[Data Scientist Intern- Fall 2025](https://jobright.ai/jobs/info/68a4046f541cc34798409a3e?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Aug 18 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Data Science - Paid Intern](https://jobright.ai/jobs/info/68a3e6be541cc34798408b6f?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 18 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68a3e6932d2a252445cd3f7f?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[IDEAS](http://www.ideas.firm.in)** | **[Research & Development Intern](https://jobright.ai/jobs/info/68a389691ab5f8579e8a6ad1?utm_campaign=1066&utm_source=git)** | US-MN-Bloomington | On Site | Aug 18 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Internship (Summer 2025)](https://jobright.ai/jobs/info/68a383841ab5f8579e8a67ca?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Aug 18 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68a3826537d3cc6b0d577bb2?utm_campaign=1066&utm_source=git)** | Spring, TX | Hybrid | Aug 18 |
+| **[Ameren](http://ameren.com)** | **[Data Analytics Co-Op](https://jobright.ai/jobs/info/68a3801937d3cc6b0d577945?utm_campaign=1066&utm_source=git)** | St. Louis, MO | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
