@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rigel Pharmaceuticals Inc.](http://www.rigel.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/68a6419533dd7158bbc9f13b?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 20 |
+| ↳ | **[Intern, Data Science](https://jobright.ai/jobs/info/68a6416933dd7158bbc9f126?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 20 |
+| **[Continental Resources](https://clr.com/)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68a64040b6a3617d7fa767c3?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Aug 20 |
+| ↳ | **[Data Analyst Intern (Co-Op)](https://jobright.ai/jobs/info/68a6402eb6a3617d7fa767b0?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Aug 20 |
+| **[PROFICIO](http://www.proficio.com)** | **[Operational Excellence Power BI Internship](https://jobright.ai/jobs/info/68a6392733dd7158bbc9ede1?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 20 |
+| **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Data Science Internship](https://jobright.ai/jobs/info/68a631c1758f2e4ac3fe38da?utm_campaign=1066&utm_source=git)** | Bellevue | On Site | Aug 20 |
+| **[Ascendro](https://www.linkedin.com/company/101421200)** | **[Research Reporting and Documentation Intern](https://jobright.ai/jobs/info/68a630b7758f2e4ac3fe365f?utm_campaign=1066&utm_source=git)** | San Diego, CA | Remote | Aug 20 |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Engineering Intern-BI Design Lab](https://jobright.ai/jobs/info/68a6293f33dd7158bbc9e654?utm_campaign=1066&utm_source=git)** | Champaign, IL | On Site | Aug 20 |
 | **[Cisco](http://www.cisco.com)** | **[Data Analyst I (Intern) United States](https://jobright.ai/jobs/info/68a61b7b758f2e4ac3fe2afb?utm_campaign=1066&utm_source=git)** | San Jose, California, US | Hybrid | Aug 20 |
 | ↳ | **[Data Analyst I (Intern) United States](https://jobright.ai/jobs/info/68a61b1a33dd7158bbc9dc98?utm_campaign=1066&utm_source=git)** | Austin Texas, RTP North Carolina, Remote USA | Remote | Aug 20 |
 | **[Athene](https://www.athene.com/)** | **[Summer Analyst, Client & Product Solutions](https://jobright.ai/jobs/info/68a61afe758f2e4ac3fe29f2?utm_campaign=1066&utm_source=git)** | New York, New York | On Site | Aug 20 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schneider Electric](https://www.se.com)** | **[Data Scientist Intern- Fall 2025](https://jobright.ai/jobs/info/68a4046f541cc34798409a3e?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Aug 18 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Data Science - Paid Intern](https://jobright.ai/jobs/info/68a3e6be541cc34798408b6f?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 18 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68a3e6932d2a252445cd3f7f?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 18 |
-| **[County of Riverside](http://www.rc-hr.com)** | **[Investigations Internship](https://jobright.ai/jobs/info/68a3d9221ab5f8579e8a8d74?utm_campaign=1066&utm_source=git)** | Riverside County, CA | On Site | Aug 18 |
-| **[Shopify](https://www.shopify.com/)** | **[Data Internships, 2026 - USA (Americas, Bellevue, New York City)](https://jobright.ai/jobs/info/68a3d5ca1ab5f8579e8a8c7b?utm_campaign=1066&utm_source=git)** | Bellevue, WA | Remote | Aug 18 |
-| **[Gallagher](http://www.ajg.com)** | **[U.S Internship - Data Analytics](https://jobright.ai/jobs/info/68a3d4b4403ad4363b1c42c4?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | Hybrid | Aug 18 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/68a3ce0637d3cc6b0d579bef?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 18 |
-| **[Shopify](https://www.shopify.com/)** | **[Data Internships, 2026 - USA (Americas, Bellevue, New York City)](https://jobright.ai/jobs/info/68a3cdf4403ad4363b1c3f26?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Aug 18 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Science - Paid Intern](https://jobright.ai/jobs/info/68a3cdab403ad4363b1c3e7f?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Aug 18 |
-| **[Procter & Gamble](https://us.pg.com/)** | **[Procter & Gamble – Consumer & Market Knowledge: Analytics & Insights Internship (Advanced Analytics) – Summer 2026](https://jobright.ai/jobs/info/68a3cc78403ad4363b1c3da3?utm_campaign=1066&utm_source=git)** | FAYETTEVILLE SALES OFFICE | On Site | Aug 18 |
-| **[Gallagher Re](https://www.gallagherre.com/)** | **[U.S Internship - Data Analytics](https://jobright.ai/jobs/info/68a3cc6537d3cc6b0d579b24?utm_campaign=1066&utm_source=git)** | Rolling Meadows, Illinois | Hybrid | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
