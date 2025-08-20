@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BASF](https://www.basf.com/)** | **[2026 Summer Internship - Data Science/Computer Engineering - Geismar, LA](https://jobright.ai/jobs/info/68a51573b6a3617d7fa6e5d6?utm_campaign=1066&utm_source=git)** | Geismar, LA | Hybrid | Aug 19 |
+| **[Philadelphia Phillies](http://phillies.mlb.com)** | **[Quantitative Analyst Associate (Spring/Summer 2026)](https://jobright.ai/jobs/info/68a52fa533dd7158bbc97cdb?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Aug 19 |
 | **[Schneider Electric](https://www.se.com)** | **[Data & Analytics Intern (January 2026)](https://jobright.ai/jobs/info/68a5110633dd7158bbc96d5c?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Aug 19 |
+| **[BASF](https://www.basf.com/)** | **[2026 Summer Internship - Data Science/Computer Engineering - Geismar, LA](https://jobright.ai/jobs/info/68a51573b6a3617d7fa6e5d6?utm_campaign=1066&utm_source=git)** | Geismar, LA | Hybrid | Aug 19 |
 | **[Sedgwick](http://www.sedgwick.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68a50d97b6a3617d7fa6e2a8?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 19 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Commercial Operations Data Analyst Co-Op at Hill’s Pet Nutrition](https://jobright.ai/jobs/info/68a50d36b6a3617d7fa6e236?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 19 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Walt Disney World Transportation Logistics & Analytics Intern, Spring 2026](https://jobright.ai/jobs/info/68a50202758f2e4ac3fdb495?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Aug 19 |
@@ -71,7 +72,12 @@ For a complete list, click the following sortable link below:
 | **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[Postdoctoral Fellow - Bioinformatics & Computational Biology (Chen Lab)](https://jobright.ai/jobs/info/68a50d23b6a3617d7fa6e21e?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 19 |
 | ↳ | **[Postdoctoral Fellow - Applied Decision Science in Cancer](https://jobright.ai/jobs/info/68a50d55758f2e4ac3fdb8d7?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 19 |
 | ↳ | **[Research Intern -Computational - Statistical Research Intern](https://jobright.ai/jobs/info/68a50c7c758f2e4ac3fdb799?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Aug 19 |
+| ↳ | **[Research Intern - Radiation Oncology (Dr. Enderling Lab)](https://jobright.ai/jobs/info/68a5407433dd7158bbc9846a?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 19 |
+| ↳ | **[Postdoctoral Fellow - Statistics in Multi-omics and Cancer](https://jobright.ai/jobs/info/68a5424c758f2e4ac3fdd316?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 19 |
+| ↳ | **[Postdoctoral Fellow - Biostatistics](https://jobright.ai/jobs/info/68a5407933dd7158bbc98477?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 19 |
+| ↳ | **[Postdoctoral Fellow - Statistical Genomics](https://jobright.ai/jobs/info/68a5419433dd7158bbc985d7?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 19 |
 | ↳ | **[Postdoctoral Fellow - The Wang Laboratory](https://jobright.ai/jobs/info/68a4d98cbdd80e69391be6e1?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 19 |
+| **[Pimlico Enterprises](https://www.linkedin.com/company/107052602)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68a5421e758f2e4ac3fdd2c9?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 19 |
 | **[Church & Dwight Co., Inc.](https://www.churchdwight.ca/)** | **[2026 Master's Data Science Co-op](https://jobright.ai/jobs/info/68a4d54ee9f1c744da124cb0?utm_campaign=1066&utm_source=git)** | USA, Ewing, NJ | Hybrid | Aug 19 |
 | **[BWXT](http://www.bwxt.com/)** | **[Mathematics/Statistics Intern- Virginia (Summer 2026)](https://jobright.ai/jobs/info/68a4d008bdd80e69391bde42?utm_campaign=1066&utm_source=git)** | Lynchburg, VA | On Site | Aug 19 |
 | **[Church & Dwight Co., Inc.](https://www.churchdwight.ca/)** | **[2026 Master's Data Science Co-op](https://jobright.ai/jobs/info/68a4ced5e9f1c744da12489c?utm_campaign=1066&utm_source=git)** | Ewing, NJ | Hybrid | Aug 19 |
@@ -145,16 +151,10 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Science - Paid Intern](https://jobright.ai/jobs/info/68a39110403ad4363b1c2490?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 18 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68a390d2403ad4363b1c2419?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 18 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Research & Development Intern](https://jobright.ai/jobs/info/68a389691ab5f8579e8a6ad1?utm_campaign=1066&utm_source=git)** | US-MN-Bloomington | On Site | Aug 18 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[Business Data Analyst (IC) –  Indirect Commodity](https://jobright.ai/jobs/info/68a4f95233dd7158bbc963af?utm_campaign=1066&utm_source=git)** | San Jose, California | On Site | Aug 18 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Internship (Summer 2025)](https://jobright.ai/jobs/info/68a383841ab5f8579e8a67ca?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Aug 18 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68a3826537d3cc6b0d577bb2?utm_campaign=1066&utm_source=git)** | Spring, TX | Hybrid | Aug 18 |
 | **[Milliman](http://www.milliman.com)** | **[2026 Data Analyst Summer Internship – Minneapolis (Hybrid/Remote)](https://jobright.ai/jobs/info/68a37f881ab5f8579e8a660a?utm_campaign=1066&utm_source=git)** | Eden Prairie, MN | Hybrid | Aug 18 |
 | **[Ameren](http://ameren.com)** | **[Data Analytics Co-Op](https://jobright.ai/jobs/info/68a37f351ab5f8579e8a65cd?utm_campaign=1066&utm_source=git)** | St. Louis, MO | On Site | Aug 18 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Single-Family Data Intern- Summer 2026](https://jobright.ai/jobs/info/68a37e03403ad4363b1c1ae5?utm_campaign=1066&utm_source=git)** | McLean, VA | On Site | Aug 18 |
 | **[GALLO](https://www.gallo.com)** | **[IT Data Analyst Internship 2026](https://jobright.ai/jobs/info/68a37ddd403ad4363b1c1ab9?utm_campaign=1066&utm_source=git)** | Modesto, CA | Hybrid | Aug 18 |
-| **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Cognos and Tableau - College Intern - (20068617)](https://jobright.ai/jobs/info/68a3795f37d3cc6b0d5772a0?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 18 |
-| **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, China Center](https://jobright.ai/jobs/info/68a378151ab5f8579e8a5f44?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Aug 18 |
-| **[Republic Airways](http://www.rjet.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68a3728b1ab5f8579e8a5940?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Aug 18 |
-| **[Jefferson Health](https://www.jeffersonhealth.org/index.html)** | **[Student Researcher](https://jobright.ai/jobs/info/68a36a31403ad4363b1c0dd7?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Aug 18 |
-| **[O'Reilly Auto Parts](http://www.oreillyauto.com/)** | **[GIS & Demographics Intern](https://jobright.ai/jobs/info/68a36a0137d3cc6b0d576ac4?utm_campaign=1066&utm_source=git)** | Springfield, MO | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
