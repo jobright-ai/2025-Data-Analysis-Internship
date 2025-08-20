@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[2nd Order Solutions](https://2os.com)** | **[INTERN DATA SCIENTIST - (Campus Hires)](https://jobright.ai/jobs/info/6892ca5ff5ee707a15dc86c8?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Aug 19 |
+| **[griddable.io](https://griddable.io)** | **[Fall 2025 Intern - Strategic Data Science](https://jobright.ai/jobs/info/68a55f58b6a3617d7fa711a8?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Aug 19 |
 | **[Philadelphia Phillies](http://phillies.mlb.com)** | **[Quantitative Analyst Associate (Spring/Summer 2026)](https://jobright.ai/jobs/info/68a52fa533dd7158bbc97cdb?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Aug 19 |
 | **[Schneider Electric](https://www.se.com)** | **[Data & Analytics Intern (January 2026)](https://jobright.ai/jobs/info/68a5110633dd7158bbc96d5c?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Aug 19 |
 | **[BASF](https://www.basf.com/)** | **[2026 Summer Internship - Data Science/Computer Engineering - Geismar, LA](https://jobright.ai/jobs/info/68a51573b6a3617d7fa6e5d6?utm_campaign=1066&utm_source=git)** | Geismar, LA | Hybrid | Aug 19 |
-| **[Sedgwick](http://www.sedgwick.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68a50d97b6a3617d7fa6e2a8?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 19 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Commercial Operations Data Analyst Co-Op at Hill’s Pet Nutrition](https://jobright.ai/jobs/info/68a50d36b6a3617d7fa6e236?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 19 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Walt Disney World Transportation Logistics & Analytics Intern, Spring 2026](https://jobright.ai/jobs/info/68a50202758f2e4ac3fdb495?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Aug 19 |
 | **[Liberty Harbor](https://www.libertyharbor.com/)** | **[Data/Computer Science Intern/Technician](https://jobright.ai/jobs/info/68a50138758f2e4ac3fdb361?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Aug 19 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[BWXT](http://www.bwxt.com/)** | **[Mathematics/Statistics Intern- Virginia (Summer 2026)](https://jobright.ai/jobs/info/68a4d008bdd80e69391bde42?utm_campaign=1066&utm_source=git)** | Lynchburg, VA | On Site | Aug 19 |
 | **[Church & Dwight Co., Inc.](https://www.churchdwight.ca/)** | **[2026 Master's Data Science Co-op](https://jobright.ai/jobs/info/68a4ced5e9f1c744da12489c?utm_campaign=1066&utm_source=git)** | Ewing, NJ | Hybrid | Aug 19 |
 | **[Wharton-Smith, Inc.](https://www.whartonsmith.com/)** | **[Business Intelligence and Solutions (BIS) - Intern](https://jobright.ai/jobs/info/68a4cd57e9f1c744da1247b1?utm_campaign=1066&utm_source=git)** | Sanford, FL, USA | On Site | Aug 19 |
-| **[Sedgwick](http://www.sedgwick.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68a4ca60e9f1c744da1245d8?utm_campaign=1066&utm_source=git)** | US Telecommuter | Remote | Aug 19 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[DCPH-A Musculoskeletal Injury Surveillance and Reporting Research Opportunity](https://jobright.ai/jobs/info/68a4c876541cc3479840dd0e?utm_campaign=1066&utm_source=git)** | Aberdeen, MD | On Site | Aug 19 |
 | **[Figma](https://www.figma.com)** | **[Data Science Intern (2026)](https://jobright.ai/jobs/info/68a4c3b62d2a252445cd8e0c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 19 |
 | ↳ | **[Data Science Intern (2026)](https://jobright.ai/jobs/info/68a4c255541cc3479840d899?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Aug 19 |
@@ -95,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Asana](https://asana.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6888078573e3e13cbd941e23?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Aug 19 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/68882dcbfbbf032d00079234?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Aug 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Search)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c500e79a9f96662538675?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
+| ↳ | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6898a69f83d13d1f5b6909f0?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
 | ↳ | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/6899791383d13d1f5b692f4a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
 | ↳ | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c304a83d13d1f5b6a7503?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
 | ↳ | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/68986e4583d13d1f5b690414?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Milliman](http://www.milliman.com)** | **[2026 Data Analyst Summer Internship – Minneapolis (Hybrid/Remote)](https://jobright.ai/jobs/info/68a37f881ab5f8579e8a660a?utm_campaign=1066&utm_source=git)** | Eden Prairie, MN | Hybrid | Aug 18 |
 | **[Ameren](http://ameren.com)** | **[Data Analytics Co-Op](https://jobright.ai/jobs/info/68a37f351ab5f8579e8a65cd?utm_campaign=1066&utm_source=git)** | St. Louis, MO | On Site | Aug 18 |
 | **[Freddie Mac](http://www.freddiemac.com)** | **[Single-Family Data Intern- Summer 2026](https://jobright.ai/jobs/info/68a37e03403ad4363b1c1ae5?utm_campaign=1066&utm_source=git)** | McLean, VA | On Site | Aug 18 |
-| **[GALLO](https://www.gallo.com)** | **[IT Data Analyst Internship 2026](https://jobright.ai/jobs/info/68a37ddd403ad4363b1c1ab9?utm_campaign=1066&utm_source=git)** | Modesto, CA | Hybrid | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
