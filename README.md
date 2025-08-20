@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Post Doctoral Scholar](https://jobright.ai/jobs/info/6891a225f47efe2113957c8a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 19 |
 | **[2nd Order Solutions](https://2os.com)** | **[INTERN DATA SCIENTIST - (Campus Hires)](https://jobright.ai/jobs/info/6892ca5ff5ee707a15dc86c8?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Aug 19 |
 | **[griddable.io](https://griddable.io)** | **[Fall 2025 Intern - Strategic Data Science](https://jobright.ai/jobs/info/68a55f58b6a3617d7fa711a8?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Aug 19 |
 | **[Philadelphia Phillies](http://phillies.mlb.com)** | **[Quantitative Analyst Associate (Spring/Summer 2026)](https://jobright.ai/jobs/info/68a52fa533dd7158bbc97cdb?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Aug 19 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[IDEAS](http://www.ideas.firm.in)** | **[Research & Development Intern](https://jobright.ai/jobs/info/68a389691ab5f8579e8a6ad1?utm_campaign=1066&utm_source=git)** | US-MN-Bloomington | On Site | Aug 18 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Internship (Summer 2025)](https://jobright.ai/jobs/info/68a383841ab5f8579e8a67ca?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Aug 18 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68a3826537d3cc6b0d577bb2?utm_campaign=1066&utm_source=git)** | Spring, TX | Hybrid | Aug 18 |
-| **[Ameren](http://ameren.com)** | **[Data Analytics Co-Op](https://jobright.ai/jobs/info/68a3801937d3cc6b0d577945?utm_campaign=1066&utm_source=git)** | St. Louis, MO | On Site | Aug 18 |
 | **[Milliman](http://www.milliman.com)** | **[2026 Data Analyst Summer Internship – Minneapolis (Hybrid/Remote)](https://jobright.ai/jobs/info/68a37f881ab5f8579e8a660a?utm_campaign=1066&utm_source=git)** | Eden Prairie, MN | Hybrid | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
