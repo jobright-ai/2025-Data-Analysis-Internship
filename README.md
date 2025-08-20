@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brunswick Corporation](http://www.brunswick.com)** | **[Engineering Intern-BI Design Lab](https://jobright.ai/jobs/info/68a608feb6a3617d7fa74b74?utm_campaign=1066&utm_source=git)** | Champaign, IL | On Site | Aug 20 |
+| **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[Data Analytics Intern, Office of Audit and Investigation Services (Remote)](https://jobright.ai/jobs/info/68a6062b758f2e4ac3fe1ff0?utm_campaign=1066&utm_source=git)** | New York, United States | Remote | Aug 20 |
+| ↳ | **[Data Analytics Intern, Office of Audit and Investigation Services](https://jobright.ai/jobs/info/68a6041d758f2e4ac3fe1ede?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 20 |
+| **[We Energies](https://www.we-energies.com)** | **[Intern - Analytics](https://jobright.ai/jobs/info/68a5fd4933dd7158bbc9d03d?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Aug 20 |
+| **[Schneider Electric Sustainability Business](http://www.summitenergy.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68a5f23533dd7158bbc9cb50?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Aug 20 |
+| **[Flatiron School](http://flatironschool.com)** | **[Apprentice, Data Scientist](https://jobright.ai/jobs/info/68927543f5ee707a15dc5d40?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 20 |
 | **[Moffitt Cancer Center](http://moffitt.org)** | **[POST DOC FELLOW](https://jobright.ai/jobs/info/68a5ec3d758f2e4ac3fe1651?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Aug 20 |
 | **[MRI Software](http://www.mrisoftware.com)** | **[Fall Intern, Data Management](https://jobright.ai/jobs/info/68a5eb6033dd7158bbc9c8c5?utm_campaign=1066&utm_source=git)** | Ohio Remote | Remote | Aug 20 |
 | ↳ | **[Fall Intern, Data Management](https://jobright.ai/jobs/info/68a5e9e8758f2e4ac3fe146e?utm_campaign=1066&utm_source=git)** | Georgia Remote | Remote | Aug 20 |
-| **[Flatiron School](http://flatironschool.com)** | **[Apprentice, Data Scientist](https://jobright.ai/jobs/info/68927543f5ee707a15dc5d40?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 20 |
 | **[UNFPA Supply Chain](https://www.unfpa.org/supplychain)** | **[Data Analytics Intern, Office of Audit and Investigation Services](https://jobright.ai/jobs/info/68a5d85eb6a3617d7fa7395b?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 20 |
 | **[Asana](https://asana.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68895f24aab47a17f67011de?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 20 |
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Post Doctoral Scholar](https://jobright.ai/jobs/info/6891a225f47efe2113957c8a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 19 |
@@ -97,6 +102,7 @@ For a complete list, click the following sortable link below:
 | **[Figma](https://www.figma.com)** | **[Data Science Intern (2026)](https://jobright.ai/jobs/info/68a4a7722d2a252445cd827d?utm_campaign=1066&utm_source=git)** | San Francisco, CA • New York, NY | On Site | Aug 19 |
 | **[Salesforce](https://www.salesforce.com)** | **[Fall 2025 Intern - Strategic Data Science](https://jobright.ai/jobs/info/68a49ed52d2a252445cd7f4c?utm_campaign=1066&utm_source=git)** | California - San Francisco | Hybrid | Aug 19 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Research Assistant Multi-Regional Clinical Trials](https://jobright.ai/jobs/info/68a5d996758f2e4ac3fe0e6e?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Aug 19 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Business Risk Integrated Control-Risk Measurement) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6889945509808a6103e48bfb?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/6888331afbbf032d000793e5?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | Aug 19 |
 | ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/6888315c4174df41e0fa34c8?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Aug 19 |
 | ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/68882d5373e3e13cbd942bfd?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Aug 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Procter & Gamble – Consumer & Market Knowledge: Analytics & Insights Internship (Advanced Analytics) – Summer 2026](https://jobright.ai/jobs/info/68a3cad037d3cc6b0d57991c?utm_campaign=1066&utm_source=git)** | CINCINNATI GENERAL OFFICES | On Site | Aug 18 |
 | **[FNBO](https://www.fnbo.com)** | **[Internship - Data Analytics (Omaha, NE)](https://jobright.ai/jobs/info/68a3c35b1ab5f8579e8a8148?utm_campaign=1066&utm_source=git)** | Omaha Metropolitan Area | On Site | Aug 18 |
 | **[Drexel University](http://drexel.edu)** | **[Post-Doctoral Research Associate](https://jobright.ai/jobs/info/68a3e57a2d2a252445cd3c19?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 18 |
-| **[ClearView Healthcare Partners](http://clearviewhcp.com)** | **[Life Sciences Summer Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/687ad826764c3d7411c2fb6b?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Aug 18 |
-| **[IDEAS](http://www.ideas.firm.in)** | **[Research & Development Intern](https://jobright.ai/jobs/info/68a3ba501ab5f8579e8a7d24?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Aug 18 |
-| **[Ameren](http://ameren.com)** | **[Data Analytics Co-Op](https://jobright.ai/jobs/info/68a3ba221ab5f8579e8a7ce6?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Aug 18 |
-| **[Resolution Economics](http://resecon.com)** | **[Research Assistant - Intern](https://jobright.ai/jobs/info/68a3b2c0403ad4363b1c2f7c?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 18 |
-| **[Association of Universities for Research in Astronomy](http://aura-astronomy.org)** | **[CosmicAI Post Doctoral Research Associate at NSF NOIRLab](https://jobright.ai/jobs/info/68a3e6082d2a252445cd3dab?utm_campaign=1066&utm_source=git)** | Tucson, AZ | On Site | Aug 18 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Science - Paid Intern](https://jobright.ai/jobs/info/68a39110403ad4363b1c2490?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
