@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FGS Global](https://fgsglobal.com)** | **[Fall Intern- Research & Insights](https://jobright.ai/jobs/info/688af3d2aab47a17f670cf15?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Aug 21 |
+| ↳ | **[IT Intern, CRM & Data Analytics](https://jobright.ai/jobs/info/688ac56f09808a6103e512db?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 21 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689403694c7e851b90ae2086?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
 | **[Cisco](http://www.cisco.com)** | **[Data Analyst I (Intern) United States](https://jobright.ai/jobs/info/68a6c0ea33dd7158bbca27e9?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 20 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[SDOT Asset Management Data Maintainer/Analyst](https://jobright.ai/jobs/info/68a6c0c033dd7158bbca27bf?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Aug 20 |
 | **[GridX, Inc.](http://www.gridx.com)** | **[Data Science Intern - Hybrid Denver, CO](https://jobright.ai/jobs/info/68a67c88758f2e4ac3fe513e?utm_campaign=1066&utm_source=git)** | Denver, Colorado, United States | Hybrid | Aug 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/68a05325cc9ee94dc911efd1?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6892c8cf4c7e851b90ad86ea?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
 | **[ByteDance](http://bytedance.com)** | **[Multilingual Data Intern (Speech) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68a05301faa4e875e8290183?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689403694c7e851b90ae2086?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
-| **[Shopify](https://www.shopify.com/)** | **[Data Internships, 2026 - USA](https://jobright.ai/jobs/info/68a41d862d2a252445cd5ea6?utm_campaign=1066&utm_source=git)** | Bellevue | Hybrid | Aug 18 |
-| ↳ | **[Data Internships, 2026 - USA](https://jobright.ai/jobs/info/68a41d43e9f1c744da120c80?utm_campaign=1066&utm_source=git)** | New York City | Hybrid | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
