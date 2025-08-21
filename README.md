@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jabil](https://www.jabil.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68a73d44758f2e4ac3fea51b?utm_campaign=1066&utm_source=git)** | Remote - USA | Remote | Aug 21 |
+| **[RF-SMART](http://rfsmart.com/)** | **[Research Analyst Intern- Spring 2026](https://jobright.ai/jobs/info/68a73827d627244576e2a7ad?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Aug 21 |
+| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Catastrophe Risk Summer Intern](https://jobright.ai/jobs/info/68a72f0e758f2e4ac3fe9ef1?utm_campaign=1066&utm_source=git)** | Boston, MA United States of America | Hybrid | Aug 21 |
+| **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Long-Term Intern, Model Risk](https://jobright.ai/jobs/info/68a72e7233dd7158bbca50cc?utm_campaign=1066&utm_source=git)** | Indianapolis | On Site | Aug 21 |
+| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Data Scientist - 24706 (Engineering Intern 4)](https://jobright.ai/jobs/info/68a727dd33dd7158bbca4dec?utm_campaign=1066&utm_source=git)** | Pocasset, MA | On Site | Aug 21 |
+| **[Airbus](https://us.airbus.com)** | **[Interesse an einem Dualen Studium Master of Science Data Science and Artificial Intelligence (d/m/w)?](https://jobright.ai/jobs/info/68a72453d627244576e29f2d?utm_campaign=1066&utm_source=git)** | Hamburg Area | Hybrid | Aug 21 |
 | **[FGS Global](https://fgsglobal.com)** | **[Fall Intern- Research & Insights](https://jobright.ai/jobs/info/688af3d2aab47a17f670cf15?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Aug 21 |
 | ↳ | **[IT Intern, CRM & Data Analytics](https://jobright.ai/jobs/info/688ac56f09808a6103e512db?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 21 |
+| **[Dolby Laboratories](http://www.dolby.com)** | **[Multimodal Data Intern (PhD, Fall 2025)](https://jobright.ai/jobs/info/6881dd7f41fbda106ee6dee3?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Aug 21 |
+| **[ByteDance](http://bytedance.com)** | **[Multilingual Data Intern (Speech) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68a05301faa4e875e8290183?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689403694c7e851b90ae2086?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
 | **[Cisco](http://www.cisco.com)** | **[Data Analyst I (Intern) United States](https://jobright.ai/jobs/info/68a6c0ea33dd7158bbca27e9?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 20 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Post-Doctoral Fellow](https://jobright.ai/jobs/info/689578188c6d6b442677a1c7?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 20 |
@@ -136,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Fall 2025 Intern - Strategic Data Science](https://jobright.ai/jobs/info/68a49ed52d2a252445cd7f4c?utm_campaign=1066&utm_source=git)** | California - San Francisco | Hybrid | Aug 19 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Research Assistant Multi-Regional Clinical Trials](https://jobright.ai/jobs/info/68a5d996758f2e4ac3fe0e6e?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Aug 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Business Risk Integrated Control-Risk Measurement) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6889945509808a6103e48bfb?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
+| **[ENSCO, Inc.](http://www.ensco.com)** | **[Data Analyst Specialist - SkillBridge Internship](https://jobright.ai/jobs/info/67f769a6a2b4f9a76dfc3490?utm_campaign=1066&utm_source=git)** | Melbourne, FL | On Site | Aug 19 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/6888331afbbf032d000793e5?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | Aug 19 |
 | ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/6888315c4174df41e0fa34c8?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Aug 19 |
 | ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/68882d5373e3e13cbd942bfd?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Aug 19 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c304a83d13d1f5b6a7503?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
 | ↳ | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Start (PhD)](https://jobright.ai/jobs/info/68917c104c7e851b90acf022?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
 | ↳ | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689188c1f5ee707a15dbf7f8?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
-| ↳ | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/689285f1f5ee707a15dc6645?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
-| ↳ | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689c2c9183d13d1f5b6a722e?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
-| **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Development (Quant Research) Internship – Summer 2026](https://jobright.ai/jobs/info/688806dbfbbf032d000783f3?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 19 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern(TikTok Shop-Supply Chain & Logistics) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6881e62f41fbda106ee6e8fd?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Global Quantitative Data Analytics Summer 2026 Analyst - Global Risk Management](https://jobright.ai/jobs/info/687daf9aed63844c944b3834?utm_campaign=1066&utm_source=git)** | Atlanta, NY | On Site | Aug 19 |
-| **[ByteDance](http://bytedance.com)** | **[Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/68a05325cc9ee94dc911efd1?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6892c8cf4c7e851b90ad86ea?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
-| **[ByteDance](http://bytedance.com)** | **[Multilingual Data Intern (Speech) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68a05301faa4e875e8290183?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
-| **[Shopify](https://www.shopify.com/)** | **[Data Internships, 2026 - USA](https://jobright.ai/jobs/info/68a41d862d2a252445cd5ea6?utm_campaign=1066&utm_source=git)** | Bellevue | Hybrid | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
