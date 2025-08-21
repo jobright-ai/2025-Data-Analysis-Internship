@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Data Analyst I (Intern) United States](https://jobright.ai/jobs/info/68a6c0ea33dd7158bbca27e9?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 20 |
+| **[City of Seattle](http://www.seattle.gov/)** | **[SDOT Asset Management Data Maintainer/Analyst](https://jobright.ai/jobs/info/68a6c0c033dd7158bbca27bf?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Aug 20 |
 | **[GridX, Inc.](http://www.gridx.com)** | **[Data Science Intern - Hybrid Denver, CO](https://jobright.ai/jobs/info/68a67c88758f2e4ac3fe513e?utm_campaign=1066&utm_source=git)** | Denver, Colorado, United States | Hybrid | Aug 20 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Data Science Internship](https://jobright.ai/jobs/info/68a66777b6a3617d7fa775c6?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Aug 20 |
 | ↳ | **[2026 North America Data Science Internship](https://jobright.ai/jobs/info/68a66704758f2e4ac3fe4b10?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 20 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[2nd Order Solutions](https://2os.com)** | **[INTERN DATA SCIENTIST - (Campus Hires)](https://jobright.ai/jobs/info/6892ca5ff5ee707a15dc86c8?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Aug 19 |
 | **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Epidemiology and Analytics Intern - OD2A Dashboard](https://jobright.ai/jobs/info/68a6a843758f2e4ac3fe6736?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Aug 19 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Commercial Operations Data Analyst Co-Op at Hill’s Pet Nutrition](https://jobright.ai/jobs/info/68a6abbfb6a3617d7fa7937d?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 19 |
-| **[griddable.io](https://griddable.io)** | **[Fall 2025 Intern - Strategic Data Science](https://jobright.ai/jobs/info/68a55f58b6a3617d7fa711a8?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Aug 19 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Commercial & Investment Bank Innovation Development Summer Analyst Program](https://jobright.ai/jobs/info/67f9fa32b78f81c7f3866bdf?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 19 |
 | **[Philadelphia Phillies](http://phillies.mlb.com)** | **[Quantitative Analyst Associate (Spring/Summer 2026)](https://jobright.ai/jobs/info/68a52fa533dd7158bbc97cdb?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Aug 19 |
 | **[Schneider Electric](https://www.se.com)** | **[Data & Analytics Intern (January 2026)](https://jobright.ai/jobs/info/68a5110633dd7158bbc96d5c?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Aug 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Graduate (Product Analytics, USDS) - 2025 Start (BS, MS)](https://jobright.ai/jobs/info/688ee33fcdbd821a36643011?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Aug 19 |
 | ↳ | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/687b74e2764c3d7411c32de7?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
 | ↳ | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/687b1f50764c3d7411c30c36?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
-| **[ByteDance](http://bytedance.com)** | **[Multilingual Data Intern (Speech) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68a05301faa4e875e8290183?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
