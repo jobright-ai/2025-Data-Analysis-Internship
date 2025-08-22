@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blackstone](http://blackstone.com)** | **[2026 Blackstone Data Science Summer Analyst](https://jobright.ai/jobs/info/68a88e40d627244576e33845?utm_campaign=1066&utm_source=git)** | New York | On Site | Aug 22 |
+| **[Miller Auto Technology](https://www.matamericas.com)** | **[Entry-Level Data Intern](https://jobright.ai/jobs/info/68a88db2758f2e4ac3ff343b?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 22 |
+| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Data and Analytics Intern (Fall 2025)](https://jobright.ai/jobs/info/68a88519758f2e4ac3ff2f11?utm_campaign=1066&utm_source=git)** | One Park Circle, Westfield Center, OH, 44251-5001, US | On Site | Aug 22 |
+| **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Data and Analytics Intern (Fall 2025)](https://jobright.ai/jobs/info/68a87f716acf96396f720530?utm_campaign=1066&utm_source=git)** | Westfield Center, OH, United States | On Site | Aug 22 |
+| **[University of New Hampshire](https://innovation.unh.edu/)** | **[Research Assistant](https://jobright.ai/jobs/info/6870400f01cc0956e7e80954?utm_campaign=1066&utm_source=git)** | Durham, NH | On Site | Aug 22 |
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/686f0c16f0f03582b4c212a6?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 22 |
 | **[MS Capital Singapore](https://mscapital.sg)** | **[Quantitative Researcher — Systematic Macro](https://jobright.ai/jobs/info/68a7ec75d627244576e2f905?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 21 |
 | **[Merchants Bank IN](http://bankmerchants.com)** | **[Risk Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68a810bd33dd7158bbcab898?utm_campaign=1066&utm_source=git)** | Carmel, IN | On Site | Aug 21 |
@@ -84,6 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Harford Mutual Insurance Group](http://harfordmutual.com)** | **[Special Investigative Unit Intern](https://jobright.ai/jobs/info/68a75e78758f2e4ac3feb79e?utm_campaign=1066&utm_source=git)** | Bel Air, MD | Hybrid | Aug 21 |
 | **[Jabil](https://www.jabil.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68a757aa33dd7158bbca6694?utm_campaign=1066&utm_source=git)** | St. Petersburg, FL | On Site | Aug 21 |
 | **[Athene](https://www.athene.com/)** | **[Summer Analyst, Technology](https://jobright.ai/jobs/info/68a756cb33dd7158bbca6563?utm_campaign=1066&utm_source=git)** | El Segundo, California | On Site | Aug 21 |
+| **[University of Colorado](https://www.cu.edu)** | **[Post-Doctoral Fellow](https://jobright.ai/jobs/info/68a65752758f2e4ac3fe4548?utm_campaign=1066&utm_source=git)** | Aurora, CO | On Site | Aug 21 |
 | **[Engineers Gate](https://www.eglp.com)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/68a7514733dd7158bbca61ed?utm_campaign=1066&utm_source=git)** | New York City | On Site | Aug 21 |
 | **[We Energies](https://www.we-energies.com)** | **[Intern - Analytics](https://jobright.ai/jobs/info/68a7514133dd7158bbca61e7?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Aug 21 |
 | **[State of Ohio](http://governor.ohio.gov)** | **[Data Science - College Intern - (20068617)](https://jobright.ai/jobs/info/68a750ee33dd7158bbca617a?utm_campaign=1066&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Aug 21 |
@@ -100,6 +106,9 @@ For a complete list, click the following sortable link below:
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68a3826537d3cc6b0d577bb2?utm_campaign=1066&utm_source=git)** | Spring, TX | Hybrid | Aug 21 |
 | **[Amazon](https://amazon.com)** | **[Jr. Data Scientist - Austin, Jr. Developer Program](https://jobright.ai/jobs/info/688b5c001808534a89cb2820?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Aug 21 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2026 Summer]](https://jobright.ai/jobs/info/686f04c8ecaa3a16731d769f?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Aug 21 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689188c1f5ee707a15dbf7f8?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
+| ↳ | **[Data Science Project Intern(TikTok Shop-Supply Chain & Logistics) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6881e62f41fbda106ee6e8fd?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
+| ↳ | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/689285f1f5ee707a15dc6645?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
 | **[FGS Global](https://fgsglobal.com)** | **[Fall Intern- Research & Insights](https://jobright.ai/jobs/info/688af3d2aab47a17f670cf15?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Aug 21 |
 | ↳ | **[IT Intern, CRM & Data Analytics](https://jobright.ai/jobs/info/688ac56f09808a6103e512db?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 21 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Multimodal Data Intern (PhD, Fall 2025)](https://jobright.ai/jobs/info/6881dd7f41fbda106ee6dee3?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Aug 21 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PHOENIX Pharmahandel GmbH & Co KG](https://www.phoenix-online.de/)** | **[Intern (m/f/d) Operational Controlling Analytics](https://jobright.ai/jobs/info/68a6267a758f2e4ac3fe3213?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | Hybrid | Aug 20 |
 | **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[Data Analytics Intern, Office of Audit and Investigation Services](https://jobright.ai/jobs/info/68a6041d758f2e4ac3fe1ede?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 20 |
 | **[We Energies](https://www.we-energies.com)** | **[Intern - Analytics](https://jobright.ai/jobs/info/68a5fd4933dd7158bbc9d03d?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Aug 20 |
-| **[Schneider Electric Sustainability Business](http://www.summitenergy.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68a5f23533dd7158bbc9cb50?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Aug 20 |
-| **[Flatiron School](http://flatironschool.com)** | **[Apprentice, Data Scientist](https://jobright.ai/jobs/info/68927543f5ee707a15dc5d40?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 20 |
-| **[MRI Software](http://www.mrisoftware.com)** | **[Fall Intern, Data Management](https://jobright.ai/jobs/info/68a5eb6033dd7158bbc9c8c5?utm_campaign=1066&utm_source=git)** | Ohio Remote | Remote | Aug 20 |
-| ↳ | **[Fall Intern, Data Management](https://jobright.ai/jobs/info/68a5e9e8758f2e4ac3fe146e?utm_campaign=1066&utm_source=git)** | Georgia Remote | Remote | Aug 20 |
-| **[UNFPA Supply Chain](https://www.unfpa.org/supplychain)** | **[Data Analytics Intern, Office of Audit and Investigation Services](https://jobright.ai/jobs/info/68a5d85eb6a3617d7fa7395b?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 20 |
-| **[Asana](https://asana.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68895f24aab47a17f67011de?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 20 |
-| **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Post Doctoral Scholar](https://jobright.ai/jobs/info/6891a225f47efe2113957c8a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 19 |
-| **[University of Florida](https://www.ufl.edu)** | **[Federal Work Study - Sports Data Analyst](https://jobright.ai/jobs/info/68a8139bd627244576e30bb8?utm_campaign=1066&utm_source=git)** | Alachua, FL | On Site | Aug 19 |
-| **[2nd Order Solutions](https://2os.com)** | **[INTERN DATA SCIENTIST - (Campus Hires)](https://jobright.ai/jobs/info/6892ca5ff5ee707a15dc86c8?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
