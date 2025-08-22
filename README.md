@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/686f0c16f0f03582b4c212a6?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 22 |
 | **[MS Capital Singapore](https://mscapital.sg)** | **[Quantitative Researcher — Systematic Macro](https://jobright.ai/jobs/info/68a7ec75d627244576e2f905?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 21 |
 | **[Merchants Bank IN](http://bankmerchants.com)** | **[Risk Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68a810bd33dd7158bbcab898?utm_campaign=1066&utm_source=git)** | Carmel, IN | On Site | Aug 21 |
 | **[ZS](https://www.zs.com/)** | **[Decision Analytics Associate - Intern (North America - University Students)](https://jobright.ai/jobs/info/68a7a5fd33dd7158bbca886b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 21 |
@@ -86,9 +87,9 @@ For a complete list, click the following sortable link below:
 | **[Engineers Gate](https://www.eglp.com)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/68a7514733dd7158bbca61ed?utm_campaign=1066&utm_source=git)** | New York City | On Site | Aug 21 |
 | **[We Energies](https://www.we-energies.com)** | **[Intern - Analytics](https://jobright.ai/jobs/info/68a7514133dd7158bbca61e7?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Aug 21 |
 | **[State of Ohio](http://ohio.gov/)** | **[Data Science - College Intern - (20068617)](https://jobright.ai/jobs/info/68a750ee33dd7158bbca617a?utm_campaign=1066&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Aug 21 |
+| ↳ | **[Data Science - College Intern - (20068617)](https://jobright.ai/jobs/info/68a74efb758f2e4ac3feae69?utm_campaign=1066&utm_source=git)** | William Green Building30 West Spring Street | On Site | Aug 21 |
 | **[Segal Marco Advisors](http://segalmarco.com/)** | **[Intern- Segal Marco Advisors](https://jobright.ai/jobs/info/68a74edd758f2e4ac3feae5a?utm_campaign=1066&utm_source=git)** | US-IL-Chicago | On Site | Aug 21 |
 | **[State of Ohio](http://ohio.gov/)** | **[Data Science - College Intern - (20068617)](https://jobright.ai/jobs/info/68a74c24d627244576e2b1b9?utm_campaign=1066&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Aug 21 |
-| ↳ | **[Data Science - College Intern - (20068617)](https://jobright.ai/jobs/info/68a74ad333dd7158bbca5d73?utm_campaign=1066&utm_source=git)** | William Green Building30 West Spring Street | On Site | Aug 21 |
 | **[Jabil](https://www.jabil.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68a73d44758f2e4ac3fea51b?utm_campaign=1066&utm_source=git)** | Remote - USA | Remote | Aug 21 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Research Analyst Intern- Spring 2026](https://jobright.ai/jobs/info/68a73827d627244576e2a7ad?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Aug 21 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Data Coordinator](https://jobright.ai/jobs/info/68a814d5d627244576e30cee?utm_campaign=1066&utm_source=git)** | Richmond, KY | On Site | Aug 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Ohio State University Wexner Medical Center](http://wexnermedical.osu.edu/)** | **[Post Doctoral Scholar](https://jobright.ai/jobs/info/6891a225f47efe2113957c8a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 19 |
 | **[University of Florida](https://www.ufl.edu)** | **[Federal Work Study - Sports Data Analyst](https://jobright.ai/jobs/info/68a8139bd627244576e30bb8?utm_campaign=1066&utm_source=git)** | Alachua, FL | On Site | Aug 19 |
 | **[2nd Order Solutions](https://2os.com)** | **[INTERN DATA SCIENTIST - (Campus Hires)](https://jobright.ai/jobs/info/6892ca5ff5ee707a15dc86c8?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Aug 19 |
-| **[Salesforce](https://www.salesforce.com)** | **[Fall 2025 Intern - Strategic Data Science](https://jobright.ai/jobs/info/68a7e5f4d627244576e2f610?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
