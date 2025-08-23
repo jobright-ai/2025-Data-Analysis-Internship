@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Data Science & Digital Innovation Intern - Miami, FL](https://jobright.ai/jobs/info/68a8ffcc6acf96396f72415f?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Aug 22 |
+| ↳ | **[Data Science & Digital Innovation Intern - Miami, FL](https://jobright.ai/jobs/info/68a8ff756acf96396f724119?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Aug 22 |
+| **[Bloom Energy](http://www.bloomenergy.com)** | **[Business Data Science (IC) - Indirect Commodity (IC)](https://jobright.ai/jobs/info/68a8fcab758f2e4ac3ff6820?utm_campaign=1066&utm_source=git)** | San Jose, California | On Site | Aug 22 |
+| **[LVMH](https://www.lvmh.com/)** | **[Client Insights Intern - Fall 2025](https://jobright.ai/jobs/info/68a8e63bd627244576e365e7?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 22 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Data Governance Summer Intern](https://jobright.ai/jobs/info/68a8e49e758f2e4ac3ff6147?utm_campaign=1066&utm_source=git)** | Chicago - 125 S Franklin | Hybrid | Aug 22 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Quantitative Analytics Intern](https://jobright.ai/jobs/info/68a8d983758f2e4ac3ff5e1c?utm_campaign=1066&utm_source=git)** | 6565 Hillcrest Avenue, Dallas, TX, 75205, US | On Site | Aug 22 |
 | **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Quantitative Analytics Intern](https://jobright.ai/jobs/info/68a8d6e8d627244576e35ff2?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Aug 22 |
@@ -101,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[The Chemours Company](https://www.chemours.com)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/68a79347758f2e4ac3fed34c?utm_campaign=1066&utm_source=git)** | New Castle County, DE | On Site | Aug 21 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Supply Chain Data Analyst Internship 2026](https://jobright.ai/jobs/info/68a78e8733dd7158bbca8241?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Aug 21 |
 | **[Activision Blizzard](https://activisionblizzard.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68a770db33dd7158bbca731e?utm_campaign=1066&utm_source=git)** | Santa Monica, CA | Remote | Aug 21 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/689c2c9183d13d1f5b6a722e?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Catastrophe Risk Summer Intern](https://jobright.ai/jobs/info/68a77649758f2e4ac3fec681?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c304a83d13d1f5b6a7503?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | **[Oak Ridge National Laboratory](http://www.ornl.gov/)** | **[Postdoctoral Research Associate](https://jobright.ai/jobs/info/68a7746dd627244576e2c9b1?utm_campaign=1066&utm_source=git)** | Oak Ridge, TN | Hybrid | Aug 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/68a81a71d627244576e3106e?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
 | ↳ | **[Data Science intern (TikTok-Product-Data Science-Interaction-US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68a8187833dd7158bbcabd9d?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | **[ByteDance](http://bytedance.com)** | **[Multilingual Data Intern (Speech) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68a05301faa4e875e8290183?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689403694c7e851b90ae2086?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
-| ↳ | **[Data Scientist Graduate (Product Analytics, USDS) - 2025 Start (BS, MS)](https://jobright.ai/jobs/info/68a7faff758f2e4ac3fefa48?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Aug 21 |
-| ↳ | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/68a7da2c33dd7158bbca9f58?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| **[Cisco](http://www.cisco.com)** | **[Data Analyst I (Intern) United States](https://jobright.ai/jobs/info/68a6c0ea33dd7158bbca27e9?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 20 |
-| **[The Ohio State University](http://www.osu.edu/)** | **[Post-Doctoral Fellow](https://jobright.ai/jobs/info/689578188c6d6b442677a1c7?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
