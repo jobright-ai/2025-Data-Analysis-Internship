@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-op – Data Analytics / Business Intelligence Developer](https://jobright.ai/jobs/info/68a9ac5f6acf96396f7288e1?utm_campaign=1066&utm_source=git)** | Burlington, MA | On Site | Aug 23 |
+| **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/6892fab6f5ee707a15dcac74?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 23 |
 | **[FCA](http://www.fca.com.pl)** | **[TSRC Student Program – ICT Governance](https://jobright.ai/jobs/info/68a9927d758f2e4ac3ffadd8?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | Remote | Aug 23 |
 | **[SWD Inc.](http://swdinc.com)** | **[Data Analytics/Business Intelligence Intern (Fall 2025)](https://jobright.ai/jobs/info/68a94d206acf96396f7261fd?utm_campaign=1066&utm_source=git)** | Addison, IL | On Site | Aug 22 |
 | **[The University of Texas at Arlington](http://www.uta.edu/)** | **[Postdoctoral Researcher](https://jobright.ai/jobs/info/68a92fa3758f2e4ac3ff7ec9?utm_campaign=1066&utm_source=git)** | Arlington, TX | On Site | Aug 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dolby Laboratories](http://www.dolby.com)** | **[Multimodal Data Intern (PhD, Fall 2025)](https://jobright.ai/jobs/info/6881dd7f41fbda106ee6dee3?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Aug 21 |
 | **[Tektronix](http://www.tek.com)** | **[Data Science & Business Analyst Intern Fall 2025](https://jobright.ai/jobs/info/68a65ee2758f2e4ac3fe47cf?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 21 |
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/686f0c16f0f03582b4c21306?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 21 |
-| ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/686efc4758dd0e9007995f94?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
