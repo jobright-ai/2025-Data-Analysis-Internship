@@ -64,6 +64,7 @@ For a complete list, click the following sortable link below:
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/6892fab6f5ee707a15dcac74?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 23 |
 | **[Danaher Life Sciences](https://lifesciences.danaher.com)** | **[Data Science & Digital Innovation Intern - Miami, FL](https://jobright.ai/jobs/info/68aa8670d627244576e3d4ab?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Aug 23 |
 | **[FCA](http://www.fca.com.pl)** | **[TSRC Student Program – ICT Governance](https://jobright.ai/jobs/info/68a9927d758f2e4ac3ffadd8?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | Remote | Aug 23 |
+| **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/68a6564cb6a3617d7fa76ef6?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Aug 23 |
 | **[SWD Inc.](http://swdinc.com)** | **[Data Analytics/Business Intelligence Intern (Fall 2025)](https://jobright.ai/jobs/info/68a94d206acf96396f7261fd?utm_campaign=1066&utm_source=git)** | Addison, IL | On Site | Aug 22 |
 | **[ClearView Healthcare Partners](http://clearviewhcp.com)** | **[Life Sciences Summer Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/687ad826764c3d7411c2fb6b?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Aug 22 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Data Governance Summer Intern](https://jobright.ai/jobs/info/68a91a89758f2e4ac3ff756b?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Aug 22 |
@@ -138,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Engineers Gate](https://www.eglp.com)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/68a7514733dd7158bbca61ed?utm_campaign=1066&utm_source=git)** | New York City | On Site | Aug 21 |
 | **[We Energies](https://www.we-energies.com)** | **[Intern - Analytics](https://jobright.ai/jobs/info/68a7514133dd7158bbca61e7?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Aug 21 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[Data Science - College Intern - (20068617)](https://jobright.ai/jobs/info/68a750ee33dd7158bbca617a?utm_campaign=1066&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Aug 21 |
-| ↳ | **[Data Science - College Intern - (20068617)](https://jobright.ai/jobs/info/68a74efb758f2e4ac3feae69?utm_campaign=1066&utm_source=git)** | William Green Building30 West Spring Street | On Site | Aug 21 |
 | ↳ | **[Data Science - College Intern - (20068617)](https://jobright.ai/jobs/info/68a74c24d627244576e2b1b9?utm_campaign=1066&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Aug 21 |
+| ↳ | **[Data Science - College Intern - (20068617)](https://jobright.ai/jobs/info/68a74ad333dd7158bbca5d73?utm_campaign=1066&utm_source=git)** | William Green Building30 West Spring Street | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6898a69f83d13d1f5b6909f0?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
 | **[Jabil](https://www.jabil.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68a73d44758f2e4ac3fea51b?utm_campaign=1066&utm_source=git)** | Remote - USA | Remote | Aug 21 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Research Analyst Intern- Spring 2026](https://jobright.ai/jobs/info/68a73827d627244576e2a7ad?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Aug 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Project Intern(TikTok Shop-Supply Chain & Logistics) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6881e62f41fbda106ee6e8fd?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
 | ↳ | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/689285f1f5ee707a15dc6645?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
 | **[FGS Global](https://fgsglobal.com)** | **[Fall Intern- Research & Insights](https://jobright.ai/jobs/info/688af3d2aab47a17f670cf15?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Aug 21 |
-| ↳ | **[IT Intern, CRM & Data Analytics](https://jobright.ai/jobs/info/688ac56f09808a6103e512db?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
