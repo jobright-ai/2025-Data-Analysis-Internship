@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Immunology Bioinformatics Intern (PhD)](https://jobright.ai/jobs/info/68aaf9a1758f2e4ac3ffec53?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Aug 24 |
+| **[insightsoftware](https://www.insightsoftware.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/683a54b19a7f46ede4c06b42?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Aug 24 |
 | **[Engineers Gate](https://www.eglp.com)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/68aa25df6acf96396f729b23?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 23 |
 | **[The Ohio State University](http://www.osu.edu/)** | **[Post-Doctoral Fellow](https://jobright.ai/jobs/info/689578188c6d6b442677a1c7?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 23 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-op – Data Analytics / Business Intelligence Developer](https://jobright.ai/jobs/info/68a9ac5f6acf96396f7288e1?utm_campaign=1066&utm_source=git)** | Burlington, MA | On Site | Aug 23 |
@@ -125,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Catastrophe Risk Summer Intern](https://jobright.ai/jobs/info/68a77649758f2e4ac3fec681?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c304a83d13d1f5b6a7503?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | **[Oak Ridge National Laboratory](http://www.ornl.gov/)** | **[Postdoctoral Research Associate](https://jobright.ai/jobs/info/68a7746dd627244576e2c9b1?utm_campaign=1066&utm_source=git)** | Oak Ridge, TN | Hybrid | Aug 21 |
-| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Research Assistant Multi-Regional Clinical Trials](https://jobright.ai/jobs/info/68a5d996758f2e4ac3fe0e6e?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Aug 21 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Data Science - College Intern - (20068617)](https://jobright.ai/jobs/info/68a77135758f2e4ac3fec312?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 21 |
 | **[ByteDance](http://bytedance.com)** | **[Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/68a76f76758f2e4ac3fec129?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Long-Term Intern, Model Risk](https://jobright.ai/jobs/info/68a76b5e33dd7158bbca6d49?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Aug 21 |
