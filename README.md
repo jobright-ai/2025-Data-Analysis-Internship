@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MedScope AI](https://www.linkedin.com/company/108329333)** | **[Research Intern](https://jobright.ai/jobs/info/68aa29606acf96396f729b7b?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 23 |
+| **[Tulane University School of Medicine](https://medicine.tulane.edu)** | **[Postdoctoral Fellow, Computer Science  >>>](https://jobright.ai/jobs/info/68aa283ed627244576e3c625?utm_campaign=1066&utm_source=git)** | New Orleans, LA | On Site | Aug 23 |
+| **[Engineers Gate](https://www.eglp.com)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/68aa25df6acf96396f729b23?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 23 |
+| **[Venture Capital & Innovation Platform](https://www.linkedin.com/company/107599035)** | **[Unpaid Internship – Behavioral Data & Research Analytics Intern](https://jobright.ai/jobs/info/68aa3b65d627244576e3c8f4?utm_campaign=1066&utm_source=git)** | Beverly Hills, CA | On Site | Aug 23 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-op – Data Analytics / Business Intelligence Developer](https://jobright.ai/jobs/info/68a9ac5f6acf96396f7288e1?utm_campaign=1066&utm_source=git)** | Burlington, MA | On Site | Aug 23 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/6892fab6f5ee707a15dcac74?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 23 |
 | **[FCA](http://www.fca.com.pl)** | **[TSRC Student Program – ICT Governance](https://jobright.ai/jobs/info/68a9927d758f2e4ac3ffadd8?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | Remote | Aug 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Project Intern(TikTok Shop-Supply Chain & Logistics) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6881e62f41fbda106ee6e8fd?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
 | ↳ | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/689285f1f5ee707a15dc6645?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
 | **[FGS Global](https://fgsglobal.com)** | **[Fall Intern- Research & Insights](https://jobright.ai/jobs/info/688af3d2aab47a17f670cf15?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Aug 21 |
-| ↳ | **[IT Intern, CRM & Data Analytics](https://jobright.ai/jobs/info/688ac56f09808a6103e512db?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Aug 21 |
-| **[Dolby Laboratories](http://www.dolby.com)** | **[Multimodal Data Intern (PhD, Fall 2025)](https://jobright.ai/jobs/info/6881dd7f41fbda106ee6dee3?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Aug 21 |
-| **[Tektronix](http://www.tek.com)** | **[Data Science & Business Analyst Intern Fall 2025](https://jobright.ai/jobs/info/68a65ee2758f2e4ac3fe47cf?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 21 |
-| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/686f0c16f0f03582b4c21306?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
