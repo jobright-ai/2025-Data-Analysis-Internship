@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Coop, Research](https://jobright.ai/jobs/info/68ab699c758f2e4ac3fff6af?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Aug 24 |
+| **[Tulane University School of Medicine](https://medicine.tulane.edu)** | **[Postdoctoral Fellow, Computer Science  >>>](https://jobright.ai/jobs/info/68ab6985daf1431824c8ee0e?utm_campaign=1066&utm_source=git)** | New Orleans, LA | On Site | Aug 24 |
 | **[Xivius](https://www.linkedin.com/company/107599035)** | **[Unpaid Internship – Psychology, Behavioral Data & Research Analytics Intern](https://jobright.ai/jobs/info/68ab38ffdaf1431824c8ea41?utm_campaign=1066&utm_source=git)** | Beverly Hills, CA | On Site | Aug 24 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Immunology Bioinformatics Intern (PhD)](https://jobright.ai/jobs/info/68aaf9a1758f2e4ac3ffec53?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Aug 24 |
 | **[insightsoftware](https://www.insightsoftware.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/683a54b19a7f46ede4c06b42?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Aug 24 |
@@ -141,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Engineers Gate](https://www.eglp.com)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/68a7514733dd7158bbca61ed?utm_campaign=1066&utm_source=git)** | New York City | On Site | Aug 21 |
 | **[We Energies](https://www.we-energies.com)** | **[Intern - Analytics](https://jobright.ai/jobs/info/68a7514133dd7158bbca61e7?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Aug 21 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[Data Science - College Intern - (20068617)](https://jobright.ai/jobs/info/68a750ee33dd7158bbca617a?utm_campaign=1066&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Aug 21 |
+| ↳ | **[Data Science - College Intern - (20068617)](https://jobright.ai/jobs/info/68a74efb758f2e4ac3feae69?utm_campaign=1066&utm_source=git)** | William Green Building30 West Spring Street | On Site | Aug 21 |
 | ↳ | **[Data Science - College Intern - (20068617)](https://jobright.ai/jobs/info/68a74c24d627244576e2b1b9?utm_campaign=1066&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Aug 21 |
-| ↳ | **[Data Science - College Intern - (20068617)](https://jobright.ai/jobs/info/68a74ad333dd7158bbca5d73?utm_campaign=1066&utm_source=git)** | William Green Building30 West Spring Street | On Site | Aug 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6898a69f83d13d1f5b6909f0?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 21 |
 | **[Jabil](https://www.jabil.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68a73d44758f2e4ac3fea51b?utm_campaign=1066&utm_source=git)** | Remote - USA | Remote | Aug 21 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Research Analyst Intern- Spring 2026](https://jobright.ai/jobs/info/68a73827d627244576e2a7ad?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Aug 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68a3826537d3cc6b0d577bb2?utm_campaign=1066&utm_source=git)** | Spring, TX | Hybrid | Aug 21 |
 | **[Amazon](https://amazon.com)** | **[Jr. Data Scientist - Austin, Jr. Developer Program](https://jobright.ai/jobs/info/688b5c001808534a89cb2820?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Aug 21 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2026 Summer]](https://jobright.ai/jobs/info/686f04c8ecaa3a16731d769f?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Aug 21 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (PhD)](https://jobright.ai/jobs/info/688b98531808534a89cb448d?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| ↳ | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689188c1f5ee707a15dbf7f8?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
