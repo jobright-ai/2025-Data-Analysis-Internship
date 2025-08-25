@@ -73,8 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Crimes Unit Data & Analytics Tech Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5c0758f2e4ac30031d4?utm_campaign=1066&utm_source=git)** | NY-New York | On Site | Aug 24 |
 | ↳ | **[Financial Crimes Unit Data & Analytics Tech Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5bbd627244576e4353a?utm_campaign=1066&utm_source=git)** | IL-Rosemont | On Site | Aug 24 |
 | ↳ | **[Commercial Technology & Innovation Office - AI Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5b9758f2e4ac30031cd?utm_campaign=1066&utm_source=git)** | GA-Atlanta | On Site | Aug 24 |
-| ↳ | **[Commercial Technology & Innovation Office - AI Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5b8d627244576e43539?utm_campaign=1066&utm_source=git)** | IL-Chicago | On Site | Aug 24 |
 | ↳ | **[Deals - Technology and Data Solutions Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5b8758f2e4ac30031cc?utm_campaign=1066&utm_source=git)** | NY-New York | On Site | Aug 24 |
+| ↳ | **[Commercial Technology & Innovation Office - AI Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5b8d627244576e43539?utm_campaign=1066&utm_source=git)** | IL-Chicago | On Site | Aug 24 |
 | ↳ | **[Commercial Technology & Innovation Office - AI Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5b1758f2e4ac30031cb?utm_campaign=1066&utm_source=git)** | DC-Washington | On Site | Aug 24 |
 | ↳ | **[Commercial Technology & Innovation Office - AI Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68abf571d627244576e43511?utm_campaign=1066&utm_source=git)** | IL-Rosemont | On Site | Aug 24 |
 | **[BIGO](https://www.bigo.sg)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68abcaeddaf1431824c90112?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 24 |
