@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of Texas at Arlington](http://www.uta.edu/)** | **[Postdoctoral Researcher](https://jobright.ai/jobs/info/68ab90ad758f2e4ac3fff906?utm_campaign=1066&utm_source=git)** | Arlington, TX | On Site | Aug 24 |
 | **[Adler Planetarium](http://www.adlerplanetarium.org)** | **[Far Horizon Undergraduate Intern](https://jobright.ai/jobs/info/68ab76badaf1431824c8ef63?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 24 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Coop, Research](https://jobright.ai/jobs/info/68ab699c758f2e4ac3fff6af?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Aug 24 |
 | **[Xivius](https://www.linkedin.com/company/107599035)** | **[Unpaid Internship – Psychology, Behavioral Data & Research Analytics Intern](https://jobright.ai/jobs/info/68ab38ffdaf1431824c8ea41?utm_campaign=1066&utm_source=git)** | Beverly Hills, CA | On Site | Aug 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Data Scientist - 24706 (Engineering Intern 4)](https://jobright.ai/jobs/info/68a727dd33dd7158bbca4dec?utm_campaign=1066&utm_source=git)** | Pocasset, MA | On Site | Aug 21 |
 | **[Airbus](https://us.airbus.com)** | **[Interesse an einem Dualen Studium Master of Science Data Science and Artificial Intelligence (d/m/w)?](https://jobright.ai/jobs/info/68a72453d627244576e29f2d?utm_campaign=1066&utm_source=git)** | Hamburg Area | Hybrid | Aug 21 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68a3826537d3cc6b0d577bb2?utm_campaign=1066&utm_source=git)** | Spring, TX | Hybrid | Aug 21 |
-| **[Amazon](https://amazon.com)** | **[Jr. Data Scientist - Austin, Jr. Developer Program](https://jobright.ai/jobs/info/688b5c001808534a89cb2820?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
