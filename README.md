@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Joinrs](http://www.tutored.me)** | **[Junior Data Scientist & AI](https://jobright.ai/jobs/info/68ac29bcdaf1431824c93e8e?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 25 |
 | **[BGI, LLC](http://bgi-llc.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68ac06cad627244576e43b2f?utm_campaign=1066&utm_source=git)** | Akron, OH - Akron, OH 44311 US (Primary)Remote, US | Remote | Aug 24 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern – Digital and Analytics](https://jobright.ai/jobs/info/68ac062cd627244576e43a78?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 24 |
 | **[PwC](http://pwc.com)** | **[Commercial Technology & Innovation Office - AI Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68abf7d7daf1431824c929cc?utm_campaign=1066&utm_source=git)** | MA-Boston | On Site | Aug 24 |
@@ -72,8 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Financial Crimes Unit Data & Analytics Tech Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5c0758f2e4ac30031d4?utm_campaign=1066&utm_source=git)** | NY-New York | On Site | Aug 24 |
 | ↳ | **[Financial Crimes Unit Data & Analytics Tech Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5bbd627244576e4353a?utm_campaign=1066&utm_source=git)** | IL-Rosemont | On Site | Aug 24 |
 | ↳ | **[Commercial Technology & Innovation Office - AI Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5b9758f2e4ac30031cd?utm_campaign=1066&utm_source=git)** | GA-Atlanta | On Site | Aug 24 |
-| ↳ | **[Deals - Technology and Data Solutions Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5b8758f2e4ac30031cc?utm_campaign=1066&utm_source=git)** | NY-New York | On Site | Aug 24 |
 | ↳ | **[Commercial Technology & Innovation Office - AI Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5b8d627244576e43539?utm_campaign=1066&utm_source=git)** | IL-Chicago | On Site | Aug 24 |
+| ↳ | **[Deals - Technology and Data Solutions Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5b8758f2e4ac30031cc?utm_campaign=1066&utm_source=git)** | NY-New York | On Site | Aug 24 |
 | ↳ | **[Commercial Technology & Innovation Office - AI Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5b1758f2e4ac30031cb?utm_campaign=1066&utm_source=git)** | DC-Washington | On Site | Aug 24 |
 | ↳ | **[Commercial Technology & Innovation Office - AI Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68abf571d627244576e43511?utm_campaign=1066&utm_source=git)** | IL-Rosemont | On Site | Aug 24 |
 | **[BIGO](https://www.bigo.sg)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68abcaeddaf1431824c90112?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oak Ridge National Laboratory](http://www.ornl.gov/)** | **[Postdoctoral Research Associate](https://jobright.ai/jobs/info/68a7746dd627244576e2c9b1?utm_campaign=1066&utm_source=git)** | Oak Ridge, TN | Hybrid | Aug 21 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Data Science - College Intern - (20068617)](https://jobright.ai/jobs/info/68a77135758f2e4ac3fec312?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 21 |
 | **[ByteDance](http://bytedance.com)** | **[Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/68a76f76758f2e4ac3fec129?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Aug 21 |
-| **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Long-Term Intern, Model Risk](https://jobright.ai/jobs/info/68a76b5e33dd7158bbca6d49?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
