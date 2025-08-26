@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UNSW](https://www.founders.unsw.edu.au)** | **[Postdoctoral Fellow - Psychology](https://jobright.ai/jobs/info/68ad9fd6d627244576e4e2cd?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Aug 26 |
+| ↳ | **[Postdoctoral Fellow - Psychology](https://jobright.ai/jobs/info/68ad9d55daf1431824c9d464?utm_campaign=1066&utm_source=git)** | New Haven, CT | On Site | Aug 26 |
 | **[Apziva](https://www.apziva.com/)** | **[Data Scientist in Residence](https://jobright.ai/jobs/info/68ad5eb0daf1431824c9c601?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2026 Co-op – Data Analytics](https://jobright.ai/jobs/info/68ad522edaf1431824c9c264?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Aug 25 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Analyst](https://jobright.ai/jobs/info/68ad7417d627244576e4dd02?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Aug 25 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Analyst](https://jobright.ai/jobs/info/68ad5077daf1431824c9c18d?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Aug 25 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2025-2026 Wells Fargo Corporate Risk Externship Program (Masters) – Early Careers](https://jobright.ai/jobs/info/68ad619edaf1431824c9c806?utm_campaign=1066&utm_source=git)** | CHARLOTTE, NC | On Site | Aug 25 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Data Scientist](https://jobright.ai/jobs/info/68ad22a2d627244576e4b872?utm_campaign=1066&utm_source=git)** | Worcester, MA | On Site | Aug 25 |
 | ↳ | **[Intern - PL Data Analyst](https://jobright.ai/jobs/info/68ad2192d627244576e4b6f9?utm_campaign=1066&utm_source=git)** | Worcester, MA | Hybrid | Aug 25 |
@@ -79,9 +81,11 @@ For a complete list, click the following sortable link below:
 | **[PwC](http://pwc.com)** | **[Commercial Technology & Innovation Office - AI Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68aca6c6d627244576e47b08?utm_campaign=1066&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Aug 25 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/68aca63a758f2e4ac3007566?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Aug 25 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Data Analyst Intern (Summer 2026) - Indianapolis Health](https://jobright.ai/jobs/info/68acbb3fdaf1431824c97aa0?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Aug 25 |
-| **[Continental Resources](https://clr.com/)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68acb668daf1431824c979b6?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Aug 25 |
+| **[Continental Resources](https://clr.com/)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68acb57bdaf1431824c97885?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Aug 25 |
 | **[PwC](http://pwc.com)** | **[Deals - Technology and Data Solutions Intern - Summer 2026](https://jobright.ai/jobs/info/68acafe3daf1431824c972e6?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Aug 25 |
 | ↳ | **[Deals - Technology and Data Solutions Intern - Summer 2026](https://jobright.ai/jobs/info/68acafdedaf1431824c972df?utm_campaign=1066&utm_source=git)** | Buffalo-Niagara Area | On Site | Aug 25 |
+| ↳ | **[Commercial Technology & Innovation Office - AI Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68ad8c7fd627244576e4e0a9?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Aug 25 |
+| ↳ | **[Commercial Technology & Innovation Office - AI Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68ad8d28758f2e4ac300dbb7?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Aug 25 |
 | **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Quantitative Trading](https://jobright.ai/jobs/info/68acae2fdaf1431824c9713c?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Discover Analyst Program January 2026](https://jobright.ai/jobs/info/68acacc1758f2e4ac300786e?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Aug 25 |
 | **[PwC](http://pwc.com)** | **[Commercial Technology & Innovation Office - AI Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68ad3daf758f2e4ac300c22d?utm_campaign=1066&utm_source=git)** | Illinois, United States | On Site | Aug 25 |
@@ -111,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Google](https://www.google.com)** | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac7a8e758f2e4ac3005e6c?utm_campaign=1066&utm_source=git)** | Goleta, CA, USA | On Site | Aug 25 |
 | ↳ | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac7a4c758f2e4ac3005e35?utm_campaign=1066&utm_source=git)** | Raleigh, NC, USA | On Site | Aug 25 |
 | ↳ | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac7a03daf1431824c955ac?utm_campaign=1066&utm_source=git)** | Irvine, CA, USA | On Site | Aug 25 |
-| ↳ | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac79f1daf1431824c9559f?utm_campaign=1066&utm_source=git)** | Washington D.C., DC, USA | On Site | Aug 25 |
 | ↳ | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac79f1daf1431824c955a0?utm_campaign=1066&utm_source=git)** | Atlanta, GA, USA | On Site | Aug 25 |
+| ↳ | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac79f1daf1431824c9559f?utm_campaign=1066&utm_source=git)** | Washington D.C., DC, USA | On Site | Aug 25 |
 | ↳ | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac79dd758f2e4ac3005e1b?utm_campaign=1066&utm_source=git)** | Redmond, WA, USA | On Site | Aug 25 |
 | ↳ | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac79c1daf1431824c9557d?utm_campaign=1066&utm_source=git)** | San Jose, CA, USA | On Site | Aug 25 |
 | ↳ | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac79bfdaf1431824c95578?utm_campaign=1066&utm_source=git)** | Madison, WI, USA | On Site | Aug 25 |
@@ -125,13 +129,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac7948daf1431824c95557?utm_campaign=1066&utm_source=git)** | Redwood City, CA, USA | On Site | Aug 25 |
 | ↳ | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac7947daf1431824c95555?utm_campaign=1066&utm_source=git)** | Cambridge, MA, USA | On Site | Aug 25 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Sales Data Analytics Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac793c758f2e4ac3005de9?utm_campaign=1066&utm_source=git)** | Westerville, OH, United States | On Site | Aug 25 |
-| **[Google](https://www.google.com)** | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac793ad627244576e461d5?utm_campaign=1066&utm_source=git)** | Kirkland, WA, USA | On Site | Aug 25 |
-| ↳ | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac793ad627244576e461d6?utm_campaign=1066&utm_source=git)** | San Diego, CA, USA | On Site | Aug 25 |
+| **[Google](https://www.google.com)** | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac793ad627244576e461d6?utm_campaign=1066&utm_source=git)** | San Diego, CA, USA | On Site | Aug 25 |
+| ↳ | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac793ad627244576e461d5?utm_campaign=1066&utm_source=git)** | Kirkland, WA, USA | On Site | Aug 25 |
 | ↳ | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac7939758f2e4ac3005de7?utm_campaign=1066&utm_source=git)** | Chicago, IL, USA | On Site | Aug 25 |
 | ↳ | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac7930758f2e4ac3005de3?utm_campaign=1066&utm_source=git)** | Palo Alto, CA, USA | On Site | Aug 25 |
 | ↳ | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac7923d627244576e461cf?utm_campaign=1066&utm_source=git)** | Santa Cruz, CA, USA | On Site | Aug 25 |
-| ↳ | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac790bd627244576e461c5?utm_campaign=1066&utm_source=git)** | Reston, VA, USA | On Site | Aug 25 |
 | ↳ | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac790bd627244576e461c6?utm_campaign=1066&utm_source=git)** | New York, NY, USA | On Site | Aug 25 |
+| ↳ | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac790bd627244576e461c5?utm_campaign=1066&utm_source=git)** | Reston, VA, USA | On Site | Aug 25 |
 | ↳ | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac7904daf1431824c95548?utm_campaign=1066&utm_source=git)** | San Bruno, CA, USA | On Site | Aug 25 |
 | ↳ | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac78fed627244576e461c0?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA, USA | On Site | Aug 25 |
 | ↳ | **[Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68ac78fedaf1431824c95545?utm_campaign=1066&utm_source=git)** | Durham, NC, USA | On Site | Aug 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Deals - Technology and Data Solutions Intern - Summer 2026](https://jobright.ai/jobs/info/68abf735daf1431824c9294a?utm_campaign=1066&utm_source=git)** | IL-Rosemont | On Site | Aug 24 |
 | ↳ | **[Deals - Technology and Data Solutions Intern - Summer 2026](https://jobright.ai/jobs/info/68abf612d627244576e43586?utm_campaign=1066&utm_source=git)** | DC-Washington | On Site | Aug 24 |
 | ↳ | **[Commercial Technology & Innovation Office - AI Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5df758f2e4ac30031e0?utm_campaign=1066&utm_source=git)** | TX-Dallas | On Site | Aug 24 |
-| ↳ | **[Commercial Technology & Innovation Office - AI Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5d9758f2e4ac30031dd?utm_campaign=1066&utm_source=git)** | TX-Houston | On Site | Aug 24 |
-| ↳ | **[Commercial Technology & Innovation Office - AI Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5d0d627244576e4354c?utm_campaign=1066&utm_source=git)** | WA-Seattle | On Site | Aug 24 |
-| ↳ | **[Financial Crimes Unit Data & Analytics Tech Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5c0758f2e4ac30031d4?utm_campaign=1066&utm_source=git)** | NY-New York | On Site | Aug 24 |
-| ↳ | **[Financial Crimes Unit Data & Analytics Tech Intern - Summer 2026](https://jobright.ai/jobs/info/68abf5bbd627244576e4353a?utm_campaign=1066&utm_source=git)** | IL-Rosemont | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
