@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Insights Analyst](https://jobright.ai/jobs/info/68aeaaf57bcb7608b3d28df4?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Aug 26 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Data Management Intern](https://jobright.ai/jobs/info/68ae779fd627244576e5420f?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Aug 26 |
 | ↳ | **[Summer 2026 MDM Developer Intern](https://jobright.ai/jobs/info/68ae6d77d627244576e53cff?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Aug 26 |
 | **[Ascentra Credit Union](https://www.ascentra.org/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68ae5b1ed627244576e535d9?utm_campaign=1066&utm_source=git)** | Bettendorf, IA, USA | On Site | Aug 26 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analytics Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ae15b0758f2e4ac301132d?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 26 |
 | ↳ | **[Data Analytics Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ae13e1758f2e4ac3011151?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 26 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[PowerBI Data Analyst Intern - Atlanta, GA (Spring 2026)](https://jobright.ai/jobs/info/68ae1366758f2e4ac30110e3?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Aug 26 |
-| **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Data Science Intern, Research Central](https://jobright.ai/jobs/info/68ae338edaf1431824ca1809?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 26 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Data Science Intern - Spring 2026](https://jobright.ai/jobs/info/68ae0fd7758f2e4ac3011037?utm_campaign=1066&utm_source=git)** | District of Columbia, United States | Hybrid | Aug 26 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[PowerBI Data Analyst Intern - Atlanta, GA (Summer 2026)](https://jobright.ai/jobs/info/68ae0fa1daf1431824ca05e0?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Aug 26 |
 | ↳ | **[Data Analyst Intern - Indianapolis, IN (Summer 2026)](https://jobright.ai/jobs/info/68ae0e43758f2e4ac3010e4a?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Aug 26 |
@@ -100,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[International Justice Mission](http://www.ijm.org)** | **[Data Science Intern - Spring 2026](https://jobright.ai/jobs/info/68add6eadaf1431824c9e627?utm_campaign=1066&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Aug 26 |
 | ↳ | **[Data Science Intern - Spring 2026](https://jobright.ai/jobs/info/68add6bad627244576e4f43f?utm_campaign=1066&utm_source=git)** | United States - Remote | Remote | Aug 26 |
 | **[CNO Financial Group](http://www.cnoinc.com)** | **[Reporting Analyst Internship- Summer 2026](https://jobright.ai/jobs/info/68adc381daf1431824c9de8c?utm_campaign=1066&utm_source=git)** | Carmel, IN | On Site | Aug 26 |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Data Science Intern, Research Central](https://jobright.ai/jobs/info/68adc34ad627244576e4ebb0?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 26 |
 | **[Alfa Laval](http://www.alfalaval.com)** | **[Purchasing Data Validation Intern](https://jobright.ai/jobs/info/68916464f5ee707a15dbe27d?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 26 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Quantitative Developer Intern, Summer 2026](https://jobright.ai/jobs/info/68adafeadaf1431824c9d779?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Aug 26 |
 | **[UNSW](https://www.unsw.edu.au/)** | **[Postdoctoral Fellow - Psychology](https://jobright.ai/jobs/info/68ad9fd6d627244576e4e2cd?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Aug 26 |
 | ↳ | **[Postdoctoral Fellow - Psychology](https://jobright.ai/jobs/info/6891c52ff5ee707a15dc203d?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Aug 26 |
 | ↳ | **[Postdoctoral Fellow - Psychology](https://jobright.ai/jobs/info/68ad9d55daf1431824c9d464?utm_campaign=1066&utm_source=git)** | New Haven, CT | On Site | Aug 26 |
@@ -125,13 +125,14 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Spatial Transcriptomics Intern (PhD)](https://jobright.ai/jobs/info/68acf8d9daf1431824c9973a?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Aug 25 |
 | **[Grupo Fleury](http://www.grupofleury.com.br)** | **[Programa de Estágio 2025 - Data Analytics - Engenharia de Dados](https://jobright.ai/jobs/info/68ae0a1cd627244576e50f36?utm_campaign=1066&utm_source=git)** | Home, KS | Remote | Aug 25 |
 | **[EPFL ENAC](https://www.epfl.ch/schools/enac/)** | **[Postdoctoral researcher with a background in Computational biology or Data Science](https://jobright.ai/jobs/info/68accff6758f2e4ac3008fe2?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Aug 25 |
+| **[Alliance Defending Freedom](https://adflegal.org)** | **[Research Intern](https://jobright.ai/jobs/info/68accc5ed627244576e4933c?utm_campaign=1066&utm_source=git)** | Lansdowne, VA | On Site | Aug 25 |
 | **[Summit (formerly Deft)](http://www.servercentral.com)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/68accbc3d627244576e492b5?utm_campaign=1066&utm_source=git)** | Alden, IA | On Site | Aug 25 |
 | **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Quantitative Analytics Intern](https://jobright.ai/jobs/info/68acc8dedaf1431824c982d0?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Aug 25 |
 | **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Data Forensics - Summer 2026 (Atlanta, Boston, Chicago, D.C., New York)](https://jobright.ai/jobs/info/68acc1fa758f2e4ac300880a?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Aug 25 |
 | **[PwC](http://pwc.com)** | **[Commercial Technology & Innovation Office - AI Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68aca6c6d627244576e47b08?utm_campaign=1066&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Aug 25 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/68aca63a758f2e4ac3007566?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Aug 25 |
 | **[Milliman](http://www.milliman.com)** | **[Healthcare Data Analyst Intern (Summer 2026) - Indianapolis Health](https://jobright.ai/jobs/info/68acbb3fdaf1431824c97aa0?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Aug 25 |
-| **[Continental Resources](https://clr.com/)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68acb2d3758f2e4ac3007d52?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Aug 25 |
+| **[Continental Resources](https://clr.com/)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68acb668daf1431824c979b6?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Aug 25 |
 | **[PwC](http://pwc.com)** | **[Deals - Technology and Data Solutions Intern - Summer 2026](https://jobright.ai/jobs/info/68acafe3daf1431824c972e6?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Aug 25 |
 | ↳ | **[Deals - Technology and Data Solutions Intern - Summer 2026](https://jobright.ai/jobs/info/68acafdedaf1431824c972df?utm_campaign=1066&utm_source=git)** | Buffalo-Niagara Area | On Site | Aug 25 |
 | ↳ | **[Commercial Technology & Innovation Office - AI Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68ad8c7fd627244576e4e0a9?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Aug 25 |
@@ -140,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Komen Graduate Training Program UT MDACC](http://www.mdanderson.org/komentrainingprogram)** | **[Postdoctoral Fellow - Applied Decision Science in Cancer](https://jobright.ai/jobs/info/68adb0a5d627244576e4e5d7?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 25 |
 | **[Federal Reserve Bank of Richmond](https://www.richmondfed.org/)** | **[Discover Analyst Program January 2026](https://jobright.ai/jobs/info/68acacc1758f2e4ac300786e?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Aug 25 |
 | **[Komen Graduate Training Program UT MDACC](http://www.mdanderson.org/komentrainingprogram)** | **[Research Intern - Radiation Oncology (Dr. Enderling Lab)](https://jobright.ai/jobs/info/68adb15dd627244576e4e61e?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Aug 25 |
-| **[Alliance Defending Freedom](https://adflegal.org)** | **[Research Intern](https://jobright.ai/jobs/info/68acabdbd627244576e47cc7?utm_campaign=1066&utm_source=git)** | Lansdowne, VA | On Site | Aug 25 |
 | **[PwC](http://pwc.com)** | **[Commercial Technology & Innovation Office - AI Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68ad3daf758f2e4ac300c22d?utm_campaign=1066&utm_source=git)** | Illinois, United States | On Site | Aug 25 |
 | ↳ | **[Deals - Technology and Data Solutions Intern - Summer 2026](https://jobright.ai/jobs/info/68ad3aed758f2e4ac300be6b?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Aug 25 |
 | ↳ | **[Commercial Technology & Innovation Office - AI Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68ad3d33daf1431824c9b8a6?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Aug 25 |
