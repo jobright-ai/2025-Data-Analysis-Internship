@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Star Mutual Insurance Company](http://northstarmutual.com)** | **[Research & Filings Analyst Intern - Research & Development](https://jobright.ai/jobs/info/68b096cc2d46f6396cae6cb6?utm_campaign=1066&utm_source=git)** | Cottonwood, MN | On Site | Aug 28 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026 - Susquehanna International Group](https://jobright.ai/jobs/info/68b094822d46f6396cae6ae3?utm_campaign=1066&utm_source=git)** | Bala-Cynwyd, PA | On Site | Aug 28 |
+| **[GuideWell Source](https://www.guidewellsource.com/)** | **[Commercial Analytics Summer 2026 Internship](https://jobright.ai/jobs/info/68b08d18b47fb001d68934e2?utm_campaign=1066&utm_source=git)** | Jacksonville, FL, United States | On Site | Aug 28 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - TPG Global IE](https://jobright.ai/jobs/info/68b08837b47fb001d6893254?utm_campaign=1066&utm_source=git)** | Boise, ID - Main Site | On Site | Aug 28 |
+| **[Covestro](https://www.covestro.com)** | **[Data Analyst Intern, Pittsburgh](https://jobright.ai/jobs/info/68b087c813563e782a9f70b1?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Aug 28 |
+| **[Florida Blue](https://www.floridablue.com)** | **[Commercial Analytics Summer 2026 Internship](https://jobright.ai/jobs/info/68b0866d13563e782a9f6f3d?utm_campaign=1066&utm_source=git)** | Jacksonville, FL, United States | On Site | Aug 28 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Clinical Data Management Intern](https://jobright.ai/jobs/info/68b078c613563e782a9f671d?utm_campaign=1066&utm_source=git)** | US, Indianapolis IN | On Site | Aug 28 |
 | **[UVA Health](https://www.uvahealth.com)** | **[Gaynor research assistant](https://jobright.ai/jobs/info/68b0786e2d46f6396cae5af1?utm_campaign=1066&utm_source=git)** | Charlottesville, VA | On Site | Aug 28 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Clinical Data Scientist Intern](https://jobright.ai/jobs/info/68b077a8b47fb001d6892897?utm_campaign=1066&utm_source=git)** | US, Indianapolis IN | On Site | Aug 28 |
@@ -68,8 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Reliability Analyst Intern](https://jobright.ai/jobs/info/68b05d592d46f6396cae49f1?utm_campaign=1066&utm_source=git)** | La Grange, IL | Hybrid | Aug 28 |
 | **[DriveTime](https://www.drivetime.com)** | **[Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/68b05cbd2d46f6396cae48c2?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Aug 28 |
 | **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Research Intern](https://jobright.ai/jobs/info/68b059b1b47fb001d689163c?utm_campaign=1066&utm_source=git)** | GA Atlanta | Remote | Aug 28 |
-| **[DriveTime](https://www.drivetime.com)** | **[Data Science Intern (Summer 2024)](https://jobright.ai/jobs/info/68b0574e2d46f6396cae4560?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Aug 28 |
-| ↳ | **[Business Intelligence Intern (Summer 2025)](https://jobright.ai/jobs/info/68b055fd2d46f6396cae4332?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Aug 28 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Reliability Analyst Intern](https://jobright.ai/jobs/info/68b053842d46f6396cae3ec8?utm_campaign=1066&utm_source=git)** | EMD HQ LaGrange, IL - 400 | Hybrid | Aug 28 |
 | ↳ | **[Reliability Analyst Intern](https://jobright.ai/jobs/info/68b052d813563e782a9f4e71?utm_campaign=1066&utm_source=git)** | LaGrange | Hybrid | Aug 28 |
 | ↳ | **[Reliability Analyst Intern](https://jobright.ai/jobs/info/68b04ffab47fb001d6891072?utm_campaign=1066&utm_source=git)** | La Grange | Hybrid | Aug 28 |
@@ -112,14 +116,13 @@ For a complete list, click the following sortable link below:
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Data Science Intern, Incarceration and Inequality Project](https://jobright.ai/jobs/info/68af589e962903596357bf45?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 27 |
 | **[Hormel Foods](http://www.hormelfoods.com/)** | **[Hormel Foods - IT Data Analyst Intern - Summer 2026 (Austin, MN)](https://jobright.ai/jobs/info/68af57c81f0a2a568a060c93?utm_campaign=1066&utm_source=git)** | Austin, MN, United States | On Site | Aug 27 |
 | ↳ | **[Hormel Foods - IT Data Analyst Intern - Summer 2026 (Austin, MN)](https://jobright.ai/jobs/info/68af5708962903596357bd44?utm_campaign=1066&utm_source=git)** | 1101 North Main Street, Austin, MN, 55912, US | On Site | Aug 27 |
-| **[Sanofi](https://www.sanofi.com)** | **[US Advanced Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68af55e7962903596357bb40?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Aug 27 |
+| **[Extreme Engineering Solutions](https://www.xes-inc.com/)** | **[Data Analyst Co-Op](https://jobright.ai/jobs/info/68af49e41f0a2a568a06047d?utm_campaign=1066&utm_source=git)** | Verona, WI | On Site | Aug 27 |
 | **[American University](http://american.edu)** | **[Graduate Quantitative Research Methodology Coordinator (Student)](https://jobright.ai/jobs/info/68af448b7bcb7608b3d2c153?utm_campaign=1066&utm_source=git)** | Main Campus (Washington, DC) | On Site | Aug 27 |
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Intern - Enterprise Data Warehouse](https://jobright.ai/jobs/info/68af438e7bcb7608b3d2c077?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Aug 27 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - ET Operations Analytics](https://jobright.ai/jobs/info/68af3d657bcb7608b3d2bc3f?utm_campaign=1066&utm_source=git)** | Glen Allen, VA | On Site | Aug 27 |
+| **[MKS Inc.](https://www.mks.com)** | **[2026 Summer IT BA/Data Intern](https://jobright.ai/jobs/info/68af3b742daaba398441c770?utm_campaign=1066&utm_source=git)** | Andover, MA | On Site | Aug 27 |
 | **[Continental](https://www.continental.com)** | **[Data Analysis Intern (Yearlong)](https://jobright.ai/jobs/info/68af37e57bcb7608b3d2b94e?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | Aug 27 |
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Summer IT BA/Data Intern](https://jobright.ai/jobs/info/68af36af7bcb7608b3d2b8f3?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Aug 27 |
-| ↳ | **[2026 Summer IT BA/Data Intern](https://jobright.ai/jobs/info/68af34ee2daaba398441c254?utm_campaign=1066&utm_source=git)** | Andover, MA | On Site | Aug 27 |
-| **[Extreme Engineering Solutions](https://www.xes-inc.com/)** | **[Data Analyst Co-Op](https://jobright.ai/jobs/info/68af3a4b7bcb7608b3d2bbd5?utm_campaign=1066&utm_source=git)** | Verona, WI | On Site | Aug 27 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Regulatory Data Analyst](https://jobright.ai/jobs/info/68af24bf1f0a2a568a05f380?utm_campaign=1066&utm_source=git)** | Worcester, MA | On Site | Aug 27 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities – Redmond](https://jobright.ai/jobs/info/6893453a4c7e851b90adccc2?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Aug 27 |
 | **[Boston Legacy FC](https://bostonlegacyfc.com/)** | **[Data Science Internship](https://jobright.ai/jobs/info/68b07a362d46f6396cae5bdf?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Aug 27 |
@@ -143,8 +146,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Aug 26 |
 | **[Amazon](https://amazon.com)** | **[Business Intelligence Engineer Co-Op – 2026 (US)](https://jobright.ai/jobs/info/68ae3627758f2e4ac301217f?utm_campaign=1066&utm_source=git)** | Seattle, Washington, USA | On Site | Aug 26 |
 | ↳ | **[Business Intelligence Engineer Internship - 2026 (US)](https://jobright.ai/jobs/info/68ae341cdaf1431824ca1869?utm_campaign=1066&utm_source=git)** | Seattle, Washington, USA | On Site | Aug 26 |
-| **[Sanofi](https://www.sanofi.com)** | **[US Advanced Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68ae2a3ddaf1431824ca14a5?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Aug 26 |
-| ↳ | **[US Advanced Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68ae28dd758f2e4ac3011cf3?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Aug 26 |
 | **[The University of Texas Rio Grande Valley](https://www.utrgv.edu/)** | **[Graduate Research Assistant (PhD Student)](https://jobright.ai/jobs/info/68ae1911d627244576e51984?utm_campaign=1066&utm_source=git)** | Edinburg, TX | On Site | Aug 26 |
 | **[Google](https://www.google.com)** | **[Data Analytics Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ae18c3daf1431824ca0c72?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Aug 26 |
 | ↳ | **[Data Analytics Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ae15b0758f2e4ac301132d?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 26 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[PowerBI Data Analyst Intern - Atlanta, GA (Spring 2026)](https://jobright.ai/jobs/info/68ae1366758f2e4ac30110e3?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Aug 26 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Data Science Intern, Research Central](https://jobright.ai/jobs/info/68ae338edaf1431824ca1809?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 26 |
 | **[Brigham and Women's Hospital](http://www.brighamandwomens.org/)** | **[Coop, Research](https://jobright.ai/jobs/info/68ab699c758f2e4ac3fff6af?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Aug 26 |
+| **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Data Analyst Intern - Indianapolis, IN (Summer 2026)](https://jobright.ai/jobs/info/68ae1070daf1431824ca06b5?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Aug 26 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Data Science Intern - Spring 2026](https://jobright.ai/jobs/info/68ae0fd7758f2e4ac3011037?utm_campaign=1066&utm_source=git)** | District of Columbia, United States | Hybrid | Aug 26 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[PowerBI Data Analyst Intern - Atlanta, GA (Summer 2026)](https://jobright.ai/jobs/info/68ae0fa1daf1431824ca05e0?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Aug 26 |
-| ↳ | **[Data Analyst Intern - Indianapolis, IN (Summer 2026)](https://jobright.ai/jobs/info/68ae0e43758f2e4ac3010e4a?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Aug 26 |
 | **[Google](https://www.google.com)** | **[Data Analytics Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ae0c39d627244576e5122d?utm_campaign=1066&utm_source=git)** | New York, NY, USA | On Site | Aug 26 |
-| ↳ | **[Data Analytics Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ae0a0bdaf1431824ca01e2?utm_campaign=1066&utm_source=git)** | Chicago, IL, USA | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
