@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IGS Energy](http://www.igsenergy.com)** | **[Advanced Analytics Intern](https://jobright.ai/jobs/info/68b1ae9f1ade4306aa6312ae?utm_campaign=1066&utm_source=git)** | Ohio Remote | Remote | Aug 29 |
+| **[Red Hat](http://www.redhat.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68b1ae33bc187f64e1bd60c5?utm_campaign=1066&utm_source=git)** | Raleigh | On Site | Aug 29 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/68b1ab67f4e41a61efd7ef66?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Aug 29 |
+| **[Henkel](http://www.henkel.com)** | **[Information Technology & Data Analytics Intern – Summer 2026](https://jobright.ai/jobs/info/68b19ff81ade4306aa630c49?utm_campaign=1066&utm_source=git)** | Stamford, None, US | On Site | Aug 29 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Developer (Quant Researcher) – 2026 Grads](https://jobright.ai/jobs/info/6894ebfe73b3a600fe88358d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 29 |
+| **[Coker Group](https://www.coker.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68b1a0c51ade4306aa630d29?utm_campaign=1066&utm_source=git)** | Chattanooga, TN | On Site | Aug 29 |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Strategic Data Analytics Intern](https://jobright.ai/jobs/info/6894fcec8c6d6b4426776362?utm_campaign=1066&utm_source=git)** | Strongsville, OH | On Site | Aug 29 |
 | **[Tulane University School of Medicine](https://medicine.tulane.edu)** | **[Postdoctoral Fellow, Computer Science  >>>](https://jobright.ai/jobs/info/68b16a046fab621da7b0d7cc?utm_campaign=1066&utm_source=git)** | New Orleans, LA | On Site | Aug 29 |
 | **[Midcontinent Independent System Operator (MISO)](https://www.misoenergy.org/)** | **[2026 Summer Intern - Data Analytics](https://jobright.ai/jobs/info/68b1827fbc187f64e1bd52b2?utm_campaign=1066&utm_source=git)** | Carmel, IN | On Site | Aug 29 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Analytics & Data Strategy](https://jobright.ai/jobs/info/68b14e9a6fab621da7b0c5c5?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 28 |
@@ -108,8 +114,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Spatial Transcriptomics Intern (PhD)](https://jobright.ai/jobs/info/68b05f0a2d46f6396cae4d3e?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Aug 28 |
 | ↳ | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/68b05da82d46f6396cae4aa3?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Aug 28 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Reliability Analyst Intern](https://jobright.ai/jobs/info/68b05d592d46f6396cae49f1?utm_campaign=1066&utm_source=git)** | La Grange, IL | Hybrid | Aug 28 |
-| **[American Cancer Society Cancer Action Network (ACS CAN)](https://www.fightcancer.org)** | **[Research Intern](https://jobright.ai/jobs/info/68b059b1b47fb001d689163c?utm_campaign=1066&utm_source=git)** | GA Atlanta | Remote | Aug 28 |
-| **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Reliability Analyst Intern](https://jobright.ai/jobs/info/68b053842d46f6396cae3ec8?utm_campaign=1066&utm_source=git)** | EMD HQ LaGrange, IL - 400 | Hybrid | Aug 28 |
+| ↳ | **[Reliability Analyst Intern](https://jobright.ai/jobs/info/68b053842d46f6396cae3ec8?utm_campaign=1066&utm_source=git)** | EMD HQ LaGrange, IL - 400 | Hybrid | Aug 28 |
 | ↳ | **[Reliability Analyst Intern](https://jobright.ai/jobs/info/68b052d813563e782a9f4e71?utm_campaign=1066&utm_source=git)** | LaGrange | Hybrid | Aug 28 |
 | ↳ | **[Reliability Analyst Intern](https://jobright.ai/jobs/info/68b04ffab47fb001d6891072?utm_campaign=1066&utm_source=git)** | La Grange | Hybrid | Aug 28 |
 | **[Direction Home Akron Canton Area Agency on Aging & Disabilities](https://www.dhad.org)** | **[PQI Intern](https://jobright.ai/jobs/info/68b17c18bc187f64e1bd50c5?utm_campaign=1066&utm_source=git)** | Uniontown, OH | On Site | Aug 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Munich Re](https://www.munichre.com)** | **[Data Science Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/68af6d302daaba398441e25a?utm_campaign=1066&utm_source=git)** | NYC Metro Area | Hybrid | Aug 27 |
 | **[Georgia Institute of Technology](http://gatech.edu)** | **[Research Intern (GTRI-Research Security)](https://jobright.ai/jobs/info/68af64742daaba398441de1d?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Aug 27 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Early Development Clinical Operations /Study and Data Management Intern](https://jobright.ai/jobs/info/68af5fe82daaba398441dbc5?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Aug 27 |
-| ↳ | **[Summer 2026 Early Development Clinical Operations /Study and Data Management Intern](https://jobright.ai/jobs/info/68af5fd8962903596357c3b1?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Aug 27 |
-| **[Arch Insurance Group Inc.](https://insurance.archgroup.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68af5eae962903596357c287?utm_campaign=1066&utm_source=git)** | Washington, DC United States of America | Hybrid | Aug 27 |
-| **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68af5e591f0a2a568a060fd0?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Aug 27 |
-| **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Data Science Intern, Incarceration and Inequality Project](https://jobright.ai/jobs/info/68af589e962903596357bf45?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 27 |
-| **[Hormel Foods](http://www.hormelfoods.com/)** | **[Hormel Foods - IT Data Analyst Intern - Summer 2026 (Austin, MN)](https://jobright.ai/jobs/info/68af57c81f0a2a568a060c93?utm_campaign=1066&utm_source=git)** | Austin, MN, United States | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
