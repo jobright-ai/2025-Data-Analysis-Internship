@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Developer (Quant Researcher) – 2026 Grads](https://jobright.ai/jobs/info/6894ebfe73b3a600fe88358d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[Tulane University School of Medicine](https://medicine.tulane.edu)** | **[Postdoctoral Fellow, Computer Science  >>>](https://jobright.ai/jobs/info/68b16a046fab621da7b0d7cc?utm_campaign=1066&utm_source=git)** | New Orleans, LA | On Site | Aug 29 |
+| **[Midcontinent Independent System Operator (MISO)](https://www.misoenergy.org/)** | **[2026 Summer Intern - Data Analytics](https://jobright.ai/jobs/info/68b1827fbc187f64e1bd52b2?utm_campaign=1066&utm_source=git)** | Carmel, IN | On Site | Aug 29 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Analytics & Data Strategy](https://jobright.ai/jobs/info/68b14e9a6fab621da7b0c5c5?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 28 |
 | **[Yamaha Corporation](https://www.yamaha.com)** | **[Digital Analytics Intern](https://jobright.ai/jobs/info/68b1477804557a6c207bc070?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 28 |
 | **[UPS](http://www.ups.com)** | **[GBS Data Science Internship – Spring/Summer 2026](https://jobright.ai/jobs/info/68b144b96fab621da7b0bd54?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Aug 28 |
@@ -110,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Reliability Analyst Intern](https://jobright.ai/jobs/info/68b053842d46f6396cae3ec8?utm_campaign=1066&utm_source=git)** | EMD HQ LaGrange, IL - 400 | Hybrid | Aug 28 |
 | ↳ | **[Reliability Analyst Intern](https://jobright.ai/jobs/info/68b052d813563e782a9f4e71?utm_campaign=1066&utm_source=git)** | LaGrange | Hybrid | Aug 28 |
 | ↳ | **[Reliability Analyst Intern](https://jobright.ai/jobs/info/68b04ffab47fb001d6891072?utm_campaign=1066&utm_source=git)** | La Grange | Hybrid | Aug 28 |
+| **[Direction Home Akron Canton Area Agency on Aging & Disabilities](https://www.dhad.org)** | **[PQI Intern](https://jobright.ai/jobs/info/68b17c18bc187f64e1bd50c5?utm_campaign=1066&utm_source=git)** | Uniontown, OH | On Site | Aug 28 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Analytics & Data Strategy](https://jobright.ai/jobs/info/68afff1bb47fb001d688efc8?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 28 |
 | **[Capital One](http://www.capitalone.com)** | **[Current Master's - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689adbd983d13d1f5b69d3fb?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Aug 27 |
 | ↳ | **[Current Master's - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689adad783d13d1f5b69d2a9?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Aug 27 |
@@ -129,7 +132,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689add96faa4e875e825d384?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Aug 27 |
 | **[Altman Solon](https://www.altmansolon.com)** | **[Summer Data Analyst Intern 2026](https://jobright.ai/jobs/info/68b144da6fab621da7b0bd7e?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Aug 27 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Data Science Intern, Incarceration and Inequality Project](https://jobright.ai/jobs/info/68afe09fe723db6c9b7b4841?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 27 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[SDOT Asset Management Data Maintainer/Analyst](https://jobright.ai/jobs/info/68b137ce04557a6c207bb2b5?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Corporate Analytics Intern](https://jobright.ai/jobs/info/68afce8813563e782a9f149a?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Analytics & Data Strategy](https://jobright.ai/jobs/info/68afce2913563e782a9f13ef?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 27 |
 | **[Mortenson](https://www.mortenson.com)** | **[Data Analytics & Insights Intern / Mortenson](https://jobright.ai/jobs/info/68afc7d7e723db6c9b7b35c2?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Aug 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68af5e591f0a2a568a060fd0?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Aug 27 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Data Science Intern, Incarceration and Inequality Project](https://jobright.ai/jobs/info/68af589e962903596357bf45?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 27 |
 | **[Hormel Foods](http://www.hormelfoods.com/)** | **[Hormel Foods - IT Data Analyst Intern - Summer 2026 (Austin, MN)](https://jobright.ai/jobs/info/68af57c81f0a2a568a060c93?utm_campaign=1066&utm_source=git)** | Austin, MN, United States | On Site | Aug 27 |
-| ↳ | **[Hormel Foods - IT Data Analyst Intern - Summer 2026 (Austin, MN)](https://jobright.ai/jobs/info/68af5708962903596357bd44?utm_campaign=1066&utm_source=git)** | 1101 North Main Street, Austin, MN, 55912, US | On Site | Aug 27 |
-| **[American University](http://american.edu)** | **[Graduate Quantitative Research Methodology Coordinator (Student)](https://jobright.ai/jobs/info/68af448b7bcb7608b3d2c153?utm_campaign=1066&utm_source=git)** | Main Campus (Washington, DC) | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
