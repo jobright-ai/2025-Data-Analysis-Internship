@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Data Analytics, Data Science, Applied Math, Statistics](https://jobright.ai/jobs/info/68b10e196fab621da7b09a2a?utm_campaign=1066&utm_source=git)** | Azusa, CA | Hybrid | Aug 28 |
+| **[DriveTime](https://www.drivetime.com)** | **[Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/68b10d486fab621da7b099be?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Aug 28 |
+| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Strategic Insights & Analytics 2026 Co-op](https://jobright.ai/jobs/info/68b107a2e815524ae11fab74?utm_campaign=1066&utm_source=git)** | Titusville, NJ | On Site | Aug 28 |
 | **[ARA](https://www.ara.com)** | **[Technical Intern 1](https://jobright.ai/jobs/info/68b106ca6fab621da7b0973d?utm_campaign=1066&utm_source=git)** | Bentonville, AR | On Site | Aug 28 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Strategic Insights & Analytics 2026 Co-op](https://jobright.ai/jobs/info/68b106606fab621da7b096f5?utm_campaign=1066&utm_source=git)** | Horsham, PA | On Site | Aug 28 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[GIS Specialist Intern (Summer 2026!)](https://jobright.ai/jobs/info/68b0fdf804557a6c207b94a1?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Aug 28 |
@@ -76,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Data Analyst Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68b0bbb413563e782a9f8eb8?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Aug 28 |
 | **[Milliman](http://www.milliman.com)** | **[Data Analyst Intern (Part-time) – Health Research Team](https://jobright.ai/jobs/info/68b0b74f13563e782a9f8c2e?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Aug 28 |
 | **[DriveTime](https://www.drivetime.com)** | **[Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/68b0b7452d46f6396cae7f5b?utm_campaign=1066&utm_source=git)** | 1720 W Rio Salado Pkwy Tempe, AZ 85281 | On Site | Aug 28 |
+| **[ClearView Healthcare Partners](http://clearviewhcp.com)** | **[Life Sciences Summer Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/687ad826764c3d7411c2fb6b?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Aug 28 |
 | **[Crown Equipment Corporation](http://www.crown.com)** | **[***Supply Chain Data Analytics Co-Op: Summer 2026](https://jobright.ai/jobs/info/68b0b56f2d46f6396cae7e4d?utm_campaign=1066&utm_source=git)** | New Bremen, OH | On Site | Aug 28 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - TPG Global IE](https://jobright.ai/jobs/info/68b0b4112d46f6396cae7d61?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Aug 28 |
 | **[DriveTime](https://www.drivetime.com)** | **[Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/68b0b16b13563e782a9f88cd?utm_campaign=1066&utm_source=git)** | 5430 Lyndon B Johnson Fwy Suite 1200 Dallas, TX 75240 | On Site | Aug 28 |
@@ -126,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Grainger](https://www.grainger.com)** | **[GTG Intern - Business Intelligence](https://jobright.ai/jobs/info/68afc6b8e723db6c9b7b3482?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Aug 27 |
 | **[Ameritas](http://www.ameritas.com)** | **[Data Analytics Intern - Reinsurance](https://jobright.ai/jobs/info/68afce64b47fb001d688d66a?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 27 |
 | **[NISA Investment Advisors, LLC](http://nisa.com)** | **[Intern](https://jobright.ai/jobs/info/68afa9781f0a2a568a06324f?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Aug 27 |
+| **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (PhD)](https://jobright.ai/jobs/info/686434ab3b01d176faa6fe7b?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 27 |
 | **[Grainger](https://www.grainger.com)** | **[GTG Intern - Data Science](https://jobright.ai/jobs/info/68af9e8e1f0a2a568a062e11?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Aug 27 |
 | **[American University](http://american.edu)** | **[Graduate Quantitative Research Methodology Coordinator (Student)](https://jobright.ai/jobs/info/68afc853b47fb001d688d1d9?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Aug 27 |
 | **[TARA4BPD](https://www.tara4bpd.org/)** | **[Intern](https://jobright.ai/jobs/info/68b0578a2d46f6396cae45ad?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Extreme Engineering Solutions](https://www.xes-inc.com/)** | **[Data Analyst Co-Op](https://jobright.ai/jobs/info/68af3a4b7bcb7608b3d2bbd5?utm_campaign=1066&utm_source=git)** | Verona, WI | On Site | Aug 27 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Regulatory Data Analyst](https://jobright.ai/jobs/info/68af24bf1f0a2a568a05f380?utm_campaign=1066&utm_source=git)** | Worcester, MA | On Site | Aug 27 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities – Redmond](https://jobright.ai/jobs/info/6893453a4c7e851b90adccc2?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Aug 27 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Scientist - Paid Intern](https://jobright.ai/jobs/info/6892709f4c7e851b90ad5ce2?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Aug 27 |
-| **[Day & Zimmermann](http://dayzim.com/)** | **[Power BI Co-Op](https://jobright.ai/jobs/info/6875702bae2f413e4a5a6ec0?utm_campaign=1066&utm_source=git)** | Middletown, IA | On Site | Aug 27 |
-| **[Sam Houston State University](http://www.shsu.edu/)** | **[Graduate Employee- Data Analytics & Decision Support- Data Analytics](https://jobright.ai/jobs/info/68aeea8a2daaba398441ac4d?utm_campaign=1066&utm_source=git)** | Huntsville, TX | On Site | Aug 27 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Insights Analyst](https://jobright.ai/jobs/info/68aeaaf57bcb7608b3d28df4?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Aug 26 |
-| **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Data Management Intern](https://jobright.ai/jobs/info/68ae779fd627244576e5420f?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
