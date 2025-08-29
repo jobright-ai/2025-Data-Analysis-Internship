@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meta](https://www.meta.com)** | **[Research Scientist Intern, Graph Science and Statistics Research (PhD)](https://jobright.ai/jobs/info/68b0c2e9b47fb001d6895431?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Aug 28 |
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Intern, Analytics Modelling](https://jobright.ai/jobs/info/68b0ab5013563e782a9f85f3?utm_campaign=1066&utm_source=git)** | New York, New York | On Site | Aug 28 |
 | **[GeoComply](https://www.geocomply.com)** | **[Data Scientist (Anti-spoofing ML)- Fall 2025](https://jobright.ai/jobs/info/68b0c56513563e782a9f928e?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Aug 28 |
 | **[Meta](https://www.meta.com)** | **[Research Scientist Intern, Graph Science and Statistics Research (PhD)](https://jobright.ai/jobs/info/68b0c3232d46f6396cae8509?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 28 |
-| ↳ | **[Research Scientist Intern, Graph Science and Statistics Research (PhD)](https://jobright.ai/jobs/info/68b0c2e9b47fb001d6895431?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Aug 28 |
 | **[Florida Blue](https://www.floridablue.com)** | **[Commercial Analytics Summer 2026 Internship](https://jobright.ai/jobs/info/68b0bc8213563e782a9f8f2f?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Aug 28 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Data Analyst Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68b0bbb413563e782a9f8eb8?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Aug 28 |
 | **[Milliman](http://www.milliman.com)** | **[Data Analyst Intern (Part-time) – Health Research Team](https://jobright.ai/jobs/info/68b0b74f13563e782a9f8c2e?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Aug 28 |
@@ -95,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Ankura](https://ankura.com)** | **[University Intern, Analytics & Data Strategy](https://jobright.ai/jobs/info/68afff1bb47fb001d688efc8?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 28 |
 | **[Capital One](http://www.capitalone.com)** | **[Current Master's - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689adad783d13d1f5b69d2a9?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Aug 27 |
 | ↳ | **[Current Master's - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689adc0883d13d1f5b69d442?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 27 |
+| ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689adfcd83d13d1f5b69d54b?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Aug 27 |
 | ↳ | **[Current Master's - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689adb7cfaa4e875e825d07b?utm_campaign=1066&utm_source=git)** | Richmond, VA | Hybrid | Aug 27 |
 | ↳ | **[Current Master's - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689adc34faa4e875e825d18b?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Aug 27 |
 | ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689ada9983d13d1f5b69d25e?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Aug 27 |
@@ -107,14 +108,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Current Master's - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689addc55574fd6bc0c86fc8?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Aug 27 |
 | ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689add96faa4e875e825d384?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Aug 27 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Data Science Intern, Incarceration and Inequality Project](https://jobright.ai/jobs/info/68afe09fe723db6c9b7b4841?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 27 |
-| **[Altman Solon](https://www.altmansolon.com)** | **[Summer Data Analyst Intern 2026](https://jobright.ai/jobs/info/68afc7d413563e782a9f0f62?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Aug 27 |
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Corporate Analytics Intern](https://jobright.ai/jobs/info/68afce8813563e782a9f149a?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
 | **[Ankura](https://ankura.com)** | **[University Intern, Analytics & Data Strategy](https://jobright.ai/jobs/info/68afce2913563e782a9f13ef?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 27 |
 | **[Mortenson](https://www.mortenson.com)** | **[Data Analytics & Insights Intern / Mortenson](https://jobright.ai/jobs/info/68afc7d7e723db6c9b7b35c2?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Aug 27 |
 | **[Grainger](https://www.grainger.com)** | **[GTG Intern - Business Intelligence](https://jobright.ai/jobs/info/68afc6b8e723db6c9b7b3482?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Aug 27 |
 | **[Ameritas](http://www.ameritas.com)** | **[Data Analytics Intern - Reinsurance](https://jobright.ai/jobs/info/68afce64b47fb001d688d66a?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 27 |
 | **[NISA Investment Advisors, LLC](http://nisa.com)** | **[Intern](https://jobright.ai/jobs/info/68afa9781f0a2a568a06324f?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Aug 27 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[SDOT Asset Management Data Maintainer/Analyst](https://jobright.ai/jobs/info/68afa5e21f0a2a568a062fc5?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 27 |
 | **[Grainger](https://www.grainger.com)** | **[GTG Intern - Data Science](https://jobright.ai/jobs/info/68af9e8e1f0a2a568a062e11?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Aug 27 |
 | **[American University](http://american.edu)** | **[Graduate Quantitative Research Methodology Coordinator (Student)](https://jobright.ai/jobs/info/68afc853b47fb001d688d1d9?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Aug 27 |
 | **[TARA4BPD](https://www.tara4bpd.org/)** | **[Intern](https://jobright.ai/jobs/info/68b0578a2d46f6396cae45ad?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 27 |
@@ -133,11 +132,11 @@ For a complete list, click the following sortable link below:
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Fall 2025 - Data Science Intern, Incarceration and Inequality Project](https://jobright.ai/jobs/info/68af589e962903596357bf45?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 27 |
 | **[Hormel Foods](http://www.hormelfoods.com/)** | **[Hormel Foods - IT Data Analyst Intern - Summer 2026 (Austin, MN)](https://jobright.ai/jobs/info/68af57c81f0a2a568a060c93?utm_campaign=1066&utm_source=git)** | Austin, MN, United States | On Site | Aug 27 |
 | ↳ | **[Hormel Foods - IT Data Analyst Intern - Summer 2026 (Austin, MN)](https://jobright.ai/jobs/info/68af5708962903596357bd44?utm_campaign=1066&utm_source=git)** | 1101 North Main Street, Austin, MN, 55912, US | On Site | Aug 27 |
-| **[Extreme Engineering Solutions](https://www.xes-inc.com/)** | **[Data Analyst Co-Op](https://jobright.ai/jobs/info/68af49e41f0a2a568a06047d?utm_campaign=1066&utm_source=git)** | Verona, WI | On Site | Aug 27 |
 | **[American University](http://american.edu)** | **[Graduate Quantitative Research Methodology Coordinator (Student)](https://jobright.ai/jobs/info/68af448b7bcb7608b3d2c153?utm_campaign=1066&utm_source=git)** | Main Campus (Washington, DC) | On Site | Aug 27 |
 | **[University of Utah Health](https://www.cs.utah.edu)** | **[Intern - Enterprise Data Warehouse](https://jobright.ai/jobs/info/68af438e7bcb7608b3d2c077?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Aug 27 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - ET Operations Analytics](https://jobright.ai/jobs/info/68af3d657bcb7608b3d2bc3f?utm_campaign=1066&utm_source=git)** | Glen Allen, VA | On Site | Aug 27 |
 | **[Continental](https://www.continental.com)** | **[Data Analysis Intern (Yearlong)](https://jobright.ai/jobs/info/68af37e57bcb7608b3d2b94e?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | Aug 27 |
+| **[Extreme Engineering Solutions](https://www.xes-inc.com/)** | **[Data Analyst Co-Op](https://jobright.ai/jobs/info/68af3a4b7bcb7608b3d2bbd5?utm_campaign=1066&utm_source=git)** | Verona, WI | On Site | Aug 27 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Regulatory Data Analyst](https://jobright.ai/jobs/info/68af24bf1f0a2a568a05f380?utm_campaign=1066&utm_source=git)** | Worcester, MA | On Site | Aug 27 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities – Redmond](https://jobright.ai/jobs/info/6893453a4c7e851b90adccc2?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Aug 27 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Scientist - Paid Intern](https://jobright.ai/jobs/info/6892709f4c7e851b90ad5ce2?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Aug 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Scientist Intern - PhD](https://jobright.ai/jobs/info/68ae3845daf1431824ca19e1?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Aug 26 |
 | ↳ | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Aug 26 |
 | ↳ | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Aug 26 |
+| **[Amazon](https://amazon.com)** | **[Business Intelligence Engineer Co-Op – 2026 (US)](https://jobright.ai/jobs/info/68ae3627758f2e4ac301217f?utm_campaign=1066&utm_source=git)** | Seattle, Washington, USA | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
