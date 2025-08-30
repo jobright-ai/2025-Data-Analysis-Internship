@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6878882fae2f413e4a5c3b21?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Aug 30 |
+| **[Sanofi](https://www.sanofi.com)** | **[Winter, Spring 2026 Co-op-Intern– Data Science and Digital Transformation](https://jobright.ai/jobs/info/689722bf8c6d6b4426785672?utm_campaign=1066&utm_source=git)** | Framingham, MA | On Site | Aug 30 |
 | **[ABB](https://global.abb/group/en)** | **[Intern-R&D coding & data analytics](https://jobright.ai/jobs/info/68b2ae921ade4306aa639cca?utm_campaign=1066&utm_source=git)** | Location, WV | On Site | Aug 30 |
 | **[Stellar Solutions](http://www.stellarsolutions.com)** | **[Intern – Intelligence Sector](https://jobright.ai/jobs/info/68b2abc9bc187f64e1bdeb8a?utm_campaign=1066&utm_source=git)** | US-VA-Chantilly | On Site | Aug 30 |
 | **[fairlife, LLC](http://www.fairlife.com)** | **[Data Science & AI Enablement Intern](https://jobright.ai/jobs/info/68b29cc6f4e41a61efd8706f?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Strategic Data Analytics Intern](https://jobright.ai/jobs/info/6894fcec8c6d6b4426776362?utm_campaign=1066&utm_source=git)** | Strongsville, OH | On Site | Aug 29 |
 | ↳ | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68950a0873b3a600fe884916?utm_campaign=1066&utm_source=git)** | Strongsville, OH | On Site | Aug 29 |
 | **[Tulane University School of Medicine](https://medicine.tulane.edu)** | **[Postdoctoral Fellow, Computer Science  >>>](https://jobright.ai/jobs/info/68b16a046fab621da7b0d7cc?utm_campaign=1066&utm_source=git)** | New Orleans, LA | On Site | Aug 29 |
-| **[Midcontinent Independent System Operator (MISO)](https://www.misoenergy.org/)** | **[2026 Summer Intern - Data Analytics](https://jobright.ai/jobs/info/68b1827fbc187f64e1bd52b2?utm_campaign=1066&utm_source=git)** | Carmel, IN | On Site | Aug 29 |
-| **[Ankura](https://ankura.com)** | **[University Intern, Analytics & Data Strategy](https://jobright.ai/jobs/info/68b14e9a6fab621da7b0c5c5?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
