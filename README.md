@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68b33f6ebc187f64e1bdfefd?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Aug 30 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Digital & Information Technology - Predictive Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/68b301b2bc187f64e1bdf976?utm_campaign=1066&utm_source=git)** | Plymouth, MN | On Site | Aug 30 |
 | ↳ | **[Digital & Information Technology - Predictive Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/68b301971ade4306aa63a9c4?utm_campaign=1066&utm_source=git)** | Vermillion, SD | On Site | Aug 30 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Quantitative Analytics Summer Internship Risk Analytics and Decision Science (Masters) - Early Careers](https://jobright.ai/jobs/info/68977c9d1b9e81727f19b8ce?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Aug 30 |
 | **[Flatiron School](http://flatironschool.com)** | **[Apprentice, Data Scientist](https://jobright.ai/jobs/info/68b2f978f4e41a61efd88692?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 30 |
 | **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6878882fae2f413e4a5c3b21?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Aug 30 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, IT - Operations Research and Data Science - ATL (Summer 2026)](https://jobright.ai/jobs/info/6898387e5574fd6bc0c75d62?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Aug 30 |
@@ -144,6 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68b1d938bc187f64e1bd7416?utm_campaign=1066&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2026 Intern - Data Analytics](https://jobright.ai/jobs/info/68b1d8541ade4306aa63229f?utm_campaign=1066&utm_source=git)** | Tower 500 500 Renaissance Ctr, Detroit, MI, 48243, US | On Site | Aug 29 |
 | **[Athena Global Advisors](https://www.athenaglobaladvisors.com)** | **[Summer 2026 Intern, Optimization & Reporting](https://jobright.ai/jobs/info/68b278011ade4306aa636f96?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Aug 29 |
+| **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Trader (Quantitative Trader) Internship – Summer 2026](https://jobright.ai/jobs/info/689534518c6d6b4426778095?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[Medpace](http://www.medpace.com)** | **[Business Intelligence Internship - Spring 2026](https://jobright.ai/jobs/info/68b1cfd9f4e41a61efd7fe31?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 29 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Health Data Analytics](https://jobright.ai/jobs/info/68b2856d1ade4306aa637bd7?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Aug 29 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Developer Analyst Intern (Data Science) - Summer 2026](https://jobright.ai/jobs/info/68b1cb4ef4e41a61efd7fb4b?utm_campaign=1066&utm_source=git)** | Northbrook, Illinois | Hybrid | Aug 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Penta Group](https://pentagroup.com)** | **[Custom Research Paid Internship](https://jobright.ai/jobs/info/685a463c74c42892a4bda2ff?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Aug 29 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/68b1ab67f4e41a61efd7ef66?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Aug 29 |
 | **[Henkel](http://www.henkel.com)** | **[Information Technology & Data Analytics Intern – Summer 2026](https://jobright.ai/jobs/info/68b19ff81ade4306aa630c49?utm_campaign=1066&utm_source=git)** | Stamford, None, US | On Site | Aug 29 |
-| **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Developer (Quant Researcher) – 2026 Grads](https://jobright.ai/jobs/info/6894ebfe73b3a600fe88358d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 29 |
-| ↳ | **[Algorithm Development (Quant Research) PhD Internship – Summer 2026](https://jobright.ai/jobs/info/6894f24d73b3a600fe88392d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 29 |
-| **[Coker Group](https://www.coker.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68b1a0c51ade4306aa630d29?utm_campaign=1066&utm_source=git)** | Chattanooga, TN | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
