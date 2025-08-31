@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Research Reporting and Documentation Intern](https://jobright.ai/jobs/info/68b46bd41ade4306aa63e58e?utm_campaign=1066&utm_source=git)** | San Diego, CA | Remote | Aug 31 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68b33f6ebc187f64e1bdfefd?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Aug 30 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Scientist, Customer and Competitive Market Intelligence](https://jobright.ai/jobs/info/687cb033764c3d7411c3b53f?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | Hybrid | Aug 30 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Research Intern](https://jobright.ai/jobs/info/687a5d70ed63844c944a2a54?utm_campaign=1066&utm_source=git)** | Florida, United States | Remote | Aug 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Internship – Risk & Research Proposition, Business and Market Analyst Intern](https://jobright.ai/jobs/info/68b1e8391ade4306aa632c0d?utm_campaign=1066&utm_source=git)** | New York City | Hybrid | Aug 29 |
 | **[PNC](http://www.pnc.com)** | **[Quantitative Analytics Undergraduate Intern](https://jobright.ai/jobs/info/68b1e79cbc187f64e1bd7ae3?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Aug 29 |
 | **[USAA](https://www.usaa.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68b1e7461ade4306aa632b18?utm_campaign=1066&utm_source=git)** | San Antonio Home Office I | On Site | Aug 29 |
-| ↳ | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68b1e688f4e41a61efd808d1?utm_campaign=1066&utm_source=git)** | Plano Legacy | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
