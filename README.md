@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Research Reporting and Documentation Intern](https://jobright.ai/jobs/info/68b46bd41ade4306aa63e58e?utm_campaign=1066&utm_source=git)** | San Diego, CA | Remote | Aug 31 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/67d1cebe7b1578e26a758665?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Aug 31 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68b33f6ebc187f64e1bdfefd?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Aug 30 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2026](https://jobright.ai/jobs/info/67e3c9fe66371eacaaca30a8?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Aug 30 |
 | **[Endeavor Health](https://www.endeavorhealth.org)** | **[Summer Research Intern](https://jobright.ai/jobs/info/685c360b9c4281af5973a4c2?utm_campaign=1066&utm_source=git)** | Arlington Heights, IL | On Site | Aug 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship – Research Intern](https://jobright.ai/jobs/info/68b1e8af1ade4306aa632c8d?utm_campaign=1066&utm_source=git)** | New York City | Hybrid | Aug 29 |
 | ↳ | **[Summer 2026 Internship - OPIS Strategic Insights Team, Chemical Market Analytics](https://jobright.ai/jobs/info/68b1e88f1ade4306aa632c6f?utm_campaign=1066&utm_source=git)** | Houston, TX - OPIS | Hybrid | Aug 29 |
 | ↳ | **[Summer 2026 Internship – Data Analyst Intern](https://jobright.ai/jobs/info/68b1e84cf4e41a61efd80a1b?utm_campaign=1066&utm_source=git)** | New York City | Hybrid | Aug 29 |
-| ↳ | **[Summer 2026 Internship – Risk & Research Proposition, Business and Market Analyst Intern](https://jobright.ai/jobs/info/68b1e8391ade4306aa632c0d?utm_campaign=1066&utm_source=git)** | New York City | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
