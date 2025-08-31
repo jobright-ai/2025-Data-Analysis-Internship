@@ -58,11 +58,13 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68b33f6ebc187f64e1bdfefd?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Aug 30 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Scientist, Customer and Competitive Market Intelligence](https://jobright.ai/jobs/info/687cb033764c3d7411c3b53f?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | Hybrid | Aug 30 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Digital & Information Technology - Predictive Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/68b301b2bc187f64e1bdf976?utm_campaign=1066&utm_source=git)** | Plymouth, MN | On Site | Aug 30 |
 | ↳ | **[Digital & Information Technology - Predictive Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/68b301971ade4306aa63a9c4?utm_campaign=1066&utm_source=git)** | Vermillion, SD | On Site | Aug 30 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Quantitative Analytics Summer Internship Risk Analytics and Decision Science (Masters) - Early Careers](https://jobright.ai/jobs/info/68977c9d1b9e81727f19b8ce?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Aug 30 |
 | **[Flatiron School](http://flatironschool.com)** | **[Apprentice, Data Scientist](https://jobright.ai/jobs/info/68b2f978f4e41a61efd88692?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 30 |
 | **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6878882fae2f413e4a5c3b21?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Aug 30 |
+| **[Databricks](https://www.databricks.com)** | **[Data Science Intern (2026 Start)](https://jobright.ai/jobs/info/68983e3b83d13d1f5b68ca8f?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Aug 30 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, IT - Operations Research and Data Science - ATL (Summer 2026)](https://jobright.ai/jobs/info/6898387e5574fd6bc0c75d62?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Aug 30 |
 | **[Sanofi](https://www.sanofi.com)** | **[Winter, Spring 2026 Co-op-Intern– Data Science and Digital Transformation](https://jobright.ai/jobs/info/689722bf8c6d6b4426785672?utm_campaign=1066&utm_source=git)** | Framingham, MA | On Site | Aug 30 |
 | **[Stellar Solutions](http://www.stellarsolutions.com)** | **[Intern – Intelligence Sector](https://jobright.ai/jobs/info/68b2abc9bc187f64e1bdeb8a?utm_campaign=1066&utm_source=git)** | US-VA-Chantilly | On Site | Aug 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IGS Energy](http://www.igsenergy.com)** | **[Advanced Analytics Intern](https://jobright.ai/jobs/info/68b1ae9f1ade4306aa6312ae?utm_campaign=1066&utm_source=git)** | Ohio Remote | Remote | Aug 29 |
 | **[Red Hat](http://www.redhat.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68b1ae33bc187f64e1bd60c5?utm_campaign=1066&utm_source=git)** | Raleigh | On Site | Aug 29 |
 | **[Penta Group](https://pentagroup.com)** | **[Custom Research Paid Internship](https://jobright.ai/jobs/info/685a463c74c42892a4bda2ff?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Aug 29 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/68b1ab67f4e41a61efd7ef66?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Aug 29 |
-| **[Henkel](http://www.henkel.com)** | **[Information Technology & Data Analytics Intern – Summer 2026](https://jobright.ai/jobs/info/68b19ff81ade4306aa630c49?utm_campaign=1066&utm_source=git)** | Stamford, None, US | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
