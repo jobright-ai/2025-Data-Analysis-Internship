@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CNH](http://www.cnhindustrial.com)** | **[Digital Transformation & Risk Analyst Intern](https://jobright.ai/jobs/info/68b56bdd1ade4306aa641ba6?utm_campaign=1066&utm_source=git)** | Waterford, WI | Hybrid | Sep 01 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Logistics Data Analyst Intern](https://jobright.ai/jobs/info/68b56f731ade4306aa641c18?utm_campaign=1066&utm_source=git)** | Racine, WI | Hybrid | Sep 01 |
+| ↳ | **[Digital Transformation & Risk Analyst Intern](https://jobright.ai/jobs/info/68b56bdd1ade4306aa641ba6?utm_campaign=1066&utm_source=git)** | Waterford, WI | Hybrid | Sep 01 |
 | ↳ | **[Data Analyst, Crop Production Intern](https://jobright.ai/jobs/info/68b566cabc187f64e1be693e?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD | On Site | Sep 01 |
 | **[Apziva](https://www.apziva.com/)** | **[Data Scientist in Residence](https://jobright.ai/jobs/info/68b56339bc187f64e1be691e?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 01 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68b561bd1ade4306aa641973?utm_campaign=1066&utm_source=git)** | New Holland, SD | Hybrid | Sep 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b21f11f4e41a61efd8257e?utm_campaign=1066&utm_source=git)** | Honolulu, HI | Hybrid | Aug 29 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b21e681ade4306aa6348fc?utm_campaign=1066&utm_source=git)** | Huntsville, AL | Hybrid | Aug 29 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b21e52bc187f64e1bd9736?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Aug 29 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b21e33bc187f64e1bd9718?utm_campaign=1066&utm_source=git)** | Annapolis Junction, MD | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
