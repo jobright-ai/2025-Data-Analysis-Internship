@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CNH](http://www.cnhindustrial.com)** | **[Digital Transformation & Risk Analyst Intern](https://jobright.ai/jobs/info/68b56bdd1ade4306aa641ba6?utm_campaign=1066&utm_source=git)** | Waterford, WI | Hybrid | Sep 01 |
+| ↳ | **[Data Analyst, Crop Production Intern](https://jobright.ai/jobs/info/68b566cabc187f64e1be693e?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD | On Site | Sep 01 |
+| **[Apziva](https://www.apziva.com/)** | **[Data Scientist in Residence](https://jobright.ai/jobs/info/68b56339bc187f64e1be691e?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 01 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68b561bd1ade4306aa641973?utm_campaign=1066&utm_source=git)** | New Holland, SD | Hybrid | Sep 01 |
+| ↳ | **[Global Manufacturing Data Explorer Intern](https://jobright.ai/jobs/info/68b55f01bc187f64e1be6863?utm_campaign=1066&utm_source=git)** | Racine, WI | On Site | Sep 01 |
+| **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Aftermarket Analyst Intern](https://jobright.ai/jobs/info/68b559e91ade4306aa64186e?utm_campaign=1066&utm_source=git)** | Cartersville, GA | On Site | Sep 01 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Data Analytics - California](https://jobright.ai/jobs/info/68b55044bc187f64e1be65f2?utm_campaign=1066&utm_source=git)** | San Jose, California | On Site | Sep 01 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Global Decision Science, Credit & Fraud Risk - New York, NY](https://jobright.ai/jobs/info/68b54e26bc187f64e1be657e?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Sep 01 |
 | **[84.51˚](http://8451.com/)** | **[Data Scientist - Internship Program 2026](https://jobright.ai/jobs/info/68b54b86f4e41a61efd8f25b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Sep 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b21e681ade4306aa6348fc?utm_campaign=1066&utm_source=git)** | Huntsville, AL | Hybrid | Aug 29 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b21e52bc187f64e1bd9736?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Aug 29 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b21e33bc187f64e1bd9718?utm_campaign=1066&utm_source=git)** | Annapolis Junction, MD | Hybrid | Aug 29 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b21e22bc187f64e1bd9703?utm_campaign=1066&utm_source=git)** | Panama City, FL | Hybrid | Aug 29 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b21e0dbc187f64e1bd96eb?utm_campaign=1066&utm_source=git)** | El Segundo, CA | Hybrid | Aug 29 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b21dfc1ade4306aa634892?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | Hybrid | Aug 29 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b21d811ade4306aa63481f?utm_campaign=1066&utm_source=git)** | Charleston, SC | Hybrid | Aug 29 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b21ce31ade4306aa634777?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Aug 29 |
-| **[AEG](http://www.aegworldwide.com)** | **[Fall Intern, Data and Analytics (AXS)](https://jobright.ai/jobs/info/68b2151ebc187f64e1bd93b9?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
