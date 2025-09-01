@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5a41a1ade4306aa642a9a?utm_campaign=1066&utm_source=git)** | Pomona, CA | Hybrid | Sep 01 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68b5c20cf4e41a61efd912d7?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 01 |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5ae6af4e41a61efd90c3d?utm_campaign=1066&utm_source=git)** | Rosemead, CA | Hybrid | Sep 01 |
+| ↳ | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5a5111ade4306aa642b3c?utm_campaign=1066&utm_source=git)** | Alhambra, CA | Hybrid | Sep 01 |
+| ↳ | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5a41a1ade4306aa642a9a?utm_campaign=1066&utm_source=git)** | Pomona, CA | Hybrid | Sep 01 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Data Analytics - Michigan](https://jobright.ai/jobs/info/68b59d0ef4e41a61efd907b5?utm_campaign=1066&utm_source=git)** | Portage, MI | On Site | Sep 01 |
 | ↳ | **[2026 Summer Intern - Data Analytics - California](https://jobright.ai/jobs/info/68b59c4b1ade4306aa64284f?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Sep 01 |
 | ↳ | **[2026 Summer Intern - Data Analytics - New Jersey](https://jobright.ai/jobs/info/68b59ae5bc187f64e1be776b?utm_campaign=1066&utm_source=git)** | Mahwah, NJ | On Site | Sep 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b27211f4e41a61efd8475a?utm_campaign=1066&utm_source=git)** | Honolulu, HI | On Site | Aug 29 |
 | **[Transcard](http://www.transcard.com)** | **[2026 - Data Science Intern](https://jobright.ai/jobs/info/68b2728f1ade4306aa636a6a?utm_campaign=1066&utm_source=git)** | Chattanooga, TN | On Site | Aug 29 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b2734af4e41a61efd849d1?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Aug 29 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b2334fbc187f64e1bd9c44?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Aug 29 |
-| **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b223c0bc187f64e1bd9897?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Aug 29 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b22019f4e41a61efd8261c?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
