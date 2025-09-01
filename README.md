@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68b5c20cf4e41a61efd912d7?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 01 |
+| **[Comcast](https://corporate.comcast.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68b5d8f91ade4306aa64365f?utm_campaign=1066&utm_source=git)** | GA - Atlanta, 2605 Circle 75 Pkwy SE | On Site | Sep 01 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5ae6af4e41a61efd90c3d?utm_campaign=1066&utm_source=git)** | Rosemead, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5a5111ade4306aa642b3c?utm_campaign=1066&utm_source=git)** | Alhambra, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5a41a1ade4306aa642a9a?utm_campaign=1066&utm_source=git)** | Pomona, CA | Hybrid | Sep 01 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Data Analytics - Michigan](https://jobright.ai/jobs/info/68b59d0ef4e41a61efd907b5?utm_campaign=1066&utm_source=git)** | Portage, MI | On Site | Sep 01 |
 | ↳ | **[2026 Summer Intern - Data Analytics - California](https://jobright.ai/jobs/info/68b59c4b1ade4306aa64284f?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Sep 01 |
 | ↳ | **[2026 Summer Intern - Data Analytics - New Jersey](https://jobright.ai/jobs/info/68b59ae5bc187f64e1be776b?utm_campaign=1066&utm_source=git)** | Mahwah, NJ | On Site | Sep 01 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern - Optimization (Spring 2026)](https://jobright.ai/jobs/info/687babf32097a271a8986754?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 01 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Logistics Data Analyst Intern](https://jobright.ai/jobs/info/68b56f731ade4306aa641c18?utm_campaign=1066&utm_source=git)** | Racine, WI | Hybrid | Sep 01 |
 | ↳ | **[Digital Transformation & Risk Analyst Intern](https://jobright.ai/jobs/info/68b56bdd1ade4306aa641ba6?utm_campaign=1066&utm_source=git)** | Waterford, WI | Hybrid | Sep 01 |
 | ↳ | **[Data Analyst, Crop Production Intern](https://jobright.ai/jobs/info/68b566cabc187f64e1be693e?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD | On Site | Sep 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b2348f1ade4306aa634d92?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Aug 29 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b27211f4e41a61efd8475a?utm_campaign=1066&utm_source=git)** | Honolulu, HI | On Site | Aug 29 |
 | **[Transcard](http://www.transcard.com)** | **[2026 - Data Science Intern](https://jobright.ai/jobs/info/68b2728f1ade4306aa636a6a?utm_campaign=1066&utm_source=git)** | Chattanooga, TN | On Site | Aug 29 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b2734af4e41a61efd849d1?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
