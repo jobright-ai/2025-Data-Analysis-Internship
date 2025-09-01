@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5a41a1ade4306aa642a9a?utm_campaign=1066&utm_source=git)** | Pomona, CA | Hybrid | Sep 01 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Data Analytics - Michigan](https://jobright.ai/jobs/info/68b59d0ef4e41a61efd907b5?utm_campaign=1066&utm_source=git)** | Portage, MI | On Site | Sep 01 |
+| ↳ | **[2026 Summer Intern - Data Analytics - California](https://jobright.ai/jobs/info/68b59c4b1ade4306aa64284f?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Sep 01 |
+| ↳ | **[2026 Summer Intern - Data Analytics - New Jersey](https://jobright.ai/jobs/info/68b59ae5bc187f64e1be776b?utm_campaign=1066&utm_source=git)** | Mahwah, NJ | On Site | Sep 01 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Logistics Data Analyst Intern](https://jobright.ai/jobs/info/68b56f731ade4306aa641c18?utm_campaign=1066&utm_source=git)** | Racine, WI | Hybrid | Sep 01 |
 | ↳ | **[Digital Transformation & Risk Analyst Intern](https://jobright.ai/jobs/info/68b56bdd1ade4306aa641ba6?utm_campaign=1066&utm_source=git)** | Waterford, WI | Hybrid | Sep 01 |
 | ↳ | **[Data Analyst, Crop Production Intern](https://jobright.ai/jobs/info/68b566cabc187f64e1be693e?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD | On Site | Sep 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b2334fbc187f64e1bd9c44?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Aug 29 |
 | **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b223c0bc187f64e1bd9897?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Aug 29 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b22019f4e41a61efd8261c?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Aug 29 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b22005f4e41a61efd82615?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Aug 29 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b21f11f4e41a61efd8257e?utm_campaign=1066&utm_source=git)** | Honolulu, HI | Hybrid | Aug 29 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b21e681ade4306aa6348fc?utm_campaign=1066&utm_source=git)** | Huntsville, AL | Hybrid | Aug 29 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b21e52bc187f64e1bd9736?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
