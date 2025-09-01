@@ -69,8 +69,7 @@ For a complete list, click the following sortable link below:
 | **[CNH](http://www.cnhindustrial.com)** | **[Logistics Data Analyst Intern](https://jobright.ai/jobs/info/68b56f731ade4306aa641c18?utm_campaign=1066&utm_source=git)** | Racine, WI | Hybrid | Sep 01 |
 | ↳ | **[Digital Transformation & Risk Analyst Intern](https://jobright.ai/jobs/info/68b56bdd1ade4306aa641ba6?utm_campaign=1066&utm_source=git)** | Waterford, WI | Hybrid | Sep 01 |
 | ↳ | **[Data Analyst, Crop Production Intern](https://jobright.ai/jobs/info/68b566cabc187f64e1be693e?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD | On Site | Sep 01 |
-| **[Apziva](https://www.apziva.com/)** | **[Data Scientist in Residence](https://jobright.ai/jobs/info/68b56339bc187f64e1be691e?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 01 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68b561bd1ade4306aa641973?utm_campaign=1066&utm_source=git)** | New Holland, SD | Hybrid | Sep 01 |
+| ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/68b561bd1ade4306aa641973?utm_campaign=1066&utm_source=git)** | New Holland, SD | Hybrid | Sep 01 |
 | ↳ | **[Global Manufacturing Data Explorer Intern](https://jobright.ai/jobs/info/68b55f01bc187f64e1be6863?utm_campaign=1066&utm_source=git)** | Racine, WI | On Site | Sep 01 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Aftermarket Analyst Intern](https://jobright.ai/jobs/info/68b559e91ade4306aa64186e?utm_campaign=1066&utm_source=git)** | Cartersville, GA | On Site | Sep 01 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Data Analytics - California](https://jobright.ai/jobs/info/68b55044bc187f64e1be65f2?utm_campaign=1066&utm_source=git)** | San Jose, California | On Site | Sep 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b2348f1ade4306aa634d92?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Aug 29 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b27211f4e41a61efd8475a?utm_campaign=1066&utm_source=git)** | Honolulu, HI | On Site | Aug 29 |
 | **[Transcard](http://www.transcard.com)** | **[2026 - Data Science Intern](https://jobright.ai/jobs/info/68b2728f1ade4306aa636a6a?utm_campaign=1066&utm_source=git)** | Chattanooga, TN | On Site | Aug 29 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b2734af4e41a61efd849d1?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
