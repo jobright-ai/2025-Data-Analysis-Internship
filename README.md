@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5e17dbc187f64e1be86f9?utm_campaign=1066&utm_source=git)** | Pomona, CA | Hybrid | Sep 01 |
+| ↳ | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5e1131ade4306aa643745?utm_campaign=1066&utm_source=git)** | Alhambra, CA | Hybrid | Sep 01 |
+| ↳ | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5e10d1ade4306aa643740?utm_campaign=1066&utm_source=git)** | Rosemead, CA | Hybrid | Sep 01 |
+| ↳ | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5dd61bc187f64e1be8658?utm_campaign=1066&utm_source=git)** | Irwindale, CA | Hybrid | Sep 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68b5d8f91ade4306aa64365f?utm_campaign=1066&utm_source=git)** | GA - Atlanta, 2605 Circle 75 Pkwy SE | On Site | Sep 01 |
-| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5ae6af4e41a61efd90c3d?utm_campaign=1066&utm_source=git)** | Rosemead, CA | Hybrid | Sep 01 |
-| ↳ | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5a5111ade4306aa642b3c?utm_campaign=1066&utm_source=git)** | Alhambra, CA | Hybrid | Sep 01 |
-| ↳ | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5a41a1ade4306aa642a9a?utm_campaign=1066&utm_source=git)** | Pomona, CA | Hybrid | Sep 01 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Data Analytics - Michigan](https://jobright.ai/jobs/info/68b59d0ef4e41a61efd907b5?utm_campaign=1066&utm_source=git)** | Portage, MI | On Site | Sep 01 |
 | ↳ | **[2026 Summer Intern - Data Analytics - California](https://jobright.ai/jobs/info/68b59c4b1ade4306aa64284f?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Sep 01 |
 | ↳ | **[2026 Summer Intern - Data Analytics - New Jersey](https://jobright.ai/jobs/info/68b59ae5bc187f64e1be776b?utm_campaign=1066&utm_source=git)** | Mahwah, NJ | On Site | Sep 01 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[SteerBridge](https://www.steerbridge.com/)** | **[DoD SkillBridge Program](https://jobright.ai/jobs/info/68b52300bc187f64e1be5530?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Aug 31 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Data Analytics - Michigan](https://jobright.ai/jobs/info/68b5209bbc187f64e1be551f?utm_campaign=1066&utm_source=git)** | Portage, Michigan | On Site | Aug 31 |
 | **[Health Advances](http://www.healthadvances.com)** | **[Analyst Intern (Summer 2026 Newton, MA)](https://jobright.ai/jobs/info/68b5058c1ade4306aa63f000?utm_campaign=1066&utm_source=git)** | Weston, MA | Hybrid | Aug 31 |
-| **[Shaffer Evaluation Group](https://www.shafferevaluation.com/)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/68b4feaa1ade4306aa63eeda?utm_campaign=1066&utm_source=git)** | Williamsburg, VA | On Site | Aug 31 |
 | **[Steadman Philippon Research Institute](https://www.sprivail.org)** | **[Research Assistant Intern](https://jobright.ai/jobs/info/68b51208bc187f64e1be4754?utm_campaign=1066&utm_source=git)** | Vail, CO | On Site | Aug 31 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/67d1cebe7b1578e26a758665?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Aug 31 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Quantitative Analytics Summer Internship Risk Analytics and Decision Science (PhD) - Early Careers](https://jobright.ai/jobs/info/6897ab9873b3a600fe89d863?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Aug 31 |
