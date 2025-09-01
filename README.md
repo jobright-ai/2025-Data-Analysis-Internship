@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bayer](https://www.bayer.com)** | **[Data Scientist Co-Op](https://jobright.ai/jobs/info/68b52b471ade4306aa640a50?utm_campaign=1066&utm_source=git)** | Berkeley, CA | On Site | Aug 31 |
+| **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Aftermarket Analyst Intern](https://jobright.ai/jobs/info/68b526a8bc187f64e1be55aa?utm_campaign=1066&utm_source=git)** | US-Georgia-Cartersville | On Site | Aug 31 |
+| **[Textron](http://textron.com)** | **[2026 Aftermarket Analyst Intern](https://jobright.ai/jobs/info/68b524f9f4e41a61efd8e532?utm_campaign=1066&utm_source=git)** | US-Georgia-Cartersville | On Site | Aug 31 |
+| **[SteerBridge](https://www.steerbridge.com/)** | **[DoD SkillBridge Program](https://jobright.ai/jobs/info/68b52300bc187f64e1be5530?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Aug 31 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Data Analytics - Michigan](https://jobright.ai/jobs/info/68b5209bbc187f64e1be551f?utm_campaign=1066&utm_source=git)** | Portage, Michigan | On Site | Aug 31 |
 | **[Health Advances](http://www.healthadvances.com)** | **[Analyst Intern (Summer 2026 Newton, MA)](https://jobright.ai/jobs/info/68b5058c1ade4306aa63f000?utm_campaign=1066&utm_source=git)** | Weston, MA | Hybrid | Aug 31 |
 | **[Shaffer Evaluation Group](https://www.shafferevaluation.com/)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/68b4feaa1ade4306aa63eeda?utm_campaign=1066&utm_source=git)** | Williamsburg, VA | On Site | Aug 31 |
 | **[Steadman Philippon Research Institute](https://www.sprivail.org)** | **[Research Assistant Intern](https://jobright.ai/jobs/info/68b51208bc187f64e1be4754?utm_campaign=1066&utm_source=git)** | Vail, CO | On Site | Aug 31 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Inspire](https://inspirebrands.com)** | **[Data & Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/68b1faddbc187f64e1bd85a0?utm_campaign=1066&utm_source=git)** | Boston Support Center | On Site | Aug 29 |
 | **[Transcard](http://www.transcard.com)** | **[2026 - Data Science Intern](https://jobright.ai/jobs/info/68b1f8ecbc187f64e1bd8400?utm_campaign=1066&utm_source=git)** | Chattanooga, TN | Hybrid | Aug 29 |
 | **[Inspire](https://inspirebrands.com)** | **[Data & Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/68b1f83cf4e41a61efd811d4?utm_campaign=1066&utm_source=git)** | Atlanta Support Center | On Site | Aug 29 |
-| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Developer Analyst Intern (Data Science) - Summer 2026](https://jobright.ai/jobs/info/68b1f6aaf4e41a61efd810a3?utm_campaign=1066&utm_source=git)** | Northbrook, IL | On Site | Aug 29 |
-| ↳ | **[IT Business Intelligence Intern - Summer 2026](https://jobright.ai/jobs/info/68b1f4afbc187f64e1bd8067?utm_campaign=1066&utm_source=git)** | Northbrook, IL | On Site | Aug 29 |
-| **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68b28a771ade4306aa637fc6?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Aug 29 |
-| **[The Ohio State University](http://www.osu.edu/)** | **[Post Doctoral Scholar](https://jobright.ai/jobs/info/68b1f0021ade4306aa632fc3?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Aug 29 |
-| **[Cambium Assessment](https://www.cambiumassessment.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68b1ef371ade4306aa632f4e?utm_campaign=1066&utm_source=git)** | Concord, MA | Remote | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
