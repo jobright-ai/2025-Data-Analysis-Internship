@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First National Bank GH](https://www.firstnationalbank.com.gh)** | **[Summer Intern - Data Analytics (Omaha, NE)](https://jobright.ai/jobs/info/68b6f0551ade4306aa646b48?utm_campaign=1066&utm_source=git)** | Omaha - FN Tower | On Site | Sep 02 |
+| **[Post Consumer Brands](https://postconsumerbrands.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68b6ee2ef4e41a61efd94a78?utm_campaign=1066&utm_source=git)** | Lakeville, MN | On Site | Sep 02 |
 | **[MAPFRE](https://www.mapfre.com)** | **[Intern Direct Business](https://jobright.ai/jobs/info/689a87d383d13d1f5b699991?utm_campaign=1066&utm_source=git)** | Webster, MA | On Site | Sep 02 |
 | **[Medpace](http://www.medpace.com)** | **[Informatics Internship/Co-Op Spring 2026](https://jobright.ai/jobs/info/689a4a6f5574fd6bc0c81812?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 02 |
 | **[Drexel University](http://drexel.edu)** | **[Research Coordinator](https://jobright.ai/jobs/info/68b6b579f4e41a61efd9417f?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 02 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Data Analyst, Regulatory Data & Systems - Winter 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/68b6810a1ade4306aa6456f0?utm_campaign=1066&utm_source=git)** | Chicago, IL, USA | On Site | Sep 01 |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Data Analyst, Regulatory Data & Systems - Winter 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/68b67e42f4e41a61efd935e4?utm_campaign=1066&utm_source=git)** | Chicago, IL, USA | On Site | Sep 01 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - IT Database Monitoring -Richmond, VA or Columbia, SC](https://jobright.ai/jobs/info/68b67721f4e41a61efd9337d?utm_campaign=1066&utm_source=git)** | Cayce, SC | On Site | Sep 01 |
 | **[MORSE Corp](https://www.morsecorp.com)** | **[Data Scientist Co-op](https://jobright.ai/jobs/info/68b654ab1ade4306aa6443bd?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Sep 01 |
 | **[University of Kentucky College of Medicine](https://medicine.uky.edu/)** | **[Postdoctoral Researcher In Digital Twins for Health Informatics](https://jobright.ai/jobs/info/68b631891ade4306aa644022?utm_campaign=1066&utm_source=git)** | Lexington, KY | On Site | Sep 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Internship – PhD Quant Research Analyst, Client Solutions & Analytics](https://jobright.ai/jobs/info/68b243f71ade4306aa63535f?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Aug 29 |
 | **[Acima](https://www.acima.com/)** | **[Business Insights Analyst Intern](https://jobright.ai/jobs/info/68b243a11ade4306aa635322?utm_campaign=1066&utm_source=git)** | Plano, TX | On Site | Aug 29 |
 | **[AEG](http://www.aegworldwide.com)** | **[Fall Intern, Data and Analytics (AXS)](https://jobright.ai/jobs/info/68b23e41bc187f64e1bda169?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Aug 29 |
-| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68b23ce8bc187f64e1bda04b?utm_campaign=1066&utm_source=git)** | Erie, PA | On Site | Aug 29 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b23b8c1ade4306aa635162?utm_campaign=1066&utm_source=git)** | Charleston, SC | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
