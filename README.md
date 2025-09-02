@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Northern Trust](http://www.northerntrust.com)** | **[Technology Intern – Data Science and Analytics](https://jobright.ai/jobs/info/68b68420f4e41a61efd93871?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 02 |
+| **[Drexel University](http://drexel.edu)** | **[Research Coordinator](https://jobright.ai/jobs/info/68b6b579f4e41a61efd9417f?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 02 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Data Analyst, Regulatory Data & Systems - Winter 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/68b6810a1ade4306aa6456f0?utm_campaign=1066&utm_source=git)** | Chicago, IL, USA | On Site | Sep 01 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - IT Database Monitoring -Richmond, VA or Columbia, SC](https://jobright.ai/jobs/info/68b67721f4e41a61efd9337d?utm_campaign=1066&utm_source=git)** | Cayce, SC | On Site | Sep 01 |
 | **[MORSE Corp](https://www.morsecorp.com)** | **[Data Scientist Co-op](https://jobright.ai/jobs/info/68b654ab1ade4306aa6443bd?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Sep 01 |
@@ -101,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/67d1cebe7b1578e26a758665?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Aug 31 |
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Quantitative Analytics Summer Internship Risk Analytics and Decision Science (PhD) - Early Careers](https://jobright.ai/jobs/info/6897ab9873b3a600fe89d863?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Aug 31 |
 | **[Jefferson Health](https://www.jeffersonhealth.org/index.html)** | **[Research Assistant (INT) - JeffSolves](https://jobright.ai/jobs/info/6841d9cd4f4ddf4310b1e533?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Aug 31 |
+| **[DePaul University](http://www.depaul.edu)** | **[Post Doctoral Researcher – NSF SCHOLAR](https://jobright.ai/jobs/info/68971aaf73b3a600fe891fe3?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Aug 30 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68b33f6ebc187f64e1bdfefd?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Aug 30 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2026](https://jobright.ai/jobs/info/67e3c9fe66371eacaaca30a8?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Aug 30 |
 | **[Endeavor Health](https://www.endeavorhealth.org)** | **[Summer Research Intern](https://jobright.ai/jobs/info/685c360b9c4281af5973a4c2?utm_campaign=1066&utm_source=git)** | Arlington Heights, IL | On Site | Aug 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b23b8c1ade4306aa635162?utm_campaign=1066&utm_source=git)** | Charleston, SC | Hybrid | Aug 29 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b23b561ade4306aa635126?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Aug 29 |
 | **[Barclays](https://home.barclays)** | **[Connecting Quants Program New York](https://jobright.ai/jobs/info/68b23ae3f4e41a61efd82df7?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 29 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b236cef4e41a61efd82c65?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
