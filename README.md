@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Northern Trust](http://www.northerntrust.com)** | **[Technology Intern – Data Science and Analytics](https://jobright.ai/jobs/info/68b68420f4e41a61efd93871?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 01 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Data Analyst, Regulatory Data & Systems - Winter 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/68b67e42f4e41a61efd935e4?utm_campaign=1066&utm_source=git)** | Chicago, IL, USA | On Site | Sep 01 |
+| **[Northern Trust](http://www.northerntrust.com)** | **[Technology Intern – Data Science and Analytics](https://jobright.ai/jobs/info/68b68420f4e41a61efd93871?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 02 |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Data Analyst, Regulatory Data & Systems - Winter 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/68b6810a1ade4306aa6456f0?utm_campaign=1066&utm_source=git)** | Chicago, IL, USA | On Site | Sep 01 |
 | **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - IT Database Monitoring -Richmond, VA or Columbia, SC](https://jobright.ai/jobs/info/68b67721f4e41a61efd9337d?utm_campaign=1066&utm_source=git)** | Cayce, SC | On Site | Sep 01 |
 | **[MORSE Corp](https://www.morsecorp.com)** | **[Data Scientist Co-op](https://jobright.ai/jobs/info/68b654ab1ade4306aa6443bd?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Sep 01 |
 | **[University of Kentucky College of Medicine](https://medicine.uky.edu/)** | **[Postdoctoral Researcher In Digital Twins for Health Informatics](https://jobright.ai/jobs/info/68b631891ade4306aa644022?utm_campaign=1066&utm_source=git)** | Lexington, KY | On Site | Sep 01 |
@@ -129,7 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Current Master's - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689addc55574fd6bc0c86fc8?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Aug 29 |
 | ↳ | **[Current Master's - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689adc0883d13d1f5b69d442?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
 | ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689add96faa4e875e825d384?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Aug 29 |
-| ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689ae31083d13d1f5b69d924?utm_campaign=1066&utm_source=git)** | Richmond, VA | Hybrid | Aug 29 |
+| **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68a7e146d627244576e2f40c?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Aug 29 |
+| **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689ae31083d13d1f5b69d924?utm_campaign=1066&utm_source=git)** | Richmond, VA | Hybrid | Aug 29 |
 | ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689ae1bc83d13d1f5b69d788?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Aug 29 |
 | ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689ada9983d13d1f5b69d25e?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Aug 29 |
 | ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689ad80f83d13d1f5b69cefb?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b23b561ade4306aa635126?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Aug 29 |
 | **[Barclays](https://home.barclays)** | **[Connecting Quants Program New York](https://jobright.ai/jobs/info/68b23ae3f4e41a61efd82df7?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b236cef4e41a61efd82c65?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | Hybrid | Aug 29 |
-| **[Fred Hutch](http://www.fredhutch.org/)** | **[Intern, Administration - Temporary Part Time](https://jobright.ai/jobs/info/68b2361f1ade4306aa634ef5?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
