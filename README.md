@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northern Trust](http://www.northerntrust.com)** | **[Technology Intern – Data Science and Analytics](https://jobright.ai/jobs/info/68b68420f4e41a61efd93871?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 01 |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Data Analyst, Regulatory Data & Systems - Winter 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/68b67e42f4e41a61efd935e4?utm_campaign=1066&utm_source=git)** | Chicago, IL, USA | On Site | Sep 01 |
+| **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - IT Database Monitoring -Richmond, VA or Columbia, SC](https://jobright.ai/jobs/info/68b67721f4e41a61efd9337d?utm_campaign=1066&utm_source=git)** | Cayce, SC | On Site | Sep 01 |
 | **[MORSE Corp](https://www.morsecorp.com)** | **[Data Scientist Co-op](https://jobright.ai/jobs/info/68b654ab1ade4306aa6443bd?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Sep 01 |
 | **[University of Kentucky College of Medicine](https://medicine.uky.edu/)** | **[Postdoctoral Researcher In Digital Twins for Health Informatics](https://jobright.ai/jobs/info/68b631891ade4306aa644022?utm_campaign=1066&utm_source=git)** | Lexington, KY | On Site | Sep 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68b627851ade4306aa643efd?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 01 |
@@ -71,7 +74,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern - Data Analytics - New Jersey](https://jobright.ai/jobs/info/68b59ae5bc187f64e1be776b?utm_campaign=1066&utm_source=git)** | Mahwah, NJ | On Site | Sep 01 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern - Optimization (Spring 2026)](https://jobright.ai/jobs/info/687babf32097a271a8986754?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 01 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Logistics Data Analyst Intern](https://jobright.ai/jobs/info/68b56f731ade4306aa641c18?utm_campaign=1066&utm_source=git)** | Racine, WI | Hybrid | Sep 01 |
-| ↳ | **[Digital Transformation & Risk Analyst Intern](https://jobright.ai/jobs/info/68b56bdd1ade4306aa641ba6?utm_campaign=1066&utm_source=git)** | Waterford, WI | Hybrid | Sep 01 |
+| **[Joinrs](http://www.tutored.me)** | **[Junior Data Scientist & AI](https://jobright.ai/jobs/info/68b66f2d1ade4306aa644e10?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 01 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Digital Transformation & Risk Analyst Intern](https://jobright.ai/jobs/info/68b56bdd1ade4306aa641ba6?utm_campaign=1066&utm_source=git)** | Waterford, WI | Hybrid | Sep 01 |
 | ↳ | **[Data Analyst, Crop Production Intern](https://jobright.ai/jobs/info/68b566cabc187f64e1be693e?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD | On Site | Sep 01 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/68b561bd1ade4306aa641973?utm_campaign=1066&utm_source=git)** | New Holland, SD | Hybrid | Sep 01 |
 | ↳ | **[Global Manufacturing Data Explorer Intern](https://jobright.ai/jobs/info/68b55f01bc187f64e1be6863?utm_campaign=1066&utm_source=git)** | Racine, WI | On Site | Sep 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Barclays](https://home.barclays)** | **[Connecting Quants Program New York](https://jobright.ai/jobs/info/68b23ae3f4e41a61efd82df7?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b236cef4e41a61efd82c65?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | Hybrid | Aug 29 |
 | **[Fred Hutch](http://www.fredhutch.org/)** | **[Intern, Administration - Temporary Part Time](https://jobright.ai/jobs/info/68b2361f1ade4306aa634ef5?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Aug 29 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b23592f4e41a61efd82b40?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Aug 29 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b235661ade4306aa634e59?utm_campaign=1066&utm_source=git)** | Annapolis Junction, MD | Hybrid | Aug 29 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b234d9f4e41a61efd82aaa?utm_campaign=1066&utm_source=git)** | Huntsville, AL | Hybrid | Aug 29 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b2348f1ade4306aa634d92?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
