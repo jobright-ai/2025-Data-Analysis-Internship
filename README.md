@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MORSE Corp](https://www.morsecorp.com)** | **[Data Scientist Co-op](https://jobright.ai/jobs/info/68b654ab1ade4306aa6443bd?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Sep 01 |
 | **[University of Kentucky College of Medicine](https://medicine.uky.edu/)** | **[Postdoctoral Researcher In Digital Twins for Health Informatics](https://jobright.ai/jobs/info/68b631891ade4306aa644022?utm_campaign=1066&utm_source=git)** | Lexington, KY | On Site | Sep 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68b627851ade4306aa643efd?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 01 |
-| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5e17dbc187f64e1be86f9?utm_campaign=1066&utm_source=git)** | Pomona, CA | Hybrid | Sep 01 |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b66ac3bc187f64e1be9c9d?utm_campaign=1066&utm_source=git)** | Azusa, CA | On Site | Sep 01 |
+| ↳ | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5e17dbc187f64e1be86f9?utm_campaign=1066&utm_source=git)** | Pomona, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5e1131ade4306aa643745?utm_campaign=1066&utm_source=git)** | Alhambra, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5e10d1ade4306aa643740?utm_campaign=1066&utm_source=git)** | Rosemead, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5dd61bc187f64e1be8658?utm_campaign=1066&utm_source=git)** | Irwindale, CA | Hybrid | Sep 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b235661ade4306aa634e59?utm_campaign=1066&utm_source=git)** | Annapolis Junction, MD | Hybrid | Aug 29 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b234d9f4e41a61efd82aaa?utm_campaign=1066&utm_source=git)** | Huntsville, AL | Hybrid | Aug 29 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b2348f1ade4306aa634d92?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Aug 29 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b27211f4e41a61efd8475a?utm_campaign=1066&utm_source=git)** | Honolulu, HI | On Site | Aug 29 |
-| **[Transcard](http://www.transcard.com)** | **[2026 - Data Science Intern](https://jobright.ai/jobs/info/68b2728f1ade4306aa636a6a?utm_campaign=1066&utm_source=git)** | Chattanooga, TN | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
