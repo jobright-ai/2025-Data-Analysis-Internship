@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Kentucky College of Medicine](https://medicine.uky.edu/)** | **[Postdoctoral Researcher In Digital Twins for Health Informatics](https://jobright.ai/jobs/info/68b631891ade4306aa644022?utm_campaign=1066&utm_source=git)** | Lexington, KY | On Site | Sep 01 |
+| **[Comcast](https://corporate.comcast.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68b627851ade4306aa643efd?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 01 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5e17dbc187f64e1be86f9?utm_campaign=1066&utm_source=git)** | Pomona, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5e1131ade4306aa643745?utm_campaign=1066&utm_source=git)** | Alhambra, CA | Hybrid | Sep 01 |
 | ↳ | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68b5e10d1ade4306aa643740?utm_campaign=1066&utm_source=git)** | Rosemead, CA | Hybrid | Sep 01 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[US Conec](http://www.usconec.com/)** | **[Metrology Data Science Intern – Hickory, NC Summer 2026](https://jobright.ai/jobs/info/68b24d11bc187f64e1bda670?utm_campaign=1066&utm_source=git)** | US Conec - Corporate | On Site | Aug 29 |
 | **[fairlife, LLC](http://www.fairlife.com)** | **[Data Science & AI Enablement Intern](https://jobright.ai/jobs/info/68b24bb61ade4306aa6355d2?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Aug 29 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - OPIS Strategic Insights Team, Chemical Market Analytics](https://jobright.ai/jobs/info/68b24b53f4e41a61efd832ab?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Aug 29 |
-| ↳ | **[Summer 2026 Internship – Risk & Research Proposition, Business and Market Analyst Intern](https://jobright.ai/jobs/info/68b24b52f4e41a61efd832a9?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Aug 29 |
 | ↳ | **[Summer 2026 Internship – Data Analyst Intern](https://jobright.ai/jobs/info/68b24741bc187f64e1bda390?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
 | ↳ | **[Summer 2026 Internship – Research Intern](https://jobright.ai/jobs/info/68b246c8bc187f64e1bda335?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Summer Internship – PhD Quant Research Analyst, Client Solutions & Analytics](https://jobright.ai/jobs/info/68b243f71ade4306aa63535f?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Aug 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b2348f1ade4306aa634d92?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Aug 29 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b27211f4e41a61efd8475a?utm_campaign=1066&utm_source=git)** | Honolulu, HI | On Site | Aug 29 |
 | **[Transcard](http://www.transcard.com)** | **[2026 - Data Science Intern](https://jobright.ai/jobs/info/68b2728f1ade4306aa636a6a?utm_campaign=1066&utm_source=git)** | Chattanooga, TN | On Site | Aug 29 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b2734af4e41a61efd849d1?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
