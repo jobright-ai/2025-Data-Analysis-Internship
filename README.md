@@ -57,9 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meijer](https://www.meijer.com/)** | **[Data Science and Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68b862445b42bc4562824199?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | Hybrid | Sep 03 |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68b85ff5ea901c0d269f5b00?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | Remote | Sep 03 |
+| **[Meijer](https://www.meijer.com/)** | **[Data Science and Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68b85ef5ea901c0d269f5a13?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Sep 03 |
+| **[Twine](https://www.twine.net)** | **[Data Annotator](https://jobright.ai/jobs/info/68b85a0507090163b6ba10ef?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 03 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[NERA PhD Summer Intern (2027 Grads)](https://jobright.ai/jobs/info/68b85554ea901c0d269f5674?utm_campaign=1066&utm_source=git)** | Washington - Pennsylvania | Hybrid | Sep 03 |
+| **[Cencora](http://www.cencora.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/68b85538ea901c0d269f565b?utm_campaign=1066&utm_source=git)** | Conshohocken, PA | On Site | Sep 03 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[NERA PhD Summer Intern (2027 Grads)](https://jobright.ai/jobs/info/68b85504ea901c0d269f563c?utm_campaign=1066&utm_source=git)** | New York - 1166 | Hybrid | Sep 03 |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Data Science Internship](https://jobright.ai/jobs/info/68b854cbea901c0d269f5622?utm_campaign=1066&utm_source=git)** | North Carolina | On Site | Sep 03 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[NERA PhD Summer Intern (2027 Grads)](https://jobright.ai/jobs/info/68b853cb07090163b6ba0ed9?utm_campaign=1066&utm_source=git)** | White Plains - Hamilton | Hybrid | Sep 03 |
+| **[RELX](https://www.relx.com)** | **[Data Science Internship](https://jobright.ai/jobs/info/68b853035b42bc4562823b3a?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Sep 03 |
+| ↳ | **[Data Science Internship](https://jobright.ai/jobs/info/68b852a207090163b6ba0dd8?utm_campaign=1066&utm_source=git)** | North Carolina | On Site | Sep 03 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[NERA PhD Summer Intern (2027 Grads)](https://jobright.ai/jobs/info/68b851ef5b42bc4562823a38?utm_campaign=1066&utm_source=git)** | San Francisco - Embarcadero | Hybrid | Sep 03 |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Data Science Internship](https://jobright.ai/jobs/info/68b8517007090163b6ba0ccb?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Sep 03 |
 | **[Oatey Company](https://www.oatey.com//)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68b8459607090163b6ba0926?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Sep 03 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68b8445eea901c0d269f50a1?utm_campaign=1066&utm_source=git)** | Neenah, Wisconsin | Hybrid | Sep 03 |
-| **[Meijer](https://www.meijer.com/)** | **[Data Science and Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68b8444aea901c0d269f5082?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | Hybrid | Sep 03 |
 | **[Springdale Ice Cream and Beverage](http://jobs.kroger.com)** | **[Summer 2026 Data Analytics Kroger Technology & Digital Intern](https://jobright.ai/jobs/info/68b83e1c07090163b6ba0692?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Sep 03 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Data Analyst, Crop Production Intern](https://jobright.ai/jobs/info/68b566cabc187f64e1be693e?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD | On Site | Sep 03 |
 | **[Redstone Strategy Group](http://redstonestrategy.com)** | **[Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/68b829664987402050d0c733?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Sep 03 |
@@ -92,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[WoodmenLife](https://www.woodmenlife.org/)** | **[Data Analytics Intern - Sum,](https://jobright.ai/jobs/info/68b74b8b2124650c140217da?utm_campaign=1066&utm_source=git)** | WoodmenLife Home Office, Omaha, Nebraska, United States of America | Hybrid | Sep 02 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Personal Lines Business Data Analyst](https://jobright.ai/jobs/info/68b75ae02124650c1402229f?utm_campaign=1066&utm_source=git)** | Worcester, MA | Hybrid | Sep 02 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Data Analytics Summer Intern](https://jobright.ai/jobs/info/68b7598e2124650c14022138?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 02 |
-| **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Quantitative Researcher Intern, Summer 2026](https://jobright.ai/jobs/info/68b7b1ddeffbb9793f7b70cc?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 02 |
-| ↳ | **[Quantitative Developer Intern, Summer 2026](https://jobright.ai/jobs/info/68b7b1fb872d1074a98b25be?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 02 |
+| **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Quantitative Developer Intern, Summer 2026](https://jobright.ai/jobs/info/68b7b1fb872d1074a98b25be?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 02 |
+| ↳ | **[Quantitative Researcher Intern, Summer 2026](https://jobright.ai/jobs/info/68b7b1ddeffbb9793f7b70cc?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 02 |
 | **[World Wide Technology Healthcare Solutions](https://www.wwt.com/industry/healthcare/)** | **[Supply Chain Intern - Data Analytics- 2026](https://jobright.ai/jobs/info/68b74f93f4e41a61efd97efb?utm_campaign=1066&utm_source=git)** | Edwardsville, IL | On Site | Sep 02 |
 | **[Cencora](http://www.cencora.com)** | **[InSite Data Analyst Intern](https://jobright.ai/jobs/info/68b74d622124650c14021a50?utm_campaign=1066&utm_source=git)** | Orange, CA | On Site | Sep 02 |
 | **[Mercer Engineering Research Center](https://www.merc-mercer.org/)** | **[Graduate Student Research Assistant](https://jobright.ai/jobs/info/68b74ce0f4e41a61efd97e7b?utm_campaign=1066&utm_source=git)** | Atlanta Campus | On Site | Sep 02 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b725a5f4e41a61efd95ee3?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | Hybrid | Sep 02 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b72587f4e41a61efd95ed8?utm_campaign=1066&utm_source=git)** | Huntsville, AL | Hybrid | Sep 02 |
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Data and Analytics Internship](https://jobright.ai/jobs/info/68b72558f4e41a61efd95ea3?utm_campaign=1066&utm_source=git)** | Dublin, OH | On Site | Sep 02 |
-| **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b72557f4e41a61efd95ea2?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Sep 02 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b725442124650c1401fabe?utm_campaign=1066&utm_source=git)** | Honolulu, HI | Hybrid | Sep 02 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b7250a1ade4306aa647f57?utm_campaign=1066&utm_source=git)** | El Segundo, CA | Hybrid | Sep 02 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b725091ade4306aa647f55?utm_campaign=1066&utm_source=git)** | Panama City, FL | Hybrid | Sep 02 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b724fc2124650c1401faaa?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Sep 02 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b724f7f4e41a61efd95e7b?utm_campaign=1066&utm_source=git)** | Charleston, SC | Hybrid | Sep 02 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b724d91ade4306aa647f34?utm_campaign=1066&utm_source=git)** | Annapolis Junction, MD | Hybrid | Sep 02 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b724ba2124650c1401fa9d?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Sep 02 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b724751ade4306aa647ee3?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Sep 02 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Data Analytics Kroger Technology & Digital Intern](https://jobright.ai/jobs/info/68b7212a1ade4306aa647d87?utm_campaign=1066&utm_source=git)** | 11450 Grooms Rd, Blue Ash, OH, 45242, US | On Site | Sep 02 |
-| **[US Foods](https://www.usfoods.com/)** | **[Intern - Web Analyst (Hybrid: Onsite & Remote)](https://jobright.ai/jobs/info/68b71c822124650c1401f7a4?utm_campaign=1066&utm_source=git)** | Rosemont IL | Hybrid | Sep 02 |
-| **[Fidelity Bank](http://www.LionBank.com)** | **[Quantitative Research Undergraduate Intern](https://jobright.ai/jobs/info/68b71b442124650c1401f618?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
