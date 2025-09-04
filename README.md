@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Data Intern: Starts Summer 2026](https://jobright.ai/jobs/info/68b927b75b42bc456282b09b?utm_campaign=1066&utm_source=git)** | Omaha, NE | Hybrid | Sep 03 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Data Science](https://jobright.ai/jobs/info/68b924225b42bc456282af10?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Sep 03 |
+| **[Institutional Cash Distributors (ICD)](http://icdportal.com)** | **[Summer 2026 Quantitative Analytics Developer Internship](https://jobright.ai/jobs/info/68b91abc5b42bc456282a732?utm_campaign=1066&utm_source=git)** | Jersey City, NJ, United States | On Site | Sep 03 |
+| ↳ | **[Summer 2026 Data Platform Internship](https://jobright.ai/jobs/info/68b919455b42bc456282a66d?utm_campaign=1066&utm_source=git)** | Jersey City, NJ, United States | On Site | Sep 03 |
 | **[PPI - Precision Pulley & Idler](https://www.ppi-global.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68b90acb5b42bc4562829ebe?utm_campaign=1066&utm_source=git)** | Pella, IA | On Site | Sep 03 |
 | **[Aflac](http://www.aflac.com)** | **[Sr Data Analyst Internal Audit](https://jobright.ai/jobs/info/68b8f96eea901c0d269fb206?utm_campaign=1066&utm_source=git)** | Georgia, United States | Hybrid | Sep 03 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Strategy & Transformation – Data Scientist](https://jobright.ai/jobs/info/68b8e94607090163b6ba61b9?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Sep 03 |
@@ -66,6 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[College to Corporate Internship - Data Scientist](https://jobright.ai/jobs/info/68b8ddf207090163b6ba58f9?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Sep 03 |
 | **[Federal Home Loan Bank of Chicago](http://www.fhlbc.com)** | **[Summer Internship- Business Intelligence](https://jobright.ai/jobs/info/68b8dbef5b42bc4562828416?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 03 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Human Health Risk Assessment & Residues Database Intern](https://jobright.ai/jobs/info/68b8d4675b42bc456282805a?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Sep 03 |
+| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Research Intern](https://jobright.ai/jobs/info/68b8cfd207090163b6ba523d?utm_campaign=1066&utm_source=git)** | La Crosse, WI | On Site | Sep 03 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program – Data Analysis](https://jobright.ai/jobs/info/68b8cf7307090163b6ba51bb?utm_campaign=1066&utm_source=git)** | Dallas, TX (Job Posting Location) | On Site | Sep 03 |
 | ↳ | **[Future Builders Internship Program – Data Analysis](https://jobright.ai/jobs/info/68b8cf6b5b42bc4562827eed?utm_campaign=1066&utm_source=git)** | Miami, FL (Job Posting Location) | On Site | Sep 03 |
 | ↳ | **[Future Builders Internship Program – Data Analysis](https://jobright.ai/jobs/info/68b8cf44ea901c0d269f9a3f?utm_campaign=1066&utm_source=git)** | LEN - Miami FL - Corporate | On Site | Sep 03 |
@@ -74,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[CAS](http://www.cas.org)** | **[BU24IN Data Scientist Intern](https://jobright.ai/jobs/info/68b8c7535b42bc45628279a2?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Sep 03 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Strategy & Transformation – Data Scientist](https://jobright.ai/jobs/info/68b8c4b207090163b6ba4c36?utm_campaign=1066&utm_source=git)** | Warren, Michigan, United States of America | Hybrid | Sep 03 |
 | ↳ | **[2026 Summer Intern – Strategy & Transformation – Data Scientist](https://jobright.ai/jobs/info/68b8c48c5b42bc4562827985?utm_campaign=1066&utm_source=git)** | Austin, Texas, United States of America | Hybrid | Sep 03 |
-| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Research Intern](https://jobright.ai/jobs/info/68b8b5465b42bc4562827327?utm_campaign=1066&utm_source=git)** | La Crosse, WI | On Site | Sep 03 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Global Manufacturing Data Explorer Intern](https://jobright.ai/jobs/info/68b55f01bc187f64e1be6863?utm_campaign=1066&utm_source=git)** | Racine, WI | On Site | Sep 03 |
 | **[The MJ Companies](https://www.mjinsurance.com)** | **[EB Analytics Intern](https://jobright.ai/jobs/info/68b8acb05b42bc4562826ec6?utm_campaign=1066&utm_source=git)** | Denver, Colorado, United States, | On Site | Sep 03 |
 | **[Docugami](http://docugami.com)** | **[Data Science PhD Intern](https://jobright.ai/jobs/info/68b8ab1aea901c0d269f8a16?utm_campaign=1066&utm_source=git)** | Kirkland, WA | On Site | Sep 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Bank](http://www.usbank.com)** | **[Data Analytics Summer Intern](https://jobright.ai/jobs/info/68b7598e2124650c14022138?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 02 |
 | **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Quantitative Developer Intern, Summer 2026](https://jobright.ai/jobs/info/68b7b1fb872d1074a98b25be?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 02 |
 | ↳ | **[Quantitative Researcher Intern, Summer 2026](https://jobright.ai/jobs/info/68b7b1ddeffbb9793f7b70cc?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 02 |
-| **[World Wide Technology Healthcare Solutions](https://www.wwt.com/industry/healthcare/)** | **[Supply Chain Intern - Data Analytics- 2026](https://jobright.ai/jobs/info/68b74f93f4e41a61efd97efb?utm_campaign=1066&utm_source=git)** | Edwardsville, IL | On Site | Sep 02 |
-| **[Cencora](http://www.cencora.com)** | **[InSite Data Analyst Intern](https://jobright.ai/jobs/info/68b74d622124650c14021a50?utm_campaign=1066&utm_source=git)** | Orange, CA | On Site | Sep 02 |
-| **[Mercer Engineering Research Center](https://www.merc-mercer.org/)** | **[Graduate Student Research Assistant](https://jobright.ai/jobs/info/68b74ce0f4e41a61efd97e7b?utm_campaign=1066&utm_source=git)** | Atlanta Campus | On Site | Sep 02 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Business Insights Analyst](https://jobright.ai/jobs/info/68b74ac22124650c14021631?utm_campaign=1066&utm_source=git)** | California - San Francisco | Hybrid | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
