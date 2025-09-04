@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PPI - Precision Pulley & Idler](https://www.ppi-global.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68b90acb5b42bc4562829ebe?utm_campaign=1066&utm_source=git)** | Pella, IA | On Site | Sep 03 |
+| **[Aflac](http://www.aflac.com)** | **[Sr Data Analyst Internal Audit](https://jobright.ai/jobs/info/68b8f96eea901c0d269fb206?utm_campaign=1066&utm_source=git)** | Georgia, United States | Hybrid | Sep 03 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Strategy & Transformation – Data Scientist](https://jobright.ai/jobs/info/68b8e94607090163b6ba61b9?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Sep 03 |
 | **[The Dallas Morning News](http://www.dallasnews.com)** | **[Data Intern - Fall](https://jobright.ai/jobs/info/68b8e3aa07090163b6ba5d74?utm_campaign=1066&utm_source=git)** | Remote (Virtual) - US - US (Primary) | Remote | Sep 03 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Strategy & Transformation – Data Scientist](https://jobright.ai/jobs/info/68b8e358ea901c0d269fa592?utm_campaign=1066&utm_source=git)** | Warren, MI | Hybrid | Sep 03 |
@@ -77,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[The MJ Companies](https://www.mjinsurance.com)** | **[EB Analytics Intern](https://jobright.ai/jobs/info/68b8acb05b42bc4562826ec6?utm_campaign=1066&utm_source=git)** | Denver, Colorado, United States, | On Site | Sep 03 |
 | **[Docugami](http://docugami.com)** | **[Data Science PhD Intern](https://jobright.ai/jobs/info/68b8ab1aea901c0d269f8a16?utm_campaign=1066&utm_source=git)** | Kirkland, WA | On Site | Sep 03 |
 | **[Federal Home Loan Bank of Chicago](http://www.fhlbc.com)** | **[Summer Internship- Business Intelligence](https://jobright.ai/jobs/info/68b8a97707090163b6ba4055?utm_campaign=1066&utm_source=git)** | Chicago | On Site | Sep 03 |
+| **[Cencora](http://www.cencora.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/68b8a78907090163b6ba3ecb?utm_campaign=1066&utm_source=git)** | Conshohocken, PA | On Site | Sep 03 |
 | **[Axle](https://axleinfo.com/)** | **[Bioinformatics Fellow - Hyperspectral Imaging](https://jobright.ai/jobs/info/68b8a5c55b42bc45628269fa?utm_campaign=1066&utm_source=git)** | Frederick, MD | On Site | Sep 03 |
 | **[The MJ Companies](https://www.mjinsurance.com)** | **[EB Analytics Intern](https://jobright.ai/jobs/info/68b8a56d07090163b6ba3ccb?utm_campaign=1066&utm_source=git)** | Phoenix, Arizona, United States | On Site | Sep 03 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Research Assistant Intern](https://jobright.ai/jobs/info/68b8a5015b42bc456282691b?utm_campaign=1066&utm_source=git)** | Stevens Point, WI | On Site | Sep 03 |
@@ -110,8 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Meijer](https://www.meijer.com/)** | **[Data Science and Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68b85ef5ea901c0d269f5a13?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Sep 03 |
 | **[Twine](https://www.twine.net)** | **[Data Annotator](https://jobright.ai/jobs/info/68b85a0507090163b6ba10ef?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 03 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[NERA PhD Summer Intern (2027 Grads)](https://jobright.ai/jobs/info/68b85554ea901c0d269f5674?utm_campaign=1066&utm_source=git)** | Washington - Pennsylvania | Hybrid | Sep 03 |
-| **[Cencora](http://www.cencora.com)** | **[Procurement Intern](https://jobright.ai/jobs/info/68b85538ea901c0d269f565b?utm_campaign=1066&utm_source=git)** | Conshohocken, PA | On Site | Sep 03 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[NERA PhD Summer Intern (2027 Grads)](https://jobright.ai/jobs/info/68b85504ea901c0d269f563c?utm_campaign=1066&utm_source=git)** | New York - 1166 | Hybrid | Sep 03 |
+| ↳ | **[NERA PhD Summer Intern (2027 Grads)](https://jobright.ai/jobs/info/68b85504ea901c0d269f563c?utm_campaign=1066&utm_source=git)** | New York - 1166 | Hybrid | Sep 03 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Data Science Internship](https://jobright.ai/jobs/info/68b854cbea901c0d269f5622?utm_campaign=1066&utm_source=git)** | North Carolina | On Site | Sep 03 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[NERA PhD Summer Intern (2027 Grads)](https://jobright.ai/jobs/info/68b853cb07090163b6ba0ed9?utm_campaign=1066&utm_source=git)** | White Plains - Hamilton | Hybrid | Sep 03 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Co-op: Engineering, Data Analyst (Spring 2026)](https://jobright.ai/jobs/info/68b86a63ea901c0d269f5fcd?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Sep 03 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[WoodmenLife](https://www.woodmenlife.org/)** | **[Data Analytics Intern - Sum,](https://jobright.ai/jobs/info/68b74b8b2124650c140217da?utm_campaign=1066&utm_source=git)** | WoodmenLife Home Office, Omaha, Nebraska, United States of America | Hybrid | Sep 02 |
 | **[The Hanover Insurance Group](http://www.hanover.com/)** | **[Intern - Personal Lines Business Data Analyst](https://jobright.ai/jobs/info/68b75ae02124650c1402229f?utm_campaign=1066&utm_source=git)** | Worcester, MA | Hybrid | Sep 02 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Data Analytics Summer Intern](https://jobright.ai/jobs/info/68b7598e2124650c14022138?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 02 |
-| **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Quantitative Researcher Intern, Summer 2026](https://jobright.ai/jobs/info/68b7b1ddeffbb9793f7b70cc?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 02 |
-| ↳ | **[Quantitative Developer Intern, Summer 2026](https://jobright.ai/jobs/info/68b7b1fb872d1074a98b25be?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 02 |
+| **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Quantitative Developer Intern, Summer 2026](https://jobright.ai/jobs/info/68b7b1fb872d1074a98b25be?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 02 |
+| ↳ | **[Quantitative Researcher Intern, Summer 2026](https://jobright.ai/jobs/info/68b7b1ddeffbb9793f7b70cc?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 02 |
 | **[World Wide Technology Healthcare Solutions](https://www.wwt.com/industry/healthcare/)** | **[Supply Chain Intern - Data Analytics- 2026](https://jobright.ai/jobs/info/68b74f93f4e41a61efd97efb?utm_campaign=1066&utm_source=git)** | Edwardsville, IL | On Site | Sep 02 |
 | **[Cencora](http://www.cencora.com)** | **[InSite Data Analyst Intern](https://jobright.ai/jobs/info/68b74d622124650c14021a50?utm_campaign=1066&utm_source=git)** | Orange, CA | On Site | Sep 02 |
 | **[Mercer Engineering Research Center](https://www.merc-mercer.org/)** | **[Graduate Student Research Assistant](https://jobright.ai/jobs/info/68b74ce0f4e41a61efd97e7b?utm_campaign=1066&utm_source=git)** | Atlanta Campus | On Site | Sep 02 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Business Insights Analyst](https://jobright.ai/jobs/info/68b74ac22124650c14021631?utm_campaign=1066&utm_source=git)** | California - San Francisco | Hybrid | Sep 02 |
-| ↳ | **[Summer 2026 Intern - Business Insights Analyst](https://jobright.ai/jobs/info/68b749e8f4e41a61efd97b67?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Sep 02 |
-| **[BWXT](http://www.bwxt.com/)** | **[Mathematics/Statistics Intern- Virginia (Summer 2026)](https://jobright.ai/jobs/info/68b749861ade4306aa649bb2?utm_campaign=1066&utm_source=git)** | Lynchburg, VA | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
