@@ -81,12 +81,13 @@ For a complete list, click the following sortable link below:
 | **[Amway](http://www.amway.com)** | **[Data Science Intern, Summer 2026 (42285)](https://jobright.ai/jobs/info/68ba25058043103d4f21ddc4?utm_campaign=1066&utm_source=git)** | Ada, MI | On Site | Sep 04 |
 | ↳ | **[Software Engineer / Data Analyst Intern, Summer 2026 (42266)](https://jobright.ai/jobs/info/68ba24bc6105227d1189b339?utm_campaign=1066&utm_source=git)** | Ada, MI | On Site | Sep 04 |
 | ↳ | **[People Analytics Intern, Summer 2026 (42325)](https://jobright.ai/jobs/info/68ba24846105227d1189b30e?utm_campaign=1066&utm_source=git)** | Ada, MI | On Site | Sep 04 |
+| **[Corteva Agriscience](https://www.corteva.com/)** | **[Field Research Intern](https://jobright.ai/jobs/info/68ba225e8043103d4f21dad2?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Sep 04 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Sales Operations Data Analyst](https://jobright.ai/jobs/info/68ba20726105227d1189b173?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Sep 04 |
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Data Insights Analyst Intern (Part-time)](https://jobright.ai/jobs/info/68ba20536105227d1189b146?utm_campaign=1066&utm_source=git)** | San Diego, CA | Remote | Sep 04 |
 | ↳ | **[Data Insights Analyst Intern (Part-time)](https://jobright.ai/jobs/info/68ba1f345f383274918641eb?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 04 |
 | **[Bayer](https://www.bayer.com)** | **[Functional Genomics Data Science Co-Op](https://jobright.ai/jobs/info/68ba1e586105227d1189af7a?utm_campaign=1066&utm_source=git)** | Chesterfield, MO | On Site | Sep 04 |
+| **[UPS](http://www.ups.com)** | **[UPS Global Finance Summer 2026 Analytics Internship](https://jobright.ai/jobs/info/68ba177c8043103d4f21d6ad?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Sep 04 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Data Science Internship, 2026](https://jobright.ai/jobs/info/68ba16a88043103d4f21d651?utm_campaign=1066&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Sep 04 |
-| **[UPS](http://www.ups.com)** | **[UPS Global Finance Summer 2026 Analytics Internship](https://jobright.ai/jobs/info/68ba15558043103d4f21d576?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Sep 04 |
 | **[Brown University Health](https://www.brownhealth.org)** | **[Post Doctoral Rsrch Assoc](https://jobright.ai/jobs/info/68ba12d06105227d1189aa56?utm_campaign=1066&utm_source=git)** | Providence, RI | On Site | Sep 04 |
 | **[The Huntington](http://huntingtontheatre.org)** | **[Data & Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/68ba08078043103d4f21ce7f?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Sep 04 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Postdoctoral Research Fellow in Economics](https://jobright.ai/jobs/info/68b9ff686105227d1189a15c?utm_campaign=1066&utm_source=git)** | Evanston, IL | On Site | Sep 04 |
@@ -96,7 +97,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Insights Analyst Intern (Part-time)](https://jobright.ai/jobs/info/68b9f8e25f38327491862efb?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 04 |
 | **[Florida Blue](https://www.floridablue.com)** | **[Commercial Analytics Summer 2026 Internship](https://jobright.ai/jobs/info/68b9f45e8043103d4f21c3ab?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Sep 04 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[PowerBI Data Analyst Intern - Kansas City, MO (Summer 2026)](https://jobright.ai/jobs/info/68b9f44f8043103d4f21c39e?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Sep 04 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Transportation Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68b9ee1f8043103d4f21bf67?utm_campaign=1066&utm_source=git)** | Corporate 412 West - Springdale, Arkansas | On Site | Sep 04 |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Transportation Analytics Summer 2026 Intern](https://jobright.ai/jobs/info/68b9ed2f6105227d11899538?utm_campaign=1066&utm_source=git)** | Corporate 412 West - Springdale, Arkansas | On Site | Sep 04 |
 | **[CME Group](http://www.cmegroup.com)** | **[Data Science Intern - Fall 2025](https://jobright.ai/jobs/info/68b9eb5e6105227d118993bc?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Sep 04 |
 | **[Tetra Pak](http://www.tetrapak.com)** | **[Vancouver Analytics Intern](https://jobright.ai/jobs/info/68b9e9245f38327491862465?utm_campaign=1066&utm_source=git)** | Denton, TX | Hybrid | Sep 04 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Engineering, Data Analyst (Summer 2026)](https://jobright.ai/jobs/info/68b9e4e86105227d11898edf?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Sep 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Analyst - Generalist (2026 Start Date)](https://jobright.ai/jobs/info/68b9377bea901c0d269fd88a?utm_campaign=1066&utm_source=git)** | US-NY-New York | On Site | Sep 03 |
 | ↳ | **[Summer Analyst Intern - Generalist (2026 Start Date)](https://jobright.ai/jobs/info/68b93767ea901c0d269fd86b?utm_campaign=1066&utm_source=git)** | US-CA-San Francisco | On Site | Sep 03 |
 | ↳ | **[Analyst - Health Care (HEOR, Epidemiology & Market Access) (2026 Start Date)](https://jobright.ai/jobs/info/68b937655b42bc456282bb9a?utm_campaign=1066&utm_source=git)** | US-CA-Los Angeles | On Site | Sep 03 |
-| ↳ | **[Summer Analyst Intern - Generalist (2026 Start Date)](https://jobright.ai/jobs/info/68b9374eea901c0d269fd853?utm_campaign=1066&utm_source=git)** | US-CO-Denver | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
