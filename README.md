@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Billing Solutions Analyst](https://jobright.ai/jobs/info/68ba72796105227d1189e170?utm_campaign=1066&utm_source=git)** | Maryland Heights, MO | On Site | Sep 04 |
+| **[Activision](https://www.activision.com/)** | **[2026 US Summer Internships - Analytics & Data Science](https://jobright.ai/jobs/info/68ba6fd58043103d4f2208f7?utm_campaign=1066&utm_source=git)** | Santa Monica, CA | On Site | Sep 04 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Data Science Co-Op](https://jobright.ai/jobs/info/68ba407b8043103d4f21f03c?utm_campaign=1066&utm_source=git)** | Ridgefield, CT | On Site | Sep 04 |
 | **[Intermountain Electric, Inc. (IME)](http://www.imelect.com/)** | **[Innovation Intern](https://jobright.ai/jobs/info/68ba40045f3832749186574a?utm_campaign=1066&utm_source=git)** | Aurora, CO | On Site | Sep 04 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Statistical Programmer - Intern](https://jobright.ai/jobs/info/68ba3b9e6105227d1189c39b?utm_campaign=1066&utm_source=git)** | Rahway, NJ | Hybrid | Sep 04 |
@@ -67,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Statistical Programmer - Intern](https://jobright.ai/jobs/info/68ba33865f38327491864dfd?utm_campaign=1066&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Sep 04 |
 | ↳ | **[2026 Future Talent Program - Statistical Programmer - Intern](https://jobright.ai/jobs/info/68ba333a8043103d4f21e45a?utm_campaign=1066&utm_source=git)** | USA - Pennsylvania - Upper Gwynedd | Hybrid | Sep 04 |
 | **[ALLETE](http://allete.com)** | **[Internship - Customer Analytics & Business Insights](https://jobright.ai/jobs/info/68ba2c416105227d1189b6ce?utm_campaign=1066&utm_source=git)** | Duluth, MN | On Site | Sep 04 |
+| **[Notion](https://www.notion.so)** | **[Data Science Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/68ba65ac6105227d1189d913?utm_campaign=1066&utm_source=git)** | San Francisco, California | On Site | Sep 04 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/68ba26036105227d1189b432?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Sep 04 |
 | **[Amway](http://www.amway.com)** | **[Data Analyst Intern, Summer 2026 (42277)](https://jobright.ai/jobs/info/68ba25dc6105227d1189b417?utm_campaign=1066&utm_source=git)** | Ada, MI | Hybrid | Sep 04 |
 | ↳ | **[Data Analytics and Insights Intern, Summer 2026 (42256)](https://jobright.ai/jobs/info/68ba25ab5f383274918645ef?utm_campaign=1066&utm_source=git)** | Ada, MI | On Site | Sep 04 |
@@ -79,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Data Insights Analyst Intern (Part-time)](https://jobright.ai/jobs/info/68ba20536105227d1189b146?utm_campaign=1066&utm_source=git)** | San Diego, CA | Remote | Sep 04 |
 | ↳ | **[Data Insights Analyst Intern (Part-time)](https://jobright.ai/jobs/info/68ba1f345f383274918641eb?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 04 |
 | **[Bayer](https://www.bayer.com)** | **[Functional Genomics Data Science Co-Op](https://jobright.ai/jobs/info/68ba1e586105227d1189af7a?utm_campaign=1066&utm_source=git)** | Chesterfield, MO | On Site | Sep 04 |
-| **[UPS](http://www.ups.com)** | **[UPS Global Finance Summer 2026 Analytics Internship](https://jobright.ai/jobs/info/68ba177c8043103d4f21d6ad?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Sep 04 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Data Science Internship, 2026](https://jobright.ai/jobs/info/68ba16a88043103d4f21d651?utm_campaign=1066&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Sep 04 |
+| **[UPS](http://www.ups.com)** | **[UPS Global Finance Summer 2026 Analytics Internship](https://jobright.ai/jobs/info/68ba15558043103d4f21d576?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Sep 04 |
 | **[Brown University Health](https://www.brownhealth.org)** | **[Post Doctoral Rsrch Assoc](https://jobright.ai/jobs/info/68ba12d06105227d1189aa56?utm_campaign=1066&utm_source=git)** | Providence, RI | On Site | Sep 04 |
 | **[The Huntington](http://huntingtontheatre.org)** | **[Data & Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/68ba08078043103d4f21ce7f?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Sep 04 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Postdoctoral Research Fellow in Economics](https://jobright.ai/jobs/info/68b9ff686105227d1189a15c?utm_campaign=1066&utm_source=git)** | Evanston, IL | On Site | Sep 04 |
@@ -100,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern](https://jobright.ai/jobs/info/68b9d77b5f38327491861620?utm_campaign=1066&utm_source=git)** | Bethlehem, PA | Hybrid | Sep 04 |
 | **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/68b9d1d08043103d4f21ac16?utm_campaign=1066&utm_source=git)** | Rochester, New York Metropolitan Area | On Site | Sep 04 |
 | ↳ | **[2026 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/68b9d05a6105227d11897fdf?utm_campaign=1066&utm_source=git)** | Augusta, ME | On Site | Sep 04 |
-| **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Business Intelligence Developer (Intern Conversion)](https://jobright.ai/jobs/info/68ba5b2a5f3832749186657a?utm_campaign=1066&utm_source=git)** | Oak Brook, IL | On Site | Sep 04 |
 | **[University of Michigan](https://www.umich.edu)** | **[IMSE Research Associate F25 (Student Temporary)](https://jobright.ai/jobs/info/68b9cfd65f383274918611d5?utm_campaign=1066&utm_source=git)** | Dearborn, MI | Hybrid | Sep 04 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/68b9ce115f3832749186109e?utm_campaign=1066&utm_source=git)** | Mason, OH | On Site | Sep 04 |
 | **[Securian Financial](https://www.securian.com/)** | **[Enterprise Data & Analytics Intern (Hybrid)](https://jobright.ai/jobs/info/68b9cb0f6105227d11897ceb?utm_campaign=1066&utm_source=git)** | St Paul, MN | Hybrid | Sep 04 |
@@ -112,8 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Iberdrola](http://www.iberdrola.com)** | **[2026 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/68b9c1f56105227d118977c8?utm_campaign=1066&utm_source=git)** | United States Of America, Maine, Augusta | On Site | Sep 04 |
 | ↳ | **[2026 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/68b9c1df5f3832749186090b?utm_campaign=1066&utm_source=git)** | United States Of America, New York, Rochester | On Site | Sep 04 |
 | ↳ | **[2026 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/68b9c19c8043103d4f21a189?utm_campaign=1066&utm_source=git)** | United States Of America, Oregon, Portland | On Site | Sep 04 |
-| **[Bayer](https://www.bayer.com)** | **[Precision Genomics Data Science Co-Op](https://jobright.ai/jobs/info/68b9e8d05f38327491862401?utm_campaign=1066&utm_source=git)** | Chesterfield, MO | On Site | Sep 04 |
-| **[Iberdrola](http://www.iberdrola.com)** | **[2026 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/68b9c08c5f3832749186084a?utm_campaign=1066&utm_source=git)** | United States Of America, Connecticut, Orange | On Site | Sep 04 |
+| ↳ | **[2026 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/68b9c08c5f3832749186084a?utm_campaign=1066&utm_source=git)** | United States Of America, Connecticut, Orange | On Site | Sep 04 |
 | **[Bayer](https://www.bayer.com)** | **[Precision Genomics Data Science Co-Op](https://jobright.ai/jobs/info/68b9d2536105227d1189819f?utm_campaign=1066&utm_source=git)** | Chesterfield, MO | On Site | Sep 04 |
 | **[Intersect Power](https://www.intersectpower.com)** | **[Financial Data Automation Intern](https://jobright.ai/jobs/info/68b9b5738043103d4f2199b8?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 04 |
 | **[GuideWell Source](https://www.guidewellsource.com/)** | **[Commercial Analytics Summer 2026 Internship](https://jobright.ai/jobs/info/68b9ab6a6105227d11896cc1?utm_campaign=1066&utm_source=git)** | Jacksonville, FL, United States | On Site | Sep 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Analyst - Generalist (2026 Start Date)](https://jobright.ai/jobs/info/68b9368607090163b6ba8e26?utm_campaign=1066&utm_source=git)** | US-TX-Dallas | On Site | Sep 03 |
 | ↳ | **[Summer Analyst Intern - Generalist (2026 Start Date)](https://jobright.ai/jobs/info/68b9363107090163b6ba8e01?utm_campaign=1066&utm_source=git)** | US-TX-Dallas | On Site | Sep 03 |
 | ↳ | **[Summer Analyst Intern - Generalist (2026 Start Date)](https://jobright.ai/jobs/info/68b9363107090163b6ba8e02?utm_campaign=1066&utm_source=git)** | US-NY-New York | On Site | Sep 03 |
-| ↳ | **[Analyst - Generalist (2026 Start Date)](https://jobright.ai/jobs/info/68b935ce07090163b6ba8de0?utm_campaign=1066&utm_source=git)** | US-CA-Menlo Park | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
