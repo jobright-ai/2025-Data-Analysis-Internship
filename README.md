@@ -74,12 +74,13 @@ For a complete list, click the following sortable link below:
 | **[Amway](http://www.amway.com)** | **[Data Science Intern, Summer 2026 (42285)](https://jobright.ai/jobs/info/68ba25058043103d4f21ddc4?utm_campaign=1066&utm_source=git)** | Ada, MI | On Site | Sep 04 |
 | ↳ | **[Software Engineer / Data Analyst Intern, Summer 2026 (42266)](https://jobright.ai/jobs/info/68ba24bc6105227d1189b339?utm_campaign=1066&utm_source=git)** | Ada, MI | On Site | Sep 04 |
 | ↳ | **[People Analytics Intern, Summer 2026 (42325)](https://jobright.ai/jobs/info/68ba24846105227d1189b30e?utm_campaign=1066&utm_source=git)** | Ada, MI | On Site | Sep 04 |
+| **[Corteva Agriscience](https://www.corteva.com/)** | **[Field Research Intern](https://jobright.ai/jobs/info/68ba225e8043103d4f21dad2?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Sep 04 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Sales Operations Data Analyst](https://jobright.ai/jobs/info/68ba20726105227d1189b173?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Sep 04 |
 | **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Data Insights Analyst Intern (Part-time)](https://jobright.ai/jobs/info/68ba20536105227d1189b146?utm_campaign=1066&utm_source=git)** | San Diego, CA | Remote | Sep 04 |
 | ↳ | **[Data Insights Analyst Intern (Part-time)](https://jobright.ai/jobs/info/68ba1f345f383274918641eb?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 04 |
 | **[Bayer](https://www.bayer.com)** | **[Functional Genomics Data Science Co-Op](https://jobright.ai/jobs/info/68ba1e586105227d1189af7a?utm_campaign=1066&utm_source=git)** | Chesterfield, MO | On Site | Sep 04 |
+| **[UPS](http://www.ups.com)** | **[UPS Global Finance Summer 2026 Analytics Internship](https://jobright.ai/jobs/info/68ba177c8043103d4f21d6ad?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Sep 04 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Data Science Internship, 2026](https://jobright.ai/jobs/info/68ba16a88043103d4f21d651?utm_campaign=1066&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Sep 04 |
-| **[UPS](http://www.ups.com)** | **[UPS Global Finance Summer 2026 Analytics Internship](https://jobright.ai/jobs/info/68ba15558043103d4f21d576?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Sep 04 |
 | **[Brown University Health](https://www.brownhealth.org)** | **[Post Doctoral Rsrch Assoc](https://jobright.ai/jobs/info/68ba12d06105227d1189aa56?utm_campaign=1066&utm_source=git)** | Providence, RI | On Site | Sep 04 |
 | **[The Huntington](http://huntingtontheatre.org)** | **[Data & Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/68ba08078043103d4f21ce7f?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Sep 04 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Postdoctoral Research Fellow in Economics](https://jobright.ai/jobs/info/68b9ff686105227d1189a15c?utm_campaign=1066&utm_source=git)** | Evanston, IL | On Site | Sep 04 |
@@ -97,9 +98,9 @@ For a complete list, click the following sortable link below:
 | **[Sanofi](https://www.sanofi.com)** | **[Bioinformatic Data Scientist - Vaccine Summer Fall 2026 Co-op](https://jobright.ai/jobs/info/68b9e25c8043103d4f21b579?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Sep 04 |
 | **[Bayer](https://www.bayer.com)** | **[North America Production Research Data Insights Intern](https://jobright.ai/jobs/info/68b9dc355f383274918616b4?utm_campaign=1066&utm_source=git)** | Champaign, IL | On Site | Sep 04 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern](https://jobright.ai/jobs/info/68b9d77b5f38327491861620?utm_campaign=1066&utm_source=git)** | Bethlehem, PA | Hybrid | Sep 04 |
-| **[MSQ Ventures](https://msqventures.com)** | **[Healthcare Analyst Intern](https://jobright.ai/jobs/info/68b9d41a6105227d118982f0?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 04 |
 | **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/68b9d1d08043103d4f21ac16?utm_campaign=1066&utm_source=git)** | Rochester, New York Metropolitan Area | On Site | Sep 04 |
 | ↳ | **[2026 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/68b9d05a6105227d11897fdf?utm_campaign=1066&utm_source=git)** | Augusta, ME | On Site | Sep 04 |
+| **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Business Intelligence Developer (Intern Conversion)](https://jobright.ai/jobs/info/68ba5b2a5f3832749186657a?utm_campaign=1066&utm_source=git)** | Oak Brook, IL | On Site | Sep 04 |
 | **[University of Michigan](https://www.umich.edu)** | **[IMSE Research Associate F25 (Student Temporary)](https://jobright.ai/jobs/info/68b9cfd65f383274918611d5?utm_campaign=1066&utm_source=git)** | Dearborn, MI | Hybrid | Sep 04 |
 | **[Cintas](https://www.cintas.com)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/68b9ce115f3832749186109e?utm_campaign=1066&utm_source=git)** | Mason, OH | On Site | Sep 04 |
 | **[Securian Financial](https://www.securian.com/)** | **[Enterprise Data & Analytics Intern (Hybrid)](https://jobright.ai/jobs/info/68b9cb0f6105227d11897ceb?utm_campaign=1066&utm_source=git)** | St Paul, MN | Hybrid | Sep 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Analyst Intern - Generalist (2026 Start Date)](https://jobright.ai/jobs/info/68b9363107090163b6ba8e01?utm_campaign=1066&utm_source=git)** | US-TX-Dallas | On Site | Sep 03 |
 | ↳ | **[Summer Analyst Intern - Generalist (2026 Start Date)](https://jobright.ai/jobs/info/68b9363107090163b6ba8e02?utm_campaign=1066&utm_source=git)** | US-NY-New York | On Site | Sep 03 |
 | ↳ | **[Analyst - Generalist (2026 Start Date)](https://jobright.ai/jobs/info/68b935ce07090163b6ba8de0?utm_campaign=1066&utm_source=git)** | US-CA-Menlo Park | On Site | Sep 03 |
-| ↳ | **[Analyst - Generalist (2026 Start Date)](https://jobright.ai/jobs/info/68b9355007090163b6ba8dbf?utm_campaign=1066&utm_source=git)** | US-DC-Washington, DC | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
