@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vatic Labs](http://www.vaticlabs.com)** | **[Quantitative Researcher (Internship)](https://jobright.ai/jobs/info/68bdf4abe57feb02eb0ac851?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Sep 07 |
 | **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Data Analytics Intern - Summer 2026, Atlanta](https://jobright.ai/jobs/info/68bc8ccdae79610dacddbd85?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 07 |
 | **[Aptiv](http://www.aptiv.com)** | **[Data Analytics Engineering Intern](https://jobright.ai/jobs/info/68bd2c763bf9eb44f8326fe1?utm_campaign=1066&utm_source=git)** | Troy, MI | On Site | Sep 06 |
 | ↳ | **[Data Analytics Engineering Intern](https://jobright.ai/jobs/info/68bcfca7ae79610dacddcfc2?utm_campaign=1066&utm_source=git)** | Troy, MI - USA | On Site | Sep 06 |
@@ -89,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68bb8d1b8043103d4f229960?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Sep 05 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Geographic Information Systems Intern](https://jobright.ai/jobs/info/68bb8c196105227d118a6ef2?utm_campaign=1066&utm_source=git)** | Cincinnati Metro | Hybrid | Sep 05 |
 | **[Cretex Companies, Inc.](http://cretexcompanies.com)** | **[IT Intern - Data Analyst - Summer 2026](https://jobright.ai/jobs/info/68bb8b965f3832749187015a?utm_campaign=1066&utm_source=git)** | Coon Rapids, MN | On Site | Sep 05 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68bb87715f3832749186fe97?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Data Analysis](https://jobright.ai/jobs/info/68bb87398043103d4f2294bd?utm_campaign=1066&utm_source=git)** | Bentonville, AR | On Site | Sep 05 |
 | **[Delta Dental of Iowa](https://www.deltadentalia.com/)** | **[Data Analysis Intern (Insure Your Future)](https://jobright.ai/jobs/info/68bb87398043103d4f2294ba?utm_campaign=1066&utm_source=git)** | Delta Dental of Iowa | On Site | Sep 05 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/68bb86e36105227d118a6ace?utm_campaign=1066&utm_source=git)** | Winchester, VA | Hybrid | Sep 05 |
@@ -105,8 +107,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Delivery Analyst - Conway, AR](https://jobright.ai/jobs/info/68bb81c48043103d4f22920d?utm_campaign=1066&utm_source=git)** | United States | On Site | Sep 05 |
 | **[Skyworks LLC](http://skyworksllc.com)** | **[Data Scientist Co-op - Summer/Fall 2026](https://jobright.ai/jobs/info/68bbaae36105227d118a824a?utm_campaign=1066&utm_source=git)** | Newbury Park, CA | On Site | Sep 05 |
 | **[Pella Corporation](http://www.pella.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68bb7b238043103d4f228f1d?utm_campaign=1066&utm_source=git)** | Pella, IA | On Site | Sep 05 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68bb7ac28043103d4f228ec0?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
-| ↳ | **[Summer Associate Internship (Data Scientist - Model Risk Management)](https://jobright.ai/jobs/info/68bb79726105227d118a6465?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Sep 05 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist - Model Risk Management)](https://jobright.ai/jobs/info/68bb79726105227d118a6465?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Sep 05 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Data Science/Analytics (Various Exelon Locations)](https://jobright.ai/jobs/info/68bb78bf5f3832749186f670?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 05 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/68bb78706105227d118a635d?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
 | ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68bb786e6105227d118a6354?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Sep 05 |
@@ -122,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[CNA Insurance](http://www.cna.com)** | **[Technology Internship Program (Data Analytics)](https://jobright.ai/jobs/info/68bb70dd6105227d118a5f7e?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
 | **[Seattle University](https://www.seattleu.edu/)** | **[Business Systems Analyst 2 - Student Systems](https://jobright.ai/jobs/info/68bb6cd06105227d118a5e51?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Sep 05 |
 | **[Pella Corporation](http://www.pella.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68bb6c976105227d118a5e16?utm_campaign=1066&utm_source=git)** | 102 Main St, Pella, IA, 50219, US | On Site | Sep 05 |
+| **[CAS](http://www.cas.org)** | **[BU24IN- Bioinformatics Scientist Intern](https://jobright.ai/jobs/info/68bb6c535f3832749186f0e5?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Sep 05 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Data Science Undergraduate Intern](https://jobright.ai/jobs/info/68bb563f5f3832749186e8a2?utm_campaign=1066&utm_source=git)** | Hopkinton, Massachusetts, United States | On Site | Sep 05 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Data Analysis](https://jobright.ai/jobs/info/68bb57cc8043103d4f228080?utm_campaign=1066&utm_source=git)** | Miami, FL (Job Posting Location) | On Site | Sep 05 |
 | ↳ | **[Future Builders Internship Program - Data Analysis](https://jobright.ai/jobs/info/68bb57995f3832749186e98c?utm_campaign=1066&utm_source=git)** | Bentonville, AR (Job Posting Location) | On Site | Sep 05 |
@@ -146,7 +148,7 @@ Job ID : 263834](https://jobright.ai/jobs/info/68bb4ffc5f3832749186e646?utm_camp
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Data Visualization Intern, One Way Team](https://jobright.ai/jobs/info/68bb41168043103d4f22722f?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Sep 05 |
 | ↳ | **[Load Research and Analysis Intern](https://jobright.ai/jobs/info/68bb41068043103d4f22721c?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Sep 05 |
 | **[Varda Space Industries](http://varda.com)** | **[Finance - Data Structures/ Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/68bb40505f3832749186db5a?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Sep 05 |
-| **[Acxiom](http://www.acxiom.com)** | **[Intern - Delivery Analyst - Conway, AR](https://jobright.ai/jobs/info/68bb40445f3832749186db44?utm_campaign=1066&utm_source=git)** | Conway | On Site | Sep 05 |
+| **[Acxiom](http://www.acxiom.com)** | **[Intern - Delivery Analyst - Conway, AR](https://jobright.ai/jobs/info/68bb402e8043103d4f22709a?utm_campaign=1066&utm_source=git)** | Conway | On Site | Sep 05 |
 | **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Data Science Co-Op (NLP & GenAI)](https://jobright.ai/jobs/info/68bb3fcd8043103d4f227010?utm_campaign=1066&utm_source=git)** | Framingham, MA | Hybrid | Sep 05 |
 | **[Acxiom](http://www.acxiom.com)** | **[Intern - Decision Support Analyst - Conway, AR](https://jobright.ai/jobs/info/68bb3e9b5f3832749186d941?utm_campaign=1066&utm_source=git)** | Conway | On Site | Sep 05 |
 | **[C+R Research](http://crresearch.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/68bb3e1b6105227d118a45e4?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 05 |
@@ -156,6 +158,4 @@ Job ID : 263834](https://jobright.ai/jobs/info/68bb4ffc5f3832749186e646?utm_camp
 | **[United Airlines](https://www.united.com)** | **[Research Scholar - Statistics (Summer 2026)](https://jobright.ai/jobs/info/68bb39f38043103d4f226d61?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Sep 05 |
 | **[Kapitus](https://kapitus.com/)** | **[Intern, FP&A](https://jobright.ai/jobs/info/68bb39586105227d118a4433?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Sep 05 |
 | **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68bb39236105227d118a4411?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 05 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Nonclinical Drug Safety Data Scientist - Intern](https://jobright.ai/jobs/info/68bb38bd5f3832749186d63e?utm_campaign=1066&utm_source=git)** | Lansdale, PA | Hybrid | Sep 05 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[CMC Regulatory Data Science Co-Op (Hybrid)](https://jobright.ai/jobs/info/68bb38526105227d118a4326?utm_campaign=1066&utm_source=git)** | Ridgefield, CT | Hybrid | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
