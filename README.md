@@ -57,6 +57,26 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sanofi](https://www.sanofi.com)** | **[Biostatistics Evidence Generation & Decision Sciences (EGDS)- Summer 2026 Intern](https://jobright.ai/jobs/info/68bf4deb702aa35207aa54fa?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Sep 08 |
+| **[Meijer](https://www.meijer.com/)** | **[Store Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68bf4d348e65e77df55b92eb?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | Hybrid | Sep 08 |
+| **[Sanofi](https://www.sanofi.com)** | **[Biostatistics Evidence Generation & Decision Sciences (EGDS)- Summer 2026 Intern](https://jobright.ai/jobs/info/68bf4ce25c5d5f14f46d5d4d?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Sep 08 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Data Visualization Intern, One Way Team](https://jobright.ai/jobs/info/68bf4cc48e65e77df55b9233?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Sep 08 |
+| ↳ | **[Data Visualization Intern, One Way Team](https://jobright.ai/jobs/info/68bf49345c5d5f14f46d5bd0?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Sep 08 |
+| ↳ | **[Data Visualization Intern, One Way Team](https://jobright.ai/jobs/info/68bf47915c5d5f14f46d5a04?utm_campaign=1066&utm_source=git)** | Eau Claire, WI | On Site | Sep 08 |
+| **[Paycom](http://www.paycom.com)** | **[Data Science Intern - Summer 2026 -  UT Austin](https://jobright.ai/jobs/info/68bf469c702aa35207aa4f9a?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Sep 08 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Load Research and Analysis Intern](https://jobright.ai/jobs/info/68bf465d702aa35207aa4f75?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Sep 08 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Data Science & Analytics Intern](https://jobright.ai/jobs/info/68bf41f95c5d5f14f46d57b7?utm_campaign=1066&utm_source=git)** | Carlsbad, California, USA | On Site | Sep 08 |
+| ↳ | **[Sr. Data Science & Analytics Intern](https://jobright.ai/jobs/info/68bf41bf8e65e77df55b8c2b?utm_campaign=1066&utm_source=git)** | Wilmington, North Carolina, USA | On Site | Sep 08 |
+| ↳ | **[Sr. Data Science & Analytics Intern](https://jobright.ai/jobs/info/68bf41ad702aa35207aa4d83?utm_campaign=1066&utm_source=git)** | Durham, North Carolina, USA | On Site | Sep 08 |
+| ↳ | **[Data Science & Analytics Intern](https://jobright.ai/jobs/info/68bf4037702aa35207aa4ba7?utm_campaign=1066&utm_source=git)** | Waltham, Massachusetts, USA | On Site | Sep 08 |
+| ↳ | **[Data Science & Analytics Intern](https://jobright.ai/jobs/info/68bf40368e65e77df55b8b4e?utm_campaign=1066&utm_source=git)** | Mount Prospect, Illinois, USA | On Site | Sep 08 |
+| ↳ | **[Sr. Data Science & Analytics Intern](https://jobright.ai/jobs/info/68bf40015c5d5f14f46d551d?utm_campaign=1066&utm_source=git)** | Sunnyvale, California, USA | On Site | Sep 08 |
+| **[Bechtel Plant Machinery, Inc. (BPMI)](http://bpmionline.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf3f22702aa35207aa4a44?utm_campaign=1066&utm_source=git)** | Monroeville, PA | On Site | Sep 08 |
+| **[Microsoft](https://www.microsoft.com)** | **[Data Science: Internship Opportunities – Redmond](https://jobright.ai/jobs/info/68bf3c7a8e65e77df55b8836?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Sep 08 |
+| **[Rayca Precision](https://rayca.ai/)** | **[Unpaid Intern - Bioinformatician](https://jobright.ai/jobs/info/68bf38415c5d5f14f46d512e?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 08 |
+| **[Emerson](http://www.emerson.com)** | **[Data Analyst Co-Op](https://jobright.ai/jobs/info/68bf36098e65e77df55b850f?utm_campaign=1066&utm_source=git)** | Marshalltown, IA | On Site | Sep 08 |
+| **[C3 AI](https://c3.ai)** | **[Data Science - Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf35fb8e65e77df55b84fe?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Sep 08 |
+| **[GALLO](https://www.gallo.com)** | **[Geospacial Data Science Internship 2026](https://jobright.ai/jobs/info/68bf359c8e65e77df55b84b4?utm_campaign=1066&utm_source=git)** | Modesto, CA | On Site | Sep 08 |
 | **[Fidelity Bank](http://www.LionBank.com)** | **[Quantitative Research Intern- Data Science ASR Team](https://jobright.ai/jobs/info/68bf3045702aa35207aa4108?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 08 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Data Science Student Experience](https://jobright.ai/jobs/info/68bf3028702aa35207aa40e3?utm_campaign=1066&utm_source=git)** | West Fargo, ND | On Site | Sep 08 |
 | **[American Equity](http://www.american-equity.com)** | **[IT Intern, Data Science](https://jobright.ai/jobs/info/68bf2e83702aa35207aa3f68?utm_campaign=1066&utm_source=git)** | West Des Moines, IA | On Site | Sep 08 |
@@ -64,10 +84,10 @@ For a complete list, click the following sortable link below:
 | **[Nicolet National Bank](http://nicoletbank.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68bf2d2b8e65e77df55b7dd2?utm_campaign=1066&utm_source=git)** | Green Bay, WI | On Site | Sep 08 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Medical Data Scientist - Intern](https://jobright.ai/jobs/info/68bf2cdb5c5d5f14f46d473d?utm_campaign=1066&utm_source=git)** | North Wales, PA | Hybrid | Sep 08 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- Quantitative Modeling Analyst](https://jobright.ai/jobs/info/68bf29ab5c5d5f14f46d45ea?utm_campaign=1066&utm_source=git)** | Salt Lake City, Utah, United States | On Site | Sep 08 |
-| **[One Inc](https://www.oneinc.com)** | **[Intern, Data Visualization & Analytics](https://jobright.ai/jobs/info/68bf298f8e65e77df55b7a0c?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 08 |
 | **[Grande Cheese Company](https://www.grande.com/)** | **[Data Analytics Science Intern](https://jobright.ai/jobs/info/68bf27fe5c5d5f14f46d43d6?utm_campaign=1066&utm_source=git)** | Fond du Lac, WI | On Site | Sep 08 |
 | **[UNUM GROUP](https://www.linkedin.com/company/57075544)** | **[Northeastern University/Roux Institute Co-Op Opportunity with Finance Analytics](https://jobright.ai/jobs/info/68bf27c48e65e77df55b7805?utm_campaign=1066&utm_source=git)** | Portland, Maine, USA | Hybrid | Sep 08 |
-| **[C3 AI](https://c3.ai)** | **[Data Science - Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf274a5c5d5f14f46d42a5?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Sep 08 |
+| **[East Carolina University](ecu.edu)** | **[Student Employment / ITCS Enterprise Data Services BI Developer](https://jobright.ai/jobs/info/68bf3e908e65e77df55b8a63?utm_campaign=1066&utm_source=git)** | NC | On Site | Sep 08 |
+| **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate Internship - Data Analyst](https://jobright.ai/jobs/info/68bb84e96105227d118a688d?utm_campaign=1066&utm_source=git)** | Malvern, PA | Hybrid | Sep 08 |
 | **[American Equity](http://www.american-equity.com)** | **[IT Intern, Data Science](https://jobright.ai/jobs/info/68bf25a98e65e77df55b75e0?utm_campaign=1066&utm_source=git)** | West Des Moines, Iowa, United States | On Site | Sep 08 |
 | **[FlexGen](https://flexgen.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68bf1fda5c5d5f14f46d3e52?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Sep 08 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Data Science/Analytics (Various Exelon Locations)](https://jobright.ai/jobs/info/68bf1acc8e65e77df55b6f11?utm_campaign=1066&utm_source=git)** | Newark, DE | Hybrid | Sep 08 |
@@ -112,15 +132,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Data Scientist Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee3d5c5d5f14f46d244a?utm_campaign=1066&utm_source=git)** | Austin, TX, USA | On Site | Sep 08 |
 | ↳ | **[Business Data Scientist Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee375c5d5f14f46d243e?utm_campaign=1066&utm_source=git)** | Mountain View, CA, USA | On Site | Sep 08 |
 | ↳ | **[Business Data Scientist Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee305c5d5f14f46d2434?utm_campaign=1066&utm_source=git)** | Kirkland, WA, USA | On Site | Sep 08 |
-| ↳ | **[Business Data Scientist Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee1e8e65e77df55b5999?utm_campaign=1066&utm_source=git)** | Atlanta, GA, USA | On Site | Sep 08 |
 | ↳ | **[Business Data Scientist Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee1e5c5d5f14f46d2422?utm_campaign=1066&utm_source=git)** | New York, NY, USA | On Site | Sep 08 |
+| ↳ | **[Business Data Scientist Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee1e8e65e77df55b5999?utm_campaign=1066&utm_source=git)** | Atlanta, GA, USA | On Site | Sep 08 |
 | ↳ | **[Business Data Scientist Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee1d5c5d5f14f46d241f?utm_campaign=1066&utm_source=git)** | Santa Cruz, CA, USA | On Site | Sep 08 |
 | ↳ | **[Business Data Scientist Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee15702aa35207aa1aaa?utm_campaign=1066&utm_source=git)** | Redmond, WA, USA | On Site | Sep 08 |
 | ↳ | **[Business Data Scientist Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beee0b5c5d5f14f46d240b?utm_campaign=1066&utm_source=git)** | Cambridge, MA, USA | On Site | Sep 08 |
 | ↳ | **[Business Data Scientist Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beedd88e65e77df55b595c?utm_campaign=1066&utm_source=git)** | Bellevue, WA, USA | On Site | Sep 08 |
 | ↳ | **[Business Data Scientist Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beedc05c5d5f14f46d23b8?utm_campaign=1066&utm_source=git)** | San Diego, CA, USA | On Site | Sep 08 |
-| ↳ | **[Business Data Scientist Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beedb28e65e77df55b5920?utm_campaign=1066&utm_source=git)** | Irvine, CA, USA | On Site | Sep 08 |
 | ↳ | **[Business Data Scientist Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beedb28e65e77df55b5922?utm_campaign=1066&utm_source=git)** | Washington D.C., DC, USA | On Site | Sep 08 |
+| ↳ | **[Business Data Scientist Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beedb28e65e77df55b5920?utm_campaign=1066&utm_source=git)** | Irvine, CA, USA | On Site | Sep 08 |
 | **[GALLO](https://www.gallo.com)** | **[Winegrowing Research Data Analyst Internship 2026](https://jobright.ai/jobs/info/68bedd378e65e77df55b4ecd?utm_campaign=1066&utm_source=git)** | Modesto, CA | On Site | Sep 08 |
 | **[Northern Kentucky Christian Basketball League (NKYCBL)](https://www.nkycbleague.com)** | **[Stats Recorder Intern (Unpaid)](https://jobright.ai/jobs/info/68bee2db8e65e77df55b51a8?utm_campaign=1066&utm_source=git)** | Kentucky, United States | Remote | Sep 08 |
 | **[DHL Express](https://www.dhl.com/au-en/home/express.html)** | **[Data Analyst Intern-Mechanical Engineering (MHE & Automation Focus)](https://jobright.ai/jobs/info/68a90327d627244576e36e7c?utm_campaign=1066&utm_source=git)** | Plantation, FL | On Site | Sep 08 |
@@ -137,24 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist, Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beb6cf8e65e77df55b3ce5?utm_campaign=1066&utm_source=git)** | Durham, NC, USA | On Site | Sep 08 |
 | ↳ | **[Data Scientist, Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beb6cc5c5d5f14f46d0809?utm_campaign=1066&utm_source=git)** | Santa Cruz, CA, USA | On Site | Sep 08 |
 | ↳ | **[Data Scientist, Product Intern, MS, Summer 2026](https://jobright.ai/jobs/info/68beb6c78e65e77df55b3ce4?utm_campaign=1066&utm_source=git)** | Mountain View, CA, USA | On Site | Sep 08 |
-| ↳ | **[Data Scientist, Product Intern, MS, Summer 2026](https://jobright.ai/jobs/info/68beb6c5702aa35207a9ffce?utm_campaign=1066&utm_source=git)** | Portland, OR, USA | On Site | Sep 08 |
-| ↳ | **[Data Scientist, Product Intern, MS, Summer 2026](https://jobright.ai/jobs/info/68beb6c5702aa35207a9ffcf?utm_campaign=1066&utm_source=git)** | San Bruno, CA, USA | On Site | Sep 08 |
-| ↳ | **[Data Scientist, Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beb6c2702aa35207a9ffcc?utm_campaign=1066&utm_source=git)** | Boulder, CO, USA | On Site | Sep 08 |
-| ↳ | **[Data Scientist, Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beb6b8702aa35207a9ffc9?utm_campaign=1066&utm_source=git)** | Palo Alto, CA, USA | On Site | Sep 08 |
-| ↳ | **[Data Scientist, Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beb6b78e65e77df55b3ce1?utm_campaign=1066&utm_source=git)** | Irvine, CA, USA | On Site | Sep 08 |
-| ↳ | **[Data Scientist, Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beb6b08e65e77df55b3ce0?utm_campaign=1066&utm_source=git)** | Portland, OR, USA | On Site | Sep 08 |
-| ↳ | **[Data Scientist, Product Intern, MS, Summer 2026](https://jobright.ai/jobs/info/68beb6ae702aa35207a9ffc8?utm_campaign=1066&utm_source=git)** | Redwood City, CA, USA | On Site | Sep 08 |
-| ↳ | **[Data Scientist, Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beb6ac8e65e77df55b3cde?utm_campaign=1066&utm_source=git)** | Atlanta, GA, USA | On Site | Sep 08 |
-| ↳ | **[Data Scientist, Product Intern, MS, Summer 2026](https://jobright.ai/jobs/info/68beb69e8e65e77df55b3cdb?utm_campaign=1066&utm_source=git)** | San Diego, CA, USA | On Site | Sep 08 |
-| ↳ | **[Data Scientist, Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beb699702aa35207a9ffc4?utm_campaign=1066&utm_source=git)** | Chicago, IL, USA | On Site | Sep 08 |
-| ↳ | **[Data Scientist, Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beb6955c5d5f14f46d0805?utm_campaign=1066&utm_source=git)** | Austin, TX, USA | On Site | Sep 08 |
-| ↳ | **[Data Scientist, Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beb6908e65e77df55b3cd9?utm_campaign=1066&utm_source=git)** | San Bruno, CA, USA | On Site | Sep 08 |
-| ↳ | **[Data Scientist, Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beb68a5c5d5f14f46d0801?utm_campaign=1066&utm_source=git)** | New York, NY, USA | On Site | Sep 08 |
-| ↳ | **[Data Scientist, Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beb68a8e65e77df55b3cd7?utm_campaign=1066&utm_source=git)** | San Jose, CA, USA | On Site | Sep 08 |
-| ↳ | **[Data Scientist, Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beb68a5c5d5f14f46d0800?utm_campaign=1066&utm_source=git)** | Cambridge, MA, USA | On Site | Sep 08 |
-| ↳ | **[Data Scientist, Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beb6898e65e77df55b3cd6?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA, USA | On Site | Sep 08 |
-| ↳ | **[Data Scientist, Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beb67d5c5d5f14f46d07fc?utm_campaign=1066&utm_source=git)** | San Diego, CA, USA | On Site | Sep 08 |
-| ↳ | **[Data Scientist, Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beb67a702aa35207a9ffc0?utm_campaign=1066&utm_source=git)** | San Francisco, CA, USA | On Site | Sep 08 |
-| ↳ | **[Data Scientist, Product Intern, MS, Summer 2026](https://jobright.ai/jobs/info/68beb6798e65e77df55b3cd3?utm_campaign=1066&utm_source=git)** | Reston, VA, USA | On Site | Sep 08 |
-| ↳ | **[Data Scientist, Research Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beb6778e65e77df55b3cd2?utm_campaign=1066&utm_source=git)** | Madison, WI, USA | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
