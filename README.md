@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- Quantitative Modeling Analyst](https://jobright.ai/jobs/info/68c02d82702aa35207aab038?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Sep 09 |
+| **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Summer 2026 Graduate Data Science Intern - Remote](https://jobright.ai/jobs/info/68c04c09702aa35207aabcd7?utm_campaign=1066&utm_source=git)** | Omaha, NE | Remote | Sep 09 |
+| **[Jabil](https://www.jabil.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68c04361702aa35207aab883?utm_campaign=1066&utm_source=git)** | St. Petersburg, FL | On Site | Sep 09 |
+| **[Compeer Financial](https://compeer.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68c043108e65e77df55bf889?utm_campaign=1066&utm_source=git)** | MN-Lakeville | Hybrid | Sep 09 |
+| **[Farm Credit Services of America](https://www.fcsamerica.com/)** | **[Data & Analytics - Intern](https://jobright.ai/jobs/info/68c04260702aa35207aab7de?utm_campaign=1066&utm_source=git)** | Omaha, NE | On Site | Sep 09 |
+| **[Jabil](https://www.jabil.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68c03f368e65e77df55bf607?utm_campaign=1066&utm_source=git)** | Remote - USA | Remote | Sep 09 |
 | **[GALLO](https://www.gallo.com)** | **[IT Data Analyst Internship 2026](https://jobright.ai/jobs/info/68a37ddd403ad4363b1c1ab9?utm_campaign=1066&utm_source=git)** | Modesto, CA | Hybrid | Sep 09 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(Spring) Research Analyst Intern](https://jobright.ai/jobs/info/68c00ecc5c5d5f14f46db3ce?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Sep 09 |
 | ↳ | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68c00e7d5c5d5f14f46db3bd?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Sep 09 |
@@ -108,7 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Oaktree Capital Management, L.P.](http://www.oaktreecapital.com)** | **[2026 Intern, Information Solutions](https://jobright.ai/jobs/info/68bf62925c5d5f14f46d676b?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 08 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Quant Tech Intern](https://jobright.ai/jobs/info/68bf62685c5d5f14f46d673a?utm_campaign=1066&utm_source=git)** | Kennett Square, PA, United States | On Site | Sep 08 |
 | **[CNA Corporation](https://www.cna.org)** | **[Research Internship (Summer 2026)](https://jobright.ai/jobs/info/68bf62375c5d5f14f46d670a?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Sep 08 |
-| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms and Technology - Data Science](https://jobright.ai/jobs/info/68bf6079702aa35207aa5cbd?utm_campaign=1066&utm_source=git)** | Mount Laurel, NJ | Hybrid | Sep 08 |
+| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms and Technology - Data Science](https://jobright.ai/jobs/info/68bf600b5c5d5f14f46d649f?utm_campaign=1066&utm_source=git)** | Mount Laurel, NJ | Hybrid | Sep 08 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Product Data Science](https://jobright.ai/jobs/info/68bf5fe95c5d5f14f46d6472?utm_campaign=1066&utm_source=git)** | Mountain View, California, USA | On Site | Sep 08 |
 | **[Point72](https://www.point72.com)** | **[Cornell PhD Networking Lunch Fall 2025](https://jobright.ai/jobs/info/68bf5f47702aa35207aa5b78?utm_campaign=1066&utm_source=git)** | Ithaca | On Site | Sep 08 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Data Science & Analytics Intern](https://jobright.ai/jobs/info/68bf41f95c5d5f14f46d57b7?utm_campaign=1066&utm_source=git)** | Carlsbad, California, USA | On Site | Sep 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[C3 AI](https://c3.ai)** | **[Data Science - Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf274a5c5d5f14f46d42a5?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Sep 08 |
 | **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate Internship - Data Analyst](https://jobright.ai/jobs/info/68bb84e96105227d118a688d?utm_campaign=1066&utm_source=git)** | Malvern, PA | Hybrid | Sep 08 |
 | **[American Equity](http://www.american-equity.com)** | **[IT Intern, Data Science](https://jobright.ai/jobs/info/68bf25a98e65e77df55b75e0?utm_campaign=1066&utm_source=git)** | West Des Moines, Iowa, United States | On Site | Sep 08 |
-| **[Vanguard](http://investor.vanguard.com/corporate-portal)** | **[College to Corporate Internship - Data Analyst](https://jobright.ai/jobs/info/68bb86bf5f3832749186fd47?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Sep 08 |
-| **[FlexGen](https://flexgen.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68bf1fda5c5d5f14f46d3e52?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Sep 08 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Data Science/Analytics (Various Exelon Locations)](https://jobright.ai/jobs/info/68bf1acc8e65e77df55b6f11?utm_campaign=1066&utm_source=git)** | Newark, DE | Hybrid | Sep 08 |
-| **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[IT Intern](https://jobright.ai/jobs/info/68bfb2238e65e77df55bc804?utm_campaign=1066&utm_source=git)** | Woodridge, IL | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
