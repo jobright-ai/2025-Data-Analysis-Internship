@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NXP Semiconductors](https://www.nxp.com)** | **[Internships in Data Science - Summer 2026](https://jobright.ai/jobs/info/68bfe92d8e65e77df55be30c?utm_campaign=1066&utm_source=git)** | Chandler, AZ | Hybrid | Sep 09 |
+| ↳ | **[Internships in Data Science - Summer 2026](https://jobright.ai/jobs/info/68bfe87d5c5d5f14f46dabcd?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Sep 09 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Services Graduate Data Science Intern](https://jobright.ai/jobs/info/68bfdc7e8e65e77df55bde98?utm_campaign=1066&utm_source=git)** | Round Rock, TX | On Site | Sep 09 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Data Scientist Co-Op](https://jobright.ai/jobs/info/68bfd9ac702aa35207aa996c?utm_campaign=1066&utm_source=git)** | Summit, NJ | Hybrid | Sep 09 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Graduate Analytics Intern](https://jobright.ai/jobs/info/68bfd914702aa35207aa9862?utm_campaign=1066&utm_source=git)** | Round Rock, TX | Hybrid | Sep 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Heritage Group](https://thgrp.com)** | **[Heritage Research Group - Undergraduate Data Analytics Intern](https://jobright.ai/jobs/info/68bf1723702aa35207aa300b?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Sep 08 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Medical Data Scientist - Intern](https://jobright.ai/jobs/info/68bf171d702aa35207aa2fff?utm_campaign=1066&utm_source=git)** | USA - REMOTE - REMOTE | Hybrid | Sep 08 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Data Scientist Co-Op](https://jobright.ai/jobs/info/68bf1718702aa35207aa2ff9?utm_campaign=1066&utm_source=git)** | Devens - MA - US | Hybrid | Sep 08 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Data Science/Analytics (Various Exelon Locations)](https://jobright.ai/jobs/info/68bf16d08e65e77df55b6e53?utm_campaign=1066&utm_source=git)** | Mays Landing, NJ | Hybrid | Sep 08 |
-| **[Bristol Myers Squibb](http://www.bms.com)** | **[Data Scientist Co-Op](https://jobright.ai/jobs/info/68bf16a05c5d5f14f46d38c3?utm_campaign=1066&utm_source=git)** | Summit West - NJ - US | Hybrid | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
