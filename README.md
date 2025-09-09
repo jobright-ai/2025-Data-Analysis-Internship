@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Quant Tech Intern](https://jobright.ai/jobs/info/68bf99718e65e77df55bbcb2?utm_campaign=1066&utm_source=git)** | Kennett Square, PA | On Site | Sep 08 |
+| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68bf8a4a702aa35207aa7502?utm_campaign=1066&utm_source=git)** | Rocky Mount, VA | On Site | Sep 08 |
+| **[Econ One Research](https://www.econone.com/)** | **[Summer Analyst](https://jobright.ai/jobs/info/68bf6e0d5c5d5f14f46d6d12?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Sep 08 |
+| ↳ | **[Summer Analyst](https://jobright.ai/jobs/info/68bf6d32702aa35207aa63a6?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Sep 08 |
+| ↳ | **[Summer Analyst](https://jobright.ai/jobs/info/68bf6dd0702aa35207aa6425?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Sep 08 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/68bf84c2702aa35207aa719a?utm_campaign=1066&utm_source=git)** | Pleasanton, California, USA | On Site | Sep 08 |
 | ↳ | **[Statistical Science Intern](https://jobright.ai/jobs/info/68bf839d8e65e77df55baf7b?utm_campaign=1066&utm_source=git)** | Morrisville, North Carolina, USA | Remote | Sep 08 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Data & Analytics](https://jobright.ai/jobs/info/68bf83335c5d5f14f46d79f7?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Sep 08 |
@@ -68,9 +73,6 @@ For a complete list, click the following sortable link below:
 | **[PlanetArt](http://www.planetart.com)** | **[Forecasting & Analytics Intern](https://jobright.ai/jobs/info/68bf74575c5d5f14f46d7041?utm_campaign=1066&utm_source=git)** | Calabasas, CA | Hybrid | Sep 08 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Data & Analytics](https://jobright.ai/jobs/info/68bf736a702aa35207aa66ae?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Sep 08 |
 | ↳ | **[Internship Summer 2026 - Technology, Data & Analytics](https://jobright.ai/jobs/info/68bf73085c5d5f14f46d6f0c?utm_campaign=1066&utm_source=git)** | Fort Mill, SC | On Site | Sep 08 |
-| **[Econ One Research](https://www.econone.com/)** | **[Summer Analyst](https://jobright.ai/jobs/info/68bf6e0d5c5d5f14f46d6d12?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Sep 08 |
-| ↳ | **[Summer Analyst](https://jobright.ai/jobs/info/68bf6dd0702aa35207aa6425?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Sep 08 |
-| ↳ | **[Summer Analyst](https://jobright.ai/jobs/info/68bf6d32702aa35207aa63a6?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Sep 08 |
 | **[Paycom](http://www.paycom.com)** | **[Data Science Intern - Summer 2026 -  UT Austin](https://jobright.ai/jobs/info/68bf469c702aa35207aa4f9a?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Sep 08 |
 | **[Meijer](https://www.meijer.com/)** | **[Store Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68bf6c3d702aa35207aa62da?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Sep 08 |
 | **[BluWave, LP](https://www.bluwave.net/)** | **[Data and Analytics Spring Intern](https://jobright.ai/jobs/info/68bf6c1d8e65e77df55ba2c5?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Sep 08 |
@@ -112,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: Internship Opportunities – Redmond](https://jobright.ai/jobs/info/68bf3c7a8e65e77df55b8836?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Sep 08 |
 | **[Rayca Precision](https://rayca.ai/)** | **[Unpaid Intern - Bioinformatician](https://jobright.ai/jobs/info/68bf38415c5d5f14f46d512e?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 08 |
 | **[Emerson](http://www.emerson.com)** | **[Data Analyst Co-Op](https://jobright.ai/jobs/info/68bf36098e65e77df55b850f?utm_campaign=1066&utm_source=git)** | Marshalltown, IA | On Site | Sep 08 |
+| **[C3 AI](https://c3.ai)** | **[Data Science - Intern (Summer 2026)](https://jobright.ai/jobs/info/68bf35fb8e65e77df55b84fe?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Sep 08 |
 | **[GALLO](https://www.gallo.com)** | **[Geospacial Data Science Internship 2026](https://jobright.ai/jobs/info/68bf359c8e65e77df55b84b4?utm_campaign=1066&utm_source=git)** | Modesto, CA | On Site | Sep 08 |
 | **[Fidelity Bank](http://www.LionBank.com)** | **[Quantitative Research Intern- Data Science ASR Team](https://jobright.ai/jobs/info/68bf3045702aa35207aa4108?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 08 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Data Science Student Experience](https://jobright.ai/jobs/info/68bf3028702aa35207aa40e3?utm_campaign=1066&utm_source=git)** | West Fargo, ND | On Site | Sep 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Data Scientist Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beeed7702aa35207aa1b4e?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI, USA | On Site | Sep 08 |
 | ↳ | **[Business Data Scientist Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beeec1702aa35207aa1b3b?utm_campaign=1066&utm_source=git)** | Boulder, CO, USA | On Site | Sep 08 |
 | ↳ | **[Business Data Scientist Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beeeb98e65e77df55b59d8?utm_campaign=1066&utm_source=git)** | Durham, NC, USA | On Site | Sep 08 |
-| ↳ | **[Business Data Scientist Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beeeb68e65e77df55b59d4?utm_campaign=1066&utm_source=git)** | San Jose, CA, USA | On Site | Sep 08 |
-| ↳ | **[Business Data Scientist Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beeeb5702aa35207aa1b2c?utm_campaign=1066&utm_source=git)** | Palo Alto, CA, USA | On Site | Sep 08 |
-| ↳ | **[Business Data Scientist Intern, PhD, Summer 2026](https://jobright.ai/jobs/info/68beeeac8e65e77df55b59d0?utm_campaign=1066&utm_source=git)** | Portland, OR, USA | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
