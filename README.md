@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Global Quantitative Data Analytics Summer 2026 Analyst - Consumer & Small Business - Retail Banking](https://jobright.ai/jobs/info/68c128ac4d652f0447756202?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Sep 10 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Data Science Intern (Colorado)](https://jobright.ai/jobs/info/68c127ee3fd8b059a20ee5ad?utm_campaign=1066&utm_source=git)** | Ft. Collins, Colorado, United States of America | Hybrid | Sep 10 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Quality Specialist - Data Analysis Sr. Intern](https://jobright.ai/jobs/info/68c1243a4d652f0447755fb8?utm_campaign=1066&utm_source=git)** | Logan, Utah, USA | On Site | Sep 10 |
+| **[U.S. Venture, Inc.](http://www.usventure.com)** | **[Data Science Intern - Breakthrough](https://jobright.ai/jobs/info/68c119f38e65e77df55c7655?utm_campaign=1066&utm_source=git)** | Green Bay, WI | On Site | Sep 09 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Quantitative Systematic Trading Internship - Master's: Summer 2026 - Susquehanna International Group](https://jobright.ai/jobs/info/68c116165c5d5f14f46e3deb?utm_campaign=1066&utm_source=git)** | Bala-Cynwyd, PA | On Site | Sep 09 |
+| **[Temenos](http://www.temenos.com)** | **[Salesforce Data Intern](https://jobright.ai/jobs/info/68c112b18e65e77df55c72fb?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 09 |
+| **[Polar Semiconductor](https://polarsemi.com)** | **[IT Engineer Intern](https://jobright.ai/jobs/info/68c10bad8e65e77df55c7016?utm_campaign=1066&utm_source=git)** | Bloomington, MN, USA | On Site | Sep 09 |
+| **[U.S. Bank](http://www.usbank.com)** | **[2026 Quantitative Modeling Summer Intern](https://jobright.ai/jobs/info/68c1076d8e65e77df55c6e8a?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Sep 09 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern – Data Analytics Intern (OIG)](https://jobright.ai/jobs/info/68c105078e65e77df55c6b48?utm_campaign=1066&utm_source=git)** | DC-Washington | On Site | Sep 09 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Family History Research Project Intern](https://jobright.ai/jobs/info/68c0f40b5c5d5f14f46e296a?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Sep 09 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[AI Intern](https://jobright.ai/jobs/info/68c0f2db5c5d5f14f46e285d?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Sep 09 |
 | ↳ | **[AI Intern](https://jobright.ai/jobs/info/68c0f1338e65e77df55c5da9?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Sep 09 |
@@ -92,14 +101,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[R&D Bioinformatics Masters Intern - Summer 2026](https://jobright.ai/jobs/info/68c0ddb98e65e77df55c528b?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Sep 09 |
 | **[Golin](http://golin.com/)** | **[Graduate Analytics Intern](https://jobright.ai/jobs/info/68c0b333702aa35207aafc06?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 09 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[AI Intern](https://jobright.ai/jobs/info/68c0a1315c5d5f14f46dfe59?utm_campaign=1066&utm_source=git)** | Minneapolis, MN, 55401 | On Site | Sep 09 |
-| **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/68c0a0e65c5d5f14f46dfdf7?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Sep 09 |
-| ↳ | **[Data Analyst Internship](https://jobright.ai/jobs/info/68c0a0828e65e77df55c356e?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Sep 09 |
+| **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/68c0a1195c5d5f14f46dfe30?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Sep 09 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – IT Data & Analytics (Year-Round)](https://jobright.ai/jobs/info/68c0a05a8e65e77df55c3546?utm_campaign=1066&utm_source=git)** | WI-Madison | Hybrid | Sep 09 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[AI Intern](https://jobright.ai/jobs/info/68c0a0518e65e77df55c3536?utm_campaign=1066&utm_source=git)** | Denver, CO, 80205 | On Site | Sep 09 |
 | **[Williams International](http://www.williams-int.com/)** | **[Intern - Business Analytics (Summer 2026)](https://jobright.ai/jobs/info/68c0a00a5c5d5f14f46dfcc2?utm_campaign=1066&utm_source=git)** | Pontiac, MI | On Site | Sep 09 |
-| **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/68c09ef2702aa35207aaf42e?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 09 |
+| **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/68c09f65702aa35207aaf474?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Sep 09 |
+| ↳ | **[Data Analyst Internship](https://jobright.ai/jobs/info/68c09f378e65e77df55c337b?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Sep 09 |
+| ↳ | **[Data Analyst Internship](https://jobright.ai/jobs/info/68c09e6e702aa35207aaf3e2?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 09 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – IT Data & Analytics (Year-Round)](https://jobright.ai/jobs/info/68c09def702aa35207aaf397?utm_campaign=1066&utm_source=git)** | WI-Milwaukee | Hybrid | Sep 09 |
-| **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/68c09ddf702aa35207aaf38c?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Sep 09 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Digital Transformation & Risk Analyst Intern](https://jobright.ai/jobs/info/68b56bdd1ade4306aa641ba6?utm_campaign=1066&utm_source=git)** | Waterford, WI | Hybrid | Sep 09 |
 | **[Compeer Financial](https://compeer.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68c094fb8e65e77df55c2d9d?utm_campaign=1066&utm_source=git)** | Lakeville, MN | Hybrid | Sep 09 |
 | **[CNO Financial Group](http://www.cnoinc.com)** | **[Business Intelligence Intern- Summer 2026](https://jobright.ai/jobs/info/68c093ef702aa35207aaed69?utm_campaign=1066&utm_source=git)** | Carmel, IN | Hybrid | Sep 09 |
@@ -144,17 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/6888315c4174df41e0fa34c8?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Sep 09 |
 | **[GALLO](https://www.gallo.com)** | **[IT Data Analyst Internship 2026](https://jobright.ai/jobs/info/68a37ddd403ad4363b1c1ab9?utm_campaign=1066&utm_source=git)** | Modesto, CA | Hybrid | Sep 09 |
 | **[Republic Airways](http://www.rjet.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68a3728b1ab5f8579e8a5940?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Sep 09 |
+| **[Shopify](https://www.shopify.com/)** | **[Data Internships, 2026 - USA (Americas, Bellevue, New York City)](https://jobright.ai/jobs/info/68a3cdf4403ad4363b1c3f26?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Sep 09 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(Spring) Research Analyst Intern](https://jobright.ai/jobs/info/68c00ecc5c5d5f14f46db3ce?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Sep 09 |
 | ↳ | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68c00e7d5c5d5f14f46db3bd?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Sep 09 |
-| **[Shopify](https://www.shopify.com/)** | **[Data Internships, 2026 - USA (Americas, Bellevue, New York City)](https://jobright.ai/jobs/info/68a3d5ca1ab5f8579e8a8c7b?utm_campaign=1066&utm_source=git)** | Bellevue, WA | Remote | Sep 09 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Summer Analyst](https://jobright.ai/jobs/info/68bfc8b7702aa35207aa9198?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Sep 09 |
-| **[Walleye Capital](https://www.walleyecapital.com/)** | **[Quantic – Quantitative Researcher Intern (Summer 2026)](https://jobright.ai/jobs/info/68c006058e65e77df55be8c0?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 09 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Sep 09 |
-| ↳ | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Sep 09 |
-| **[Freddie Mac](http://www.freddiemac.com)** | **[Single-Family Data Intern- Summer 2026](https://jobright.ai/jobs/info/68a37e03403ad4363b1c1ae5?utm_campaign=1066&utm_source=git)** | McLean, VA | On Site | Sep 09 |
-| **[NXP Semiconductors](https://www.nxp.com)** | **[Internships in Data Science - Summer 2026](https://jobright.ai/jobs/info/68bfe92d8e65e77df55be30c?utm_campaign=1066&utm_source=git)** | Chandler, AZ | Hybrid | Sep 09 |
-| ↳ | **[Internships in Data Science - Summer 2026](https://jobright.ai/jobs/info/68bfe87d5c5d5f14f46dabcd?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Sep 09 |
-| **[Dell Technologies](https://www.delltechnologies.com)** | **[Services Graduate Data Science Intern](https://jobright.ai/jobs/info/68bfdc7e8e65e77df55bde98?utm_campaign=1066&utm_source=git)** | Round Rock, TX | On Site | Sep 09 |
-| **[Bristol Myers Squibb](http://www.bms.com)** | **[Data Scientist Co-Op](https://jobright.ai/jobs/info/68bfd9ac702aa35207aa996c?utm_campaign=1066&utm_source=git)** | Summit, NJ | Hybrid | Sep 09 |
-| **[Dell Technologies](https://www.delltechnologies.com)** | **[Graduate Analytics Intern](https://jobright.ai/jobs/info/68bfd914702aa35207aa9862?utm_campaign=1066&utm_source=git)** | Round Rock, TX | Hybrid | Sep 09 |
+| **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Development (Quant Research) Internship – Summer 2026](https://jobright.ai/jobs/info/688806dbfbbf032d000783f3?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
