@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Translational Science – Intern](https://jobright.ai/jobs/info/68c19d1c3fd8b059a20f1016?utm_campaign=1066&utm_source=git)** | USA - Massachusetts - Boston (MA Parcel B Laboratory) | Hybrid | Sep 10 |
+| **[Corteva Agriscience](https://www.corteva.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68c1b921233c7d3e64d03b2d?utm_campaign=1066&utm_source=git)** | Des Moines, Iowa, United States | On Site | Sep 10 |
+| **[IBM](http://www.ibm.com)** | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/68c1b47f3fd8b059a20f1a87?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 10 |
+| **[Red Hat](http://www.redhat.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68c1b2e64d652f0447759381?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Sep 10 |
+| **[Corteva Agriscience](https://www.corteva.com/)** | **[R&D Computer Science/Data Science Intern](https://jobright.ai/jobs/info/68c1ab134d652f0447758f19?utm_campaign=1066&utm_source=git)** | Des Moines, Iowa, United States | On Site | Sep 10 |
+| ↳ | **[R&D Computer Science/Data Science Intern](https://jobright.ai/jobs/info/68c1aad13fd8b059a20f14e6?utm_campaign=1066&utm_source=git)** | Indianapolis, Indiana, United States | On Site | Sep 10 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Data Scientist, Causal Network - Co-op](https://jobright.ai/jobs/info/68c1aa9b4d652f0447758ee3?utm_campaign=1066&utm_source=git)** | USA - Massachusetts - Cambridge (320 Bent Street) | Hybrid | Sep 10 |
+| ↳ | **[2026 Future Talent Program – Translational Science – Intern](https://jobright.ai/jobs/info/68c19d1c3fd8b059a20f1016?utm_campaign=1066&utm_source=git)** | USA - Massachusetts - Boston (MA Parcel B Laboratory) | Hybrid | Sep 10 |
 | ↳ | **[2026 Future Talent Program – Translational Science – Intern](https://jobright.ai/jobs/info/68c19c754d652f0447758828?utm_campaign=1066&utm_source=git)** | USA - Massachusetts - Cambridge (320 Bent Street) | Hybrid | Sep 10 |
 | **[Huntsman Corporation](https://www.huntsman.com)** | **[IT - Data & Analytics](https://jobright.ai/jobs/info/68c19c3d4d652f04477587d4?utm_campaign=1066&utm_source=git)** | USA - Texas - Houston - The Woodlands - Corporate Office | On Site | Sep 10 |
 | **[Comcast](https://corporate.comcast.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68c198af4d652f044775843a?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 10 |
@@ -66,8 +72,9 @@ For a complete list, click the following sortable link below:
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Data Science Intern (Colorado)](https://jobright.ai/jobs/info/68c19007233c7d3e64d0240a?utm_campaign=1066&utm_source=git)** | Fort Collins Area | Hybrid | Sep 10 |
 | **[BlackRock](http://www.blackrock.com)** | **[2026 Quantitative Masters Internship Program - AMERS](https://jobright.ai/jobs/info/68c18fd7233c7d3e64d023fc?utm_campaign=1066&utm_source=git)** | Atlanta, NY | On Site | Sep 10 |
 | **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Latent Viruses Intern, Infectious Disease Epidemiology](https://jobright.ai/jobs/info/68c186344d652f0447757e46?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Sep 10 |
-| **[Danaher Life Sciences](https://lifesciences.danaher.com)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/68c16a913fd8b059a20efc4e?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Sep 10 |
-| ↳ | **[Bioinformatics Intern](https://jobright.ai/jobs/info/68c169933fd8b059a20efbe5?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Sep 10 |
+| **[Figma](https://www.figma.com)** | **[Data Science Intern (2026)](https://jobright.ai/jobs/info/68a4c3b62d2a252445cd8e0c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 10 |
+| **[DHL Express](https://www.dhl.com/au-en/home/express.html)** | **[Data Analyst Intern-Mechanical Engineering (MHE & Automation Focus)](https://jobright.ai/jobs/info/68a90327d627244576e36e7c?utm_campaign=1066&utm_source=git)** | Plantation, FL | On Site | Sep 10 |
+| **[Danaher Life Sciences](https://lifesciences.danaher.com)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/68c169933fd8b059a20efbe5?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Sep 10 |
 | **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Latent Viruses Intern, Infectious Disease Epidemiology](https://jobright.ai/jobs/info/68c162ef3fd8b059a20efad5?utm_campaign=1066&utm_source=git)** | Cambridge, Massachusetts | On Site | Sep 10 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Postdoctoral Associate for Regional Gun Violence Research Consortium (RGVRC)](https://jobright.ai/jobs/info/68c15b18233c7d3e64d016ee?utm_campaign=1066&utm_source=git)** | Albany, NY | On Site | Sep 10 |
 | **[JPMorganChase](https://www.jpmorganchase.com/)** | **[2026 Commercial & Investment Bank Innovation Development Summer Analyst Program](https://jobright.ai/jobs/info/67f9fa32b78f81c7f3866bdf?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Sep 10 |
@@ -89,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Business Analytics Intern - Year Round](https://jobright.ai/jobs/info/68c0ec0e702aa35207ab1a96?utm_campaign=1066&utm_source=git)** | Evansville, IN | On Site | Sep 09 |
 | **[CNO Financial Group](http://www.cnoinc.com)** | **[Business Intelligence Intern- Summer 2026](https://jobright.ai/jobs/info/68c0eb638e65e77df55c5a23?utm_campaign=1066&utm_source=git)** | Carmel, IN | Remote | Sep 09 |
 | **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/68c14a3e233c7d3e64d012a1?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Sep 09 |
-| ↳ | **[Data Analyst Internship](https://jobright.ai/jobs/info/68c1533c233c7d3e64d0152a?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Sep 09 |
 | ↳ | **[Data Analyst Internship](https://jobright.ai/jobs/info/68c149014d652f0447756ebd?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 09 |
+| ↳ | **[Data Analyst Internship](https://jobright.ai/jobs/info/68c1533c233c7d3e64d0152a?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Sep 09 |
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - Bioinformatics](https://jobright.ai/jobs/info/68c0e2fb8e65e77df55c5431?utm_campaign=1066&utm_source=git)** | San Diego CA | On Site | Sep 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Summer (MBA)](https://jobright.ai/jobs/info/68c0e1358e65e77df55c52f0?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Sep 09 |
 | **[Tallgrass](https://tallgrass.com/)** | **[Intern-Data Scientist](https://jobright.ai/jobs/info/68c0dff5702aa35207ab14da?utm_campaign=1066&utm_source=git)** | Lakewood, CO | Hybrid | Sep 09 |
@@ -123,13 +130,13 @@ For a complete list, click the following sortable link below:
 | **[Glialink](www.glialink.com)** | **[Student Researcher](https://jobright.ai/jobs/info/68c17e244d652f0447757bfa?utm_campaign=1066&utm_source=git)** | Providence, RI | On Site | Sep 09 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[AI Intern](https://jobright.ai/jobs/info/68c0a1315c5d5f14f46dfe59?utm_campaign=1066&utm_source=git)** | Minneapolis, MN, 55401 | On Site | Sep 09 |
 | **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/68c0a1195c5d5f14f46dfe30?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Sep 09 |
+| ↳ | **[Data Analyst Internship](https://jobright.ai/jobs/info/68c0a0828e65e77df55c356e?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Sep 09 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – IT Data & Analytics (Year-Round)](https://jobright.ai/jobs/info/68c0a05a8e65e77df55c3546?utm_campaign=1066&utm_source=git)** | WI-Madison | Hybrid | Sep 09 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[AI Intern](https://jobright.ai/jobs/info/68c0a0518e65e77df55c3536?utm_campaign=1066&utm_source=git)** | Denver, CO, 80205 | On Site | Sep 09 |
 | **[Williams International](http://www.williams-int.com/)** | **[Intern - Business Analytics (Summer 2026)](https://jobright.ai/jobs/info/68c0a00a5c5d5f14f46dfcc2?utm_campaign=1066&utm_source=git)** | Pontiac, MI | On Site | Sep 09 |
-| **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/68c09f378e65e77df55c337b?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Sep 09 |
+| **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/68c09f65702aa35207aaf474?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Sep 09 |
 | ↳ | **[Data Analyst Internship](https://jobright.ai/jobs/info/68c09ef2702aa35207aaf42e?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 09 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – IT Data & Analytics (Year-Round)](https://jobright.ai/jobs/info/68c09def702aa35207aaf397?utm_campaign=1066&utm_source=git)** | WI-Milwaukee | Hybrid | Sep 09 |
-| **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/68c09ddf702aa35207aaf38c?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Sep 09 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Digital Transformation & Risk Analyst Intern](https://jobright.ai/jobs/info/68b56bdd1ade4306aa641ba6?utm_campaign=1066&utm_source=git)** | Waterford, WI | Hybrid | Sep 09 |
 | **[Compeer Financial](https://compeer.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68c094fb8e65e77df55c2d9d?utm_campaign=1066&utm_source=git)** | Lakeville, MN | Hybrid | Sep 09 |
 | **[CNO Financial Group](http://www.cnoinc.com)** | **[Business Intelligence Intern- Summer 2026](https://jobright.ai/jobs/info/68c093ef702aa35207aaed69?utm_campaign=1066&utm_source=git)** | Carmel, IN | Hybrid | Sep 09 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wellmark Blue Cross and Blue Shield](http://www.wellmark.com)** | **[Data Analytics & Governance Internship](https://jobright.ai/jobs/info/68c078105c5d5f14f46dde6a?utm_campaign=1066&utm_source=git)** | Des Moines, IA, USA | Hybrid | Sep 09 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Oliver Wyman - Summer Analyst 2026 - Financial Services Quantitative Analytics](https://jobright.ai/jobs/info/68c078105c5d5f14f46dde69?utm_campaign=1066&utm_source=git)** | Raleigh - 1 Glenwood | Hybrid | Sep 09 |
 | **[Rally House](http://rallyhouse.com)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/68c077415c5d5f14f46ddd77?utm_campaign=1066&utm_source=git)** | Lenexa, KS | On Site | Sep 09 |
-| **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Data Intern](https://jobright.ai/jobs/info/68c0744a5c5d5f14f46ddb48?utm_campaign=1066&utm_source=git)** | Erie, PA | On Site | Sep 09 |
-| **[BRG](http://www.thinkbrg.com)** | **[Intern](https://jobright.ai/jobs/info/68c06efc5c5d5f14f46dda14?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Sep 09 |
-| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Quantitative Systematic Trading Internship - Master's: Summer 2026 - Susquehanna International Group](https://jobright.ai/jobs/info/68c06e32702aa35207aad060?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 09 |
-| **[Thrivent](https://www.thrivent.com)** | **[Data Analyst Intern, Investments - Summer 2026](https://jobright.ai/jobs/info/68c06de45c5d5f14f46dd92b?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 09 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Data Science/Analytics (Various Exelon Locations)](https://jobright.ai/jobs/info/68bb71bd6105227d118a601c?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 09 |
-| **[BRG Concepts](http://www.brimstonerestaurantgroup.com)** | **[Intern](https://jobright.ai/jobs/info/68c065388e65e77df55c0b7b?utm_campaign=1066&utm_source=git)** | Remote - Washington, DC | Remote | Sep 09 |
-| **[Emerson](http://www.emerson.com)** | **[R&D Co-Op](https://jobright.ai/jobs/info/68c060e9702aa35207aac958?utm_campaign=1066&utm_source=git)** | 301 S 1st Avenue, Marshalltown, IA, 50158, US | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
