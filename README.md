@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Databricks](https://www.databricks.com)** | **[Data Science Intern (2026 Start)](https://jobright.ai/jobs/info/68c3eb63e396b25cb5c6492c?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Sep 12 |
+| **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Data Quality / Data Product](https://jobright.ai/jobs/info/68c3dcc314bb275ce018f974?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 12 |
 | **[Sands Capital](http://www.sandscapital.com)** | **[Data and Analytics Intern (Fall Semester; Hybrid)](https://jobright.ai/jobs/info/68c3be776031587f8458e67b?utm_campaign=1066&utm_source=git)** | Arlington, VA | Hybrid | Sep 11 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[PostDoctoral Research Scholar](https://jobright.ai/jobs/info/68c3bbaeb8c22d3828475327?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Sep 11 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern-IT](https://jobright.ai/jobs/info/68c3b4bf80e77b1fa6fcc636?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | Remote | Sep 11 |
@@ -116,7 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Consumers Energy](https://www.consumersenergy.com/community/foundation)** | **[Intern/Co-Op- Data Scientist](https://jobright.ai/jobs/info/68c31d995001f8077bf61186?utm_campaign=1066&utm_source=git)** | Jackson, MI | On Site | Sep 11 |
 | **[Republic Airways](http://www.rjet.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68a3728b1ab5f8579e8a5940?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Sep 11 |
 | **[vVARDIS](https://www.vvardis.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68c310f15001f8077bf60bb8?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 11 |
-| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Quantitative Research Internship - PhD: Summer 2026 - Susquehanna International Group](https://jobright.ai/jobs/info/68c30ff463829b0a8a4ff46d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 11 |
+| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Data Science/Analytics (Various Exelon Locations)](https://jobright.ai/jobs/info/68bb77436105227d118a61d8?utm_campaign=1066&utm_source=git)** | Windsor Mill, MD | Hybrid | Sep 11 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Data Scientist Intern – Summer 2026](https://jobright.ai/jobs/info/68c30b435001f8077bf6083b?utm_campaign=1066&utm_source=git)** | Lone Tree, CO | On Site | Sep 11 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - PhD Quant Research Analyst, Client Solutions & Analytics - PIMCO](https://jobright.ai/jobs/info/68c30afd5adaee6c9bda67e7?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Sep 11 |
 | ↳ | **[Quantitative Systematic Trading Internship - Master's: Summer 2026 - Susquehanna International Group](https://jobright.ai/jobs/info/68c30ab35adaee6c9bda67b4?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 11 |
@@ -140,6 +142,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Graduate (Product Analytics, USDS) - 2025 Start (BS, MS)](https://jobright.ai/jobs/info/68a7faff758f2e4ac3fefa48?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Sep 11 |
 | ↳ | **[Data Science intern (TikTok-Product-Data Science-Interaction-US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68b7da6c0514b74d7c3eb2c0?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 | ↳ | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/68b7b0ec195d032a0960ac01?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
+| ↳ | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689c304a83d13d1f5b6a7503?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
+| ↳ | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/68a7da2c33dd7158bbca9f58?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 | ↳ | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689403694c7e851b90ae2086?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Sep 11 |
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/686efc4758dd0e9007995f94?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 11 |
 | ↳ | **[Quantitative Research Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68197a2d6096156592cac710?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Sep 11 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science intern (TikTok-Product-Data Science-UG Mid-Platform-US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68b9327b5b42bc456282b9c8?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 | ↳ | **[Data Scientist Intern (TikTok-Business Risk Integrated Control-Risk Measurement) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6889945509808a6103e48bfb?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
 | ↳ | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68b924005b42bc456282aee2?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Sep 11 |
+| **[Kingland](http://www.kingland.com)** | **[Data Research Analyst Intern](https://jobright.ai/jobs/info/68c3e399e396b25cb5c646ff?utm_campaign=1066&utm_source=git)** | Ames, IA | Hybrid | Sep 11 |
 | **[Ketjen Corporation](https://ketjen.com)** | **[Ketjen Summer 2026 Data Science Internship Program](https://jobright.ai/jobs/info/68c29361b535a221b153cf4b?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Sep 10 |
-| **[Albemarle Corporation](http://albemarle.com)** | **[Ketjen Summer 2026 Data Science Internship Program](https://jobright.ai/jobs/info/68c26a9f33864f172f9c0762?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Sep 10 |
-| **[Mativ](https://mativ.com)** | **[Data Science and Business Analytics Intern](https://jobright.ai/jobs/info/68c22bf333864f172f9bd8c9?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Sep 10 |
-| **[Albemarle Corporation](http://albemarle.com)** | **[Ketjen Summer 2026 Data Science Internship Program](https://jobright.ai/jobs/info/68c2446533864f172f9be7cc?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States of America | On Site | Sep 10 |
-| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Data Scientist Intern – Summer 2026](https://jobright.ai/jobs/info/68c2439b4d652f044775e9a2?utm_campaign=1066&utm_source=git)** | Lone Tree, CO | On Site | Sep 10 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Post-Doctoral Research Fellow](https://jobright.ai/jobs/info/68bf49a25c5d5f14f46d5c63?utm_campaign=1066&utm_source=git)** | Somerville, MA | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
