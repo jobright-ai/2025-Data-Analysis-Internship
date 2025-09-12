@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Data Analytics Intern, Mass Market Product](https://jobright.ai/jobs/info/68c3949f6031587f8458c3c5?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Sep 11 |
+| **[Google](https://www.google.com)** | **[Data Analytics Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68c399cc6031587f8458c8ff?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 11 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Data Analytics Intern, Mass Market Product](https://jobright.ai/jobs/info/68c39890b8c22d38284738f3?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Sep 11 |
+| ↳ | **[Data Analytics Intern, Mass Market Product](https://jobright.ai/jobs/info/68c3949f6031587f8458c3c5?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Sep 11 |
 | **[Sands Capital](http://www.sandscapital.com)** | **[Data and Analytics Intern (Fall Semester; Hybrid)](https://jobright.ai/jobs/info/68c393106031587f8458bff9?utm_campaign=1066&utm_source=git)** | Arlington, VA | Hybrid | Sep 11 |
 | **[Google](https://www.google.com)** | **[Data Analytics Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68c3913580e77b1fa6fca93e?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Sep 11 |
 | ↳ | **[Data Analytics Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68c3910cb8c22d3828472f74?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 11 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Duke University](http://www.duke.edu)** | **[POSTDOCTORAL ASSOCIATE](https://jobright.ai/jobs/info/68c240374d652f044775e517?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Sep 10 |
 | **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68c28b5d03b99f6b34295ad0?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Sep 10 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Data Scientist Intern - Digital Technology (Summer 2025)](https://jobright.ai/jobs/info/68c2322e63b706703e112328?utm_campaign=1066&utm_source=git)** | Hagerstown, MD | On Site | Sep 10 |
-| **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68c1533c233c7d3e64d0152a?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Sep 10 |
-| **[JLG Industries](http://www.jlg.com/en)** | **[Data Scientist Intern - Digital Technology](https://jobright.ai/jobs/info/68c22d9833864f172f9bd9e5?utm_campaign=1066&utm_source=git)** | Hagerstown, MD | On Site | Sep 10 |
-| **[Quartz Health Solutions](https://quartzbenefits.com/)** | **[Intern - Power BI Developer](https://jobright.ai/jobs/info/68c22b284d652f044775d9cc?utm_campaign=1066&utm_source=git)** | Madison, WI | Remote | Sep 10 |
+| ↳ | **[Data Scientist Intern - Digital Technology](https://jobright.ai/jobs/info/68c22d9833864f172f9bd9e5?utm_campaign=1066&utm_source=git)** | Hagerstown, MD | On Site | Sep 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
