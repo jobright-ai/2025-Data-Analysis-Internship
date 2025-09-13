@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Toro Company](https://www.thetorocompany.com)** | **[Integrated Supply Chain (ISC) Analytics Intern - The Toro Company](https://jobright.ai/jobs/info/68c583fec96a22563ece925f?utm_campaign=1066&utm_source=git)** | Hennepin County, MN | On Site | Sep 13 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Data Science Co-Op](https://jobright.ai/jobs/info/68a8d1e6758f2e4ac3ff59ae?utm_campaign=1066&utm_source=git)** | Bridgeton, MO | On Site | Sep 13 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Data Governance Analyst](https://jobright.ai/jobs/info/68c57526c96a22563ece8f68?utm_campaign=1066&utm_source=git)** | Draper DC, 12634 S 265 W, Draper, Utah, United States of America | On Site | Sep 13 |
 | **[Merchants Bank IN](http://bankmerchants.com)** | **[Risk Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68c56c4cc96a22563ece8c67?utm_campaign=1066&utm_source=git)** | Carmel, IN | On Site | Sep 13 |
@@ -70,7 +69,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Advisory Intern, Data Forensics - Summer 2026 (Atlanta, Boston, Chicago, D.C., New York)](https://jobright.ai/jobs/info/68a8cba5758f2e4ac3ff56b6?utm_campaign=1066&utm_source=git)** | Potomac, MD | Hybrid | Sep 13 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/68c52c0bc96a22563ece7bf9?utm_campaign=1066&utm_source=git)** | Draper, UT | On Site | Sep 13 |
 | ↳ | **[Intern, Data Science](https://jobright.ai/jobs/info/68c51d44db52c07d288411fe?utm_campaign=1066&utm_source=git)** | Draper DC, 12634 S 265 W, Draper, Utah, United States of America | On Site | Sep 13 |
-| **[City of Worcester](https://www.worcesterma.gov)** | **[PUBLIC HEALTH DATA INTERN](https://jobright.ai/jobs/info/68c54187c96a22563ece82ba?utm_campaign=1066&utm_source=git)** | Worcester, MA | On Site | Sep 12 |
+| **[City of Worcester](https://www.worcesterma.gov)** | **[PUBLIC HEALTH DATA INTERN](https://jobright.ai/jobs/info/68c539bb7d0db411427331a2?utm_campaign=1066&utm_source=git)** | Worcester, MA | On Site | Sep 12 |
+| **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Data Governance Analyst](https://jobright.ai/jobs/info/68c592dec96a22563ece9635?utm_campaign=1066&utm_source=git)** | Draper, UT | On Site | Sep 12 |
 | **[PlateTrack AI](https://platetrackai.com/)** | **[Analyst Intern](https://jobright.ai/jobs/info/68c56b33db52c07d28842a59?utm_campaign=1066&utm_source=git)** | United States | On Site | Sep 12 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Data & Solutions Analyst](https://jobright.ai/jobs/info/68c4db297279451d6a0383bf?utm_campaign=1066&utm_source=git)** | Draper, UT | On Site | Sep 12 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/68c4c850fce86561b9289545?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Sep 12 |
@@ -80,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[TruStage](https://www.trustage.com/)** | **[Data Governance Analyst Intern (Hybrid)](https://jobright.ai/jobs/info/68c4b81331e5763f188e303a?utm_campaign=1066&utm_source=git)** | Madison, WI | Hybrid | Sep 12 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Health and Clinical Outcomes Research Summer Intern](https://jobright.ai/jobs/info/68c4b7ae7279451d6a03710b?utm_campaign=1066&utm_source=git)** | Morris Plains, NJ | Hybrid | Sep 12 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Supply Chain Data Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/68c4b79e31e5763f188e2fc7?utm_campaign=1066&utm_source=git)** | Middleton, WI | On Site | Sep 12 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Data Science/Analytics (Various Exelon Locations)](https://jobright.ai/jobs/info/68bf1acc8e65e77df55b6f11?utm_campaign=1066&utm_source=git)** | Newark, DE | Hybrid | Sep 12 |
 | **[Genentech](http://gene.com)** | **[2026 Spring Intern - Data and Statistical Sciences (6 months)](https://jobright.ai/jobs/info/68c57edec96a22563ece917c?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Sep 12 |
+| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Data Science/Analytics (Various Exelon Locations)](https://jobright.ai/jobs/info/68c5a38c7d0db41142734b6b?utm_campaign=1066&utm_source=git)** | Newark, DE | Hybrid | Sep 12 |
 | **[Clark Associates](http://clarkassociatesinc.biz)** | **[Procurement Data & Reporting Intern - Summer 2026](https://jobright.ai/jobs/info/68c50dd3db52c07d28840941?utm_campaign=1066&utm_source=git)** | Lancaster, PA | On Site | Sep 12 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Healthcare Analytics Summer Intern - Start Date: May 19, 2026](https://jobright.ai/jobs/info/68c4aca731e5763f188e286b?utm_campaign=1066&utm_source=git)** | Morris Plains, NJ | On Site | Sep 12 |
 | **[Fred Hutch](http://www.fredhutch.org/)** | **[Intern, Research](https://jobright.ai/jobs/info/68c4ab427279451d6a036885?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Sep 12 |
@@ -149,12 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Data Quality / Data Product](https://jobright.ai/jobs/info/68c3dcc314bb275ce018f974?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 12 |
 | **[Rio Tinto](http://www.riotinto.com)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/68c5182d7d0db411427324dd?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Sep 11 |
 | **[Sands Capital](http://www.sandscapital.com)** | **[Data and Analytics Intern (Fall Semester; Hybrid)](https://jobright.ai/jobs/info/68c3be776031587f8458e67b?utm_campaign=1066&utm_source=git)** | Arlington, VA | Hybrid | Sep 11 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern-IT](https://jobright.ai/jobs/info/68c3b4bf80e77b1fa6fcc636?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | Remote | Sep 11 |
 | **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Data Quality / Data Product](https://jobright.ai/jobs/info/68c3b1916031587f8458db0d?utm_campaign=1066&utm_source=git)** | USA - Remote | Remote | Sep 11 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data & Reporting Analyst](https://jobright.ai/jobs/info/68c50c86db52c07d288406ea?utm_campaign=1066&utm_source=git)** | Englewood, CO | On Site | Sep 11 |
 | ↳ | **[2026 Summer Intern: Data Science](https://jobright.ai/jobs/info/68c50f0bdb52c07d28840ba2?utm_campaign=1066&utm_source=git)** | Maryland Heights, MO | On Site | Sep 11 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Data Analytics Intern, Mass Market Product](https://jobright.ai/jobs/info/68c4fad27d0db411427309b4?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Sep 11 |
-| ↳ | **[Data Analytics Intern, Mass Market Product](https://jobright.ai/jobs/info/68c39890b8c22d38284738f3?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Sep 11 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Data Analytics Intern, Mass Market Product](https://jobright.ai/jobs/info/68c39890b8c22d38284738f3?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Sep 11 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Data Analytics Internship (Undergraduate & Graduate Level) - Summer 2026](https://jobright.ai/jobs/info/68c3837eb8c22d3828472598?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Remote | Sep 11 |
 | **[Highgate](https://www.highgate.com)** | **[Data Services Internship - Summer 2026](https://jobright.ai/jobs/info/68c37e82b8c22d3828472394?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Sep 11 |
+| **[BRG](http://www.thinkbrg.com)** | **[Intern](https://jobright.ai/jobs/info/68c361536031587f8458a6a7?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Sep 11 |
+| **[Acxiom](http://www.acxiom.com)** | **[Intern - Healthcare Data Analyst - Conway, AR or New York City, NY](https://jobright.ai/jobs/info/68c374f2b8c22d3828471f63?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
