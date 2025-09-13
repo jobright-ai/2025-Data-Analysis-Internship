@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Data Forensics - Summer 2026 (Atlanta, Boston, Chicago, D.C., New York)](https://jobright.ai/jobs/info/68a8cced6acf96396f722ef7?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Sep 13 |
+| **[Businessolver](https://www.businessolver.com)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/68c555afdb52c07d28842550?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 13 |
+| **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Data Forensics - Summer 2026 (Atlanta, Boston, Chicago, D.C., New York)](https://jobright.ai/jobs/info/68a8ca186acf96396f722bec?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Sep 13 |
+| ↳ | **[Advisory Intern, Data Forensics - Summer 2026 (Atlanta, Boston, Chicago, D.C., New York)](https://jobright.ai/jobs/info/68a8cb63758f2e4ac3ff5680?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 13 |
+| ↳ | **[Advisory Intern, Data Forensics - Summer 2026 (Atlanta, Boston, Chicago, D.C., New York)](https://jobright.ai/jobs/info/68a8cced6acf96396f722ef7?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Sep 13 |
 | ↳ | **[Advisory Intern, Data Forensics - Summer 2026 (Atlanta, Boston, Chicago, D.C., New York)](https://jobright.ai/jobs/info/68a8cc176acf96396f722e46?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Sep 13 |
 | ↳ | **[Advisory Intern, Data Forensics - Summer 2026 (Atlanta, Boston, Chicago, D.C., New York)](https://jobright.ai/jobs/info/68a8cba5758f2e4ac3ff56b6?utm_campaign=1066&utm_source=git)** | Potomac, MD | Hybrid | Sep 13 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/68c52c0bc96a22563ece7bf9?utm_campaign=1066&utm_source=git)** | Draper, UT | On Site | Sep 13 |
 | ↳ | **[Intern, Data Science](https://jobright.ai/jobs/info/68c51d44db52c07d288411fe?utm_campaign=1066&utm_source=git)** | Draper DC, 12634 S 265 W, Draper, Utah, United States of America | On Site | Sep 13 |
-| **[City of Worcester](https://www.worcesterma.gov)** | **[PUBLIC HEALTH DATA INTERN](https://jobright.ai/jobs/info/68c539bb7d0db411427331a2?utm_campaign=1066&utm_source=git)** | Worcester, MA | On Site | Sep 12 |
+| **[City of Worcester](https://www.worcesterma.gov)** | **[PUBLIC HEALTH DATA INTERN](https://jobright.ai/jobs/info/68c54187c96a22563ece82ba?utm_campaign=1066&utm_source=git)** | Worcester, MA | On Site | Sep 12 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Data & Solutions Analyst](https://jobright.ai/jobs/info/68c4db297279451d6a0383bf?utm_campaign=1066&utm_source=git)** | Draper, UT | On Site | Sep 12 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/68c4c850fce86561b9289545?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Sep 12 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Global Data Management & Standards - Intern](https://jobright.ai/jobs/info/68c4c7f67279451d6a037a38?utm_campaign=1066&utm_source=git)** | Rahway, NJ | Hybrid | Sep 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Twins](https://twins.mlb.com/)** | **[Fellow, Baseball Operations Data Quality](https://jobright.ai/jobs/info/68c3711c6031587f8458ace5?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Sep 11 |
 | **[Principal Financial Group](https://www.principalam.com/)** | **[Data Analytics Internship (Undergraduate & Graduate Level) - Summer 2026](https://jobright.ai/jobs/info/68c3708b80e77b1fa6fc91b9?utm_campaign=1066&utm_source=git)** | Des Moines, Iowa | Hybrid | Sep 11 |
 | **[Minnesota Twins](https://twins.mlb.com/)** | **[Fellow, Baseball Operations Data Quality](https://jobright.ai/jobs/info/68c36ea1b8c22d3828471b97?utm_campaign=1066&utm_source=git)** | Minneapolis,  MN | On Site | Sep 11 |
-| **[LCS](https://www.lcsnet.com/)** | **[Data & Analytics Internship](https://jobright.ai/jobs/info/68c36d9680e77b1fa6fc9075?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Sep 11 |
-| **[Parsons Corporation](http://www.parsons.com)** | **[FCA Data Management Intern - Fall 2025](https://jobright.ai/jobs/info/68c36d25b8c22d38284719a7?utm_campaign=1066&utm_source=git)** | Virginia, United States | Remote | Sep 11 |
-| **[Leidos](https://www.leidos.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68c367d3b8c22d38284718ac?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
