@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conexant](http://www.conexant.com/)** | **[Part-Time Student - Data Science & Analytics - Ames, IA, Champaign, IL or Austin, TX](https://jobright.ai/jobs/info/68c7172ec96a22563ecf0684?utm_campaign=1066&utm_source=git)** | Ames, IA | Hybrid | Sep 14 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Data Science/Analytics (Various Exelon Locations)](https://jobright.ai/jobs/info/68c6a5f57d0db4114273af4f?utm_campaign=1066&utm_source=git)** | Newark, DE | Hybrid | Sep 14 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Data Science/Analytics (Various Exelon Locations)](https://jobright.ai/jobs/info/68bf16d08e65e77df55b6e53?utm_campaign=1066&utm_source=git)** | Mays Landing, NJ | Hybrid | Sep 13 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68c6114fc96a22563ecea693?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Sep 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sands Capital](http://www.sandscapital.com)** | **[Data and Analytics Intern (Fall Semester; Hybrid)](https://jobright.ai/jobs/info/68c3be776031587f8458e67b?utm_campaign=1066&utm_source=git)** | Arlington, VA | Hybrid | Sep 11 |
 | **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Data Quality / Data Product](https://jobright.ai/jobs/info/68c3b1916031587f8458db0d?utm_campaign=1066&utm_source=git)** | USA - Remote | Remote | Sep 11 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Data Scientist Intern – Summer 2026](https://jobright.ai/jobs/info/68c65476c96a22563eced58c?utm_campaign=1066&utm_source=git)** | Lone Tree, CO | On Site | Sep 11 |
-| **[University of Colorado Boulder](https://www.colorado.edu)** | **[Postdoctoral Associate](https://jobright.ai/jobs/info/68c64954db52c07d288468cd?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
