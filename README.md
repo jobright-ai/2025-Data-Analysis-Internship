@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EDGE](https://edgescore.com)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/68c7615e7d0db4114273bf33?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 14 |
+| **[Golin London](https://golin.com/emea/)** | **[Graduate Analytics Intern](https://jobright.ai/jobs/info/68c091c9702aa35207aaeb37?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Sep 14 |
 | **[AWE](http://www.awe.co.uk/)** | **[Year in Industry- Data Scientist](https://jobright.ai/jobs/info/68c74ff3c96a22563ecf0ac4?utm_campaign=1066&utm_source=git)** | Reading area | On Site | Sep 14 |
 | **[Conexant](http://www.conexant.com/)** | **[Part-Time Student - Data Science & Analytics - Ames, IA, Champaign, IL or Austin, TX](https://jobright.ai/jobs/info/68c7172ec96a22563ecf0684?utm_campaign=1066&utm_source=git)** | Ames, IA | Hybrid | Sep 14 |
+| **[Schonfeld](http://www.schonfeld.com/)** | **[2026 PhD Quant Research Summer Intern - New York](https://jobright.ai/jobs/info/68c7653fc96a22563ecf0c2c?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Sep 14 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Data Science/Analytics (Various Exelon Locations)](https://jobright.ai/jobs/info/68c6a5f57d0db4114273af4f?utm_campaign=1066&utm_source=git)** | Newark, DE | Hybrid | Sep 14 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Data Science/Analytics (Various Exelon Locations)](https://jobright.ai/jobs/info/68bf16d08e65e77df55b6e53?utm_campaign=1066&utm_source=git)** | Mays Landing, NJ | Hybrid | Sep 13 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68c6114fc96a22563ecea693?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Sep 13 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68c641f47d0db4114273753a?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Sep 13 |
+| **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (PhD 2026)](https://jobright.ai/jobs/info/687015e206ad7073463bae80?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Sep 13 |
 | **[Energy Transfer](http://www.energytransfer.com)** | **[Intern –  Business Transformation and Integration](https://jobright.ai/jobs/info/68c5bb6f7d0db41142734ec8?utm_campaign=1066&utm_source=git)** | DALLAS, Texas, United States | On Site | Sep 13 |
 | ↳ | **[Intern – Business Transformation and Integration](https://jobright.ai/jobs/info/68c5b838db52c07d28843a5a?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Sep 13 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Integrated Supply Chain (ISC) Analytics Intern - The Toro Company](https://jobright.ai/jobs/info/68c5b195c96a22563ece9b3b?utm_campaign=1066&utm_source=git)** | Hennepin County, MN | On Site | Sep 13 |
@@ -82,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Post-Doctoral Research Fellow](https://jobright.ai/jobs/info/68bf49a25c5d5f14f46d5c63?utm_campaign=1066&utm_source=git)** | Somerville, MA | On Site | Sep 13 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/68c51d44db52c07d288411fe?utm_campaign=1066&utm_source=git)** | Draper DC, 12634 S 265 W, Draper, Utah, United States of America | On Site | Sep 13 |
 | **[Larry H. Miller Real Estate](www.lhmre.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68c64dc27d0db4114273823c?utm_campaign=1066&utm_source=git)** | Sandy, UT | On Site | Sep 12 |
-| **[Susquehanna International Group](http://sig.com)** | **[Quantitative Research Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68c6494bc96a22563ecec914?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 12 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern-IT](https://jobright.ai/jobs/info/68c64ecfdb52c07d28846faf?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Sep 12 |
 | **[Lucid Software](https://lucid.co)** | **[Data Analyst Internship 2026](https://jobright.ai/jobs/info/68c6493adb52c07d2884687d?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 12 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Data Governance Analyst](https://jobright.ai/jobs/info/68c592dec96a22563ece9635?utm_campaign=1066&utm_source=git)** | Draper, UT | On Site | Sep 12 |
@@ -130,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68c46431e396b25cb5c6784e?utm_campaign=1066&utm_source=git)** | Jackson, MS | On Site | Sep 12 |
 | **[Amplifon](http://corporate.amplifon.com)** | **[Data Analyst Intern Summer 2026](https://jobright.ai/jobs/info/68c5c6d87d0db411427350d2?utm_campaign=1066&utm_source=git)** | 150 South 5Th Street, Minneapolis, MN, 55402, US | Hybrid | Sep 12 |
 | **[Simatree](https://www.simatree1.com/)** | **[Sports Data Discovery Intern (Gap & Solution Design)](https://jobright.ai/jobs/info/68c45d25e396b25cb5c67431?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 12 |
-| **[Schonfeld](http://www.schonfeld.com/)** | **[2026 PhD Quant Research Summer Intern - New York](https://jobright.ai/jobs/info/68c45a67e471ef3ce16d5653?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Sep 12 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms and Technology - Data Science](https://jobright.ai/jobs/info/68c4fa20db52c07d2883f240?utm_campaign=1066&utm_source=git)** | Mount Laurel, NJ | Hybrid | Sep 12 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Integrated Supply Chain (ISC) Analytics Intern - The Toro Company](https://jobright.ai/jobs/info/68c4561de396b25cb5c6710f?utm_campaign=1066&utm_source=git)** | Bloomington, MN | On Site | Sep 12 |
 | **[HDR](http://www.hdrinc.com)** | **[GIS Intern (Summer 2026)](https://jobright.ai/jobs/info/68c455d514bb275ce019280c?utm_campaign=1066&utm_source=git)** | United States-Utah-Salt Lake City | On Site | Sep 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Data Quality / Data Product](https://jobright.ai/jobs/info/68c3dcc314bb275ce018f974?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 12 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data & Reporting Analyst](https://jobright.ai/jobs/info/68c66c6edb52c07d28848922?utm_campaign=1066&utm_source=git)** | Englewood, CO | On Site | Sep 11 |
 | **[Sands Capital](http://www.sandscapital.com)** | **[Data and Analytics Intern (Fall Semester; Hybrid)](https://jobright.ai/jobs/info/68c3be776031587f8458e67b?utm_campaign=1066&utm_source=git)** | Arlington, VA | Hybrid | Sep 11 |
-| **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Data Quality / Data Product](https://jobright.ai/jobs/info/68c3b1916031587f8458db0d?utm_campaign=1066&utm_source=git)** | USA - Remote | Remote | Sep 11 |
-| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Data Scientist Intern – Summer 2026](https://jobright.ai/jobs/info/68c65476c96a22563eced58c?utm_campaign=1066&utm_source=git)** | Lone Tree, CO | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
