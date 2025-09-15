@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Master Data Intern](https://jobright.ai/jobs/info/68c7fb1c95f5211cd2ce07a4?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Sep 15 |
 | **[Susquehanna International Group](http://sig.com)** | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/681d8f38ba8010ef641ba98d?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Sep 15 |
 | ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/681d8f38ba8010ef641ba992?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Sep 15 |
 | **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - DATA ANALYTICS (ENERGY MARKETS) (HDQ)](https://jobright.ai/jobs/info/68c7d8025c38e536d41a7233?utm_campaign=1066&utm_source=git)** | Bismarck, ND | On Site | Sep 15 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern I - Clinical Data](https://jobright.ai/jobs/info/68c79f34db52c07d2884d162?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Sep 14 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms and Technology - Cyber Security](https://jobright.ai/jobs/info/68c79e62c96a22563ecf345b?utm_campaign=1066&utm_source=git)** | Mount Laurel, NJ | Hybrid | Sep 14 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Reporting COE Analyst - Spring 2026 Co-op](https://jobright.ai/jobs/info/68c7b4875c25e576f7b299c9?utm_campaign=1066&utm_source=git)** | Wellesley Hills, MA | On Site | Sep 14 |
-| **[RBC](https://www.rbc.com)** | **[2026 Capital Markets,  Quantitative Technology Services Summer Analyst](https://jobright.ai/jobs/info/68c79b307d0db4114273e603?utm_campaign=1066&utm_source=git)** | New York, New York, United States of America | On Site | Sep 14 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms and Technology - Data Science](https://jobright.ai/jobs/info/68c4fa20db52c07d2883f240?utm_campaign=1066&utm_source=git)** | Mount Laurel, NJ | Hybrid | Sep 14 |
 | **[RBC](https://www.rbc.com)** | **[2026 Capital Markets, Quants Summer Associate, Quantitative Technology Services](https://jobright.ai/jobs/info/68c7983b7d0db4114273e17b?utm_campaign=1066&utm_source=git)** | New York, New York, United States of America | On Site | Sep 14 |
 | **[EDGE](https://edgescore.com)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/68c7615e7d0db4114273bf33?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 14 |
@@ -75,6 +75,9 @@ For a complete list, click the following sortable link below:
 | **[American Forest Management, Inc.](http://americanforestmanagement.com)** | **[Resource Planning & Biometrics Intern](https://jobright.ai/jobs/info/68c7d948369c3763c743c62f?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Sep 14 |
 | **[AWE](http://www.awe.co.uk/)** | **[Year in Industry- Data Scientist](https://jobright.ai/jobs/info/68c74ff3c96a22563ecf0ac4?utm_campaign=1066&utm_source=git)** | Reading area | On Site | Sep 14 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2026 PhD Quant Research Summer Intern - New York](https://jobright.ai/jobs/info/68c7653fc96a22563ecf0c2c?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Sep 14 |
+| **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Data Science/Analytics (Various Exelon Locations)](https://jobright.ai/jobs/info/68c7e5b795f5211cd2cdfb14?utm_campaign=1066&utm_source=git)** | Newark, DE | Hybrid | Sep 14 |
+| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Data Governance Summer Intern](https://jobright.ai/jobs/info/68b3df76f4e41a61efd8ae9d?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 14 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[Data Science Intern (Year-Round)](https://jobright.ai/jobs/info/68bd12143bf9eb44f8326645?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 14 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Data Science/Analytics (Various Exelon Locations)](https://jobright.ai/jobs/info/68bf16d08e65e77df55b6e53?utm_campaign=1066&utm_source=git)** | Mays Landing, NJ | Hybrid | Sep 13 |
 | **[Merchants Bank IN](http://bankmerchants.com)** | **[Risk Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68c7aa27c96a22563ecf3db9?utm_campaign=1066&utm_source=git)** | Carmel, IN | On Site | Sep 13 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68c6114fc96a22563ecea693?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Sep 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ATC](http://www.atcllc.com/)** | **[Intern - Data Analytics Analyst Summer 2026](https://jobright.ai/jobs/info/68c46eea14bb275ce0193442?utm_campaign=1066&utm_source=git)** | De Pere, WI | Hybrid | Sep 12 |
 | **[ITT Inc.](http://www.itt.com)** | **[Supply Chain Data Analyst Co-op (Spring/Summer 2026)](https://jobright.ai/jobs/info/68c4ea327d0db4114272f512?utm_campaign=1066&utm_source=git)** | Seneca Falls, NY | On Site | Sep 12 |
 | **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Data Governance Intern](https://jobright.ai/jobs/info/68c57ea07d0db4114273447b?utm_campaign=1066&utm_source=git)** | Jackson, MS | On Site | Sep 12 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 APEX Advanced Analytics Intern (Masters)](https://jobright.ai/jobs/info/68c4b71e7279451d6a0370c2?utm_campaign=1066&utm_source=git)** | Mettawa, IL | On Site | Sep 12 |
-| **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Business Intelligence/Data Insights Intern](https://jobright.ai/jobs/info/68c4652e14bb275ce0192e77?utm_campaign=1066&utm_source=git)** | Jackson, MS | On Site | Sep 12 |
-| **[Peraton](https://www.peraton.com/)** | **[Summer 2026 Data Science Intern](https://jobright.ai/jobs/info/68c464db14bb275ce0192e0e?utm_campaign=1066&utm_source=git)** | Herndon, VA | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
