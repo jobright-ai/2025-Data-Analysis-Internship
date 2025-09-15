@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AWE](http://www.awe.co.uk/)** | **[Year in Industry- Data Scientist](https://jobright.ai/jobs/info/68c74ff3c96a22563ecf0ac4?utm_campaign=1066&utm_source=git)** | Reading area | On Site | Sep 14 |
 | **[Conexant](http://www.conexant.com/)** | **[Part-Time Student - Data Science & Analytics - Ames, IA, Champaign, IL or Austin, TX](https://jobright.ai/jobs/info/68c7172ec96a22563ecf0684?utm_campaign=1066&utm_source=git)** | Ames, IA | Hybrid | Sep 14 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Data Science/Analytics (Various Exelon Locations)](https://jobright.ai/jobs/info/68c6a5f57d0db4114273af4f?utm_campaign=1066&utm_source=git)** | Newark, DE | Hybrid | Sep 14 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Data Science/Analytics (Various Exelon Locations)](https://jobright.ai/jobs/info/68bf16d08e65e77df55b6e53?utm_campaign=1066&utm_source=git)** | Mays Landing, NJ | Hybrid | Sep 13 |
@@ -73,8 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Data Science & Digital Innovation Intern - Miami, FL](https://jobright.ai/jobs/info/68a8ffcc6acf96396f72415f?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Sep 13 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/68afe4c7b47fb001d688e4d6?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 13 |
 | **[Covestro](https://www.covestro.com)** | **[Data Analyst Intern, Newark](https://jobright.ai/jobs/info/68a8c653d627244576e3569b?utm_campaign=1066&utm_source=git)** | Newark, OH | On Site | Sep 13 |
-| **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Data Forensics - Summer 2026 (Atlanta, Boston, Chicago, D.C., New York)](https://jobright.ai/jobs/info/68a8ca186acf96396f722bec?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Sep 13 |
-| ↳ | **[Advisory Intern, Data Forensics - Summer 2026 (Atlanta, Boston, Chicago, D.C., New York)](https://jobright.ai/jobs/info/68a8cb63758f2e4ac3ff5680?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 13 |
+| **[BDO USA](https://www.bdo.com/)** | **[Advisory Intern, Data Forensics - Summer 2026 (Atlanta, Boston, Chicago, D.C., New York)](https://jobright.ai/jobs/info/68a8cb63758f2e4ac3ff5680?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 13 |
 | ↳ | **[Advisory Intern, Data Forensics - Summer 2026 (Atlanta, Boston, Chicago, D.C., New York)](https://jobright.ai/jobs/info/68a8cc176acf96396f722e46?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Sep 13 |
 | ↳ | **[Advisory Intern, Data Forensics - Summer 2026 (Atlanta, Boston, Chicago, D.C., New York)](https://jobright.ai/jobs/info/68c66368c96a22563ecee0bc?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Sep 13 |
 | ↳ | **[Advisory Intern, Data Forensics - Summer 2026 (Atlanta, Boston, Chicago, D.C., New York)](https://jobright.ai/jobs/info/68a8cba5758f2e4ac3ff56b6?utm_campaign=1066&utm_source=git)** | Potomac, MD | Hybrid | Sep 13 |
