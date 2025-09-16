@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Data Analyst](https://jobright.ai/jobs/info/68c8cfc9983e6768bc551be4?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Sep 15 |
 | ↳ | **[Intern, Data Analyst](https://jobright.ai/jobs/info/68c8ce6695f5211cd2ce9997?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Sep 15 |
 | ↳ | **[Intern, Data Analyst](https://jobright.ai/jobs/info/68c8cc2a983e6768bc551803?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Sep 15 |
+| ↳ | **[Intern, Data Analyst](https://jobright.ai/jobs/info/68c8cbb195f5211cd2ce96ba?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Sep 15 |
 | **[Apprenticely](https://apprenticely.org/)** | **[Amazeum Data Analyst Intern](https://jobright.ai/jobs/info/68c8ca7d95f5211cd2ce9511?utm_campaign=1066&utm_source=git)** | Bentonville, AR | Hybrid | Sep 15 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Image & Metadata Quality Control Intern](https://jobright.ai/jobs/info/68c8e656983e6768bc5537ab?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Sep 15 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Data Science](https://jobright.ai/jobs/info/68c8c9bef9c6ff7aedf12a03?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Sep 15 |
@@ -97,10 +98,10 @@ For a complete list, click the following sortable link below:
 | **[Cencora](http://www.cencora.com)** | **[RWE Retrospective Intern](https://jobright.ai/jobs/info/68c881a695f5211cd2ce61d6?utm_campaign=1066&utm_source=git)** | Texas, United States | On Site | Sep 15 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[Business Reporting and Analytics Intern Summer 2026](https://jobright.ai/jobs/info/68c8a071983e6768bc54fb81?utm_campaign=1066&utm_source=git)** | Cranberry Township, PA | Hybrid | Sep 15 |
 | **[National Ramah Commission](https://www.campramah.org/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68c89baef9c6ff7aedf10d0b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 15 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, Data Analyst](https://jobright.ai/jobs/info/68c87b7d95f5211cd2ce5bb7?utm_campaign=1066&utm_source=git)** | Boston, MA, USA | Hybrid | Sep 15 |
-| ↳ | **[Intern, Data Analyst](https://jobright.ai/jobs/info/68c87b56f9c6ff7aedf0f528?utm_campaign=1066&utm_source=git)** | San Francisco, CA, USA | Hybrid | Sep 15 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Data Analyst](https://jobright.ai/jobs/info/68c87b56f9c6ff7aedf0f528?utm_campaign=1066&utm_source=git)** | San Francisco, CA, USA | Hybrid | Sep 15 |
 | ↳ | **[Intern, Data Analyst](https://jobright.ai/jobs/info/68c87b0395f5211cd2ce5ab3?utm_campaign=1066&utm_source=git)** | Atlanta, GA, USA | Hybrid | Sep 15 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern II - Business Intelligence](https://jobright.ai/jobs/info/68c87ae8f9c6ff7aedf0f472?utm_campaign=1066&utm_source=git)** | Remote - United States | Hybrid | Sep 15 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Data Analyst](https://jobright.ai/jobs/info/68c87ae4983e6768bc54de6b?utm_campaign=1066&utm_source=git)** | Boston, MA, USA | Hybrid | Sep 15 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Image & Metadata Quality Control Intern](https://jobright.ai/jobs/info/68c877f3f9c6ff7aedf0f0c2?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Sep 15 |
 | **[Entegris](http://www.entegris.com)** | **[Data Scientist Co-Op - Spring 2026](https://jobright.ai/jobs/info/68c86d6b95f5211cd2ce50f4?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | Hybrid | Sep 15 |
 | **[Transamerica](http://www.transamerica.com)** | **[Data Analytics Intern (Spring 2026, Full-time Hours)](https://jobright.ai/jobs/info/68c86a2af9c6ff7aedf0e6d3?utm_campaign=1066&utm_source=git)** | Cedar Rapids, Iowa | Hybrid | Sep 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dexcom](http://www.dexcom.com)** | **[Intern II – Clinical Affairs](https://jobright.ai/jobs/info/68c8a16795f5211cd2ce76de?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Sep 14 |
 | ↳ | **[Intern I - Clinical Data](https://jobright.ai/jobs/info/68c8ae31983e6768bc550218?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Sep 14 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Reporting COE Analyst - Spring 2026 Co-op](https://jobright.ai/jobs/info/68c7b4875c25e576f7b299c9?utm_campaign=1066&utm_source=git)** | Wellesley Hills, MA | On Site | Sep 14 |
-| **[RBC](https://www.rbc.com)** | **[2026 Capital Markets, Quants Summer Associate, Quantitative Technology Services](https://jobright.ai/jobs/info/68c79a4ec96a22563ecf30ed?utm_campaign=1066&utm_source=git)** | New York, New York, United States of America | On Site | Sep 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
