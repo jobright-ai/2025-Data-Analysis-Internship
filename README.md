@@ -57,11 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Tech World Networking](techworldnetworking.us)** | **[Business Data Analysis Intern](https://jobright.ai/jobs/info/68cec720fb49c96ca6ea3627?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Sep 20 |
-| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Digital Data Science Analyst Intern](https://jobright.ai/jobs/info/68cec70efb49c96ca6ea3600?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Sep 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Decision Science Undergraduate Intern, Spring 2026](https://jobright.ai/jobs/info/68cec6e9846f0b04af67cdf6?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 20 |
-| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Digital Data Science Analyst Intern](https://jobright.ai/jobs/info/68ceb4a3846f0b04af67c6f8?utm_campaign=1066&utm_source=git)** | Chicago, IL | Remote | Sep 20 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Decision Science Graduate Associate, Spring 2026](https://jobright.ai/jobs/info/68ceb497fb49c96ca6ea2f43?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 20 |
+| ↳ | **[Decision Science Graduate Associate, Spring 2026](https://jobright.ai/jobs/info/68ceb497fb49c96ca6ea2f43?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 20 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68ceb475fb49c96ca6ea2f29?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Sep 20 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Biostatistics Internship](https://jobright.ai/jobs/info/68cea8c2dbd9fb154ede1cb5?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Sep 20 |
 | ↳ | **[Summer 2026 - Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cea792fb49c96ca6ea2a3e?utm_campaign=1066&utm_source=git)** | Madison, NJ | Hybrid | Sep 20 |
@@ -146,7 +143,8 @@ For a complete list, click the following sortable link below:
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/68cd797e1ad6b16f0289a118?utm_campaign=1066&utm_source=git)** | Dayton, OH | On Site | Sep 19 |
 | **[American Century Investments](https://www.americancentury.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/68cd7911e23def7af55ba420?utm_campaign=1066&utm_source=git)** | Kansas City, Missouri | On Site | Sep 19 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/68cd787eb2a74e1837ed737f?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Sep 19 |
-| ↳ | **[Data Quality Intern](https://jobright.ai/jobs/info/68ce8414846f0b04af67aa54?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 19 |
+| **[The Henry Ford](http://www.thehenryford.org/)** | **[Geographic Information Systems Analyst Intern](https://jobright.ai/jobs/info/68cecffefb49c96ca6ea3aaa?utm_campaign=1066&utm_source=git)** | Dearborn, MI | On Site | Sep 19 |
+| **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/68ce8414846f0b04af67aa54?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 19 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/68cd6d6bb2a74e1837ed6bb9?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Sep 19 |
 | ↳ | **[Intern, Data Science](https://jobright.ai/jobs/info/68cd6cd7e23def7af55b9a34?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 19 |
 | ↳ | **[Intern, Data Science](https://jobright.ai/jobs/info/68cd6c391ad6b16f02899521?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Sep 19 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Intern - Summer 2026](https://jobright.ai/jobs/info/68cd5397e23def7af55b817a?utm_campaign=1066&utm_source=git)** | US-AZ-Phoenix - Wakely | On Site | Sep 19 |
 | ↳ | **[Data Intern - Spring 2026](https://jobright.ai/jobs/info/68cd5375b2a74e1837ed552c?utm_campaign=1066&utm_source=git)** | US-MN-Minneapolis - WK | On Site | Sep 19 |
 | ↳ | **[Data Intern - Spring 2026](https://jobright.ai/jobs/info/68cd530be23def7af55b8036?utm_campaign=1066&utm_source=git)** | US-AZ-Phoenix - Wakely | On Site | Sep 19 |
+| ↳ | **[Data Intern - Spring 2026](https://jobright.ai/jobs/info/68cd52ff1ad6b16f02897db4?utm_campaign=1066&utm_source=git)** | Phoenix - Wakely | On Site | Sep 19 |
+| **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Data Analyst Intern (In-Office Aberdeen MD, Summer 2026)](https://jobright.ai/jobs/info/68cc970c128dc347fd926fb2?utm_campaign=1066&utm_source=git)** | Aberdeen, MD | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
