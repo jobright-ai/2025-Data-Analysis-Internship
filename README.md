@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Insights Analyst](https://jobright.ai/jobs/info/68ce7681dbd9fb154eddfddf?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Sep 20 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Cybersecurity Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68ce3dc51ad6b16f028a34bb?utm_campaign=1066&utm_source=git)** | Sparks, NV | On Site | Sep 19 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Data Visualization & Management Intern - Minneapolis, MN, Denver, CO or Eau Claire, WI](https://jobright.ai/jobs/info/68ce1cdbe23def7af55c2424?utm_campaign=1066&utm_source=git)** | Eau Claire, WI | On Site | Sep 19 |
+| ↳ | **[Data Visualization & Management Intern - Minneapolis, MN, Denver, CO or Eau Claire, WI](https://jobright.ai/jobs/info/68ce77d1fb49c96ca6ea0c51?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Sep 19 |
 | ↳ | **[Data Visualization & Management Intern - Minneapolis, MN, Denver, CO or Eau Claire, WI](https://jobright.ai/jobs/info/68ce157eb2a74e1837edf1c3?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Sep 19 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Research Fellow, PGY3 EXT (Zebardast)](https://jobright.ai/jobs/info/68ce0d06e23def7af55c1ae9?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 19 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Mobile Response Team Intern](https://jobright.ai/jobs/info/68ce0bda1ad6b16f028a16c4?utm_campaign=1066&utm_source=git)** | Wichita, KS | On Site | Sep 19 |
@@ -123,15 +125,13 @@ For a complete list, click the following sortable link below:
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/68cd797e1ad6b16f0289a118?utm_campaign=1066&utm_source=git)** | Dayton, OH | On Site | Sep 19 |
 | **[American Century Investments](https://www.americancentury.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/68cd7911e23def7af55ba420?utm_campaign=1066&utm_source=git)** | Kansas City, Missouri | On Site | Sep 19 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/68cd787eb2a74e1837ed737f?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Sep 19 |
-| ↳ | **[Data Quality Intern](https://jobright.ai/jobs/info/68cd6ebeb2a74e1837ed6d5b?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 19 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/68cd6d6bb2a74e1837ed6bb9?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Sep 19 |
 | ↳ | **[Intern, Data Science](https://jobright.ai/jobs/info/68cd6cd7e23def7af55b9a34?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 19 |
 | ↳ | **[Intern, Data Science](https://jobright.ai/jobs/info/68cd6c391ad6b16f02899521?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Sep 19 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/68cd63791ad6b16f02898fdd?utm_campaign=1066&utm_source=git)** | Alexandria, VA | On Site | Sep 19 |
 | **[Airgas](http://airgas.com/)** | **[VIE - Sustainability Analyst North America(M/FD)](https://jobright.ai/jobs/info/68cd60ba1ad6b16f02898e25?utm_campaign=1066&utm_source=git)** | Houston, TX (HO) | On Site | Sep 19 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Strategic Insights & Analytics 2026 Co-op](https://jobright.ai/jobs/info/68c79a69c96a22563ecf3149?utm_campaign=1066&utm_source=git)** | Titusville, NJ | On Site | Sep 19 |
-| **[Leavitt Partners](https://leavittpartners.com/)** | **[Data Intern - Summer 2026](https://jobright.ai/jobs/info/68cd54161ad6b16f0289807c?utm_campaign=1066&utm_source=git)** | Phoenix - Wakely | On Site | Sep 19 |
-| ↳ | **[Data Intern - Summer 2026](https://jobright.ai/jobs/info/68cd53f5b2a74e1837ed5686?utm_campaign=1066&utm_source=git)** | US-MN-Minneapolis - WK | On Site | Sep 19 |
+| **[Leavitt Partners](https://leavittpartners.com/)** | **[Data Intern - Summer 2026](https://jobright.ai/jobs/info/68cd53f5b2a74e1837ed5686?utm_campaign=1066&utm_source=git)** | US-MN-Minneapolis - WK | On Site | Sep 19 |
 | ↳ | **[Data Intern - Summer 2026](https://jobright.ai/jobs/info/68cd5397e23def7af55b817a?utm_campaign=1066&utm_source=git)** | US-AZ-Phoenix - Wakely | On Site | Sep 19 |
 | ↳ | **[Data Intern - Spring 2026](https://jobright.ai/jobs/info/68cd5375b2a74e1837ed552c?utm_campaign=1066&utm_source=git)** | US-MN-Minneapolis - WK | On Site | Sep 19 |
 | ↳ | **[Data Intern - Spring 2026](https://jobright.ai/jobs/info/68cd530be23def7af55b8036?utm_campaign=1066&utm_source=git)** | US-AZ-Phoenix - Wakely | On Site | Sep 19 |
@@ -151,10 +151,10 @@ For a complete list, click the following sortable link below:
 | **[DP World](https://www.dpworld.com/)** | **[Logistics Data Analyst Intern](https://jobright.ai/jobs/info/68ccc34dfa466330fef90cfe?utm_campaign=1066&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | Sep 18 |
 | **[Rhombus Power Inc.](https://rhombuspower.com/)** | **[Intelligence Internship](https://jobright.ai/jobs/info/68ccc275a77e5d7d744f4f5f?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Sep 18 |
 | **[Cherokee Federal](https://cherokee-federal.com)** | **[Logistics Data Analyst Intern](https://jobright.ai/jobs/info/68ccc002a77e5d7d744f4ad0?utm_campaign=1066&utm_source=git)** | 1415 Vantage Park Dr. , Charlotte, NC, 28203, US | On Site | Sep 18 |
-| **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Associate (Intern) - Baseball Research and Development](https://jobright.ai/jobs/info/68ccb9b47342c7623ae68b17?utm_campaign=1066&utm_source=git)** | US-WI-Milwaukee | On Site | Sep 18 |
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[Production Data Analyst Co-op](https://jobright.ai/jobs/info/68ccb85b16d00d2beeb23628?utm_campaign=1066&utm_source=git)** | Danvers, MA | On Site | Sep 18 |
 | ↳ | **[Q&C Data Science Co-Op – Spring 2026](https://jobright.ai/jobs/info/68ccda2177add66568aba99c?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Sep 18 |
-| **[Southern Star Central Gas Pipeline](http://sscgp.com)** | **[Intern, Enterprise Excellence](https://jobright.ai/jobs/info/68ccb20716d00d2beeb22fa5?utm_campaign=1066&utm_source=git)** | Owensboro, KY | On Site | Sep 18 |
 | **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires Inc, Internship - Data Analytics](https://jobright.ai/jobs/info/68cca9ee128dc347fd927da6?utm_campaign=1066&utm_source=git)** | Ohio Location | On Site | Sep 18 |
 | **[Rhombus Power Inc.](https://rhombuspower.com/)** | **[Intelligence Internship](https://jobright.ai/jobs/info/68cca9aa7342c7623ae67a96?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | On Site | Sep 18 |
+| **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/68cca1c5128dc347fd92780d?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 18 |
+| **[Astronautics Corporation of America](https://astronautics.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68ccdb38d11b445e0bee32ec?utm_campaign=1066&utm_source=git)** | Oak Creek, WI | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
