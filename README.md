@@ -107,7 +107,8 @@ For a complete list, click the following sortable link below:
 | **[First Quality](http://firstquality.com/)** | **[INTERN OR CO-OP - Analytics Engineer](https://jobright.ai/jobs/info/68cdc24b1ad6b16f0289eaae?utm_campaign=1066&utm_source=git)** | US SC Anderson | On Site | Sep 19 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Energy Analyst (NY)](https://jobright.ai/jobs/info/68cdc1d5b2a74e1837edbf62?utm_campaign=1066&utm_source=git)** | Albany, NY | Hybrid | Sep 19 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 – Graduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cdb40cb2a74e1837edb77e?utm_campaign=1066&utm_source=git)** | San Diego - CA - US | Hybrid | Sep 19 |
-| ↳ | **[Summer 2026 – Graduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cdb2b4b2a74e1837edb433?utm_campaign=1066&utm_source=git)** | Princeton - NJ - US | Hybrid | Sep 19 |
+| **[Jackson](https://www.jackson.com)** | **[2026 Intern - Distribution Intelligence](https://jobright.ai/jobs/info/68cda08eb2a74e1837eda107?utm_campaign=1066&utm_source=git)** | Nashville, TN | On Site | Sep 19 |
+| **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 – Graduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cdb2b4b2a74e1837edb433?utm_campaign=1066&utm_source=git)** | Princeton - NJ - US | Hybrid | Sep 19 |
 | ↳ | **[Summer 2026 – Graduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cdb2881ad6b16f0289df68?utm_campaign=1066&utm_source=git)** | Madison - Giralda - NJ - US | Hybrid | Sep 19 |
 | ↳ | **[Summer 2026 - PhD Data Science Internship](https://jobright.ai/jobs/info/68cdb25db2a74e1837edb371?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Sep 19 |
 | **[Voloridge Health](http://www.voloridgehealth.com)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/68cdb244b2a74e1837edb33c?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Sep 19 |
@@ -121,6 +122,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 – Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cda8a3e23def7af55bdacc?utm_campaign=1066&utm_source=git)** | Princeton - NJ - US | Hybrid | Sep 19 |
 | ↳ | **[Summer 2026 – Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cda846e23def7af55bd9a5?utm_campaign=1066&utm_source=git)** | San Diego - CA - US | Hybrid | Sep 19 |
 | **[American Century Investments](https://www.americancentury.com)** | **[Municipal Data & Research Intern](https://jobright.ai/jobs/info/68cda801e23def7af55bd8ba?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Sep 19 |
+| **[Federal Reserve Bank of New York](http://newyorkfed.org/)** | **[2026 Summer Intern - Statistics Group - Sophomore](https://jobright.ai/jobs/info/68cf04a4846f0b04af67eb20?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 19 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Biostatistics Internship](https://jobright.ai/jobs/info/68cda714e23def7af55bd5f0?utm_campaign=1066&utm_source=git)** | Princeton - NJ - US | Hybrid | Sep 19 |
 | ↳ | **[Summer 2026 - Biostatistics Internship](https://jobright.ai/jobs/info/68cda705e23def7af55bd5b7?utm_campaign=1066&utm_source=git)** | San Diego - CA - US | Hybrid | Sep 19 |
 | **[American Century Investments](https://www.americancentury.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/68cda6d3e23def7af55bd566?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 19 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/68cd949db2a74e1837ed8ffa?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Sep 19 |
 | **[UniFirst Corporation](https://unifirst.com/)** | **[Digital Analytics Intern](https://jobright.ai/jobs/info/68ce2927b2a74e1837edfed7?utm_campaign=1066&utm_source=git)** | Wilmington, MA | On Site | Sep 19 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026](https://jobright.ai/jobs/info/68cd8eb5b2a74e1837ed8cd4?utm_campaign=1066&utm_source=git)** | Alabama-Birmingham | On Site | Sep 19 |
-| **[Jackson](https://www.jackson.com)** | **[2026 Intern - Distribution Intelligence](https://jobright.ai/jobs/info/68cd8927e23def7af55bb428?utm_campaign=1066&utm_source=git)** | Nashville, TN | On Site | Sep 19 |
 | **[Universal Technical Resource Services, Inc. (UTRS)](https://www.utrs.com)** | **[Tableau Dashboard Design Inter](https://jobright.ai/jobs/info/68cea1d4fb49c96ca6ea24e2?utm_campaign=1066&utm_source=git)** | Marlton, NJ | On Site | Sep 19 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/68cd797e1ad6b16f0289a118?utm_campaign=1066&utm_source=git)** | Dayton, OH | On Site | Sep 19 |
 | **[American Century Investments](https://www.americancentury.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/68cd7911e23def7af55ba420?utm_campaign=1066&utm_source=git)** | Kansas City, Missouri | On Site | Sep 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Intern - Spring 2026](https://jobright.ai/jobs/info/68cd5375b2a74e1837ed552c?utm_campaign=1066&utm_source=git)** | US-MN-Minneapolis - WK | On Site | Sep 19 |
 | ↳ | **[Data Intern - Spring 2026](https://jobright.ai/jobs/info/68cd530be23def7af55b8036?utm_campaign=1066&utm_source=git)** | US-AZ-Phoenix - Wakely | On Site | Sep 19 |
 | ↳ | **[Data Intern - Spring 2026](https://jobright.ai/jobs/info/68cd52ff1ad6b16f02897db4?utm_campaign=1066&utm_source=git)** | Phoenix - Wakely | On Site | Sep 19 |
-| **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Data Analyst Intern (In-Office Aberdeen MD, Summer 2026)](https://jobright.ai/jobs/info/68cc970c128dc347fd926fb2?utm_campaign=1066&utm_source=git)** | Aberdeen, MD | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
