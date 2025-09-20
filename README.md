@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Cybersecurity Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68ce3dc51ad6b16f028a34bb?utm_campaign=1066&utm_source=git)** | Sparks, NV | On Site | Sep 19 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Data Visualization & Management Intern - Minneapolis, MN, Denver, CO or Eau Claire, WI](https://jobright.ai/jobs/info/68ce1cdbe23def7af55c2424?utm_campaign=1066&utm_source=git)** | Eau Claire, WI | On Site | Sep 19 |
 | ↳ | **[Data Visualization & Management Intern - Minneapolis, MN, Denver, CO or Eau Claire, WI](https://jobright.ai/jobs/info/68ce157eb2a74e1837edf1c3?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Sep 19 |
 | ↳ | **[Data Visualization & Management Intern - Minneapolis, MN, Denver, CO or Eau Claire, WI](https://jobright.ai/jobs/info/68ce1298e23def7af55c1d52?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Sep 19 |
@@ -93,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 – Graduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cdb1e2e23def7af55be56b?utm_campaign=1066&utm_source=git)** | Seattle 400 Dexter - WA - US | Hybrid | Sep 19 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Undergraduate Year-Round -  Enterprise IT Tools & Services, Hybrid](https://jobright.ai/jobs/info/68cdb01fe23def7af55be12b?utm_campaign=1066&utm_source=git)** | Albuquerque, NM | Hybrid | Sep 19 |
 | **[Voloridge Health](http://www.voloridgehealth.com)** | **[Health Data Analyst Intern 2026](https://jobright.ai/jobs/info/68cdaf6ee23def7af55be00c?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Sep 19 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/68cdafe2e23def7af55be0c0?utm_campaign=1066&utm_source=git)** | Arden Hills, MN | Hybrid | Sep 19 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Biostatistics Internship](https://jobright.ai/jobs/info/68cdaa08b2a74e1837edabfb?utm_campaign=1066&utm_source=git)** | Madison - Giralda - NJ - US | Hybrid | Sep 19 |
 | ↳ | **[Summer 2026 - Biostatistics Internship](https://jobright.ai/jobs/info/68cda9d31ad6b16f0289d729?utm_campaign=1066&utm_source=git)** | Seattle 400 Dexter - WA - US | Hybrid | Sep 19 |
 | ↳ | **[Summer 2026 – Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cda95cb2a74e1837eda9fb?utm_campaign=1066&utm_source=git)** | Madison - Giralda - NJ - US | Hybrid | Sep 19 |
@@ -116,8 +118,9 @@ For a complete list, click the following sortable link below:
 | **[American Century Investments](https://www.americancentury.com)** | **[Municipal Data & Research Intern](https://jobright.ai/jobs/info/68cd98bce23def7af55bc693?utm_campaign=1066&utm_source=git)** | Kansas City, Missouri | On Site | Sep 19 |
 | **[Universal Technical Resource Services, Inc. (UTRS)](https://www.utrs.com)** | **[Tableau Dashboard Design Inter](https://jobright.ai/jobs/info/68cd96afe23def7af55bc524?utm_campaign=1066&utm_source=git)** | Marlton, NJ | On Site | Sep 19 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/68cd949db2a74e1837ed8ffa?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Sep 19 |
+| **[UniFirst Corporation](https://unifirst.com/)** | **[Digital Analytics Intern](https://jobright.ai/jobs/info/68ce2927b2a74e1837edfed7?utm_campaign=1066&utm_source=git)** | Wilmington, MA | On Site | Sep 19 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026](https://jobright.ai/jobs/info/68cd8eb5b2a74e1837ed8cd4?utm_campaign=1066&utm_source=git)** | Alabama-Birmingham | On Site | Sep 19 |
-| **[Jackson](https://www.jackson.com)** | **[2026 Intern - Distribution Intelligence](https://jobright.ai/jobs/info/68cd88331ad6b16f0289ae2b?utm_campaign=1066&utm_source=git)** | Nashville, TN | On Site | Sep 19 |
+| **[Jackson](https://www.jackson.com)** | **[2026 Intern - Distribution Intelligence](https://jobright.ai/jobs/info/68cd8927e23def7af55bb428?utm_campaign=1066&utm_source=git)** | Nashville, TN | On Site | Sep 19 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/68cd797e1ad6b16f0289a118?utm_campaign=1066&utm_source=git)** | Dayton, OH | On Site | Sep 19 |
 | **[American Century Investments](https://www.americancentury.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/68cd7911e23def7af55ba420?utm_campaign=1066&utm_source=git)** | Kansas City, Missouri | On Site | Sep 19 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/68cd787eb2a74e1837ed737f?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Sep 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Q&C Data Science Co-Op – Spring 2026](https://jobright.ai/jobs/info/68ccda2177add66568aba99c?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Sep 18 |
 | **[Southern Star Central Gas Pipeline](http://sscgp.com)** | **[Intern, Enterprise Excellence](https://jobright.ai/jobs/info/68ccb20716d00d2beeb22fa5?utm_campaign=1066&utm_source=git)** | Owensboro, KY | On Site | Sep 18 |
 | **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires Inc, Internship - Data Analytics](https://jobright.ai/jobs/info/68cca9ee128dc347fd927da6?utm_campaign=1066&utm_source=git)** | Ohio Location | On Site | Sep 18 |
-| **[Rhombus Power Inc.](https://rhombuspower.com/)** | **[Intelligence Internship](https://jobright.ai/jobs/info/68cca9aa7342c7623ae67a96?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | On Site | Sep 18 |
-| **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/68cca1c5128dc347fd92780d?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 18 |
-| **[Astronautics Corporation of America](https://astronautics.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68ccdb38d11b445e0bee32ec?utm_campaign=1066&utm_source=git)** | Oak Creek, WI | On Site | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
