@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Intern, Epidemiology, Infectious Diseases](https://jobright.ai/jobs/info/68cfe797846f0b04af686074?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Sep 21 |
+| ↳ | **[2026 Intern, Biostatistics and Programming](https://jobright.ai/jobs/info/68cfe045dbd9fb154edeb75a?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Sep 21 |
+| **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Summer 2026 - Data Analytics Intern](https://jobright.ai/jobs/info/68cfdc6fdbd9fb154edeb669?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Hybrid | Sep 21 |
 | **[Flexon Technologies Inc.](https://www.flexontechnologies.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68cf8e32dbd9fb154ede8c79?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | On Site | Sep 20 |
 | **[Optimum Media](https://a4alticeadvertising.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/68cf86b1846f0b04af682b39?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 20 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Pharmacy Analytics Summer Intern - Start Date: May 18, 2026](https://jobright.ai/jobs/info/68cf34ecfb49c96ca6ea6523?utm_campaign=1066&utm_source=git)** | Morris Plains, NJ | Hybrid | Sep 20 |
@@ -104,6 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Insights Analyst](https://jobright.ai/jobs/info/68ce7681dbd9fb154eddfddf?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Sep 20 |
 | **[Red Hat](http://www.redhat.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68ccd86977add66568aba45d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Sep 20 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68950a0873b3a600fe884916?utm_campaign=1066&utm_source=git)** | Strongsville, OH | On Site | Sep 20 |
+| **[Dewberry](http://www.dewberry.com/)** | **[GIS Analyst Intern](https://jobright.ai/jobs/info/68cfcbee846f0b04af6851e4?utm_campaign=1066&utm_source=git)** | Fairfax, VA | On Site | Sep 20 |
 | **[Varda Space Industries](http://varda.com)** | **[Finance - Data Structures/ Analytics Internship - Spring 2026](https://jobright.ai/jobs/info/68cc7e527342c7623ae65b2e?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Sep 20 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Cybersecurity Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68ce9c33dbd9fb154ede141d?utm_campaign=1066&utm_source=git)** | Sparks, NV | On Site | Sep 19 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Business Insights Analyst II](https://jobright.ai/jobs/info/68b0eaffb47fb001d689668d?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Sep 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 – Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cda8b51ad6b16f0289d304?utm_campaign=1066&utm_source=git)** | Seattle 400 Dexter - WA | Hybrid | Sep 19 |
 | ↳ | **[Summer 2026 – Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cda8a3e23def7af55bdacc?utm_campaign=1066&utm_source=git)** | Princeton - NJ - US | Hybrid | Sep 19 |
 | ↳ | **[Summer 2026 – Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cda846e23def7af55bd9a5?utm_campaign=1066&utm_source=git)** | San Diego - CA - US | Hybrid | Sep 19 |
-| **[American Century Investments](https://www.americancentury.com)** | **[Municipal Data & Research Intern](https://jobright.ai/jobs/info/68cda801e23def7af55bd8ba?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Sep 19 |
-| **[Federal Reserve Bank of New York](http://newyorkfed.org/)** | **[2026 Summer Intern - Statistics Group - Sophomore](https://jobright.ai/jobs/info/68cf04a4846f0b04af67eb20?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 19 |
-| **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Biostatistics Internship](https://jobright.ai/jobs/info/68cda714e23def7af55bd5f0?utm_campaign=1066&utm_source=git)** | Princeton - NJ - US | Hybrid | Sep 19 |
-| ↳ | **[Summer 2026 - Biostatistics Internship](https://jobright.ai/jobs/info/68cda705e23def7af55bd5b7?utm_campaign=1066&utm_source=git)** | San Diego - CA - US | Hybrid | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
