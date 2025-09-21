@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Astronautics Corporation of America](https://astronautics.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68cfe93edbd9fb154edebbfb?utm_campaign=1066&utm_source=git)** | Oak Creek, WI | On Site | Sep 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Intern, Epidemiology, Infectious Diseases](https://jobright.ai/jobs/info/68cfe797846f0b04af686074?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Sep 21 |
 | ↳ | **[2026 Intern, Biostatistics and Programming](https://jobright.ai/jobs/info/68cfe045dbd9fb154edeb75a?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Sep 21 |
 | **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Summer 2026 - Data Analytics Intern](https://jobright.ai/jobs/info/68cfdc6fdbd9fb154edeb669?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Hybrid | Sep 21 |
@@ -129,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Clark National Accounts](https://www.clarknationalaccounts.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68cdea5ee23def7af55c03be?utm_campaign=1066&utm_source=git)** | Lititz, PA | Hybrid | Sep 19 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[College Intern/Summer 2026 - Healthcare IT/Data Analytics (Hybrid - Troy, MI) - Populance](https://jobright.ai/jobs/info/68cde89f1ad6b16f0289fcc1?utm_campaign=1066&utm_source=git)** | Troy, MI | Hybrid | Sep 19 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Clinical Info Analyst Inter (Term-Limited)](https://jobright.ai/jobs/info/68cde436e23def7af55bffbc?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Sep 19 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/68cdafe2e23def7af55be0c0?utm_campaign=1066&utm_source=git)** | Arden Hills, MN | Hybrid | Sep 19 |
 | **[FM Talent ](https://fmtalent.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68cdd0bbb2a74e1837edcabc?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Sep 19 |
 | **[Brookhaven National Laboratory](http://www.bnl.gov/)** | **[Postdoctoral Research Associate – Computational Imaging and Data Science](https://jobright.ai/jobs/info/68cdd014b2a74e1837edca3b?utm_campaign=1066&utm_source=git)** | Upton, NY | On Site | Sep 19 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Data Visualization & Management Intern - Minneapolis, MN, Denver, CO or Eau Claire, WI](https://jobright.ai/jobs/info/68cdcf14b2a74e1837edc928?utm_campaign=1066&utm_source=git)** | Denver, CO, 80205 | On Site | Sep 19 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 – Graduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cdb1e2e23def7af55be56b?utm_campaign=1066&utm_source=git)** | Seattle 400 Dexter - WA - US | Hybrid | Sep 19 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Undergraduate Year-Round -  Enterprise IT Tools & Services, Hybrid](https://jobright.ai/jobs/info/68cdb01fe23def7af55be12b?utm_campaign=1066&utm_source=git)** | Albuquerque, NM | Hybrid | Sep 19 |
 | **[Voloridge Health](http://www.voloridgehealth.com)** | **[Health Data Analyst Intern 2026](https://jobright.ai/jobs/info/68cdaf6ee23def7af55be00c?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Sep 19 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/68cdafe2e23def7af55be0c0?utm_campaign=1066&utm_source=git)** | Arden Hills, MN | Hybrid | Sep 19 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Biostatistics Internship](https://jobright.ai/jobs/info/68cdaa08b2a74e1837edabfb?utm_campaign=1066&utm_source=git)** | Madison - Giralda - NJ - US | Hybrid | Sep 19 |
 | ↳ | **[Summer 2026 - Biostatistics Internship](https://jobright.ai/jobs/info/68cda9d31ad6b16f0289d729?utm_campaign=1066&utm_source=git)** | Seattle 400 Dexter - WA - US | Hybrid | Sep 19 |
 | ↳ | **[Summer 2026 – Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cda95cb2a74e1837eda9fb?utm_campaign=1066&utm_source=git)** | Madison - Giralda - NJ - US | Hybrid | Sep 19 |
 | ↳ | **[Summer 2026 – Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cda8b51ad6b16f0289d304?utm_campaign=1066&utm_source=git)** | Seattle 400 Dexter - WA | Hybrid | Sep 19 |
 | ↳ | **[Summer 2026 – Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cda8a3e23def7af55bdacc?utm_campaign=1066&utm_source=git)** | Princeton - NJ - US | Hybrid | Sep 19 |
-| ↳ | **[Summer 2026 – Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cda846e23def7af55bd9a5?utm_campaign=1066&utm_source=git)** | San Diego - CA - US | Hybrid | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
