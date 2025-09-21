@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Cigna Group](https://www.cigna.com/)** | **[Pharmacy Analytics Summer Intern - Start Date: May 18, 2026](https://jobright.ai/jobs/info/68cf34ecfb49c96ca6ea6523?utm_campaign=1066&utm_source=git)** | Morris Plains, NJ | Hybrid | Sep 20 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Pharmacy Analytics Summer Intern - Start Date: May 18, 2026](https://jobright.ai/jobs/info/68cf11c1fb49c96ca6ea5957?utm_campaign=1066&utm_source=git)** | Morris Plains, NJ | Hybrid | Sep 20 |
 | ↳ | **[Pharmacy Analytics Summer Intern - Start Date: May 18, 2026](https://jobright.ai/jobs/info/68cf117a846f0b04af67f19f?utm_campaign=1066&utm_source=git)** | St. Louis, MO | Hybrid | Sep 20 |
 | **[Tractor Zoom](https://tractorzoom.com)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf110edbd9fb154ede4db1?utm_campaign=1066&utm_source=git)** | West Des Moines, IA | Hybrid | Sep 20 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Information Technology & Data Analytics Intern – Summer 2026](https://jobright.ai/jobs/info/68cb9975efdec76df36bf49d?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Sep 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Decision Science Graduate Associate, Spring 2026](https://jobright.ai/jobs/info/68ceb497fb49c96ca6ea2f43?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 20 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68ceb475fb49c96ca6ea2f29?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Sep 20 |
+| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2026](https://jobright.ai/jobs/info/68ca4aa406a34016008c638e?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Sep 20 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/68c63c767d0db41142736db7?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Sep 20 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Biostatistics Internship](https://jobright.ai/jobs/info/68cea8c2dbd9fb154ede1cb5?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Sep 20 |
 | ↳ | **[Summer 2026 - Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cea792fb49c96ca6ea2a3e?utm_campaign=1066&utm_source=git)** | Madison, NJ | Hybrid | Sep 20 |
@@ -81,8 +83,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 - Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cea5db846f0b04af67be9c?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Sep 20 |
 | ↳ | **[Summer 2026 - Biostatistics Internship](https://jobright.ai/jobs/info/68cea5c1846f0b04af67be6a?utm_campaign=1066&utm_source=git)** | Madison, NJ | Hybrid | Sep 20 |
 | ↳ | **[Summer 2026 - Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cea51f846f0b04af67bd5b?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Sep 20 |
+| **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Developer (Quant Researcher) – 2026 Grads](https://jobright.ai/jobs/info/6894ebfe73b3a600fe88358d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 20 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – Data Analyst Intern](https://jobright.ai/jobs/info/68ce8b02dbd9fb154ede08fa?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
 | ↳ | **[Summer 2026 Internship – Research Intern](https://jobright.ai/jobs/info/68ceaf7adbd9fb154ede229f?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
+| **[Medpace](http://www.medpace.com)** | **[Business Intelligence Internship - Spring 2026](https://jobright.ai/jobs/info/68cd0437e5ac5c0dc6d26624?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 20 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - OPIS Strategic Insights Team, Chemical Market Analytics](https://jobright.ai/jobs/info/68b24b53f4e41a61efd832ab?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Sep 20 |
+| **[DePaul University](http://www.depaul.edu)** | **[Post Doctoral Researcher – NSF SCHOLAR](https://jobright.ai/jobs/info/68971aaf73b3a600fe891fe3?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Sep 20 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Insights Analyst](https://jobright.ai/jobs/info/68ce7681dbd9fb154eddfddf?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Sep 20 |
 | **[Varda Space Industries](http://varda.com)** | **[Finance - Data Structures/ Analytics Internship - Spring 2026](https://jobright.ai/jobs/info/68cc7e527342c7623ae65b2e?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Sep 20 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Cybersecurity Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68ce9c33dbd9fb154ede141d?utm_campaign=1066&utm_source=git)** | Sparks, NV | On Site | Sep 19 |
@@ -115,9 +121,9 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Data Science Co-op](https://jobright.ai/jobs/info/68cdc30de23def7af55bf002?utm_campaign=1066&utm_source=git)** | Danvers, Massachusetts, United States of America | On Site | Sep 19 |
 | **[First Quality](http://firstquality.com/)** | **[INTERN OR CO-OP - Analytics Engineer](https://jobright.ai/jobs/info/68cdc24b1ad6b16f0289eaae?utm_campaign=1066&utm_source=git)** | US SC Anderson | On Site | Sep 19 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Energy Analyst (NY)](https://jobright.ai/jobs/info/68cdc1d5b2a74e1837edbf62?utm_campaign=1066&utm_source=git)** | Albany, NY | Hybrid | Sep 19 |
+| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Data Analyst Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/68b0bbb413563e782a9f8eb8?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Sep 19 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 – Graduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cdb40cb2a74e1837edb77e?utm_campaign=1066&utm_source=git)** | San Diego - CA - US | Hybrid | Sep 19 |
-| **[Jackson](https://www.jackson.com)** | **[2026 Intern - Distribution Intelligence](https://jobright.ai/jobs/info/68cda08eb2a74e1837eda107?utm_campaign=1066&utm_source=git)** | Nashville, TN | On Site | Sep 19 |
-| **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 – Graduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cdb2b4b2a74e1837edb433?utm_campaign=1066&utm_source=git)** | Princeton - NJ - US | Hybrid | Sep 19 |
+| ↳ | **[Summer 2026 – Graduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cdb2b4b2a74e1837edb433?utm_campaign=1066&utm_source=git)** | Princeton - NJ - US | Hybrid | Sep 19 |
 | ↳ | **[Summer 2026 – Graduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cdb2881ad6b16f0289df68?utm_campaign=1066&utm_source=git)** | Madison - Giralda - NJ - US | Hybrid | Sep 19 |
 | ↳ | **[Summer 2026 - PhD Data Science Internship](https://jobright.ai/jobs/info/68cdb25db2a74e1837edb371?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Sep 19 |
 | **[Voloridge Health](http://www.voloridgehealth.com)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/68cdb244b2a74e1837edb33c?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Sep 19 |
@@ -149,12 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/68cd949db2a74e1837ed8ffa?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Sep 19 |
 | **[UniFirst Corporation](https://unifirst.com/)** | **[Digital Analytics Intern](https://jobright.ai/jobs/info/68ce2927b2a74e1837edfed7?utm_campaign=1066&utm_source=git)** | Wilmington, MA | On Site | Sep 19 |
 | **[Vulcan Materials Company](https://www.vulcanmaterials.com/)** | **[IT Intern Summer 2026](https://jobright.ai/jobs/info/68cd8eb5b2a74e1837ed8cd4?utm_campaign=1066&utm_source=git)** | Alabama-Birmingham | On Site | Sep 19 |
+| **[Jackson](https://www.jackson.com)** | **[2026 Intern - Distribution Intelligence](https://jobright.ai/jobs/info/68cd8927e23def7af55bb428?utm_campaign=1066&utm_source=git)** | Nashville, TN | On Site | Sep 19 |
 | **[Universal Technical Resource Services, Inc. (UTRS)](https://www.utrs.com)** | **[Tableau Dashboard Design Inter](https://jobright.ai/jobs/info/68cea1d4fb49c96ca6ea24e2?utm_campaign=1066&utm_source=git)** | Marlton, NJ | On Site | Sep 19 |
-| **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/68cd797e1ad6b16f0289a118?utm_campaign=1066&utm_source=git)** | Dayton, OH | On Site | Sep 19 |
-| **[American Century Investments](https://www.americancentury.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/68cd7911e23def7af55ba420?utm_campaign=1066&utm_source=git)** | Kansas City, Missouri | On Site | Sep 19 |
-| **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/68cd787eb2a74e1837ed737f?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Sep 19 |
-| **[The Henry Ford](http://www.thehenryford.org/)** | **[Geographic Information Systems Analyst Intern](https://jobright.ai/jobs/info/68cecffefb49c96ca6ea3aaa?utm_campaign=1066&utm_source=git)** | Dearborn, MI | On Site | Sep 19 |
-| **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Quality Intern](https://jobright.ai/jobs/info/68ce8414846f0b04af67aa54?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 19 |
-| **[The Hartford](http://www.thehartford.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/68cd6d6bb2a74e1837ed6bb9?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Sep 19 |
-| ↳ | **[Intern, Data Science](https://jobright.ai/jobs/info/68cd6cd7e23def7af55b9a34?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
