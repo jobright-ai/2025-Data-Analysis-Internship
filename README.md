@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Almara](https://almara.tech/)** | **[Clinical Informatics Intern](https://jobright.ai/jobs/info/68d031a0fb49c96ca6eae973?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Sep 21 |
 | **[Astronautics Corporation of America](https://astronautics.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68cfe93edbd9fb154edebbfb?utm_campaign=1066&utm_source=git)** | Oak Creek, WI | On Site | Sep 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Intern, Epidemiology, Infectious Diseases](https://jobright.ai/jobs/info/68cfe797846f0b04af686074?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Sep 21 |
 | ↳ | **[2026 Intern, Biostatistics and Programming](https://jobright.ai/jobs/info/68cfe045dbd9fb154edeb75a?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Sep 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 - Biostatistics Internship](https://jobright.ai/jobs/info/68cda9d31ad6b16f0289d729?utm_campaign=1066&utm_source=git)** | Seattle 400 Dexter - WA - US | Hybrid | Sep 19 |
 | ↳ | **[Summer 2026 – Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cda95cb2a74e1837eda9fb?utm_campaign=1066&utm_source=git)** | Madison - Giralda - NJ - US | Hybrid | Sep 19 |
 | ↳ | **[Summer 2026 – Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cda8b51ad6b16f0289d304?utm_campaign=1066&utm_source=git)** | Seattle 400 Dexter - WA | Hybrid | Sep 19 |
-| ↳ | **[Summer 2026 – Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cda8a3e23def7af55bdacc?utm_campaign=1066&utm_source=git)** | Princeton - NJ - US | Hybrid | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
