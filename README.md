@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flexon Technologies Inc.](https://www.flexontechnologies.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68cf8e32dbd9fb154ede8c79?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | On Site | Sep 20 |
+| **[Optimum Media](https://a4alticeadvertising.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/68cf86b1846f0b04af682b39?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 20 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Pharmacy Analytics Summer Intern - Start Date: May 18, 2026](https://jobright.ai/jobs/info/68cf34ecfb49c96ca6ea6523?utm_campaign=1066&utm_source=git)** | Morris Plains, NJ | Hybrid | Sep 20 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Pharmacy Analytics Summer Intern - Start Date: May 18, 2026](https://jobright.ai/jobs/info/68cf11c1fb49c96ca6ea5957?utm_campaign=1066&utm_source=git)** | Morris Plains, NJ | Hybrid | Sep 20 |
 | ↳ | **[Pharmacy Analytics Summer Intern - Start Date: May 18, 2026](https://jobright.ai/jobs/info/68cf117a846f0b04af67f19f?utm_campaign=1066&utm_source=git)** | St. Louis, MO | Hybrid | Sep 20 |
@@ -86,6 +88,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 - Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cea51f846f0b04af67bd5b?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Sep 20 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Health Data Analytics](https://jobright.ai/jobs/info/68b2856d1ade4306aa637bd7?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Sep 20 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Developer (Quant Researcher) – 2026 Grads](https://jobright.ai/jobs/info/6894ebfe73b3a600fe88358d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 20 |
+| **[fairlife, LLC](http://www.fairlife.com)** | **[Data Science & AI Enablement Intern](https://jobright.ai/jobs/info/68cdab20b2a74e1837edae98?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Sep 20 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – Data Analyst Intern](https://jobright.ai/jobs/info/68ce8b02dbd9fb154ede08fa?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
 | ↳ | **[Summer 2026 Internship – Research Intern](https://jobright.ai/jobs/info/68ceaf7adbd9fb154ede229f?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
 | **[Medpace](http://www.medpace.com)** | **[Business Intelligence Internship - Spring 2026](https://jobright.ai/jobs/info/68cd0437e5ac5c0dc6d26624?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 20 |
@@ -107,11 +110,9 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[Data Science Co-op](https://jobright.ai/jobs/info/68cec2b2fb49c96ca6ea343c?utm_campaign=1066&utm_source=git)** | Danvers, MA | On Site | Sep 19 |
 | **[Relativity Space](http://relativityspace.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68cdfe67e23def7af55c0ef5?utm_campaign=1066&utm_source=git)** | Long Beach, California | On Site | Sep 19 |
 | **[ServiceNow](http://www.servicenow.com)** | **[ServiceNow Security Organization (SSO) - Data Informatics Analyst Intern](https://jobright.ai/jobs/info/68cdfa9de23def7af55c0da9?utm_campaign=1066&utm_source=git)** |  4810 Eastgate Mall, San Diego, CALIFORNIA, United States | On Site | Sep 19 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/68cdafe2e23def7af55be0c0?utm_campaign=1066&utm_source=git)** | Arden Hills, MN | Hybrid | Sep 19 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Energy Analyst (NJ)](https://jobright.ai/jobs/info/68cdf5951ad6b16f028a0381?utm_campaign=1066&utm_source=git)** | Trenton, NJ | On Site | Sep 19 |
 | ↳ | **[2026 Summer Intern, Energy Analyst (MA)](https://jobright.ai/jobs/info/68cdf49db2a74e1837edd9ef?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 19 |
 | **[Milliken & Company](http://www.milliken.com/en-us/)** | **[Encapsys Business Data Analyst Internship](https://jobright.ai/jobs/info/68cdf441b2a74e1837edd98f?utm_campaign=1066&utm_source=git)** | Appleton, WI | On Site | Sep 19 |
-| **[Almara](https://almara.tech/)** | **[Clinical Informatics Intern](https://jobright.ai/jobs/info/68cea696fb49c96ca6ea275a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Sep 19 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Quantitative Research Internship - Master's: Summer 2026 - Susquehanna International Group](https://jobright.ai/jobs/info/68cf4823fb49c96ca6ea6b52?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 19 |
 | **[Dart Container](https://www.dartcontainer.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68cdf049b2a74e1837edd8a6?utm_campaign=1066&utm_source=git)** | Mason, MI | On Site | Sep 19 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Energy Analyst (NY)](https://jobright.ai/jobs/info/68cdef241ad6b16f028a01d6?utm_campaign=1066&utm_source=git)** | Albany, NY | On Site | Sep 19 |
@@ -138,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 – Graduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cdb1e2e23def7af55be56b?utm_campaign=1066&utm_source=git)** | Seattle 400 Dexter - WA - US | Hybrid | Sep 19 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Undergraduate Year-Round -  Enterprise IT Tools & Services, Hybrid](https://jobright.ai/jobs/info/68cdb01fe23def7af55be12b?utm_campaign=1066&utm_source=git)** | Albuquerque, NM | Hybrid | Sep 19 |
 | **[Voloridge Health](http://www.voloridgehealth.com)** | **[Health Data Analyst Intern 2026](https://jobright.ai/jobs/info/68cdaf6ee23def7af55be00c?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Sep 19 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/68cdafe2e23def7af55be0c0?utm_campaign=1066&utm_source=git)** | Arden Hills, MN | Hybrid | Sep 19 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Biostatistics Internship](https://jobright.ai/jobs/info/68cdaa08b2a74e1837edabfb?utm_campaign=1066&utm_source=git)** | Madison - Giralda - NJ - US | Hybrid | Sep 19 |
 | ↳ | **[Summer 2026 - Biostatistics Internship](https://jobright.ai/jobs/info/68cda9d31ad6b16f0289d729?utm_campaign=1066&utm_source=git)** | Seattle 400 Dexter - WA - US | Hybrid | Sep 19 |
 | ↳ | **[Summer 2026 – Undergraduate Statistical Programming Internship](https://jobright.ai/jobs/info/68cda95cb2a74e1837eda9fb?utm_campaign=1066&utm_source=git)** | Madison - Giralda - NJ - US | Hybrid | Sep 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Data Analyst Intern 2026](https://jobright.ai/jobs/info/68cd9faf1ad6b16f0289c93f?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Sep 19 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Pharmacometrics Intern (PhD)](https://jobright.ai/jobs/info/68cd9f9fb2a74e1837ed9f13?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Sep 19 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quant Trading Intern 2026](https://jobright.ai/jobs/info/68cd9dfae23def7af55bcd43?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Sep 19 |
-| **[The Hartford](http://www.thehartford.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/68cd9db4e23def7af55bccc7?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Sep 19 |
-| ↳ | **[Intern, Data Science](https://jobright.ai/jobs/info/68cd9d2fb2a74e1837ed9ab5?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
