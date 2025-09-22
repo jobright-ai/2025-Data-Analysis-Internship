@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Digital Data Science Analyst Intern](https://jobright.ai/jobs/info/68d0c4010ebfb22f38aa8757?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Sep 21 |
+| **[Live Oak Bank](https://www.liveoakbank.com)** | **[Summer 2026 Data Science Intern](https://jobright.ai/jobs/info/68d0d15817bd5d3415aa6b7f?utm_campaign=1066&utm_source=git)** | Wilmington, NC | On Site | Sep 21 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Data Analyst](https://jobright.ai/jobs/info/68d0495edbd9fb154edee3ea?utm_campaign=1066&utm_source=git)** | Novi, MI | Hybrid | Sep 21 |
 | **[Redstone Strategy Group](http://redstonestrategy.com)** | **[Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/68d05e86846f0b04af68895e?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Sep 21 |
 | **[Smarty](https://www.smarty.com)** | **[Intern - GIS Data Sourcing](https://jobright.ai/jobs/info/68d05a91fb49c96ca6eaf03e?utm_campaign=1066&utm_source=git)** | Orem, UT | On Site | Sep 21 |
@@ -72,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6878882fae2f413e4a5c3b21?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Sep 21 |
 | **[Flexon Technologies Inc.](https://www.flexontechnologies.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68cf8e32dbd9fb154ede8c79?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | On Site | Sep 20 |
 | **[Optimum Media](https://a4alticeadvertising.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/68cf86b1846f0b04af682b39?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 20 |
+| **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689adfcd83d13d1f5b69d54b?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Sep 20 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Research Intern](https://jobright.ai/jobs/info/68cd936d1ad6b16f0289b959?utm_campaign=1066&utm_source=git)** | Florida, United States | On Site | Sep 20 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Pharmacy Analytics Summer Intern - Start Date: May 18, 2026](https://jobright.ai/jobs/info/68cf34ecfb49c96ca6ea6523?utm_campaign=1066&utm_source=git)** | Morris Plains, NJ | Hybrid | Sep 20 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68a7e146d627244576e2f40c?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Sep 20 |
@@ -147,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Clark National Accounts](https://www.clarknationalaccounts.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68cdea5ee23def7af55c03be?utm_campaign=1066&utm_source=git)** | Lititz, PA | Hybrid | Sep 19 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[College Intern/Summer 2026 - Healthcare IT/Data Analytics (Hybrid - Troy, MI) - Populance](https://jobright.ai/jobs/info/68cde89f1ad6b16f0289fcc1?utm_campaign=1066&utm_source=git)** | Troy, MI | Hybrid | Sep 19 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Clinical Info Analyst Inter (Term-Limited)](https://jobright.ai/jobs/info/68cde436e23def7af55bffbc?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Sep 19 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/68cdafe2e23def7af55be0c0?utm_campaign=1066&utm_source=git)** | Arden Hills, MN | Hybrid | Sep 19 |
 | **[FM Talent ](https://fmtalent.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68cdd0bbb2a74e1837edcabc?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Sep 19 |
 | **[Brookhaven National Laboratory](http://www.bnl.gov/)** | **[Postdoctoral Research Associate – Computational Imaging and Data Science](https://jobright.ai/jobs/info/68cdd014b2a74e1837edca3b?utm_campaign=1066&utm_source=git)** | Upton, NY | On Site | Sep 19 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Data Visualization & Management Intern - Minneapolis, MN, Denver, CO or Eau Claire, WI](https://jobright.ai/jobs/info/68cdcf14b2a74e1837edc928?utm_campaign=1066&utm_source=git)** | Denver, CO, 80205 | On Site | Sep 19 |
