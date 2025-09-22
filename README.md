@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/68d16d45cece431f8b583ae9?utm_campaign=1066&utm_source=git)** | St. Louis, MO | Hybrid | Sep 22 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Digital Data Science Analyst Intern](https://jobright.ai/jobs/info/68d168228c62e63bc7fcafe2?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Sep 22 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Research Internships](https://jobright.ai/jobs/info/68d161d2fa731f61692de704?utm_campaign=1066&utm_source=git)** | St. Louis, MO | On Site | Sep 22 |
+| **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68d16006cece431f8b58332d?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 22 |
+| **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/68d15fa48c62e63bc7fcab6e?utm_campaign=1066&utm_source=git)** | Lansing, MI | On Site | Sep 22 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d14bafcece431f8b582a44?utm_campaign=1066&utm_source=git)** | VA, Manassas | On Site | Sep 22 |
 | ↳ | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d14b428c62e63bc7fca192?utm_campaign=1066&utm_source=git)** | US-VA-Manassas | On Site | Sep 22 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Pharmacometrics Intern (PhD)](https://jobright.ai/jobs/info/68d13549cece431f8b5821e6?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Sep 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Relativity Space](http://relativityspace.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68cdfe67e23def7af55c0ef5?utm_campaign=1066&utm_source=git)** | Long Beach, California | On Site | Sep 19 |
 | **[ServiceNow](http://www.servicenow.com)** | **[ServiceNow Security Organization (SSO) - Data Informatics Analyst Intern](https://jobright.ai/jobs/info/68cdfa9de23def7af55c0da9?utm_campaign=1066&utm_source=git)** |  4810 Eastgate Mall, San Diego, CALIFORNIA, United States | On Site | Sep 19 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Energy Analyst (NJ)](https://jobright.ai/jobs/info/68cdf5951ad6b16f028a0381?utm_campaign=1066&utm_source=git)** | Trenton, NJ | On Site | Sep 19 |
-| ↳ | **[2026 Summer Intern, Energy Analyst (MA)](https://jobright.ai/jobs/info/68cdf49db2a74e1837edd9ef?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 19 |
-| **[Milliken & Company](http://www.milliken.com/en-us/)** | **[Encapsys Business Data Analyst Internship](https://jobright.ai/jobs/info/68cdf441b2a74e1837edd98f?utm_campaign=1066&utm_source=git)** | Appleton, WI | On Site | Sep 19 |
-| **[Dart Container](https://www.dartcontainer.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/68cdf049b2a74e1837edd8a6?utm_campaign=1066&utm_source=git)** | Mason, MI | On Site | Sep 19 |
-| **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Energy Analyst (NY)](https://jobright.ai/jobs/info/68cdef241ad6b16f028a01d6?utm_campaign=1066&utm_source=git)** | Albany, NY | On Site | Sep 19 |
-| **[Clark National Accounts](https://www.clarknationalaccounts.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68cdea5ee23def7af55c03be?utm_campaign=1066&utm_source=git)** | Lititz, PA | Hybrid | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
