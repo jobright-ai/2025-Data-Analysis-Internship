@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tulane University School of Medicine](https://medicine.tulane.edu)** | **[Postdoctoral Fellow, Computer Science  >>>](https://jobright.ai/jobs/info/68d10aea7727df7d5a8508a5?utm_campaign=1066&utm_source=git)** | New Orleans, LA | On Site | Sep 22 |
 | **[Milliken Floors Europe](https://floors.milliken.com/floors/en-gb/home)** | **[Encapsys Business Data Analyst Internship](https://jobright.ai/jobs/info/68d0ecf9f1976376178f0b89?utm_campaign=1066&utm_source=git)** | Appleton, WI | On Site | Sep 21 |
 | **[Live Oak Bank](https://www.liveoakbank.com)** | **[Summer 2026 Data Science Intern](https://jobright.ai/jobs/info/68d0d15817bd5d3415aa6b7f?utm_campaign=1066&utm_source=git)** | Wilmington, NC | On Site | Sep 21 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, Data Analyst](https://jobright.ai/jobs/info/68d0495edbd9fb154edee3ea?utm_campaign=1066&utm_source=git)** | Novi, MI | Hybrid | Sep 21 |
 | **[Redstone Strategy Group](http://redstonestrategy.com)** | **[Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/68d05e86846f0b04af68895e?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Sep 21 |
 | **[Smarty](https://www.smarty.com)** | **[Intern - GIS Data Sourcing](https://jobright.ai/jobs/info/68d05a91fb49c96ca6eaf03e?utm_campaign=1066&utm_source=git)** | Orem, UT | On Site | Sep 21 |
 | **[Mercer Company](https://mercer-company.com/)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/68d0558a846f0b04af68881b?utm_campaign=1066&utm_source=git)** | Raleigh - Sugar Bush | Hybrid | Sep 21 |
@@ -72,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Intern, Biostatistics and Programming](https://jobright.ai/jobs/info/68cfe045dbd9fb154edeb75a?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Sep 21 |
 | **[Ruan Transportation Management Systems](https://www.ruan.com/)** | **[Summer 2026 - Data Analytics Intern](https://jobright.ai/jobs/info/68cfdc6fdbd9fb154edeb669?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Hybrid | Sep 21 |
 | **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6878882fae2f413e4a5c3b21?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Sep 21 |
+| **[Endeavor Health](https://www.endeavorhealth.org)** | **[Summer Research Intern](https://jobright.ai/jobs/info/685c360b9c4281af5973a4c2?utm_campaign=1066&utm_source=git)** | Arlington Heights, IL | On Site | Sep 20 |
 | **[Flexon Technologies Inc.](https://www.flexontechnologies.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68cf8e32dbd9fb154ede8c79?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | On Site | Sep 20 |
 | **[Optimum Media](https://a4alticeadvertising.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/68cf86b1846f0b04af682b39?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 20 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – Risk & Research Proposition, Business and Market Analyst Intern](https://jobright.ai/jobs/info/68ca62dd46caff4db51fea43?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Data Visualization & Management Intern - Minneapolis, MN, Denver, CO or Eau Claire, WI](https://jobright.ai/jobs/info/68cdcf14b2a74e1837edc928?utm_campaign=1066&utm_source=git)** | Denver, CO, 80205 | On Site | Sep 19 |
 | ↳ | **[Data Visualization & Management Intern - Minneapolis, MN, Denver, CO or Eau Claire, WI](https://jobright.ai/jobs/info/68cdcf06e23def7af55bf739?utm_campaign=1066&utm_source=git)** | 401 Nicollet Mall | On Site | Sep 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Decision Science Undergraduate Intern, Spring 2026](https://jobright.ai/jobs/info/68cdcee61ad6b16f0289f2c4?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Sep 19 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Data Visualization & Management Intern - Minneapolis, MN, Denver, CO or Eau Claire, WI](https://jobright.ai/jobs/info/68cdce4b1ad6b16f0289f1b3?utm_campaign=1066&utm_source=git)** | Eau Claire, WI, 54702 | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
