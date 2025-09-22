@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Digital Data Science Analyst Intern](https://jobright.ai/jobs/info/68d0c4010ebfb22f38aa8757?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Sep 21 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Data Analyst](https://jobright.ai/jobs/info/68d0495edbd9fb154edee3ea?utm_campaign=1066&utm_source=git)** | Novi, MI | Hybrid | Sep 21 |
 | **[Redstone Strategy Group](http://redstonestrategy.com)** | **[Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/68d05e86846f0b04af68895e?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Sep 21 |
 | **[Smarty](https://www.smarty.com)** | **[Intern - GIS Data Sourcing](https://jobright.ai/jobs/info/68d05a91fb49c96ca6eaf03e?utm_campaign=1066&utm_source=git)** | Orem, UT | On Site | Sep 21 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6878882fae2f413e4a5c3b21?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Sep 21 |
 | **[Flexon Technologies Inc.](https://www.flexontechnologies.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68cf8e32dbd9fb154ede8c79?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | On Site | Sep 20 |
 | **[Optimum Media](https://a4alticeadvertising.com/)** | **[Data Analyst](https://jobright.ai/jobs/info/68cf86b1846f0b04af682b39?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 20 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Research Intern](https://jobright.ai/jobs/info/68cd936d1ad6b16f0289b959?utm_campaign=1066&utm_source=git)** | Florida, United States | On Site | Sep 20 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Pharmacy Analytics Summer Intern - Start Date: May 18, 2026](https://jobright.ai/jobs/info/68cf34ecfb49c96ca6ea6523?utm_campaign=1066&utm_source=git)** | Morris Plains, NJ | Hybrid | Sep 20 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68a7e146d627244576e2f40c?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Sep 20 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Developer Analyst Intern (Data Science) - Summer 2026](https://jobright.ai/jobs/info/68c64de67d0db411427382a0?utm_campaign=1066&utm_source=git)** | Northbrook, IL | On Site | Sep 20 |
@@ -136,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[Data Science Co-op](https://jobright.ai/jobs/info/68cec2b2fb49c96ca6ea343c?utm_campaign=1066&utm_source=git)** | Danvers, MA | On Site | Sep 19 |
 | **[Relativity Space](http://relativityspace.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68cdfe67e23def7af55c0ef5?utm_campaign=1066&utm_source=git)** | Long Beach, California | On Site | Sep 19 |
 | **[ServiceNow](http://www.servicenow.com)** | **[ServiceNow Security Organization (SSO) - Data Informatics Analyst Intern](https://jobright.ai/jobs/info/68cdfa9de23def7af55c0da9?utm_campaign=1066&utm_source=git)** |  4810 Eastgate Mall, San Diego, CALIFORNIA, United States | On Site | Sep 19 |
-| **[The Hartford](http://www.thehartford.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/68d0a478dbd9fb154edeed5a?utm_campaign=1066&utm_source=git)** | Hartford, CT | On Site | Sep 19 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Energy Analyst (NJ)](https://jobright.ai/jobs/info/68cdf5951ad6b16f028a0381?utm_campaign=1066&utm_source=git)** | Trenton, NJ | On Site | Sep 19 |
 | ↳ | **[2026 Summer Intern, Energy Analyst (MA)](https://jobright.ai/jobs/info/68cdf49db2a74e1837edd9ef?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 19 |
 | **[Milliken & Company](http://www.milliken.com/en-us/)** | **[Encapsys Business Data Analyst Internship](https://jobright.ai/jobs/info/68cdf441b2a74e1837edd98f?utm_campaign=1066&utm_source=git)** | Appleton, WI | On Site | Sep 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Energy Analyst (MA)](https://jobright.ai/jobs/info/68cdc6401ad6b16f0289eded?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Sep 19 |
 | ↳ | **[2026 Summer Intern, Energy Analyst (NJ)](https://jobright.ai/jobs/info/68cdc36ce23def7af55bf111?utm_campaign=1066&utm_source=git)** | Trenton, NJ | Hybrid | Sep 19 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Data Science Co-op](https://jobright.ai/jobs/info/68cdc30de23def7af55bf002?utm_campaign=1066&utm_source=git)** | Danvers, Massachusetts, United States of America | On Site | Sep 19 |
-| **[First Quality](http://firstquality.com/)** | **[INTERN OR CO-OP - Analytics Engineer](https://jobright.ai/jobs/info/68cdc24b1ad6b16f0289eaae?utm_campaign=1066&utm_source=git)** | US SC Anderson | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
