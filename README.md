@@ -136,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[Data Science Co-op](https://jobright.ai/jobs/info/68cec2b2fb49c96ca6ea343c?utm_campaign=1066&utm_source=git)** | Danvers, MA | On Site | Sep 19 |
 | **[Relativity Space](http://relativityspace.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68cdfe67e23def7af55c0ef5?utm_campaign=1066&utm_source=git)** | Long Beach, California | On Site | Sep 19 |
 | **[ServiceNow](http://www.servicenow.com)** | **[ServiceNow Security Organization (SSO) - Data Informatics Analyst Intern](https://jobright.ai/jobs/info/68cdfa9de23def7af55c0da9?utm_campaign=1066&utm_source=git)** |  4810 Eastgate Mall, San Diego, CALIFORNIA, United States | On Site | Sep 19 |
+| **[The Hartford](http://www.thehartford.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/68d0a478dbd9fb154edeed5a?utm_campaign=1066&utm_source=git)** | Hartford, CT | On Site | Sep 19 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Energy Analyst (NJ)](https://jobright.ai/jobs/info/68cdf5951ad6b16f028a0381?utm_campaign=1066&utm_source=git)** | Trenton, NJ | On Site | Sep 19 |
 | ↳ | **[2026 Summer Intern, Energy Analyst (MA)](https://jobright.ai/jobs/info/68cdf49db2a74e1837edd9ef?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 19 |
 | **[Milliken & Company](http://www.milliken.com/en-us/)** | **[Encapsys Business Data Analyst Internship](https://jobright.ai/jobs/info/68cdf441b2a74e1837edd98f?utm_campaign=1066&utm_source=git)** | Appleton, WI | On Site | Sep 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern, Energy Analyst (NJ)](https://jobright.ai/jobs/info/68cdc36ce23def7af55bf111?utm_campaign=1066&utm_source=git)** | Trenton, NJ | Hybrid | Sep 19 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Data Science Co-op](https://jobright.ai/jobs/info/68cdc30de23def7af55bf002?utm_campaign=1066&utm_source=git)** | Danvers, Massachusetts, United States of America | On Site | Sep 19 |
 | **[First Quality](http://firstquality.com/)** | **[INTERN OR CO-OP - Analytics Engineer](https://jobright.ai/jobs/info/68cdc24b1ad6b16f0289eaae?utm_campaign=1066&utm_source=git)** | US SC Anderson | On Site | Sep 19 |
-| **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Energy Analyst (NY)](https://jobright.ai/jobs/info/68cdc1d5b2a74e1837edbf62?utm_campaign=1066&utm_source=git)** | Albany, NY | Hybrid | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
