@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Constellation](https://www.constellationenergy.com/)** | **[Commercial Quantitative Analytics Intern - Baltimore, MD](https://jobright.ai/jobs/info/68d1fc53a54edb3bf3e186c5?utm_campaign=1066&utm_source=git)** | Baltimore, MD | Hybrid | Sep 22 |
+| **[John Deere](https://www.deere.com)** | **[Part-Time Student - Data Analytics - Davenport, IA](https://jobright.ai/jobs/info/68d1fa4ea54edb3bf3e183d6?utm_campaign=1066&utm_source=git)** | Davenport, IA | Hybrid | Sep 22 |
+| **[Wellabe](https://www.wellabe.com)** | **[Data-Reporting Analytics Summer 2026 Internship- Hybrid -Des Moines, Iowa](https://jobright.ai/jobs/info/68d1f57ba54edb3bf3e181da?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Hybrid | Sep 22 |
+| **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Data & Analytics](https://jobright.ai/jobs/info/68d1ed9ca54edb3bf3e179b2?utm_campaign=1066&utm_source=git)** | Fort Mill, SC | Hybrid | Sep 22 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[2025 - Spring Intern - MAGNet Program @ University of Georgia](https://jobright.ai/jobs/info/68d1ed88a54edb3bf3e1799d?utm_campaign=1066&utm_source=git)** | Athens, GA | On Site | Sep 22 |
+| ↳ | **[2026 Spring Intern - MAGNet Program @ Arizona State University](https://jobright.ai/jobs/info/68d1ed59a54edb3bf3e17962?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Sep 22 |
+| **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Data & Analytics](https://jobright.ai/jobs/info/68d1e72ea54edb3bf3e17636?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Sep 22 |
+| **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Energy Analyst (GA)](https://jobright.ai/jobs/info/68d1e4f28c62e63bc7fd0c54?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 22 |
 | **[Clarios](https://www.clarios.com/)** | **[Data Scientist Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1dfe78c62e63bc7fd07d6?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 22 |
 | **[State Street](http://www.statestreet.com)** | **[Data Governance Analyst, CO-OP](https://jobright.ai/jobs/info/68d1df578c62e63bc7fd0707?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Sep 22 |
 | ↳ | **[Enterprise Reference Data Analyst, CO-OP](https://jobright.ai/jobs/info/68d1ddbf8c62e63bc7fd048d?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Sep 22 |
@@ -95,7 +103,7 @@ For a complete list, click the following sortable link below:
 | **[VanEck](http://www.vaneck.com/)** | **[Business Intelligence Summer Intern](https://jobright.ai/jobs/info/68d18bc78c62e63bc7fcc8c0?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 22 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Intern IT Data Analytics](https://jobright.ai/jobs/info/68d18b60fa731f61692e0443?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Sep 22 |
 | **[IBM](http://www.ibm.com)** | **[2026 Masters or PhD Intern – Marketing Data Science & Data Analytics](https://jobright.ai/jobs/info/68d18ad78c62e63bc7fcc798?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Sep 22 |
-| **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- Claims (Data)](https://jobright.ai/jobs/info/68d1864e8c62e63bc7fcc405?utm_campaign=1066&utm_source=git)** | Iowa- Work From Home | Remote | Sep 22 |
+| **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- Claims (Data)](https://jobright.ai/jobs/info/68d18661fa731f61692dfe12?utm_campaign=1066&utm_source=git)** | Iowa- Work From Home | Remote | Sep 22 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Quantitative Research Undergraduate Intern](https://jobright.ai/jobs/info/68d185488c62e63bc7fcc371?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 22 |
 | ↳ | **[Quantitative Research Intern- Advanced Strategies and Research Team](https://jobright.ai/jobs/info/68d1a1e517554c2d9eeddbf1?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 22 |
 | ↳ | **[Quantitative Research Intern- Data Science ASR Team](https://jobright.ai/jobs/info/68d1acbba54edb3bf3e14dcd?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 22 |
@@ -105,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/68d16d45cece431f8b583ae9?utm_campaign=1066&utm_source=git)** | St. Louis, MO | Hybrid | Sep 22 |
 | ↳ | **[2026 Research Internships](https://jobright.ai/jobs/info/68d161d2fa731f61692de704?utm_campaign=1066&utm_source=git)** | St. Louis, MO | On Site | Sep 22 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68d16006cece431f8b58332d?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 22 |
+| **[DePaul University](http://www.depaul.edu)** | **[Post Doctoral Researcher – NSF SCHOLAR](https://jobright.ai/jobs/info/68971aaf73b3a600fe891fe3?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Sep 22 |
 | **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/68d15fa48c62e63bc7fcab6e?utm_campaign=1066&utm_source=git)** | Lansing, MI | On Site | Sep 22 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d14bafcece431f8b582a44?utm_campaign=1066&utm_source=git)** | VA, Manassas | On Site | Sep 22 |
 | ↳ | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d14b428c62e63bc7fca192?utm_campaign=1066&utm_source=git)** | US-VA-Manassas | On Site | Sep 22 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Manhattan Edit Workshop](https://www.mewshop.com/)** | **[Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf105d846f0b04af67f027?utm_campaign=1066&utm_source=git)** | Omaha, NE | Hybrid | Sep 20 |
 | **[Tractor Zoom](https://tractorzoom.com)** | **[Data Scientist Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf1029846f0b04af67efdf?utm_campaign=1066&utm_source=git)** | West Des Moines, IA | Hybrid | Sep 20 |
 | **[Woodwell Climate Research Center](https://www.woodwellclimate.org)** | **[Geospatial Data Mapping Apprentice (Temporary)](https://jobright.ai/jobs/info/68cf0bcfdbd9fb154ede49e4?utm_campaign=1066&utm_source=git)** | Falmouth, MA | Hybrid | Sep 20 |
-| **[PIMCO](http://www.pimco.com)** | **[2026 Summer Intern – PhD Quant Research Analyst, Client Solutions & Analytics](https://jobright.ai/jobs/info/68b243f71ade4306aa63535f?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Sep 20 |
-| **[Sanofi](https://www.sanofi.com)** | **[Winter, Spring 2026 Co-op-Intern– Data Science and Digital Transformation](https://jobright.ai/jobs/info/689722bf8c6d6b4426785672?utm_campaign=1066&utm_source=git)** | Framingham, MA | On Site | Sep 20 |
-| **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Fall 2025](https://jobright.ai/jobs/info/68cd53c0e23def7af55b81cf?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 20 |
-| **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Clinical Informaticist – General Internal Medicine](https://jobright.ai/jobs/info/68c62de1db52c07d28844c62?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Sep 20 |
-| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2026 Intern - Data Analytics](https://jobright.ai/jobs/info/68ce54a6846f0b04af67894d?utm_campaign=1066&utm_source=git)** | Detroit, MI | On Site | Sep 20 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Decision Science Undergraduate Intern, Spring 2026](https://jobright.ai/jobs/info/68cec6e9846f0b04af67cdf6?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 20 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Scientist, Customer and Competitive Market Intelligence](https://jobright.ai/jobs/info/68cc30b716d00d2beeb1b4b6?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | Hybrid | Sep 20 |
-| **[Henkel](http://www.henkel.com)** | **[Information Technology & Data Analytics Intern – Summer 2026](https://jobright.ai/jobs/info/68cb9975efdec76df36bf49d?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Sep 20 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Decision Science Graduate Associate, Spring 2026](https://jobright.ai/jobs/info/68ceb497fb49c96ca6ea2f43?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
