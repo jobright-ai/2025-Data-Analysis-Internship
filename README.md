@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Knoxville Utilities Board](https://www.kub.org/)** | **[Data Analytics & Process Support Student](https://jobright.ai/jobs/info/68d24acba54edb3bf3e1d06f?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Sep 23 |
 | **[John Hancock](http://www.johnhancock.com)** | **[Summer Intern/Co-op 2026 - Data Science](https://jobright.ai/jobs/info/68d1fda38c62e63bc7fd1f1f?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Sep 22 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Commercial Quantitative Analytics Intern - Baltimore, MD](https://jobright.ai/jobs/info/68d1fcf0a54edb3bf3e18824?utm_campaign=1066&utm_source=git)** | Baltimore, Maryland | On Site | Sep 22 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Co-op: Engineering, Data Analyst (Spring 2026)](https://jobright.ai/jobs/info/68d1fceea54edb3bf3e18821?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Sep 22 |
@@ -70,7 +71,8 @@ For a complete list, click the following sortable link below:
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Energy Analyst (GA)](https://jobright.ai/jobs/info/68d1e4f28c62e63bc7fd0c54?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 22 |
 | **[Clarios](https://www.clarios.com/)** | **[Data Scientist Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1dfe78c62e63bc7fd07d6?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 22 |
 | **[State Street](http://www.statestreet.com)** | **[Data Governance Analyst, CO-OP](https://jobright.ai/jobs/info/68d1df578c62e63bc7fd0707?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Sep 22 |
-| ↳ | **[Enterprise Reference Data Analyst, CO-OP](https://jobright.ai/jobs/info/68d1ddbf8c62e63bc7fd048d?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Sep 22 |
+| **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Energy Analyst (MD)](https://jobright.ai/jobs/info/68d24ca517554c2d9eee6a20?utm_campaign=1066&utm_source=git)** | Columbia, MD | Hybrid | Sep 22 |
+| **[State Street](http://www.statestreet.com)** | **[Enterprise Reference Data Analyst, CO-OP](https://jobright.ai/jobs/info/68d1ddbf8c62e63bc7fd048d?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Sep 22 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - PhD Quant Research Analyst, Client Solutions & Analytics - PIMCO](https://jobright.ai/jobs/info/68d1dae0a54edb3bf3e16af9?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Sep 22 |
 | **[Clarios](https://www.clarios.com/)** | **[Data Insights & Visualization Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1dada17554c2d9eee02d2?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 22 |
 | **[State Street](http://www.statestreet.com)** | **[Data Governance Analyst, CO-OP](https://jobright.ai/jobs/info/68d1dac1a54edb3bf3e16ad1?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Sep 22 |
@@ -107,19 +109,18 @@ For a complete list, click the following sortable link below:
 | **[VanEck](http://www.vaneck.com/)** | **[Business Intelligence Summer Intern](https://jobright.ai/jobs/info/68d18bc78c62e63bc7fcc8c0?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 22 |
 | **[Porsche Cars North America](http://www.porscheusa.com)** | **[Intern IT Data Analytics](https://jobright.ai/jobs/info/68d18b60fa731f61692e0443?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Sep 22 |
 | **[IBM](http://www.ibm.com)** | **[2026 Masters or PhD Intern – Marketing Data Science & Data Analytics](https://jobright.ai/jobs/info/68d18ad78c62e63bc7fcc798?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Sep 22 |
-| **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide](https://jobright.ai/jobs/info/68d18675fa731f61692dfe3e?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Sep 22 |
 | **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- Claims (Data)](https://jobright.ai/jobs/info/68d18661fa731f61692dfe12?utm_campaign=1066&utm_source=git)** | Iowa- Work From Home | Remote | Sep 22 |
 | **[Fidelity Investments](https://www.fidelity.com)** | **[Quantitative Research Undergraduate Intern](https://jobright.ai/jobs/info/68d185488c62e63bc7fcc371?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 22 |
 | ↳ | **[Quantitative Research Intern- Advanced Strategies and Research Team](https://jobright.ai/jobs/info/68d1a1e517554c2d9eeddbf1?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 22 |
 | ↳ | **[Quantitative Research Intern- Data Science ASR Team](https://jobright.ai/jobs/info/68d1acbba54edb3bf3e14dcd?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 22 |
-| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Quantitative Research Internship - Master's: Summer 2026 - Susquehanna International Group](https://jobright.ai/jobs/info/68d17bf0cece431f8b584325?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 22 |
-| ↳ | **[Quantitative Systematic Trading Internship - Master's: Summer 2026 - Susquehanna International Group](https://jobright.ai/jobs/info/68d178d2cece431f8b58401e?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 22 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Quantitative Systematic Trading Internship - Master's: Summer 2026 - Susquehanna International Group](https://jobright.ai/jobs/info/68d178d2cece431f8b58401e?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 22 |
 | ↳ | **[Quantitative Research Internship - PhD: Summer 2026 - Susquehanna International Group](https://jobright.ai/jobs/info/68d178988c62e63bc7fcb896?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 22 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/68d16d45cece431f8b583ae9?utm_campaign=1066&utm_source=git)** | St. Louis, MO | Hybrid | Sep 22 |
 | ↳ | **[2026 Research Internships](https://jobright.ai/jobs/info/68d161d2fa731f61692de704?utm_campaign=1066&utm_source=git)** | St. Louis, MO | On Site | Sep 22 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68d16006cece431f8b58332d?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 22 |
 | **[DePaul University](http://www.depaul.edu)** | **[Post Doctoral Researcher – NSF SCHOLAR](https://jobright.ai/jobs/info/68971aaf73b3a600fe891fe3?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Sep 22 |
 | **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/68d15fa48c62e63bc7fcab6e?utm_campaign=1066&utm_source=git)** | Lansing, MI | On Site | Sep 22 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Sep 22 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d14bafcece431f8b582a44?utm_campaign=1066&utm_source=git)** | VA, Manassas | On Site | Sep 22 |
 | ↳ | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d14b428c62e63bc7fca192?utm_campaign=1066&utm_source=git)** | US-VA-Manassas | On Site | Sep 22 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Clinical Info Analyst Inter (Term-Limited)](https://jobright.ai/jobs/info/68cde436e23def7af55bffbc?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Sep 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[iHeartMedia](http://iheartmedia.com)** | **[Research Intern](https://jobright.ai/jobs/info/68cd936d1ad6b16f0289b959?utm_campaign=1066&utm_source=git)** | Florida, United States | On Site | Sep 20 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Pharmacy Analytics Summer Intern - Start Date: May 18, 2026](https://jobright.ai/jobs/info/68cf34ecfb49c96ca6ea6523?utm_campaign=1066&utm_source=git)** | Morris Plains, NJ | Hybrid | Sep 20 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68a7e146d627244576e2f40c?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Sep 20 |
-| **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[IT Developer Analyst Intern (Data Science) - Summer 2026](https://jobright.ai/jobs/info/68c64de67d0db411427382a0?utm_campaign=1066&utm_source=git)** | Northbrook, IL | On Site | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
