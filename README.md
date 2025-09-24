@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NYU Langone Health](https://nyulangone.org/)** | **[Student Research Intern](https://jobright.ai/jobs/info/68d3ad6317554c2d9eef41ab?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 24 |
+| **[Nutrien](https://www.nutrien.com/)** | **[Co-Op, SH&E Data & Analytics 1](https://jobright.ai/jobs/info/68d39fbe17554c2d9eef3b54?utm_campaign=1066&utm_source=git)** | Loveland, CO | On Site | Sep 24 |
+| **[IDEAS](http://www.ideas.firm.in)** | **[Research Intern](https://jobright.ai/jobs/info/68d38c3c8c62e63bc7fe288c?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 23 |
+| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68d389ef17554c2d9eef26ca?utm_campaign=1066&utm_source=git)** | Onalaska, WI | On Site | Sep 23 |
 | **[Treevah](https://filterfolder.com/)** | **[Business Analytics Intern (Remote, Unpaid)](https://jobright.ai/jobs/info/68d36bcbf0d9af73038e22f4?utm_campaign=1066&utm_source=git)** | Chicago, IL | Remote | Sep 23 |
 | **[Confluent](https://confluent.io)** | **[Business Intelligence Analyst- Skillbridge](https://jobright.ai/jobs/info/68d3615df0d9af73038e1ce3?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 23 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Visual Data Scientist Intern](https://jobright.ai/jobs/info/68d34e058c62e63bc7fdfa53?utm_campaign=1066&utm_source=git)** | US, Indianapolis IN | On Site | Sep 23 |
@@ -77,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[2026 Graduate Data Science Summer Internship Program](https://jobright.ai/jobs/info/68d328a2f0d9af73038df7ba?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 23 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Business Intelligence Co-Op](https://jobright.ai/jobs/info/68d322f9f0d9af73038df572?utm_campaign=1066&utm_source=git)** | Irving, Texas, United States of America | On Site | Sep 23 |
 | **[Blue Cross Blue Shield of Arizona](https://www.azblue.com)** | **[Intern - Analytics and Data Science (Medicaid) - Hybrid](https://jobright.ai/jobs/info/68d322dc17554c2d9eeee2a6?utm_campaign=1066&utm_source=git)** | AZ Blue Phoenix, AZ 85021 | Hybrid | Sep 23 |
+| **[LA Clippers](http://www.clippers.com)** | **[Business Insights & Analytics Intern](https://jobright.ai/jobs/info/68cce79dd11b445e0bee416e?utm_campaign=1066&utm_source=git)** | Inglewood, CA | On Site | Sep 23 |
 | **[MKC - Mid Kansas Coop](https://www.mkcoop.com/)** | **[2026 Summer Intern - Technology: BI Development](https://jobright.ai/jobs/info/68d36e0217554c2d9eef0ed6?utm_campaign=1066&utm_source=git)** | Wichita, KS | On Site | Sep 23 |
 | **[PMMC](http://www.pmmconline.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68d30a798c62e63bc7fdd2be?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Sep 23 |
 | **[Gallagher](http://www.ajg.com)** | **[Digital Analytics Intern](https://jobright.ai/jobs/info/68d30932f0d9af73038de7e9?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | On Site | Sep 23 |
@@ -103,13 +108,11 @@ For a complete list, click the following sortable link below:
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Advanced Degree Data Scientist - Full-time Intern Conversion](https://jobright.ai/jobs/info/68d2cff38c62e63bc7fda5f7?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 23 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68d2cf43f0d9af73038db81e?utm_campaign=1066&utm_source=git)** | Frederick, Maryland, United States | On Site | Sep 23 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68d2ce72f0d9af73038db661?utm_campaign=1066&utm_source=git)** | Helpful Smiles Technology Center (HST), James Street, Grimes, IA | On Site | Sep 23 |
-| **[City of Fort Worth](https://www.fortworthtexas.gov)** | **[GIS Intern](https://jobright.ai/jobs/info/68d2c7e88c62e63bc7fd9be4?utm_campaign=1066&utm_source=git)** | Fort Worth, TX | On Site | Sep 23 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Analyst Development Internship Program - Boston, MA/Seattle, WA/Plano, TX (Summer 2026)](https://jobright.ai/jobs/info/68d2c7ac8c62e63bc7fd9b78?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Sep 23 |
 | ↳ | **[Analyst Development Internship Program - Boston, MA/Seattle, WA/Plano, TX (Summer 2026)](https://jobright.ai/jobs/info/68d2c772f0d9af73038db254?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 23 |
 | ↳ | **[Solaria Labs Data Science Co-op (Jan - July 2026)](https://jobright.ai/jobs/info/68d2c2a817554c2d9eee9961?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 23 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Global Decision Science, Credit & Fraud Risk - New York, NY](https://jobright.ai/jobs/info/68ca450166f5bd426af80fc4?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Sep 23 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Analyst Development Internship Program - Boston, MA/Seattle, WA/Plano, TX (Summer 2026)](https://jobright.ai/jobs/info/68d2d60317554c2d9eeeaae8?utm_campaign=1066&utm_source=git)** | Plano, TX | On Site | Sep 23 |
-| **[Indiana University School of Public Health-Bloomington](http://publichealth.indiana.edu)** | **[Postdoctoral Fellow in Biostatistics and Health Data Science](https://jobright.ai/jobs/info/68d29ca7f0d9af73038d9b6b?utm_campaign=1066&utm_source=git)** | Bloomington, IN | On Site | Sep 23 |
 | **[University of Michigan](https://www.umich.edu)** | **[Post Doctoral Research Fellow](https://jobright.ai/jobs/info/68d288b817554c2d9eee8220?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Sep 23 |
 | **[Grainger](https://www.grainger.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68cecb1bdbd9fb154ede2d7d?utm_campaign=1066&utm_source=git)** | Lake Forest, IL | On Site | Sep 23 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Immunology Bioinformatics Intern (PhD)](https://jobright.ai/jobs/info/68d2866cf0d9af73038d93dd?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Sep 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pinterest](https://www.pinterest.com/)** | **[Master's Data Science Internship 2026 (USA)](https://jobright.ai/jobs/info/68d19e0917554c2d9eedd4e6?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Sep 22 |
 | **[Federal Reserve Bank of St. Louis](http://www.stlouisfed.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/68d19d968c62e63bc7fcd438?utm_campaign=1066&utm_source=git)** | St Louis, MO | Hybrid | Sep 22 |
 | **[Republic Airways](http://www.rjet.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68cc746716d00d2beeb2001d?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Sep 22 |
-| **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 - Data Science](https://jobright.ai/jobs/info/68d19d5017554c2d9eedd3ae?utm_campaign=1066&utm_source=git)** | Boston, Massachusetts | Hybrid | Sep 22 |
-| **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68d19c028c62e63bc7fcd1ec?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 22 |
-| **[Kimball Electronics](http://www.kimballelectronics.com)** | **[IT Power Tools Internship](https://jobright.ai/jobs/info/68d197facece431f8b58593d?utm_campaign=1066&utm_source=git)** | Jasper, IN | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
