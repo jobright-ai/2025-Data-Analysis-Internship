@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medpace](http://www.medpace.com)** | **[Informatics Internship/Co-Op Spring 2026](https://jobright.ai/jobs/info/68ce9376fb49c96ca6ea1b12?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 24 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Enterprise Reference Data Analyst, CO-OP](https://jobright.ai/jobs/info/68d3d57d5ae5a90cfd481d4a?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Sep 24 |
 | **[NYU Langone Health](https://nyulangone.org/)** | **[Student Research Intern](https://jobright.ai/jobs/info/68d3ad6317554c2d9eef41ab?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 24 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Co-Op, SH&E Data & Analytics 1](https://jobright.ai/jobs/info/68d39fbe17554c2d9eef3b54?utm_campaign=1066&utm_source=git)** | Loveland, CO | On Site | Sep 24 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Research Intern](https://jobright.ai/jobs/info/68d38c3c8c62e63bc7fe288c?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 23 |
@@ -71,10 +73,10 @@ For a complete list, click the following sortable link below:
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Data Science, Planner & Perception Eval](https://jobright.ai/jobs/info/68d344ff17554c2d9eeef5a3?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Sep 23 |
 | **[Zions Bancorporation](http://zionsbancorporation.com)** | **[Intern- Business Information Analyst](https://jobright.ai/jobs/info/68d3447f17554c2d9eeef4c7?utm_campaign=1066&utm_source=git)** | Midvale, Utah, United States | On Site | Sep 23 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Research Intern](https://jobright.ai/jobs/info/68d34468f0d9af73038e08cb?utm_campaign=1066&utm_source=git)** | US-MN-Bloomington | Hybrid | Sep 23 |
-| **[Muon Space](https://www.muonspace.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68d3423b8c62e63bc7fdee66?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Sep 23 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[Intern Tech II](https://jobright.ai/jobs/info/68d34052f0d9af73038e03c0?utm_campaign=1066&utm_source=git)** | Santa Rosa, CA | On Site | Sep 23 |
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Student Analyst](https://jobright.ai/jobs/info/68d33fd9f0d9af73038e034d?utm_campaign=1066&utm_source=git)** | Ogden, UT | On Site | Sep 23 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Data Science, Planner & Perception Eval](https://jobright.ai/jobs/info/68d33e1217554c2d9eeeeed9?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Sep 23 |
+| **[Muon Space](https://www.muonspace.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68d339488c62e63bc7fdece7?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Sep 23 |
 | **[Blue Cross Blue Shield of Arizona](https://www.azblue.com)** | **[Intern - Analytics and Data Science (Medicaid) - Hybrid](https://jobright.ai/jobs/info/68d331858c62e63bc7fde6bd?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | Hybrid | Sep 23 |
 | **[IDeaS Revenue Solutions](http://www.ideas.com)** | **[Research Intern](https://jobright.ai/jobs/info/68d32e0df0d9af73038dfa4b?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 23 |
 | **[GTI Energy](https://www.gti.energy)** | **[Intern - Data Science (Summer 2026)](https://jobright.ai/jobs/info/68d32b9417554c2d9eeee5a3?utm_campaign=1066&utm_source=git)** | Greater Chicago Area | Hybrid | Sep 23 |
@@ -92,8 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Harford Mutual Insurance Group](http://harfordmutual.com)** | **[Special Investigative Unit Intern](https://jobright.ai/jobs/info/68d2f96a17554c2d9eeec856?utm_campaign=1066&utm_source=git)** | Bel Air, MD | Hybrid | Sep 23 |
 | **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Quant Finance Symposium, November 2025](https://jobright.ai/jobs/info/68d2f88a17554c2d9eeec6d5?utm_campaign=1066&utm_source=git)** | Boston | On Site | Sep 23 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68d2f4ca8c62e63bc7fdbfd1?utm_campaign=1066&utm_source=git)** | Grimes, IA | On Site | Sep 23 |
-| **[Keysight Technologies](https://www.keysight.com)** | **[Intern Tech II](https://jobright.ai/jobs/info/68d2efc8f0d9af73038dd0e6?utm_campaign=1066&utm_source=git)** | Santa Rosa, California | On Site | Sep 23 |
-| **[John Deere](https://www.deere.com)** | **[Part-Time Student - Data Analytics - Davenport, IA](https://jobright.ai/jobs/info/68d3046a17554c2d9eeed0ac?utm_campaign=1066&utm_source=git)** | Davenport, IA | Hybrid | Sep 23 |
+| **[Keysight Technologies](https://www.keysight.com)** | **[Intern Tech II](https://jobright.ai/jobs/info/68d2ee0e17554c2d9eeebb6d?utm_campaign=1066&utm_source=git)** | Santa Rosa, California | On Site | Sep 23 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/68d2e855f0d9af73038dcba9?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Sep 23 |
 | **[Teachers College, Columbia University](http://www.tc.columbia.edu/admission)** | **[Postdoctoral Fellow](https://jobright.ai/jobs/info/68d2e6338c62e63bc7fdb5ea?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Sep 23 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/68d2e43117554c2d9eeeb5df?utm_campaign=1066&utm_source=git)** | Hartford, CT | On Site | Sep 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of St. Louis](http://www.stlouisfed.org)** | **[2026 Research Internships](https://jobright.ai/jobs/info/68d19eb917554c2d9eedd68d?utm_campaign=1066&utm_source=git)** | St Louis, MO | Hybrid | Sep 22 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Master's Data Science Internship 2026 (USA)](https://jobright.ai/jobs/info/68d19e0917554c2d9eedd4e6?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Sep 22 |
 | **[Federal Reserve Bank of St. Louis](http://www.stlouisfed.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/68d19d968c62e63bc7fcd438?utm_campaign=1066&utm_source=git)** | St Louis, MO | Hybrid | Sep 22 |
-| **[Republic Airways](http://www.rjet.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68cc746716d00d2beeb2001d?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
