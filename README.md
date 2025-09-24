@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross Blue Shield of Arizona](https://www.azblue.com)** | **[Intern - Analytics and Data Science (Medicaid) - Hybrid](https://jobright.ai/jobs/info/68d331858c62e63bc7fde6bd?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | Hybrid | Sep 23 |
+| **[IDeaS Revenue Solutions](http://www.ideas.com)** | **[Research Intern](https://jobright.ai/jobs/info/68d32e0df0d9af73038dfa4b?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 23 |
+| **[GTI Energy](https://www.gti.energy)** | **[Intern - Data Science (Summer 2026)](https://jobright.ai/jobs/info/68d32b9417554c2d9eeee5a3?utm_campaign=1066&utm_source=git)** | Greater Chicago Area | Hybrid | Sep 23 |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[2026 Graduate Data Science Summer Internship Program](https://jobright.ai/jobs/info/68d328a2f0d9af73038df7ba?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 23 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Business Intelligence Co-Op](https://jobright.ai/jobs/info/68d322f9f0d9af73038df572?utm_campaign=1066&utm_source=git)** | Irving, Texas, United States of America | On Site | Sep 23 |
+| **[Blue Cross Blue Shield of Arizona](https://www.azblue.com)** | **[Intern - Analytics and Data Science (Medicaid) - Hybrid](https://jobright.ai/jobs/info/68d322dc17554c2d9eeee2a6?utm_campaign=1066&utm_source=git)** | AZ Blue Phoenix, AZ 85021 | Hybrid | Sep 23 |
 | **[PMMC](http://www.pmmconline.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68d30a798c62e63bc7fdd2be?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Sep 23 |
 | **[Gallagher](http://www.ajg.com)** | **[Digital Analytics Intern](https://jobright.ai/jobs/info/68d30932f0d9af73038de7e9?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | On Site | Sep 23 |
 | **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68d303048c62e63bc7fdcd2d?utm_campaign=1066&utm_source=git)** | Onalaska, WI | On Site | Sep 23 |
@@ -98,9 +104,9 @@ For a complete list, click the following sortable link below:
 | **[Volvo Group](http://www.volvogroup.com)** | **[Co-op: Engineering, Data Analyst (Spring 2026)](https://jobright.ai/jobs/info/68d1fceea54edb3bf3e18821?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Sep 22 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Commercial Quantitative Analytics Intern - Baltimore, MD](https://jobright.ai/jobs/info/68d1fc53a54edb3bf3e186c5?utm_campaign=1066&utm_source=git)** | Baltimore, MD | Hybrid | Sep 22 |
 | **[Wellabe](https://www.wellabe.com)** | **[Data-Reporting Analytics Summer 2026 Internship- Hybrid -Des Moines, Iowa](https://jobright.ai/jobs/info/68d1f57ba54edb3bf3e181da?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Hybrid | Sep 22 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[2026 Spring Intern - MAGNet Program @ University of Georgia](https://jobright.ai/jobs/info/68d1ed88a54edb3bf3e1799d?utm_campaign=1066&utm_source=git)** | Athens, GA | On Site | Sep 22 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Data & Analytics](https://jobright.ai/jobs/info/68d1ed9ca54edb3bf3e179b2?utm_campaign=1066&utm_source=git)** | Fort Mill, SC | Hybrid | Sep 22 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[2025 - Spring Intern - MAGNet Program @ University of Georgia](https://jobright.ai/jobs/info/68d1ed88a54edb3bf3e1799d?utm_campaign=1066&utm_source=git)** | Athens, GA | On Site | Sep 22 |
-| ↳ | **[2026 Spring Intern - MAGNet Program @ Arizona State University](https://jobright.ai/jobs/info/68d1ed59a54edb3bf3e17962?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Sep 22 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[2026 Spring Intern - MAGNet Program @ Arizona State University](https://jobright.ai/jobs/info/68d1ed59a54edb3bf3e17962?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Sep 22 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Data & Analytics](https://jobright.ai/jobs/info/68d1e72ea54edb3bf3e17636?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Sep 22 |
 | **[MidAmerican Energy Company](https://www.midamericanenergy.com)** | **[Intern - Data Science, Generation](https://jobright.ai/jobs/info/68d2e1ae8c62e63bc7fdb2cd?utm_campaign=1066&utm_source=git)** | Council Bluffs, IA | On Site | Sep 22 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Energy Analyst (GA)](https://jobright.ai/jobs/info/68d1e4f28c62e63bc7fd0c54?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 22 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sun Hydraulics](http://www.sunhydraulics.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68d2ce0117554c2d9eeea625?utm_campaign=1066&utm_source=git)** | Tulsa, OK | On Site | Sep 22 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Community Development Intern](https://jobright.ai/jobs/info/68d16d45cece431f8b583ae9?utm_campaign=1066&utm_source=git)** | St. Louis, MO | Hybrid | Sep 22 |
 | ↳ | **[2026 Research Internships](https://jobright.ai/jobs/info/68d161d2fa731f61692de704?utm_campaign=1066&utm_source=git)** | St. Louis, MO | On Site | Sep 22 |
-| **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68d16006cece431f8b58332d?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 22 |
-| **[DePaul University](http://www.depaul.edu)** | **[Post Doctoral Researcher – NSF SCHOLAR](https://jobright.ai/jobs/info/68971aaf73b3a600fe891fe3?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Sep 22 |
-| **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/68d15fa48c62e63bc7fcab6e?utm_campaign=1066&utm_source=git)** | Lansing, MI | On Site | Sep 22 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Sep 22 |
-| **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d14bafcece431f8b582a44?utm_campaign=1066&utm_source=git)** | VA, Manassas | On Site | Sep 22 |
-| ↳ | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d14b428c62e63bc7fca192?utm_campaign=1066&utm_source=git)** | US-VA-Manassas | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
