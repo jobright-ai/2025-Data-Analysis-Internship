@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Eli Lilly and Company](https://www.lilly.com)** | **[AI PhD Discovery Data Science Internship](https://jobright.ai/jobs/info/68d34de217554c2d9eeefba5?utm_campaign=1066&utm_source=git)** | US, Indianapolis IN | On Site | Sep 23 |
+| **[Confluent](https://confluent.io)** | **[Business Intelligence Analyst- Skillbridge](https://jobright.ai/jobs/info/68d3615df0d9af73038e1ce3?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 23 |
+| **[Eli Lilly and Company](https://www.lilly.com)** | **[Visual Data Scientist Intern](https://jobright.ai/jobs/info/68d34e058c62e63bc7fdfa53?utm_campaign=1066&utm_source=git)** | US, Indianapolis IN | On Site | Sep 23 |
+| ↳ | **[AI PhD Discovery Data Science Internship](https://jobright.ai/jobs/info/68d34de217554c2d9eeefba5?utm_campaign=1066&utm_source=git)** | US, Indianapolis IN | On Site | Sep 23 |
 | ↳ | **[AI Decision Analytics Internship](https://jobright.ai/jobs/info/68d34dca8c62e63bc7fdf9d6?utm_campaign=1066&utm_source=git)** | US, Indianapolis IN | On Site | Sep 23 |
 | **[Gallagher Re](https://www.gallagherre.com/)** | **[Digital Analytics Intern](https://jobright.ai/jobs/info/68d34d2b17554c2d9eeefa7e?utm_campaign=1066&utm_source=git)** | Rolling Meadows, Illinois | Hybrid | Sep 23 |
 | **[Johnson & Johnson MedTech](https://www.jnjmedicaldevices.com/)** | **[Business Intelligence Co-Op](https://jobright.ai/jobs/info/68d3492e8c62e63bc7fdf5c1?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Sep 23 |
@@ -83,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Harford Mutual Insurance Group](http://harfordmutual.com)** | **[Special Investigative Unit Intern](https://jobright.ai/jobs/info/68d2f96a17554c2d9eeec856?utm_campaign=1066&utm_source=git)** | Bel Air, MD | Hybrid | Sep 23 |
 | **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Quant Finance Symposium, November 2025](https://jobright.ai/jobs/info/68d2f88a17554c2d9eeec6d5?utm_campaign=1066&utm_source=git)** | Boston | On Site | Sep 23 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68d2f4ca8c62e63bc7fdbfd1?utm_campaign=1066&utm_source=git)** | Grimes, IA | On Site | Sep 23 |
-| **[Keysight Technologies](https://www.keysight.com)** | **[Intern Tech II](https://jobright.ai/jobs/info/68d2efc8f0d9af73038dd0e6?utm_campaign=1066&utm_source=git)** | Santa Rosa, California | On Site | Sep 23 |
+| **[Keysight Technologies](https://www.keysight.com)** | **[Intern Tech II](https://jobright.ai/jobs/info/68d2ee0e17554c2d9eeebb6d?utm_campaign=1066&utm_source=git)** | Santa Rosa, California | On Site | Sep 23 |
 | **[John Deere](https://www.deere.com)** | **[Part-Time Student - Data Analytics - Davenport, IA](https://jobright.ai/jobs/info/68d3046a17554c2d9eeed0ac?utm_campaign=1066&utm_source=git)** | Davenport, IA | Hybrid | Sep 23 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/68d2e855f0d9af73038dcba9?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Sep 23 |
 | **[Teachers College, Columbia University](http://www.tc.columbia.edu/admission)** | **[Postdoctoral Fellow](https://jobright.ai/jobs/info/68d2e6338c62e63bc7fdb5ea?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Sep 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimball Electronics](http://www.kimballelectronics.com)** | **[IT Power Tools Internship](https://jobright.ai/jobs/info/68d197facece431f8b58593d?utm_campaign=1066&utm_source=git)** | Jasper, IN | On Site | Sep 22 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Forecasting Analyst Intern](https://jobright.ai/jobs/info/68d1977f17554c2d9eedd143?utm_campaign=1066&utm_source=git)** | Salisbury, NC | Hybrid | Sep 22 |
 | ↳ | **[GIS & Market Analytics Intern](https://jobright.ai/jobs/info/68d197088c62e63bc7fcd111?utm_campaign=1066&utm_source=git)** | Salisbury, NC | Hybrid | Sep 22 |
-| **[VanEck](http://www.vaneck.com/)** | **[Business Intelligence Summer Intern](https://jobright.ai/jobs/info/68d18bc78c62e63bc7fcc8c0?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 22 |
-| **[Porsche Cars North America](http://www.porscheusa.com)** | **[Intern IT Data Analytics](https://jobright.ai/jobs/info/68d18b60fa731f61692e0443?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
