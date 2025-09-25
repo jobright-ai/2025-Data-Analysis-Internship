@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Montevallo](http://www.montevallo.edu)** | **[Data Analytics - Student Assistant](https://jobright.ai/jobs/info/68d511b8e678d65ec7d8aeeb?utm_campaign=1066&utm_source=git)** | Montevallo, AL | On Site | Sep 25 |
 | **[Quantbot Technologies LP](https://www.quantbot.com)** | **[Quantitative Researcher Internship - 2026 [New York]](https://jobright.ai/jobs/info/68d50aeee678d65ec7d8ac82?utm_campaign=1066&utm_source=git)** | New York | On Site | Sep 25 |
 | ↳ | **[Quantitative Researcher Internship - 2026 [Miami]](https://jobright.ai/jobs/info/68d501242ed36439e51e4157?utm_campaign=1066&utm_source=git)** | Miami | On Site | Sep 25 |
 | **[Four Hands](https://fourhands.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68d4cc278c62e63bc7feca2f?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Sep 24 |
@@ -111,7 +112,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68c649287d0db41142737cd3?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Sep 24 |
 | **[Medpace](http://www.medpace.com)** | **[Informatics Internship/Co-Op Spring 2026](https://jobright.ai/jobs/info/68ce9376fb49c96ca6ea1b12?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Sep 24 |
 | **[bioMérieux](https://www.biomerieux.com)** | **[Data Science Co-op](https://jobright.ai/jobs/info/68b72b58f4e41a61efd96139?utm_campaign=1066&utm_source=git)** | Hazelwood, MO | On Site | Sep 24 |
-| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Enterprise Reference Data Analyst, CO-OP](https://jobright.ai/jobs/info/68d3d57d5ae5a90cfd481d4a?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Sep 24 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Co-Op, SH&E Data & Analytics 1](https://jobright.ai/jobs/info/68d39fbe17554c2d9eef3b54?utm_campaign=1066&utm_source=git)** | Loveland, CO | On Site | Sep 24 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Research Intern](https://jobright.ai/jobs/info/68d38c3c8c62e63bc7fe288c?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 23 |
 | **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68d4dd88fcd3367e8df18b88?utm_campaign=1066&utm_source=git)** | Onalaska, WI | On Site | Sep 23 |
@@ -144,7 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Harford Mutual Insurance Group](http://harfordmutual.com)** | **[Special Investigative Unit Intern](https://jobright.ai/jobs/info/68d2f96a17554c2d9eeec856?utm_campaign=1066&utm_source=git)** | Bel Air, MD | Hybrid | Sep 23 |
 | **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Quant Finance Symposium, November 2025](https://jobright.ai/jobs/info/68d2f88a17554c2d9eeec6d5?utm_campaign=1066&utm_source=git)** | Boston | On Site | Sep 23 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68d2f4ca8c62e63bc7fdbfd1?utm_campaign=1066&utm_source=git)** | Grimes, IA | On Site | Sep 23 |
-| **[Keysight Technologies](https://www.keysight.com)** | **[Intern Tech II](https://jobright.ai/jobs/info/68d2efc8f0d9af73038dd0e6?utm_campaign=1066&utm_source=git)** | Santa Rosa, California | On Site | Sep 23 |
+| **[Keysight Technologies](https://www.keysight.com)** | **[Intern Tech II](https://jobright.ai/jobs/info/68d2ee0e17554c2d9eeebb6d?utm_campaign=1066&utm_source=git)** | Santa Rosa, California | On Site | Sep 23 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/68d2e855f0d9af73038dcba9?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Sep 23 |
 | **[Teachers College, Columbia University](http://www.tc.columbia.edu/admission)** | **[Postdoctoral Fellow](https://jobright.ai/jobs/info/68d2e6338c62e63bc7fdb5ea?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Sep 23 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/68d2e43117554c2d9eeeb5df?utm_campaign=1066&utm_source=git)** | Hartford, CT | On Site | Sep 23 |
