@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[USAA](https://www.usaa.com)** | **[Data Analyst Intern - P&C](https://jobright.ai/jobs/info/68d561f439247e3c807eaa9a?utm_campaign=1066&utm_source=git)** | San Antonio Home Office I | On Site | Sep 25 |
+| **[Institute for the Study of War](http://understandingwar.org/)** | **[Geospatial Intelligence and National Security Technologies Internship Spring 2026](https://jobright.ai/jobs/info/68d578a439247e3c807eb802?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Sep 25 |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Digital Data Science Analyst Intern](https://jobright.ai/jobs/info/68d574d01f7fb2169ab103d0?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Sep 25 |
+| **[Institute for the Study of War](http://understandingwar.org/)** | **[National Security and Intelligence Analysis Internship Spring 2026](https://jobright.ai/jobs/info/68d5744a39247e3c807eb335?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Sep 25 |
+| **[IDeaS Revenue Solutions](http://www.ideas.com)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/68d573571f7fb2169ab10175?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 25 |
+| **[Babson College](http://www.babson.edu)** | **[Research Assistant - Taillard](https://jobright.ai/jobs/info/68d572be63d77d6f6f3eeca6?utm_campaign=1066&utm_source=git)** | Wellesley MA | On Site | Sep 25 |
+| **[Purdue University](https://www.purdue.edu)** | **[Postdoctoral Research Associate](https://jobright.ai/jobs/info/68d5646e39247e3c807eab82?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Sep 25 |
 | **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/68d5601939247e3c807ea83f?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 25 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Analyst Development Internship Program - Boston, MA/Seattle, WA/Plano, TX (Summer 2026)](https://jobright.ai/jobs/info/68d54ffa39247e3c807e9f4f?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 25 |
 | ↳ | **[Analyst Development Internship Program - Boston, MA/Seattle, WA/Plano, TX (Summer 2026)](https://jobright.ai/jobs/info/68d54eac1f7fb2169ab0ecca?utm_campaign=1066&utm_source=git)** | Plano, TX | On Site | Sep 25 |
 | ↳ | **[Analyst Development Internship Program - Boston, MA/Seattle, WA/Plano, TX (Summer 2026)](https://jobright.ai/jobs/info/68d54dc863d77d6f6f3ed3c2?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Sep 25 |
+| **[Axle](https://axleinfo.com/)** | **[Bioinformatics Fellow - Hyperspectral Imaging](https://jobright.ai/jobs/info/68b8a5c55b42bc45628269fa?utm_campaign=1066&utm_source=git)** | Frederick, MD | On Site | Sep 25 |
 | **[Pimlico Enterprises](https://www.linkedin.com/company/107052602)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68d537dd1f7fb2169ab0dd6f?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 25 |
 | **[Entegris](http://www.entegris.com)** | **[Data Scientist (Statistician) Co-op](https://jobright.ai/jobs/info/68d530d21ecb447aa43e842c?utm_campaign=1066&utm_source=git)** | Aurora, IL | Hybrid | Sep 25 |
 | **[University of Montevallo](http://www.montevallo.edu)** | **[Data Analytics - Student Assistant](https://jobright.ai/jobs/info/68d511b8e678d65ec7d8aeeb?utm_campaign=1066&utm_source=git)** | Montevallo, AL | On Site | Sep 25 |
@@ -104,7 +110,9 @@ For a complete list, click the following sortable link below:
 | **[Barry's](https://barrys.com)** | **[Undergraduate Summer Scholar, Data Analyst - Summer 2026](https://jobright.ai/jobs/info/68d43f1effc1276de3fd89a9?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Sep 24 |
 | **[Cincinnati Children's](http://cincinnatichildrens.org)** | **[Student II  - Business Intelligence](https://jobright.ai/jobs/info/68d4199117554c2d9eef5f89?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Sep 24 |
 | **[TRG](https://trg.agency)** | **[Data Strategist Intern](https://jobright.ai/jobs/info/68d4176f8c62e63bc7fe5c72?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Sep 24 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68ce4977fb49c96ca6e9e6d2?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 24 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Business Analytics & Technology Intern](https://jobright.ai/jobs/info/68d405a817554c2d9eef56e4?utm_campaign=1066&utm_source=git)** | Evansville, IN | On Site | Sep 24 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Pharmacometrics Intern (PhD)](https://jobright.ai/jobs/info/68d13549cece431f8b5821e6?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Sep 24 |
 | **[Workiva](http://www.workiva.com)** | **[Spring & Summer 2026 Intern - Data Quality / Data Product](https://jobright.ai/jobs/info/68d4006a5ae5a90cfd4827f9?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 24 |
 | **[National Life Group](https://www.nationallife.com)** | **[Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68b732f02124650c14020216?utm_campaign=1066&utm_source=git)** | Addison, TX | On Site | Sep 24 |
 | **[World Wide Technology](http://www.wwt.com)** | **[Supply Chain Intern - Data Analytics- 2026](https://jobright.ai/jobs/info/68b735d22124650c14020588?utm_campaign=1066&utm_source=git)** | Maryland Heights, MO | On Site | Sep 24 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of New Hampshire](https://www.unh.edu)** | **[Postdoctoral Researcher](https://jobright.ai/jobs/info/68d301e517554c2d9eeecd6b?utm_campaign=1066&utm_source=git)** | Durham, NH | On Site | Sep 23 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Data Science Intern](https://jobright.ai/jobs/info/68d300d28c62e63bc7fdca24?utm_campaign=1066&utm_source=git)** | Frederick, MD | On Site | Sep 23 |
 | **[Harford Mutual Insurance Group](http://harfordmutual.com)** | **[Special Investigative Unit Intern](https://jobright.ai/jobs/info/68d2f96a17554c2d9eeec856?utm_campaign=1066&utm_source=git)** | Bel Air, MD | Hybrid | Sep 23 |
-| **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Quant Finance Symposium, November 2025](https://jobright.ai/jobs/info/68d2f88a17554c2d9eeec6d5?utm_campaign=1066&utm_source=git)** | Boston | On Site | Sep 23 |
-| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68d2f4ca8c62e63bc7fdbfd1?utm_campaign=1066&utm_source=git)** | Grimes, IA | On Site | Sep 23 |
-| **[Keysight Technologies](https://www.keysight.com)** | **[Intern Tech II](https://jobright.ai/jobs/info/68d2ee0e17554c2d9eeebb6d?utm_campaign=1066&utm_source=git)** | Santa Rosa, California | On Site | Sep 23 |
-| **[The Hartford](http://www.thehartford.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/68d2e855f0d9af73038dcba9?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Sep 23 |
-| **[Teachers College, Columbia University](http://www.tc.columbia.edu/admission)** | **[Postdoctoral Fellow](https://jobright.ai/jobs/info/68d2e6338c62e63bc7fdb5ea?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Sep 23 |
-| **[The Hartford](http://www.thehartford.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/68d2e43117554c2d9eeeb5df?utm_campaign=1066&utm_source=git)** | Hartford, CT | On Site | Sep 23 |
-| ↳ | **[Intern, Data Science](https://jobright.ai/jobs/info/68d2e3e28c62e63bc7fdb34d?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Sep 23 |
-| **[VanEck](http://www.vaneck.com/)** | **[Quantitative Solutions Summer Intern](https://jobright.ai/jobs/info/68d2e19e17554c2d9eeeb32a?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
