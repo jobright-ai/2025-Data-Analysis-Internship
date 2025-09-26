@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Data and Analytics Intern- Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68d6ea90d3fe025a3015d102?utm_campaign=1066&utm_source=git)** | Franklin, Tennessee - United States of America | On Site | Sep 26 |
+| **[PrizePicks](https://prizepicks.com)** | **[Customer Insights Intern - Spring 2026](https://jobright.ai/jobs/info/68d6ea3ed3fe025a3015d06b?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 26 |
+| **[Staples Canada](http://www.staples.ca)** | **[Quill Data Science Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68d6e3e745853d0e39ccac9e?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Sep 26 |
+| **[Staples](http://www.staples.com)** | **[Quill Data Science Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68d6e3abd3fe025a3015cc6d?utm_campaign=1066&utm_source=git)** | 300 Tri State International Drive, Lincolnshire, IL, 60069, US | Hybrid | Sep 26 |
+| **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Reporting COE Analyst - Spring 2026 Co-op](https://jobright.ai/jobs/info/68d6e39ed3fe025a3015cc61?utm_campaign=1066&utm_source=git)** | Wellesley, MA | On Site | Sep 26 |
+| **[Staples](http://www.staples.com)** | **[Quill Data Science Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68d6e38c45853d0e39ccabcd?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Sep 26 |
+| **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Intern](https://jobright.ai/jobs/info/68d6e2e9d3fe025a3015caf5?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Sep 26 |
+| **[Staples](http://www.staples.com)** | **[Quill Reporting & Analytics Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68d6e2c645853d0e39ccaa1a?utm_campaign=1066&utm_source=git)** | 300 Tri State International Drive, Lincolnshire, IL, 60069, US | Hybrid | Sep 26 |
+| **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Intern](https://jobright.ai/jobs/info/68d6dd2145853d0e39cca684?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Sep 26 |
 | **[Akron Children's](http://www.akronchildrens.org)** | **[Research Intern](https://jobright.ai/jobs/info/68d6cc81894705799a2edd16?utm_campaign=1066&utm_source=git)** | Akron, OH | On Site | Sep 26 |
 | **[Gordon Food Service](https://www.gfs.com)** | **[Material Master Data Internship](https://jobright.ai/jobs/info/68d6c97a894705799a2edbc2?utm_campaign=1066&utm_source=git)** | Wyoming, MI | On Site | Sep 26 |
 | ↳ | **[Material Master Data Internship](https://jobright.ai/jobs/info/68d6c4ef45853d0e39cc9d73?utm_campaign=1066&utm_source=git)** | Wyoming, Michigan | On Site | Sep 26 |
@@ -119,7 +128,6 @@ Job ID : 247658](https://jobright.ai/jobs/info/68d60a4c1f7fb2169ab15627?utm_camp
 | **[Sanofi](https://www.sanofi.com)** | **[Biomarker Data Analysis -Summer 2026 Intern](https://jobright.ai/jobs/info/68d5ab791f7fb2169ab12e59?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Sep 25 |
 | **[Gordon Food Service](https://www.gfs.com)** | **[Data Analytics - Revenue Management Internship](https://jobright.ai/jobs/info/68d5ab1b14935e31e231ac43?utm_campaign=1066&utm_source=git)** | Wyoming, Michigan | On Site | Sep 25 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Intern, Data Action](https://jobright.ai/jobs/info/68d1a1cc8c62e63bc7fcdce2?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 25 |
-| **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Postdoctoral Fellow-MSH-21015-019](https://jobright.ai/jobs/info/68d59b7a14935e31e231a3e6?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 25 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Customer Insights and Behavioral Science (Remote)](https://jobright.ai/jobs/info/68d593b01f7fb2169ab11b74?utm_campaign=1066&utm_source=git)** | Reston, VA | Remote | Sep 25 |
 | **[ServiceNow](http://www.servicenow.com)** | **[ServiceNow Security Organization (SSO) - Data Informatics Analyst Intern](https://jobright.ai/jobs/info/68d6178063d77d6f6f3f5463?utm_campaign=1066&utm_source=git)** |  4810 Eastgate Mall, San Diego, CALIFORNIA, United States | On Site | Sep 25 |
 | **[CPACT Lab](https://www.hhs.k-state.edu/human-sciences/research/research-groups/cr.html)** | **[Volunteer Research Assistant](https://jobright.ai/jobs/info/68d6994245853d0e39cc8881?utm_campaign=1066&utm_source=git)** | Manhattan, KS | Hybrid | Sep 25 |
@@ -150,12 +158,4 @@ Job ID : 247658](https://jobright.ai/jobs/info/68d60a4c1f7fb2169ab15627?utm_camp
 | **[TRG](https://trg.agency)** | **[Data Strategist Intern (Fall 2025)](https://jobright.ai/jobs/info/68d4176f8c62e63bc7fe5c72?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Sep 24 |
 | **[Microsoft](https://www.microsoft.com)** | **[Gaming Data Analytics Internship Opportunities – Xbox](https://jobright.ai/jobs/info/68d4d821ffc1276de3fdea9e?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Sep 24 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist (Spring 2026)](https://jobright.ai/jobs/info/68d62b474736ff202fdd010e?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 24 |
-| ↳ | **[Graduate Intern - Optimization (Spring 2026)](https://jobright.ai/jobs/info/68d615282116ff37ee092b98?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 24 |
-| ↳ | **[Co-op, Crew Resources - Data Analyst (Spring 2026)](https://jobright.ai/jobs/info/68d62c13894705799a2e84e4?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 24 |
-| **[Caron Treatment Centers](https://www.caron.org/)** | **[Research Intern - Wernersville, PA](https://jobright.ai/jobs/info/68d4af76fcd3367e8df16c9c?utm_campaign=1066&utm_source=git)** | Wernersville, PA | On Site | Sep 24 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, IT - Operations Research and Data Science - ATL (Summer 2026)](https://jobright.ai/jobs/info/68d4adb4ffc1276de3fdce9d?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Sep 24 |
-| ↳ | **[Co-op, Sustainability Analytics (Spring 2026)](https://jobright.ai/jobs/info/68d62b40894705799a2e8317?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 24 |
-| ↳ | **[Graduate Intern - Optimization (Summer 2026)](https://jobright.ai/jobs/info/68d614592116ff37ee092992?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 24 |
-| **[Microsoft](https://www.microsoft.com)** | **[Gaming Data Analytics Internship Opportunities – Xbox](https://jobright.ai/jobs/info/68d49466fcd3367e8df15bc9?utm_campaign=1066&utm_source=git)** | Redmond, Washington, United States | Hybrid | Sep 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Summer (MBA)](https://jobright.ai/jobs/info/68d4a7338c62e63bc7feb482?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
