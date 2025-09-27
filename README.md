@@ -57,14 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IDEAS](http://www.ideas.firm.in)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/68d75e79295f8e37655d6988?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 26 |
+| **[Ibotta](https://home.ibotta.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68d7589861a175619f8c9685?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
+| ↳ | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d7574b7a37c712687c9539?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
+| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[GIS and Geospatial Data Intern](https://jobright.ai/jobs/info/68d75036cb1d8e52c976700a?utm_campaign=1066&utm_source=git)** | Walnut Creek, CA | On Site | Sep 26 |
+| ↳ | **[GIS and Geospatial Data Intern](https://jobright.ai/jobs/info/68d74f21cb1d8e52c9766dcd?utm_campaign=1066&utm_source=git)** | Oakland, CA | On Site | Sep 26 |
+| ↳ | **[GIS and Geospatial Data Intern](https://jobright.ai/jobs/info/68d74857f9dbe42bf62c1087?utm_campaign=1066&utm_source=git)** | Reno, NV | On Site | Sep 26 |
+| ↳ | **[GIS and Geospatial Data Intern](https://jobright.ai/jobs/info/68d74846cb1d8e52c9766abd?utm_campaign=1066&utm_source=git)** | Davis, CA | On Site | Sep 26 |
+| **[RTI International](http://www.rti.org)** | **[Graduate Student Research Intern](https://jobright.ai/jobs/info/68d7483de5293e3538af380c?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Sep 26 |
+| **[Marshall University School of Pharmacy](https://www.marshall.edu/pharmacy/)** | **[Postdoctoral Researcher in Bioinformatics](https://jobright.ai/jobs/info/68d74828cb1d8e52c9766a97?utm_campaign=1066&utm_source=git)** | Huntington, WV | On Site | Sep 26 |
+| **[Commerce Bank](https://www.commercebank.com/)** | **[Data Analyst Intern - EABI (Summer 2026)](https://jobright.ai/jobs/info/68d746c9cb1d8e52c97668ab?utm_campaign=1066&utm_source=git)** | Kansas City, MO | Hybrid | Sep 26 |
+| **[Oaktree Capital Management, L.P.](http://www.oaktreecapital.com)** | **[2026 Intern, Information Solutions](https://jobright.ai/jobs/info/68d74607cb1d8e52c97667e3?utm_campaign=1066&utm_source=git)** | Los Angeles | On Site | Sep 26 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Data Scientist Intern - EABI (Summer 2026)](https://jobright.ai/jobs/info/68d73fe545853d0e39ccdc7f?utm_campaign=1066&utm_source=git)** | Kansas City, MO | Hybrid | Sep 26 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/68d73992d3fe025a3015fb2c?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Sep 26 |
 | **[RTI Health Solutions](https://rtihs.org/)** | **[Graduate Student Research Intern](https://jobright.ai/jobs/info/68d7358545853d0e39ccd9ab?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Sep 26 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[GIS and Geospatial Data Intern](https://jobright.ai/jobs/info/68d7260745853d0e39ccd390?utm_campaign=1066&utm_source=git)** | US-CA-Davis | On Site | Sep 26 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/68d7256945853d0e39ccd27f?utm_campaign=1066&utm_source=git)** | US-TN-Memphis | On Site | Sep 26 |
+| **[RTI International](http://www.rti.org)** | **[Graduate Student Research Intern](https://jobright.ai/jobs/info/68d72544d3fe025a3015f4b9?utm_campaign=1066&utm_source=git)** | Raleigh, North Carolina | Hybrid | Sep 26 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[GIS and Geospatial Data Intern](https://jobright.ai/jobs/info/68d72516d3fe025a3015f46d?utm_campaign=1066&utm_source=git)** | US-NV-Reno | On Site | Sep 26 |
 | **[Ibotta](https://home.ibotta.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68d72506d3fe025a3015f44f?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
-| **[RTI International](http://www.rti.org)** | **[Graduate Student Research Intern](https://jobright.ai/jobs/info/68d723e0894705799a2f0e88?utm_campaign=1066&utm_source=git)** | Raleigh, North Carolina | Hybrid | Sep 26 |
 | **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68d71fe9894705799a2f0d9b?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | On Site | Sep 26 |
 | **[Emerson](http://www.emerson.com)** | **[Data Analyst Co-Op](https://jobright.ai/jobs/info/68d714ea894705799a2f0936?utm_campaign=1066&utm_source=git)** | Marshalltown, IA | On Site | Sep 26 |
 | **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68d713c145853d0e39cccb8a?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Sep 26 |
@@ -112,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[Rystad Energy](https://www.rystadenergy.com)** | **[Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d69dcd894705799a2ec72b?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Sep 26 |
 | **[Stellantis](https://www.stellantis.com/)** | **[2026 Analytics Summer Internship](https://jobright.ai/jobs/info/689e763ffaa4e875e827cddb?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 26 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/68cd8a5ce23def7af55bb67d?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Sep 26 |
-| **[UPS](http://www.ups.com)** | **[UPS Global Finance Summer 2026 Analytics Internship](https://jobright.ai/jobs/info/68ba177c8043103d4f21d6ad?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Sep 26 |
 | **[Notion](https://www.notion.so)** | **[Data Science Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/68cb3e16efdec76df36ba752?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 26 |
+| **[UPS](http://www.ups.com)** | **[UPS Global Finance Summer 2026 Analytics Internship](https://jobright.ai/jobs/info/68ba15558043103d4f21d576?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Sep 26 |
 | **[Siemens](https://www.siemens.com/)** | **[Data Analysis Internship- Customer Service (Summer 2026)](https://jobright.ai/jobs/info/68b997df6105227d1189606a?utm_campaign=1066&utm_source=git)** | New Castle, DE | On Site | Sep 26 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Engineering, Data Analyst (Summer 2026)](https://jobright.ai/jobs/info/68d55fb463d77d6f6f3ede7a?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Sep 26 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2026 Intern - Epidemiologist / Biostatistician](https://jobright.ai/jobs/info/68b99d9c8043103d4f218ebf?utm_campaign=1066&utm_source=git)** | Detroit, MI | Hybrid | Sep 26 |
@@ -147,15 +158,4 @@ Job ID : 247658](https://jobright.ai/jobs/info/68d60a4c1f7fb2169ab15627?utm_camp
 | **[Aegon](https://www.aegon.com/)** | **[Data Analytics Intern (Spring 2026, Full-time Hours)](https://jobright.ai/jobs/info/68ccf8745954791a1d702128?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 25 |
 | **[Fred Hutch](http://www.fredhutch.org/)** | **[Post-Doctoral Research Fellow](https://jobright.ai/jobs/info/68d5f6c01f7fb2169ab14f3e?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Sep 25 |
 | **[Propio Language Services](http://propio-ls.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68d5e65363d77d6f6f3f30e6?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Sep 25 |
-| **[University of Notre Dame](http://mendoza.nd.edu)** | **[Postdoctoral Research Fellow in Sustainability and Data Science](https://jobright.ai/jobs/info/68d5db2d63d77d6f6f3f2c4d?utm_campaign=1066&utm_source=git)** | Notre Dame, IN | On Site | Sep 25 |
-| **[Gordon Food Service](https://www.gfs.com)** | **[Data Analytics - Revenue Management Internship](https://jobright.ai/jobs/info/68d5d2491f7fb2169ab13fe3?utm_campaign=1066&utm_source=git)** | Wyoming, MI | On Site | Sep 25 |
-| **[World Vision](http://www.worldvision.org/)** | **[Impact Data Analytics Intern](https://jobright.ai/jobs/info/68d5c40f63d77d6f6f3f21dc?utm_campaign=1066&utm_source=git)** | Home Working, United States | Remote | Sep 25 |
-| **[IDEAS](http://www.ideas.firm.in)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/68d5bcd01f7fb2169ab135d2?utm_campaign=1066&utm_source=git)** | US-MN-Bloomington | Hybrid | Sep 25 |
-| **[MKS Inc.](https://www.mks.com)** | **[2026 Summer Data Scientist Intern](https://jobright.ai/jobs/info/68d5b8f72116ff37ee08fd06?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Sep 25 |
-| **[North Carolina State University](http://www.ncsu.edu/)** | **[Postdoctoral Research Scholar](https://jobright.ai/jobs/info/68d5dc932116ff37ee090bf8?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Sep 25 |
-| **[Sanofi](https://www.sanofi.com)** | **[Biomarker Data Analysis -Summer 2026 Intern](https://jobright.ai/jobs/info/68d5ab791f7fb2169ab12e59?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Sep 25 |
-| **[Gordon Food Service](https://www.gfs.com)** | **[Data Analytics - Revenue Management Internship](https://jobright.ai/jobs/info/68d5ab1b14935e31e231ac43?utm_campaign=1066&utm_source=git)** | Wyoming, Michigan | On Site | Sep 25 |
-| **[Ascension](https://healthcare.ascension.org)** | **[Intern, Data Action](https://jobright.ai/jobs/info/68d1a1cc8c62e63bc7fcdce2?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 25 |
-| **[GP Fund Solutions](https://gpfundsolutions.com/)** | **[Data Intern - Spring 2026](https://jobright.ai/jobs/info/68cd5daab2a74e1837ed6205?utm_campaign=1066&utm_source=git)** | Latham, NY | Hybrid | Sep 25 |
-| **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Customer Insights and Behavioral Science (Remote)](https://jobright.ai/jobs/info/68d593b01f7fb2169ab11b74?utm_campaign=1066&utm_source=git)** | Reston, VA | Remote | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
