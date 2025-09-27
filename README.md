@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zipline](http://flyzipline.com)** | **[Data Scientist Intern (Spring 2026)](https://jobright.ai/jobs/info/68d795097a37c712687d1ea6?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Sep 27 |
+| **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/68d787d2267b154f9a2dbaad?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 26 |
 | **[Zipline](http://flyzipline.com)** | **[Data Scientist  Intern (Spring 2026)](https://jobright.ai/jobs/info/68d76ccc7a37c712687cc8e4?utm_campaign=1066&utm_source=git)** | South San Francisco, California, USA | On Site | Sep 26 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/68d75e79295f8e37655d6988?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 26 |
 | **[Ibotta](https://home.ibotta.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68d7589861a175619f8c9685?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
@@ -124,9 +126,10 @@ For a complete list, click the following sortable link below:
 | **[Rystad Energy](https://www.rystadenergy.com)** | **[Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68d69dcd894705799a2ec72b?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Sep 26 |
 | **[Stellantis](https://www.stellantis.com/)** | **[2026 Analytics Summer Internship](https://jobright.ai/jobs/info/689e763ffaa4e875e827cddb?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 26 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/68cd8a5ce23def7af55bb67d?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Sep 26 |
-| **[UPS](http://www.ups.com)** | **[UPS Global Finance Summer 2026 Analytics Internship](https://jobright.ai/jobs/info/68ba177c8043103d4f21d6ad?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Sep 26 |
 | **[Notion](https://www.notion.so)** | **[Data Science Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/68cb3e16efdec76df36ba752?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 26 |
+| **[UPS](http://www.ups.com)** | **[UPS Global Finance Summer 2026 Analytics Internship](https://jobright.ai/jobs/info/68ba15558043103d4f21d576?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Sep 26 |
 | **[Siemens](https://www.siemens.com/)** | **[Data Analysis Internship- Customer Service (Summer 2026)](https://jobright.ai/jobs/info/68b997df6105227d1189606a?utm_campaign=1066&utm_source=git)** | New Castle, DE | On Site | Sep 26 |
+| **[MAPFRE](https://www.mapfre.com)** | **[Intern - Advanced Analytics](https://jobright.ai/jobs/info/68cb9f84efdec76df36bfaab?utm_campaign=1066&utm_source=git)** | Webster, MA | On Site | Sep 26 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Engineering, Data Analyst (Summer 2026)](https://jobright.ai/jobs/info/68d55fb463d77d6f6f3ede7a?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Sep 26 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2026 Intern - Epidemiologist / Biostatistician](https://jobright.ai/jobs/info/68b99d9c8043103d4f218ebf?utm_campaign=1066&utm_source=git)** | Detroit, MI | Hybrid | Sep 26 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/68c7b463c008cf3402c8eea0?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Sep 26 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Postdoctoral Fellow-MSH-21015-019](https://jobright.ai/jobs/info/68d77ae3267b154f9a2da036?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Labor Systems Data Analytics & Integration Intern, Spring 2026](https://jobright.ai/jobs/info/68d617a31f7fb2169ab16a18?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Sep 25 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Spring 2026 FOX News Media Internship Program - Data Analytics - New York](https://jobright.ai/jobs/info/68d616ff2116ff37ee093087?utm_campaign=1066&utm_source=git)** | New York, New York, USA | On Site | Sep 25 |
+| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Data Intern: Starts Summer 2026](https://jobright.ai/jobs/info/68b938da5b42bc456282bdbf?utm_campaign=1066&utm_source=git)** | Omaha, NE | Hybrid | Sep 25 |
 | **[Komen Graduate Training Program UT MDACC](http://www.mdanderson.org/komentrainingprogram)** | **[Research Intern - Bioinformatics & Computational Biology (Akbani Lab)](https://jobright.ai/jobs/info/68d6144663d77d6f6f3f475b?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Sep 25 |
 | **[Imprint](https://www.imprint.co)** | **[Risk Data Science Intern](https://jobright.ai/jobs/info/68d613d21f7fb2169ab16277?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Sep 25 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Customer Insights and Behavioral Science (Remote)](https://jobright.ai/jobs/info/68d607522116ff37ee091ece?utm_campaign=1066&utm_source=git)** | Reston, VA | Remote | Sep 25 |
-| **[United Language Group](http://unitedlanguagegroup.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68d5ff911f7fb2169ab152cd?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Sep 25 |
-| **[IDEAS](http://www.ideas.firm.in)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/68d625de894705799a2e7e6d?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 25 |
-| **[Aegon](https://www.aegon.com/)** | **[Data Analytics Intern (Spring 2026, Full-time Hours)](https://jobright.ai/jobs/info/68ccf8745954791a1d702128?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 25 |
-| **[Fred Hutch](http://www.fredhutch.org/)** | **[Post-Doctoral Research Fellow](https://jobright.ai/jobs/info/68d5f6c01f7fb2169ab14f3e?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
