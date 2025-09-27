@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms and Technology - Cyber Security](https://jobright.ai/jobs/info/68d7ac74295f8e37655e071d?utm_campaign=1066&utm_source=git)** | Mount Laurel, NJ | Hybrid | Sep 27 |
+| ↳ | **[2026 Summer Internship Program - Platforms and Technology - Data Science](https://jobright.ai/jobs/info/68d7abd9295f8e37655e056d?utm_campaign=1066&utm_source=git)** | Mount Laurel, NJ | On Site | Sep 27 |
+| ↳ | **[2026 Summer Internship Program - Platforms and Technology - Data Science](https://jobright.ai/jobs/info/68d7aa047a37c712687d39f0?utm_campaign=1066&utm_source=git)** | Mount Laurel, NJ | Hybrid | Sep 27 |
 | **[Zipline](http://flyzipline.com)** | **[Data Scientist Intern (Spring 2026)](https://jobright.ai/jobs/info/68d795097a37c712687d1ea6?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Sep 27 |
 | **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/68d787d2267b154f9a2dbaad?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Sep 26 |
 | **[Zipline](http://flyzipline.com)** | **[Data Scientist  Intern (Spring 2026)](https://jobright.ai/jobs/info/68d76ccc7a37c712687cc8e4?utm_campaign=1066&utm_source=git)** | South San Francisco, California, USA | On Site | Sep 26 |
@@ -72,13 +75,13 @@ For a complete list, click the following sortable link below:
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Data Analyst Intern - EABI (Summer 2026)](https://jobright.ai/jobs/info/68d746c9cb1d8e52c97668ab?utm_campaign=1066&utm_source=git)** | Kansas City, MO | Hybrid | Sep 26 |
 | **[Oaktree Capital Management, L.P.](http://www.oaktreecapital.com)** | **[2026 Intern, Information Solutions](https://jobright.ai/jobs/info/68d74607cb1d8e52c97667e3?utm_campaign=1066&utm_source=git)** | Los Angeles | On Site | Sep 26 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Data Scientist Intern - EABI (Summer 2026)](https://jobright.ai/jobs/info/68d73fe545853d0e39ccdc7f?utm_campaign=1066&utm_source=git)** | Kansas City, MO | Hybrid | Sep 26 |
-| **[Memphis Grizzlies](http://grizzlies.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/68d73992d3fe025a3015fb2c?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Sep 26 |
 | **[RTI Health Solutions](https://rtihs.org/)** | **[Graduate Student Research Intern](https://jobright.ai/jobs/info/68d7358545853d0e39ccd9ab?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Sep 26 |
+| **[Oaktree Capital Management, L.P.](http://www.oaktreecapital.com)** | **[2026 Undergraduate Intern, Risk, Reporting & Analytics](https://jobright.ai/jobs/info/68d7afd5295f8e37655e0a23?utm_campaign=1066&utm_source=git)** | Los Angeles | On Site | Sep 26 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[GIS and Geospatial Data Intern](https://jobright.ai/jobs/info/68d7260745853d0e39ccd390?utm_campaign=1066&utm_source=git)** | US-CA-Davis | On Site | Sep 26 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/68d7256945853d0e39ccd27f?utm_campaign=1066&utm_source=git)** | US-TN-Memphis | On Site | Sep 26 |
+| **[RTI International](http://www.rti.org)** | **[Graduate Student Research Intern](https://jobright.ai/jobs/info/68d72544d3fe025a3015f4b9?utm_campaign=1066&utm_source=git)** | Raleigh, North Carolina | Hybrid | Sep 26 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[GIS and Geospatial Data Intern](https://jobright.ai/jobs/info/68d72516d3fe025a3015f46d?utm_campaign=1066&utm_source=git)** | US-NV-Reno | On Site | Sep 26 |
 | **[Ibotta](https://home.ibotta.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68d72506d3fe025a3015f44f?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
-| **[RTI International](http://www.rti.org)** | **[Graduate Student Research Intern](https://jobright.ai/jobs/info/68d723e0894705799a2f0e88?utm_campaign=1066&utm_source=git)** | Raleigh, North Carolina | Hybrid | Sep 26 |
 | **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68d71fe9894705799a2f0d9b?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | On Site | Sep 26 |
 | **[Emerson](http://www.emerson.com)** | **[Data Analyst Co-Op](https://jobright.ai/jobs/info/68d714ea894705799a2f0936?utm_campaign=1066&utm_source=git)** | Marshalltown, IA | On Site | Sep 26 |
 | **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68d713c145853d0e39cccb8a?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Sep 26 |
@@ -141,13 +144,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Co-op - January 2026](https://jobright.ai/jobs/info/68d6571c4736ff202fdd2c52?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 26 |
 | ↳ | **[Data Science Intern (Operations) - Summer 2026](https://jobright.ai/jobs/info/68d656dd894705799a2eada0?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 26 |
 | **[SAS](http://www.sas.com)** | **[Research Intern](https://jobright.ai/jobs/info/68d63be3ebcef82ef5cf8273?utm_campaign=1066&utm_source=git)** | US-MN-Bloomington | Hybrid | Sep 26 |
-| ↳ | **[Research Intern](https://jobright.ai/jobs/info/68d63b704736ff202fdd1107?utm_campaign=1066&utm_source=git)** | Minnesota | Hybrid | Sep 26 |
 | **[Republic Airways](http://www.rjet.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68cc746716d00d2beeb2001d?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Sep 26 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Family History Research Project Intern](https://jobright.ai/jobs/info/68d647c1894705799a2ea4ed?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Sep 26 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Spring 2026 FOX News Media Internship Program - Data Analytics - New York](https://jobright.ai/jobs/info/68d646a6894705799a2ea350?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 26 |
-| **[SAS](http://www.sas.com)** | **[Research Analyst Intern](https://jobright.ai/jobs/info/68d63c76ebcef82ef5cf8410?utm_campaign=1066&utm_source=git)** | US-MN-Bloomington | Hybrid | Sep 26 |
-| ↳ | **[Research Analyst Intern](https://jobright.ai/jobs/info/68d63b524736ff202fdd10be?utm_campaign=1066&utm_source=git)** | Minnesota | Hybrid | Sep 26 |
-| **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship Summer 2026 - Business Intelligence](https://jobright.ai/jobs/info/68d63ae44736ff202fdd0f9a?utm_campaign=1066&utm_source=git)** | Idaho Falls | On Site | Sep 26 |
+| **[University of Michigan](https://www.umich.edu)** | **[Post Doctoral Research Fellow](https://jobright.ai/jobs/info/68d288b817554c2d9eee8220?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Sep 26 |
 | **[Susquehanna International Group](http://sig.com)** | **[Discovery Program: Quantitative Trading (On-site)](https://jobright.ai/jobs/info/68d63ac9ebcef82ef5cf7f8f?utm_campaign=1066&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Sep 26 |
 | **[Imprint](https://www.imprint.co)** | **[Risk Data Science Intern](https://jobright.ai/jobs/info/68d624a1894705799a2e7b8f?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Sep 25 |
 | **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Postdoctoral Fellow-MSH-21015-019](https://jobright.ai/jobs/info/68d77ae3267b154f9a2da036?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 25 |
