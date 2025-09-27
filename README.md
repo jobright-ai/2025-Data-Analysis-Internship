@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Quantitative Developer Intern, Summer 2026](https://jobright.ai/jobs/info/68d7d8a47796a83635f0c5bd?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Sep 27 |
+| **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Labor Systems Data Analytics & Integration Intern, Spring 2026](https://jobright.ai/jobs/info/68d7d7d8295f8e37655e2c00?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Sep 27 |
 | **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Quantitative Researcher Intern, Summer 2026](https://jobright.ai/jobs/info/68d7cedc295f8e37655e259b?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Sep 27 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Data and Analytics Intern- Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68d7bb91295f8e37655e1356?utm_campaign=1066&utm_source=git)** | Franklin, TN | On Site | Sep 27 |
 | **[Dialysis Clinic, Inc.](http://www.dciinc.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68ccda9d5954791a1d6ffebe?utm_campaign=1066&utm_source=git)** | Nashville, TN | On Site | Sep 27 |
+| **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68bb39236105227d118a4411?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 27 |
 | **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms and Technology - Cyber Security](https://jobright.ai/jobs/info/68d7ac74295f8e37655e071d?utm_campaign=1066&utm_source=git)** | Mount Laurel, NJ | Hybrid | Sep 27 |
 | ↳ | **[2026 Summer Internship Program - Platforms and Technology - Data Science](https://jobright.ai/jobs/info/68d7abd9295f8e37655e056d?utm_campaign=1066&utm_source=git)** | Mount Laurel, NJ | On Site | Sep 27 |
 | ↳ | **[2026 Summer Internship Program - Platforms and Technology - Data Science](https://jobright.ai/jobs/info/68d7aa047a37c712687d39f0?utm_campaign=1066&utm_source=git)** | Mount Laurel, NJ | Hybrid | Sep 27 |
@@ -91,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68d713c145853d0e39cccb8a?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Sep 26 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Air Traffic Strategy Data Analytics (Summer 2026)](https://jobright.ai/jobs/info/68d71223d3fe025a3015eaeb?utm_campaign=1066&utm_source=git)** | Arlington Heights, IL | On Site | Sep 26 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Co-op, BI Developer, Finance Business Intelligence](https://jobright.ai/jobs/info/68d70e9c45853d0e39ccc943?utm_campaign=1066&utm_source=git)** | Loveland, CO | On Site | Sep 26 |
+| **[Texas A&M University](http://www.tamu.edu)** | **[Undergraduate Research Assistant (SS- MHGP)](https://jobright.ai/jobs/info/68d7db8c7a37c712687d608d?utm_campaign=1066&utm_source=git)** | Laredo, TX | On Site | Sep 26 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Business Technology Solutions Intern - Data](https://jobright.ai/jobs/info/68d70cb9894705799a2f0430?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Sep 26 |
 | **[Veritiv](https://www.veritiv.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68d70a35894705799a2f0335?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Sep 26 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Data Analyst Intern - EABI (Summer 2026)](https://jobright.ai/jobs/info/68d7096dd3fe025a3015e56c?utm_campaign=1066&utm_source=git)** | 811 Main | Hybrid | Sep 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Republic Airways](http://www.rjet.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68cc746716d00d2beeb2001d?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Sep 26 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Family History Research Project Intern](https://jobright.ai/jobs/info/68d647c1894705799a2ea4ed?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Sep 26 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Spring 2026 FOX News Media Internship Program - Data Analytics - New York](https://jobright.ai/jobs/info/68d646a6894705799a2ea350?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 26 |
-| **[University of Michigan](https://www.umich.edu)** | **[Post Doctoral Research Fellow](https://jobright.ai/jobs/info/68d288b817554c2d9eee8220?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Sep 26 |
-| **[Susquehanna International Group](http://sig.com)** | **[Discovery Program: Quantitative Trading (On-site)](https://jobright.ai/jobs/info/68d63ac9ebcef82ef5cf7f8f?utm_campaign=1066&utm_source=git)** | US-PA-Bala Cynwyd (Philadelphia Area) | On Site | Sep 26 |
-| **[Imprint](https://www.imprint.co)** | **[Risk Data Science Intern](https://jobright.ai/jobs/info/68d624a1894705799a2e7b8f?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Sep 25 |
-| **[Mount Sinai Morningside](http://www.mountsinai.org/morningside)** | **[Postdoctoral Fellow-MSH-21015-019](https://jobright.ai/jobs/info/68d77ae3267b154f9a2da036?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
