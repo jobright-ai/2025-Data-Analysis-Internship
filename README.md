@@ -57,9 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Nexus](https://www.linkedin.com/company/107713175)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68d86a0ec9952514e1e95342?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 27 |
-| **[University of Idaho](http://www.uidaho.edu/)** | **[Postdoctoral Research Associate, Statistical and Computational Modeling for Digital Twins](https://jobright.ai/jobs/info/68d844bd7a37c712687d949b?utm_campaign=1066&utm_source=git)** | Moscow, ID | On Site | Sep 27 |
-| **[Best Job Tool](https://www.bestjobtool.com)** | **[IT Developer](https://jobright.ai/jobs/info/68d83697295f8e37655e625a?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 27 |
 | **[Dun & Bradstreet](http://www.dnb.com)** | **[2026 Summer Internship Program - Data & Analytics](https://jobright.ai/jobs/info/68d813d2295f8e37655e5400?utm_campaign=1066&utm_source=git)** | Jacksonville - Florida - United States | On Site | Sep 27 |
 | **[Quill](http://www.quill.com)** | **[Quill Reporting & Analytics Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68d807f47796a83635f0e73c?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Sep 27 |
 | ↳ | **[Quill Data Science Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68d807d67796a83635f0e6d6?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Sep 27 |
@@ -103,7 +100,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d7574b7a37c712687c9539?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[GIS and Geospatial Data Intern](https://jobright.ai/jobs/info/68d75036cb1d8e52c976700a?utm_campaign=1066&utm_source=git)** | Walnut Creek, CA | On Site | Sep 26 |
 | ↳ | **[GIS and Geospatial Data Intern](https://jobright.ai/jobs/info/68d74f21cb1d8e52c9766dcd?utm_campaign=1066&utm_source=git)** | Oakland, CA | On Site | Sep 26 |
-| ↳ | **[GIS and Geospatial Data Intern](https://jobright.ai/jobs/info/68d74857f9dbe42bf62c1087?utm_campaign=1066&utm_source=git)** | Reno, NV | On Site | Sep 26 |
+| **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68ccf5bd77add66568abca4c?utm_campaign=1066&utm_source=git)** | Parsippany, NJ | On Site | Sep 26 |
+| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[GIS and Geospatial Data Intern](https://jobright.ai/jobs/info/68d74857f9dbe42bf62c1087?utm_campaign=1066&utm_source=git)** | Reno, NV | On Site | Sep 26 |
 | ↳ | **[GIS and Geospatial Data Intern](https://jobright.ai/jobs/info/68d74846cb1d8e52c9766abd?utm_campaign=1066&utm_source=git)** | Davis, CA | On Site | Sep 26 |
 | **[RTI International](http://www.rti.org)** | **[Graduate Student Research Intern](https://jobright.ai/jobs/info/68d7483de5293e3538af380c?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Sep 26 |
 | **[Marshall University School of Pharmacy](https://www.marshall.edu/pharmacy/)** | **[Postdoctoral Researcher in Bioinformatics](https://jobright.ai/jobs/info/68d74828cb1d8e52c9766a97?utm_campaign=1066&utm_source=git)** | Huntington, WV | On Site | Sep 26 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Spatial Transcriptomics Intern (PhD)](https://jobright.ai/jobs/info/68d6bb2245853d0e39cc97b3?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Sep 26 |
 | ↳ | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/68d6baa9894705799a2ed550?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Sep 26 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Business Network Analytics - Supply Chain & Market Trends](https://jobright.ai/jobs/info/68d6b692894705799a2ed2f1?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 26 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Enterprise Reference Data Analyst, CO-OP](https://jobright.ai/jobs/info/68d6b61d45853d0e39cc9634?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Sep 26 |
+| **[Zekelman Industries](http://www.zekelman.com)** | **[Data Visualization Intern](https://jobright.ai/jobs/info/68d6b43345853d0e39cc93db?utm_campaign=1066&utm_source=git)** | Chicago, IL - Headquarters | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
