@@ -69,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68ccd378b274cd205ab4ff5f?utm_campaign=1066&utm_source=git)** | Glenview, IL | On Site | Sep 28 |
 | ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0b783d13d1f5b6cb9ec?utm_campaign=1066&utm_source=git)** | Kenosha, WI | On Site | Sep 28 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Data Analysis](https://jobright.ai/jobs/info/68da6ae40b832179ca4ad862?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Sep 28 |
+| **[Skyworks Solutions, Inc.](http://www.skyworksinc.com)** | **[Data Scientist Co-op - Summer/Fall 2026](https://jobright.ai/jobs/info/68bb99558043103d4f229fa8?utm_campaign=1066&utm_source=git)** | Thousand Oaks, CA | On Site | Sep 28 |
 | **[Aptiv](http://www.aptiv.com)** | **[Data Analytics Engineering Intern](https://jobright.ai/jobs/info/68cfdcb3846f0b04af68577e?utm_campaign=1066&utm_source=git)** | Troy, MI | On Site | Sep 28 |
 | **[DriveTime](https://www.drivetime.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68d0bb83dbd9fb154edef339?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Sep 27 |
 | **[Lennar](http://lennar.com)** | **[Future Builders Internship Program - Data Analysis](https://jobright.ai/jobs/info/68d1897ffa731f61692e0224?utm_campaign=1066&utm_source=git)** | Bentonville, AR | On Site | Sep 27 |
@@ -77,13 +78,13 @@ For a complete list, click the following sortable link below:
 | **[Quill](http://www.quill.com)** | **[Quill Reporting & Analytics Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68d807f47796a83635f0e73c?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Sep 27 |
 | ↳ | **[Quill Data Science Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68d807d67796a83635f0e6d6?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Sep 27 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist - Model Risk Management)](https://jobright.ai/jobs/info/68cd951de23def7af55bc201?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Sep 27 |
+| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68cd13bbb2a74e1837ed1f42?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Sep 27 |
+| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68d80437295f8e37655e4c1c?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Sep 27 |
 | ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/68d802e27a37c712687d7b7a?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Sep 27 |
 | ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/68d802cb7a37c712687d7b34?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
 | ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68d8024d7796a83635f0e4f5?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
-| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68bb7ac28043103d4f228ec0?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Sep 27 |
+| ↳ | **[Summer Associate Internship (Data Analyst)](https://jobright.ai/jobs/info/68d7fef97796a83635f0e25b?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
 | ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/68d7fb857796a83635f0e0c0?utm_campaign=1066&utm_source=git)** | Virginia Beach, VA | Hybrid | Sep 27 |
-| ↳ | **[Summer Associate Internship (Data Analyst)](https://jobright.ai/jobs/info/68d7fb847796a83635f0e0be?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
-| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68d7fb39295f8e37655e47ee?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Sep 27 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Data Analytics, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/68cd5be5b2a74e1837ed5ee1?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Sep 27 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/68d7f9697a37c712687d772c?utm_campaign=1066&utm_source=git)** | Winchester, VA | Hybrid | Sep 27 |
 | ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/68d7f9357a37c712687d76bd?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Staples Canada](http://www.staples.ca)** | **[Quill Reporting & Analytics Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68d6ff37d3fe025a3015dd1b?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Sep 26 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Data Scientist Intern - EABI (Summer 2026)](https://jobright.ai/jobs/info/68d6feea45853d0e39ccbc0b?utm_campaign=1066&utm_source=git)** | 811 Main | Hybrid | Sep 26 |
 | **[Zekelman Industries](http://www.zekelman.com)** | **[Data Visualization Intern](https://jobright.ai/jobs/info/68d6feb6894705799a2ef821?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Sep 26 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[GIS (Geographical Information Science) Analyst Co-Op (January - July 2026)](https://jobright.ai/jobs/info/68d6fd3ad3fe025a3015d9d9?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
