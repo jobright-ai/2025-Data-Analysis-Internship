@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grey State Apparel](https://greystateapparel.com/)** | **[Data Analyst internship](https://jobright.ai/jobs/info/68da52766df7b8311bb0e887?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Sep 29 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2026 FOX News Media Internship Program - Data Analytics - New York](https://jobright.ai/jobs/info/68da38143c03cd32709447fc?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/68da28590b832179ca4ab92b?utm_campaign=1066&utm_source=git)** | Garland, TX | On Site | Sep 28 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[Summer 2026 FOX News Media Internship Program - Data Analytics - New York](https://jobright.ai/jobs/info/68da0d1f0b832179ca4aa9e0?utm_campaign=1066&utm_source=git)** | New York, New York, USA | On Site | Sep 28 |
@@ -72,13 +73,13 @@ For a complete list, click the following sortable link below:
 | **[Quill](http://www.quill.com)** | **[Quill Reporting & Analytics Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68d807f47796a83635f0e73c?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Sep 27 |
 | ↳ | **[Quill Data Science Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68d807d67796a83635f0e6d6?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Sep 27 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist - Model Risk Management)](https://jobright.ai/jobs/info/68cd951de23def7af55bc201?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Sep 27 |
-| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68cd13bbb2a74e1837ed1f42?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Sep 27 |
-| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68d80437295f8e37655e4c1c?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Sep 27 |
 | ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/68d802e27a37c712687d7b7a?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Sep 27 |
 | ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/68d802cb7a37c712687d7b34?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
 | ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68d8024d7796a83635f0e4f5?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
+| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68bb7ac28043103d4f228ec0?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Sep 27 |
 | ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/68d7fb857796a83635f0e0c0?utm_campaign=1066&utm_source=git)** | Virginia Beach, VA | Hybrid | Sep 27 |
 | ↳ | **[Summer Associate Internship (Data Analyst)](https://jobright.ai/jobs/info/68d7fb847796a83635f0e0be?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
+| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68d7fb39295f8e37655e47ee?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Sep 27 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Data Analytics, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/68cd5be5b2a74e1837ed5ee1?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Sep 27 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/68d7f9697a37c712687d772c?utm_campaign=1066&utm_source=git)** | Winchester, VA | Hybrid | Sep 27 |
 | ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/68d7f9357a37c712687d76bd?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
@@ -133,9 +134,9 @@ For a complete list, click the following sortable link below:
 | **[Oaktree Capital Management, L.P.](http://www.oaktreecapital.com)** | **[2026 Undergraduate Intern, Risk, Reporting & Analytics](https://jobright.ai/jobs/info/68d7afd5295f8e37655e0a23?utm_campaign=1066&utm_source=git)** | Los Angeles | On Site | Sep 26 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[GIS and Geospatial Data Intern](https://jobright.ai/jobs/info/68d7260745853d0e39ccd390?utm_campaign=1066&utm_source=git)** | US-CA-Davis | On Site | Sep 26 |
 | **[Memphis Grizzlies](http://grizzlies.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/68d7256945853d0e39ccd27f?utm_campaign=1066&utm_source=git)** | US-TN-Memphis | On Site | Sep 26 |
-| **[RTI International](http://www.rti.org)** | **[Graduate Student Research Intern](https://jobright.ai/jobs/info/68d72544d3fe025a3015f4b9?utm_campaign=1066&utm_source=git)** | Raleigh, North Carolina | Hybrid | Sep 26 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[GIS and Geospatial Data Intern](https://jobright.ai/jobs/info/68d72516d3fe025a3015f46d?utm_campaign=1066&utm_source=git)** | US-NV-Reno | On Site | Sep 26 |
 | **[Ibotta](https://home.ibotta.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68d72506d3fe025a3015f44f?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
+| **[RTI International](http://www.rti.org)** | **[Graduate Student Research Intern](https://jobright.ai/jobs/info/68d723e0894705799a2f0e88?utm_campaign=1066&utm_source=git)** | Raleigh, North Carolina | Hybrid | Sep 26 |
 | **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68d71fe9894705799a2f0d9b?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | On Site | Sep 26 |
 | **[Emerson](http://www.emerson.com)** | **[Data Analyst Co-Op](https://jobright.ai/jobs/info/68d714ea894705799a2f0936?utm_campaign=1066&utm_source=git)** | Marshalltown, IA | On Site | Sep 26 |
 | **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68d713c145853d0e39cccb8a?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Sep 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/68b9d1d08043103d4f21ac16?utm_campaign=1066&utm_source=git)** | Rochester, New York Metropolitan Area | On Site | Sep 26 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[USDA-ARS Fellowship in Data Management and Machine Learning](https://jobright.ai/jobs/info/68d6f36345853d0e39ccb3d8?utm_campaign=1066&utm_source=git)** | Albany, CA | On Site | Sep 26 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Data and Analytics Intern- Summer 2026- Franklin, TN](https://jobright.ai/jobs/info/68d6ea90d3fe025a3015d102?utm_campaign=1066&utm_source=git)** | Franklin, Tennessee - United States of America | On Site | Sep 26 |
-| **[PrizePicks](https://prizepicks.com)** | **[Customer Insights Intern - Spring 2026](https://jobright.ai/jobs/info/68d6ea3ed3fe025a3015d06b?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
