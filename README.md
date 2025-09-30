@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Data Science & Digital Innovation Intern - Miami, FL](https://jobright.ai/jobs/info/68dc117ad6470e72cf4d86b5?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
+| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Digital Data Science Analyst Intern](https://jobright.ai/jobs/info/68dc0f0797329f2f7732252c?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Sep 30 |
+| **[Apprenticely](https://apprenticely.org/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68c829d3983e6768bc54a5b5?utm_campaign=1066&utm_source=git)** | Bentonville, AR | Hybrid | Sep 30 |
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Data Analytics Engineering Intern](https://jobright.ai/jobs/info/68dbfa576f6c5c3fadf358cd?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Sep 30 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Applied Statistics Intern](https://jobright.ai/jobs/info/68dbf9fa97329f2f77321a6a?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Hybrid | Sep 30 |
 | **[Clark Associates](http://clarkassociatesinc.biz)** | **[Procurement Data & Reporting Intern - Summer 2026](https://jobright.ai/jobs/info/68dbf1c56f6c5c3fadf35504?utm_campaign=1066&utm_source=git)** | Lancaster, PA | On Site | Sep 30 |
@@ -67,10 +70,10 @@ For a complete list, click the following sortable link below:
 | **[GALLO](https://www.gallo.com)** | **[Geospacial Data Science Internship 2026 May - December](https://jobright.ai/jobs/info/68bf359c8e65e77df55b84b4?utm_campaign=1066&utm_source=git)** | Modesto, CA | On Site | Sep 30 |
 | **[MeloTech](https://www.melotech.ai)** | **[Data Science Intern](https://jobright.ai/jobs/info/68dbd9686f6c5c3fadf328be?utm_campaign=1066&utm_source=git)** | Berlin, NY | On Site | Sep 30 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68dbd92d6f6c5c3fadf32890?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 30 |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Data & Analytics Internship - Spring 2026](https://jobright.ai/jobs/info/68dc0867d6470e72cf4d80e5?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Sep 29 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Data Scientist (Summer 2026)](https://jobright.ai/jobs/info/68d73fe545853d0e39ccdc7f?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Sep 27 |
 | ↳ | **[Intern - Data Analyst (Summer 2026)](https://jobright.ai/jobs/info/68d746c9cb1d8e52c97668ab?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Sep 27 |
 | **[TRG](https://trg.agency)** | **[Data Strategist Intern (Fall 2025)](https://jobright.ai/jobs/info/68d4176f8c62e63bc7fe5c72?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Sep 25 |
-| **[Cabarrus Health Alliance](https://www.cabarrushealth.org)** | **[PMQI Internship](https://jobright.ai/jobs/info/68dbb716d6470e72cf4d22a6?utm_campaign=1066&utm_source=git)** | Kannapolis Location , Kannapolis, NC, US | On Site | Sep 22 |
 | **[Larry H. Miller Real Estate](www.lhmre.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68dbed9597329f2f77321169?utm_campaign=1066&utm_source=git)** | Sandy, Utah, United States | On Site | Sep 12 |
 | **[CAS](http://www.cas.org)** | **[BU24IN- Bioinformatics Scientist Intern](https://jobright.ai/jobs/info/68dbe42fd6470e72cf4d5a7e?utm_campaign=1066&utm_source=git)** | Columbus, Ohio, United States | On Site | Sep 05 |
 | **[ASARCO](https://asarco.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68dbdbb797329f2f7731efe7?utm_campaign=1066&utm_source=git)** | P.O. Box 640, Kearny, AZ85137 | On Site | Sep 03 |
