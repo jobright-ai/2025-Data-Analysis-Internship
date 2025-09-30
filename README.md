@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Georgia Transmission](http://gatrans.com)** | **[Co-op, Data Analytics](https://jobright.ai/jobs/info/68db7bede19b9e63ba20c7ca?utm_campaign=1066&utm_source=git)** | Tucker,GA,US | On Site | Sep 29 |
 | **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Research Assistant](https://jobright.ai/jobs/info/68db4d7634f2c406da6d66bc?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Sep 29 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/68db445be19b9e63ba209d17?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Sep 29 |
 | ↳ | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/68db40419f13662d20e48e11?utm_campaign=1066&utm_source=git)** | Albany, NY | On Site | Sep 29 |
@@ -147,14 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Quill](http://www.quill.com)** | **[Quill Reporting & Analytics Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68d807f47796a83635f0e73c?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Sep 27 |
 | ↳ | **[Quill Data Science Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68d807d67796a83635f0e6d6?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Sep 27 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist - Model Risk Management)](https://jobright.ai/jobs/info/68cd951de23def7af55bc201?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Sep 27 |
+| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68cd13bbb2a74e1837ed1f42?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Sep 27 |
+| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68d80437295f8e37655e4c1c?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Sep 27 |
 | ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/68d802e27a37c712687d7b7a?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Sep 27 |
 | ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/68d802cb7a37c712687d7b34?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
 | ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68d8024d7796a83635f0e4f5?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
-| ↳ | **[Summer Associate Internship (Data Analyst)](https://jobright.ai/jobs/info/68d7fef97796a83635f0e25b?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
-| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68bb7ac28043103d4f228ec0?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Sep 27 |
 | ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/68d7fb857796a83635f0e0c0?utm_campaign=1066&utm_source=git)** | Virginia Beach, VA | Hybrid | Sep 27 |
-| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68d7fb39295f8e37655e47ee?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Sep 27 |
+| ↳ | **[Summer Associate Internship (Data Analyst)](https://jobright.ai/jobs/info/68d7fb847796a83635f0e0be?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Data Analytics, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/68cd5be5b2a74e1837ed5ee1?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Sep 27 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/68d7f9697a37c712687d772c?utm_campaign=1066&utm_source=git)** | Winchester, VA | Hybrid | Sep 27 |
-| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/68d7f9357a37c712687d76bd?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
