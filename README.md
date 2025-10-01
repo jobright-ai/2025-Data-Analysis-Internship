@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[AI & Data Insights Analyst Internship In Bali](https://jobright.ai/jobs/info/68dd30dca125e75c422a861a?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Oct 01 |
+| ↳ | **[AI & Data Insights Analyst Internship In Bali](https://jobright.ai/jobs/info/68dd309bddc10244dd67d0c1?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 01 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern – Data Analytics (OIG)](https://jobright.ai/jobs/info/68cc743e16d00d2beeb1ff94?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Oct 01 |
+| **[ISO New England Inc.](http://www.iso-ne.com)** | **[Student Intern - Market Data Analyst](https://jobright.ai/jobs/info/68dd2fe5a125e75c422a84e6?utm_campaign=1066&utm_source=git)** | ISO New England Inc., One Sullivan Road, Holyoke, Massachusetts, United States of America | On Site | Oct 01 |
+| **[Brevan Howard](http://www.brevanhoward.com)** | **[2026 Summer Internship Program – Artificial Intelligence & Quant, New York](https://jobright.ai/jobs/info/68dd2fc6a125e75c422a8493?utm_campaign=1066&utm_source=git)** | New York (1345) | On Site | Oct 01 |
 | **[Google](https://www.google.com)** | **[Business Intelligence Intern, Google Public Sector, Summer 2026](https://jobright.ai/jobs/info/68dd0d3744d32141e0bf3c0c?utm_campaign=1066&utm_source=git)** | Reston, VA, USA | On Site | Oct 01 |
 | **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (PhD) (Summer 2026)](https://jobright.ai/jobs/info/68dcf650accfd24b67e5c18a?utm_campaign=1066&utm_source=git)** | Burlingame, CA | On Site | Oct 01 |
 | ↳ | **[Data Scientist Intern, Product Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dcf632a125e75c422a7441?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Oct 01 |
@@ -106,14 +111,15 @@ For a complete list, click the following sortable link below:
 | **[Hive Financial Systems](https://hivefs.com)** | **[Analytics Internship](https://jobright.ai/jobs/info/68dbed50d6470e72cf4d6b35?utm_campaign=1066&utm_source=git)** | Atlanta, Georgia | On Site | Sep 30 |
 | **[Gallagher](http://www.ajg.com)** | **[U.S Internship - Data Analytics](https://jobright.ai/jobs/info/68cc5b1b7342c7623ae62d7c?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | On Site | Sep 30 |
 | **[Franklin County Sheriff's Office](https://sheriff.franklincountyohio.gov/)** | **[Criminal Intelligence Intern](https://jobright.ai/jobs/info/68dbd9b4d6470e72cf4d4c71?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Sep 30 |
+| **[Nicolet National Bank](http://nicoletbank.com)** | **[Data Intern - Summer 2026](https://jobright.ai/jobs/info/68bf2d2b8e65e77df55b7dd2?utm_campaign=1066&utm_source=git)** | Green Bay, WI | On Site | Sep 30 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Digital & Travel Operations Analytics Intern, Spring 2026](https://jobright.ai/jobs/info/68dbd2d16f6c5c3fadf31faf?utm_campaign=1066&utm_source=git)** | Celebration, FL | On Site | Sep 30 |
 | **[GALLO](https://www.gallo.com)** | **[Geospacial Data Science Internship 2026 May - December](https://jobright.ai/jobs/info/68bf359c8e65e77df55b84b4?utm_campaign=1066&utm_source=git)** | Modesto, CA | On Site | Sep 30 |
-| **[MeloTech](https://www.melotech.ai)** | **[Data Science Intern](https://jobright.ai/jobs/info/68dbd9686f6c5c3fadf328be?utm_campaign=1066&utm_source=git)** | Berlin, NY | On Site | Sep 30 |
+| **[Melotech](https://www.melotech.ai)** | **[Data Science Intern](https://jobright.ai/jobs/info/68dbd9686f6c5c3fadf328be?utm_campaign=1066&utm_source=git)** | Berlin, NY | On Site | Sep 30 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68dbd92d6f6c5c3fadf32890?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | **[Franklin County Sheriff's Office](https://sheriff.franklincountyohio.gov/)** | **[Criminal Intelligence Intern](https://jobright.ai/jobs/info/68dcdf01a125e75c422a6760?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Sep 29 |
 | **[Stellantis](https://www.stellantis.com/)** | **[2026 Analytics Summer Internship](https://jobright.ai/jobs/info/68dcf58eaccfd24b67e5bf68?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 28 |
-| **[Ibotta](https://home.ibotta.com)** | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d7574b7a37c712687c9539?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
-| **[Commerce Bank](https://www.commercebank.com/)** | **[Data Analyst Intern - EABI (Summer 2026)](https://jobright.ai/jobs/info/68d746c9cb1d8e52c97668ab?utm_campaign=1066&utm_source=git)** | Kansas City, MO | Hybrid | Sep 26 |
-| ↳ | **[Data Scientist Intern - EABI (Summer 2026)](https://jobright.ai/jobs/info/68d73fe545853d0e39ccdc7f?utm_campaign=1066&utm_source=git)** | Kansas City, MO | Hybrid | Sep 26 |
+| **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Data Analyst (Summer 2026)](https://jobright.ai/jobs/info/68d746c9cb1d8e52c97668ab?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Sep 27 |
+| **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Data Scientist (Summer 2026)](https://jobright.ai/jobs/info/68d73fe545853d0e39ccdc7f?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Sep 26 |
 | ↳ | **[Intern - Data Analyst (Summer 2026)](https://jobright.ai/jobs/info/68d7096dd3fe025a3015e56c?utm_campaign=1066&utm_source=git)** | 811 Main | Hybrid | Sep 26 |
+| **[TRG](https://trg.agency)** | **[Data Strategist Intern (Fall 2025)](https://jobright.ai/jobs/info/68d4176f8c62e63bc7fe5c72?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Sep 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
