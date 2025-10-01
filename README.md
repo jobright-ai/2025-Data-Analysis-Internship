@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Centene Corporation](http://www.centene.com)** | **[Data Governance Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68dc9a9eaccfd24b67e575bc?utm_campaign=1066&utm_source=git)** | Missouri, United States | Remote | Sep 30 |
+| **[Gordon Food Service](https://www.gfs.com)** | **[NA Category Support & Insights Analyst Internship](https://jobright.ai/jobs/info/68dcbaeeaccfd24b67e5950d?utm_campaign=1066&utm_source=git)** | Wyoming, MI | On Site | Sep 30 |
+| ↳ | **[NA Category Support & Insights Analyst Internship](https://jobright.ai/jobs/info/68dcb0bda125e75c422a40b5?utm_campaign=1066&utm_source=git)** | Wyoming, Michigan | On Site | Sep 30 |
 | **[MetaSource](http://www.metasource.com/)** | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc936fddc10244dd676d89?utm_campaign=1066&utm_source=git)** | Draper, UT | Remote | Sep 30 |
 | **[ADM](http://www.adm.com)** | **[Data Analyst Intern - Erlanger, KY](https://jobright.ai/jobs/info/68dc8e7fa125e75c422a2147?utm_campaign=1066&utm_source=git)** | Erlanger, KY | On Site | Sep 30 |
 | ↳ | **[Data Analyst Intern - Erlanger, KY](https://jobright.ai/jobs/info/68dc8b84a125e75c422a1d93?utm_campaign=1066&utm_source=git)** | KY - Kentucky | On Site | Sep 30 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Gordon Food Service](https://www.gfs.com)** | **[Vendor and Customer Master Data Internship](https://jobright.ai/jobs/info/68dc63b2ddc10244dd675003?utm_campaign=1066&utm_source=git)** | Wyoming, MI | On Site | Sep 30 |
 | **[Novartis](https://www.novartis.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68dc5969a125e75c4229fd4a?utm_campaign=1066&utm_source=git)** | East Hanover, NJ | Remote | Sep 30 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68dc8b88accfd24b67e568e6?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Sep 30 |
-| **[Centene Corporation](http://www.centene.com)** | **[Data Governance Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68dc8bb5a125e75c422a1e32?utm_campaign=1066&utm_source=git)** | Remote-MO | Remote | Sep 30 |
 | **[EmployStats](https://employstats.com/)** | **[Economic Research Associate- Intern/Entry Level](https://jobright.ai/jobs/info/68dc4accaccfd24b67e53dfc?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Sep 30 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Data & Reporting Analyst Intern](https://jobright.ai/jobs/info/68dc4aa4a125e75c4229f378?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Sep 30 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Data Scientist Intern - Data Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dc4686accfd24b67e53c11?utm_campaign=1066&utm_source=git)** | Sheboygan, WI | Hybrid | Sep 30 |
@@ -80,12 +80,12 @@ For a complete list, click the following sortable link below:
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - IT Data Science (Summer 2026)](https://jobright.ai/jobs/info/68dc29e597329f2f7732317f?utm_campaign=1066&utm_source=git)** | Neenah, WI | On Site | Sep 30 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Gexa Analytics & Data Science Intern](https://jobright.ai/jobs/info/68dc297a66059a42a715c224?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Sep 30 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Sep 30 |
-| **[MetaSource](http://www.metasource.com/)** | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc6c45a125e75c422a0ab2?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 30 |
-| ↳ | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc6c48accfd24b67e554f4?utm_campaign=1066&utm_source=git)** | Fully Remote | Remote | Sep 30 |
+| **[MetaSource](http://www.metasource.com/)** | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc6c48accfd24b67e554f4?utm_campaign=1066&utm_source=git)** | Fully Remote | Remote | Sep 30 |
+| ↳ | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc6c45a125e75c422a0ab2?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 30 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 PL Business Insights Intern](https://jobright.ai/jobs/info/68dc6c84ddc10244dd675524?utm_campaign=1066&utm_source=git)** | Ohio - Columbus, One Nationwide Plaza | On Site | Sep 30 |
 | ↳ | **[Summer 2026 PL Business Insights Intern](https://jobright.ai/jobs/info/68dc6cb7accfd24b67e556ab?utm_campaign=1066&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
-| **[Robotics Education & Competition Foundation](https://www.roboticseducation.org)** | **[Development Department Intern](https://jobright.ai/jobs/info/68dc6c57ddc10244dd675482?utm_campaign=1066&utm_source=git)** | Greenville, TX | On Site | Sep 30 |
-| ↳ | **[Development Department Intern](https://jobright.ai/jobs/info/68dc6c45a125e75c422a0aac?utm_campaign=1066&utm_source=git)** | Greenville, TX Office | On Site | Sep 30 |
+| **[Robotics Education & Competition Foundation](https://www.roboticseducation.org)** | **[Development Department Intern](https://jobright.ai/jobs/info/68dc6c45a125e75c422a0aac?utm_campaign=1066&utm_source=git)** | Greenville, TX Office | On Site | Sep 30 |
+| ↳ | **[Development Department Intern](https://jobright.ai/jobs/info/68dc6c57ddc10244dd675482?utm_campaign=1066&utm_source=git)** | Greenville, TX | On Site | Sep 30 |
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Data Science & Digital Innovation Intern - Miami, FL](https://jobright.ai/jobs/info/68dc117ad6470e72cf4d86b5?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
 | **[Apprenticely](https://apprenticely.org/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68c829d3983e6768bc54a5b5?utm_campaign=1066&utm_source=git)** | Bentonville, AR | Hybrid | Sep 30 |
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Data Analytics Engineering Intern](https://jobright.ai/jobs/info/68dbfa576f6c5c3fadf358cd?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Sep 30 |
@@ -98,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[GALLO](https://www.gallo.com)** | **[Geospacial Data Science Internship 2026 May - December](https://jobright.ai/jobs/info/68bf359c8e65e77df55b84b4?utm_campaign=1066&utm_source=git)** | Modesto, CA | On Site | Sep 30 |
 | **[MeloTech](https://www.melotech.ai)** | **[Data Science Intern](https://jobright.ai/jobs/info/68dbd9686f6c5c3fadf328be?utm_campaign=1066&utm_source=git)** | Berlin, NY | On Site | Sep 30 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68dbd92d6f6c5c3fadf32890?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 30 |
-| **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Data Scientist (Summer 2026)](https://jobright.ai/jobs/info/68d73fe545853d0e39ccdc7f?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Sep 27 |
-| ↳ | **[Intern - Data Analyst (Summer 2026)](https://jobright.ai/jobs/info/68d746c9cb1d8e52c97668ab?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Sep 27 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2026 Analytics & Data Science Intern](https://jobright.ai/jobs/info/68dca40da125e75c422a31a1?utm_campaign=1066&utm_source=git)** | Bloomington, IN | Hybrid | Sep 26 |
-| **[TRG](https://trg.agency)** | **[Data Strategist Intern (Fall 2025)](https://jobright.ai/jobs/info/68d4176f8c62e63bc7fe5c72?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Sep 25 |
+| **[Ibotta](https://home.ibotta.com)** | **[Fraud Analytics Intern](https://jobright.ai/jobs/info/68d7574b7a37c712687c9539?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
+| **[Commerce Bank](https://www.commercebank.com/)** | **[Data Analyst Intern - EABI (Summer 2026)](https://jobright.ai/jobs/info/68d746c9cb1d8e52c97668ab?utm_campaign=1066&utm_source=git)** | Kansas City, MO | Hybrid | Sep 26 |
+| ↳ | **[Data Scientist Intern - EABI (Summer 2026)](https://jobright.ai/jobs/info/68d73fe545853d0e39ccdc7f?utm_campaign=1066&utm_source=git)** | Kansas City, MO | Hybrid | Sep 26 |
+| **[TRG](https://trg.agency)** | **[Data Strategist Intern](https://jobright.ai/jobs/info/68d4176f8c62e63bc7fe5c72?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
