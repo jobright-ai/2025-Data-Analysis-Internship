@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Munich Re](https://www.munichre.com)** | **[Data Science Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/68dd609744d32141e0bf63e9?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Oct 01 |
+| **[American Modern Insurance Group](https://www.amig.com/)** | **[Geographic Information Systems Intern](https://jobright.ai/jobs/info/68dd606dddc10244dd67ee6c?utm_campaign=1066&utm_source=git)** | Amelia, OH | Hybrid | Oct 01 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Graduate Intern - Research Library - Research & Statistics](https://jobright.ai/jobs/info/68dd5ff1a125e75c422aa3a1?utm_campaign=1066&utm_source=git)** | DC-Washington | On Site | Oct 01 |
+| **[American Modern Insurance Group](https://www.amig.com/)** | **[Data Analytics and AI Intern](https://jobright.ai/jobs/info/68dd5fd444d32141e0bf6258?utm_campaign=1066&utm_source=git)** | Amelia, OH | Hybrid | Oct 01 |
+| **[Itron, Inc.](http://www.itron.com)** | **[Intern - Automation and Data Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dd5a1fa125e75c422a9ed7?utm_campaign=1066&utm_source=git)** | United States of America, Washington, Liberty Lake | Hybrid | Oct 01 |
+| **[ISO New England Inc.](http://www.iso-ne.com)** | **[Student Intern - Dashboard Developer](https://jobright.ai/jobs/info/68dd534244d32141e0bf5ba5?utm_campaign=1066&utm_source=git)** | Holyoke, MA | On Site | Oct 01 |
+| ↳ | **[Student Intern - Market Data Analyst](https://jobright.ai/jobs/info/68dd528144d32141e0bf5a0e?utm_campaign=1066&utm_source=git)** | Holyoke, MA | On Site | Oct 01 |
+| ↳ | **[Student Intern - Data Science](https://jobright.ai/jobs/info/68dd4e94a125e75c422a9844?utm_campaign=1066&utm_source=git)** | Holyoke, MA | On Site | Oct 01 |
 | **[Vertex](tryvertex.co)** | **[Vertex Summer Intern 2026, Clinical Data Management & Metrics](https://jobright.ai/jobs/info/68dd4c58a125e75c422a9638?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Oct 01 |
 | ↳ | **[Vertex Summer Intern 2026, Biostatistics and Statistical Programming](https://jobright.ai/jobs/info/68dd4c5144d32141e0bf55c5?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Oct 01 |
 | **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[AI & Data Insights Analyst Internship In Bali](https://jobright.ai/jobs/info/68dd30dca125e75c422a861a?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Oct 01 |
@@ -87,9 +95,11 @@ For a complete list, click the following sortable link below:
 | **[Johns Hopkins Applied Physics Laboratory](http://jhuapl.edu/)** | **[2026 Internship - Decision Systems Intern](https://jobright.ai/jobs/info/68dc758fa125e75c422a0ec8?utm_campaign=1066&utm_source=git)** | Laurel, MD | On Site | Sep 30 |
 | **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[Research Intern - Summer 2026](https://jobright.ai/jobs/info/68dc753caccfd24b67e559ef?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Sep 30 |
 | ↳ | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68dc74f7ddc10244dd67594f?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Sep 30 |
+| **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[Geographic Information Systems Intern - DOIT-2025-4i](https://jobright.ai/jobs/info/68dd579ca125e75c422a9db2?utm_campaign=1066&utm_source=git)** | Trenton, NJ | On Site | Sep 30 |
 | **[Gordon Food Service](https://www.gfs.com)** | **[Vendor and Customer Master Data Internship](https://jobright.ai/jobs/info/68dc63b2ddc10244dd675003?utm_campaign=1066&utm_source=git)** | Wyoming, MI | On Site | Sep 30 |
 | **[Novartis](https://www.novartis.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68dc5969a125e75c4229fd4a?utm_campaign=1066&utm_source=git)** | East Hanover, NJ | Remote | Sep 30 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68dc8b88accfd24b67e568e6?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Sep 30 |
+| **[Centene Corporation](http://www.centene.com)** | **[Data Governance Intern (Undergraduate - Summer)](https://jobright.ai/jobs/info/68dd5a1ea125e75c422a9ecd?utm_campaign=1066&utm_source=git)** | Remote-MO | Remote | Sep 30 |
 | **[EmployStats](https://employstats.com/)** | **[Economic Research Associate- Intern/Entry Level](https://jobright.ai/jobs/info/68dc4accaccfd24b67e53dfc?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Sep 30 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Data & Reporting Analyst Intern](https://jobright.ai/jobs/info/68dc4aa4a125e75c4229f378?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Sep 30 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Data Scientist Intern - Data Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dc4686accfd24b67e53c11?utm_campaign=1066&utm_source=git)** | Sheboygan, WI | Hybrid | Sep 30 |
@@ -100,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Sep 30 |
 | **[MetaSource](http://www.metasource.com/)** | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc6c45a125e75c422a0ab2?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 30 |
 | ↳ | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc6c48accfd24b67e554f4?utm_campaign=1066&utm_source=git)** | Fully Remote | Remote | Sep 30 |
-| **[Nationwide](http://nationwide.com)** | **[Summer 2026 PL Business Insights Intern](https://jobright.ai/jobs/info/68dc6c84ddc10244dd675524?utm_campaign=1066&utm_source=git)** | Ohio - Columbus, One Nationwide Plaza | On Site | Sep 30 |
-| ↳ | **[Summer 2026 PL Business Insights Intern](https://jobright.ai/jobs/info/68dc6cb7accfd24b67e556ab?utm_campaign=1066&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 PL Business Insights Intern](https://jobright.ai/jobs/info/68dc6cb7accfd24b67e556ab?utm_campaign=1066&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
+| ↳ | **[Summer 2026 PL Business Insights Intern](https://jobright.ai/jobs/info/68dc6c84ddc10244dd675524?utm_campaign=1066&utm_source=git)** | Ohio - Columbus, One Nationwide Plaza | On Site | Sep 30 |
 | **[Robotics Education & Competition Foundation](https://www.roboticseducation.org)** | **[Development Department Intern](https://jobright.ai/jobs/info/68dc6c57ddc10244dd675482?utm_campaign=1066&utm_source=git)** | Greenville, TX | On Site | Sep 30 |
 | ↳ | **[Development Department Intern](https://jobright.ai/jobs/info/68dc6c45a125e75c422a0aac?utm_campaign=1066&utm_source=git)** | Greenville, TX Office | On Site | Sep 30 |
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Data Science & Digital Innovation Intern - Miami, FL](https://jobright.ai/jobs/info/68dc117ad6470e72cf4d86b5?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
@@ -118,6 +128,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68dbd92d6f6c5c3fadf32890?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | **[Franklin County Sheriff's Office](https://sheriff.franklincountyohio.gov/)** | **[Criminal Intelligence Intern](https://jobright.ai/jobs/info/68dcdf01a125e75c422a6760?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Sep 29 |
 | **[Stellantis](https://www.stellantis.com/)** | **[2026 Analytics Summer Internship](https://jobright.ai/jobs/info/68dcf58eaccfd24b67e5bf68?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 28 |
+| **[Duquesne Light Company](https://www.duquesnelight.com/)** | **[Summer Internship - Data Analysis/Ops Technology- in   Pittsburgh](https://jobright.ai/jobs/info/68dd5708a125e75c422a9cc6?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | Hybrid | Sep 27 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Data Analyst (Summer 2026)](https://jobright.ai/jobs/info/68d746c9cb1d8e52c97668ab?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Sep 27 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - Data Scientist (Summer 2026)](https://jobright.ai/jobs/info/68d73fe545853d0e39ccdc7f?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Sep 26 |
 | ↳ | **[Intern - Data Analyst (Summer 2026)](https://jobright.ai/jobs/info/68d7096dd3fe025a3015e56c?utm_campaign=1066&utm_source=git)** | 811 Main | Hybrid | Sep 26 |
