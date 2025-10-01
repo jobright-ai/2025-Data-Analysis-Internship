@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Google](https://www.google.com)** | **[Business Intelligence Intern, Google Public Sector, Summer 2026](https://jobright.ai/jobs/info/68dd0d3744d32141e0bf3c0c?utm_campaign=1066&utm_source=git)** | Reston, VA, USA | On Site | Oct 01 |
 | **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (PhD) (Summer 2026)](https://jobright.ai/jobs/info/68dcf650accfd24b67e5c18a?utm_campaign=1066&utm_source=git)** | Burlingame, CA | On Site | Oct 01 |
 | ↳ | **[Data Scientist Intern, Product Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dcf632a125e75c422a7441?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Oct 01 |
 | ↳ | **[Data Scientist Intern, Product Analytics (PhD) (Summer 2026)](https://jobright.ai/jobs/info/68dcf613a125e75c422a741e?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Oct 01 |
@@ -91,10 +92,10 @@ For a complete list, click the following sortable link below:
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - IT Data Science (Summer 2026)](https://jobright.ai/jobs/info/68dc29e597329f2f7732317f?utm_campaign=1066&utm_source=git)** | Neenah, WI | On Site | Sep 30 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Gexa Analytics & Data Science Intern](https://jobright.ai/jobs/info/68dc297a66059a42a715c224?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Sep 30 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Sep 30 |
-| **[MetaSource](http://www.metasource.com/)** | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc6c45a125e75c422a0ab2?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 30 |
-| ↳ | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc6c48accfd24b67e554f4?utm_campaign=1066&utm_source=git)** | Fully Remote | Remote | Sep 30 |
-| **[Nationwide](http://nationwide.com)** | **[Summer 2026 PL Business Insights Intern](https://jobright.ai/jobs/info/68dc6c84ddc10244dd675524?utm_campaign=1066&utm_source=git)** | Ohio - Columbus, One Nationwide Plaza | On Site | Sep 30 |
-| ↳ | **[Summer 2026 PL Business Insights Intern](https://jobright.ai/jobs/info/68dc6cb7accfd24b67e556ab?utm_campaign=1066&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
+| **[MetaSource](http://www.metasource.com/)** | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc6c48accfd24b67e554f4?utm_campaign=1066&utm_source=git)** | Fully Remote | Remote | Sep 30 |
+| ↳ | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc6c45a125e75c422a0ab2?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 30 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 PL Business Insights Intern](https://jobright.ai/jobs/info/68dc6cb7accfd24b67e556ab?utm_campaign=1066&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
+| ↳ | **[Summer 2026 PL Business Insights Intern](https://jobright.ai/jobs/info/68dc6c84ddc10244dd675524?utm_campaign=1066&utm_source=git)** | Ohio - Columbus, One Nationwide Plaza | On Site | Sep 30 |
 | **[Robotics Education & Competition Foundation](https://www.roboticseducation.org)** | **[Development Department Intern](https://jobright.ai/jobs/info/68dc6c45a125e75c422a0aac?utm_campaign=1066&utm_source=git)** | Greenville, TX Office | On Site | Sep 30 |
 | ↳ | **[Development Department Intern](https://jobright.ai/jobs/info/68dc6c57ddc10244dd675482?utm_campaign=1066&utm_source=git)** | Greenville, TX | On Site | Sep 30 |
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Data Science & Digital Innovation Intern - Miami, FL](https://jobright.ai/jobs/info/68dc117ad6470e72cf4d86b5?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
