@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corteva Agriscience](https://www.corteva.com/)** | **[Global Regulatory Intelligence R&D Intern](https://jobright.ai/jobs/info/68de987a44d32141e0c00ebb?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Oct 02 |
+| **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/68de987144d32141e0c00eae?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Oct 02 |
+| **[OneMagnify](http://marketingassociates.com)** | **[Summer Intern](https://jobright.ai/jobs/info/68de8d7f09bda65a4b62b252?utm_campaign=1066&utm_source=git)** | Detroit | Hybrid | Oct 02 |
+| **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/68de8bdb44d32141e0c009eb?utm_campaign=1066&utm_source=git)** | Madison Wisconsin | On Site | Oct 02 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast AI and Data Analytics Intern](https://jobright.ai/jobs/info/68de80a5a125e75c422b49ad?utm_campaign=1066&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | Oct 02 |
 | **[Chimera Rocket Labs](https://chimerarocketlabs.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68de7f71a125e75c422b48fa?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 02 |
 | **[RENK America](https://www.renk.com/en/company/about-renk/locations/muskegon)** | **[IT Intern (Business Intelligence)](https://jobright.ai/jobs/info/68de7ee244d32141e0c00443?utm_campaign=1066&utm_source=git)** | Muskegon, MI | On Site | Oct 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Gexa Analytics & Data Science Intern](https://jobright.ai/jobs/info/68dc297a66059a42a715c224?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Sep 30 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Sep 30 |
 | **[MetaSource](http://www.metasource.com/)** | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc6c45a125e75c422a0ab2?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 30 |
-| ↳ | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc6c48accfd24b67e554f4?utm_campaign=1066&utm_source=git)** | Fully Remote | Remote | Sep 30 |
-| **[Nationwide](http://nationwide.com)** | **[Summer 2026 PL Business Insights Intern](https://jobright.ai/jobs/info/68dc6c84ddc10244dd675524?utm_campaign=1066&utm_source=git)** | Ohio - Columbus, One Nationwide Plaza | On Site | Sep 30 |
-| ↳ | **[Summer 2026 PL Business Insights Intern](https://jobright.ai/jobs/info/68dc6cb7accfd24b67e556ab?utm_campaign=1066&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
-| **[Robotics Education & Competition Foundation](https://www.roboticseducation.org)** | **[Development Department Intern](https://jobright.ai/jobs/info/68dc6c45a125e75c422a0aac?utm_campaign=1066&utm_source=git)** | Greenville, TX Office | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
