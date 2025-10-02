@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Old Mission](http://oldmissioncapital.com)** | **[Micro-Internship - Quant Trader - (January 2026)](https://jobright.ai/jobs/info/68ddd9f4d624072d9ab04db1?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 01 |
+| **[Parkview Health](http://www.parkview.com)** | **[Precision Health Summer Non-Clinical Intern](https://jobright.ai/jobs/info/68ddd6bfddc10244dd6840d1?utm_campaign=1066&utm_source=git)** | Greater Fort Wayne | On Site | Oct 01 |
+| **[Axos Bank](https://www.axosbank.com/)** | **[Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ddd67744d32141e0bfb187?utm_campaign=1066&utm_source=git)** | Omaha, NE | On Site | Oct 01 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Intern, Quantitative Risk Analysis -RBOPS](https://jobright.ai/jobs/info/68ddc1a4a125e75c422aebbc?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Oct 01 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - BI Solutions](https://jobright.ai/jobs/info/68ddbc35ddc10244dd683696?utm_campaign=1066&utm_source=git)** | DeWitt, NY | On Site | Oct 01 |
 | **[Sentry](https://www.sentry.io)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68ddbc14ddc10244dd68364a?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Oct 01 |
 | **[Excellus BCBS](https://www.excellusbcbs.com/)** | **[College Intern I - Summer 2026 - BI Solutions](https://jobright.ai/jobs/info/68ddbbe1a125e75c422aeadd?utm_campaign=1066&utm_source=git)** | Elmira, NY | On Site | Oct 01 |
@@ -110,7 +114,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Intern, Product Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dcf5a2ddc10244dd67bc4c?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Oct 01 |
 | ↳ | **[Data Scientist Intern, Product Analytics (PhD) (Summer 2026)](https://jobright.ai/jobs/info/68dcf56fddc10244dd67bb73?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 01 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/68dcddecaccfd24b67e5b25a?utm_campaign=1066&utm_source=git)** | Virginia Beach, VA | On Site | Oct 01 |
-| **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/68dcd025ddc10244dd67a17f?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Sep 30 |
 | **[Gordon Food Service](https://www.gfs.com)** | **[NA Category Support & Insights Analyst Internship](https://jobright.ai/jobs/info/68dcbaeeaccfd24b67e5950d?utm_campaign=1066&utm_source=git)** | Wyoming, MI | On Site | Sep 30 |
 | ↳ | **[NA Category Support & Insights Analyst Internship](https://jobright.ai/jobs/info/68dcb0bda125e75c422a40b5?utm_campaign=1066&utm_source=git)** | Wyoming, Michigan | On Site | Sep 30 |
 | **[MetaSource](http://www.metasource.com/)** | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc936fddc10244dd676d89?utm_campaign=1066&utm_source=git)** | Draper, UT | Remote | Sep 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nicolet National Bank](http://nicoletbank.com)** | **[Data Intern - Summer 2026](https://jobright.ai/jobs/info/68bf2d2b8e65e77df55b7dd2?utm_campaign=1066&utm_source=git)** | Green Bay, WI | On Site | Sep 30 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Digital & Travel Operations Analytics Intern, Spring 2026](https://jobright.ai/jobs/info/68dbd2d16f6c5c3fadf31faf?utm_campaign=1066&utm_source=git)** | Celebration, FL | On Site | Sep 30 |
 | **[GALLO](https://www.gallo.com)** | **[Geospacial Data Science Internship 2026 May - December](https://jobright.ai/jobs/info/68bf359c8e65e77df55b84b4?utm_campaign=1066&utm_source=git)** | Modesto, CA | On Site | Sep 30 |
-| **[Melotech](https://www.melotech.ai)** | **[Data Science Intern](https://jobright.ai/jobs/info/68dbd9686f6c5c3fadf328be?utm_campaign=1066&utm_source=git)** | Berlin, NY | On Site | Sep 30 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68dbd92d6f6c5c3fadf32890?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Sep 30 |
-| **[Franklin County Sheriff's Office](https://sheriff.franklincountyohio.gov/)** | **[Criminal Intelligence Intern](https://jobright.ai/jobs/info/68dcdf01a125e75c422a6760?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
