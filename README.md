@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Part-Time Metadata Specialist Intern](https://jobright.ai/jobs/info/68ddf79809bda65a4b6253b0?utm_campaign=1066&utm_source=git)** | Lehi, UT | Hybrid | Oct 01 |
 | **[Fortrea](https://www.fortrea.com)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/68ddf39ea125e75c422b06a8?utm_campaign=1066&utm_source=git)** | Westborough MA | On Site | Oct 01 |
-| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Data Science Analyst Intern](https://jobright.ai/jobs/info/68ddeffc44d32141e0bfbf6d?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Oct 01 |
 | **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Information Analytics Intern](https://jobright.ai/jobs/info/68dde93009bda65a4b624975?utm_campaign=1066&utm_source=git)** | Charlotte, NC - 1001 Blythe Blvd | Remote | Oct 01 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Data Science Intern - Spring 2026 - Orlando, FL](https://jobright.ai/jobs/info/68dde74ba125e75c422afca2?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Oct 01 |
 | **[Fortrea](https://www.fortrea.com)** | **[Crisis Management Analyst Intern](https://jobright.ai/jobs/info/68dde70d44d32141e0bfb9e6?utm_campaign=1066&utm_source=git)** | Remote_United States | Remote | Oct 01 |
@@ -83,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part-Time Metadata Specialist Intern](https://jobright.ai/jobs/info/68dd91c744d32141e0bf83b9?utm_campaign=1066&utm_source=git)** | Lehi, UT, United States | On Site | Oct 01 |
 | **[Eastern Companies](https://www.linkedin.com/company/84297732)** | **[Cloud & AI Systems Analyst Intern](https://jobright.ai/jobs/info/68dd8cf7ddc10244dd680ca7?utm_campaign=1066&utm_source=git)** | Johns Creek, GA | On Site | Oct 01 |
 | **[KCF Technologies, Inc.](http://www.kcftech.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68dd8cbb44d32141e0bf80b3?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Oct 01 |
+| **[Codecov](https://about.codecov.io)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68ddfd8aa125e75c422b0a42?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Oct 01 |
 | **[NiSource](https://www.nisource.com/)** | **[Damage Prevention/ Data Analytics Intern](https://jobright.ai/jobs/info/68dd874cddc10244dd68055a?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Oct 01 |
 | **[Curve Magazine](https://www.curvemag.com/articles)** | **[Fact-Checking and Research Intern](https://jobright.ai/jobs/info/68dd870addc10244dd6804c7?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 01 |
 | **[NiSource](https://www.nisource.com/)** | **[Damage Prevention/ Data Analytics Intern](https://jobright.ai/jobs/info/68dd83ea44d32141e0bf7854?utm_campaign=1066&utm_source=git)** | Columbus OH - Arena District | Hybrid | Oct 01 |
@@ -137,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Gordon Food Service](https://www.gfs.com)** | **[Vendor and Customer Master Data Internship](https://jobright.ai/jobs/info/68dc63b2ddc10244dd675003?utm_campaign=1066&utm_source=git)** | Wyoming, MI | On Site | Sep 30 |
 | **[Novartis](https://www.novartis.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68dc5969a125e75c4229fd4a?utm_campaign=1066&utm_source=git)** | East Hanover, NJ | Remote | Sep 30 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68dc8b88accfd24b67e568e6?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Sep 30 |
-| **[EmployStats](https://employstats.com/)** | **[Economic Research Associate- Intern/Entry Level](https://jobright.ai/jobs/info/68dc4accaccfd24b67e53dfc?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Sep 30 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Data & Reporting Analyst Intern](https://jobright.ai/jobs/info/68dc4aa4a125e75c4229f378?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Sep 30 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Data Scientist Intern - Data Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dc4686accfd24b67e53c11?utm_campaign=1066&utm_source=git)** | Sheboygan, WI | Hybrid | Sep 30 |
 | **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Strategy & Transformation – Data Scientist](https://jobright.ai/jobs/info/68dd9b34a125e75c422ad127?utm_campaign=1066&utm_source=git)** | Warren, MI | On Site | Sep 30 |
@@ -146,10 +146,10 @@ For a complete list, click the following sortable link below:
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - IT Data Science (Summer 2026)](https://jobright.ai/jobs/info/68dc29e597329f2f7732317f?utm_campaign=1066&utm_source=git)** | Neenah, WI | On Site | Sep 30 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Gexa Analytics & Data Science Intern](https://jobright.ai/jobs/info/68dc297a66059a42a715c224?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Sep 30 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Sep 30 |
-| **[MetaSource](http://www.metasource.com/)** | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc6c48accfd24b67e554f4?utm_campaign=1066&utm_source=git)** | Fully Remote | Remote | Sep 30 |
-| ↳ | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc6c45a125e75c422a0ab2?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 30 |
-| **[Nationwide](http://nationwide.com)** | **[Summer 2026 PL Business Insights Intern](https://jobright.ai/jobs/info/68dc6c84ddc10244dd675524?utm_campaign=1066&utm_source=git)** | Ohio - Columbus, One Nationwide Plaza | On Site | Sep 30 |
-| ↳ | **[Summer 2026 PL Business Insights Intern](https://jobright.ai/jobs/info/68dc6cb7accfd24b67e556ab?utm_campaign=1066&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
+| **[MetaSource](http://www.metasource.com/)** | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc6c45a125e75c422a0ab2?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 30 |
+| ↳ | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc6c48accfd24b67e554f4?utm_campaign=1066&utm_source=git)** | Fully Remote | Remote | Sep 30 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 PL Business Insights Intern](https://jobright.ai/jobs/info/68dc6cb7accfd24b67e556ab?utm_campaign=1066&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
+| ↳ | **[Summer 2026 PL Business Insights Intern](https://jobright.ai/jobs/info/68dc6c84ddc10244dd675524?utm_campaign=1066&utm_source=git)** | Ohio - Columbus, One Nationwide Plaza | On Site | Sep 30 |
 | **[Robotics Education & Competition Foundation](https://www.roboticseducation.org)** | **[Development Department Intern](https://jobright.ai/jobs/info/68dc6c45a125e75c422a0aac?utm_campaign=1066&utm_source=git)** | Greenville, TX Office | On Site | Sep 30 |
 | ↳ | **[Development Department Intern](https://jobright.ai/jobs/info/68dc6c57ddc10244dd675482?utm_campaign=1066&utm_source=git)** | Greenville, TX | On Site | Sep 30 |
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Data Science & Digital Innovation Intern - Miami, FL](https://jobright.ai/jobs/info/68dc117ad6470e72cf4d86b5?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
