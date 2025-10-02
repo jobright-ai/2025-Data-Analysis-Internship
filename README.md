@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fortrea](https://www.fortrea.com)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/68ddf39ea125e75c422b06a8?utm_campaign=1066&utm_source=git)** | Westborough MA | On Site | Oct 01 |
+| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Data Science Analyst Intern](https://jobright.ai/jobs/info/68ddeffc44d32141e0bfbf6d?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Oct 01 |
+| **[Advocate Aurora Health](https://www.advocateaurorahealth.org/)** | **[Information Analytics Intern](https://jobright.ai/jobs/info/68dde93009bda65a4b624975?utm_campaign=1066&utm_source=git)** | Charlotte, NC - 1001 Blythe Blvd | Remote | Oct 01 |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Data Science Intern - Spring 2026 - Orlando, FL](https://jobright.ai/jobs/info/68dde74ba125e75c422afca2?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Oct 01 |
+| **[Fortrea](https://www.fortrea.com)** | **[Crisis Management Analyst Intern](https://jobright.ai/jobs/info/68dde70d44d32141e0bfb9e6?utm_campaign=1066&utm_source=git)** | Remote_United States | Remote | Oct 01 |
 | **[Old Mission](http://oldmissioncapital.com)** | **[Micro-Internship - Quant Trader - (January 2026)](https://jobright.ai/jobs/info/68ddd9f4d624072d9ab04db1?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 01 |
 | **[Parkview Health](http://www.parkview.com)** | **[Precision Health Summer Non-Clinical Intern](https://jobright.ai/jobs/info/68ddd6bfddc10244dd6840d1?utm_campaign=1066&utm_source=git)** | Greater Fort Wayne | On Site | Oct 01 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68ddd67744d32141e0bfb187?utm_campaign=1066&utm_source=git)** | Omaha, NE | On Site | Oct 01 |
@@ -141,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - IT Data Science (Summer 2026)](https://jobright.ai/jobs/info/68dc29e597329f2f7732317f?utm_campaign=1066&utm_source=git)** | Neenah, WI | On Site | Sep 30 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Gexa Analytics & Data Science Intern](https://jobright.ai/jobs/info/68dc297a66059a42a715c224?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Sep 30 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Sep 30 |
-| **[MetaSource](http://www.metasource.com/)** | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc6c45a125e75c422a0ab2?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 30 |
-| ↳ | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc6c48accfd24b67e554f4?utm_campaign=1066&utm_source=git)** | Fully Remote | Remote | Sep 30 |
+| **[MetaSource](http://www.metasource.com/)** | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc6c48accfd24b67e554f4?utm_campaign=1066&utm_source=git)** | Fully Remote | Remote | Sep 30 |
+| ↳ | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc6c45a125e75c422a0ab2?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 30 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 PL Business Insights Intern](https://jobright.ai/jobs/info/68dc6c84ddc10244dd675524?utm_campaign=1066&utm_source=git)** | Ohio - Columbus, One Nationwide Plaza | On Site | Sep 30 |
 | ↳ | **[Summer 2026 PL Business Insights Intern](https://jobright.ai/jobs/info/68dc6cb7accfd24b67e556ab?utm_campaign=1066&utm_source=git)** | Iowa - Des Moines, 1100 Locust Street | On Site | Sep 30 |
 | **[Robotics Education & Competition Foundation](https://www.roboticseducation.org)** | **[Development Department Intern](https://jobright.ai/jobs/info/68dc6c45a125e75c422a0aac?utm_campaign=1066&utm_source=git)** | Greenville, TX Office | On Site | Sep 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Data Analytics Engineering Intern](https://jobright.ai/jobs/info/68dbfa576f6c5c3fadf358cd?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Sep 30 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Applied Statistics Intern](https://jobright.ai/jobs/info/68dbf9fa97329f2f77321a6a?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Hybrid | Sep 30 |
 | **[Clark Associates](http://clarkassociatesinc.biz)** | **[Procurement Data & Reporting Intern - Summer 2026](https://jobright.ai/jobs/info/68dbf1c56f6c5c3fadf35504?utm_campaign=1066&utm_source=git)** | Lancaster, PA | On Site | Sep 30 |
-| **[Gallagher](http://www.ajg.com)** | **[U.S Internship - Data Analytics](https://jobright.ai/jobs/info/68cc5b1b7342c7623ae62d7c?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | On Site | Sep 30 |
-| **[Franklin County Sheriff's Office](https://sheriff.franklincountyohio.gov/)** | **[Criminal Intelligence Intern](https://jobright.ai/jobs/info/68dbd9b4d6470e72cf4d4c71?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Sep 30 |
-| **[Nicolet National Bank](http://nicoletbank.com)** | **[Data Intern - Summer 2026](https://jobright.ai/jobs/info/68bf2d2b8e65e77df55b7dd2?utm_campaign=1066&utm_source=git)** | Green Bay, WI | On Site | Sep 30 |
-| **[Disney Experiences](https://disneyconnect.com/)** | **[Digital & Travel Operations Analytics Intern, Spring 2026](https://jobright.ai/jobs/info/68dbd2d16f6c5c3fadf31faf?utm_campaign=1066&utm_source=git)** | Celebration, FL | On Site | Sep 30 |
-| **[GALLO](https://www.gallo.com)** | **[Geospacial Data Science Internship 2026 May - December](https://jobright.ai/jobs/info/68bf359c8e65e77df55b84b4?utm_campaign=1066&utm_source=git)** | Modesto, CA | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
