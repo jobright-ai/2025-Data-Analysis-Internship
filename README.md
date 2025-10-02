@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OneMagnify](http://marketingassociates.com)** | **[Summer Intern](https://jobright.ai/jobs/info/68deb7dfa125e75c422b5fa9?utm_campaign=1066&utm_source=git)** | Detroit, MI | Hybrid | Oct 02 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - PhD Quant Research Analyst, Client Solutions & Analytics - PIMCO](https://jobright.ai/jobs/info/68deb01ba125e75c422b5c1d?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Oct 02 |
+| ↳ | **[Quantitative Systematic Trading Internship - Master's: Summer 2026 - Susquehanna International Group](https://jobright.ai/jobs/info/68deb01ba125e75c422b5c1c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 02 |
+| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Data Scientist Intern - Summer 2026](https://jobright.ai/jobs/info/68dead6d44d32141e0c0184a?utm_campaign=1066&utm_source=git)** | Farmington Hills, Michigan - United States of America | On Site | Oct 02 |
+| **[Americold Logistics, LLC.](http://americold.com)** | **[IT Data Scientist Intern](https://jobright.ai/jobs/info/68dead3809bda65a4b62cbc8?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 02 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Global Regulatory Intelligence R&D Intern](https://jobright.ai/jobs/info/68de987a44d32141e0c00ebb?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Oct 02 |
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/68de987144d32141e0c00eae?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Oct 02 |
+| **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Finance Analytics Intern](https://jobright.ai/jobs/info/68deb50b09bda65a4b62d231?utm_campaign=1066&utm_source=git)** | Piscataway, NJ | Hybrid | Oct 02 |
 | **[OneMagnify](http://marketingassociates.com)** | **[Summer Intern](https://jobright.ai/jobs/info/68de8d7f09bda65a4b62b252?utm_campaign=1066&utm_source=git)** | Detroit | Hybrid | Oct 02 |
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/68de8bdb44d32141e0c009eb?utm_campaign=1066&utm_source=git)** | Madison Wisconsin | On Site | Oct 02 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast AI and Data Analytics Intern](https://jobright.ai/jobs/info/68de80a5a125e75c422b49ad?utm_campaign=1066&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | Oct 02 |
@@ -117,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[ISO New England Inc.](http://www.iso-ne.com)** | **[Student Intern - Dashboard Developer](https://jobright.ai/jobs/info/68dd534244d32141e0bf5ba5?utm_campaign=1066&utm_source=git)** | Holyoke, MA | On Site | Oct 01 |
 | **[Vertex](tryvertex.co)** | **[Vertex Summer Intern 2026, Clinical Data Management & Metrics](https://jobright.ai/jobs/info/68dd4c58a125e75c422a9638?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Oct 01 |
 | ↳ | **[Vertex Summer Intern 2026, Biostatistics and Statistical Programming](https://jobright.ai/jobs/info/68dd4c5144d32141e0bf55c5?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Oct 01 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern – Data Analytics (OIG)](https://jobright.ai/jobs/info/68cc743e16d00d2beeb1ff94?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Oct 01 |
 | **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[AI & Data Insights Analyst Internship In Bali](https://jobright.ai/jobs/info/68dd30dca125e75c422a861a?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Oct 01 |
 | **[Brevan Howard](http://www.brevanhoward.com)** | **[2026 Summer Internship Program – Artificial Intelligence & Quant, New York](https://jobright.ai/jobs/info/68dd2fc6a125e75c422a8493?utm_campaign=1066&utm_source=git)** | New York (1345) | On Site | Oct 01 |
 | **[Google](https://www.google.com)** | **[Business Intelligence Intern, Google Public Sector, Summer 2026](https://jobright.ai/jobs/info/68dd0d3744d32141e0bf3c0c?utm_campaign=1066&utm_source=git)** | Reston, VA, USA | On Site | Oct 01 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68dc8b88accfd24b67e568e6?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Sep 30 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Data & Reporting Analyst Intern](https://jobright.ai/jobs/info/68dc4aa4a125e75c4229f378?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Sep 30 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Data Scientist Intern - Data Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dc4686accfd24b67e53c11?utm_campaign=1066&utm_source=git)** | Sheboygan, WI | Hybrid | Sep 30 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Strategy & Transformation – Data Scientist](https://jobright.ai/jobs/info/68dd9b34a125e75c422ad127?utm_campaign=1066&utm_source=git)** | Warren, MI | On Site | Sep 30 |
-| **[Nucor Corporation](http://www.nucor.com)** | **[Commodity Markets Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68dc37e6a271e745b8a7cc56?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Sep 30 |
-| **[Integrated DNA Technologies](http://idtdna.com)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/68dc31e097329f2f7732353d?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Sep 30 |
-| **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - IT Data Science (Summer 2026)](https://jobright.ai/jobs/info/68dc29e597329f2f7732317f?utm_campaign=1066&utm_source=git)** | Neenah, WI | On Site | Sep 30 |
-| **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Gexa Analytics & Data Science Intern](https://jobright.ai/jobs/info/68dc297a66059a42a715c224?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Sep 30 |
-| **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Sep 30 |
-| **[MetaSource](http://www.metasource.com/)** | **[Business Intelligence Intern (Part Time, Remote)](https://jobright.ai/jobs/info/68dc6c45a125e75c422a0ab2?utm_campaign=1066&utm_source=git)** | United States | Remote | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
