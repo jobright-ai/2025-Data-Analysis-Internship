@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zekelman Industries](http://www.zekelman.com)** | **[Data Visualization Intern](https://jobright.ai/jobs/info/68e12f86b99ec3563b0d69ac?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 04 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Digital Data Science Analyst Intern](https://jobright.ai/jobs/info/68e1206d1852e62f007f1883?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Oct 04 |
 | **[Verisk](https://www.verisk.com)** | **[Data Science / 2026 Summer Internship Program](https://jobright.ai/jobs/info/68cec865fb49c96ca6ea38f0?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | Hybrid | Oct 04 |
 | **[Duolingo for Schools](schools.duolingo.com)** | **[Data Scientist Intern (PhD or Masters)](https://jobright.ai/jobs/info/68e11b691852e62f007f15b9?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Oct 04 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Population Health Analyst - Summer 2026 Intern](https://jobright.ai/jobs/info/68e0f553b99ec3563b0d54d9?utm_campaign=1066&utm_source=git)** | Miami, FL | Hybrid | Oct 04 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship - Geographic Information Systems (Summer2026)](https://jobright.ai/jobs/info/68e0e3ae1852e62f007f0054?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
-| ↳ | **[Internship-Digital Analytics (Summer 2026)](https://jobright.ai/jobs/info/68e0e3841852e62f007efffb?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
 | **[Alliance Defending Freedom](https://adflegal.org)** | **[Research Intern](https://jobright.ai/jobs/info/68e0ca951852e62f007eeeab?utm_campaign=1066&utm_source=git)** | Lansdowne, VA | On Site | Oct 04 |
 | **[Socket](https://socket.dev)** | **[Research Intern](https://jobright.ai/jobs/info/68e08a56f758fe1f97e4e1e9?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 03 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e08305b99ec3563b0d003f?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Oct 03 |
@@ -136,9 +136,9 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[R&D DSDH Global Functions Intern](https://jobright.ai/jobs/info/68df0b5e5ab4977c2e94dab0?utm_campaign=1066&utm_source=git)** | San Diego, California, United States of America | Hybrid | Oct 02 |
 | **[Oracle](https://www.oracle.com/)** | **[Data Science Intern - Industries](https://jobright.ai/jobs/info/68defbd344d32141e0c04934?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Newmark](https://www.nmrk.com)** | **[GIS Intern](https://jobright.ai/jobs/info/68df001e44d32141e0c04bc4?utm_campaign=1066&utm_source=git)** | 500 W Monroe St, Chicago, IL, 60661, US | Hybrid | Oct 02 |
-| **[Danfoss](https://www.danfoss.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68def7b844d32141e0c0461b?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Oct 02 |
+| **[Danfoss](https://www.danfoss.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68def79944d32141e0c045de?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Oct 02 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Data & Analytics Internship - Spring 2026 - Orlando, FL](https://jobright.ai/jobs/info/68deebdda125e75c422b83c3?utm_campaign=1066&utm_source=git)** | Orlando, FL | Hybrid | Oct 02 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern - Statistics Data Management Analyst - IT](https://jobright.ai/jobs/info/68dee36f44d32141e0c0375a?utm_campaign=1066&utm_source=git)** | DC-Washington | On Site | Oct 02 |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern - Statistics Data Management Analyst - IT](https://jobright.ai/jobs/info/68dee3a244d32141e0c03779?utm_campaign=1066&utm_source=git)** | DC-Washington | On Site | Oct 02 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[IT Data Scientist Intern](https://jobright.ai/jobs/info/68dee083a125e75c422b7913?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Oct 02 |
 | **[Oracle](https://www.oracle.com/)** | **[Data Science Intern - Industries](https://jobright.ai/jobs/info/68dee33344d32141e0c0373d?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Graduate Data Science - Pharmacometrics Programming Internship](https://jobright.ai/jobs/info/68dee11ea125e75c422b7a1e?utm_campaign=1066&utm_source=git)** | Cambridge Crossing - MA - US | Hybrid | Oct 02 |
