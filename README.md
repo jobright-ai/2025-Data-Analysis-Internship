@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carnival Corporation](http://carnivalcorp.com)** | **[Population Health Analyst - Summer 2026 Intern](https://jobright.ai/jobs/info/68e0f553b99ec3563b0d54d9?utm_campaign=1066&utm_source=git)** | Miami, FL | Hybrid | Oct 04 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship - Geographic Information Systems (Summer2026)](https://jobright.ai/jobs/info/68e0e3ae1852e62f007f0054?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
 | ↳ | **[Internship-Digital Analytics (Summer 2026)](https://jobright.ai/jobs/info/68e0e3841852e62f007efffb?utm_campaign=1066&utm_source=git)** | Orlando, FL | On Site | Oct 04 |
 | **[Alliance Defending Freedom](https://adflegal.org)** | **[Research Intern](https://jobright.ai/jobs/info/68e0ca951852e62f007eeeab?utm_campaign=1066&utm_source=git)** | Lansdowne, VA | On Site | Oct 04 |
@@ -94,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[SRC Holdings Corporation](https://www.srcholdings.com)** | **[Data Analysis Intern - SRC Technologies Group](https://jobright.ai/jobs/info/68e02723b99ec3563b0cc704?utm_campaign=1066&utm_source=git)** | Springfield, MO | On Site | Oct 03 |
 | **[United Talent Agency](http://www.unitedtalent.com)** | **[Data Science Internship - 2026](https://jobright.ai/jobs/info/68e01477f758fe1f97e4942e?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Oct 03 |
 | **[Paycom](http://www.paycom.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e02064f758fe1f97e49d31?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Oct 03 |
+| **[LMCU](https://www.lmcu.org/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68e01c89b99ec3563b0cc1a6?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Oct 03 |
 | **[Gannett Fleming](https://www.gftinc.com)** | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/68e01bf0b99ec3563b0cc10a?utm_campaign=1066&utm_source=git)** | US-FL-Miami | Hybrid | Oct 03 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68e01b66b99ec3563b0cbf20?utm_campaign=1066&utm_source=git)** | HQ - San Diego, CA | On Site | Oct 03 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Indiana Pacers Basketball Analytics Intern - Spring 2026](https://jobright.ai/jobs/info/68e01acbb99ec3563b0cbd2e?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Oct 03 |
@@ -110,7 +112,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Indiana Pacers Basketball Analytics Intern - Spring 2026](https://jobright.ai/jobs/info/68dff1d21852e62f007e5e5c?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Oct 03 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Population Health Analyst - Summer 2026 Intern](https://jobright.ai/jobs/info/68dfe1ed1852e62f007e53d9?utm_campaign=1066&utm_source=git)** | 3655 NW 87th Avenue, Miami, FL, 33178, US | Hybrid | Oct 03 |
 | **[Princess Cruises](http://www.princess.com)** | **[Population Health Analyst - Summer 2026 Intern](https://jobright.ai/jobs/info/68dfdf4ab99ec3563b0c9b84?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 03 |
-| **[LMCU](https://www.lmcu.org/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68dfdf2fb99ec3563b0c9b61?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Oct 03 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Population Health Analyst - Summer 2026 Intern](https://jobright.ai/jobs/info/68dfde9a1852e62f007e52df?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 03 |
 | **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[AI & Data Insights Analyst Internship In Bali](https://jobright.ai/jobs/info/68dfd08e1852e62f007e4f41?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[Haleon](http://www.haleon.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68dfac576be63b6ec99724e5?utm_campaign=1066&utm_source=git)** | Finance Center Building | On Site | Oct 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/68de8bdb44d32141e0c009eb?utm_campaign=1066&utm_source=git)** | Madison Wisconsin | On Site | Oct 02 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast AI and Data Analytics Intern](https://jobright.ai/jobs/info/68de80a5a125e75c422b49ad?utm_campaign=1066&utm_source=git)** | PA - Philadelphia, 1701 John F Kennedy Blvd | On Site | Oct 02 |
 | **[RENK America](https://www.renk.com/en/company/about-renk/locations/muskegon)** | **[IT Intern (Business Intelligence)](https://jobright.ai/jobs/info/68de7ee244d32141e0c00443?utm_campaign=1066&utm_source=git)** | Muskegon, MI | On Site | Oct 02 |
-| **[Corteva Agriscience](https://www.corteva.com/)** | **[Global Regulatory Intelligence R&D Intern](https://jobright.ai/jobs/info/68de73f309bda65a4b62ae8e?utm_campaign=1066&utm_source=git)** | Des Moines, Iowa, United States | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
