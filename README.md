@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stratify Edge](stratifyedge.us)** | **[Digital Data Science Analyst Intern](https://jobright.ai/jobs/info/68e289f6b99ec3563b0dc7f9?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Oct 05 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[People Analytics Intern](https://jobright.ai/jobs/info/68e271bbf758fe1f97e5a3e0?utm_campaign=1066&utm_source=git)** | Ada, MI | On Site | Oct 05 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e23c35f758fe1f97e59cd7?utm_campaign=1066&utm_source=git)** | Fort Mill, SC | Hybrid | Oct 05 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e1f8771852e62f007f4c64?utm_campaign=1066&utm_source=git)** | Fort Mill, SC US | Hybrid | Oct 04 |
@@ -138,7 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[R&D DSDH Global Functions Intern](https://jobright.ai/jobs/info/68df0b5e5ab4977c2e94dab0?utm_campaign=1066&utm_source=git)** | San Diego, California, United States of America | Hybrid | Oct 02 |
 | **[Oracle](https://www.oracle.com/)** | **[Data Science Intern - Industries](https://jobright.ai/jobs/info/68defbd344d32141e0c04934?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Newmark](https://www.nmrk.com)** | **[GIS Intern](https://jobright.ai/jobs/info/68df001e44d32141e0c04bc4?utm_campaign=1066&utm_source=git)** | 500 W Monroe St, Chicago, IL, 60661, US | Hybrid | Oct 02 |
-| **[Danfoss](https://www.danfoss.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68def7b844d32141e0c0461b?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Oct 02 |
+| **[Danfoss](https://www.danfoss.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68def79944d32141e0c045de?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Oct 02 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Data & Analytics Internship - Spring 2026 - Orlando, FL](https://jobright.ai/jobs/info/68deebdda125e75c422b83c3?utm_campaign=1066&utm_source=git)** | Orlando, FL | Hybrid | Oct 02 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern - Statistics Data Management Analyst - IT](https://jobright.ai/jobs/info/68dee3a244d32141e0c03779?utm_campaign=1066&utm_source=git)** | DC-Washington | On Site | Oct 02 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[IT Data Scientist Intern](https://jobright.ai/jobs/info/68dee083a125e75c422b7913?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Oct 02 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Guest Experience Analyst - Summer 2026 Intern](https://jobright.ai/jobs/info/68dece0909bda65a4b62df25?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 02 |
 | **[Princess Cruises](http://www.princess.com)** | **[Guest Experience Analyst - Summer 2026 Intern](https://jobright.ai/jobs/info/68decbb2a125e75c422b6964?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 02 |
 | **[OneMagnify](http://marketingassociates.com)** | **[Summer Intern](https://jobright.ai/jobs/info/68deb7dfa125e75c422b5fa9?utm_campaign=1066&utm_source=git)** | Detroit, MI | Hybrid | Oct 02 |
+| **[Americold Logistics, LLC.](http://americold.com)** | **[IT Data Scientist Intern](https://jobright.ai/jobs/info/68deb05909bda65a4b62ccc7?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 02 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Data Scientist Intern - Summer 2026](https://jobright.ai/jobs/info/68dead6d44d32141e0c0184a?utm_campaign=1066&utm_source=git)** | Farmington Hills, Michigan - United States of America | On Site | Oct 02 |
-| **[Americold Logistics, LLC.](http://americold.com)** | **[IT Data Scientist Intern](https://jobright.ai/jobs/info/68dead3809bda65a4b62cbc8?utm_campaign=1066&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 02 |
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/68de987144d32141e0c00eae?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Oct 02 |
-| **[Corteva Agriscience](https://www.corteva.com/)** | **[Global Regulatory Intelligence R&D Intern](https://jobright.ai/jobs/info/68de987a44d32141e0c00ebb?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
