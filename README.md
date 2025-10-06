@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DestinationNova](tejasavatar.com)** | **[Research Assistant (Unpaid)](https://jobright.ai/jobs/info/68e31a28f758fe1f97e5b421?utm_campaign=1066&utm_source=git)** | Manhattan, NY | Remote | Oct 05 |
+| **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Oct 05 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e2f2cbb99ec3563b0dd29b?utm_campaign=1066&utm_source=git)** | Bloomington, MN | Hybrid | Oct 05 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68e2f2c9b99ec3563b0dd299?utm_campaign=1066&utm_source=git)** | Chippewa Falls, WI | Hybrid | Oct 05 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68e2f2651852e62f007f8b04?utm_campaign=1066&utm_source=git)** | Roseville, CA | Hybrid | Oct 05 |
@@ -83,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Data Enablement Intern](https://jobright.ai/jobs/info/68e07f721852e62f007eb6b0?utm_campaign=1066&utm_source=git)** | Lenexa, KS | On Site | Oct 03 |
 | **[ACM Global Laboratories](http://www.acmgloballab.com)** | **[ACM Data Privacy Internship](https://jobright.ai/jobs/info/68e07a3b1852e62f007eb325?utm_campaign=1066&utm_source=git)** | Headquarters, KY | On Site | Oct 03 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/68e07a15b99ec3563b0cfb2a?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Remote | Oct 03 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Data Science Intern](https://jobright.ai/jobs/info/68e071911852e62f007eafdb?utm_campaign=1066&utm_source=git)** | Pennsylvania, United States | On Site | Oct 03 |
 | **[CHS Inc.](http://www.chsinc.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68e06bcfb99ec3563b0cf418?utm_campaign=1066&utm_source=git)** | Inver Grove Heights, MN | On Site | Oct 03 |
 | **[Jump - Advisor AI](https://jumpapp.com)** | **[Research Intern - Statistics & Financial Advisor Insights](https://jobright.ai/jobs/info/68e06611f758fe1f97e4ce10?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Oct 03 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e05f2f1852e62f007ea7ea?utm_campaign=1066&utm_source=git)** | Morris Plains, NJ | Hybrid | Oct 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern - Statistics Data Management Analyst - IT](https://jobright.ai/jobs/info/68dee36f44d32141e0c0375a?utm_campaign=1066&utm_source=git)** | DC-Washington | On Site | Oct 02 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[IT Data Scientist Intern](https://jobright.ai/jobs/info/68dee083a125e75c422b7913?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Oct 02 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Graduate Data Science - Pharmacometrics Programming Internship](https://jobright.ai/jobs/info/68dee11ea125e75c422b7a1e?utm_campaign=1066&utm_source=git)** | Cambridge Crossing - MA - US | Hybrid | Oct 02 |
-| **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Data Science Intern - Industries](https://jobright.ai/jobs/info/68dee08444d32141e0c034b2?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
