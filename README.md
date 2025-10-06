@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms and Technology - Cyber Security](https://jobright.ai/jobs/info/68e391a01852e62f007fccc7?utm_campaign=1066&utm_source=git)** | Mount Laurel, NJ | Hybrid | Oct 06 |
-| ↳ | **[2026 Summer Internship Program - Platforms and Technology - Data Science](https://jobright.ai/jobs/info/68e390dfb99ec3563b0e171d?utm_campaign=1066&utm_source=git)** | Mount Laurel, NJ | Hybrid | Oct 06 |
+| **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[AI & Data Insights Analyst Internship In Bali](https://jobright.ai/jobs/info/68e3c5b01852e62f007fde44?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Oct 06 |
+| **[TD](https://www.td.com)** | **[2026 Summer Internship Program - Platforms and Technology - Data Science](https://jobright.ai/jobs/info/68e398ecf758fe1f97e5f7af?utm_campaign=1066&utm_source=git)** | Mount Laurel, NJ | Hybrid | Oct 06 |
+| ↳ | **[2026 Summer Internship Program - Platforms and Technology - Cyber Security](https://jobright.ai/jobs/info/68e391a01852e62f007fccc7?utm_campaign=1066&utm_source=git)** | Mount Laurel, NJ | Hybrid | Oct 06 |
 | **[Global Quant Academy](https://www.linkedin.com/company/108390315)** | **[Quant Trader Internship Program](https://jobright.ai/jobs/info/68e368e4b99ec3563b0df8f3?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 05 |
 | **[Pella Corporation](http://www.pella.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68e360d91852e62f007fad83?utm_campaign=1066&utm_source=git)** | Pella, IA | On Site | Oct 05 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Oct 05 |
@@ -139,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[Princess Cruises](http://www.princess.com)** | **[Population Health Analyst - Summer 2026 Intern](https://jobright.ai/jobs/info/68dfdf4ab99ec3563b0c9b84?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 03 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Population Health Analyst - Summer 2026 Intern](https://jobright.ai/jobs/info/68dfde9a1852e62f007e52df?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 03 |
 | **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[AI & Data Insights Analyst Internship In Bali](https://jobright.ai/jobs/info/68dfd08e1852e62f007e4f41?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 03 |
+| **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68debcb209bda65a4b62d545?utm_campaign=1066&utm_source=git)** | South Sioux City, NE | On Site | Oct 03 |
 | **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Data Scientist Intern - Summer 2026](https://jobright.ai/jobs/info/68dfa40d5ab4977c2e9569a4?utm_campaign=1066&utm_source=git)** | Farmington Hills, MI | On Site | Oct 03 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Graduate Data Science - Pharmacometrics Programming Internship](https://jobright.ai/jobs/info/68df890e5ab4977c2e955937?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Oct 03 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[R&D DSDH Global Functions Intern](https://jobright.ai/jobs/info/68df5643fe896042b0b79dc1?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Oct 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/68df0b855ab4977c2e94dbda?utm_campaign=1066&utm_source=git)** | Remote_United States | Remote | Oct 02 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[R&D DSDH Global Functions Intern](https://jobright.ai/jobs/info/68df0b5e5ab4977c2e94dab0?utm_campaign=1066&utm_source=git)** | San Diego, California, United States of America | Hybrid | Oct 02 |
 | **[Oracle](https://www.oracle.com/)** | **[Data Science Intern - Industries](https://jobright.ai/jobs/info/68defbd344d32141e0c04934?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 02 |
-| **[Newmark](https://www.nmrk.com)** | **[GIS Intern](https://jobright.ai/jobs/info/68df001e44d32141e0c04bc4?utm_campaign=1066&utm_source=git)** | 500 W Monroe St, Chicago, IL, 60661, US | Hybrid | Oct 02 |
-| **[Danfoss](https://www.danfoss.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68def79944d32141e0c045de?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
