@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e2c960b99ec3563b0dcd8e?utm_campaign=1066&utm_source=git)** | Durham, North Carolina, United States of America | Hybrid | Oct 05 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e2f2cbb99ec3563b0dd29b?utm_campaign=1066&utm_source=git)** | Bloomington, MN | Hybrid | Oct 05 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68e2f2c9b99ec3563b0dd299?utm_campaign=1066&utm_source=git)** | Chippewa Falls, WI | Hybrid | Oct 05 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68e2f2651852e62f007f8b04?utm_campaign=1066&utm_source=git)** | Roseville, CA | Hybrid | Oct 05 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68e2ec5ff758fe1f97e5b07e?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Oct 05 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68e2ec161852e62f007f8a77?utm_campaign=1066&utm_source=git)** | Andover, MA | Hybrid | Oct 05 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68e2ec0c1852e62f007f8a71?utm_campaign=1066&utm_source=git)** | Durham, NC | Hybrid | Oct 05 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68e2c960b99ec3563b0dcd8e?utm_campaign=1066&utm_source=git)** | Durham, North Carolina, United States of America | Hybrid | Oct 05 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68e2c93e1852e62f007f85e5?utm_campaign=1066&utm_source=git)** | San Jose, California, United States of America | Hybrid | Oct 05 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68e2c9371852e62f007f85e1?utm_campaign=1066&utm_source=git)** | Roseville, California, United States of America | Hybrid | Oct 05 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68e2c932f758fe1f97e5ac0e?utm_campaign=1066&utm_source=git)** | Bloomington, Minnesota, United States of America | Hybrid | Oct 05 |
@@ -144,17 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[R&D DSDH Global Functions Intern](https://jobright.ai/jobs/info/68df0b5e5ab4977c2e94dab0?utm_campaign=1066&utm_source=git)** | San Diego, California, United States of America | Hybrid | Oct 02 |
 | **[Oracle](https://www.oracle.com/)** | **[Data Science Intern - Industries](https://jobright.ai/jobs/info/68defbd344d32141e0c04934?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Newmark](https://www.nmrk.com)** | **[GIS Intern](https://jobright.ai/jobs/info/68df001e44d32141e0c04bc4?utm_campaign=1066&utm_source=git)** | 500 W Monroe St, Chicago, IL, 60661, US | Hybrid | Oct 02 |
-| **[Danfoss](https://www.danfoss.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68def7b844d32141e0c0461b?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Oct 02 |
+| **[Danfoss](https://www.danfoss.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68def79944d32141e0c045de?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Oct 02 |
+| **[Oracle](https://www.oracle.com/)** | **[Data Science Intern - Industries](https://jobright.ai/jobs/info/68dee33344d32141e0c0373d?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Data & Analytics Internship - Spring 2026 - Orlando, FL](https://jobright.ai/jobs/info/68deebdda125e75c422b83c3?utm_campaign=1066&utm_source=git)** | Orlando, FL | Hybrid | Oct 02 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Summer 2026 Intern - Statistics Data Management Analyst - IT](https://jobright.ai/jobs/info/68dee36f44d32141e0c0375a?utm_campaign=1066&utm_source=git)** | DC-Washington | On Site | Oct 02 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[IT Data Scientist Intern](https://jobright.ai/jobs/info/68dee083a125e75c422b7913?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Oct 02 |
-| **[Oracle](https://www.oracle.com/)** | **[Data Science Intern - Industries](https://jobright.ai/jobs/info/68dee33344d32141e0c0373d?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Graduate Data Science - Pharmacometrics Programming Internship](https://jobright.ai/jobs/info/68dee11ea125e75c422b7a1e?utm_campaign=1066&utm_source=git)** | Cambridge Crossing - MA - US | Hybrid | Oct 02 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Data Science Intern - Industries](https://jobright.ai/jobs/info/68dee08444d32141e0c034b2?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 02 |
-| **[PIMCO](http://www.pimco.com)** | **[2026 Masters Summer Intern - Quant Research Analyst, Client Solutions & Analytics, US](https://jobright.ai/jobs/info/68dee16609bda65a4b62e91d?utm_campaign=1066&utm_source=git)** | Newport Beach, CA USA | On Site | Oct 02 |
-| **[Cloudpoint Geospatial](http://www.cloudpointgeo.com)** | **[Computer Sciences Intern - Summer 2026](https://jobright.ai/jobs/info/68df075b5ab4977c2e94c7dd?utm_campaign=1066&utm_source=git)** | Metamora, IL | On Site | Oct 02 |
-| **[UL Solutions](https://www.ul.com/solutions)** | **[DPI Business Data Analytics Apprentice – IT](https://jobright.ai/jobs/info/68df11db5ab4977c2e94eb72?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 02 |
-| **[New York Mets](https://www.mlb.com/mets)** | **[Intern, Data Science](https://jobright.ai/jobs/info/68ded4b409bda65a4b62e28f?utm_campaign=1066&utm_source=git)** | Citi Field – Queens, New York | On Site | Oct 02 |
-| **[Carnival Corporation](http://carnivalcorp.com)** | **[Guest Experience Analyst - Summer 2026 Intern](https://jobright.ai/jobs/info/68decc8c44d32141e0c02537?utm_campaign=1066&utm_source=git)** | 3655 NW 87th Avenue, Miami, FL, 33178, US | Hybrid | Oct 02 |
-| ↳ | **[Guest Experience Analyst - Summer 2026 Intern](https://jobright.ai/jobs/info/68dece0909bda65a4b62df25?utm_campaign=1066&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
