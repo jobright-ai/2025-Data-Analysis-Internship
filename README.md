@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Johns Hopkins Applied Physics Laboratory](http://jhuapl.edu/)** | **[2026 Internship - Sensor Systems/Data Analytics](https://jobright.ai/jobs/info/68e50d251852e62f0080b5e0?utm_campaign=1066&utm_source=git)** | Laurel, MD | On Site | Oct 07 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data & Reporting Analyst](https://jobright.ai/jobs/info/68e4e641b99ec3563b0ef3ae?utm_campaign=1066&utm_source=git)** | Englewood, CO | On Site | Oct 07 |
 | ↳ | **[2026 Summer Intern: Data Science](https://jobright.ai/jobs/info/68e4dfa9ae2b894b1d709a0b?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Oct 07 |
 | ↳ | **[2026 Summer Intern: Data Science](https://jobright.ai/jobs/info/68e4dbebae2b894b1d7098f8?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Oct 07 |
@@ -79,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Data Science Intern or Co-op](https://jobright.ai/jobs/info/68e488bcf758fe1f97e69450?utm_campaign=1066&utm_source=git)** | Parsippany, NJ | Hybrid | Oct 06 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Spring 2026, Research Internship, Global Economy and Development (Job ID 2026-3735)](https://jobright.ai/jobs/info/68e4832cb99ec3563b0eb048?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 06 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - OPIS Strategic Insights / Analytics Intern](https://jobright.ai/jobs/info/68e47bfbb99ec3563b0eac4e?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Oct 06 |
-| ↳ | **[Summer 2026 Internship - OPIS Data Analyst Intern](https://jobright.ai/jobs/info/68e47b961852e62f00806697?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Oct 06 |
 | ↳ | **[Summer 2026 Internship - Data Analyst](https://jobright.ai/jobs/info/68e47b3f1852e62f00806646?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 06 |
+| ↳ | **[Summer 2026 Internship - OPIS Data Analyst Intern](https://jobright.ai/jobs/info/68e47a841852e62f00806593?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Oct 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[AI Data Governance Analyst Intern](https://jobright.ai/jobs/info/68e47771f758fe1f97e68a37?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Oct 06 |
 | **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Data Integrity Intern](https://jobright.ai/jobs/info/68e4692ef758fe1f97e68083?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 06 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Supply Chain Operations Data Analytics Intern](https://jobright.ai/jobs/info/68e465361852e62f00805522?utm_campaign=1066&utm_source=git)** | Possible | Hybrid | Oct 06 |
@@ -105,17 +106,17 @@ For a complete list, click the following sortable link below:
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship - Data Analyst](https://jobright.ai/jobs/info/68e43853f758fe1f97e65881?utm_campaign=1066&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Oct 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/68e431b7f758fe1f97e652a2?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Oct 06 |
 | **[Rochester Regional Health](https://www.rochesterregional.org)** | **[ACM Data Privacy Internship](https://jobright.ai/jobs/info/68dff01f1852e62f007e5cb4?utm_campaign=1066&utm_source=git)** | Rochester, NY | On Site | Oct 06 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Bioinformatics Scientist Intern, MRD](https://jobright.ai/jobs/info/68e42c86f758fe1f97e64f5f?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Oct 06 |
-| ↳ | **[Bioinformatics Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68e42c1cb99ec3563b0e7036?utm_campaign=1066&utm_source=git)** | US - CA - San Diego | On Site | Oct 06 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[Bioinformatics Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68e42c1cb99ec3563b0e7036?utm_campaign=1066&utm_source=git)** | US - CA - San Diego | On Site | Oct 06 |
 | ↳ | **[Intern - Bioinformatics Engineering](https://jobright.ai/jobs/info/68e42b311852e62f0080264e?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Oct 06 |
-| **[Seven Corners, Inc.](https://www.sevencorners.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68e42a0c1852e62f00802485?utm_campaign=1066&utm_source=git)** | Carmel, IN | On Site | Oct 06 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Undergraduate Year-Round -  Enterprise IT Tools & Services, Hybrid](https://jobright.ai/jobs/info/68e42898b99ec3563b0e6b68?utm_campaign=1066&utm_source=git)** | Albuquerque, NM | Hybrid | Oct 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Evidence Generation and Publications Intern- Summer 2026](https://jobright.ai/jobs/info/68e4278bb99ec3563b0e69d6?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Oct 06 |
 | ↳ | **[Evidence Generation and Publications Intern- Summer 2026](https://jobright.ai/jobs/info/68e424faf758fe1f97e64890?utm_campaign=1066&utm_source=git)** | Madison, WI | Hybrid | Oct 06 |
 | ↳ | **[Bioinformatics Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68e424b8f758fe1f97e64848?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Oct 06 |
 | ↳ | **[Real World Evidence Intern - Summer 2026](https://jobright.ai/jobs/info/68e4236af758fe1f97e646a5?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Oct 06 |
-| ↳ | **[Commercial Effectiveness Analytics - Intern](https://jobright.ai/jobs/info/68e42233b99ec3563b0e6761?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Oct 06 |
-| ↳ | **[Intern - Bioinformatics Engineering](https://jobright.ai/jobs/info/68e42229f758fe1f97e644e2?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Oct 06 |
+| ↳ | **[Bioinformatics Scientist Intern, MRD – Summer 2026](https://jobright.ai/jobs/info/68e42c86f758fe1f97e64f5f?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Oct 06 |
+| ↳ | **[Commercial Effectiveness Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68e42233b99ec3563b0e6761?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Oct 06 |
+| ↳ | **[Bioinformatics Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68e42229f758fe1f97e644e2?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Oct 06 |
+| ↳ | **[Bioinformatics Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68e4214e1852e62f00801d39?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Oct 06 |
 | ↳ | **[Real World Evidence Intern - Summer 2026](https://jobright.ai/jobs/info/68e420b01852e62f00801c8c?utm_campaign=1066&utm_source=git)** | Madison, WI | Hybrid | Oct 06 |
 | ↳ | **[Real World Evidence Intern - Summer 2026](https://jobright.ai/jobs/info/68e41c58b99ec3563b0e630c?utm_campaign=1066&utm_source=git)** | US - Remote | Hybrid | Oct 06 |
 | ↳ | **[Evidence Generation and Publications Intern- Summer 2026](https://jobright.ai/jobs/info/68e41c03f758fe1f97e64114?utm_campaign=1066&utm_source=git)** | US - Remote | Hybrid | Oct 06 |
@@ -126,10 +127,9 @@ For a complete list, click the following sortable link below:
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship - OPIS Data Analyst Intern](https://jobright.ai/jobs/info/68e41a851852e62f008015f7?utm_campaign=1066&utm_source=git)** | Houston, TX - OPIS | Hybrid | Oct 06 |
 | ↳ | **[Summer 2026 Internship - OPIS Strategic Insights / Analytics Intern](https://jobright.ai/jobs/info/68e41a6df758fe1f97e63dc0?utm_campaign=1066&utm_source=git)** | Houston, TX - OPIS | Hybrid | Oct 06 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[DPI Business Data Analytics Apprentice – Business Insights](https://jobright.ai/jobs/info/68e41a19f758fe1f97e63cbf?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 06 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Intern - Bioinformatics Engineering](https://jobright.ai/jobs/info/68e4214e1852e62f00801d39?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Oct 06 |
-| **[University of Notre Dame](http://mendoza.nd.edu)** | **[Postdoctoral Researcher or Visiting PhD Student](https://jobright.ai/jobs/info/68e418bfb99ec3563b0e5c9e?utm_campaign=1066&utm_source=git)** | Notre Dame, IN | On Site | Oct 06 |
 | **[QBE Insurance](http://www.qbe.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68e414571852e62f00801108?utm_campaign=1066&utm_source=git)** | Sun Prairie, WI, USA | Hybrid | Oct 06 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Data Analyst - Intern](https://jobright.ai/jobs/info/68e413edb99ec3563b0e5804?utm_campaign=1066&utm_source=git)** | Possible | Hybrid | Oct 06 |
+| **[Seven Corners, Inc.](https://www.sevencorners.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68e413be1852e62f00800f37?utm_campaign=1066&utm_source=git)** | Carmel, IN | On Site | Oct 06 |
 | **[Rhombus Power Inc.](https://rhombuspower.com/)** | **[Intelligence Internship](https://jobright.ai/jobs/info/68e41355f758fe1f97e63610?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | On Site | Oct 06 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Data Analyst - Intern](https://jobright.ai/jobs/info/68e41302f758fe1f97e634ff?utm_campaign=1066&utm_source=git)** | Texas | Hybrid | Oct 06 |
 | **[SEPHORA](https://www.sephora.com)** | **[Intern, Supply Chain Data](https://jobright.ai/jobs/info/68e40df5f758fe1f97e630ac?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Oct 06 |
