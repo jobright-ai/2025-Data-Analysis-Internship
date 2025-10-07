@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Data Scientist/Statistician Intern (MS/PhD)](https://jobright.ai/jobs/info/68ce66a5846f0b04af679720?utm_campaign=1066&utm_source=git)** | Wickliffe, OH | On Site | Oct 07 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[Commercial Effectiveness & Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/68e534711852e62f0080cf2f?utm_campaign=1066&utm_source=git)** | US - WI - Madison | On Site | Oct 07 |
+| **[Amgen](http://www.amgen.com)** | **[Grad Intern - Biostatistics](https://jobright.ai/jobs/info/68e53418ae2b894b1d70bd46?utm_campaign=1066&utm_source=git)** | United States - Remote | Remote | Oct 07 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/68e529f9b99ec3563b0f0be4?utm_campaign=1066&utm_source=git)** | Lehi | Hybrid | Oct 07 |
+| ↳ | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/68e527f8ae2b894b1d70b2de?utm_campaign=1066&utm_source=git)** | San Jose | Hybrid | Oct 07 |
+| **[AQR Capital Management](https://www.aqr.com)** | **[2026 Engineering Summer Analyst - Quant Research Development](https://jobright.ai/jobs/info/68e51f18b99ec3563b0f04b4?utm_campaign=1066&utm_source=git)** | Greenwich, CT | On Site | Oct 07 |
 | **[Johns Hopkins Applied Physics Laboratory](http://jhuapl.edu/)** | **[2026 Internship - Sensor Systems/Data Analytics](https://jobright.ai/jobs/info/68e50d251852e62f0080b5e0?utm_campaign=1066&utm_source=git)** | Laurel, MD | On Site | Oct 07 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data & Reporting Analyst](https://jobright.ai/jobs/info/68e4e641b99ec3563b0ef3ae?utm_campaign=1066&utm_source=git)** | Englewood, CO | On Site | Oct 07 |
 | ↳ | **[2026 Summer Intern: Data Science](https://jobright.ai/jobs/info/68e4dfa9ae2b894b1d709a0b?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Oct 07 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Global Quant Academy](https://www.linkedin.com/company/108390315)** | **[Quant Trader Internship Program](https://jobright.ai/jobs/info/68e368e4b99ec3563b0df8f3?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 05 |
 | **[Pella Corporation](http://www.pella.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68e360d91852e62f007fad83?utm_campaign=1066&utm_source=git)** | Pella, IA | On Site | Oct 05 |
 | **[KTA-Tator, Inc.](http://kta.com)** | **[Data & Information Systems Intern](https://jobright.ai/jobs/info/68e3df8ef758fe1f97e6145e?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Oct 05 |
-| **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Oct 05 |
-| **[Skyworks LLC](http://skyworksllc.com)** | **[Data Scientist Co-op - Summer/Fall 2026](https://jobright.ai/jobs/info/68e41be81852e62f008019cd?utm_campaign=1066&utm_source=git)** | Newbury Park, CA | On Site | Oct 05 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e2f2cbb99ec3563b0dd29b?utm_campaign=1066&utm_source=git)** | Bloomington, MN | Hybrid | Oct 05 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68e2f2c9b99ec3563b0dd299?utm_campaign=1066&utm_source=git)** | Chippewa Falls, WI | Hybrid | Oct 05 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68e2f2651852e62f007f8b04?utm_campaign=1066&utm_source=git)** | Roseville, CA | Hybrid | Oct 05 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68e2ec5ff758fe1f97e5b07e?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
