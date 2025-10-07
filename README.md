@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Data Integrity Intern](https://jobright.ai/jobs/info/68e4692ef758fe1f97e68083?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 06 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Supply Chain Operations Data Analytics Intern](https://jobright.ai/jobs/info/68e465361852e62f00805522?utm_campaign=1066&utm_source=git)** | Possible | Hybrid | Oct 06 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[IMM Computational Intern](https://jobright.ai/jobs/info/68e4652b1852e62f0080550d?utm_campaign=1066&utm_source=git)** | Spring House, Pennsylvania, United States of America | Hybrid | Oct 06 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Supply Chain Operations Data Analytics Intern](https://jobright.ai/jobs/info/68e464b5b99ec3563b0e9c68?utm_campaign=1066&utm_source=git)** | Connecticut | Hybrid | Oct 06 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[IMM Computational Intern](https://jobright.ai/jobs/info/68e4645cb99ec3563b0e9c21?utm_campaign=1066&utm_source=git)** | Spring House, Pennsylvania, United States of America | Hybrid | Oct 06 |
+| **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Data Analyst - Summer 2026](https://jobright.ai/jobs/info/68e441611852e62f00803b7a?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 06 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68e453fbb99ec3563b0e9384?utm_campaign=1066&utm_source=git)** | Dayton, OH | On Site | Oct 06 |
 | ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68e453e3b99ec3563b0e9372?utm_campaign=1066&utm_source=git)** | Lone Tree, CO | On Site | Oct 06 |
 | ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68e453bb1852e62f00804caa?utm_campaign=1066&utm_source=git)** | Plano, TX | On Site | Oct 06 |
@@ -66,7 +72,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68e452d5f758fe1f97e671de?utm_campaign=1066&utm_source=git)** | Sparks, NV | On Site | Oct 06 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2026 Project Controls Analyst Intern](https://jobright.ai/jobs/info/68e44fb61852e62f00804afa?utm_campaign=1066&utm_source=git)** | Wichita, KS | On Site | Oct 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC Owned TV Stations Data Analytics Intern, Spring 2026](https://jobright.ai/jobs/info/68e4463ef758fe1f97e66583?utm_campaign=1066&utm_source=git)** | Glendale, CA, USA | On Site | Oct 06 |
-| **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Data Analyst - Summer 2026](https://jobright.ai/jobs/info/68e441611852e62f00803b7a?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 06 |
 | **[ABB](https://global.abb/group/en)** | **[Data & Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68e43ee51852e62f008037db?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Oct 06 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Intern - MarkOps Reporting Analyst - Summer 2026](https://jobright.ai/jobs/info/68e43b0f1852e62f0080368f?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 06 |
 | ↳ | **[Intern - IT Analyst - Summer 2026](https://jobright.ai/jobs/info/68e43b011852e62f00803674?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 06 |
@@ -91,7 +96,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Evidence Generation and Publications Intern- Summer 2026](https://jobright.ai/jobs/info/68e41c03f758fe1f97e64114?utm_campaign=1066&utm_source=git)** | US - Remote | Hybrid | Oct 06 |
 | ↳ | **[Evidence Generation and Publications Intern- Summer 2026](https://jobright.ai/jobs/info/68e41bc7b99ec3563b0e6187?utm_campaign=1066&utm_source=git)** | US - WI - Madison | Hybrid | Oct 06 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship - OPIS Data Analyst Intern](https://jobright.ai/jobs/info/68e41bbef758fe1f97e64062?utm_campaign=1066&utm_source=git)** | Houston, TX - OPIS | Hybrid | Oct 06 |
-| **[National Disability Institute](https://www.nationaldisabilityinstitute.org)** | **[Research Intern](https://jobright.ai/jobs/info/68e449d8b99ec3563b0e8b7c?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 06 |
 | **[CAS](http://www.cas.org)** | **[CAS 2026 Data Scientist Summer Intern](https://jobright.ai/jobs/info/68e41b24b99ec3563b0e5fc6?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Oct 06 |
 | **[QBE North America](https://www.qbe.com/us)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68e41ab4f758fe1f97e63e6b?utm_campaign=1066&utm_source=git)** | Sun Prairie Town, WI | Hybrid | Oct 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Real World Evidence Intern - Summer 2026](https://jobright.ai/jobs/info/68e41aa01852e62f00801648?utm_campaign=1066&utm_source=git)** | US - WI - Madison | Hybrid | Oct 06 |
@@ -124,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Pella Corporation](http://www.pella.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68e360d91852e62f007fad83?utm_campaign=1066&utm_source=git)** | Pella, IA | On Site | Oct 05 |
 | **[KTA-Tator, Inc.](http://kta.com)** | **[Data & Information Systems Intern](https://jobright.ai/jobs/info/68e3df8ef758fe1f97e6145e?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Oct 05 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Oct 05 |
+| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e46e10f758fe1f97e683b3?utm_campaign=1066&utm_source=git)** | Fort Mill, SC | On Site | Oct 05 |
 | **[Skyworks LLC](http://skyworksllc.com)** | **[Data Scientist Co-op - Summer/Fall 2026](https://jobright.ai/jobs/info/68e41be81852e62f008019cd?utm_campaign=1066&utm_source=git)** | Newbury Park, CA | On Site | Oct 05 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e2f2cbb99ec3563b0dd29b?utm_campaign=1066&utm_source=git)** | Bloomington, MN | Hybrid | Oct 05 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68e2f2c9b99ec3563b0dd299?utm_campaign=1066&utm_source=git)** | Chippewa Falls, WI | Hybrid | Oct 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Socket](https://socket.dev)** | **[Research Intern](https://jobright.ai/jobs/info/68e08a56f758fe1f97e4e1e9?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 03 |
 | **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Data Enablement Intern](https://jobright.ai/jobs/info/68e07f721852e62f007eb6b0?utm_campaign=1066&utm_source=git)** | Lenexa, KS | On Site | Oct 03 |
 | **[ACM Global Laboratories](http://www.acmgloballab.com)** | **[ACM Data Privacy Internship](https://jobright.ai/jobs/info/68e07a3b1852e62f007eb325?utm_campaign=1066&utm_source=git)** | Headquarters, KY | On Site | Oct 03 |
-| **[Labcorp](https://www.labcorp.com)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/68e07a15b99ec3563b0cfb2a?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Remote | Oct 03 |
-| **[Jump - Advisor AI](https://jumpapp.com)** | **[Research Intern - Statistics & Financial Advisor Insights](https://jobright.ai/jobs/info/68e06611f758fe1f97e4ce10?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Oct 03 |
-| **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern Data Science AI&I (PhD level) - On-site](https://jobright.ai/jobs/info/68e05cf61852e62f007ea6e0?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | Oct 03 |
-| **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Data & AI, Cybersecurity, and Compliance Intern](https://jobright.ai/jobs/info/68e0597ab99ec3563b0cede6?utm_campaign=1066&utm_source=git)** | Newark, DE | Hybrid | Oct 03 |
-| **[Indiana Fever](https://fever.wnba.com/)** | **[Indiana Pacers Basketball Analytics Intern - Spring 2026](https://jobright.ai/jobs/info/68e0556d1852e62f007ea4b0?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
