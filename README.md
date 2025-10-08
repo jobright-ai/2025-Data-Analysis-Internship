@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amgen](http://www.amgen.com)** | **[Grad Intern - Biostatistics](https://jobright.ai/jobs/info/68e6d77b1852e62f0081f621?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 08 |
+| **[Arrive Logistics](http://www.arrivelogistics.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e6d66ae8daec61499af73e?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 08 |
+| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Digital Data Science Analyst Intern](https://jobright.ai/jobs/info/68e6d6251852e62f0081f431?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Oct 08 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Networking Research Group](https://jobright.ai/jobs/info/68e6d5bae8daec61499af638?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Oct 08 |
+| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Business Intelligence Intern, Summer 2026](https://jobright.ai/jobs/info/68e6c35e1852e62f0081e3a8?utm_campaign=1066&utm_source=git)** | Orrville, OH | On Site | Oct 08 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Geospatial Intern, Spring 2026](https://jobright.ai/jobs/info/68e6c12dae2b894b1d71d635?utm_campaign=1066&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 08 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[DPI Business Data Analytics Apprentice – Business Insights](https://jobright.ai/jobs/info/68e6c00ce8daec61499ae395?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 08 |
 | **[Arrive Logistics](http://www.arrivelogistics.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e6bfc3ae2b894b1d71d4e6?utm_campaign=1066&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Oct 08 |
-| **[Quantiphi](http://www.quantiphi.com)** | **[Intern - Data Tagger](https://jobright.ai/jobs/info/68e6b6dae8daec61499add9a?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 08 |
 | **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Business Intelligence Intern, Summer 2026](https://jobright.ai/jobs/info/68e6b3bfe8daec61499ad853?utm_campaign=1066&utm_source=git)** | Orrville, OH | Hybrid | Oct 08 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Networking Research Group](https://jobright.ai/jobs/info/68e6b327ae2b894b1d71cc67?utm_campaign=1066&utm_source=git)** | Redmond, Washington, United States | Hybrid | Oct 08 |
 | **[ATPCO](http://www.atpco.net)** | **[ Data Analyst & Reporting Intern](https://jobright.ai/jobs/info/68e6b1e11852e62f0081d75e?utm_campaign=1066&utm_source=git)** | 2340 Dulles Corner Blvd, Herndon, VA 20171, USA | Hybrid | Oct 08 |
@@ -82,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Meta](https://www.meta.com)** | **[Research Scientist Intern, Product Algorithms (PhD)](https://jobright.ai/jobs/info/68e62c371852e62f00819ad3?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 08 |
 | ↳ | **[Research Scientist Intern, Product Algorithms (PhD)](https://jobright.ai/jobs/info/68e6553eae2b894b1d719d13?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Oct 08 |
 | ↳ | **[Research Scientist Intern, Product Algorithms (PhD)](https://jobright.ai/jobs/info/68e65484ae2b894b1d719cc6?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Oct 08 |
-| **[worldwideoffline algorithms](https://wwo.lifetimereserve.co/)** | **[Algorithmic Trading Intern (Quant Research & Development)](https://jobright.ai/jobs/info/68e661d01852e62f0081ad1e?utm_campaign=1066&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Oct 07 |
 | **[PwC](http://pwc.com)** | **[Financial Crimes Unit Data & Analytics Tech - Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e60290e8daec61499a74c6?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 07 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern- Data Analytics -Spring 2026](https://jobright.ai/jobs/info/68e5f1a0e8daec61499a6975?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/68e5de76ae2b894b1d71479e?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Oct 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI Data Governance Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/68e47771f758fe1f97e68a37?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Oct 07 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68e4d98bb99ec3563b0eed94?utm_campaign=1066&utm_source=git)** | Wichita, KS | On Site | Oct 07 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Bioinformatics Engineering Intern - Summer 2026](https://jobright.ai/jobs/info/68e42229f758fe1f97e644e2?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Oct 07 |
-| **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[IT Data Analyst - College Intern](https://jobright.ai/jobs/info/68e4c25eae2b894b1d708402?utm_campaign=1066&utm_source=git)** | Palm Beach Gardens, FL | On Site | Oct 07 |
-| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68e4bc58b99ec3563b0ed579?utm_campaign=1066&utm_source=git)** | Victorville, CA | On Site | Oct 07 |
-| **[APCO](http://www.apcoworldwide.com)** | **[Business Intelligence Internship- Winter/Spring '26](https://jobright.ai/jobs/info/68e4bc3bb99ec3563b0ed54a?utm_campaign=1066&utm_source=git)** | 1299 Pennsylvania Avenue, NW, Washington, DC, 20004, US | Hybrid | Oct 07 |
-| **[APCO](http://www.apcoworldwide.com)** | **[Business Intelligence Internship- Winter/Spring '26](https://jobright.ai/jobs/info/68e4b7f2b99ec3563b0ed257?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
