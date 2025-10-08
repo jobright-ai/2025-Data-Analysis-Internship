@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern- Data Analytics -Spring 2026](https://jobright.ai/jobs/info/68e5f1a0e8daec61499a6975?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/68e5de76ae2b894b1d71479e?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Oct 07 |
 | ↳ | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/68e5de2cae2b894b1d71470a?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Oct 07 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68e5d817e8daec61499a512c?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Oct 07 |
@@ -101,7 +102,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68e56b5b1852e62f0080fbc1?utm_campaign=1066&utm_source=git)** | VA-RICHMOND, 2015 STAPLES MILL RD, | Hybrid | Oct 07 |
 | ↳ | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68e56b12b99ec3563b0f4382?utm_campaign=1066&utm_source=git)** | IN-INDIANAPOLIS, 220 VIRGINIA AVE | Hybrid | Oct 07 |
 | ↳ | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68e56af0ae2b894b1d70eb49?utm_campaign=1066&utm_source=git)** | OH-MASON, 4241 IRWIN SIMPSON RD | Hybrid | Oct 07 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Co-op, Data Scientist](https://jobright.ai/jobs/info/68e56a7fb99ec3563b0f4205?utm_campaign=1066&utm_source=git)** | Greater Boston | On Site | Oct 07 |
 | **[BluWave, LP](https://www.bluwave.net/)** | **[Data and Analytics Summer Intern](https://jobright.ai/jobs/info/68e56471ae2b894b1d70e4cf?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Oct 07 |
 | **[Highline Warren](https://highlinewarren.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68e563e7ae2b894b1d70e430?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Oct 07 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68e56368b99ec3563b0f3b7c?utm_campaign=1066&utm_source=git)** | One Park Circle, Westfield Center, OH, 44251-5001, US | Hybrid | Oct 07 |
@@ -141,9 +141,9 @@ For a complete list, click the following sortable link below:
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Data Science Intern or Co-op](https://jobright.ai/jobs/info/68e488bcf758fe1f97e69450?utm_campaign=1066&utm_source=git)** | Parsippany, NJ | Hybrid | Oct 06 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Spring 2026, Research Internship, Global Economy and Development (Job ID 2026-3735)](https://jobright.ai/jobs/info/68e4832cb99ec3563b0eb048?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 06 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - OPIS Strategic Insights / Analytics Intern](https://jobright.ai/jobs/info/68e47bfbb99ec3563b0eac4e?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Oct 06 |
+| ↳ | **[Summer 2026 Internship - OPIS Data Analyst Intern](https://jobright.ai/jobs/info/68e47b961852e62f00806697?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Oct 06 |
 | ↳ | **[Summer 2026 Internship - Data Analyst](https://jobright.ai/jobs/info/68e47b3f1852e62f00806646?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 06 |
-| ↳ | **[Summer 2026 Internship - OPIS Data Analyst Intern](https://jobright.ai/jobs/info/68e47a491852e62f00806560?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Oct 06 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[AI Data Governance Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/68e47771f758fe1f97e68a37?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Oct 06 |
+| **[Exact Sciences](https://www.exactsciences.com)** | **[AI Data Governance Analyst Intern](https://jobright.ai/jobs/info/68e47771f758fe1f97e68a37?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Oct 06 |
 | **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Data Integrity Intern](https://jobright.ai/jobs/info/68e4692ef758fe1f97e68083?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 06 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Supply Chain Operations Data Analytics Intern](https://jobright.ai/jobs/info/68e465361852e62f00805522?utm_campaign=1066&utm_source=git)** | Possible | Hybrid | Oct 06 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[IMM Computational Intern](https://jobright.ai/jobs/info/68e4652b1852e62f0080550d?utm_campaign=1066&utm_source=git)** | Spring House, Pennsylvania, United States of America | Hybrid | Oct 06 |
