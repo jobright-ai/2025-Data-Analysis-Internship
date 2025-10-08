@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Data Science & Analytics Intern](https://jobright.ai/jobs/info/68e64345ae2b894b1d71973d?utm_campaign=1066&utm_source=git)** | Wilmington, NC | On Site | Oct 08 |
 | **[Meta](https://www.meta.com)** | **[Research Scientist Intern, Product Algorithms (PhD)](https://jobright.ai/jobs/info/68e62c371852e62f00819ad3?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 08 |
 | **[PwC](http://pwc.com)** | **[Financial Crimes Unit Data & Analytics Tech - Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e60290e8daec61499a74c6?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 07 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern- Data Analytics -Spring 2026](https://jobright.ai/jobs/info/68e5f1a0e8daec61499a6975?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
@@ -105,9 +106,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68e56b12b99ec3563b0f4382?utm_campaign=1066&utm_source=git)** | IN-INDIANAPOLIS, 220 VIRGINIA AVE | Hybrid | Oct 07 |
 | ↳ | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68e56af0ae2b894b1d70eb49?utm_campaign=1066&utm_source=git)** | OH-MASON, 4241 IRWIN SIMPSON RD | Hybrid | Oct 07 |
 | **[BluWave, LP](https://www.bluwave.net/)** | **[Data and Analytics Summer Intern](https://jobright.ai/jobs/info/68e56471ae2b894b1d70e4cf?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Oct 07 |
+| **[Highline Warren](https://highlinewarren.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68e563e7ae2b894b1d70e430?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Oct 07 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68e56368b99ec3563b0f3b7c?utm_campaign=1066&utm_source=git)** | One Park Circle, Westfield Center, OH, 44251-5001, US | Hybrid | Oct 07 |
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68e5632bae2b894b1d70e34d?utm_campaign=1066&utm_source=git)** | Westfield Center, OH, United States | Hybrid | Oct 07 |
-| **[Highline Warren](https://highlinewarren.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68e5626a1852e62f0080f0fc?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Oct 07 |
 | **[SEPHORA](https://www.sephora.com)** | **[Intern, Client Services Data Insights](https://jobright.ai/jobs/info/68e561521852e62f0080ef1f?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Oct 07 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Statistical Science Intern](https://jobright.ai/jobs/info/68e54948b99ec3563b0f25b7?utm_campaign=1066&utm_source=git)** | Morrisville, NC | On Site | Oct 07 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/68e5445bb99ec3563b0f217e?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Oct 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68e453fbb99ec3563b0e9384?utm_campaign=1066&utm_source=git)** | Dayton, OH | On Site | Oct 06 |
 | ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68e453e3b99ec3563b0e9372?utm_campaign=1066&utm_source=git)** | Lone Tree, CO | On Site | Oct 06 |
 | ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68e453bb1852e62f00804caa?utm_campaign=1066&utm_source=git)** | Plano, TX | On Site | Oct 06 |
-| ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68e4538ef758fe1f97e6722d?utm_campaign=1066&utm_source=git)** | Beavercreek, OH | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
