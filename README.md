@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/68e5de76ae2b894b1d71479e?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Oct 07 |
+| ↳ | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/68e5de2cae2b894b1d71470a?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Oct 07 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68e5d817e8daec61499a512c?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Oct 07 |
+| **[IBM](http://www.ibm.com)** | **[Data Scientist Intern 2026](https://jobright.ai/jobs/info/68e5d30fae2b894b1d713e7e?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Oct 07 |
+| **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Data Governance Intern](https://jobright.ai/jobs/info/68e5ccc0e8daec61499a4ad9?utm_campaign=1066&utm_source=git)** | St Paul, MN | On Site | Oct 07 |
+| **[JonnyPops](https://www.jonnypops.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68e5cc07e8daec61499a49e9?utm_campaign=1066&utm_source=git)** | Plymouth, MN | On Site | Oct 07 |
+| **[BluWave, LP](https://www.bluwave.net/)** | **[Data and Analytics Summer Intern](https://jobright.ai/jobs/info/68e5cb00e8daec61499a48ce?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Oct 07 |
+| **[ALLETE](http://allete.com)** | **[Internship - Business Intelligence](https://jobright.ai/jobs/info/68e5c65ce8daec61499a46c8?utm_campaign=1066&utm_source=git)** | Duluth, MN | On Site | Oct 07 |
+| **[Knorr-Bremse Lisieux – Systèmes pour Véhicules Utilitaires](http://www.knorr-bremse.fr)** | **[Intern, Data Analytics and Business Intelligence](https://jobright.ai/jobs/info/68e5c606ae2b894b1d71365e?utm_campaign=1066&utm_source=git)** | Watertown, NY | On Site | Oct 07 |
+| **[Battelle](http://www.battelle.org)** | **[Data Science Co-Op (Spring-Summer 2026)](https://jobright.ai/jobs/info/68e5c4e81852e62f008143de?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Oct 07 |
+| **[UL Solutions](https://www.ul.com/solutions)** | **[DPI Business Data Analytics Apprentice – IT](https://jobright.ai/jobs/info/68e5c433e8daec61499a44f7?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
 | **[Enova International](http://www.enova.com)** | **[Business Intelligence Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/68e5c02eae2b894b1d713359?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Oct 07 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Data Modernization Intern](https://jobright.ai/jobs/info/68e5bf3c1852e62f00814108?utm_campaign=1066&utm_source=git)** | Carmel, IN | On Site | Oct 07 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/68e5b7dbae2b894b1d712e8c?utm_campaign=1066&utm_source=git)** | San Francisco, CA, USA | On Site | Oct 07 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68e4538ef758fe1f97e6722d?utm_campaign=1066&utm_source=git)** | Beavercreek, OH | On Site | Oct 06 |
 | ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68e453411852e62f00804bff?utm_campaign=1066&utm_source=git)** | Hagerstown, MD | On Site | Oct 06 |
 | ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68e452f7f758fe1f97e671ee?utm_campaign=1066&utm_source=git)** | Wichita, KS | On Site | Oct 06 |
-| ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68e452d5f758fe1f97e671de?utm_campaign=1066&utm_source=git)** | Sparks, NV | On Site | Oct 06 |
-| **[Koch](https://www.kochinc.com)** | **[Summer 2026 Project Controls Analyst Intern](https://jobright.ai/jobs/info/68e44fb61852e62f00804afa?utm_campaign=1066&utm_source=git)** | Wichita, KS | On Site | Oct 06 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC Owned TV Stations Data Analytics Intern, Spring 2026](https://jobright.ai/jobs/info/68e4463ef758fe1f97e66583?utm_campaign=1066&utm_source=git)** | Glendale, CA, USA | On Site | Oct 06 |
-| **[ABB](https://global.abb/group/en)** | **[Data & Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68e43ee51852e62f008037db?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Oct 06 |
-| **[Lumen Technologies](https://www.lumen.com)** | **[Intern - MarkOps Reporting Analyst - Summer 2026](https://jobright.ai/jobs/info/68e43b0f1852e62f0080368f?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 06 |
-| ↳ | **[Intern - IT Analyst - Summer 2026](https://jobright.ai/jobs/info/68e43b011852e62f00803674?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 06 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[AI Data Governance Analyst Intern](https://jobright.ai/jobs/info/68e43a22b99ec3563b0e7d47?utm_campaign=1066&utm_source=git)** | US - WI - Madison | On Site | Oct 06 |
-| **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship - Data Analyst](https://jobright.ai/jobs/info/68e43853f758fe1f97e65881?utm_campaign=1066&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Oct 06 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/68e431b7f758fe1f97e652a2?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Oct 06 |
-| **[Rochester Regional Health](https://www.rochesterregional.org)** | **[ACM Data Privacy Internship](https://jobright.ai/jobs/info/68dff01f1852e62f007e5cb4?utm_campaign=1066&utm_source=git)** | Rochester, NY | On Site | Oct 06 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Bioinformatics Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/68e42c1cb99ec3563b0e7036?utm_campaign=1066&utm_source=git)** | US - CA - San Diego | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
