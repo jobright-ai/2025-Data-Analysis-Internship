@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Atlantic](https://www.globalatlantic.com/)** | **[2026 Risk Data Analytics Intern](https://jobright.ai/jobs/info/68cea21bfb49c96ca6ea2556?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 09 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2026 Information Systems Audit Intern](https://jobright.ai/jobs/info/68e7d1a0cc49a84b7e0fe5c5?utm_campaign=1066&utm_source=git)** | 1014 Vine St, Cincinnati, OH, 45202, US | On Site | Oct 09 |
 | **[Expedia Group](https://www.expediagroup.com)** | **[Data Science, Analytics Intern - 2026 - Seattle](https://jobright.ai/jobs/info/68e7afbdc4895107182bcef1?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Oct 09 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Geospatial Intern, Spring 2026](https://jobright.ai/jobs/info/68e7bedec4895107182bdc83?utm_campaign=1066&utm_source=git)** | Burbank, CA | On Site | Oct 09 |
 | **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[Research Intern - Thoracic Head & Neck Medical Oncology](https://jobright.ai/jobs/info/68e7735a60ad860a1dc7ef4b?utm_campaign=1066&utm_source=git)** | Houston, TX | Remote | Oct 09 |
 | **[Pfizer](http://www.pfizer.com)** | **[Summer 2026 Digital Internship](https://jobright.ai/jobs/info/68e75e62e8daec61499b4f1a?utm_campaign=1066&utm_source=git)** | US-CT-Groton | On Site | Oct 09 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[Efficacy Research Analyst Intern](https://jobright.ai/jobs/info/68e75e42e8daec61499b4ed9?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Oct 09 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68e56b12b99ec3563b0f4382?utm_campaign=1066&utm_source=git)** | IN-INDIANAPOLIS, 220 VIRGINIA AVE | Hybrid | Oct 07 |
 | ↳ | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68e56af0ae2b894b1d70eb49?utm_campaign=1066&utm_source=git)** | OH-MASON, 4241 IRWIN SIMPSON RD | Hybrid | Oct 07 |
 | **[BluWave, LP](https://www.bluwave.net/)** | **[Data and Analytics Summer Intern](https://jobright.ai/jobs/info/68e56471ae2b894b1d70e4cf?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Oct 07 |
-| **[Highline Warren](https://highlinewarren.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68e563e7ae2b894b1d70e430?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Oct 07 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68e56368b99ec3563b0f3b7c?utm_campaign=1066&utm_source=git)** | One Park Circle, Westfield Center, OH, 44251-5001, US | Hybrid | Oct 07 |
 | **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68e5632bae2b894b1d70e34d?utm_campaign=1066&utm_source=git)** | Westfield Center, OH, United States | Hybrid | Oct 07 |
-| **[SEPHORA](https://www.sephora.com)** | **[Intern, Client Services Data Insights](https://jobright.ai/jobs/info/68e561521852e62f0080ef1f?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Oct 07 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68e563151852e62f0080f285?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
