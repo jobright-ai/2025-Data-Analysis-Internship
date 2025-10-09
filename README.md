@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68e56b12b99ec3563b0f4382?utm_campaign=1066&utm_source=git)** | IN-INDIANAPOLIS, 220 VIRGINIA AVE | Hybrid | Oct 07 |
 | ↳ | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68e56af0ae2b894b1d70eb49?utm_campaign=1066&utm_source=git)** | OH-MASON, 4241 IRWIN SIMPSON RD | Hybrid | Oct 07 |
 | **[BluWave, LP](https://www.bluwave.net/)** | **[Data and Analytics Summer Intern](https://jobright.ai/jobs/info/68e56471ae2b894b1d70e4cf?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Oct 07 |
-| **[Highline Warren](https://highlinewarren.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68e563e7ae2b894b1d70e430?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Oct 07 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68e56368b99ec3563b0f3b7c?utm_campaign=1066&utm_source=git)** | One Park Circle, Westfield Center, OH, 44251-5001, US | Hybrid | Oct 07 |
+| **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68e5632bae2b894b1d70e34d?utm_campaign=1066&utm_source=git)** | Westfield Center, OH, United States | Hybrid | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
