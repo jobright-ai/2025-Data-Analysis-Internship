@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Intelligence Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68e82d70cc49a84b7e10329c?utm_campaign=1066&utm_source=git)** | Remote-NC | Remote | Oct 09 |
+| ↳ | **[Business Intelligence Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68e82ca3cc49a84b7e10313b?utm_campaign=1066&utm_source=git)** | Remote-CA | Remote | Oct 09 |
+| ↳ | **[Business Intelligence Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68e82c94cc49a84b7e103131?utm_campaign=1066&utm_source=git)** | Remote-MO | Remote | Oct 09 |
+| **[IBM](http://www.ibm.com)** | **[2026 Senior Data Scientist Intern - Corporate Development (M&A)](https://jobright.ai/jobs/info/68e82835c4895107182c31cd?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Oct 09 |
+| **[Abertis Mobility Services](https://www.linkedin.com/company/69846008)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68e82150cc49a84b7e1028c3?utm_campaign=1066&utm_source=git)** | Orlando, FL | Hybrid | Oct 09 |
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - Clinical Bioinformatics](https://jobright.ai/jobs/info/68e80ffb09580a2fe57f3041?utm_campaign=1066&utm_source=git)** | Westborough MA | On Site | Oct 09 |
+| **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - IT Data Science (Summer 2026)](https://jobright.ai/jobs/info/68dc29e597329f2f7732317f?utm_campaign=1066&utm_source=git)** | Neenah, WI | On Site | Oct 09 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Data Analytics Intern - Redondo Beach CA](https://jobright.ai/jobs/info/68e8074bc4895107182c0fd1?utm_campaign=1066&utm_source=git)** | United States-California-Redondo Beach | On Site | Oct 09 |
 | **[Siemens](https://www.siemens.com/)** | **[Data Analysis Internship- Customer Service (Summer 2026)](https://jobright.ai/jobs/info/68e7f21cc4895107182bff71?utm_campaign=1066&utm_source=git)** | New Castle, DE | On Site | Oct 09 |
 | **[Avison Young](https://www.avisonyoung.com)** | **[Intern](https://jobright.ai/jobs/info/68e7e90ac4895107182bf7c7?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | Remote | Oct 09 |
@@ -93,12 +99,12 @@ For a complete list, click the following sortable link below:
 | **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Data Analyst - Summer 2026](https://jobright.ai/jobs/info/68e6e6edae2b894b1d71f78a?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 08 |
 | ↳ | **[Intern - Data Analyst - Summer 2026](https://jobright.ai/jobs/info/68e6e5f3e8daec61499b04aa?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 08 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern - Biostatistics](https://jobright.ai/jobs/info/68e6d77b1852e62f0081f621?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 08 |
-| **[Arrive Logistics](http://www.arrivelogistics.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e6d66ae8daec61499af73e?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 08 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Data Analyst – Forecast Performance & Competitive Insights (Part-Time or Internship)](https://jobright.ai/jobs/info/68dec880a125e75c422b6675?utm_campaign=1066&utm_source=git)** | State College, PA | On Site | Oct 08 |
 | **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Business Intelligence Intern, Summer 2026](https://jobright.ai/jobs/info/68e6c35e1852e62f0081e3a8?utm_campaign=1066&utm_source=git)** | Orrville, OH | On Site | Oct 08 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Geospatial Intern, Spring 2026](https://jobright.ai/jobs/info/68e6c12dae2b894b1d71d635?utm_campaign=1066&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 08 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[DPI Business Data Analytics Apprentice – Business Insights](https://jobright.ai/jobs/info/68e6c00ce8daec61499ae395?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 08 |
 | **[Arrive Logistics](http://www.arrivelogistics.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e6bfc3ae2b894b1d71d4e6?utm_campaign=1066&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Oct 08 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68e6e4731852e62f0081ff6a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 08 |
 | **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Business Intelligence Intern, Summer 2026](https://jobright.ai/jobs/info/68e6b3bfe8daec61499ad853?utm_campaign=1066&utm_source=git)** | Orrville, OH | Hybrid | Oct 08 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Networking Research Group](https://jobright.ai/jobs/info/68e6b327ae2b894b1d71cc67?utm_campaign=1066&utm_source=git)** | Redmond, Washington, United States | Hybrid | Oct 08 |
 | **[ATPCO](http://www.atpco.net)** | **[ Data Analyst & Reporting Intern](https://jobright.ai/jobs/info/68e8076909580a2fe57f2582?utm_campaign=1066&utm_source=git)** | 2340 Dulles Corner Blvd, Herndon, VA 20171, USA | Hybrid | Oct 08 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BCG X](https://www.bcg.com/x)** | **[Data Scientist, Internship, Campus, United States - BCG X](https://jobright.ai/jobs/info/68e581a6b99ec3563b0f5a69?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
 | ↳ | **[Data Scientist, Internship, Campus, United States - BCG X](https://jobright.ai/jobs/info/68e580bf1852e62f008111e1?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 07 |
 | ↳ | **[Data Scientist, Internship, Campus, United States - BCG X](https://jobright.ai/jobs/info/68e58018b99ec3563b0f580a?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Oct 07 |
-| ↳ | **[Data Scientist, Internship, Campus, United States - BCG X](https://jobright.ai/jobs/info/68e57fc9ae2b894b1d7100d6?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 07 |
-| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Intern - Summer 2026 - Data Analytics + Cyber Security](https://jobright.ai/jobs/info/68e57f67ae2b894b1d710056?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Oct 07 |
-| **[Highline Warren](https://highlinewarren.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68e57f151852e62f00810f05?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Oct 07 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Intern: Digital Money and Payments Research & Development](https://jobright.ai/jobs/info/68e57de51852e62f00810c44?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 07 |
-| **[Exact Sciences](https://www.exactsciences.com)** | **[Commercial Effectiveness & Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/68e57a5ab99ec3563b0f5200?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Oct 07 |
-| **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program-Data Scientist/Engineer I-DTLB](https://jobright.ai/jobs/info/68e579191852e62f008108be?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
