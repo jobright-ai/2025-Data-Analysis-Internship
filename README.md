@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fortrea](https://www.fortrea.com)** | **[Intern - Clinical Bioinformatics](https://jobright.ai/jobs/info/68e80ffb09580a2fe57f3041?utm_campaign=1066&utm_source=git)** | Westborough MA | On Site | Oct 09 |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Data Analytics Intern - Redondo Beach CA](https://jobright.ai/jobs/info/68e8074bc4895107182c0fd1?utm_campaign=1066&utm_source=git)** | United States-California-Redondo Beach | On Site | Oct 09 |
 | **[Siemens](https://www.siemens.com/)** | **[Data Analysis Internship- Customer Service (Summer 2026)](https://jobright.ai/jobs/info/68e7f21cc4895107182bff71?utm_campaign=1066&utm_source=git)** | New Castle, DE | On Site | Oct 09 |
 | **[Avison Young](https://www.avisonyoung.com)** | **[Intern](https://jobright.ai/jobs/info/68e7e90ac4895107182bf7c7?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | Remote | Oct 09 |
 | **[Siemens](https://www.siemens.com/)** | **[IT Data Insights and Project Management Intern](https://jobright.ai/jobs/info/68e7e6c9cc49a84b7e0ff1b5?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 09 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Farm Credit Services of America](https://www.fcsamerica.com/)** | **[Data & Analytics - Intern](https://jobright.ai/jobs/info/68e7e44909580a2fe57f0710?utm_campaign=1066&utm_source=git)** | Omaha, NE | On Site | Oct 09 |
 | **[Siemens](https://www.siemens.com/)** | **[Mechanical Data Analyst Internship- Customer Service (Summer 2026)](https://jobright.ai/jobs/info/68e7dee8c4895107182bef72?utm_campaign=1066&utm_source=git)** | Sacramento, CA | On Site | Oct 09 |
 | **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Translational Research Intern (Summer 2026)](https://jobright.ai/jobs/info/68e7da0c09580a2fe57f019e?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Oct 09 |
+| **[Corcentric](https://www.corcentric.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/68e7fe2909580a2fe57f1e4b?utm_campaign=1066&utm_source=git)** | Township of Cherry Hill, NJ | Hybrid | Oct 09 |
 | **[Global Atlantic](https://www.globalatlantic.com/)** | **[2026 Risk Data Analytics Intern](https://jobright.ai/jobs/info/68cea21bfb49c96ca6ea2556?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 09 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2026 Information Systems Audit Intern](https://jobright.ai/jobs/info/68e7d1a0cc49a84b7e0fe5c5?utm_campaign=1066&utm_source=git)** | 1014 Vine St, Cincinnati, OH, 45202, US | On Site | Oct 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Geospatial Intern, Spring 2026](https://jobright.ai/jobs/info/68e7bedec4895107182bdc83?utm_campaign=1066&utm_source=git)** | Burbank, CA | On Site | Oct 09 |
@@ -98,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Arrive Logistics](http://www.arrivelogistics.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e6bfc3ae2b894b1d71d4e6?utm_campaign=1066&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Oct 08 |
 | **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Business Intelligence Intern, Summer 2026](https://jobright.ai/jobs/info/68e6b3bfe8daec61499ad853?utm_campaign=1066&utm_source=git)** | Orrville, OH | Hybrid | Oct 08 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Networking Research Group](https://jobright.ai/jobs/info/68e6b327ae2b894b1d71cc67?utm_campaign=1066&utm_source=git)** | Redmond, Washington, United States | Hybrid | Oct 08 |
+| **[ATPCO](http://www.atpco.net)** | **[ Data Analyst & Reporting Intern](https://jobright.ai/jobs/info/68e8076909580a2fe57f2582?utm_campaign=1066&utm_source=git)** | 2340 Dulles Corner Blvd, Herndon, VA 20171, USA | Hybrid | Oct 08 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Graduate Business Insights & Analytics Data Scientist - Intern](https://jobright.ai/jobs/info/68e6a50c1852e62f0081cf6b?utm_campaign=1066&utm_source=git)** | US, Indianapolis IN | On Site | Oct 08 |
 | ↳ | **[Business Insights & Analytics - Undergrad Intern](https://jobright.ai/jobs/info/68e6a5061852e62f0081cf64?utm_campaign=1066&utm_source=git)** | US, Indianapolis IN | On Site | Oct 08 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[IMM Computational Intern](https://jobright.ai/jobs/info/68e6a2e7ae2b894b1d71c220?utm_campaign=1066&utm_source=git)** | Spring House, PA | Hybrid | Oct 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2026 Summer Intern: Digital Money and Payments Research & Development](https://jobright.ai/jobs/info/68e57de51852e62f00810c44?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 07 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Commercial Effectiveness & Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/68e57a5ab99ec3563b0f5200?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Oct 07 |
 | **[Washington Metropolitan Area Transit Authority (WMATA)](http://www.wmata.com)** | **[Metro College Internship Program-Data Scientist/Engineer I-DTLB](https://jobright.ai/jobs/info/68e579191852e62f008108be?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Oct 07 |
-| **[Wealth Enhancement](http://wealthenhancement.com/)** | **[Data Insights Analyst Intern (Part-time)](https://jobright.ai/jobs/info/68e57721b99ec3563b0f4d56?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 07 |
-| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68e57223ae2b894b1d70f2a1?utm_campaign=1066&utm_source=git)** | Westfield Center, OH | On Site | Oct 07 |
-| **[New York Air Brake](http://nyab.com)** | **[Intern, Data Analytics and Business Intelligence](https://jobright.ai/jobs/info/68e56f151852e62f0080fe38?utm_campaign=1066&utm_source=git)** | Watertown, NY | On Site | Oct 07 |
-| **[Elevance Health](https://www.elevancehealth.com)** | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68e56bdc1852e62f0080fc3e?utm_campaign=1066&utm_source=git)** | GA-ATLANTA, 740 W PEACHTREE ST NW | Hybrid | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
