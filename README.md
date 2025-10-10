@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Data Science](https://jobright.ai/jobs/info/68e8ca932e74df3042370b0d?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Oct 10 |
+| **[Labcorp](https://www.labcorp.com)** | **[Intern - Clinical Bioinformatics](https://jobright.ai/jobs/info/68e8be1809580a2fe57fb9f0?utm_campaign=1066&utm_source=git)** | Westborough, MA | On Site | Oct 10 |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68e4b7cfb99ec3563b0ed230?utm_campaign=1066&utm_source=git)** | Santa Monica, CA | On Site | Oct 09 |
 | **[Indiana University](https://www.iu.edu)** | **[UITS Student Intern-REN-ISAC Security Data Analyst Internship](https://jobright.ai/jobs/info/68e88a16cc49a84b7e107549?utm_campaign=1066&utm_source=git)** | Bloomington, IN | Hybrid | Oct 09 |
 | **[Graco](http://graco.com/in/en/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e85bf209580a2fe57f6ba1?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Oct 09 |
 | **[Steelcase](https://www.steelcase.com/)** | **[2026 Summer Data Science/Engineering IT Intern - Grand Rapids, MI](https://jobright.ai/jobs/info/68e8588ecc49a84b7e1052d1?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Oct 09 |
@@ -72,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Data Analytics/Data Science](https://jobright.ai/jobs/info/68e4acc2b99ec3563b0eccc4?utm_campaign=1066&utm_source=git)** | Fullerton, CA | Hybrid | Oct 09 |
 | **[Abertis Mobility Services](https://www.linkedin.com/company/69846008)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68e82150cc49a84b7e1028c3?utm_campaign=1066&utm_source=git)** | Orlando, FL | Hybrid | Oct 09 |
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - Clinical Bioinformatics](https://jobright.ai/jobs/info/68e80ffb09580a2fe57f3041?utm_campaign=1066&utm_source=git)** | Westborough MA | On Site | Oct 09 |
-| **[Lighthouse](https://www.lighthouseglobal.com/ediscovery-services)** | **[Data Scientist Intern (Onsite in Bellevue, Washington)](https://jobright.ai/jobs/info/68e8b843cc49a84b7e1095ca?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Oct 09 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - IT Data Science (Summer 2026)](https://jobright.ai/jobs/info/68dc29e597329f2f7732317f?utm_campaign=1066&utm_source=git)** | Neenah, WI | On Site | Oct 09 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Data Analytics Intern - Redondo Beach CA](https://jobright.ai/jobs/info/68e8074bc4895107182c0fd1?utm_campaign=1066&utm_source=git)** | United States-California-Redondo Beach | On Site | Oct 09 |
 | **[Siemens](https://www.siemens.com/)** | **[Data Analysis Internship- Customer Service (Summer 2026)](https://jobright.ai/jobs/info/68e7f21cc4895107182bff71?utm_campaign=1066&utm_source=git)** | New Castle, DE | On Site | Oct 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Data Modernization Intern](https://jobright.ai/jobs/info/68e5bf3c1852e62f00814108?utm_campaign=1066&utm_source=git)** | Carmel, IN | On Site | Oct 07 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/68e5b7dbae2b894b1d712e8c?utm_campaign=1066&utm_source=git)** | San Francisco, CA, USA | On Site | Oct 07 |
 | ↳ | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/68e5b7601852e62f00813be4?utm_campaign=1066&utm_source=git)** | California, USA - Remote | Remote | Oct 07 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/68e56719ae2b894b1d70e5ac?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Oct 07 |
-| **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[2026 Summer Intern: Digital Money and Payments Research & Development](https://jobright.ai/jobs/info/68e5b2e6ae2b894b1d712b34?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
