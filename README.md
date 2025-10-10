@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Indiana University](https://www.iu.edu)** | **[UITS Student Intern-REN-ISAC Security Data Analyst Internship](https://jobright.ai/jobs/info/68e88a16cc49a84b7e107549?utm_campaign=1066&utm_source=git)** | Bloomington, IN | Hybrid | Oct 09 |
 | **[Graco](http://graco.com/in/en/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e85bf209580a2fe57f6ba1?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Oct 09 |
 | **[Steelcase](https://www.steelcase.com/)** | **[2026 Summer Data Science/Engineering IT Intern - Grand Rapids, MI](https://jobright.ai/jobs/info/68e8588ecc49a84b7e1052d1?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Oct 09 |
 | **[Hone Health](http://www.getpeaktoday.com)** | **[Data Science Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/68e8487309580a2fe57f63d5?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Oct 09 |
@@ -137,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern- Data Analytics -Spring 2026](https://jobright.ai/jobs/info/68e5f1a0e8daec61499a6975?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/68e5de76ae2b894b1d71479e?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Oct 07 |
 | ↳ | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/68e5de2cae2b894b1d71470a?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Oct 07 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Data & Infrastructure Solutions (DIS) - Data Governance](https://jobright.ai/jobs/info/68e889c3cc49a84b7e1074e5?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Oct 07 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68e5d817e8daec61499a512c?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Oct 07 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern 2026](https://jobright.ai/jobs/info/68e5d30fae2b894b1d713e7e?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Oct 07 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Data Governance Intern](https://jobright.ai/jobs/info/68e5ccc0e8daec61499a4ad9?utm_campaign=1066&utm_source=git)** | St Paul, MN | On Site | Oct 07 |
@@ -146,15 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Battelle](http://www.battelle.org)** | **[Data Science Co-Op (Spring-Summer 2026)](https://jobright.ai/jobs/info/68e5c4e81852e62f008143de?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Oct 07 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e2ec161852e62f007f8a77?utm_campaign=1066&utm_source=git)** | Andover, MA | Hybrid | Oct 07 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[DPI Business Data Analytics Apprentice – IT](https://jobright.ai/jobs/info/68e5c433e8daec61499a44f7?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 07 |
+| **[JonnyPops](https://www.jonnypops.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68e5cc07e8daec61499a49e9?utm_campaign=1066&utm_source=git)** | Plymouth, MN | On Site | Oct 07 |
 | **[Enova International](http://www.enova.com)** | **[Business Intelligence Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/68e5c02eae2b894b1d713359?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Oct 07 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Data Modernization Intern](https://jobright.ai/jobs/info/68e5bf3c1852e62f00814108?utm_campaign=1066&utm_source=git)** | Carmel, IN | On Site | Oct 07 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/68e5b7dbae2b894b1d712e8c?utm_campaign=1066&utm_source=git)** | San Francisco, CA, USA | On Site | Oct 07 |
 | ↳ | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/68e5b7601852e62f00813be4?utm_campaign=1066&utm_source=git)** | California, USA - Remote | Remote | Oct 07 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/68e56719ae2b894b1d70e5ac?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Oct 07 |
 | **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[2026 Summer Intern: Digital Money and Payments Research & Development](https://jobright.ai/jobs/info/68e5b2e6ae2b894b1d712b34?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 07 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68e563151852e62f0080f285?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Oct 07 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Summer 2026 Data Analytics Internship Program](https://jobright.ai/jobs/info/68e5aaa6ae2b894b1d712771?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Oct 07 |
-| **[Milliman](http://www.milliman.com)** | **[Quant Developer Intern- Summer 2026 (May Start)](https://jobright.ai/jobs/info/68e59883b99ec3563b0f709d?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Oct 07 |
-| **[DuPont](http://www.dupont.com)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/68e5975fae2b894b1d7118fa?utm_campaign=1066&utm_source=git)** | Wilmington, DE | On Site | Oct 07 |
-| **[Pacific Life](http://www.pacificlife.com/)** | **[Summer 2026 Data Analytics Internship Program](https://jobright.ai/jobs/info/68e59409ae2b894b1d71148e?utm_campaign=1066&utm_source=git)** | Newport Beach CA-700 | On Site | Oct 07 |
-| **[Laveer Engineering](https://laveer.ca/)** | **[Data Science Intern Summer 2026](https://jobright.ai/jobs/info/68e58f4c1852e62f0081205e?utm_campaign=1066&utm_source=git)** | Cranberry Township, PA | On Site | Oct 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
