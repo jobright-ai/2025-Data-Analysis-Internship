@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Century Investments](https://www.americancentury.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/68cda628b2a74e1837eda3b4?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Oct 11 |
+| ↳ | **[Municipal Data & Research Intern](https://jobright.ai/jobs/info/68cda801e23def7af55bd8ba?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Oct 11 |
+| **[Harbinger](https://harbingermotors.com)** | **[Intern, Production Data Analytics](https://jobright.ai/jobs/info/68ea2bfb6afbef49f2c65c77?utm_campaign=1066&utm_source=git)** | Garden Grove, CA | On Site | Oct 10 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Operations Data Intern](https://jobright.ai/jobs/info/68e9c20954fbf903f6a7e92b?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Oct 10 |
 | ↳ | **[Service Operations Data Intern](https://jobright.ai/jobs/info/68e9c0e554fbf903f6a7e830?utm_campaign=1066&utm_source=git)** | Texas, United States | Remote | Oct 10 |
 | **[Expand Energy](www.expandenergy.com)** | **[Intern - Fundamentals](https://jobright.ai/jobs/info/68e9c051cdf8d94b293a2043?utm_campaign=1066&utm_source=git)** | Spring, TX | On Site | Oct 10 |
 | **[DigiKey](https://www.digikey.ca)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68e9ba1f0930fe0bc46288f9?utm_campaign=1066&utm_source=git)** | Thief River Falls, MN | Hybrid | Oct 10 |
-| **[Ntrepid LLC](https://ntrepidcorp.com/)** | **[Technology & Global Affairs Research Intern](https://jobright.ai/jobs/info/68e9b64efeeb0006c1a56cad?utm_campaign=1066&utm_source=git)** | US-VA-Herndon | On Site | Oct 10 |
+| **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Data Integrity Intern](https://jobright.ai/jobs/info/68e4692ef758fe1f97e68083?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 10 |
 | **[LineVision](https://www.linevisioninc.com/)** | **[Technical Data Analyst Intern](https://jobright.ai/jobs/info/68e9afadfeeb0006c1a569b3?utm_campaign=1066&utm_source=git)** | BOSTON OFFICE | Hybrid | Oct 10 |
-| **[Harbinger](https://harbingermotors.com)** | **[Intern, Production Data Analytics](https://jobright.ai/jobs/info/68e9ab4b0930fe0bc46280f5?utm_campaign=1066&utm_source=git)** | Garden Grove, CA | On Site | Oct 10 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Data Science](https://jobright.ai/jobs/info/68e9a5cb0930fe0bc4627f5f?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Oct 10 |
 | **[Precision Castparts](http://precast.com)** | **[Data Analysis Co-op](https://jobright.ai/jobs/info/68e99e4a65768b6412b1e1c3?utm_campaign=1066&utm_source=git)** | Gardena, CA | On Site | Oct 10 |
 | **[Myers and Stauffer LC](https://myersandstauffer.com/)** | **[Data Analyst Intern - Indianapolis, IN (Summer 2026)](https://jobright.ai/jobs/info/68e9941b0930fe0bc46276f6?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Oct 10 |
@@ -78,13 +80,12 @@ For a complete list, click the following sortable link below:
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Spring 2026 Intern - Data Analytics - Mechanical (Bachelor's)](https://jobright.ai/jobs/info/68e96d1af195760c354a8f41?utm_campaign=1066&utm_source=git)** | Canonsburg, PA | On Site | Oct 10 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e96ced0930fe0bc4625a2c?utm_campaign=1066&utm_source=git)** | Erie-Meadville Area | On Site | Oct 10 |
 | **[DigiKey](https://www.digikey.ca)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68e9654765768b6412b1b945?utm_campaign=1066&utm_source=git)** | Thief River Falls, MN | Hybrid | Oct 10 |
-| **[Internet2](http://www.internet2.edu)** | **[Data Analyst Intern - Internet2 NET+Program](https://jobright.ai/jobs/info/68ea1c014a45b1233cc2fbd7?utm_campaign=1066&utm_source=git)** | Michigan, United States | On Site | Oct 10 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Global Supply Chain Data Science Intern](https://jobright.ai/jobs/info/68e9560b0930fe0bc46243f7?utm_campaign=1066&utm_source=git)** | Westchester, IL | Hybrid | Oct 10 |
 | **[AgriCapture](https://agricapture.com)** | **[Geographic Information Systems Intern](https://jobright.ai/jobs/info/68e955890930fe0bc462435f?utm_campaign=1066&utm_source=git)** | Nashville, TN | On Site | Oct 10 |
-| **[SageSure](https://www.sagesure.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e9495765768b6412b1a1f2?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
+| **[SageSure](https://www.sagesure.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68e94b410930fe0bc4623e7d?utm_campaign=1066&utm_source=git)** | Cheshire, CT | On Site | Oct 10 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68e948be0930fe0bc4623c3b?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
 | **[Capital Farm Credit](https://www.capitalfarmcredit.com/)** | **[Internship - Information Technology](https://jobright.ai/jobs/info/68e93de00930fe0bc462379e?utm_campaign=1066&utm_source=git)** | College Station, Texas | On Site | Oct 10 |
 | **[StandardAero](http://www.standardaero.com/)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/68e93c640930fe0bc462363f?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Oct 10 |
-| **[SageSure](https://www.sagesure.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68e93a430930fe0bc46233db?utm_campaign=1066&utm_source=git)** | Cheshire, CT | On Site | Oct 10 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Global Supply Chain Data Science Intern](https://jobright.ai/jobs/info/68e938530930fe0bc462334c?utm_campaign=1066&utm_source=git)** | Westchester, IL | Hybrid | Oct 10 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - PhD Quant Research Analyst, Client Solutions & Analytics - PIMCO](https://jobright.ai/jobs/info/68e935bc9020b95add6a4bc7?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Oct 10 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[2026 Summer Intern - Data Management](https://jobright.ai/jobs/info/68e92e050930fe0bc4622e8e?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 10 |
@@ -97,13 +98,13 @@ For a complete list, click the following sortable link below:
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e919960930fe0bc4622474?utm_campaign=1066&utm_source=git)** | WV, Working at Home - W Virginia | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e9196e0930fe0bc462245b?utm_campaign=1066&utm_source=git)** | VA, Working at Home - Virginia | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e919610930fe0bc4622454?utm_campaign=1066&utm_source=git)** | ND, Working at Home - North Dakota | Remote | Oct 10 |
-| ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e9194c0930fe0bc4622447?utm_campaign=1066&utm_source=git)** | IA, Working at Home - Iowa | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e9194c65768b6412b18977?utm_campaign=1066&utm_source=git)** | WA, Working at Home - Washington | Remote | Oct 10 |
+| ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e9194c0930fe0bc4622447?utm_campaign=1066&utm_source=git)** | IA, Working at Home - Iowa | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e9193e0930fe0bc4622441?utm_campaign=1066&utm_source=git)** | ID, Working at Home - Idaho | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e919260930fe0bc4622431?utm_campaign=1066&utm_source=git)** | AR, Working at Home -  Arkansas | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e919049020b95add6a3ed3?utm_campaign=1066&utm_source=git)** | PA, Working at Home - Pennsylvania | Remote | Oct 10 |
-| ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e919010930fe0bc4622423?utm_campaign=1066&utm_source=git)** | IN, Working at Home - Indiana | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e919010930fe0bc4622422?utm_campaign=1066&utm_source=git)** | OR, Working at Home - Oregon | Remote | Oct 10 |
+| ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e919010930fe0bc4622423?utm_campaign=1066&utm_source=git)** | IN, Working at Home - Indiana | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e918fe9020b95add6a3ed1?utm_campaign=1066&utm_source=git)** | NC, Working at Home - N Carolina | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e918f20930fe0bc462241a?utm_campaign=1066&utm_source=git)** | NY, Working at Home - New York | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e918ef65768b6412b18946?utm_campaign=1066&utm_source=git)** | MA, Working at Home -Massachusetts | Remote | Oct 10 |
@@ -124,19 +125,19 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e9187b65768b6412b18909?utm_campaign=1066&utm_source=git)** | KY, Working at Home - Kentucky | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e9187865768b6412b18907?utm_campaign=1066&utm_source=git)** | MO, Working at Home - Montana | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e9186d9020b95add6a3e8b?utm_campaign=1066&utm_source=git)** | GA, Working at Home - Georgia | Remote | Oct 10 |
-| ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e9186a65768b6412b18900?utm_campaign=1066&utm_source=git)** | NM, Working at Home - New Mexico | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e9186a65768b6412b18901?utm_campaign=1066&utm_source=git)** | OH, Working at Home - Ohio | Remote | Oct 10 |
+| ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e9186a65768b6412b18900?utm_campaign=1066&utm_source=git)** | NM, Working at Home - New Mexico | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e9186865768b6412b188fe?utm_campaign=1066&utm_source=git)** | DE, Working at Home - Delaware | Remote | Oct 10 |
-| ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e9184c65768b6412b188f6?utm_campaign=1066&utm_source=git)** | NV, Working at Home - Nevada | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e9184c0930fe0bc46223d1?utm_campaign=1066&utm_source=git)** | MD, Working at Home - Maryland | Remote | Oct 10 |
+| ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e9184c65768b6412b188f6?utm_campaign=1066&utm_source=git)** | NV, Working at Home - Nevada | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e918309020b95add6a3e76?utm_campaign=1066&utm_source=git)** | VT, Working at Home - Vermont | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e9182865768b6412b188df?utm_campaign=1066&utm_source=git)** | MS, Working at Home - Mississippi | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e918179020b95add6a3e69?utm_campaign=1066&utm_source=git)** | NJ, Working at Home - New Jersey | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e9181365768b6412b188d7?utm_campaign=1066&utm_source=git)** | ME, Working at Home - Maine | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e9180b9020b95add6a3e63?utm_campaign=1066&utm_source=git)** | RI, Working at Home - Rhode Island | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e9180965768b6412b188d2?utm_campaign=1066&utm_source=git)** | IL, Working at Home - Illinois | Remote | Oct 10 |
-| ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e918079020b95add6a3e5e?utm_campaign=1066&utm_source=git)** | WI, Working at Home - Wisconsin | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e918079020b95add6a3e5f?utm_campaign=1066&utm_source=git)** | MO, Working at Home - Missouri | Remote | Oct 10 |
+| ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e918079020b95add6a3e5e?utm_campaign=1066&utm_source=git)** | WI, Working at Home - Wisconsin | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e917f99020b95add6a3e5a?utm_campaign=1066&utm_source=git)** | CT, Working at Home - Conneticut | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e9179f9020b95add6a3e15?utm_campaign=1066&utm_source=git)** | TX, Working at Home - Texas | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e9179965768b6412b18885?utm_campaign=1066&utm_source=git)** | SD, Working at Home-South Dakota | Remote | Oct 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Steelcase](https://www.steelcase.com/)** | **[2026 Summer Data Science/Engineering IT Intern - Grand Rapids, MI](https://jobright.ai/jobs/info/68e8588ecc49a84b7e1052d1?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Oct 09 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Data Analytics/Data Science/Applied Math/Statistics](https://jobright.ai/jobs/info/68e4b28fb99ec3563b0ed02d?utm_campaign=1066&utm_source=git)** | Santa Ana, CA | On Site | Oct 09 |
 | **[Hone Health](http://www.getpeaktoday.com)** | **[Data Science Intern (Spring/Summer 2026)](https://jobright.ai/jobs/info/68e8487309580a2fe57f63d5?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Oct 09 |
-| **[Guardian Industries](https://www.guardian.com)** | **[Guardian Summer 2026 Data Quality & Process Intern](https://jobright.ai/jobs/info/68e8479cc72beb74cb31d3ba?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
