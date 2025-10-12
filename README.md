@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sands Capital](http://www.sandscapital.com)** | **[Data and Analytics Intern (Fall Semester; Hybrid)](https://jobright.ai/jobs/info/68eb58de76a1db7c5985f53f?utm_campaign=1066&utm_source=git)** | Arlington, VA | Hybrid | Oct 12 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Data Catalog Maintenance Intern](https://jobright.ai/jobs/info/68ea87122f64880ca0b5360c?utm_campaign=1066&utm_source=git)** | Carlsbad, CA | On Site | Oct 11 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Data Analyst - Summer 2026](https://jobright.ai/jobs/info/68ea82702f64880ca0b53592?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[Grad Intern - Biostatistics](https://jobright.ai/jobs/info/68ea7fc376a1db7c5985b5e5?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Oct 11 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[American Century Investments](https://www.americancentury.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/68cda6d3e23def7af55bd566?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | ↳ | **[Quantitative Research Intern](https://jobright.ai/jobs/info/68cda628b2a74e1837eda3b4?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Oct 11 |
 | ↳ | **[Municipal Data & Research Intern](https://jobright.ai/jobs/info/68cda801e23def7af55bd8ba?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Oct 11 |
+| **[Rhombus Power Inc.](https://rhombuspower.com/)** | **[Intelligence Internship](https://jobright.ai/jobs/info/68e551961852e62f0080e3c4?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Oct 10 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Production Data Analytics](https://jobright.ai/jobs/info/68ea2bfb6afbef49f2c65c77?utm_campaign=1066&utm_source=git)** | Garden Grove, CA | On Site | Oct 10 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Service Operations Data Intern](https://jobright.ai/jobs/info/68e9c20954fbf903f6a7e92b?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Oct 10 |
 | ↳ | **[Service Operations Data Intern](https://jobright.ai/jobs/info/68e9c0e554fbf903f6a7e830?utm_campaign=1066&utm_source=git)** | Texas, United States | Remote | Oct 10 |
@@ -92,7 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Global Supply Chain Data Science Intern](https://jobright.ai/jobs/info/68e9560b0930fe0bc46243f7?utm_campaign=1066&utm_source=git)** | Westchester, IL | Hybrid | Oct 10 |
 | **[AgriCapture](https://agricapture.com)** | **[Geographic Information Systems Intern](https://jobright.ai/jobs/info/68e955890930fe0bc462435f?utm_campaign=1066&utm_source=git)** | Nashville, TN | On Site | Oct 10 |
 | **[SageSure](https://www.sagesure.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68e94b410930fe0bc4623e7d?utm_campaign=1066&utm_source=git)** | Cheshire, CT | On Site | Oct 10 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68e9495765768b6412b1a1f2?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68e948be0930fe0bc4623c3b?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Oct 10 |
 | **[Capital Farm Credit](https://www.capitalfarmcredit.com/)** | **[Internship - Information Technology](https://jobright.ai/jobs/info/68e93de00930fe0bc462379e?utm_campaign=1066&utm_source=git)** | College Station, Texas | On Site | Oct 10 |
 | **[StandardAero](http://www.standardaero.com/)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/68e93c640930fe0bc462363f?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Oct 10 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Global Supply Chain Data Science Intern](https://jobright.ai/jobs/info/68e938530930fe0bc462334c?utm_campaign=1066&utm_source=git)** | Westchester, IL | Hybrid | Oct 10 |
@@ -111,8 +113,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e9193e0930fe0bc4622441?utm_campaign=1066&utm_source=git)** | ID, Working at Home - Idaho | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e919260930fe0bc4622431?utm_campaign=1066&utm_source=git)** | AR, Working at Home -  Arkansas | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e919049020b95add6a3ed3?utm_campaign=1066&utm_source=git)** | PA, Working at Home - Pennsylvania | Remote | Oct 10 |
-| ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e919010930fe0bc4622422?utm_campaign=1066&utm_source=git)** | OR, Working at Home - Oregon | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e919010930fe0bc4622423?utm_campaign=1066&utm_source=git)** | IN, Working at Home - Indiana | Remote | Oct 10 |
+| ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e919010930fe0bc4622422?utm_campaign=1066&utm_source=git)** | OR, Working at Home - Oregon | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e918fe9020b95add6a3ed1?utm_campaign=1066&utm_source=git)** | NC, Working at Home - N Carolina | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e918f20930fe0bc462241a?utm_campaign=1066&utm_source=git)** | NY, Working at Home - New York | Remote | Oct 10 |
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e918ef65768b6412b18946?utm_campaign=1066&utm_source=git)** | MA, Working at Home -Massachusetts | Remote | Oct 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Data Science Graduate Intern](https://jobright.ai/jobs/info/68e917559020b95add6a3ddd?utm_campaign=1066&utm_source=git)** | KS, Working at Home - Kansas | Remote | Oct 10 |
 | **[StandardAero](http://www.standardaero.com/)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/68e9078f0930fe0bc4621c65?utm_campaign=1066&utm_source=git)** | 11550 Mosteller Road, Cincinnati, OH, 45241, US | On Site | Oct 10 |
 | **[Abertis Mobility Services](https://www.linkedin.com/company/69846008)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68e8e50265768b6412b17296?utm_campaign=1066&utm_source=git)** | Orlando, FL | Hybrid | Oct 10 |
-| **[Xavier University of Louisiana](http://www.xula.edu/)** | **[Research Associate](https://jobright.ai/jobs/info/68e900079020b95add6a3371?utm_campaign=1066&utm_source=git)** | New Orleans, LA | On Site | Oct 10 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Data Science](https://jobright.ai/jobs/info/68e8ca932e74df3042370b0d?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
