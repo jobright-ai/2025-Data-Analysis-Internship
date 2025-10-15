@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PlayStation](https://www.playstation.com/)** | **[Business Intelligence Intern - Undergraduate](https://jobright.ai/jobs/info/68ef2c1ea1a1d02df61ea5e9?utm_campaign=1066&utm_source=git)** | United States of America | On Site | Oct 14 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/68ef2c0720456578d5eb634a?utm_campaign=1066&utm_source=git)** | United States of America | On Site | Oct 14 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Data and Business Intelligence Internship](https://jobright.ai/jobs/info/68ef12de230ae70a14c3fab8?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Oct 14 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Business Data Analyst Intern – Indirect Commodity](https://jobright.ai/jobs/info/68ef0ee2a1a1d02df61e88f5?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 14 |
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/68ef0d2c230ae70a14c3f489?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 14 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Data Analytics Engineering Summer Intern](https://jobright.ai/jobs/info/68eeff0b20456578d5eb3c34?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Oct 14 |
 | **[Merchology](http://merchology.com)** | **[Data Reporting Analyst Intern](https://jobright.ai/jobs/info/68eee8b646e5b153e5a61006?utm_campaign=1066&utm_source=git)** | Plymouth, MN | Hybrid | Oct 14 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Business Data Analyst Intern – Indirect Commodity](https://jobright.ai/jobs/info/68eef477e0db92422580ce1b?utm_campaign=1066&utm_source=git)** | San Jose, California | On Site | Oct 14 |
+| **[Memphis Grizzlies](http://grizzlies.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/68ea87b22f64880ca0b53640?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Oct 14 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Data Scientist - PhD Intern](https://jobright.ai/jobs/info/68eed518e0db92422580bf24?utm_campaign=1066&utm_source=git)** | San Mateo, CA, United States | On Site | Oct 14 |
 | **[Craftwater](http://craftwater.com)** | **[Watershed Analyst Intern](https://jobright.ai/jobs/info/68eed41be0db92422580bd6d?utm_campaign=1066&utm_source=git)** | San Diego | Hybrid | Oct 14 |
 | **[Tetra Pak](http://www.tetrapak.com)** | **[Customer Analytics Intern](https://jobright.ai/jobs/info/68eed3e1d078b81ad160fd27?utm_campaign=1066&utm_source=git)** | Denton, TX | Hybrid | Oct 14 |
@@ -109,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://www.statefarm.com/careers)** | **[2026 Spring Intern - MAGNet Program @ Arizona State University](https://jobright.ai/jobs/info/68d1ed59a54edb3bf3e17962?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Oct 14 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Real-World Data Analytics](https://jobright.ai/jobs/info/68edfc3e81fdd1626d3a17c9?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Remote | Oct 14 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Supply Chain Intern - Data Analytics & AI](https://jobright.ai/jobs/info/68edd16981fdd1626d39fbe7?utm_campaign=1066&utm_source=git)** | Hagerstown, MD | On Site | Oct 13 |
+| **[PwC Experience Center Stockholm](https://digital.pwc.com/en-se.html)** | **[Risk & Reg - Technology & Analytics - Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68ef35c8a1a1d02df61eb240?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 13 |
 | **[Wayfair](https://www.wayfair.com)** | **[Data Science Intern (Operations) - Summer 2026](https://jobright.ai/jobs/info/68ef1396a1a1d02df61e8ca3?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 13 |
 | **[H&R Block](https://www.hrblock.com)** | **[Embark Intern - Web Analytics](https://jobright.ai/jobs/info/68eda5b06335d3323612a920?utm_campaign=1066&utm_source=git)** | KANSAS CITY, Missouri | On Site | Oct 13 |
 | ↳ | **[Embark Intern - Web Analytics](https://jobright.ai/jobs/info/68eda50981fdd1626d39e07c?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Oct 13 |
@@ -131,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - Real-World Data Analytics](https://jobright.ai/jobs/info/68ed4d856335d3323612747d?utm_campaign=1066&utm_source=git)** | Remote_United States | Remote | Oct 13 |
 | **[Envoy Air](https://envoyair.com)** | **[College Intern - Corporate Services](https://jobright.ai/jobs/info/68ed4d5d6335d3323612740b?utm_campaign=1066&utm_source=git)** | US-TX-Irving | On Site | Oct 13 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Data Science Analyst Intern](https://jobright.ai/jobs/info/68ed46ba70b66e2345d3c1e4?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 13 |
-| ↳ | **[Summer Internship Program 2026 - Quantitative Research Intern](https://jobright.ai/jobs/info/68ed459681fdd1626d39a7c5?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Oct 13 |
 | ↳ | **[Summer Internship Program 2026 - Real Estate Data Intern](https://jobright.ai/jobs/info/68ed43506335d33236126edd?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Oct 13 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Data Science](https://jobright.ai/jobs/info/68e9a5cb0930fe0bc4627f5f?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Oct 13 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Data Science Research Graduate Intern](https://jobright.ai/jobs/info/68ed2e2f81fdd1626d399c5f?utm_campaign=1066&utm_source=git)** | IA, Working at Home - Iowa | Remote | Oct 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Bioinformatics Scientist/Software Intern – Summer 2026](https://jobright.ai/jobs/info/68ed2d3081fdd1626d3999fe?utm_campaign=1066&utm_source=git)** | US - CA - San Diego | On Site | Oct 13 |
 | ↳ | **[Bioinformatics Operations Intern (Summer 2026)](https://jobright.ai/jobs/info/68ed2d1b70b66e2345d3b44d?utm_campaign=1066&utm_source=git)** | US - AZ - Phoenix | On Site | Oct 13 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Data Science Research Graduate Intern](https://jobright.ai/jobs/info/68ed2cf770b66e2345d3b408?utm_campaign=1066&utm_source=git)** | NE, Working at Home - Nebraska | Remote | Oct 13 |
-| ↳ | **[Summer 2026 Data Science Research Graduate Intern](https://jobright.ai/jobs/info/68ed2ced70b66e2345d3b3fa?utm_campaign=1066&utm_source=git)** | GA, Working at Home - Georgia | Remote | Oct 13 |
-| ↳ | **[Summer 2026 Data Science Research Graduate Intern](https://jobright.ai/jobs/info/68ed2cd56335d33236126341?utm_campaign=1066&utm_source=git)** | NV, Working at Home - Nevada | Remote | Oct 13 |
-| ↳ | **[Summer 2026 Data Science Research Graduate Intern](https://jobright.ai/jobs/info/68ed2cd070b66e2345d3b3d4?utm_campaign=1066&utm_source=git)** | UT, Working at Home - Utah | Remote | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
