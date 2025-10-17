@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - TPG Global IE](https://jobright.ai/jobs/info/68f18c87e6870116b1f5a58a?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Oct 16 |
 | **[Arch Capital Group Ltd.](https://www.archgroup.com)** | **[Catastrophe Risk Summer Intern](https://jobright.ai/jobs/info/68f17c24ef766b3f0fd0eb75?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 16 |
 | **[Group 1001](https://group1001.com/)** | **[Quantitative Analysis Intern](https://jobright.ai/jobs/info/68f16c8ee6870116b1f58ca7?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Oct 16 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Analyst, Software Asset Management](https://jobright.ai/jobs/info/68f167aee6870116b1f58907?utm_campaign=1066&utm_source=git)** | Newtown Square, PA | Hybrid | Oct 16 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Construction Technology- Business/Data Analyst](https://jobright.ai/jobs/info/68f1664ee6870116b1f586b0?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Oct 16 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Economic Research](https://jobright.ai/jobs/info/68f1650ef462172a5a7d7ca5?utm_campaign=1066&utm_source=git)** | US DC Main Office | On Site | Oct 16 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Construction Technology- Business/Data Analyst](https://jobright.ai/jobs/info/68f164ceef766b3f0fd0d32f?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Oct 16 |
 | **[Leidos](https://www.leidos.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68f16466f462172a5a7d7bb1?utm_campaign=1066&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Oct 16 |
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/68f16436ef766b3f0fd0d1f6?utm_campaign=1066&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Oct 16 |
 | **[Acadian Asset Management](http://www.acadian-asset.com/)** | **[Quant Research Intern - Summer 2026](https://jobright.ai/jobs/info/68f16117f462172a5a7d75b4?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Oct 16 |
@@ -73,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Group 1001](https://group1001.com/)** | **[Quantitative Analysis Intern](https://jobright.ai/jobs/info/68f157fde6870116b1f575c3?utm_campaign=1066&utm_source=git)** |  Stamford, Connecticut | Hybrid | Oct 16 |
 | **[Indiana University Health](http://iuhealth.org)** | **[Informatics & Information Services Internship Summer 2026](https://jobright.ai/jobs/info/68f1575bf462172a5a7d6887?utm_campaign=1066&utm_source=git)** | 340 W 10th St, Indianapolis, IN, 46202, US | On Site | Oct 16 |
 | **[OTC Industrial Technologies](https://otcindustrial.com/)** | **[Systems and Analytics Intern](https://jobright.ai/jobs/info/68f14a62e6870116b1f5651a?utm_campaign=1066&utm_source=git)** | Ohio, United States | Remote | Oct 16 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Construction Technology- Business/Data Analyst](https://jobright.ai/jobs/info/68f14124ef766b3f0fd0a851?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Oct 16 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Construction Technology- Business/Data Analyst](https://jobright.ai/jobs/info/68f14063e6870116b1f55737?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Oct 16 |
 | **[EyesOver Technologies](https://www.eyesover.com/)** | **[Public Opinion Analyst Intern (SPRING 2026 START)](https://jobright.ai/jobs/info/68f13ebbe6870116b1f552fd?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Oct 16 |
 | **[State of Indiana](https://www.in.gov)** | **[INEOTE - Legal Intern - Judicial Data Project](https://jobright.ai/jobs/info/68f13b89ef766b3f0fd0a43e?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Oct 16 |
 | **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f137b9e6870116b1f54e72?utm_campaign=1066&utm_source=git)** | Kenosha, WI | On Site | Oct 16 |
@@ -87,7 +88,7 @@ For a complete list, click the following sortable link below:
 | **[DigiKey](https://www.digikey.ca)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68f13450f462172a5a7d43ed?utm_campaign=1066&utm_source=git)** | Home Office (Minnesota) | Hybrid | Oct 16 |
 | **[Federal Home Loan Bank of Chicago](http://www.fhlbc.com)** | **[Summer Internship- Business Intelligence](https://jobright.ai/jobs/info/68e15c9e1852e62f007f2933?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 16 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Data and Statistics Intern](https://jobright.ai/jobs/info/68f122ecf462172a5a7d3560?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Oct 16 |
-| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, Bachelor’s or Master’s Degree (Summer 2026)](https://jobright.ai/jobs/info/68f0cd24ef766b3f0fd05771?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 16 |
+| **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2026](https://jobright.ai/jobs/info/68d446b917554c2d9eef786e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Oct 16 |
 | **[Global Quant Academy](https://www.linkedin.com/company/108390315)** | **[Quant Trader Internship Program](https://jobright.ai/jobs/info/68f0c158eb273a32d976d25f?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 16 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Intern, Retail Analyst](https://jobright.ai/jobs/info/68f0f9fff462172a5a7d1d48?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 16 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Informatics and Predictive Sciences Internship](https://jobright.ai/jobs/info/68f0b2c9a6b9004b5e32444d?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Oct 16 |
@@ -133,9 +134,9 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/68f0203d78ba1621431e2176?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Oct 15 |
 | **[Synopsys Inc](http://www.synopsys.com)** | **[Spring 2026 Intern - Data Analytics - Mechanical (Bachelor's)](https://jobright.ai/jobs/info/68f023a078ba1621431e2608?utm_campaign=1066&utm_source=git)** | Canonsburg, PA | On Site | Oct 15 |
 | **[MSU Federal Credit Union](http://www.msufcu.org)** | **[Business Intelligence Intern - Spring 2026](https://jobright.ai/jobs/info/68f01d74de50091dbfa51bec?utm_campaign=1066&utm_source=git)** | Greater Lansing | Hybrid | Oct 15 |
-| **[PwC](http://pwc.com)** | **[Risk & Reg - Technology & Analytics - Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68eff35c9821486c423c8153?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 15 |
+| **[PwC](http://pwc.com)** | **[Risk & Reg - Technology & Analytics - Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68eff39778ba1621431e12f2?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Oct 15 |
 | ↳ | **[Risk & Reg - Technology & Analytics - Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68eff2f4de50091dbfa51078?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Oct 15 |
-| ↳ | **[Risk & Reg - Technology & Analytics - Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68efe66a9821486c423c7f5b?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Oct 15 |
+| ↳ | **[Risk & Reg - Technology & Analytics - Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68efef9d9821486c423c7fd6?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 15 |
 | ↳ | **[Risk & Reg - Technology & Analytics - Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68efe5819821486c423c7ee7?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Oct 15 |
 | **[Enveda](https://enveda.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68f004169821486c423c8b18?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 15 |
 | **[PwC](http://pwc.com)** | **[Risk & Reg - Technology & Analytics - Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68efe40fde50091dbfa50d20?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Data and Business Intelligence Internship](https://jobright.ai/jobs/info/68ef12de230ae70a14c3fab8?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Oct 14 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Business Data Analyst Intern – Indirect Commodity](https://jobright.ai/jobs/info/68ef0ee2a1a1d02df61e88f5?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 14 |
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/68ef0d2c230ae70a14c3f489?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 14 |
-| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/68eeff37230ae70a14c3ed80?utm_campaign=1066&utm_source=git)** | San Jose, California | On Site | Oct 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
