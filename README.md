@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68bb7ac28043103d4f228ec0?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/68d7f9357a37c712687d76bd?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Oct 18 |
+| ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/68d7f9697a37c712687d772c?utm_campaign=1066&utm_source=git)** | Winchester, VA | Hybrid | Oct 18 |
+| ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/68d802cb7a37c712687d7b34?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Oct 18 |
+| ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/68d802e27a37c712687d7b7a?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Oct 18 |
+| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68d8024d7796a83635f0e4f5?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
+| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68bb7ac28043103d4f228ec0?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/68c79831c96a22563ecf2b12?utm_campaign=1066&utm_source=git)** | Dublin, GA | On Site | Oct 18 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Data Analytics, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/68e93d230930fe0bc46236e0?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68d7fb39295f8e37655e47ee?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Oct 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Moody's Corporation](http://www.moodys.com)** | **[Analytics-Modeling Intern](https://jobright.ai/jobs/info/68f3286f9a63986de756f926?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 17 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Quantitative Research Analyst](https://jobright.ai/jobs/info/68eea9f2e0db924225809574?utm_campaign=1066&utm_source=git)** | District of Columbia, United States | On Site | Oct 17 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, Bachelor’s or Master’s Degree (Summer 2026)](https://jobright.ai/jobs/info/68f346b49a63986de7571070?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 17 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Research Analyst Intern](https://jobright.ai/jobs/info/68a4e22f33dd7158bbc95e7c?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Oct 16 |
-| **[Attention Arc](https://attentionarc.com)** | **[Intern, Data](https://jobright.ai/jobs/info/686c642f35584b65427c880c?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Oct 16 |
-| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[2026 Graduate Data Science Summer Internship Program](https://jobright.ai/jobs/info/68f313be9a65fd34585839d9?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 16 |
-| **[DigiKey](https://www.digikey.ca)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68f1b030ef766b3f0fd10da7?utm_campaign=1066&utm_source=git)** | Home, MN | Hybrid | Oct 16 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
