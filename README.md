@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Quantbot Technologies LP](https://www.quantbot.com)** | **[Quantitative Researcher Internship - 2026 [Miami]](https://jobright.ai/jobs/info/68d501242ed36439e51e4157?utm_campaign=1066&utm_source=git)** | Miami | On Site | Oct 19 |
-| **[General Motors](https://www.gm.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68f507239a63986de75785ee?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 19 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist - Model Risk Management)](https://jobright.ai/jobs/info/68f4ad609a63986de75771c3?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Oct 19 |
 | ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68bb786e6105227d118a6354?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Oct 19 |
 | **[Motion](http://www.dragosupply.com/)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/68ec9e7dc26b9574506f5378?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Oct 19 |
@@ -133,8 +132,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategic Data Analytics Intern](https://jobright.ai/jobs/info/68ce55a2dbd9fb154edde9ec?utm_campaign=1066&utm_source=git)** | Strongsville, OH | On Site | Oct 17 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[IBP Data Management Intern - The Toro Company](https://jobright.ai/jobs/info/68f2c6bd9a63986de756c377?utm_campaign=1066&utm_source=git)** | Bloomington, MN | On Site | Oct 17 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/68f2ba719a63986de756ba6e?utm_campaign=1066&utm_source=git)** | Yorktown Heights, NY | On Site | Oct 17 |
-| **[Creative Artists Agency](http://www.caa.com)** | **[U.S. Campus Summer 2026 Data and Tech Internship Application](https://jobright.ai/jobs/info/68f2b90276a51a4307bc7853?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Oct 17 |
-| ↳ | **[U.S. Campus Summer 2026 Data and Tech Internship Application](https://jobright.ai/jobs/info/68f2b7b676a51a4307bc75f8?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 17 |
+| **[Creative Artists Agency](http://www.caa.com)** | **[U.S. Campus Summer 2026 Data and Tech Internship Application](https://jobright.ai/jobs/info/68f2b93e9a65fd3458580268?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 17 |
+| ↳ | **[U.S. Campus Summer 2026 Data and Tech Internship Application](https://jobright.ai/jobs/info/68f2b8c79a63986de756b74f?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Oct 17 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/68f2ad879a65fd345857f3d7?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 17 |
 | ↳ | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/68f2ac439a65fd345857f0e8?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Oct 17 |
 | ↳ | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/68f2ab919a63986de756a568?utm_campaign=1066&utm_source=git)** | Albany, NY | On Site | Oct 17 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/68d5601939247e3c807ea83f?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Oct 17 |
 | **[UPS](http://www.ups.com)** | **[UPS Global Finance Summer 2026 Analytics Internship](https://jobright.ai/jobs/info/68ba15558043103d4f21d576?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Oct 17 |
 | **[SciTec, Inc.](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/689d4cb079a9f9666253eea9?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Oct 17 |
+| **[Echelon Insights](http://echeloninsights.com/)** | **[Echelon Fellowship (Internship)](https://jobright.ai/jobs/info/68f263b765ce784c102f0868?utm_campaign=1066&utm_source=git)** | Alexandria, VA | Hybrid | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
