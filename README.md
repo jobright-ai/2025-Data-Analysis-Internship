@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Motion](http://www.dragosupply.com/)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/68ec9e7dc26b9574506f5378?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Oct 19 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Biostatistics - Intern](https://jobright.ai/jobs/info/68ccf52b5954791a1d701a1b?utm_campaign=1066&utm_source=git)** | North Wales, PA | Hybrid | Oct 19 |
 | **[Quill](http://www.quill.com)** | **[Quill Data Science Intern - June 2026](https://jobright.ai/jobs/info/68d807d67796a83635f0e6d6?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Oct 19 |
 | ↳ | **[Quill Reporting & Analytics Intern - June 2026](https://jobright.ai/jobs/info/68d807f47796a83635f0e73c?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Oct 19 |
 | **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/68f4be7476a51a4307bd358b?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Oct 19 |
@@ -127,8 +129,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategic Data Analytics Intern](https://jobright.ai/jobs/info/68ce55a2dbd9fb154edde9ec?utm_campaign=1066&utm_source=git)** | Strongsville, OH | On Site | Oct 17 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[IBP Data Management Intern - The Toro Company](https://jobright.ai/jobs/info/68f2c6bd9a63986de756c377?utm_campaign=1066&utm_source=git)** | Bloomington, MN | On Site | Oct 17 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/68f2ba719a63986de756ba6e?utm_campaign=1066&utm_source=git)** | Yorktown Heights, NY | On Site | Oct 17 |
-| **[Creative Artists Agency](http://www.caa.com)** | **[U.S. Campus Summer 2026 Data and Tech Internship Application](https://jobright.ai/jobs/info/68f2b8c79a63986de756b74f?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Oct 17 |
-| ↳ | **[U.S. Campus Summer 2026 Data and Tech Internship Application](https://jobright.ai/jobs/info/68f2b7b676a51a4307bc75f8?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 17 |
+| **[Creative Artists Agency](http://www.caa.com)** | **[U.S. Campus Summer 2026 Data and Tech Internship Application](https://jobright.ai/jobs/info/68f2b93e9a65fd3458580268?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 17 |
+| ↳ | **[U.S. Campus Summer 2026 Data and Tech Internship Application](https://jobright.ai/jobs/info/68f2b8c79a63986de756b74f?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Oct 17 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/68f2ad879a65fd345857f3d7?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 17 |
 | ↳ | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/68f2ac439a65fd345857f0e8?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Oct 17 |
 | ↳ | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/68f2ab919a63986de756a568?utm_campaign=1066&utm_source=git)** | Albany, NY | On Site | Oct 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Do it Best](http://www.doitbestcorp.com)** | **[Data Analytics Internship - Logistics](https://jobright.ai/jobs/info/68b895e607090163b6ba316a?utm_campaign=1066&utm_source=git)** | Fort Wayne, IN | On Site | Oct 17 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(Spring) Research Analyst Intern](https://jobright.ai/jobs/info/68c00ecc5c5d5f14f46db3ce?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Oct 17 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Statistical Programmer - Intern](https://jobright.ai/jobs/info/68ba3b9e6105227d1189c39b?utm_campaign=1066&utm_source=git)** | Rahway, NJ | Hybrid | Oct 17 |
-| **[Oatey Company](https://www.oatey.com//)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cb8fc4ba798c1a501d1c99?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Oct 17 |
-| **[MAPFRE](https://www.mapfre.com)** | **[Intern - Advanced Analytics](https://jobright.ai/jobs/info/68cb9f84efdec76df36bfaab?utm_campaign=1066&utm_source=git)** | Webster, MA | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
