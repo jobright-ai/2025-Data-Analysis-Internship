@@ -104,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[DriveTime](https://www.drivetime.com)** | **[Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/68d0fd1df1976376178f139e?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Oct 18 |
 | **[ABB](https://global.abb/group/en)** | **[Data & Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68e43ee51852e62f008037db?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Oct 18 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - PhD Quant Research Analyst, Client Solutions & Analytics - PIMCO](https://jobright.ai/jobs/info/68f34e849a63986de757139c?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Oct 18 |
+| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/68f49dfa76a51a4307bd2c71?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Oct 18 |
 | **[Tetra Pak](http://www.tetrapak.com)** | **[Vancouver Analytics Intern](https://jobright.ai/jobs/info/68f33a0476a51a4307bcc403?utm_campaign=1066&utm_source=git)** | Vancouver, WA | Hybrid | Oct 17 |
 | **[The MJ Companies](https://www.mjinsurance.com)** | **[EB Analytics Intern](https://jobright.ai/jobs/info/68b9ca886105227d11897c6e?utm_campaign=1066&utm_source=git)** | Carmel, Indiana, United States | On Site | Oct 17 |
 | **[LMCU](https://www.lmcu.org/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68e01c89b99ec3563b0cc1a6?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Oct 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Moody's Corporation](http://www.moodys.com)** | **[Analytics-Modeling Intern](https://jobright.ai/jobs/info/68f3286f9a63986de756f926?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 17 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Quantitative Research Analyst](https://jobright.ai/jobs/info/68eea9f2e0db924225809574?utm_campaign=1066&utm_source=git)** | District of Columbia, United States | On Site | Oct 17 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, Bachelor’s or Master’s Degree (Summer 2026)](https://jobright.ai/jobs/info/68f346b49a63986de7571070?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 17 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Research Analyst Intern](https://jobright.ai/jobs/info/68a4e22f33dd7158bbc95e7c?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
