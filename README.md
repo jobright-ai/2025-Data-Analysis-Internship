@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quill](http://www.quill.com)** | **[Quill Data Science Intern - June 2026](https://jobright.ai/jobs/info/68d807d67796a83635f0e6d6?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Oct 19 |
+| ↳ | **[Quill Reporting & Analytics Intern - June 2026](https://jobright.ai/jobs/info/68d807f47796a83635f0e73c?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Oct 19 |
+| **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/68f4be7476a51a4307bd358b?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Oct 19 |
+| **[CAS](http://www.cas.org)** | **[CAS 2026 Bioinformatics Scientist Summer Intern](https://jobright.ai/jobs/info/68cfc7ed846f0b04af68502b?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Oct 19 |
+| **[DriveTime](https://www.drivetime.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68d0bb83dbd9fb154edef339?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Oct 19 |
+| **[John Deere](https://www.deere.com)** | **[Data & Analytics Internship 2026a](https://jobright.ai/jobs/info/68c1078e8e65e77df55c6ebc?utm_campaign=1066&utm_source=git)** | Moline, IL | Hybrid | Oct 19 |
 | **[American Equity](http://www.american-equity.com)** | **[IT Intern, Data Science](https://jobright.ai/jobs/info/68bf25a98e65e77df55b75e0?utm_campaign=1066&utm_source=git)** | West Des Moines, Iowa, United States | On Site | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/68d7f9357a37c712687d76bd?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Oct 18 |
 | ↳ | **[Summer Associate Internship (Business Intelligence Analyst)](https://jobright.ai/jobs/info/68d7f9697a37c712687d772c?utm_campaign=1066&utm_source=git)** | Winchester, VA | Hybrid | Oct 18 |
@@ -121,8 +127,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategic Data Analytics Intern](https://jobright.ai/jobs/info/68ce55a2dbd9fb154edde9ec?utm_campaign=1066&utm_source=git)** | Strongsville, OH | On Site | Oct 17 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[IBP Data Management Intern - The Toro Company](https://jobright.ai/jobs/info/68f2c6bd9a63986de756c377?utm_campaign=1066&utm_source=git)** | Bloomington, MN | On Site | Oct 17 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/68f2ba719a63986de756ba6e?utm_campaign=1066&utm_source=git)** | Yorktown Heights, NY | On Site | Oct 17 |
-| **[Creative Artists Agency](http://www.caa.com)** | **[U.S. Campus Summer 2026 Data and Tech Internship Application](https://jobright.ai/jobs/info/68f2b93e9a65fd3458580268?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 17 |
-| ↳ | **[U.S. Campus Summer 2026 Data and Tech Internship Application](https://jobright.ai/jobs/info/68f2b90276a51a4307bc7853?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Oct 17 |
+| **[Creative Artists Agency](http://www.caa.com)** | **[U.S. Campus Summer 2026 Data and Tech Internship Application](https://jobright.ai/jobs/info/68f2b8c79a63986de756b74f?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Oct 17 |
+| ↳ | **[U.S. Campus Summer 2026 Data and Tech Internship Application](https://jobright.ai/jobs/info/68f2b7b676a51a4307bc75f8?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 17 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/68f2ad879a65fd345857f3d7?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 17 |
 | ↳ | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/68f2ac439a65fd345857f0e8?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Oct 17 |
 | ↳ | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/68f2ab919a63986de756a568?utm_campaign=1066&utm_source=git)** | Albany, NY | On Site | Oct 17 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Statistical Programmer - Intern](https://jobright.ai/jobs/info/68ba3b9e6105227d1189c39b?utm_campaign=1066&utm_source=git)** | Rahway, NJ | Hybrid | Oct 17 |
 | **[Oatey Company](https://www.oatey.com//)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cb8fc4ba798c1a501d1c99?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Oct 17 |
 | **[MAPFRE](https://www.mapfre.com)** | **[Intern - Advanced Analytics](https://jobright.ai/jobs/info/68cb9f84efdec76df36bfaab?utm_campaign=1066&utm_source=git)** | Webster, MA | On Site | Oct 17 |
-| **[American Equity](http://www.american-equity.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68cb225c9e3a822f5d242daa?utm_campaign=1066&utm_source=git)** | West Des Moines, Iowa, United States | On Site | Oct 17 |
-| **[Texas Instruments](http://www.ti.com)** | **[Facilities Data Analytics Intern](https://jobright.ai/jobs/info/68d5ca011f7fb2169ab13b8f?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Oct 17 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Billing Solutions Analyst](https://jobright.ai/jobs/info/68ba72796105227d1189e170?utm_campaign=1066&utm_source=git)** | Maryland Heights, MO | On Site | Oct 17 |
-| **[Moody's Corporation](http://www.moodys.com)** | **[Analytics-Modeling Intern](https://jobright.ai/jobs/info/68f3286f9a63986de756f926?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 17 |
-| **[American Bankers Association](http://www.aba.com)** | **[Intern, Quantitative Research Analyst](https://jobright.ai/jobs/info/68eea9f2e0db924225809574?utm_campaign=1066&utm_source=git)** | District of Columbia, United States | On Site | Oct 17 |
-| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, Bachelor’s or Master’s Degree (Summer 2026)](https://jobright.ai/jobs/info/68f346b49a63986de7571070?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
