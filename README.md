@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dewberry](http://www.dewberry.com/)** | **[GIS Analyst Intern](https://jobright.ai/jobs/info/68f6e4ed76a51a4307bdf24b?utm_campaign=1066&utm_source=git)** | Fairfax, VA | On Site | Oct 20 |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Data Governance Internship](https://jobright.ai/jobs/info/68f6def59a65fd3458597def?utm_campaign=1066&utm_source=git)** | US-NJ-Egg Harbor Township | On Site | Oct 20 |
+| **[McGraw Hill](http://www.mheducation.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68f6dd3a9a63986de7582f02?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Oct 20 |
+| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/68f6db3d9a63986de7582b6e?utm_campaign=1066&utm_source=git)** | US-NJ-Egg Harbor Township | Hybrid | Oct 20 |
 | **[Sunwater Capital](http://sunwatercapital.com)** | **[Congressional Data and Research Intern (Part-time, Remote/Hybrid optional)](https://jobright.ai/jobs/info/68f6c3049a65fd3458596f7c?utm_campaign=1066&utm_source=git)** | North Bethesda, MD | Hybrid | Oct 20 |
-| **[Keystone Cooperative](https://www.keystonecoop.com/)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/68f6b8f576a51a4307bddae8?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Oct 20 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Bank Credit Risk & Data Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68f6b8ed9a63986de75819ac?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Oct 20 |
 | **[Legis1](https://legis1.com/)** | **[Congressional Data and Research Intern (Part-time, Remote/Hybrid optional)](https://jobright.ai/jobs/info/68f6ada99a65fd345859610d?utm_campaign=1066&utm_source=git)** | North Bethesda, MD | Hybrid | Oct 20 |
 | **[John Burns Research and Consulting](http://www.jbrec.com)** | **[Summer 2026 - Intern - Data Science](https://jobright.ai/jobs/info/68f6a40c9a65fd345859594f?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Oct 20 |
+| **[FanThreeSixty](http://www.fanthreesixty.com/)** | **[Data Insights Intern](https://jobright.ai/jobs/info/68f6d3db9a63986de758291d?utm_campaign=1066&utm_source=git)** | Leawood, KS | On Site | Oct 20 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Data Systems](https://jobright.ai/jobs/info/68f6a1ab9a65fd345859569b?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Oct 20 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Business Intelligence & Data Management](https://jobright.ai/jobs/info/68f69cb69a65fd3458595274?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Oct 20 |
 | **[First Solar](http://www.firstsolar.com)** | **[Data Science Intern (Spring 2026)](https://jobright.ai/jobs/info/68f69b9c76a51a4307bdc2f7?utm_campaign=1066&utm_source=git)** | Perrysburg, OH | On Site | Oct 20 |
@@ -76,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68f680f49a65fd3458593bab?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Oct 20 |
 | **[Dewberry](http://www.dewberry.com/)** | **[GIS Analyst Intern](https://jobright.ai/jobs/info/68d029cdfb49c96ca6eae6c6?utm_campaign=1066&utm_source=git)** | Fairfax, VA | On Site | Oct 20 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68f674c176a51a4307bda872?utm_campaign=1066&utm_source=git)** | Wellesley, MA | On Site | Oct 20 |
+| **[Keystone Cooperative](https://www.keystonecoop.com/)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/68f672179a63986de757e6d5?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Oct 20 |
 | **[American Equity](http://www.american-equity.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68cb225c9e3a822f5d242daa?utm_campaign=1066&utm_source=git)** | West Des Moines, Iowa, United States | On Site | Oct 20 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - PhD Quant Research Analyst, Client Solutions & Analytics - PIMCO](https://jobright.ai/jobs/info/68f66ca79a63986de757e34f?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Oct 20 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68f667229a65fd3458592e4f?utm_campaign=1066&utm_source=git)** | Wellesley Hills, Massachusetts | Hybrid | Oct 20 |
@@ -100,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Wawa, Inc.](https://www.wawa.com)** | **[Business Insights and Analytics Intern](https://jobright.ai/jobs/info/68f5ecf89a63986de757b67c?utm_campaign=1066&utm_source=git)** | Media, PA | On Site | Oct 20 |
 | **[Highmark](https://www.highmark.com)** | **[Summer 2026 Data Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68f5ecf79a63986de757b67b?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Oct 20 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Data Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68f5e9f276a51a4307bd7539?utm_campaign=1066&utm_source=git)** | Pittsburgh PA, 15222, FAP, 5th Avenue Place | Hybrid | Oct 20 |
+| **[Tipmont](http://wintek.com)** | **[2026 Geographical Information Systems (GIS) Intern](https://jobright.ai/jobs/info/68f6db329a63986de7582b58?utm_campaign=1066&utm_source=git)** | Linden, Indiana | On Site | Oct 19 |
 | **[The MJ Companies](https://www.mjinsurance.com)** | **[EB Analytics Intern](https://jobright.ai/jobs/info/68b8acb05b42bc4562826ec6?utm_campaign=1066&utm_source=git)** | Denver, Colorado, United States, | On Site | Oct 19 |
 | **[John Burns Research and Consulting](http://www.jbrec.com)** | **[Summer 2026 - Intern - Research Analysis](https://jobright.ai/jobs/info/68f6982f76a51a4307bdc0ce?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Oct 19 |
 | **[Quantbot Technologies LP](https://www.quantbot.com)** | **[Quantitative Researcher Internship - 2026 [Miami]](https://jobright.ai/jobs/info/68d501242ed36439e51e4157?utm_campaign=1066&utm_source=git)** | Miami | On Site | Oct 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/68c98646a0c52d598ea382fb?utm_campaign=1066&utm_source=git)** | Augusta, ME | On Site | Oct 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Data Science](https://jobright.ai/jobs/info/68f363df76a51a4307bcdfc4?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Oct 18 |
 | **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/68cd8c74b2a74e1837ed8972?utm_campaign=1066&utm_source=git)** | Orange, CT | On Site | Oct 18 |
-| **[Amway](http://www.amway.com)** | **[Data Analytics and Insights Intern, Summer 2026 (42256)](https://jobright.ai/jobs/info/68c9c16d95f5211cd2cf3fed?utm_campaign=1066&utm_source=git)** | Ada, MI | Hybrid | Oct 18 |
-| ↳ | **[People Analytics Intern, Summer 2026 (42325)](https://jobright.ai/jobs/info/68f363739a63986de7571e8f?utm_campaign=1066&utm_source=git)** | Ada, MI | On Site | Oct 18 |
-| **[DriveTime](https://www.drivetime.com)** | **[Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/68d0fd1df1976376178f139e?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Oct 18 |
-| **[ABB](https://global.abb/group/en)** | **[Data & Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68e43ee51852e62f008037db?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Oct 18 |
-| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/68f49dfa76a51a4307bd2c71?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Oct 18 |
-| **[Tetra Pak](http://www.tetrapak.com)** | **[Vancouver Analytics Intern](https://jobright.ai/jobs/info/68f33a0476a51a4307bcc403?utm_campaign=1066&utm_source=git)** | Vancouver, WA | Hybrid | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
