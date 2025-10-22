@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68dac2a607c157682e56d2dc?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Oct 22 |
+| **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dcf632a125e75c422a7441?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Oct 22 |
+| **[Nucor Corporation](http://www.nucor.com)** | **[Commodity Markets Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68dc37e6a271e745b8a7cc56?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Oct 22 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68cd1a8de23def7af55b560f?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Oct 22 |
+| ↳ | **[2026 Summer Intern: Data Science](https://jobright.ai/jobs/info/68f69c8a9a63986de75803de?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Oct 22 |
+| **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68ccdfdd5954791a1d700348?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Oct 22 |
+| ↳ | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68dac2a607c157682e56d2dc?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Oct 22 |
 | ↳ | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68d195c417554c2d9eedcf08?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Oct 22 |
 | **[Nationwide](http://nationwide.com)** | **[Summer 2026 PL Business Insights Intern](https://jobright.ai/jobs/info/68dc7c45a125e75c422a1175?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Oct 22 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/68f8a4c34bafad6d2d764c69?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Oct 22 |
 | **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/68f8a40c6de2db04dc3e1266?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Oct 22 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68f89fbaa628d10664e84a78?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 22 |
+| **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Computational Biology Internship](https://jobright.ai/jobs/info/68f8ac61a628d10664e852d1?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Oct 22 |
 | **[CNO Financial Group](http://www.cnoinc.com)** | **[Business Intelligence Intern- Summer 2026](https://jobright.ai/jobs/info/68f861604bafad6d2d762199?utm_campaign=1066&utm_source=git)** | Carmel, IN | On Site | Oct 21 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68f860e44bafad6d2d762139?utm_campaign=1066&utm_source=git)** | San Jose, California | On Site | Oct 21 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst, Emerging Talent Intern (Spring)](https://jobright.ai/jobs/info/68ee2d2846e5b153e5a52801?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 21 |
@@ -145,16 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Spirit Halloween](http://www.spirithalloween.com)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/68f6db3d9a63986de7582b6e?utm_campaign=1066&utm_source=git)** | US-NJ-Egg Harbor Township | Hybrid | Oct 20 |
 | **[Fizz](https://www.joinfizz.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68f7bbe5b0edcf159dc87afa?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Oct 20 |
 | **[Sunwater Capital](http://sunwatercapital.com)** | **[Congressional Data and Research Intern (Part-time, Remote/Hybrid optional)](https://jobright.ai/jobs/info/68f6c3049a65fd3458596f7c?utm_campaign=1066&utm_source=git)** | North Bethesda, MD | Hybrid | Oct 20 |
-| **[Keystone Cooperative](https://www.keystonecoop.com/)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/68f6b8f576a51a4307bddae8?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Oct 20 |
 | **[Legis1](https://legis1.com/)** | **[Congressional Data and Research Intern (Part-time, Remote/Hybrid optional)](https://jobright.ai/jobs/info/68f6ada99a65fd345859610d?utm_campaign=1066&utm_source=git)** | North Bethesda, MD | Hybrid | Oct 20 |
-| **[John Burns Research and Consulting](http://www.jbrec.com)** | **[Summer 2026 - Intern - Research Analysis](https://jobright.ai/jobs/info/68f6a52b9a65fd3458595a97?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Oct 20 |
-| ↳ | **[Summer 2026 - Intern - Data Science](https://jobright.ai/jobs/info/68f6a40c9a65fd345859594f?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Oct 20 |
+| **[John Burns Research and Consulting](http://www.jbrec.com)** | **[Summer 2026 - Intern - Data Science](https://jobright.ai/jobs/info/68f6a40c9a65fd345859594f?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Oct 20 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Data Systems](https://jobright.ai/jobs/info/68f6a1ab9a65fd345859569b?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Oct 20 |
 | **[CareSource](https://www.caresource.com/)** | **[2026 Summer Internship - Business Intelligence & Data Management](https://jobright.ai/jobs/info/68f69cb69a65fd3458595274?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Oct 20 |
 | **[First Solar](http://www.firstsolar.com)** | **[Data Science Intern (Spring 2026)](https://jobright.ai/jobs/info/68f69b9c76a51a4307bdc2f7?utm_campaign=1066&utm_source=git)** | Perrysburg, OH | On Site | Oct 20 |
 | **[Boom Supersonic](http://boomsupersonic.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68f699719a65fd3458594f7f?utm_campaign=1066&utm_source=git)** | Centennial, CO | On Site | Oct 20 |
-| **[Jacksonville Jaguars](http://www.jaguars.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68f695a776a51a4307bdbf56?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Oct 20 |
-| **[Florida Power & Light](https://www.fpl.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68f68ede76a51a4307bdb86e?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Oct 20 |
-| **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Risk Analytics Intern](https://jobright.ai/jobs/info/68f68bd29a65fd3458594523?utm_campaign=1066&utm_source=git)** | Juno Beach, FL | On Site | Oct 20 |
-| **[First Solar](http://www.firstsolar.com)** | **[Data Science Intern (Spring 2026)](https://jobright.ai/jobs/info/68f687e676a51a4307bdb272?utm_campaign=1066&utm_source=git)** | 27876 Oregon Road, Perrysburg, OH, 43551, US | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
