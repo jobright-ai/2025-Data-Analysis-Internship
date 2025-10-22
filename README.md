@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PwC](http://pwc.com)** | **[Risk & Reg - Technology & Analytics - Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f9f2a628d10664e87222?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Oct 22 |
+| **[Imprint](https://www.imprint.co)** | **[Risk Data Science Intern](https://jobright.ai/jobs/info/68f8f870cadb2e5a06a5eb81?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 22 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Pharmacometrics Intern (PhD)](https://jobright.ai/jobs/info/68f8f6d3a628d10664e86be6?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Oct 22 |
+| **[PwC](http://pwc.com)** | **[Risk & Reg - Technology & Analytics - Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f3cca628d10664e867d6?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 22 |
+| **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[IT Intern](https://jobright.ai/jobs/info/68d0ff1c7727df7d5a84fcd2?utm_campaign=1066&utm_source=git)** | Woodridge, IL | On Site | Oct 22 |
+| **[Gallagher](http://www.ajg.com)** | **[U.S Internship - Data Analytics](https://jobright.ai/jobs/info/68cc5b1b7342c7623ae62d7c?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | On Site | Oct 22 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/68ccd8f877add66568aba601?utm_campaign=1066&utm_source=git)** | Chandler, AZ | On Site | Oct 22 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Sr. Data Science & Analytics Intern](https://jobright.ai/jobs/info/68edfbb870b66e2345d42f38?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Oct 22 |
+| **[Wells Fargo](http://www.wellsfargo.com)** | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/68cc0a457342c7623ae5dcd9?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Oct 22 |
+| ↳ | **[2026 Analytics and Data Summer Internship - Early Careers](https://jobright.ai/jobs/info/68cd7bcbb2a74e1837ed7b8f?utm_campaign=1066&utm_source=git)** | West Des Moines, IA | On Site | Oct 22 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Data Scientist Intern - Data Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dc4686accfd24b67e53c11?utm_campaign=1066&utm_source=git)** | Sheboygan, WI | On Site | Oct 22 |
 | **[ADM](http://www.adm.com)** | **[Data Analyst Intern - Erlanger, KY](https://jobright.ai/jobs/info/68dc8e7fa125e75c422a2147?utm_campaign=1066&utm_source=git)** | Erlanger, KY | On Site | Oct 22 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Quant Tech Intern](https://jobright.ai/jobs/info/68bf99718e65e77df55bbcb2?utm_campaign=1066&utm_source=git)** | Kennett Square, PA | Hybrid | Oct 22 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68950a0873b3a600fe884916?utm_campaign=1066&utm_source=git)** | Strongsville, OH | On Site | Oct 21 |
 | **[Textron](http://textron.com)** | **[2026 Internship - Sales (Associate Data Analyst)](https://jobright.ai/jobs/info/68f750d5b0edcf159dc7a56a?utm_campaign=1066&utm_source=git)** | Wichita, KS | On Site | Oct 21 |
 | ↳ | **[2026 Internship - Data Analyst](https://jobright.ai/jobs/info/68f74940aed0577b7e0505e8?utm_campaign=1066&utm_source=git)** | Wichita, KS | On Site | Oct 21 |
-| **[BluePath Labs (8(a) & SDVOSB)](https://www.bluepathlabs.com)** | **[China Defense Research Analyst Intern (Mandarin Required) - DoD- (Temporarily Remote/Hybrid)](https://jobright.ai/jobs/info/68f78238b0edcf159dc81e00?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Oct 21 |
-| **[Textron](http://textron.com)** | **[2026 Aftermarket Analyst Intern](https://jobright.ai/jobs/info/68f75df5ec6dbe7073fbf2b3?utm_campaign=1066&utm_source=git)** | Cartersville, GA | On Site | Oct 21 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68c00e7d5c5d5f14f46db3bd?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Oct 20 |
-| **[State Street](http://www.statestreet.com)** | **[State Street Investment Management - Market Intelligence Analyst - Summer Internship 2026](https://jobright.ai/jobs/info/68f85eaba628d10664e82354?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Oct 20 |
-| **[Enveda](https://enveda.com)** | **[Data Science Intern (Canada)](https://jobright.ai/jobs/info/68f004169821486c423c8b18?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 20 |
-| **[Parallax Advanced Research](https://parallaxresearch.org/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68f6ffd89a65fd3458599015?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Oct 20 |
-| **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Business Intelligence & Data Management - R10692](https://jobright.ai/jobs/info/68f6fa099a63986de7583fd4?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Oct 20 |
-| **[UniFirst Corporation](https://unifirst.com/)** | **[Digital Analytics Intern](https://jobright.ai/jobs/info/68f6f56476a51a4307bdfa80?utm_campaign=1066&utm_source=git)** | Wilmington, MA | On Site | Oct 20 |
-| **[Spencer's](http://www.spencersonline.com/)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/68f6f25e9a63986de7583a55?utm_campaign=1066&utm_source=git)** | Egg Harbor, NJ | On Site | Oct 20 |
-| ↳ | **[Data Governance Internship](https://jobright.ai/jobs/info/68f6ef0d76a51a4307bdf795?utm_campaign=1066&utm_source=git)** | Egg Harbor, NJ | Hybrid | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
