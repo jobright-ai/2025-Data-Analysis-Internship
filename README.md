@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 - Statistics & Data Analytics (Onsite)](https://jobright.ai/jobs/info/68f987faa628d10664e8da25?utm_campaign=1066&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Oct 22 |
+| **[CRH](http://crh.com)** | **[Aggregates Intern](https://jobright.ai/jobs/info/68f97acdcadb2e5a06a65124?utm_campaign=1066&utm_source=git)** | New Britain, CT | On Site | Oct 22 |
+| **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[Vertex Summer Intern 2026, Real World Evidence](https://jobright.ai/jobs/info/68f974c0cadb2e5a06a64f41?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 22 |
 | **[MBTA](http://mbta.com)** | **[Procurement & Logistics Data Analyst Co-Op (Northeastern Students)](https://jobright.ai/jobs/info/68ee805446e5b153e5a5b30a?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 22 |
 | **[SwingVision](https://swing.vision)** | **[Data Labeling Intern](https://jobright.ai/jobs/info/68f95f676de2db04dc3e8c77?utm_campaign=1066&utm_source=git)** | Berkeley, CA | On Site | Oct 22 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Finance Data & Analytics Developer Intern](https://jobright.ai/jobs/info/68f95c096de2db04dc3e8b75?utm_campaign=1066&utm_source=git)** | IL - Chicago | Hybrid | Oct 22 |
@@ -74,7 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/68f93fcca628d10664e8b034?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Oct 22 |
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Enterprise Reporting & Analytics – Data Science Intern](https://jobright.ai/jobs/info/68f93e2ea628d10664e8ae24?utm_campaign=1066&utm_source=git)** | Niskayuna, NY | On Site | Oct 22 |
 | **[Washington Nationals](https://nationals.mlb.com)** | **[Analytics Intern, Baseball R&D (2026 Season)](https://jobright.ai/jobs/info/68f93a29cadb2e5a06a629bf?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Oct 22 |
-| **[Vertex](tryvertex.co)** | **[Vertex Summer Intern 2026, Real World Evidence](https://jobright.ai/jobs/info/68f93968a628d10664e8aa1c?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 22 |
+| **[Vertex](tryvertex.co)** | **[Vertex Summer Intern 2026, Real World Evidence](https://jobright.ai/jobs/info/68f937676de2db04dc3e6d26?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 22 |
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[CI Data & Analytics Intern](https://jobright.ai/jobs/info/68f9333acadb2e5a06a624c4?utm_campaign=1066&utm_source=git)** | US-WI-Ripon | On Site | Oct 22 |
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68f93004a628d10664e8a387?utm_campaign=1066&utm_source=git)** | Ankeny, IA | On Site | Oct 22 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Quality Data Analyst Intern](https://jobright.ai/jobs/info/68f92e2ca628d10664e8a171?utm_campaign=1066&utm_source=git)** | Texas | On Site | Oct 22 |
@@ -109,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[GALLO](http://www.gallocareers.com)** | **[Winegrowing Research Data Analyst Internship 2026  June - December](https://jobright.ai/jobs/info/68ce5abc846f0b04af678f8b?utm_campaign=1066&utm_source=git)** | Modesto, CA | On Site | Oct 22 |
 | **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (PhD) (Summer 2026)](https://jobright.ai/jobs/info/68dcf613a125e75c422a741e?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | **[Corteva Agriscience](https://www.corteva.com/)** | **[Applied Statistics Intern](https://jobright.ai/jobs/info/68dbf9fa97329f2f77321a6a?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Hybrid | Oct 22 |
-| **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dcf5c7ddc10244dd67bcf1?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 22 |
-| ↳ | **[Data Scientist Intern, Product Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dcf5a2ddc10244dd67bc4c?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Oct 22 |
+| **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dcf5a2ddc10244dd67bc4c?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Oct 22 |
+| ↳ | **[Data Scientist Intern, Product Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dcf5c7ddc10244dd67bcf1?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 22 |
 | ↳ | **[Data Scientist Intern, Product Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dcf632a125e75c422a7441?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Oct 22 |
 | **[Nucor Corporation](http://www.nucor.com)** | **[Commodity Markets Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68dc37e6a271e745b8a7cc56?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Oct 22 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68cd1a8de23def7af55b560f?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Oct 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UHS](https://uhs.com)** | **[Application Analyst Intern - Data Analytics](https://jobright.ai/jobs/info/68f7ec05ec6dbe7073fce8b1?utm_campaign=1066&utm_source=git)** | KING OF PRUSSIA, Pennsylvania | On Site | Oct 21 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68f7eb165dc1be601281e4e5?utm_campaign=1066&utm_source=git)** | Chillicothe, OH | On Site | Oct 21 |
 | **[Hunt Oil Company](http://www.huntoil.com)** | **[Data Analyst Intern - HSSE](https://jobright.ai/jobs/info/68f7e5b05dc1be601281dc42?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Oct 21 |
-| **[Alaska Airlines](https://alaskaair.jobs)** | **[Graduate Intern - Revenue Performance Research (Summer 2026)](https://jobright.ai/jobs/info/68f7e46ab0edcf159dc8b3e2?utm_campaign=1066&utm_source=git)** | SeaTac, WA | On Site | Oct 21 |
-| **[Sharyland Utilities, L.L.C.](http://sharyland.com)** | **[Data Analyst Intern - HSSE](https://jobright.ai/jobs/info/68f7e460ec6dbe7073fcdc47?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Oct 21 |
-| **[UHS](https://uhs.com)** | **[Application Analyst Intern - Clinical Systems](https://jobright.ai/jobs/info/68f7fd45b0edcf159dc8d3c1?utm_campaign=1066&utm_source=git)** | KING OF PRUSSIA, Pennsylvania | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
