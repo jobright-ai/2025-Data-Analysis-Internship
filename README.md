@@ -57,10 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zoetis](https://www.zoetis.com)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/68fa65c367272b29af72eb04?utm_campaign=1066&utm_source=git)** | US Remote | Remote | Oct 23 |
+| ↳ | **[Bioinformatics Intern](https://jobright.ai/jobs/info/68fa65517959161d33e62df2?utm_campaign=1066&utm_source=git)** | US Remote | Remote | Oct 23 |
+| **[Visa](https://www.visa.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68fa616a7959161d33e62a24?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Oct 23 |
+| ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68fa560467272b29af72ddcb?utm_campaign=1066&utm_source=git)** | Foster City, CA | Hybrid | Oct 23 |
+| **[Parthenon Globalsystems, LLC](https://parthenonglobal.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68fa552aedd190144238b0e3?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Oct 23 |
+| **[Bloom Energy](http://www.bloomenergy.com)** | **[Commercial Business Intelligence & Proposal Management Intern](https://jobright.ai/jobs/info/68fa54307959161d33e61f46?utm_campaign=1066&utm_source=git)** | San Jose, California | On Site | Oct 23 |
+| **[Dairyland Power Cooperative](https://dairylandpower.com)** | **[Intern, Quantitative Analyst (La Crosse, WI)](https://jobright.ai/jobs/info/68fa5423edd190144238afc1?utm_campaign=1066&utm_source=git)** | La Crosse, Wisconsin | On Site | Oct 23 |
+| **[Centene Corporation](http://www.centene.com)** | **[Pharmacy Data Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68fa50b7edd190144238ac0e?utm_campaign=1066&utm_source=git)** | Remote-TX | Remote | Oct 23 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (PhD)](https://jobright.ai/jobs/info/68fa4de167272b29af72d805?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
 | ↳ | **[Quantitative Research Intern (BS/MS)](https://jobright.ai/jobs/info/68fa499767272b29af72d580?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
-| **[American Modern Insurance Group](https://www.amig.com/)** | **[Geographic Information Systems Intern](https://jobright.ai/jobs/info/68dd606dddc10244dd67ee6c?utm_campaign=1066&utm_source=git)** | Amelia, OH | Hybrid | Oct 23 |
 | **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[AI & Data Insights Analyst Internship In Bali](https://jobright.ai/jobs/info/68fa3e5aedd190144238a1a3?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 23 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Immunology Bioinformatics Intern (PhD)](https://jobright.ai/jobs/info/68fa64817959161d33e62ce9?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Oct 23 |
 | **[Indiana Biosciences Research Institute](https://www.indianabiosciences.org)** | **[Summer Intern](https://jobright.ai/jobs/info/68fa386767272b29af72cbab?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Oct 23 |
 | **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[AI & Data Insights Analyst Internship In Bali](https://jobright.ai/jobs/info/68fa38047959161d33e60ddd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 23 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Data Intern](https://jobright.ai/jobs/info/68cdbff21ad6b16f0289e6c3?utm_campaign=1066&utm_source=git)** | Erie, PA | On Site | Oct 23 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Corewell Health](https://corewellhealth.org)** | **[Biostatistician Intern](https://jobright.ai/jobs/info/68f8fc45a628d10664e875ca?utm_campaign=1066&utm_source=git)** | Royal Oak, MI | Hybrid | Oct 22 |
 | **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (PhD) (Summer 2026)](https://jobright.ai/jobs/info/68dcf60ca125e75c422a740a?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Oct 22 |
 | **[GALLO](http://www.gallocareers.com)** | **[Geospatial Data Science Internship 2026 May - December](https://jobright.ai/jobs/info/68bf359c8e65e77df55b84b4?utm_campaign=1066&utm_source=git)** | Modesto, CA | On Site | Oct 22 |
-| **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Data Analytics Engineering Intern](https://jobright.ai/jobs/info/68dbfa576f6c5c3fadf358cd?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Oct 22 |
-| **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (PhD) (Summer 2026)](https://jobright.ai/jobs/info/68dcf5acddc10244dd67bc7c?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Oct 22 |
-| **[GALLO](http://www.gallocareers.com)** | **[Winegrowing Research Data Analyst Internship 2026  June - December](https://jobright.ai/jobs/info/68ce5abc846f0b04af678f8b?utm_campaign=1066&utm_source=git)** | Modesto, CA | On Site | Oct 22 |
-| **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (PhD) (Summer 2026)](https://jobright.ai/jobs/info/68dcf613a125e75c422a741e?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 22 |
-| **[Corteva Agriscience](https://www.corteva.com/)** | **[Applied Statistics Intern](https://jobright.ai/jobs/info/68dbf9fa97329f2f77321a6a?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Hybrid | Oct 22 |
-| **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dcf5c7ddc10244dd67bcf1?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 22 |
-| ↳ | **[Data Scientist Intern, Product Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dcf5a2ddc10244dd67bc4c?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Oct 22 |
-| ↳ | **[Data Scientist Intern, Product Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dcf632a125e75c422a7441?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
