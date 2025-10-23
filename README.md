@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Hat](http://www.redhat.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68cf4ea0846f0b04af6805d2?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Oct 23 |
+| **[Muon Space](https://www.muonspace.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68d3423b8c62e63bc7fdee66?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 23 |
+| **[Pratt & Whitney](https://prattwhitney.com/)** | **[Intern: Summer 2026 - Statistics & Data Analytics (Onsite)](https://jobright.ai/jobs/info/68f9e9668a7359609b8c7b24?utm_campaign=1066&utm_source=git)** | East Hartford, CT | On Site | Oct 23 |
 | **[Nutanix](http://www.nutanix.com)** | **[Business Data Analyst Intern - U.S based undergrads ONLY](https://jobright.ai/jobs/info/68f9d536cadb2e5a06a67f4a?utm_campaign=1066&utm_source=git)** | San Jose, California | Hybrid | Oct 23 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Oct 22 |
 | **[Alaska Airlines](https://alaskaair.jobs)** | **[Intern - ITS Operations BI Analyst (Summer 2026)](https://jobright.ai/jobs/info/68f1d014ef766b3f0fd125cf?utm_campaign=1066&utm_source=git)** | SeaTac, WA | On Site | Oct 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sarasota Memorial Health Care System](https://www.smh.com/)** | **[Clin Research Ctr Intern PRN (*on site position - no remote)*](https://jobright.ai/jobs/info/68f808b95dc1be601282072b?utm_campaign=1066&utm_source=git)** | Sarasota, FL | On Site | Oct 21 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - People Data Scientist](https://jobright.ai/jobs/info/68f806fcb0edcf159dc8dd9c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 21 |
 | **[KeyBank](https://www.key.com)** | **[2026 Summer Analytics and Quantitative Modeling Internship - Cleveland](https://jobright.ai/jobs/info/68f8066cb0edcf159dc8dd1f?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Oct 21 |
-| **[USAA](https://www.usaa.com)** | **[Information Management Analyst Intern](https://jobright.ai/jobs/info/68f7ff4eb0edcf159dc8d763?utm_campaign=1066&utm_source=git)** | San Antonio Home Office I | On Site | Oct 21 |
-| **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[Application Analyst Intern - Data Analytics](https://jobright.ai/jobs/info/68f7fa035dc1be601281f58a?utm_campaign=1066&utm_source=git)** | KING OF PRUSSIA, Pennsylvania | On Site | Oct 21 |
-| **[UHS](https://uhs.com)** | **[Application Analyst Intern - Supply Chain Data Analytics](https://jobright.ai/jobs/info/68f7f85eec6dbe7073fcf598?utm_campaign=1066&utm_source=git)** | KING OF PRUSSIA, Pennsylvania | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
