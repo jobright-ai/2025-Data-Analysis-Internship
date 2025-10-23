@@ -57,13 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689403694c7e851b90ae2086?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Oct 23 |
+| ↳ | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fa09a18a7359609b8c8863?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 23 |
+| ↳ | **[Data Scientist Intern (Privacy and Data Protection Office)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cb8f6bba798c1a501d1b7f?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 23 |
+| **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68c8b2d3983e6768bc55080d?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Oct 23 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cb6684efdec76df36bc2db?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Oct 23 |
+| ↳ | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd43151ad6b16f02897359?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 23 |
 | **[Red Hat](http://www.redhat.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68cf4ea0846f0b04af6805d2?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Oct 23 |
 | **[Muon Space](https://www.muonspace.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68d3423b8c62e63bc7fdee66?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 23 |
+| **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/68fa0f60d8eb372efd1921ab?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Oct 23 |
 | **[Pratt & Whitney](https://prattwhitney.com/)** | **[Intern: Summer 2026 - Statistics & Data Analytics (Onsite)](https://jobright.ai/jobs/info/68f9e9668a7359609b8c7b24?utm_campaign=1066&utm_source=git)** | East Hartford, CT | On Site | Oct 23 |
 | **[Nutanix](http://www.nutanix.com)** | **[Business Data Analyst Intern - U.S based undergrads ONLY](https://jobright.ai/jobs/info/68f9d536cadb2e5a06a67f4a?utm_campaign=1066&utm_source=git)** | San Jose, California | Hybrid | Oct 23 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Oct 22 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Oct 22 |
 | **[Alaska Airlines](https://alaskaair.jobs)** | **[Intern - ITS Operations BI Analyst (Summer 2026)](https://jobright.ai/jobs/info/68f1d014ef766b3f0fd125cf?utm_campaign=1066&utm_source=git)** | SeaTac, WA | On Site | Oct 22 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Oct 22 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/68f99c98cadb2e5a06a66477?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Oct 22 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[Data and Process Optimization Analyst Internship - Spring /Fall 2026](https://jobright.ai/jobs/info/68f993386de2db04dc3ea340?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Oct 22 |
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68f992dca628d10664e8dfed?utm_campaign=1066&utm_source=git)** | Ankeny, IA | On Site | Oct 22 |
@@ -89,7 +96,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/68f93fcca628d10664e8b034?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Oct 22 |
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Enterprise Reporting & Analytics – Data Science Intern](https://jobright.ai/jobs/info/68f93e2ea628d10664e8ae24?utm_campaign=1066&utm_source=git)** | Niskayuna, NY | On Site | Oct 22 |
 | **[Washington Nationals](https://nationals.mlb.com)** | **[Analytics Intern, Baseball R&D (2026 Season)](https://jobright.ai/jobs/info/68f93a29cadb2e5a06a629bf?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Oct 22 |
-| **[Vertex](tryvertex.co)** | **[Vertex Summer Intern 2026, Real World Evidence](https://jobright.ai/jobs/info/68f93968a628d10664e8aa1c?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 22 |
+| **[Vertex](tryvertex.co)** | **[Vertex Summer Intern 2026, Real World Evidence](https://jobright.ai/jobs/info/68f937676de2db04dc3e6d26?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 22 |
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[CI Data & Analytics Intern](https://jobright.ai/jobs/info/68f9333acadb2e5a06a624c4?utm_campaign=1066&utm_source=git)** | US-WI-Ripon | On Site | Oct 22 |
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68f93004a628d10664e8a387?utm_campaign=1066&utm_source=git)** | Ankeny, IA | On Site | Oct 22 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Quality Data Analyst Intern](https://jobright.ai/jobs/info/68f92e2ca628d10664e8a171?utm_campaign=1066&utm_source=git)** | Texas | On Site | Oct 22 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Analytics Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68f8368c6de2db04dc3dca93?utm_campaign=1066&utm_source=git)** | United States, United States, United States | Hybrid | Oct 21 |
 | **[Jomboy Media](https://jomboymedia.com)** | **[Data Analytics Intern- Spring 2026](https://jobright.ai/jobs/info/68f82a53b0edcf159dc8efaa?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 21 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Oct 21 |
-| **[McGraw Hill](http://www.mheducation.com)** | **[Analytics Data Analyst Intern](https://jobright.ai/jobs/info/68f8442ca628d10664e811b0?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Oct 21 |
-| **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - Biostatistics](https://jobright.ai/jobs/info/68f816b8b0edcf159dc8e82f?utm_campaign=1066&utm_source=git)** | Headquarters, NJ | On Site | Oct 21 |
-| **[Utah Retirement Systems](https://www.urs.org)** | **[Biometric Health Screener Intern](https://jobright.ai/jobs/info/68f811475dc1be6012820bee?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Oct 21 |
-| **[The MJ Companies](https://www.mjinsurance.com)** | **[EB Analytics Intern](https://jobright.ai/jobs/info/68b8a56d07090163b6ba3ccb?utm_campaign=1066&utm_source=git)** | Phoenix, Arizona, United States | On Site | Oct 21 |
-| **[Sarasota Memorial Health Care System](https://www.smh.com/)** | **[Clin Research Ctr Intern PRN (*on site position - no remote)*](https://jobright.ai/jobs/info/68f808b95dc1be601282072b?utm_campaign=1066&utm_source=git)** | Sarasota, FL | On Site | Oct 21 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - People Data Scientist](https://jobright.ai/jobs/info/68f806fcb0edcf159dc8dd9c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 21 |
-| **[KeyBank](https://www.key.com)** | **[2026 Summer Analytics and Quantitative Modeling Internship - Cleveland](https://jobright.ai/jobs/info/68f8066cb0edcf159dc8dd1f?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
