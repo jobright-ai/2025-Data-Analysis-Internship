@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nutanix](http://www.nutanix.com)** | **[Business Data Analyst Intern - U.S based undergrads ONLY](https://jobright.ai/jobs/info/68f9d536cadb2e5a06a67f4a?utm_campaign=1066&utm_source=git)** | San Jose, California | Hybrid | Oct 23 |
+| **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Oct 22 |
+| **[Alaska Airlines](https://alaskaair.jobs)** | **[Intern - ITS Operations BI Analyst (Summer 2026)](https://jobright.ai/jobs/info/68f1d014ef766b3f0fd125cf?utm_campaign=1066&utm_source=git)** | SeaTac, WA | On Site | Oct 22 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Oct 22 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/68f99c98cadb2e5a06a66477?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Oct 22 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[Data and Process Optimization Analyst Internship - Spring /Fall 2026](https://jobright.ai/jobs/info/68f993386de2db04dc3ea340?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Oct 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[USAA](https://www.usaa.com)** | **[Information Management Analyst Intern](https://jobright.ai/jobs/info/68f7ff4eb0edcf159dc8d763?utm_campaign=1066&utm_source=git)** | San Antonio Home Office I | On Site | Oct 21 |
 | **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[Application Analyst Intern - Data Analytics](https://jobright.ai/jobs/info/68f7fa035dc1be601281f58a?utm_campaign=1066&utm_source=git)** | KING OF PRUSSIA, Pennsylvania | On Site | Oct 21 |
 | **[UHS](https://uhs.com)** | **[Application Analyst Intern - Supply Chain Data Analytics](https://jobright.ai/jobs/info/68f7f85eec6dbe7073fcf598?utm_campaign=1066&utm_source=git)** | KING OF PRUSSIA, Pennsylvania | On Site | Oct 21 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Data Science Intern (Masters or PhD), Summer 2026](https://jobright.ai/jobs/info/68f7f458ec6dbe7073fcf263?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 21 |
-| **[North Star Behavioral Health](https://northstarbehavioral.com)** | **[Application Analyst Intern - Supply Chain Data Analytics](https://jobright.ai/jobs/info/68f7f4105dc1be601281f01f?utm_campaign=1066&utm_source=git)** | KING OF PRUSSIA, Pennsylvania | On Site | Oct 21 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - Financial Applications Intern](https://jobright.ai/jobs/info/68f7f1765dc1be601281eba8?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
