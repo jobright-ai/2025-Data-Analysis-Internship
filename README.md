@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Strategic Data Analytics Intern](https://jobright.ai/jobs/info/68ce55a2dbd9fb154edde9ec?utm_campaign=1066&utm_source=git)** | Strongsville, OH | On Site | Oct 23 |
+| **[ServiceNow](http://www.servicenow.com)** | **[Digital Technology (DT) - Associate Data Informatics Analyst Intern](https://jobright.ai/jobs/info/68fab5e2edd19014423902c1?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | Hybrid | Oct 23 |
+| **[Verus Specialty Insurance (a Berkley Company)](https://www.verusins.com)** | **[Data Analyst Summer Intern](https://jobright.ai/jobs/info/68faa4dfedd190144238f862?utm_campaign=1066&utm_source=git)** | Englewood, CO | On Site | Oct 23 |
 | **[Veritiv](https://www.veritiv.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68d70a35894705799a2f0335?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Oct 23 |
 | **[SwingVision](https://swing.vision)** | **[Data Labeling Intern](https://jobright.ai/jobs/info/68fa9a5467272b29af731b34?utm_campaign=1066&utm_source=git)** | Berkeley, CA | On Site | Oct 23 |
 | **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Quantitative Researcher Intern, Summer 2026](https://jobright.ai/jobs/info/68fa983bb2c86843bf20fdc8?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Oct 23 |
@@ -75,15 +78,13 @@ For a complete list, click the following sortable link below:
 | **[Visa](https://www.visa.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68fa86f667272b29af730718?utm_campaign=1066&utm_source=git)** | Foster City, CA, USA | Hybrid | Oct 23 |
 | ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68fa865cedd190144238db18?utm_campaign=1066&utm_source=git)** | Atlanta, GA, USA | Hybrid | Oct 23 |
 | **[Publicis Communications](http://www.publicisgroupe.com/en/services/services-publicis-communications-en)** | **[Intern Program - Identity Analytics Intern](https://jobright.ai/jobs/info/68fa8006b2c86843bf20e3b6?utm_campaign=1066&utm_source=git)** | Chicago, Illinois | On Site | Oct 23 |
-| **[Centene Corporation](http://www.centene.com)** | **[Data Science Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68fa9e4dedd190144238f3a1?utm_campaign=1066&utm_source=git)** | Remote-FL | Remote | Oct 23 |
 | **[General Motors](https://www.gm.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68fa7b05b2c86843bf20df61?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 23 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[USDA-ARS Fellowship in Data Management and Machine Learning](https://jobright.ai/jobs/info/68d6f36345853d0e39ccb3d8?utm_campaign=1066&utm_source=git)** | Albany, CA | On Site | Oct 23 |
-| **[Zoetis](https://www.zoetis.com)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/68fa71a1edd190144238c82c?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 23 |
 | **[Cards Against Humanity, LLC](http://cardsagainsthumanity.com)** | **[Research Assistant Intern - Temporary, Independent Contractor (Fall 2025)](https://jobright.ai/jobs/info/68fa6c9cedd190144238c561?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 23 |
-| **[Zoetis](https://www.zoetis.com)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/68fa65517959161d33e62df2?utm_campaign=1066&utm_source=git)** | US Remote | Remote | Oct 23 |
+| **[Zoetis](https://www.zoetis.com)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/68fa65c367272b29af72eb04?utm_campaign=1066&utm_source=git)** | US Remote | Remote | Oct 23 |
+| ↳ | **[Bioinformatics Intern](https://jobright.ai/jobs/info/68fa65517959161d33e62df2?utm_campaign=1066&utm_source=git)** | US Remote | Remote | Oct 23 |
 | **[Visa](https://www.visa.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68fa616a7959161d33e62a24?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Oct 23 |
-| **[Zoetis](https://www.zoetis.com)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/68fa5cfcedd190144238b6ab?utm_campaign=1066&utm_source=git)** | US Remote | Remote | Oct 23 |
-| **[Visa](https://www.visa.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68fa560467272b29af72ddcb?utm_campaign=1066&utm_source=git)** | Foster City, CA | Hybrid | Oct 23 |
+| ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68fa560467272b29af72ddcb?utm_campaign=1066&utm_source=git)** | Foster City, CA | Hybrid | Oct 23 |
 | **[Parthenon Globalsystems, LLC](https://parthenonglobal.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68fa552aedd190144238b0e3?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Oct 23 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Commercial Business Intelligence & Proposal Management Intern](https://jobright.ai/jobs/info/68fa54307959161d33e61f46?utm_campaign=1066&utm_source=git)** | San Jose, California | On Site | Oct 23 |
 | **[Dairyland Power Cooperative](https://dairylandpower.com)** | **[Intern, Quantitative Analyst (La Crosse, WI)](https://jobright.ai/jobs/info/68fa5423edd190144238afc1?utm_campaign=1066&utm_source=git)** | La Crosse, Wisconsin | On Site | Oct 23 |
@@ -123,7 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Pratt & Whitney](https://prattwhitney.com/)** | **[Intern: Summer 2026 - Statistics & Data Analytics (Onsite)](https://jobright.ai/jobs/info/68f9e9668a7359609b8c7b24?utm_campaign=1066&utm_source=git)** | East Hartford, CT | On Site | Oct 23 |
 | **[Nutanix](http://www.nutanix.com)** | **[Business Data Analyst Intern - U.S based undergrads ONLY](https://jobright.ai/jobs/info/68f9d536cadb2e5a06a67f4a?utm_campaign=1066&utm_source=git)** | San Jose, California | Hybrid | Oct 23 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Oct 22 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Oct 22 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Oct 22 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/68f99c98cadb2e5a06a66477?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Oct 22 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[Data and Process Optimization Analyst Internship - Spring /Fall 2026](https://jobright.ai/jobs/info/68f993386de2db04dc3ea340?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Oct 22 |
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68f992dca628d10664e8dfed?utm_campaign=1066&utm_source=git)** | Ankeny, IA | On Site | Oct 22 |
@@ -147,7 +148,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Intern](https://jobright.ai/jobs/info/68f93fcca628d10664e8b034?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Oct 22 |
 | **[Momentive](https://www.momentive.com/)** | **[Summer 2026 Enterprise Reporting & Analytics – Data Science Intern](https://jobright.ai/jobs/info/68f93e2ea628d10664e8ae24?utm_campaign=1066&utm_source=git)** | Niskayuna, NY | On Site | Oct 22 |
 | **[Washington Nationals](https://nationals.mlb.com)** | **[Analytics Intern, Baseball R&D (2026 Season)](https://jobright.ai/jobs/info/68f93a29cadb2e5a06a629bf?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Oct 22 |
-| **[Vertex](tryvertex.co)** | **[Vertex Summer Intern 2026, Real World Evidence](https://jobright.ai/jobs/info/68f93968a628d10664e8aa1c?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 22 |
+| **[Vertex](tryvertex.co)** | **[Vertex Summer Intern 2026, Real World Evidence](https://jobright.ai/jobs/info/68f937676de2db04dc3e6d26?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 22 |
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[CI Data & Analytics Intern](https://jobright.ai/jobs/info/68f9333acadb2e5a06a624c4?utm_campaign=1066&utm_source=git)** | US-WI-Ripon | On Site | Oct 22 |
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68f93004a628d10664e8a387?utm_campaign=1066&utm_source=git)** | Ankeny, IA | On Site | Oct 22 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Quality Data Analyst Intern](https://jobright.ai/jobs/info/68f92e2ca628d10664e8a171?utm_campaign=1066&utm_source=git)** | Texas | On Site | Oct 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cencora](http://www.cencora.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68f91904a628d10664e8931f?utm_campaign=1066&utm_source=git)** | Remote, New Jersey | Remote | Oct 22 |
 | ↳ | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68f9184c6de2db04dc3e564f?utm_campaign=1066&utm_source=git)** | Conshohocken, PA | On Site | Oct 22 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Business Intelligence & Analytics Intern - Year Round](https://jobright.ai/jobs/info/68f91131cadb2e5a06a60a52?utm_campaign=1066&utm_source=git)** | Charter Wire - Menomonee Valley - Milwaukee, WI | Hybrid | Oct 22 |
-| **[fairlife, LLC](http://www.fairlife.com)** | **[Data Science & AI Enablement Intern](https://jobright.ai/jobs/info/68f90fa7cadb2e5a06a608ef?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
