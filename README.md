@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern(TikTok Shop-Supply Chain & Logistics) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68fb1539e154835f11ef980a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Oct 24 |
+| **[Oracle](https://www.oracle.com/)** | **[Data Science Intern - Industries](https://jobright.ai/jobs/info/68faaf71b2c86843bf210ef2?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 24 |
+| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68fb3a979e8e925ac6c89ea0?utm_campaign=1066&utm_source=git)** | Erie-Meadville Area | On Site | Oct 24 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Data Analytics Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68fb2aed9e8e925ac6c894cd?utm_campaign=1066&utm_source=git)** | Hutchins, TX | On Site | Oct 24 |
+| **[American Equity](http://www.american-equity.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68cb225c9e3a822f5d242daa?utm_campaign=1066&utm_source=git)** | West Des Moines, Iowa, United States | On Site | Oct 23 |
 | **[StandardAero](http://www.standardaero.com/)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/68fb0ba53c99cc1d9602879f?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Oct 23 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Procurement & Logistics Data Analyst Co-Op (Northeastern Students)](https://jobright.ai/jobs/info/68fafd25e154835f11ef9031?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 23 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Commercial Business Intelligence & Proposal Management Intern](https://jobright.ai/jobs/info/68faf2569e8e925ac6c87c34?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 23 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68faefd53c99cc1d96027a76?utm_campaign=1066&utm_source=git)** | KY, Working at Home - Kentucky | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68faef9d3c99cc1d96027a40?utm_campaign=1066&utm_source=git)** | DE, Working at Home - Delaware | Remote | Oct 23 |
-| ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68faef818d32c164778ccc2d?utm_campaign=1066&utm_source=git)** | WY, Working at Home - Wyoming | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68faef818d32c164778ccc2e?utm_campaign=1066&utm_source=git)** | VT, Working at Home - Vermont | Remote | Oct 23 |
+| ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68faef818d32c164778ccc2d?utm_campaign=1066&utm_source=git)** | WY, Working at Home - Wyoming | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68faef749e8e925ac6c879b4?utm_campaign=1066&utm_source=git)** | LA, Working at Home - Louisiana | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68faecef9e8e925ac6c87707?utm_campaign=1066&utm_source=git)** | NH, Working at Home - New Hampshire | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68faeccf9e8e925ac6c876f9?utm_campaign=1066&utm_source=git)** | OR, Working at Home - Oregon | Remote | Oct 23 |
@@ -73,8 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68faec963c99cc1d96027712?utm_campaign=1066&utm_source=git)** | NM, Working at Home - New Mexico | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68faec3a9e8e925ac6c876d2?utm_campaign=1066&utm_source=git)** | NY, Working at Home - New York | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68faec373c99cc1d96027696?utm_campaign=1066&utm_source=git)** | TN, Working at Home -Tennessee | Remote | Oct 23 |
-| ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68faec158d32c164778cca5b?utm_campaign=1066&utm_source=git)** | CO, Working at Home - Colorado | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68faec159e8e925ac6c876c8?utm_campaign=1066&utm_source=git)** | ID, Working at Home - Idaho | Remote | Oct 23 |
+| ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68faec158d32c164778cca5b?utm_campaign=1066&utm_source=git)** | CO, Working at Home - Colorado | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68faec149e8e925ac6c876c4?utm_campaign=1066&utm_source=git)** | VA, Working at Home - Virginia | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68faec149e8e925ac6c876c5?utm_campaign=1066&utm_source=git)** | WV, Working at Home - W Virginia | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68faec023c99cc1d96027688?utm_campaign=1066&utm_source=git)** | IL, Working at Home - Illinois | Remote | Oct 23 |
@@ -93,14 +96,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68fae8e33c99cc1d960275cd?utm_campaign=1066&utm_source=git)** | FL, Working at Home - Florida | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68fae8c98d32c164778cc7ae?utm_campaign=1066&utm_source=git)** | CT, Working at Home - Conneticut | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68fae8c18d32c164778cc7a1?utm_campaign=1066&utm_source=git)** | TX, Working at Home - Texas | Remote | Oct 23 |
-| ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68fae8a03c99cc1d96027592?utm_campaign=1066&utm_source=git)** | AZ, Working at Home - Arizona | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68fae8a03c99cc1d96027590?utm_campaign=1066&utm_source=git)** | MA, Working at Home -Massachusetts | Remote | Oct 23 |
+| ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68fae8a03c99cc1d96027592?utm_campaign=1066&utm_source=git)** | AZ, Working at Home - Arizona | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68fae8959e8e925ac6c8754f?utm_campaign=1066&utm_source=git)** | ND, Working at Home - North Dakota | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68fae8933c99cc1d96027589?utm_campaign=1066&utm_source=git)** | OH, Working at Home - Ohio | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68fae88f8d32c164778cc772?utm_campaign=1066&utm_source=git)** | RI, Working at Home - Rhode Island | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68fae88a8d32c164778cc76e?utm_campaign=1066&utm_source=git)** | NC, Working at Home - N Carolina | Remote | Oct 23 |
-| ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68fae8803c99cc1d9602757b?utm_campaign=1066&utm_source=git)** | MI, Working at Home - Michigan | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68fae8803c99cc1d96027579?utm_campaign=1066&utm_source=git)** | SD, Working at Home-South Dakota | Remote | Oct 23 |
+| ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68fae8803c99cc1d9602757b?utm_campaign=1066&utm_source=git)** | MI, Working at Home - Michigan | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68fae8633c99cc1d96027566?utm_campaign=1066&utm_source=git)** | WA, Working at Home - Washington | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68fae8608d32c164778cc73f?utm_campaign=1066&utm_source=git)** | UT, Working at Home - Utah | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68fae85f8d32c164778cc73e?utm_campaign=1066&utm_source=git)** | MO, Working at Home - Missouri | Remote | Oct 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Immunology Bioinformatics Intern (PhD)](https://jobright.ai/jobs/info/68fa64817959161d33e62ce9?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Oct 23 |
 | **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[AI & Data Insights Analyst Internship In Bali](https://jobright.ai/jobs/info/68fa38047959161d33e60ddd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 23 |
 | **[Erie Insurance Group](https://www.erieinsurance.com/)** | **[Data Intern](https://jobright.ai/jobs/info/68cdbff21ad6b16f0289e6c3?utm_campaign=1066&utm_source=git)** | Erie, PA | On Site | Oct 23 |
-| **[State of Missouri](http://mo.gov)** | **[Intern - 5020213](https://jobright.ai/jobs/info/68c1e4383fd8b059a20f3b96?utm_campaign=1066&utm_source=git)** | Rolla, MO | On Site | Oct 23 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Intern, Quantitative Risk Analysis -RBOPS](https://jobright.ai/jobs/info/68ddc1a4a125e75c422aebbc?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Oct 23 |
-| ↳ | **[Summer 2026 Graduate Intern - Research Library - Research & Statistics](https://jobright.ai/jobs/info/68dd6f4244d32141e0bf6b3c?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
