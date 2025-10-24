@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Strategic Data Analytics Intern](https://jobright.ai/jobs/info/68ce55a2dbd9fb154edde9ec?utm_campaign=1066&utm_source=git)** | Strongsville, OH | On Site | Oct 23 |
+| **[KQED](http://www.kqed.org)** | **[Audience Intelligence Research Intern](https://jobright.ai/jobs/info/68fad0829e8e925ac6c8682a?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Oct 23 |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Data Analytics/Data Science](https://jobright.ai/jobs/info/68ed953e70b66e2345d3f344?utm_campaign=1066&utm_source=git)** | Santa Ana, CA | Hybrid | Oct 23 |
+| **[Corning Incorporated](https://www.corning.com/)** | **[IT Intern, Data & Analytics - Summer 2026](https://jobright.ai/jobs/info/68fac223b2c86843bf211c0e?utm_campaign=1066&utm_source=git)** | Newton, NC | On Site | Oct 23 |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68950a0873b3a600fe884916?utm_campaign=1066&utm_source=git)** | Strongsville, OH | On Site | Oct 23 |
+| ↳ | **[Strategic Data Analytics Intern](https://jobright.ai/jobs/info/68ce55a2dbd9fb154edde9ec?utm_campaign=1066&utm_source=git)** | Strongsville, OH | On Site | Oct 23 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Digital Technology (DT) - Associate Data Informatics Analyst Intern](https://jobright.ai/jobs/info/68fab5e2edd19014423902c1?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | Hybrid | Oct 23 |
 | **[Verus Specialty Insurance (a Berkley Company)](https://www.verusins.com)** | **[Data Analyst Summer Intern](https://jobright.ai/jobs/info/68faa4dfedd190144238f862?utm_campaign=1066&utm_source=git)** | Englewood, CO | On Site | Oct 23 |
 | **[Veritiv](https://www.veritiv.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68d70a35894705799a2f0335?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Oct 23 |
@@ -78,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Visa](https://www.visa.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68fa86f667272b29af730718?utm_campaign=1066&utm_source=git)** | Foster City, CA, USA | Hybrid | Oct 23 |
 | ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68fa865cedd190144238db18?utm_campaign=1066&utm_source=git)** | Atlanta, GA, USA | Hybrid | Oct 23 |
 | **[Publicis Communications](http://www.publicisgroupe.com/en/services/services-publicis-communications-en)** | **[Intern Program - Identity Analytics Intern](https://jobright.ai/jobs/info/68fa8006b2c86843bf20e3b6?utm_campaign=1066&utm_source=git)** | Chicago, Illinois | On Site | Oct 23 |
+| **[Taylor Corporation](https://www.taylor.com/)** | **[Data & Insights Intern](https://jobright.ai/jobs/info/68e6be3b1852e62f0081e040?utm_campaign=1066&utm_source=git)** | Minnesota, United States | On Site | Oct 23 |
 | **[General Motors](https://www.gm.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68fa7b05b2c86843bf20df61?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 23 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[USDA-ARS Fellowship in Data Management and Machine Learning](https://jobright.ai/jobs/info/68d6f36345853d0e39ccb3d8?utm_campaign=1066&utm_source=git)** | Albany, CA | On Site | Oct 23 |
 | **[Cards Against Humanity, LLC](http://cardsagainsthumanity.com)** | **[Research Assistant Intern - Temporary, Independent Contractor (Fall 2025)](https://jobright.ai/jobs/info/68fa6c9cedd190144238c561?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 23 |
@@ -131,6 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Fred Hutch](http://www.fredhutch.org)** | **[Intern, Research - Temporary Part-Time](https://jobright.ai/jobs/info/68f99172cadb2e5a06a65d55?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Oct 22 |
 | ↳ | **[Intern, Research - Temporary Part-Time](https://jobright.ai/jobs/info/68f98eada628d10664e8dd25?utm_campaign=1066&utm_source=git)** | US-WA-Seattle | Hybrid | Oct 22 |
 | **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 - Statistics & Data Analytics (Onsite)](https://jobright.ai/jobs/info/68f987faa628d10664e8da25?utm_campaign=1066&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Oct 22 |
+| **[KQED](http://www.kqed.org)** | **[Audience Intelligence Research Intern](https://jobright.ai/jobs/info/68faca3b67272b29af7338d5?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Oct 22 |
 | **[CRH](http://crh.com)** | **[Aggregates Intern](https://jobright.ai/jobs/info/68f97acdcadb2e5a06a65124?utm_campaign=1066&utm_source=git)** | New Britain, CT | On Site | Oct 22 |
 | **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[Vertex Summer Intern 2026, Real World Evidence](https://jobright.ai/jobs/info/68f974c0cadb2e5a06a64f41?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 22 |
 | **[MBTA](http://mbta.com)** | **[Procurement & Logistics Data Analyst Co-Op (Northeastern Students)](https://jobright.ai/jobs/info/68ee805446e5b153e5a5b30a?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 22 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vertex](tryvertex.co)** | **[Vertex Summer Intern 2026, Real World Evidence](https://jobright.ai/jobs/info/68f937676de2db04dc3e6d26?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 22 |
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[CI Data & Analytics Intern](https://jobright.ai/jobs/info/68f9333acadb2e5a06a624c4?utm_campaign=1066&utm_source=git)** | US-WI-Ripon | On Site | Oct 22 |
 | **[Mom's Meals | A Purfoods Company](https://www.momsmeals.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68f93004a628d10664e8a387?utm_campaign=1066&utm_source=git)** | Ankeny, IA | On Site | Oct 22 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Quality Data Analyst Intern](https://jobright.ai/jobs/info/68f92e2ca628d10664e8a171?utm_campaign=1066&utm_source=git)** | Texas | On Site | Oct 22 |
-| **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[CI Data & Analytics Intern](https://jobright.ai/jobs/info/68f92c2f6de2db04dc3e628c?utm_campaign=1066&utm_source=git)** | Onsite | On Site | Oct 22 |
-| **[Corewell Health](https://corewellhealth.org)** | **[Biostatistician Intern](https://jobright.ai/jobs/info/68f919356de2db04dc3e579d?utm_campaign=1066&utm_source=git)** | Royal Oak, MI | Hybrid | Oct 22 |
-| **[Cencora](http://www.cencora.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68f91904a628d10664e8931f?utm_campaign=1066&utm_source=git)** | Remote, New Jersey | Remote | Oct 22 |
-| ↳ | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68f9184c6de2db04dc3e564f?utm_campaign=1066&utm_source=git)** | Conshohocken, PA | On Site | Oct 22 |
-| **[Charter Steel](http://www.chartersteel.com/)** | **[Business Intelligence & Analytics Intern - Year Round](https://jobright.ai/jobs/info/68f91131cadb2e5a06a60a52?utm_campaign=1066&utm_source=git)** | Charter Wire - Menomonee Valley - Milwaukee, WI | Hybrid | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
