@@ -57,6 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Bioanalytical Data Science – Intern](https://jobright.ai/jobs/info/68e7802815da181e7e4edbe8?utm_campaign=1066&utm_source=git)** | Lansdale, PA | Hybrid | Oct 25 |
+| **[Schonfeld](http://www.schonfeld.com/)** | **[2026 PhD Quant Research Summer Intern - New York](https://jobright.ai/jobs/info/68c7bd1ef42a830e1c7e7205?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 25 |
+| **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Data Enablement Intern](https://jobright.ai/jobs/info/68fc398293c49825ab10ae94?utm_campaign=1066&utm_source=git)** | Lenexa, KS | On Site | Oct 25 |
+| **[Schonfeld](http://www.schonfeld.com/)** | **[2026 PhD Quant Research Summer Intern - Miami Area](https://jobright.ai/jobs/info/68cd9382e23def7af55bbf05?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Oct 25 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Science intern (TikTok-Product-Data Science-Interaction-US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68cc6ca5128dc347fd924b7d?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 25 |
+| **[ByteDance](http://bytedance.com)** | **[Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS)](https://jobright.ai/jobs/info/68cd8d39b2a74e1837ed8aa7?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 25 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/6899791383d13d1f5b692f4a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Oct 25 |
+| **[IBM](http://www.ibm.com)** | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/68f07bf11f624a7ec1cf36c6?utm_campaign=1066&utm_source=git)** | Brookhaven, PA | Hybrid | Oct 25 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68c8d682f9c6ff7aedf131e1?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Oct 25 |
+| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Supply Chain Data Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/68eb69b976a1db7c5985fe32?utm_campaign=1066&utm_source=git)** | Middleton, WI | On Site | Oct 25 |
+| **[ByteDance](http://bytedance.com)** | **[Multilingual Data Intern (Speech) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68c7930f7d0db4114273dccf?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 25 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Start (PhD)](https://jobright.ai/jobs/info/68fb0f303c99cc1d96028806?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 25 |
+| **[SeatGeek](https://seatgeek.com)** | **[Data Analyst - Internship](https://jobright.ai/jobs/info/68e036d71852e62f007e8d44?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 25 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (Product Analytics, USDS) - 2025 Start (BS, MS)](https://jobright.ai/jobs/info/68fb16c93c99cc1d96028a28?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Oct 25 |
+| **[HDR](http://www.hdrinc.com)** | **[GIS Intern (Summer 2026)](https://jobright.ai/jobs/info/68cc37127342c7623ae610bb?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Oct 25 |
+| **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68cc15ba128dc347fd91eb81?utm_campaign=1066&utm_source=git)** | Jackson, MS | On Site | Oct 25 |
+| **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/68fc9dd5e04ac838fb5ab0a9?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Oct 25 |
+| **[NEC Laboratories America, Inc.](http://www.nec-labs.com)** | **[DSSS - Research Intern 2026](https://jobright.ai/jobs/info/68fc9d62e04ac838fb5ab07f?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Oct 25 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/68e07a15b99ec3563b0cfb2a?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Remote | Oct 25 |
 | **[GFT](https://www.gftinc.com)** | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/68e04cfef758fe1f97e4c246?utm_campaign=1066&utm_source=git)** | Mechanicsburg, PA | Hybrid | Oct 25 |
 | ↳ | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/68e04b54b99ec3563b0ce542?utm_campaign=1066&utm_source=git)** | Miami, FL | Hybrid | Oct 25 |
@@ -88,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[RCLCO](https://www.rclco.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68fbebfe93c49825ab1076e1?utm_campaign=1066&utm_source=git)** | Denver, CO | On Site | Oct 24 |
 | **[Scitec](http://scitec.co.kr/)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/68fc7ea539d0ae3279af5b63?utm_campaign=1066&utm_source=git)** | Princeton, NJ, US | On Site | Oct 24 |
 | **[Genvax](https://www.genvax.com/)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/68fc857ebf1f431bc45f5e7e?utm_campaign=1066&utm_source=git)** | Ames, IA, US | On Site | Oct 24 |
-| **[Schneider Electric](https://www.se.com)** | **[Graduate Data Analyst Intern](https://jobright.ai/jobs/info/68fbe89d4129dd33cd136366?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Hybrid | Oct 24 |
 | **[RCLCO](https://www.rclco.com)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/68fbe819f55bb021a889dd79?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Oct 24 |
 | **[Schneider Electric](https://www.se.com)** | **[Graduate Data Analyst Intern](https://jobright.ai/jobs/info/68fbe459f55bb021a889db2c?utm_campaign=1066&utm_source=git)** | Franklin, TN | Hybrid | Oct 24 |
 | **[CTP](http://www.ctp.eu)** | **[Analytics Intern](https://jobright.ai/jobs/info/68fc7c65bf1f431bc45f4884?utm_campaign=1066&utm_source=git)** | Boston, MA, US | Hybrid | Oct 24 |
@@ -104,9 +121,9 @@ For a complete list, click the following sortable link below:
 | **[Tetra Pak](http://www.tetrapak.com)** | **[Customer Analytics Intern](https://jobright.ai/jobs/info/68fbcd15f55bb021a889c953?utm_campaign=1066&utm_source=git)** | Denton, TX | Hybrid | Oct 24 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcd10f55bb021a889c94c?utm_campaign=1066&utm_source=git)** | FL, Working at Home - Florida | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcce4f55bb021a889c90b?utm_campaign=1066&utm_source=git)** | KY, Working at Home - Kentucky | Remote | Oct 24 |
-| ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbccb293c49825ab105cb3?utm_campaign=1066&utm_source=git)** | CA, Working at Home - California | Remote | Oct 24 |
-| ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbccb2f55bb021a889c8c6?utm_campaign=1066&utm_source=git)** | ME, Working at Home - Maine | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbccb2f55bb021a889c8c5?utm_campaign=1066&utm_source=git)** | WA, Working at Home - Washington | Remote | Oct 24 |
+| ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbccb2f55bb021a889c8c6?utm_campaign=1066&utm_source=git)** | ME, Working at Home - Maine | Remote | Oct 24 |
+| ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbccb293c49825ab105cb3?utm_campaign=1066&utm_source=git)** | CA, Working at Home - California | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcc834129dd33cd134cd1?utm_campaign=1066&utm_source=git)** | NJ, Working at Home - New Jersey | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcc8193c49825ab105c87?utm_campaign=1066&utm_source=git)** | MN, Working at Home - Minnesota | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcc7993c49825ab105c81?utm_campaign=1066&utm_source=git)** | NH, Working at Home - New Hampshire | Remote | Oct 24 |
@@ -135,26 +152,9 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - Biostatistics](https://jobright.ai/jobs/info/68fba07d4129dd33cd13339a?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | On Site | Oct 24 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Masters Summer Intern - Quant Research Analyst, Client Solutions & Analytics, US](https://jobright.ai/jobs/info/68df21636be63b6ec996c702?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Oct 24 |
 | **[OneMagnify](http://marketingassociates.com)** | **[Summer Intern](https://jobright.ai/jobs/info/68deb7dfa125e75c422b5fa9?utm_campaign=1066&utm_source=git)** | Detroit, MI | Hybrid | Oct 24 |
-| **[Danfoss](https://www.danfoss.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68def79944d32141e0c045de?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Oct 24 |
+| **[Danfoss](https://www.danfoss.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68def7b844d32141e0c0461b?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Oct 24 |
 | **[Newmark](https://www.nmrk.com)** | **[GIS Intern](https://jobright.ai/jobs/info/68fac94cedd1901442390b62?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Clinical Data](https://jobright.ai/jobs/info/68cd9eb4e23def7af55bcea8?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Oct 24 |
 | ↳ | **[Intern II – Clinical Affairs](https://jobright.ai/jobs/info/68cc374d7342c7623ae61112?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Oct 24 |
 | **[KCF Technologies, Inc.](http://www.kcftech.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68fb86284129dd33cd13290d?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Oct 24 |
-| **[Dexcom](http://www.dexcom.com)** | **[Intern II - Business Intelligence](https://jobright.ai/jobs/info/68ccf59e5954791a1d701b25?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Oct 24 |
-| **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Data Science Internship](https://jobright.ai/jobs/info/68d01501fb49c96ca6eade20?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Oct 24 |
-| ↳ | **[2026 North America Data Science Internship](https://jobright.ai/jobs/info/68cbfa857342c7623ae5cbe5?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Oct 24 |
-| **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/68de987144d32141e0c00eae?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Oct 24 |
-| **[Corteva Agriscience](https://www.corteva.com/)** | **[Global Regulatory Intelligence R&D Intern](https://jobright.ai/jobs/info/68de987a44d32141e0c00ebb?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Oct 24 |
-| **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/68d787d2267b154f9a2dbaad?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Oct 24 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Immunology Bioinformatics Intern (PhD)](https://jobright.ai/jobs/info/68cf0860846f0b04af67ed46?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Oct 24 |
-| **[Fulton Analytics](https://www.fultonanalytics.com/)** | **[DATA ASSOCIATE (INTERNSHIP)](https://jobright.ai/jobs/info/68fb6b4ff55bb021a8899ca1?utm_campaign=1066&utm_source=git)** | St Paul, MN | On Site | Oct 24 |
-| **[STR](https://www.str.us/)** | **[Analytics Summer Internship](https://jobright.ai/jobs/info/68ce6d3a846f0b04af679cec?utm_campaign=1066&utm_source=git)** | Woburn, MA | On Site | Oct 24 |
-| ↳ | **[Intelligence Summer Internship](https://jobright.ai/jobs/info/68cf648cfb49c96ca6ea850e?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Oct 24 |
-| **[Gorton's](https://gortons.com/)** | **[IT Intern](https://jobright.ai/jobs/info/68cc45a3128dc347fd921b23?utm_campaign=1066&utm_source=git)** | Gloucester, MA | Hybrid | Oct 24 |
-| **[Ketjen Corporation](https://ketjen.com)** | **[Ketjen Summer 2026 Data Science Internship Program](https://jobright.ai/jobs/info/68ca32d2d4187c55157a7cc5?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Oct 24 |
-| **[Nutanix](http://www.nutanix.com)** | **[Business Data Analyst Intern - U.S based undergrads ONLY](https://jobright.ai/jobs/info/68fb577c4129dd33cd131b08?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/68cf0840fb49c96ca6ea540c?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Oct 24 |
-| ↳ | **[Data Scientist Intern (TikTok-Search)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cbb46bba798c1a501d426b?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
-| **[Databricks](https://www.databricks.com)** | **[Data Science Intern (2026 Start)](https://jobright.ai/jobs/info/68cf25aedbd9fb154ede557c?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Oct 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science intern (TikTok-Product-Data Science-UG Mid-Platform-US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68cd96301ad6b16f0289bf07?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
