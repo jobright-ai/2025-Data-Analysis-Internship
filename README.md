@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Business Intelligence (CIT Rail)](https://jobright.ai/jobs/info/68fc3a3bf55bb021a88a1bba?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Oct 24 |
+| **[Uber Freight](https://www.uberfreight.com)** | **[Data Scientist Intern - Summer 2026](https://jobright.ai/jobs/info/68fc364e4129dd33cd139d34?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
+| **[Schneider Electric](https://www.se.com)** | **[Graduate Data Analyst Intern](https://jobright.ai/jobs/info/68fc32fbf55bb021a88a1656?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Hybrid | Oct 24 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Business Intelligence (CIT Rail)](https://jobright.ai/jobs/info/68fc27e0f55bb021a88a10c4?utm_campaign=1066&utm_source=git)** | Chicago, Illinois | Hybrid | Oct 24 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Intern - NSS](https://jobright.ai/jobs/info/68fc21bc93c49825ab10a0bc?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Oct 24 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Data analyst (Winter 2026)](https://jobright.ai/jobs/info/68fc117793c49825ab1096bc?utm_campaign=1066&utm_source=git)** | California, United States | Hybrid | Oct 24 |
@@ -85,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Tetra Pak](http://www.tetrapak.com)** | **[Customer Analytics Intern](https://jobright.ai/jobs/info/68fbcd15f55bb021a889c953?utm_campaign=1066&utm_source=git)** | Denton, TX | Hybrid | Oct 24 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcd10f55bb021a889c94c?utm_campaign=1066&utm_source=git)** | FL, Working at Home - Florida | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcce4f55bb021a889c90b?utm_campaign=1066&utm_source=git)** | KY, Working at Home - Kentucky | Remote | Oct 24 |
-| ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbccb2f55bb021a889c8c5?utm_campaign=1066&utm_source=git)** | WA, Working at Home - Washington | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbccb293c49825ab105cb3?utm_campaign=1066&utm_source=git)** | CA, Working at Home - California | Remote | Oct 24 |
+| ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbccb2f55bb021a889c8c5?utm_campaign=1066&utm_source=git)** | WA, Working at Home - Washington | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbccb2f55bb021a889c8c6?utm_campaign=1066&utm_source=git)** | ME, Working at Home - Maine | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcc834129dd33cd134cd1?utm_campaign=1066&utm_source=git)** | NJ, Working at Home - New Jersey | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcc8193c49825ab105c87?utm_campaign=1066&utm_source=git)** | MN, Working at Home - Minnesota | Remote | Oct 24 |
@@ -116,7 +119,7 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern - Biostatistics](https://jobright.ai/jobs/info/68fba07d4129dd33cd13339a?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | On Site | Oct 24 |
 | **[PIMCO](http://www.pimco.com)** | **[2026 Masters Summer Intern - Quant Research Analyst, Client Solutions & Analytics, US](https://jobright.ai/jobs/info/68df21636be63b6ec996c702?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Oct 24 |
 | **[OneMagnify](http://marketingassociates.com)** | **[Summer Intern](https://jobright.ai/jobs/info/68deb7dfa125e75c422b5fa9?utm_campaign=1066&utm_source=git)** | Detroit, MI | Hybrid | Oct 24 |
-| **[Danfoss](https://www.danfoss.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68def79944d32141e0c045de?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Oct 24 |
+| **[Danfoss](https://www.danfoss.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68def7b844d32141e0c0461b?utm_campaign=1066&utm_source=git)** | Tallahassee, FL | On Site | Oct 24 |
 | **[Newmark](https://www.nmrk.com)** | **[GIS Intern](https://jobright.ai/jobs/info/68fac94cedd1901442390b62?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Clinical Data](https://jobright.ai/jobs/info/68cd9eb4e23def7af55bcea8?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Oct 24 |
 | ↳ | **[Intern II – Clinical Affairs](https://jobright.ai/jobs/info/68cc374d7342c7623ae61112?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Oct 24 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (PhD)](https://jobright.ai/jobs/info/688b98531808534a89cb448d?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 24 |
 | ↳ | **[Data Science Project Intern(TikTok Shop-Supply Chain & Logistics) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68fb1539e154835f11ef980a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Oct 24 |
 | **[Oracle](https://www.oracle.com/)** | **[Data Science Intern - Industries](https://jobright.ai/jobs/info/68faaf71b2c86843bf210ef2?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 24 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68fb3a979e8e925ac6c89ea0?utm_campaign=1066&utm_source=git)** | Erie-Meadville Area | On Site | Oct 24 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Data Analytics Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/68fb2aed9e8e925ac6c894cd?utm_campaign=1066&utm_source=git)** | Hutchins, TX | On Site | Oct 24 |
 | **[American Equity](http://www.american-equity.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68cb225c9e3a822f5d242daa?utm_campaign=1066&utm_source=git)** | West Des Moines, Iowa, United States | On Site | Oct 23 |
 | **[StandardAero](http://www.standardaero.com/)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/68fb0ba53c99cc1d9602879f?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Oct 23 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Commercial Business Intelligence & Proposal Management Intern](https://jobright.ai/jobs/info/68faf2569e8e925ac6c87c34?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 23 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68faefd53c99cc1d96027a76?utm_campaign=1066&utm_source=git)** | KY, Working at Home - Kentucky | Remote | Oct 23 |
 | ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68faef9d3c99cc1d96027a40?utm_campaign=1066&utm_source=git)** | DE, Working at Home - Delaware | Remote | Oct 23 |
-| ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68faef818d32c164778ccc2e?utm_campaign=1066&utm_source=git)** | VT, Working at Home - Vermont | Remote | Oct 23 |
-| ↳ | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/68faef818d32c164778ccc2d?utm_campaign=1066&utm_source=git)** | WY, Working at Home - Wyoming | Remote | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
