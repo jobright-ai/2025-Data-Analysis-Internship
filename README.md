@@ -149,8 +149,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcbc3f55bb021a889c78e?utm_campaign=1066&utm_source=git)** | DE, Working at Home - Delaware | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcba493c49825ab105bd7?utm_campaign=1066&utm_source=git)** | VA, Working at Home - Virginia | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcb9a4129dd33cd134b8d?utm_campaign=1066&utm_source=git)** | KS, Working at Home - Kansas | Remote | Oct 24 |
-| ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcb6893c49825ab105bb9?utm_campaign=1066&utm_source=git)** | IN, Working at Home - Indiana | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcb684129dd33cd134b52?utm_campaign=1066&utm_source=git)** | CO, Working at Home - Colorado | Remote | Oct 24 |
+| ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcb6893c49825ab105bb9?utm_campaign=1066&utm_source=git)** | IN, Working at Home - Indiana | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcb08f55bb021a889c6ef?utm_campaign=1066&utm_source=git)** | OH, Working at Home - Ohio | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcaedf55bb021a889c6d2?utm_campaign=1066&utm_source=git)** | SC, Working at Home-South Carolina | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcae34129dd33cd134a92?utm_campaign=1066&utm_source=git)** | TX, Working at Home - Texas | Remote | Oct 24 |
