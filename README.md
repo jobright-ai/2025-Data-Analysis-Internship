@@ -57,12 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAS](http://www.sas.com)** | **[JMP 2026 Summer Intern; Causal Inference, Life Sciences R&D](https://jobright.ai/jobs/info/68ffcbb10ab3b222462ae13f?utm_campaign=1066&utm_source=git)** | North Carolina | Hybrid | Oct 27 |
+| **[GIC](https://www.gic.com.sg)** | **[Data Analytics Internship (Private Equity - Winter 2026 Start)](https://jobright.ai/jobs/info/68ffc95b0ab3b222462adf9c?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Oct 27 |
+| **[SAS](http://www.sas.com)** | **[JMP 2026 Summer Intern; Causal Inference, Life Sciences R&D](https://jobright.ai/jobs/info/68ffc547e0c73b3a1119e24f?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 27 |
+| **[The Bliss Group](https://www.theblissgrp.com)** | **[Spring 2026 Innovation & Insights Internship](https://jobright.ai/jobs/info/68ffc484e0c73b3a1119e1b9?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 27 |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Data Analysis &amp; Process Improvement - Intern](https://jobright.ai/jobs/info/68ffc45be0c73b3a1119e193?utm_campaign=1066&utm_source=git)** | Texas | On Site | Oct 27 |
+| **[Purdue Research Foundation](http://prf.org)** | **[OTC InnovAItion Insights Intern](https://jobright.ai/jobs/info/68ffbd700ab3b222462ad835?utm_campaign=1066&utm_source=git)** | West Lafayette, IN | Hybrid | Oct 27 |
+| **[Credit Karma](https://www.creditkarma.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68ffb846e0c73b3a1119db87?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Oct 27 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[IBP Data Management Intern](https://jobright.ai/jobs/info/68ffb2a1e0c73b3a1119d89d?utm_campaign=1066&utm_source=git)** | Bloomington, MN | On Site | Oct 27 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - PhD Tissue based Multiomic Data Integration Internship](https://jobright.ai/jobs/info/68ffaf9be04ac838fb5ba617?utm_campaign=1066&utm_source=git)** | Seattle 400 Dexter - WA - US | Hybrid | Oct 27 |
 | **[Stantec](http://www.stantec.com)** | **[GIS Intern (Summer 2026)](https://jobright.ai/jobs/info/68ffa772e04ac838fb5ba1c0?utm_campaign=1066&utm_source=git)** | One Carlson Parkway North, Plymouth, MN, 55447, US | On Site | Oct 27 |
+| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Operations Data Analyst Intern](https://jobright.ai/jobs/info/68ff8a860ab3b222462abd0d?utm_campaign=1066&utm_source=git)** | Durham, NC | Hybrid | Oct 27 |
 | **[Travelers](https://www.travelers.com)** | **[Customer Experience Data & Analytics Intern](https://jobright.ai/jobs/info/68ff9a8fe04ac838fb5b9916?utm_campaign=1066&utm_source=git)** | CT - Hartford | Hybrid | Oct 27 |
 | **[Schneider](https://schneider.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68ff94f1e04ac838fb5b9659?utm_campaign=1066&utm_source=git)** | Green Bay, WI | On Site | Oct 27 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/68ff8c16e04ac838fb5b9242?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Oct 27 |
-| **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Operations Data Analyst Intern](https://jobright.ai/jobs/info/68ff8bd7e0c73b3a1119c369?utm_campaign=1066&utm_source=git)** | Durham, NC | Hybrid | Oct 27 |
 | **[Amtrak](https://www.amtrak.com/)** | **[Spring & Summer 2026 - Database Analyst Co-op - 90395747 - Washington](https://jobright.ai/jobs/info/68e39e9e1852e62f007fd0f2?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Oct 27 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Quantitative Insights Lab Intern (PhD)](https://jobright.ai/jobs/info/68ff8b120ab3b222462abd4d?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Oct 27 |
 | **[Primient](https://primient.com)** | **[Digital Data and Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68ff8a880ab3b222462abd0f?utm_campaign=1066&utm_source=git)** | Schaumburg, IL | On Site | Oct 27 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CTP](http://www.ctp.eu)** | **[Analytics Intern](https://jobright.ai/jobs/info/68fc7c65bf1f431bc45f4884?utm_campaign=1066&utm_source=git)** | Boston, MA, US | Hybrid | Oct 24 |
 | **[Baylor College of Medicine](http://www.bcm.edu/)** | **[Intern/Aide](https://jobright.ai/jobs/info/68fbdc034129dd33cd1357b4?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Oct 24 |
 | **[United Concordia Dental](https://unitedconcordia.com)** | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbd9c793c49825ab10689f?utm_campaign=1066&utm_source=git)** | Erie-Meadville Area | On Site | Oct 24 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbce8b93c49825ab105efa?utm_campaign=1066&utm_source=git)** | MD, Working at Home - Maryland | Remote | Oct 24 |
-| ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbce0493c49825ab105e37?utm_campaign=1066&utm_source=git)** | OR, Working at Home - Oregon | Remote | Oct 24 |
-| ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcd9193c49825ab105d8f?utm_campaign=1066&utm_source=git)** | AR, Working at Home -  Arkansas | Remote | Oct 24 |
-| ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcd524129dd33cd134dcb?utm_campaign=1066&utm_source=git)** | MO, Working at Home - Missouri | Remote | Oct 24 |
-| ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcd2a4129dd33cd134d9c?utm_campaign=1066&utm_source=git)** | VT, Working at Home - Vermont | Remote | Oct 24 |
-| ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcd1cf55bb021a889c95c?utm_campaign=1066&utm_source=git)** | NM, Working at Home - New Mexico | Remote | Oct 24 |
-| **[Tetra Pak](http://www.tetrapak.com)** | **[Customer Analytics Intern](https://jobright.ai/jobs/info/68fbcd15f55bb021a889c953?utm_campaign=1066&utm_source=git)** | Denton, TX | Hybrid | Oct 24 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcd10f55bb021a889c94c?utm_campaign=1066&utm_source=git)** | FL, Working at Home - Florida | Remote | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
