@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Oct 26 |
+| ↳ | **[(Spring) Research Analyst Intern](https://jobright.ai/jobs/info/68c00ecc5c5d5f14f46db3ce?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Oct 26 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Data Science Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/68febec30ab3b222462a7629?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Oct 26 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (Summer 2026)](https://jobright.ai/jobs/info/68ccf0c9d11b445e0bee4bba?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Oct 26 |
 | **[Zekelman Industries](http://www.zekelman.com)** | **[Data Visualization Intern](https://jobright.ai/jobs/info/68e12f86b99ec3563b0d69ac?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 26 |
@@ -142,9 +144,9 @@ For a complete list, click the following sortable link below:
 | **[Tetra Pak](http://www.tetrapak.com)** | **[Customer Analytics Intern](https://jobright.ai/jobs/info/68fbcd15f55bb021a889c953?utm_campaign=1066&utm_source=git)** | Denton, TX | Hybrid | Oct 24 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcd10f55bb021a889c94c?utm_campaign=1066&utm_source=git)** | FL, Working at Home - Florida | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcce4f55bb021a889c90b?utm_campaign=1066&utm_source=git)** | KY, Working at Home - Kentucky | Remote | Oct 24 |
+| ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbccb293c49825ab105cb3?utm_campaign=1066&utm_source=git)** | CA, Working at Home - California | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbccb2f55bb021a889c8c5?utm_campaign=1066&utm_source=git)** | WA, Working at Home - Washington | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbccb2f55bb021a889c8c6?utm_campaign=1066&utm_source=git)** | ME, Working at Home - Maine | Remote | Oct 24 |
-| ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbccb293c49825ab105cb3?utm_campaign=1066&utm_source=git)** | CA, Working at Home - California | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcc834129dd33cd134cd1?utm_campaign=1066&utm_source=git)** | NJ, Working at Home - New Jersey | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcc8193c49825ab105c87?utm_campaign=1066&utm_source=git)** | MN, Working at Home - Minnesota | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcc7993c49825ab105c81?utm_campaign=1066&utm_source=git)** | NH, Working at Home - New Hampshire | Remote | Oct 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcbd3f55bb021a889c7a7?utm_campaign=1066&utm_source=git)** | MS, Working at Home - Mississippi | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcbc3f55bb021a889c78e?utm_campaign=1066&utm_source=git)** | DE, Working at Home - Delaware | Remote | Oct 24 |
 | ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcba493c49825ab105bd7?utm_campaign=1066&utm_source=git)** | VA, Working at Home - Virginia | Remote | Oct 24 |
-| ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcb9a4129dd33cd134b8d?utm_campaign=1066&utm_source=git)** | KS, Working at Home - Kansas | Remote | Oct 24 |
-| ↳ | **[Summer 2026 Reporting Analyst Undergraduate Intern](https://jobright.ai/jobs/info/68fbcb6893c49825ab105bb9?utm_campaign=1066&utm_source=git)** | IN, Working at Home - Indiana | Remote | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
