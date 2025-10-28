@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Data Governance & Systems Intern](https://jobright.ai/jobs/info/69001de50ab3b222462b1f49?utm_campaign=1066&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 27 |
+| **[SAS](http://www.sas.com)** | **[JMP 2026 Summer Intern; Statistical Documentation](https://jobright.ai/jobs/info/69001a5be0c73b3a111a2330?utm_campaign=1066&utm_source=git)** | North Carolina | Hybrid | Oct 27 |
+| **[Microsoft](https://www.microsoft.com)** | **[Researcher Intern - CoreAI Post Training](https://jobright.ai/jobs/info/690015c8e0c73b3a111a2106?utm_campaign=1066&utm_source=git)** | Mountain View, California, United States | Hybrid | Oct 27 |
+| **[AMD](http://www.amd.com)** | **[Summer 2026 Undergraduate Data Analytics Intern](https://jobright.ai/jobs/info/690013f4e04ac838fb5bedb3?utm_campaign=1066&utm_source=git)** | Santa Clara, California | Hybrid | Oct 27 |
+| **[SAS](http://www.sas.com)** | **[JMP 2026 Summer Intern; Statistical Documentation](https://jobright.ai/jobs/info/69001319e04ac838fb5becfa?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 27 |
+| **[CrowdStrike](http://www.crowdstrike.com)** | **[Intelligence Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/690012e70ab3b222462b1763?utm_campaign=1066&utm_source=git)** | USA - Remote | Remote | Oct 27 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Biostatistics](https://jobright.ai/jobs/info/6900012ae0c73b3a111a1648?utm_campaign=1066&utm_source=git)** | Headquarters, NJ | On Site | Oct 27 |
 | **[Alaska Airlines](https://alaskaair.jobs)** | **[Graduate Intern - Revenue Performance Research (Summer 2026)](https://jobright.ai/jobs/info/68f7e46ab0edcf159dc8b3e2?utm_campaign=1066&utm_source=git)** | SeaTac, WA | On Site | Oct 27 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst – Automatic Camera Enforcement (ACE), Emerging Talent Intern](https://jobright.ai/jobs/info/68fff7e5e04ac838fb5be016?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 27 |
@@ -64,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Communications Analytics & Insights Internship (Undergraduate)](https://jobright.ai/jobs/info/68ffef0c0ab3b222462b0352?utm_campaign=1066&utm_source=git)** | Woonsocket, RI | Hybrid | Oct 27 |
 | ↳ | **[Communications Analytics & Insights Internship (Undergraduate)](https://jobright.ai/jobs/info/68ffede0e04ac838fb5bd74a?utm_campaign=1066&utm_source=git)** | RI - Woonsocket | Hybrid | Oct 27 |
 | **[Point72](https://www.point72.com)** | **[2026 Spring Internship - MS/PhD Data Scientist, Proprietary Research](https://jobright.ai/jobs/info/68ffeca6e04ac838fb5bd62d?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Oct 27 |
-| **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/68ffeb75e04ac838fb5bd592?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Oct 27 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst – Automatic Camera Enforcement (ACE), Emerging Talent Intern](https://jobright.ai/jobs/info/68ffcd96e04ac838fb5bb823?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[Travelers](https://www.travelers.com)** | **[Customer Experience Data & Analytics Intern](https://jobright.ai/jobs/info/68ffe5f8e04ac838fb5bd159?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Oct 27 |
 | **[AIG](https://www.aig.com/)** | **[2026 – Early Career – Data Office – Summer Intern – United States, Atlanta (GA)](https://jobright.ai/jobs/info/68db02fd6df7b8311bb155dc?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Oct 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68cea39edbd9fb154ede1787?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 25 |
 | ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68c8fa5095f5211cd2cec77c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 25 |
 | ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68cc6b78128dc347fd92494c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 25 |
-| ↳ | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cd78d5b2a74e1837ed7440?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 25 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Retail Media BI Analytics Intern](https://jobright.ai/jobs/info/68fc9178bf1f431bc45f7159?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Oct 25 |
-| **[Quantbot Technologies LP](https://www.quantbot.com)** | **[Quantitative Researcher Internship - 2026 [Miami]](https://jobright.ai/jobs/info/68d501242ed36439e51e4157?utm_campaign=1066&utm_source=git)** | Miami | On Site | Oct 25 |
-| **[Alaska Airlines](https://alaskaair.jobs)** | **[Intern - ITS Operations BI Analyst (Summer 2026)](https://jobright.ai/jobs/info/68fc880b664c6f162a9517a1?utm_campaign=1066&utm_source=git)** | SeaTac, WA | On Site | Oct 25 |
-| **[Encompass Health](http://encompasshealth.com/)** | **[Data Analytics Support Specialist I- Intern](https://jobright.ai/jobs/info/68fc4f1df55bb021a88a29f0?utm_campaign=1066&utm_source=git)** | Land O' Lakes, FL | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
