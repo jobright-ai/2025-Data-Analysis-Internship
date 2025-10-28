@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Adobe](http://www.adobe.com)** | **[2026 AI/ML Intern - Data Scientist](https://jobright.ai/jobs/info/69010201f8ce7a040fdbb429?utm_campaign=1066&utm_source=git)** | San Jose | Hybrid | Oct 28 |
+| **[Covenant Eyes](http://covenanteyes.com)** | **[Data Annotator Intern](https://jobright.ai/jobs/info/69010feed5259a1b3cff0f23?utm_campaign=1066&utm_source=git)** | Owosso, MI | On Site | Oct 28 |
+| **[Adobe](http://www.adobe.com)** | **[2026 AI/ML Intern - Data Scientist](https://jobright.ai/jobs/info/690106734539ea1f2141bb4a?utm_campaign=1066&utm_source=git)** | San Francisco | Hybrid | Oct 28 |
+| ↳ | **[2026 AI/ML Intern - Data Scientist](https://jobright.ai/jobs/info/69010201f8ce7a040fdbb429?utm_campaign=1066&utm_source=git)** | San Jose | Hybrid | Oct 28 |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern – Advanced Analytics and Insights](https://jobright.ai/jobs/info/6900fb97d5259a1b3cff02e2?utm_campaign=1066&utm_source=git)** | Chicago, IL 60607 | On Site | Oct 28 |
 | **[Arrive Logistics](http://www.arrivelogistics.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e6e4731852e62f0081ff6a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 28 |
 | **[Trimont](https://trimont.com)** | **[Intern, Data Research](https://jobright.ai/jobs/info/6900dfcbf8ce7a040fdb9f33?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 28 |
-| **[ARCSys Technologies](http://www.arcsysonline.com)** | **[Part-Time Statistics Intern](https://jobright.ai/jobs/info/6900fa874539ea1f2141b337?utm_campaign=1066&utm_source=git)** | Virginia Beach, VA | Hybrid | Oct 28 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Data Analyst Intern - Product Safety and Compliance (May 2026-May 2027)](https://jobright.ai/jobs/info/68cd1437b2a74e1837ed205b?utm_campaign=1066&utm_source=git)** | Wickliffe, OH | Hybrid | Oct 28 |
 | **[Nexus](https://www.linkedin.com/company/107713175)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6900d9cdf8ce7a040fdb9cbc?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 28 |
 | **[Koch](https://www.kochinc.com)** | **[Summer 2026 Data Analyst Intern](https://jobright.ai/jobs/info/68e44fb61852e62f00804afa?utm_campaign=1066&utm_source=git)** | Wichita, KS | On Site | Oct 28 |
@@ -113,7 +114,6 @@ Job ID : 266479](https://jobright.ai/jobs/info/690096ba0ab3b222462b57db?utm_camp
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst – Automatic Camera Enforcement (ACE), Emerging Talent Intern](https://jobright.ai/jobs/info/68ffcd96e04ac838fb5bb823?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[Travelers](https://www.travelers.com)** | **[Customer Experience Data & Analytics Intern](https://jobright.ai/jobs/info/68ffe5f8e04ac838fb5bd159?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Oct 27 |
 | **[AIG](https://www.aig.com/)** | **[2026 – Early Career – Data Office – Summer Intern – United States, Atlanta (GA)](https://jobright.ai/jobs/info/68db02fd6df7b8311bb155dc?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Oct 27 |
-| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Student Intern](https://jobright.ai/jobs/info/68ffe386e0c73b3a111a00ab?utm_campaign=1066&utm_source=git)** | Neenah, WI | On Site | Oct 27 |
 | **[Point72](https://www.point72.com)** | **[2026 Spring Internship - MS/PhD Data Scientist, Proprietary Research](https://jobright.ai/jobs/info/68ffe200e0c73b3a1119feb9?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[Park National Bank](https://parknationalbank.com/)** | **[Internship- Data Science](https://jobright.ai/jobs/info/68ffe163e04ac838fb5bcc15?utm_campaign=1066&utm_source=git)** | Newark, OH | Hybrid | Oct 27 |
 | **[Northwest Youth Services](https://www.nwys.org)** | **[Data Specialist Intern](https://jobright.ai/jobs/info/68ffe017e04ac838fb5bca28?utm_campaign=1066&utm_source=git)** | Bellingham, WA, US | On Site | Oct 27 |
@@ -132,8 +132,8 @@ Job ID : 266479](https://jobright.ai/jobs/info/690096ba0ab3b222462b57db?utm_camp
 | **[The Bliss Group](https://www.theblissgrp.com)** | **[Spring 2026 Innovation & Insights Internship](https://jobright.ai/jobs/info/68ffc916e0c73b3a1119e557?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[SAS](http://www.sas.com)** | **[JMP 2026 Summer Intern; Causal Inference, Life Sciences R&D](https://jobright.ai/jobs/info/68ffc547e0c73b3a1119e24f?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 27 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Data Analysis &amp; Process Improvement - Intern](https://jobright.ai/jobs/info/68ffc45be0c73b3a1119e193?utm_campaign=1066&utm_source=git)** | Texas | On Site | Oct 27 |
+| **[Credit Karma](https://www.creditkarma.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68ffc2fae0c73b3a1119e073?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Oct 27 |
 | **[Purdue Research Foundation](http://prf.org)** | **[OTC InnovAItion Insights Intern](https://jobright.ai/jobs/info/68ffbd700ab3b222462ad835?utm_campaign=1066&utm_source=git)** | West Lafayette, IN | Hybrid | Oct 27 |
-| **[Credit Karma](https://www.creditkarma.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68ffb846e0c73b3a1119db87?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Oct 27 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - PhD Tissue based Multiomic Data Integration Internship](https://jobright.ai/jobs/info/68ffaf9be04ac838fb5ba617?utm_campaign=1066&utm_source=git)** | Seattle 400 Dexter - WA - US | Hybrid | Oct 27 |
 | **[Stantec](http://www.stantec.com)** | **[GIS Intern (Summer 2026)](https://jobright.ai/jobs/info/68ffa772e04ac838fb5ba1c0?utm_campaign=1066&utm_source=git)** | One Carlson Parkway North, Plymouth, MN, 55447, US | On Site | Oct 27 |
 | **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Operations Data Analyst Intern](https://jobright.ai/jobs/info/68ff8a860ab3b222462abd0d?utm_campaign=1066&utm_source=git)** | Durham, NC | Hybrid | Oct 27 |
