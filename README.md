@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ABB](https://global.abb/group/en)** | **[Data & Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/68e43ee51852e62f008037db?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Oct 28 |
+| **[Atlassian](https://www.atlassian.com)** | **[Research Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/690185504539ea1f21420d48?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Oct 28 |
+| **[Sunoco LP](https://www.sunocolp.com)** | **[Intern - Data Analytics / UNB](https://jobright.ai/jobs/info/690184a14539ea1f21420c9e?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Oct 28 |
 | **[Appalachian Voices](http://www.AppalachianVoices.org)** | **[Digital Analytics Intern](https://jobright.ai/jobs/info/690171f2d5259a1b3cff502e?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Oct 28 |
 | **[Adobe](http://www.adobe.com)** | **[2026 AI/ML Intern - Data Scientist](https://jobright.ai/jobs/info/690146684539ea1f2141ed1e?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Oct 28 |
 | **[Teva Pharmaceuticals](https://www.tevapharm.com)** | **[Intern - R&D Global Statistics and Data Science](https://jobright.ai/jobs/info/6901475ad5259a1b3cff3d56?utm_campaign=1066&utm_source=git)** | West Chester, PA | On Site | Oct 28 |
@@ -108,12 +111,11 @@ For a complete list, click the following sortable link below:
 | **[JM&A Group](https://www.jmagroup.com/)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/69006979e04ac838fb5c1be9?utm_campaign=1066&utm_source=git)** | Miami-FTL Area | On Site | Oct 27 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Business & Data Analytics Intern](https://jobright.ai/jobs/info/690089a60ab3b222462b53cd?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Oct 27 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Intelligence Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69004b640ab3b222462b3be5?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 27 |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/69004265e04ac838fb5c0d7f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern PRN](https://jobright.ai/jobs/info/69003d4ee04ac838fb5c0a29?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Oct 27 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Data Management - Renewable Energy GIS](https://jobright.ai/jobs/info/690036c5e0c73b3a111a361c?utm_campaign=1066&utm_source=git)** | Santa Barbara, CA | On Site | Oct 27 |
 | **[Microsoft](https://www.microsoft.com)** | **[Researcher Intern - CoreAI Post Training](https://jobright.ai/jobs/info/6900313de04ac838fb5c0168?utm_campaign=1066&utm_source=git)** | Mountain View, CA | Hybrid | Oct 27 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Data Scientist - Hedging and Risk Management](https://jobright.ai/jobs/info/69003042e04ac838fb5c008e?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Oct 27 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Data Analyst Undergraduate Intern](https://jobright.ai/jobs/info/690025050ab3b222462b23a6?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Oct 27 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/690022aee04ac838fb5bf7e9?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Data Governance & Systems Intern](https://jobright.ai/jobs/info/69001de50ab3b222462b1f49?utm_campaign=1066&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 27 |
 | **[SAS](http://www.sas.com)** | **[JMP 2026 Summer Intern; Statistical Documentation](https://jobright.ai/jobs/info/69001a5be0c73b3a111a2330?utm_campaign=1066&utm_source=git)** | North Carolina | Hybrid | Oct 27 |
 | **[Microsoft](https://www.microsoft.com)** | **[Researcher Intern - CoreAI Post Training](https://jobright.ai/jobs/info/690015c8e0c73b3a111a2106?utm_campaign=1066&utm_source=git)** | Mountain View, California, United States | Hybrid | Oct 27 |
@@ -143,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[JMP](https://www.jmp.com/en_ph/home.html)** | **[JMP 2026 Summer Intern; Causal Inference, Life Sciences R&D](https://jobright.ai/jobs/info/68ffd4f2e0c73b3a1119efbc?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 27 |
 | **[SAS](http://www.sas.com)** | **[JMP 2026 Summer Intern; Causal Inference, Life Sciences R&D](https://jobright.ai/jobs/info/68ffcbb10ab3b222462ae13f?utm_campaign=1066&utm_source=git)** | North Carolina | Hybrid | Oct 27 |
 | **[GIC](https://www.gic.com.sg)** | **[Data Analytics Internship (Private Equity - Winter 2026 Start)](https://jobright.ai/jobs/info/68ffc95b0ab3b222462adf9c?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Oct 27 |
-| **[The Bliss Group](https://www.theblissgrp.com)** | **[Spring 2026 Innovation & Insights Internship](https://jobright.ai/jobs/info/68ffc916e0c73b3a1119e557?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[SAS](http://www.sas.com)** | **[JMP 2026 Summer Intern; Causal Inference, Life Sciences R&D](https://jobright.ai/jobs/info/68ffc547e0c73b3a1119e24f?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 27 |
+| **[The Bliss Group](https://www.theblissgrp.com)** | **[Spring 2026 Innovation & Insights Internship](https://jobright.ai/jobs/info/68ffc484e0c73b3a1119e1b9?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 27 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Data Analysis &amp; Process Improvement - Intern](https://jobright.ai/jobs/info/68ffc45be0c73b3a1119e193?utm_campaign=1066&utm_source=git)** | Texas | On Site | Oct 27 |
 | **[Purdue Research Foundation](http://prf.org)** | **[OTC InnovAItion Insights Intern](https://jobright.ai/jobs/info/68ffbd700ab3b222462ad835?utm_campaign=1066&utm_source=git)** | West Lafayette, IN | Hybrid | Oct 27 |
 | **[Credit Karma](https://www.creditkarma.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68ffb846e0c73b3a1119db87?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Oct 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schneider](https://schneider.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/68ff94f1e04ac838fb5b9659?utm_campaign=1066&utm_source=git)** | Green Bay, WI | On Site | Oct 27 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/68ff8c16e04ac838fb5b9242?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Oct 27 |
 | **[Amtrak](https://www.amtrak.com/)** | **[Spring & Summer 2026 - Database Analyst Co-op - 90395747 - Washington](https://jobright.ai/jobs/info/68e39e9e1852e62f007fd0f2?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Oct 27 |
-| **[BioSpace](http://www.biospace.com/)** | **[2026 Quantitative Insights Lab Intern (PhD)](https://jobright.ai/jobs/info/68ff8b120ab3b222462abd4d?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Oct 27 |
-| **[Primient](https://primient.com)** | **[Digital Data and Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68ff8a880ab3b222462abd0f?utm_campaign=1066&utm_source=git)** | Schaumburg, IL | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
