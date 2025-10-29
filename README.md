@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tessera](https://tessera.org)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69026a0798707b2b0fe6f16f?utm_campaign=1066&utm_source=git)** | Bremerton, WA | On Site | Oct 29 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - PhD Quant Research Analyst, Client Solutions & Analytics - PIMCO](https://jobright.ai/jobs/info/69025fae00a1816c41e9d5e5?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Oct 29 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69024b0800a1816c41e9ca38?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Oct 29 |
 | **[Skookum](https://tessera.org)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6902436e98707b2b0fe6d96a?utm_campaign=1066&utm_source=git)** | Bremerton, Washington | On Site | Oct 29 |
 | **[Selective Insurance](https://www.selective.com/)** | **[IT Information Management Summer Internship – Charlotte, NC (Hybrid)](https://jobright.ai/jobs/info/68cd5fc3e23def7af55b928e?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Oct 29 |
@@ -74,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/68cfde05846f0b04af685988?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Oct 29 |
 | **[BCG X](https://www.bcg.com/x)** | **[Data Scientist, Internship, Campus, United States - BCG X](https://jobright.ai/jobs/info/68e57fc9ae2b894b1d7100d6?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 29 |
 | ↳ | **[Data Scientist, Internship, Campus, United States - BCG X](https://jobright.ai/jobs/info/68e58018b99ec3563b0f580a?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Oct 29 |
-| **[ACM Global Laboratories](http://www.acmgloballab.com)** | **[ACM Data Privacy Internship](https://jobright.ai/jobs/info/68e3f60e1852e62f007ffc30?utm_campaign=1066&utm_source=git)** | Rochester, NY | Remote | Oct 29 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Data Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac999bd627244576e47224?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Oct 29 |
 | **[Battelle](http://www.battelle.org)** | **[Data Science Co-Op (Spring-Summer 2026)](https://jobright.ai/jobs/info/68e5c4e81852e62f008143de?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Oct 29 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/68e53821b99ec3563b0f18b3?utm_campaign=1066&utm_source=git)** | Florham Park, NJ | On Site | Oct 29 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Business & Data Analytics Intern](https://jobright.ai/jobs/info/690089a60ab3b222462b53cd?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Oct 27 |
 | **[CrowdStrike](http://www.crowdstrike.com)** | **[Intelligence Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69004b640ab3b222462b3be5?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 27 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/69004265e04ac838fb5c0d7f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 27 |
-| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern PRN](https://jobright.ai/jobs/info/69003d4ee04ac838fb5c0a29?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Oct 27 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Data Management - Renewable Energy GIS](https://jobright.ai/jobs/info/690036c5e0c73b3a111a361c?utm_campaign=1066&utm_source=git)** | Santa Barbara, CA | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
