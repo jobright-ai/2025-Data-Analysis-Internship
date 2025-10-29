@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HiveWatch](https://www.hivewatch.com)** | **[AI Data Labeling Intern](https://jobright.ai/jobs/info/69028421ff462851fefe4201?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Oct 29 |
+| **[American Equity](http://www.american-equity.com)** | **[IT Intern, Data Science](https://jobright.ai/jobs/info/68bf25a98e65e77df55b75e0?utm_campaign=1066&utm_source=git)** | West Des Moines, Iowa, United States | On Site | Oct 29 |
+| **[MeeBoss](meeboss.com)** | **[Data Science Contractor/Intern (Conversion to Full-Time Possible)](https://jobright.ai/jobs/info/69027b6b98707b2b0fe6ff7d?utm_campaign=1066&utm_source=git)** | San Ramon, CA | On Site | Oct 29 |
+| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Data Analytics Intern (Hybrid)](https://jobright.ai/jobs/info/69027b0c98707b2b0fe6ff13?utm_campaign=1066&utm_source=git)** | Greater Cleveland | Hybrid | Oct 29 |
+| **[HiveWatch](https://www.hivewatch.com)** | **[AI Data Labeling Intern](https://jobright.ai/jobs/info/6902775fff462851fefe3753?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Oct 29 |
 | **[Tessera](https://tessera.org)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69026a0798707b2b0fe6f16f?utm_campaign=1066&utm_source=git)** | Bremerton, WA | On Site | Oct 29 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - PhD Quant Research Analyst, Client Solutions & Analytics - PIMCO](https://jobright.ai/jobs/info/69025fae00a1816c41e9d5e5?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Oct 29 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69024b0800a1816c41e9ca38?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Oct 29 |
@@ -64,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Selective Insurance](https://www.selective.com/)** | **[IT Information Management Summer Internship – Charlotte, NC (Hybrid)](https://jobright.ai/jobs/info/68cd5fc3e23def7af55b928e?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Oct 29 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6902355bff462851fefe0cf5?utm_campaign=1066&utm_source=git)** | Cranberry Township, PA | Remote | Oct 29 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Summer 2026 Data Analytics Internship Program](https://jobright.ai/jobs/info/68e5aaa6ae2b894b1d712771?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Oct 29 |
-| **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern - Data Analysis](https://jobright.ai/jobs/info/68fddf770ab3b222462a5247?utm_campaign=1066&utm_source=git)** | Aiken, SC | On Site | Oct 29 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/68cd83eab2a74e1837ed810d?utm_campaign=1066&utm_source=git)** | Irving, TX | Remote | Oct 29 |
 | ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/68c9a744f9c6ff7aedf1bf42?utm_campaign=1066&utm_source=git)** | Chicago, IL | Remote | Oct 29 |
 | **[BCG X](https://www.bcg.com/x)** | **[Data Scientist, Internship, Campus, United States - BCG X](https://jobright.ai/jobs/info/68e581a6b99ec3563b0f5a69?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southeast Toyota Finance](https://www.setf.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/69006f62e04ac838fb5c1de4?utm_campaign=1066&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 28 |
 | **[The MJ Companies](https://www.mjinsurance.com)** | **[EB Analytics Intern](https://jobright.ai/jobs/info/68b9ca886105227d11897c6e?utm_campaign=1066&utm_source=git)** | Carmel, Indiana, United States | On Site | Oct 28 |
 | **[JM&A Group](https://www.jmagroup.com/)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/69006979e04ac838fb5c1be9?utm_campaign=1066&utm_source=git)** | Miami-FTL Area | On Site | Oct 27 |
-| **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Business & Data Analytics Intern](https://jobright.ai/jobs/info/690089a60ab3b222462b53cd?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Oct 27 |
-| **[CrowdStrike](http://www.crowdstrike.com)** | **[Intelligence Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/69004b640ab3b222462b3be5?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 27 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/69004265e04ac838fb5c0d7f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 27 |
-| **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Data Management - Renewable Energy GIS](https://jobright.ai/jobs/info/690036c5e0c73b3a111a361c?utm_campaign=1066&utm_source=git)** | Santa Barbara, CA | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
