@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zoetis](https://www.zoetis.com)** | **[‘Omics Biomarker Discover Intern](https://jobright.ai/jobs/info/6902a38e98707b2b0fe71c75?utm_campaign=1066&utm_source=git)** | Fort Collins | On Site | Oct 29 |
+| ↳ | **[‘Omics Biomarker Discover Intern](https://jobright.ai/jobs/info/69029a92ff462851fefe52e7?utm_campaign=1066&utm_source=git)** | Fort Collins | On Site | Oct 29 |
+| **[Laveer Engineering](https://laveer.ca/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/690299f198707b2b0fe71765?utm_campaign=1066&utm_source=git)** | Cranberry Township, PA | Remote | Oct 29 |
+| **[Milliman](http://www.milliman.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/690298b998707b2b0fe71667?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Oct 29 |
+| **[Zoetis](https://www.zoetis.com)** | **['Omics Biomarker Discover Intern](https://jobright.ai/jobs/info/6902980800a1816c41ea00d3?utm_campaign=1066&utm_source=git)** | Fort Collins, CO | On Site | Oct 29 |
+| **[Vertex](tryvertex.co)** | **[Vertex Summer 2026 Intern, Clinical Science](https://jobright.ai/jobs/info/6902954698707b2b0fe714f1?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Oct 29 |
+| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6902915a00a1816c41e9fc63?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Oct 29 |
 | **[HiveWatch](https://www.hivewatch.com)** | **[AI Data Labeling Intern](https://jobright.ai/jobs/info/69028421ff462851fefe4201?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Oct 29 |
 | **[American Equity](http://www.american-equity.com)** | **[IT Intern, Data Science](https://jobright.ai/jobs/info/68bf25a98e65e77df55b75e0?utm_campaign=1066&utm_source=git)** | West Des Moines, Iowa, United States | On Site | Oct 29 |
 | **[MeeBoss](meeboss.com)** | **[Data Science Contractor/Intern (Conversion to Full-Time Possible)](https://jobright.ai/jobs/info/69027b6b98707b2b0fe6ff7d?utm_campaign=1066&utm_source=git)** | San Ramon, CA | On Site | Oct 29 |
@@ -141,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Data Science](https://jobright.ai/jobs/info/68ce24571ad6b16f028a2491?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Oct 28 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Data Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/68ccf8745954791a1d702127?utm_campaign=1066&utm_source=git)** | Westerville, OH | On Site | Oct 28 |
 | **[KCI](http://www.kci.com/)** | **[Survey Intern](https://jobright.ai/jobs/info/68c8c17c95f5211cd2ce9171?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Oct 28 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - OPIS Data Analyst Intern](https://jobright.ai/jobs/info/68e47a841852e62f00806593?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Oct 28 |
 | **[CAS](http://www.cas.org)** | **[CAS 2026 Data Scientist Summer Intern](https://jobright.ai/jobs/info/68e41b24b99ec3563b0e5fc6?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Oct 28 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - OPIS Data Analyst Intern](https://jobright.ai/jobs/info/68e47a491852e62f00806560?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Oct 28 |
 | **[Duolingo](https://www.duolingo.com)** | **[Data Scientist, Intern](https://jobright.ai/jobs/info/68cd9554e23def7af55bc260?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Oct 28 |
 | ↳ | **[Data Scientist Intern (PhD or Masters)](https://jobright.ai/jobs/info/68cd82a71ad6b16f0289aa91?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Oct 28 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cd3993b2a74e1837ed4102?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Oct 28 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Data Science](https://jobright.ai/jobs/info/68fcca5ae0c73b3a1118fae9?utm_campaign=1066&utm_source=git)** | Maryland Heights, MO | On Site | Oct 28 |
 | ↳ | **[2026 Summer Intern: Data Science](https://jobright.ai/jobs/info/68ffc7b6e0c73b3a1119e3c6?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Oct 28 |
 | ↳ | **[2026 Summer Intern: Data & Infrastructure Solutions (DIS) - Data Governance](https://jobright.ai/jobs/info/68fc59524129dd33cd13b5cd?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Oct 28 |
-| ↳ | **[2026 Summer Intern: Associate Data & Reporting Analyst](https://jobright.ai/jobs/info/68fcd28b0ab3b2224629faba?utm_campaign=1066&utm_source=git)** | Englewood, CO | On Site | Oct 28 |
-| **[University Center for Academic Excellence at UNC Charlotte](https://ucae.uncc.edu/)** | **[Postdoctoral Researcher](https://jobright.ai/jobs/info/690082c0e0c73b3a111a5741?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Oct 28 |
-| **[Independence Blue Cross](https://www.ibx.com)** | **[Summer Intern - Risk Analytics](https://jobright.ai/jobs/info/69007262e04ac838fb5c1f94?utm_campaign=1066&utm_source=git)** | Philadelphia, Pennsylvania | On Site | Oct 28 |
-| **[University Center for Academic Excellence at UNC Charlotte](https://ucae.uncc.edu/)** | **[Postdoctoral Fellow - Bioinformatics](https://jobright.ai/jobs/info/69008c6e0ab3b222462b54e4?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Oct 28 |
-| **[Southeast Toyota Finance](https://www.setf.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/69006f62e04ac838fb5c1de4?utm_campaign=1066&utm_source=git)** | Miami-FTL Area | Hybrid | Oct 28 |
-| **[The MJ Companies](https://www.mjinsurance.com)** | **[EB Analytics Intern](https://jobright.ai/jobs/info/68b9ca886105227d11897c6e?utm_campaign=1066&utm_source=git)** | Carmel, Indiana, United States | On Site | Oct 28 |
-| **[JM&A Group](https://www.jmagroup.com/)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/69006979e04ac838fb5c1be9?utm_campaign=1066&utm_source=git)** | Miami-FTL Area | On Site | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
