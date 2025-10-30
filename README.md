@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atlantic Health](http://www.atlantichealth.org)** | **[Ambulatory Analyst Intern](https://jobright.ai/jobs/info/6903d56dd64a22104aa93b02?utm_campaign=1066&utm_source=git)** | 465 South Street, Morristown, NJ, 07960, US | On Site | Oct 30 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Enterprise Reference Data Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6903d52263502c0aded6d12c?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Oct 30 |
+| **[Atlantic Health](http://www.atlantichealth.org)** | **[Ambulatory Analyst Intern](https://jobright.ai/jobs/info/6903d42263502c0aded6cfcd?utm_campaign=1066&utm_source=git)** | 465 South Street, Morristown, NJ, 07960, US | On Site | Oct 30 |
+| **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Project Data Analyst Co-op](https://jobright.ai/jobs/info/6903d420d64a22104aa9394f?utm_campaign=1066&utm_source=git)** | Ripon, WI | On Site | Oct 30 |
+| **[Nebraska Department of Health and Human Services](http://dhhs.ne.gov/)** | **[Masters-Level Epidemiology Internship (Jan 2026 – Jan 2027)](https://jobright.ai/jobs/info/6903cdf1d64a22104aa9351b?utm_campaign=1066&utm_source=git)** | Lincoln, NE | Hybrid | Oct 30 |
+| **[Maxterial, Inc.](https://www.maxterial.com)** | **[Internship in Statistics (Graduate Students)](https://jobright.ai/jobs/info/6903cc8b63502c0aded6c9d6?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 30 |
+| **[Conexant](http://www.conexant.com/)** | **[Data & Analytics Internship 2026a](https://jobright.ai/jobs/info/6903c94eff462851fefeec2e?utm_campaign=1066&utm_source=git)** | Moline, IL | Hybrid | Oct 30 |
 | **[Death Penalty Information Center](http://www.deathpenaltyinfo.org)** | **[Spring 2026 Research and Data Intern](https://jobright.ai/jobs/info/6903be44d64a22104aa92669?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Oct 30 |
-| **[Canaria](https://www.decanaria.com/)** | **[Data Scientist  Intern - QA](https://jobright.ai/jobs/info/6903bb9463502c0aded6baad?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 30 |
 | **[Northwest Bank](https://www.northwest.bank)** | **[Quantitative Intern](https://jobright.ai/jobs/info/6903bb4863502c0aded6ba5b?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Oct 30 |
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Data Analyst (Spring)](https://jobright.ai/jobs/info/6903bb1dd64a22104aa923cf?utm_campaign=1066&utm_source=git)** | Brookings, SD | On Site | Oct 30 |
 | **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Risk Analytics Intern](https://jobright.ai/jobs/info/6903b6fb63502c0aded6b66c?utm_campaign=1066&utm_source=git)** | Juno Beach, FL | On Site | Oct 30 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Intern- Data Analytics -Spring 2026](https://jobright.ai/jobs/info/68e94a0a9020b95add6a5794?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 29 |
 | **[Meta](https://www.meta.com)** | **[Research Scientist Intern, Product Algorithms (PhD)](https://jobright.ai/jobs/info/68e6553eae2b894b1d719d13?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Oct 29 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/68e5de2cae2b894b1d71470a?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Oct 29 |
-| **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6901f00e98707b2b0fe6ba4d?utm_campaign=1066&utm_source=git)** | South Sioux City, NE | On Site | Oct 29 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cc229b128dc347fd91f9d2?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Oct 29 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Data Science Intern Summer 2026](https://jobright.ai/jobs/info/68e58e8aae2b894b1d71101f?utm_campaign=1066&utm_source=git)** | Cranberry Township, PA | Hybrid | Oct 29 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/68e5de76ae2b894b1d71479e?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Oct 29 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/68e5445bb99ec3563b0f217e?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Oct 29 |
-| **[Rockstar Games](https://www.rockstargames.com/)** | **[Intern: Data Analytics / Data Science (Summer 2026)](https://jobright.ai/jobs/info/6901d2fad5259a1b3cff81e3?utm_campaign=1066&utm_source=git)** | Manhattan, New York, United States | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
