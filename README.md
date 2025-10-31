@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: US Medical Affairs Oncology – Digital Innovation in Evidence Generation Intern](https://jobright.ai/jobs/info/69044d85ff462851feff49d9?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Oct 30 |
+| **[Quota's](https://www.linkedin.com/company/109363021)** | **[Research Intern (College Students)](https://jobright.ai/jobs/info/6904471a63502c0aded72233?utm_campaign=1066&utm_source=git)** | New York, United States | Remote | Oct 30 |
+| **[Crest Vale](crestvale.us)** | **[Analytics Intern](https://jobright.ai/jobs/info/6904459bff462851feff46ab?utm_campaign=1066&utm_source=git)** | Ada, MI | Remote | Oct 30 |
+| **[Takeda](http://www.takeda.com)** | **[2026 U.S Summer Internship Program: Data Scientist Computational Biology Intern](https://jobright.ai/jobs/info/6904419363502c0aded71fa9?utm_campaign=1066&utm_source=git)** | USA - MA - Cambridge - Binney St | Remote | Oct 30 |
+| **[Stifel Financial Corp.](http://www.stifel.com)** | **[Data Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/69043c9fd64a22104aa98637?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Oct 30 |
 | **[Allianz Life](http://www.allianzlife.com)** | **[Summer 2026 Graduate Data Science Internship / Hybrid](https://jobright.ai/jobs/info/690430c5d64a22104aa97ee3?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 30 |
 | **[Wolfspeed](http://www.wolfspeed.com/)** | **[Operations Reporting Intern](https://jobright.ai/jobs/info/69042a1cd64a22104aa97ae5?utm_campaign=1066&utm_source=git)** | Marcy, NY | On Site | Oct 30 |
 | **[First Solar](http://www.firstsolar.com)** | **[Data Science Intern (Spring 2026)](https://jobright.ai/jobs/info/68f69b9c76a51a4307bdc2f7?utm_campaign=1066&utm_source=git)** | Perrysburg, OH | On Site | Oct 30 |
@@ -126,11 +131,11 @@ For a complete list, click the following sortable link below:
 | **[KCC Capital Partners](kcccapitalpartners.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6902af7fff462851fefe5b8d?utm_campaign=1066&utm_source=git)** | California, United States | On Site | Oct 29 |
 | **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[Vertex Summer 2026 Intern, Clinical Science](https://jobright.ai/jobs/info/6902ae7bff462851fefe5b02?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Oct 29 |
 | **[Bayer](https://www.bayer.com)** | **[Statistician Intern](https://jobright.ai/jobs/info/6902ac1900a1816c41ea09cd?utm_campaign=1066&utm_source=git)** | Whippany, NJ | On Site | Oct 29 |
-| **[Zoetis](https://www.zoetis.com)** | **[‘Omics Biomarker Discover Intern](https://jobright.ai/jobs/info/6902a38e98707b2b0fe71c75?utm_campaign=1066&utm_source=git)** | Fort Collins | On Site | Oct 29 |
-| ↳ | **[‘Omics Biomarker Discover Intern](https://jobright.ai/jobs/info/69029a92ff462851fefe52e7?utm_campaign=1066&utm_source=git)** | Fort Collins | On Site | Oct 29 |
+| **[Zoetis](https://www.zoetis.com)** | **[‘Omics Biomarker Discover Intern](https://jobright.ai/jobs/info/69029a92ff462851fefe52e7?utm_campaign=1066&utm_source=git)** | Fort Collins | On Site | Oct 29 |
+| ↳ | **[‘Omics Biomarker Discover Intern](https://jobright.ai/jobs/info/69029a7400a1816c41ea0223?utm_campaign=1066&utm_source=git)** | Fort Collins | On Site | Oct 29 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/690299f198707b2b0fe71765?utm_campaign=1066&utm_source=git)** | Cranberry Township, PA | Remote | Oct 29 |
 | **[Milliman](http://www.milliman.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/690298b998707b2b0fe71667?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Oct 29 |
-| **[Vertex](tryvertex.co)** | **[Vertex Summer 2026 Intern, Clinical Science](https://jobright.ai/jobs/info/6902954698707b2b0fe714f1?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Oct 29 |
+| **[Vertex](tryvertex.co)** | **[Vertex Summer 2026 Intern, Clinical Science](https://jobright.ai/jobs/info/690296ca00a1816c41e9fff6?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Oct 29 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6902915a00a1816c41e9fc63?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Oct 29 |
 | **[Amtrak](https://www.amtrak.com/)** | **[Spring & Summer 2026 - Database Analyst Co-op - 90395747 - Washington](https://jobright.ai/jobs/info/68e39e9e1852e62f007fd0f2?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Oct 29 |
 | **[HiveWatch](https://www.hivewatch.com)** | **[AI Data Labeling Intern](https://jobright.ai/jobs/info/69028421ff462851fefe4201?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Oct 29 |
@@ -141,20 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69024b0800a1816c41e9ca38?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Oct 29 |
 | **[Skookum](https://tessera.org)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6902436e98707b2b0fe6d96a?utm_campaign=1066&utm_source=git)** | Bremerton, Washington | On Site | Oct 29 |
 | **[Selective Insurance](https://www.selective.com/)** | **[IT Information Management Summer Internship – Charlotte, NC (Hybrid)](https://jobright.ai/jobs/info/68cd5fc3e23def7af55b928e?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Oct 29 |
-| **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern - Data Analysis](https://jobright.ai/jobs/info/68fddf770ab3b222462a5247?utm_campaign=1066&utm_source=git)** | Aiken, SC | On Site | Oct 29 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6902355bff462851fefe0cf5?utm_campaign=1066&utm_source=git)** | Cranberry Township, PA | Remote | Oct 29 |
 | **[Pacific Life](http://www.pacificlife.com/)** | **[Summer 2026 Data Analytics Internship Program](https://jobright.ai/jobs/info/68e5aaa6ae2b894b1d712771?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Oct 29 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/68cd83eab2a74e1837ed810d?utm_campaign=1066&utm_source=git)** | Irving, TX | Remote | Oct 29 |
 | ↳ | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/68c9a744f9c6ff7aedf1bf42?utm_campaign=1066&utm_source=git)** | Chicago, IL | Remote | Oct 29 |
 | **[BCG X](https://www.bcg.com/x)** | **[Data Scientist, Internship, Campus, United States - BCG X](https://jobright.ai/jobs/info/68e581a6b99ec3563b0f5a69?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 29 |
+| **[Savannah River Nuclear Solutions](http://www.savannahrivernuclearsolutions.com)** | **[LSE Student Intern - Data Analysis](https://jobright.ai/jobs/info/68fddf770ab3b222462a5247?utm_campaign=1066&utm_source=git)** | Aiken, SC | On Site | Oct 29 |
 | **[PEAK](https://peakgenetics.com)** | **[PEAK Research and Development Internship - Wisconsin](https://jobright.ai/jobs/info/68c87f12983e6768bc54e475?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Oct 29 |
 | **[BCG X](https://www.bcg.com/x)** | **[Data Scientist, Internship, Campus, United States - BCG X](https://jobright.ai/jobs/info/68e580bf1852e62f008111e1?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Oct 29 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Statistical Science Intern](https://jobright.ai/jobs/info/68ec72fad4b0106e703e7f4f?utm_campaign=1066&utm_source=git)** | Morrisville, NC | On Site | Oct 29 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68e57223ae2b894b1d70f2a1?utm_campaign=1066&utm_source=git)** | Westfield Center, OH | Hybrid | Oct 29 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/68cfde05846f0b04af685988?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Oct 29 |
-| **[BCG X](https://www.bcg.com/x)** | **[Data Scientist, Internship, Campus, United States - BCG X](https://jobright.ai/jobs/info/68e57fc9ae2b894b1d7100d6?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Oct 29 |
-| ↳ | **[Data Scientist, Internship, Campus, United States - BCG X](https://jobright.ai/jobs/info/68e58018b99ec3563b0f580a?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Oct 29 |
-| **[Vertiv](https://www.Vertiv.com)** | **[Data Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac999bd627244576e47224?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Oct 29 |
-| **[Battelle](http://www.battelle.org)** | **[Data Science Co-Op (Spring-Summer 2026)](https://jobright.ai/jobs/info/68e5c4e81852e62f008143de?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Oct 29 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/68e53821b99ec3563b0f18b3?utm_campaign=1066&utm_source=git)** | Florham Park, NJ | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
