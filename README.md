@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Pharmacometrics Intern (PhD)](https://jobright.ai/jobs/info/68cd9f9fb2a74e1837ed9f13?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Nov 01 |
+| **[Quantbot Technologies LP](https://www.quantbot.com)** | **[Quantitative Researcher Internship - 2026 [Miami]](https://jobright.ai/jobs/info/68d501242ed36439e51e4157?utm_campaign=1066&utm_source=git)** | Miami | On Site | Nov 01 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Business Insights Analyst II](https://jobright.ai/jobs/info/68b0eaffb47fb001d689668d?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Nov 01 |
 | **[Precision Castparts](http://precast.com)** | **[Data Analysis Co-op](https://jobright.ai/jobs/info/68e99e4a65768b6412b1e1c3?utm_campaign=1066&utm_source=git)** | Gardena, CA | On Site | Nov 01 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Development (Quant Research) PhD Internship – Summer 2026](https://jobright.ai/jobs/info/68cb80ff9e3a822f5d2474e5?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 01 |
@@ -74,11 +76,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/69057b5a63502c0aded7b74d?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Oct 31 |
 | ↳ | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/690578e263502c0aded7b5c8?utm_campaign=1066&utm_source=git)** | Westford, MA | On Site | Oct 31 |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern – Delivery Operations and Analytics](https://jobright.ai/jobs/info/690573ce122e8474c78d90d6?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Oct 31 |
-| **[NAPA Auto Parts](http://napaonline.com)** | **[Supply Chain Transportation Solutions Intern Summer 2026](https://jobright.ai/jobs/info/69056c76122e8474c78d8db9?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
+| **[NAPA Auto Parts](https://www.napacanada.com/en/qc/la-baie/store/1007230)** | **[Supply Chain Transportation Solutions Intern Summer 2026](https://jobright.ai/jobs/info/69056c76122e8474c78d8db9?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Wealth Data Analytics Intern, Summer 2026](https://jobright.ai/jobs/info/69056a4bff462851feffd42e?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 31 |
-| **[B Generous](http://www.bgenerous.com)** | **[Data Analytics and Product Intern](https://jobright.ai/jobs/info/6905491a63502c0aded7a2cc?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 31 |
 | **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689adfcd83d13d1f5b69d54b?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Oct 31 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Oct 31 |
+| **[B Generous](http://www.bgenerous.com)** | **[Data Analytics and Product Intern](https://jobright.ai/jobs/info/6905491a63502c0aded7a2cc?utm_campaign=1066&utm_source=git)** | United States | Remote | Oct 31 |
 | **[Takeda](http://www.takeda.com)** | **[2026 U.S. Summer Internship Program: Data Engineering & AI Intern](https://jobright.ai/jobs/info/690532ffff462851feffbaca?utm_campaign=1066&utm_source=git)** | USA - MA - Cambridge - Kendall Square - 500 | On Site | Oct 31 |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern – Delivery Operations and Analytics](https://jobright.ai/jobs/info/690537c4ff462851feffbf21?utm_campaign=1066&utm_source=git)** | Irving, TX 75062 Vizient Corporate HQ | On Site | Oct 31 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6905370b63502c0aded7991a?utm_campaign=1066&utm_source=git)** | Oshkosh, WI | On Site | Oct 31 |
@@ -140,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Ambulatory Analyst Intern](https://jobright.ai/jobs/info/690406b9ff462851feff1f3a?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Oct 30 |
 | **[Trucker Path](https://truckerpath.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6904193763502c0aded7052a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 30 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Data Analytics Intern](https://jobright.ai/jobs/info/690415a0ff462851feff2803?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Oct 30 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 – Risk Data & Analytics Intern](https://jobright.ai/jobs/info/690429a8ff462851feff3809?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Oct 30 |
-| ↳ | **[Summer 2026 – Risk Data & Analytics Intern](https://jobright.ai/jobs/info/69041a43d64a22104aa96ef2?utm_campaign=1066&utm_source=git)** | North Carolina | Hybrid | Oct 30 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 – Risk Data & Analytics Intern](https://jobright.ai/jobs/info/69041a43d64a22104aa96ef2?utm_campaign=1066&utm_source=git)** | North Carolina | Hybrid | Oct 30 |
+| ↳ | **[Summer 2026 – Risk Data & Analytics Intern](https://jobright.ai/jobs/info/690429a8ff462851feff3809?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Oct 30 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Ambulatory Analyst Intern](https://jobright.ai/jobs/info/6903d56dd64a22104aa93b02?utm_campaign=1066&utm_source=git)** | 465 South Street, Morristown, NJ, 07960, US | On Site | Oct 30 |
 | ↳ | **[Ambulatory Analyst Intern](https://jobright.ai/jobs/info/6903d42263502c0aded6cfcd?utm_campaign=1066&utm_source=git)** | 465 South Street, Morristown, NJ, 07960, US | On Site | Oct 30 |
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Project Data Analyst Co-op](https://jobright.ai/jobs/info/6903d420d64a22104aa9394f?utm_campaign=1066&utm_source=git)** | Ripon, WI | On Site | Oct 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enova International](http://www.enova.com)** | **[Business Intelligence Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/6903aaed63502c0aded6ae8a?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Oct 30 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Masters-Level Epidemiology Internship (Jan 2026 – Jan 2027)](https://jobright.ai/jobs/info/6903a407ff462851fefecfe6?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Oct 30 |
 | **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/68d787d2267b154f9a2dbaad?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Oct 30 |
-| **[Amgen](http://www.amgen.com)** | **[Computational Biology Grad Intern](https://jobright.ai/jobs/info/69038ab0d64a22104aa903b0?utm_campaign=1066&utm_source=git)** | US - California - South San Francisco | Hybrid | Oct 30 |
-| **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Data Scientist/Statistician Intern (MS/PhD)](https://jobright.ai/jobs/info/68ce66a5846f0b04af679720?utm_campaign=1066&utm_source=git)** | Wickliffe, OH | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
