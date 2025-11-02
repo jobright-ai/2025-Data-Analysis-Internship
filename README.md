@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Ambulatory Analyst Intern](https://jobright.ai/jobs/info/690406b9ff462851feff1f3a?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Oct 30 |
 | **[Trucker Path](https://truckerpath.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6904193763502c0aded7052a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 30 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Data Analytics Intern](https://jobright.ai/jobs/info/690415a0ff462851feff2803?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Oct 30 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 – Risk Data & Analytics Intern](https://jobright.ai/jobs/info/69041a43d64a22104aa96ef2?utm_campaign=1066&utm_source=git)** | North Carolina | Hybrid | Oct 30 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 – Risk Data & Analytics Intern](https://jobright.ai/jobs/info/690429a8ff462851feff3809?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
