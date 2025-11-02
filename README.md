@@ -86,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Internship - Customer Quality Data Analyst](https://jobright.ai/jobs/info/6905e708122e8474c78dcdba?utm_campaign=1066&utm_source=git)** | Location, WV | On Site | Nov 01 |
 | **[PNC](http://www.pnc.com)** | **[Quantitative Analytics Undergraduate Intern](https://jobright.ai/jobs/info/6905c2f363502c0aded7dcf3?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Nov 01 |
 | **[Takeda](http://www.takeda.com)** | **[2026 U.S. Summer Internship Program: Data Engineering & AI Intern](https://jobright.ai/jobs/info/69058dae122e8474c78da073?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Oct 31 |
-| **[Optimum](http://www.optimum.com)** | **[Intern](https://jobright.ai/jobs/info/69057decff462851feffdf9b?utm_campaign=1066&utm_source=git)** | Bethpage, NY | On Site | Oct 31 |
 | **[NVIDIA](https://www.nvidia.com)** | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/69057baa122e8474c78d95c5?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Oct 31 |
 | ↳ | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/69057b5a63502c0aded7b74d?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Oct 31 |
 | ↳ | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/690578e263502c0aded7b5c8?utm_campaign=1066&utm_source=git)** | Westford, MA | On Site | Oct 31 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Ambulatory Analyst Intern](https://jobright.ai/jobs/info/690406b9ff462851feff1f3a?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Oct 30 |
 | **[Trucker Path](https://truckerpath.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6904193763502c0aded7052a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 30 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Data Analytics Intern](https://jobright.ai/jobs/info/690415a0ff462851feff2803?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Oct 30 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 – Risk Data & Analytics Intern](https://jobright.ai/jobs/info/69041a43d64a22104aa96ef2?utm_campaign=1066&utm_source=git)** | North Carolina | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
