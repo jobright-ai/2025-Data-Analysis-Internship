@@ -150,11 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Ambulatory Analyst Intern](https://jobright.ai/jobs/info/690406b9ff462851feff1f3a?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Oct 30 |
 | **[Trucker Path](https://truckerpath.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6904193763502c0aded7052a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 30 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Data Analytics Intern](https://jobright.ai/jobs/info/690415a0ff462851feff2803?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Oct 30 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 – Risk Data & Analytics Intern](https://jobright.ai/jobs/info/690429a8ff462851feff3809?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Oct 30 |
-| ↳ | **[Summer 2026 – Risk Data & Analytics Intern](https://jobright.ai/jobs/info/69041a43d64a22104aa96ef2?utm_campaign=1066&utm_source=git)** | North Carolina | Hybrid | Oct 30 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 – Risk Data & Analytics Intern](https://jobright.ai/jobs/info/69041a43d64a22104aa96ef2?utm_campaign=1066&utm_source=git)** | North Carolina | Hybrid | Oct 30 |
+| ↳ | **[Summer 2026 – Risk Data & Analytics Intern](https://jobright.ai/jobs/info/690429a8ff462851feff3809?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Oct 30 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69068141122e8474c78e02d5?utm_campaign=1066&utm_source=git)** | Research Park, CA | On Site | Oct 30 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Ambulatory Analyst Intern](https://jobright.ai/jobs/info/6903d56dd64a22104aa93b02?utm_campaign=1066&utm_source=git)** | 465 South Street, Morristown, NJ, 07960, US | On Site | Oct 30 |
 | ↳ | **[Ambulatory Analyst Intern](https://jobright.ai/jobs/info/6903d42263502c0aded6cfcd?utm_campaign=1066&utm_source=git)** | 465 South Street, Morristown, NJ, 07960, US | On Site | Oct 30 |
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Project Data Analyst Co-op](https://jobright.ai/jobs/info/6903d420d64a22104aa9394f?utm_campaign=1066&utm_source=git)** | Ripon, WI | On Site | Oct 30 |
-| **[Nebraska Department of Health and Human Services](http://dhhs.ne.gov/)** | **[Masters-Level Epidemiology Internship (Jan 2026 – Jan 2027)](https://jobright.ai/jobs/info/6903cdf1d64a22104aa9351b?utm_campaign=1066&utm_source=git)** | Lincoln, NE | Hybrid | Oct 30 |
+| **[Northwest Bank](https://www.northwest.bank)** | **[Quantitative Intern](https://jobright.ai/jobs/info/6903f030d64a22104aa950e8?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
