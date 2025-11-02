@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – Data Analyst Intern](https://jobright.ai/jobs/info/68ef4b83de50091dbfa4cb63?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
+| **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Clinical Informaticist – General Internal Medicine](https://jobright.ai/jobs/info/68c62de1db52c07d28844c62?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Nov 02 |
+| **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6878882fae2f413e4a5c3b21?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Nov 02 |
 | **[Medpace](http://www.medpace.com)** | **[Business Intelligence Internship - Spring 2026](https://jobright.ai/jobs/info/68de368809bda65a4b627d4d?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 02 |
 | **[Red Hat](http://www.redhat.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68ccd86977add66568aba45d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[NSIP Masters Intern - Artificial Intelligence & Data Analytics](https://jobright.ai/jobs/info/6906ce07122e8474c78e0f5d?utm_campaign=1066&utm_source=git)** | Richland, WA | Hybrid | Nov 01 |
@@ -92,7 +95,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/69057b5a63502c0aded7b74d?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Oct 31 |
 | ↳ | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/690578e263502c0aded7b5c8?utm_campaign=1066&utm_source=git)** | Westford, MA | On Site | Oct 31 |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern – Delivery Operations and Analytics](https://jobright.ai/jobs/info/690573ce122e8474c78d90d6?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Oct 31 |
-| **[NAPA Auto Parts](https://www.napacanada.com/en/qc/la-baie/store/1007230)** | **[Supply Chain Transportation Solutions Intern Summer 2026](https://jobright.ai/jobs/info/69056c76122e8474c78d8db9?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
+| **[NAPA Auto Parts](https://napaprolink.com/)** | **[Supply Chain Transportation Solutions Intern Summer 2026](https://jobright.ai/jobs/info/69056c76122e8474c78d8db9?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Wealth Data Analytics Intern, Summer 2026](https://jobright.ai/jobs/info/69056a4bff462851feffd42e?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 31 |
 | **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689adfcd83d13d1f5b69d54b?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Oct 31 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Oct 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NVIDIA](https://www.nvidia.com)** | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/6904287063502c0aded710b8?utm_campaign=1066&utm_source=git)** | US, MA, Westford | On Site | Oct 30 |
 | ↳ | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/690420a1d64a22104aa97322?utm_campaign=1066&utm_source=git)** | US, NC, Durham | On Site | Oct 30 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[IT Data Scientist Intern](https://jobright.ai/jobs/info/6906c95fff462851fe0055b4?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Oct 30 |
-| **[NVIDIA](https://www.nvidia.com)** | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/69041e23ff462851feff2ed2?utm_campaign=1066&utm_source=git)** | US, CA, Santa Clara | On Site | Oct 30 |
-| **[Atlantic Health](http://www.atlantichealth.org)** | **[Ambulatory Analyst Intern](https://jobright.ai/jobs/info/690406b9ff462851feff1f3a?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Oct 30 |
-| **[Trucker Path](https://truckerpath.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6904193763502c0aded7052a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
