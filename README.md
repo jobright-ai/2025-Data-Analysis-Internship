@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/68cd949db2a74e1837ed8ffa?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Nov 02 |
+| ↳ | **[Quant Trading Intern 2026](https://jobright.ai/jobs/info/68cd9dfae23def7af55bcd43?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Nov 02 |
+| **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/68cdb244b2a74e1837edb33c?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Nov 02 |
+| **[Henkel](http://www.henkel.com)** | **[Information Technology & Data Analytics Intern – Summer 2026](https://jobright.ai/jobs/info/68cb9975efdec76df36bf49d?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Nov 02 |
+| **[SportsID, Inc. ](http://sportsid.io)** | **[Data Analyst Intern Associate](https://jobright.ai/jobs/info/690771cf122e8474c78e5021?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 02 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Communications Analytics & Insights Internship (Undergraduate)](https://jobright.ai/jobs/info/69076e1663502c0aded86fb4?utm_campaign=1066&utm_source=git)** | Woonsocket, RI | Hybrid | Nov 02 |
+| **[Technip Energies](https://www.ten.com/)** | **[Future Opportunity - Data Science-Programming Intern (Summer 2026)](https://jobright.ai/jobs/info/68f49e499a63986de7576ccd?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Nov 02 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – Data Analyst Intern](https://jobright.ai/jobs/info/68ef4b83de50091dbfa4cb63?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
 | **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Clinical Informaticist – General Internal Medicine](https://jobright.ai/jobs/info/68c62de1db52c07d28844c62?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Nov 02 |
 | **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6878882fae2f413e4a5c3b21?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Nov 02 |
@@ -91,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Internship - Customer Quality Data Analyst](https://jobright.ai/jobs/info/6905e708122e8474c78dcdba?utm_campaign=1066&utm_source=git)** | Location, WV | On Site | Nov 01 |
 | **[PNC](http://www.pnc.com)** | **[Quantitative Analytics Undergraduate Intern](https://jobright.ai/jobs/info/6905c2f363502c0aded7dcf3?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Nov 01 |
 | **[Takeda](http://www.takeda.com)** | **[2026 U.S. Summer Internship Program: Data Engineering & AI Intern](https://jobright.ai/jobs/info/69058dae122e8474c78da073?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Oct 31 |
+| **[Optimum](http://www.optimum.com)** | **[Intern](https://jobright.ai/jobs/info/69057decff462851feffdf9b?utm_campaign=1066&utm_source=git)** | Bethpage, NY | On Site | Oct 31 |
 | **[NVIDIA](https://www.nvidia.com)** | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/69057baa122e8474c78d95c5?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Oct 31 |
 | ↳ | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/69057b5a63502c0aded7b74d?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Oct 31 |
 | ↳ | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/690578e263502c0aded7b5c8?utm_campaign=1066&utm_source=git)** | Westford, MA | On Site | Oct 31 |
@@ -142,19 +150,11 @@ For a complete list, click the following sortable link below:
 | **[American Equity](http://www.american-equity.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68cd926be23def7af55bbcd0?utm_campaign=1066&utm_source=git)** | West Des Moines, IA | On Site | Oct 31 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Data Science](https://jobright.ai/jobs/info/6905eb5e122e8474c78dd047?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Oct 31 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - TPG Global IE](https://jobright.ai/jobs/info/68cd29d1e23def7af55b6432?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Oct 31 |
-| **[IBM](http://www.ibm.com)** | **[2026 Senior Data Scientist Intern - Corporate Development (M&A)](https://jobright.ai/jobs/info/68fee2760ab3b222462a7c85?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Oct 31 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Commercial Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68cfacad846f0b04af68434a?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Oct 31 |
 | **[InterWorks](http://www.interworks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68ca281af61c922772a73738?utm_campaign=1066&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Oct 31 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Oct 31 |
 | **[Cencora](http://www.cencora.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/6904a59d122e8474c78d24f0?utm_campaign=1066&utm_source=git)** | Carrollton, TX | On Site | Oct 31 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Data Catalog Maintenance Intern](https://jobright.ai/jobs/info/69048d95ff462851feff6241?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Oct 31 |
 | **[Takeda](http://www.takeda.com)** | **[2026 U.S Summer Internship Program: Cell Line Development Data Science Intern](https://jobright.ai/jobs/info/6904552a63502c0aded7266c?utm_campaign=1066&utm_source=git)** | USA - MA - Cambridge - Binney St | Hybrid | Oct 30 |
 | ↳ | **[2026 Summer Internship Program: US Medical Affairs Oncology – Digital Innovation in Evidence Generation Intern](https://jobright.ai/jobs/info/69044d85ff462851feff49d9?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Oct 30 |
 | ↳ | **[2026 U.S Summer Internship Program: Data Scientist Computational Biology Intern](https://jobright.ai/jobs/info/6904419363502c0aded71fa9?utm_campaign=1066&utm_source=git)** | USA - MA - Cambridge - Binney St | Remote | Oct 30 |
-| **[Allianz Life](http://www.allianzlife.com)** | **[Summer 2026 Graduate Data Science Internship / Hybrid](https://jobright.ai/jobs/info/690430c5d64a22104aa97ee3?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 30 |
-| **[Wolfspeed](http://www.wolfspeed.com/)** | **[Operations Reporting Intern](https://jobright.ai/jobs/info/69042a1cd64a22104aa97ae5?utm_campaign=1066&utm_source=git)** | Marcy, NY | On Site | Oct 30 |
-| **[First Solar](http://www.firstsolar.com)** | **[Data Science Intern (Spring 2026)](https://jobright.ai/jobs/info/68f69b9c76a51a4307bdc2f7?utm_campaign=1066&utm_source=git)** | Perrysburg, OH | On Site | Oct 30 |
-| **[NVIDIA](https://www.nvidia.com)** | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/6904287063502c0aded710b8?utm_campaign=1066&utm_source=git)** | US, MA, Westford | On Site | Oct 30 |
-| ↳ | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/690420a1d64a22104aa97322?utm_campaign=1066&utm_source=git)** | US, NC, Durham | On Site | Oct 30 |
-| **[Americold Logistics, LLC.](http://americold.com)** | **[IT Data Scientist Intern](https://jobright.ai/jobs/info/6906c95fff462851fe0055b4?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
