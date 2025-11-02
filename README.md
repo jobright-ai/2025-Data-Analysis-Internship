@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medpace](http://www.medpace.com)** | **[Business Intelligence Internship - Spring 2026](https://jobright.ai/jobs/info/68de368809bda65a4b627d4d?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 02 |
+| **[Red Hat](http://www.redhat.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68ccd86977add66568aba45d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[NSIP Masters Intern - Artificial Intelligence & Data Analytics](https://jobright.ai/jobs/info/6906ce07122e8474c78e0f5d?utm_campaign=1066&utm_source=git)** | Richland, WA | Hybrid | Nov 01 |
 | ↳ | **[NSIP PhD Intern - Artificial Intelligence & Data Analytics](https://jobright.ai/jobs/info/6906ca22122e8474c78e0e5d?utm_campaign=1066&utm_source=git)** | Richland, WA | Hybrid | Nov 01 |
 | ↳ | **[NSIP PhD Intern - Artificial Intelligence & Data Analytics](https://jobright.ai/jobs/info/6906c9aeff462851fe0055e3?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Nov 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NVIDIA](https://www.nvidia.com)** | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/69041e23ff462851feff2ed2?utm_campaign=1066&utm_source=git)** | US, CA, Santa Clara | On Site | Oct 30 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Ambulatory Analyst Intern](https://jobright.ai/jobs/info/690406b9ff462851feff1f3a?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Oct 30 |
 | **[Trucker Path](https://truckerpath.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6904193763502c0aded7052a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Oct 30 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Data Analytics Intern](https://jobright.ai/jobs/info/690415a0ff462851feff2803?utm_campaign=1066&utm_source=git)** | Longwood,FL,US | On Site | Oct 30 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 – Risk Data & Analytics Intern](https://jobright.ai/jobs/info/690429a8ff462851feff3809?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
