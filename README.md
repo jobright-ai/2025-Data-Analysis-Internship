@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quanta Ventures Fund](https://www.quantaventures.ai)** | **[Quant Winter Internship for A.I. Focused Hedge Fund (Ex DRW, Millennium, CTC)](https://jobright.ai/jobs/info/6907a323122e8474c78e5ddd?utm_campaign=1066&utm_source=git)** | Greater Tampa Bay Area | Hybrid | Nov 02 |
 | **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Data Analyst Intern 2026](https://jobright.ai/jobs/info/68cdaf6ee23def7af55be00c?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Nov 02 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/68cd949db2a74e1837ed8ffa?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Nov 02 |
 | ↳ | **[Quant Trading Intern 2026](https://jobright.ai/jobs/info/68cd9dfae23def7af55bcd43?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Nov 02 |
 | **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/68cdb244b2a74e1837edb33c?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Nov 02 |
 | **[Henkel](http://www.henkel.com)** | **[Information Technology & Data Analytics Intern – Summer 2026](https://jobright.ai/jobs/info/68cb9975efdec76df36bf49d?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Nov 02 |
-| **[SportsID, Inc. ](http://sportsid.io)** | **[Data Analyst Intern Associate](https://jobright.ai/jobs/info/690771cf122e8474c78e5021?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 02 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Communications Analytics & Insights Internship (Undergraduate)](https://jobright.ai/jobs/info/69076e1663502c0aded86fb4?utm_campaign=1066&utm_source=git)** | Woonsocket, RI | Hybrid | Nov 02 |
 | **[Technip Energies](https://www.ten.com/)** | **[Future Opportunity - Data Science-Programming Intern (Summer 2026)](https://jobright.ai/jobs/info/68f49e499a63986de7576ccd?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Nov 02 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – Data Analyst Intern](https://jobright.ai/jobs/info/68ef4b83de50091dbfa4cb63?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
