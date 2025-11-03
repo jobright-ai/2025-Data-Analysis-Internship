@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 U.S Summer Internship Program: Data Scientist Computational Biology Intern](https://jobright.ai/jobs/info/6908c7d3bcccf20de59d3af2?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Nov 03 |
+| ↳ | **[2026 Summer Internship Program: US Medical Affairs Oncology – Digital Innovation in Evidence](https://jobright.ai/jobs/info/6908c773bcccf20de59d3aae?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 03 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Nov 03 |
+| **[Polaris Inc.](https://www.polaris.com)** | **[Digital & Information Technology - Predictive Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/68b301971ade4306aa63a9c4?utm_campaign=1066&utm_source=git)** | Vermillion, SD | On Site | Nov 03 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 U.S Summer Internship Program: Cell Line Development Data Science Intern](https://jobright.ai/jobs/info/6908c13a4a1b456627af8d43?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Nov 03 |
+| **[Polaris Inc.](https://www.polaris.com)** | **[Digital & Information Technology - Predictive Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/68b301b2bc187f64e1bdf976?utm_campaign=1066&utm_source=git)** | Plymouth, MN | On Site | Nov 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/68ec35798369791ef7828e3d?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 03 |
 | **[ABB](https://global.abb/group/en)** | **[Data & Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/69087f4ed046ab6061ccaf40?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Nov 03 |
 | **[Voyant Photonics](https://voyantphotonics.com/)** | **[Internship, Field Testing & Dataset Creation](https://jobright.ai/jobs/info/690873cf4a1b456627af520f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 03 |
@@ -110,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Data Science Intern](https://jobright.ai/jobs/info/6905d859ff462851fe000e71?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Nov 01 |
 | **[ABB](https://global.abb/group/en)** | **[Internship - Customer Quality Data Analyst](https://jobright.ai/jobs/info/6905e708122e8474c78dcdba?utm_campaign=1066&utm_source=git)** | Location, WV | On Site | Nov 01 |
 | **[Takeda](http://www.takeda.com)** | **[2026 U.S. Summer Internship Program: Data Engineering & AI Intern](https://jobright.ai/jobs/info/69058dae122e8474c78da073?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Oct 31 |
-| **[Optimum](http://www.optimum.com)** | **[Intern](https://jobright.ai/jobs/info/69057decff462851feffdf9b?utm_campaign=1066&utm_source=git)** | Bethpage, NY | On Site | Oct 31 |
 | **[NVIDIA](https://www.nvidia.com)** | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/69057baa122e8474c78d95c5?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Oct 31 |
 | ↳ | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/69057b5a63502c0aded7b74d?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Oct 31 |
 | ↳ | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/690578e263502c0aded7b5c8?utm_campaign=1066&utm_source=git)** | Westford, MA | On Site | Oct 31 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Graco](http://graco.com/in/en/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e85bf209580a2fe57f6ba1?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Oct 31 |
 | **[Siemens](https://www.siemens.com)** | **[IT Data Insights and Project Management Intern](https://jobright.ai/jobs/info/68e7e6c9cc49a84b7e0ff1b5?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | Hybrid | Oct 31 |
 | ↳ | **[Data Analysis Internship- Customer Service (Summer 2026)](https://jobright.ai/jobs/info/68e7f21cc4895107182bff71?utm_campaign=1066&utm_source=git)** | New Castle, DE | On Site | Oct 31 |
-| ↳ | **[Mechanical Data Analyst Internship- Customer Service (Summer 2026)](https://jobright.ai/jobs/info/68e7dee8c4895107182bef72?utm_campaign=1066&utm_source=git)** | Sacramento, CA | On Site | Oct 31 |
-| **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Biostatistics and Programming](https://jobright.ai/jobs/info/68cc84bf7342c7623ae660c7?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Oct 31 |
-| **[DP World](https://www.dpworld.com/)** | **[Logistics Data Analyst Intern](https://jobright.ai/jobs/info/68f320459a65fd34585841df?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Oct 31 |
-| **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Translational Research Intern (Summer 2026)](https://jobright.ai/jobs/info/68e7e4d709580a2fe57f07f0?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Oct 31 |
-| **[American Equity](http://www.american-equity.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68cd926be23def7af55bbcd0?utm_campaign=1066&utm_source=git)** | West Des Moines, IA | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
