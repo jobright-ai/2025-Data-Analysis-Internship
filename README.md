@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/68ec35798369791ef7828e3d?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 03 |
+| **[ABB](https://global.abb/group/en)** | **[Data & Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/69087f4ed046ab6061ccaf40?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Nov 03 |
 | **[Voyant Photonics](https://voyantphotonics.com/)** | **[Internship, Field Testing & Dataset Creation](https://jobright.ai/jobs/info/690873cf4a1b456627af520f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 03 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 03 |
 | **[Haworth](http://www.haworth.com/)** | **[Customer Analytics Intern - Holland, MI (Onsite)](https://jobright.ai/jobs/info/690517a663502c0aded780bc?utm_campaign=1066&utm_source=git)** | Holland, MI | On Site | Nov 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Translational Research Intern (Summer 2026)](https://jobright.ai/jobs/info/68e7e4d709580a2fe57f07f0?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Oct 31 |
 | **[American Equity](http://www.american-equity.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68cd926be23def7af55bbcd0?utm_campaign=1066&utm_source=git)** | West Des Moines, IA | On Site | Oct 31 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Data Science](https://jobright.ai/jobs/info/6905eb5e122e8474c78dd047?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Oct 31 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - TPG Global IE](https://jobright.ai/jobs/info/68cd29d1e23def7af55b6432?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Oct 31 |
-| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Commercial Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68cfacad846f0b04af68434a?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
