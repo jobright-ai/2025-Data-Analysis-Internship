@@ -57,11 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/690a03eb4a1b456627b03d8d?utm_campaign=1066&utm_source=git)** | Washington - Seattle | Hybrid | Nov 04 |
+| **[Battelle](http://www.battelle.org)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/690914c4bcccf20de59d6c79?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Nov 04 |
+| **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Data Governance Intern](https://jobright.ai/jobs/info/6909f486bcccf20de59de337?utm_campaign=1066&utm_source=git)** | St Paul, MN | On Site | Nov 04 |
+| **[Milliman](http://www.milliman.com)** | **[2026 Data Analyst Summer Internship – Minneapolis (Hybrid/Remote)](https://jobright.ai/jobs/info/68d1ac6517554c2d9eede6a2?utm_campaign=1066&utm_source=git)** | Eden Prairie, MN | Hybrid | Nov 04 |
+| **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 04 |
+| **[Genus PLC](http://www.genusplc.com/)** | **[Genetic Data Analytic Intern - Dairy Team](https://jobright.ai/jobs/info/68ed951470b66e2345d3f312?utm_campaign=1066&utm_source=git)** | De Forest, WI | On Site | Nov 04 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68a4e2fa33dd7158bbc95f3c?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 04 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Forecasting Analyst Intern](https://jobright.ai/jobs/info/68d1977f17554c2d9eedd143?utm_campaign=1066&utm_source=git)** | Salisbury, NC | Hybrid | Nov 04 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2026 Spring Intern - MAGNet Program @ University of Georgia](https://jobright.ai/jobs/info/68d1ed88a54edb3bf3e1799d?utm_campaign=1066&utm_source=git)** | Athens, GA | On Site | Nov 04 |
 | **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Data Scientist (Summer 2026)](https://jobright.ai/jobs/info/68f7531e5dc1be601280ca97?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Nov 04 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6909da4bbcccf20de59ddf2f?utm_campaign=1066&utm_source=git)** | Arden Hills, MN | On Site | Nov 04 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[2026 Spring Intern - MAGNet Program @ Arizona State University](https://jobright.ai/jobs/info/68d1ed59a54edb3bf3e17962?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Nov 04 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6909d10a4a1b456627b032f1?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Nov 04 |
 | **[Lima One Capital](https://www.limaone.com/)** | **[Business Intelligence and Development Intern](https://jobright.ai/jobs/info/6909c627d046ab6061cd7d1d?utm_campaign=1066&utm_source=git)** | Greenville, SC | On Site | Nov 04 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern Data Research
@@ -151,11 +158,4 @@ Job ID : 266544](https://jobright.ai/jobs/info/6909be524a1b456627b02bf6?utm_camp
 | **[BioSpace](http://www.biospace.com/)** | **[2026 U.S Summer Internship Program: Cell Line Development Data Science Intern](https://jobright.ai/jobs/info/6908c13a4a1b456627af8d43?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Nov 03 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Digital & Information Technology - Predictive Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/68b301b2bc187f64e1bdf976?utm_campaign=1066&utm_source=git)** | Plymouth, MN | On Site | Nov 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/68ec35798369791ef7828e3d?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 03 |
-| **[ABB](https://global.abb/group/en)** | **[Data & Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/69087f4ed046ab6061ccaf40?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Nov 03 |
-| **[Voyant Photonics](https://voyantphotonics.com/)** | **[Internship, Field Testing & Dataset Creation](https://jobright.ai/jobs/info/690873cf4a1b456627af520f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 03 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 03 |
-| **[Haworth](http://www.haworth.com/)** | **[Customer Analytics Intern - Holland, MI (Onsite)](https://jobright.ai/jobs/info/690517a663502c0aded780bc?utm_campaign=1066&utm_source=git)** | Holland, MI | On Site | Nov 02 |
-| **[Trucker Path](https://truckerpath.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6904193763502c0aded7052a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 02 |
-| **[The MJ Companies](https://www.mjinsurance.com)** | **[EB Analytics Intern](https://jobright.ai/jobs/info/68b8acb05b42bc4562826ec6?utm_campaign=1066&utm_source=git)** | Denver, Colorado, United States, | On Site | Nov 02 |
-| **[Attention Arc](https://attentionarc.com)** | **[Intern, Data](https://jobright.ai/jobs/info/686c642f35584b65427c880c?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
