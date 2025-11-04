@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lima One Capital](https://www.limaone.com/)** | **[Business Intelligence and Development Intern](https://jobright.ai/jobs/info/6909ac2fbcccf20de59dd167?utm_campaign=1066&utm_source=git)** | Greenville,SC,US | On Site | Nov 03 |
+| **[Genus PLC](http://www.genusplc.com/)** | **[Genetic Data Analytic Intern](https://jobright.ai/jobs/info/6909a410bcccf20de59dced5?utm_campaign=1066&utm_source=git)** | De Forest, WI | On Site | Nov 03 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Spring 2026 Associate, Analytics](https://jobright.ai/jobs/info/6909931ebcccf20de59dc8e3?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 03 |
-| **[GenPark](https://genpark.ai)** | **[Data Science Intern](https://jobright.ai/jobs/info/6909909f4a1b456627b01c2b?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Nov 03 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/69004265e04ac838fb5c0d7f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 03 |
-| **[National Basketball Association (NBA)](http://www.nba.com)** | **[Undergraduate - Data Intern](https://jobright.ai/jobs/info/6909825dd046ab6061cd616d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 03 |
 | **[Stifel Financial Corp.](http://www.stifel.com)** | **[Data Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/690981c84a1b456627b0126f?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Nov 03 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/690972f84a1b456627b0082b?utm_campaign=1066&utm_source=git)** | Salem, VA | On Site | Nov 03 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 – Statistics Research & Development Intern (PhD)](https://jobright.ai/jobs/info/69096815bcccf20de59dacaa?utm_campaign=1066&utm_source=git)** | Cary, NC | Hybrid | Nov 03 |
