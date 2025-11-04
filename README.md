@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Basketball Association (NBA)](http://www.nba.com)** | **[Graduate - Technology and Data Intern](https://jobright.ai/jobs/info/690973d3d046ab6061cd5702?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 03 |
+| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/690972f84a1b456627b0082b?utm_campaign=1066&utm_source=git)** | Salem, VA | On Site | Nov 03 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 – Statistics Research & Development Intern (PhD)](https://jobright.ai/jobs/info/69096815bcccf20de59dacaa?utm_campaign=1066&utm_source=git)** | Cary, NC | Hybrid | Nov 03 |
+| **[Experian](http://www.experianplc.com)** | **[Fraud Analytics Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/6909639f4a1b456627afff1f?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 03 |
+| **[enGen](https://goengen.com)** | **[Sumer 2026 Data Analyst Graduate Intern](https://jobright.ai/jobs/info/69095fc64a1b456627affd85?utm_campaign=1066&utm_source=git)** | Erie-Meadville Area | On Site | Nov 03 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 – Statistics Research & Development Intern (PhD)](https://jobright.ai/jobs/info/69095a604a1b456627aff9dd?utm_campaign=1066&utm_source=git)** | North Carolina | Hybrid | Nov 03 |
 | **[3M](https://www.3m.com)** | **[Internship - 2026 Statistics Intern (Masters) - Transportation & Electronics Business Group (TEBG)](https://jobright.ai/jobs/info/690957cebcccf20de59da403?utm_campaign=1066&utm_source=git)** | Minnesota, United States | On Site | Nov 03 |
 | **[AARP](http://www.aarp.org)** | **[Research Intern (Graduate Student)](https://jobright.ai/jobs/info/69095491d046ab6061cd445e?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 03 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 – Statistics Research & Development Intern (PhD)](https://jobright.ai/jobs/info/6909542bbcccf20de59da111?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Nov 03 |
@@ -64,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Discount Tire](http://www.discounttire.com/dtcs/home.do)** | **[Information Technology Intern - Treadwell/Analytics](https://jobright.ai/jobs/info/69094d864a1b456627aff122?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Nov 03 |
 | **[JM&A Group](https://www.jmagroup.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69094a6dd046ab6061cd3d65?utm_campaign=1066&utm_source=git)** | Miami-FTL Area | On Site | Nov 03 |
 | **[Insperity](http://www.insperity.com)** | **[Rotational Data Analytics Intern](https://jobright.ai/jobs/info/690949f54a1b456627afeeb7?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Nov 03 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Research Analyst Intern](https://jobright.ai/jobs/info/68a4e22f33dd7158bbc95e7c?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 03 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst – Automatic Camera Enforcement (ACE), Emerging Talent Intern](https://jobright.ai/jobs/info/68fff7e5e04ac838fb5be016?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 03 |
 | **[BeiGene](https://www.beigene.com)** | **[Clinical Pharmacology and AI/ML Modeling Intern (Winter and Spring Quarter)](https://jobright.ai/jobs/info/69093d4bd046ab6061cd3550?utm_campaign=1066&utm_source=git)** | Remote (US) | Remote | Nov 03 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Sumer 2026 Data Analyst Graduate Intern](https://jobright.ai/jobs/info/69093c574a1b456627afe5eb?utm_campaign=1066&utm_source=git)** | PA, Working at Home - Pennsylvania | On Site | Nov 03 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Information Technology & Data Analytics Intern – Summer 2026](https://jobright.ai/jobs/info/68cb9975efdec76df36bf49d?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Nov 02 |
 | **[Technip Energies](https://www.ten.com/)** | **[Future Opportunity - Data Science-Programming Intern (Summer 2026)](https://jobright.ai/jobs/info/68f49e499a63986de7576ccd?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Nov 02 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – Data Analyst Intern](https://jobright.ai/jobs/info/68ef4b83de50091dbfa4cb63?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
-| **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Clinical Informaticist – General Internal Medicine](https://jobright.ai/jobs/info/68c62de1db52c07d28844c62?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Nov 02 |
-| **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6878882fae2f413e4a5c3b21?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Nov 02 |
-| **[Medpace](http://www.medpace.com)** | **[Business Intelligence Internship - Spring 2026](https://jobright.ai/jobs/info/68de368809bda65a4b627d4d?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 02 |
-| **[Red Hat](http://www.redhat.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68ccd86977add66568aba45d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
-| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[NSIP Masters Intern - Artificial Intelligence & Data Analytics](https://jobright.ai/jobs/info/6906ce07122e8474c78e0f5d?utm_campaign=1066&utm_source=git)** | Richland, WA | Hybrid | Nov 01 |
-| ↳ | **[NSIP PhD Intern - Artificial Intelligence & Data Analytics](https://jobright.ai/jobs/info/6906ca22122e8474c78e0e5d?utm_campaign=1066&utm_source=git)** | Richland, WA | Hybrid | Nov 01 |
-| ↳ | **[NSIP PhD Intern - Artificial Intelligence & Data Analytics](https://jobright.ai/jobs/info/6906c9aeff462851fe0055e3?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
