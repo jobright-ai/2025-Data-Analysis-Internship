@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trace3](http://trace3.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/690a51b94a1b456627b0626b?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 04 |
+| **[Quantbot Technologies LP](https://www.quantbot.com)** | **[Quantitative Researcher Internship - 2026 [Miami]](https://jobright.ai/jobs/info/68d501242ed36439e51e4157?utm_campaign=1066&utm_source=git)** | Miami | On Site | Nov 04 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/690a4f3abcccf20de59e0b60?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Nov 04 |
+| **[Five Rings](https://fiverings.com)** | **[Winter Intern 2026 - Quantitative Researcher](https://jobright.ai/jobs/info/690a4aa3bcccf20de59e089e?utm_campaign=1066&utm_source=git)** | New York | On Site | Nov 04 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/690a425abcccf20de59e048b?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Nov 04 |
 | **[Calamos Investments](http://www.calamos.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/690a33adbcccf20de59dfbf8?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 | **[griddable.io](https://griddable.io)** | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/690a2aaed046ab6061cd9b43?utm_campaign=1066&utm_source=git)** | California, PA | On Site | Nov 04 |
 | **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Data & Analytics](https://jobright.ai/jobs/info/68d1e72ea54edb3bf3e17636?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Nov 04 |
@@ -152,10 +157,5 @@ Job ID : 266544](https://jobright.ai/jobs/info/6909be524a1b456627b02bf6?utm_camp
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Data Science Institute Graduate Student Intern - Summer 2026](https://jobright.ai/jobs/info/69092d58bcccf20de59d83a9?utm_campaign=1066&utm_source=git)** | Livermore, CA, USA | On Site | Nov 03 |
 | ↳ | **[Data Science Institute Undergraduate Student Intern - Summer 2026](https://jobright.ai/jobs/info/69091d52bcccf20de59d75be?utm_campaign=1066&utm_source=git)** | Livermore, CA, USA | On Site | Nov 03 |
 | **[Precision Castparts](http://precast.com)** | **[Data Analytics Intern - Supply Chain](https://jobright.ai/jobs/info/6908f1774a1b456627afa6e8?utm_campaign=1066&utm_source=git)** | Santa Ana, CA | On Site | Nov 03 |
-| **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2026 Start Date)](https://jobright.ai/jobs/info/69090bb34a1b456627afbb68?utm_campaign=1066&utm_source=git)** | US-NY-New York | On Site | Nov 03 |
-| ↳ | **[Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2026 Start Date)](https://jobright.ai/jobs/info/690916a3bcccf20de59d6e5a?utm_campaign=1066&utm_source=git)** | US-MA-Boston | On Site | Nov 03 |
-| **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Internship - Uncertainty Quantification & Bayesian Inverse Problems](https://jobright.ai/jobs/info/6909113a4a1b456627afc07e?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Nov 03 |
-| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Statistical Programming Technology R Intern](https://jobright.ai/jobs/info/6908ee7bd046ab6061ccf27a?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | Hybrid | Nov 03 |
-| ↳ | **[Precision Medicine, Biological Data Intern](https://jobright.ai/jobs/info/6908eda1d046ab6061ccf244?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | Hybrid | Nov 03 |
-| ↳ | **[Biostatistics and Data Management Intern](https://jobright.ai/jobs/info/6908ed254a1b456627afa2f8?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | Hybrid | Nov 03 |
+| **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Analyst Intern - Health Care (HEOR, Epidemiology & Market Access) (2026 Start Date)](https://jobright.ai/jobs/info/690916a3bcccf20de59d6e5a?utm_campaign=1066&utm_source=git)** | US-MA-Boston | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
