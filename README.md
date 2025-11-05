@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MarshBerry](http://marshberry.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/690b8c814a1b456627b1039b?utm_campaign=1066&utm_source=git)** | Woodmere, OH | Hybrid | Nov 05 |
+| **[Harvard Medical School](http://hcc.hms.harvard.edu)** | **[Research Trainee](https://jobright.ai/jobs/info/690b80fb4a1b456627b0fe89?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 05 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Scientist, Customer and Competitive Market Intelligence](https://jobright.ai/jobs/info/68fefff9e0c73b3a11198e8a?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 05 |
+| **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/690b7affd046ab6061ce4944?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 05 |
+| **[Notion](https://www.notion.so)** | **[Data Science Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b77fd4a1b456627b0fb59?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 05 |
+| ↳ | **[Data Science Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b731c4a1b456627b0f92b?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Nov 05 |
 | **[Amgen](http://www.amgen.com)** | **[Computational Biology Grad Intern](https://jobright.ai/jobs/info/6904df9dff462851feff839d?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | Hybrid | Nov 05 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68ef0d2c230ae70a14c3f489?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 05 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Data Scientist - PhD Intern](https://jobright.ai/jobs/info/68eed394e0db92422580bc9d?utm_campaign=1066&utm_source=git)** | San Mateo, CA | Hybrid | Nov 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 04 |
 | **[Genus PLC](http://www.genusplc.com/)** | **[Genetic Data Analytic Intern - Dairy Team](https://jobright.ai/jobs/info/68ed951470b66e2345d3f312?utm_campaign=1066&utm_source=git)** | De Forest, WI | On Site | Nov 04 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern- Risk Intelligence](https://jobright.ai/jobs/info/69094b1bbcccf20de59d9a9c?utm_campaign=1066&utm_source=git)** | Green Bay, Wisconsin Metropolitan Area | On Site | Nov 04 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68a4e2fa33dd7158bbc95f3c?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 04 |
-| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Forecasting Analyst Intern](https://jobright.ai/jobs/info/68d1977f17554c2d9eedd143?utm_campaign=1066&utm_source=git)** | Salisbury, NC | Hybrid | Nov 04 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[2026 Spring Intern - MAGNet Program @ University of Georgia](https://jobright.ai/jobs/info/68d1ed88a54edb3bf3e1799d?utm_campaign=1066&utm_source=git)** | Athens, GA | On Site | Nov 04 |
-| **[Martin Marietta](http://martinmarietta.com)** | **[Intern, Data Scientist (Summer 2026)](https://jobright.ai/jobs/info/68f7531e5dc1be601280ca97?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Nov 04 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6909da4bbcccf20de59ddf2f?utm_campaign=1066&utm_source=git)** | Arden Hills, MN | On Site | Nov 04 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[2026 Spring Intern - MAGNet Program @ Arizona State University](https://jobright.ai/jobs/info/68d1ed59a54edb3bf3e17962?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
