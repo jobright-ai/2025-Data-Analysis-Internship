@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/68fb3c52e154835f11efad9d?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Nov 06 |
 | **[Moody's Corporation](http://www.moodys.com)** | **[Model Development Intern](https://jobright.ai/jobs/info/690c6401d046ab6061cecd60?utm_campaign=1066&utm_source=git)** | Newark, CA | On Site | Nov 06 |
 | **[Kimball International](https://www.kimballinternational.com)** | **[IT Intern: Business Intelligence - Kimball International, Jasper, IN](https://jobright.ai/jobs/info/690c58da221b890c277fd001?utm_campaign=1066&utm_source=git)** | Jasper, IN | On Site | Nov 06 |
 | **[West Des Moines Chamber of Commerce](https://www.wdmchamber.org/)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/690c4df34a1b456627b1774c?utm_campaign=1066&utm_source=git)** | West Des Moines, IA | On Site | Nov 05 |
@@ -73,10 +74,10 @@ For a complete list, click the following sortable link below:
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/690bdfac4a1b456627b13e4b?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Nov 05 |
 | **[Ohio Department of Education and Workforce](http://education.ohio.gov)** | **[Research Analytics Intern](https://jobright.ai/jobs/info/690bc7eb221b890c277f811a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Nov 05 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Information Systems & Data Analytics](https://jobright.ai/jobs/info/690bc4add046ab6061ce767d?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Nov 05 |
-| **[State of Ohio](http://ohio.gov/)** | **[Research Analytics Intern](https://jobright.ai/jobs/info/690bc29f221b890c277f7d3f?utm_campaign=1066&utm_source=git)** | Ohio Department of Education25 South Front Street | On Site | Nov 05 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Data Steward](https://jobright.ai/jobs/info/690bbfc8221b890c277f7af0?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Nov 05 |
 | **[State Street](http://www.statestreet.com)** | **[Enterprise Reference Data Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6904a613ff462851feff6b72?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Nov 05 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Sales Operations Data Analyst](https://jobright.ai/jobs/info/690bbd1a4a1b456627b122fe?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Nov 05 |
+| **[State of Ohio](http://ohio.gov/)** | **[Research Analytics Intern](https://jobright.ai/jobs/info/690bb7b5d046ab6061ce6be7?utm_campaign=1066&utm_source=git)** | Ohio Department of Education25 South Front Street | On Site | Nov 05 |
 | **[State Street](http://www.statestreet.com)** | **[Data Analytics, Databricks & Cloud, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/690bb6c0221b890c277f7336?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Nov 05 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[Intern - Research & Applied Psychometrics](https://jobright.ai/jobs/info/690bd597d046ab6061ce85af?utm_campaign=1066&utm_source=git)** | Leawood, KS | Hybrid | Nov 05 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/690bb1c24a1b456627b11b0f?utm_campaign=1066&utm_source=git)** | Florham Park, NJ, USA | On Site | Nov 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Avison Young](https://www.avisonyoung.com)** | **[Intern](https://jobright.ai/jobs/info/690a73f1d046ab6061cdcba4?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | Hybrid | Nov 04 |
 | **[LA Clippers](http://www.clippers.com)** | **[Business Insights & Analytics Intern](https://jobright.ai/jobs/info/68cce79dd11b445e0bee416e?utm_campaign=1066&utm_source=git)** | Inglewood, CA | On Site | Nov 04 |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern – Delivery Operations and Analytics](https://jobright.ai/jobs/info/690a7141bcccf20de59e23f7?utm_campaign=1066&utm_source=git)** | Irving, TX | Hybrid | Nov 04 |
-| **[MidAmerican Energy Company](https://www.midamericanenergy.com)** | **[Intern - Data Science, Electric Distribution](https://jobright.ai/jobs/info/690bd5bbd046ab6061ce85df?utm_campaign=1066&utm_source=git)** | Sioux City, IA | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
