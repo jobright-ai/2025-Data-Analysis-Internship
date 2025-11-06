@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Data Quality Intern](https://jobright.ai/jobs/info/690c12cf4a1b456627b15d7a?utm_campaign=1066&utm_source=git)** | Lehi, UT | Hybrid | Nov 05 |
+| **[State Street](http://www.statestreet.com)** | **[Data Governance Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6903b3b2ff462851fefeda2d?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Nov 05 |
+| ↳ | **[Data Governance Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/69086ceee253473bb20f8e31?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Nov 05 |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/690c05ffd046ab6061cea21b?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Nov 05 |
 | **[PricingService.ai](https://www.pricingservice.ai)** | **[Data Science Intern (Hotel Tech)](https://jobright.ai/jobs/info/690be7ae4a1b456627b14404?utm_campaign=1066&utm_source=git)** | Colorado, United States | On Site | Nov 05 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Data Quality Intern](https://jobright.ai/jobs/info/690be361d046ab6061ce900b?utm_campaign=1066&utm_source=git)** | Lehi, UT, United States | On Site | Nov 05 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/690bdfac4a1b456627b13e4b?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Nov 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FGS Global](https://fgsglobal.com)** | **[Spring Intern- Research & Insights](https://jobright.ai/jobs/info/690a5d8c4a1b456627b06abf?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Nov 04 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Data Science Intern - Year Round](https://jobright.ai/jobs/info/690a5cd4d046ab6061cdb84d?utm_campaign=1066&utm_source=git)** | Charter Steel - Saukville, WI | Hybrid | Nov 04 |
 | **[Summit](http://summitllc.us)** | **[Summer Analyst (Undergraduate and Graduate Student Internship for Summer 2026)](https://jobright.ai/jobs/info/690a7aa2bcccf20de59e2f4f?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Nov 04 |
-| **[Trace3](http://trace3.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/690a51b94a1b456627b0626b?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 04 |
-| **[Quantbot Technologies LP](https://www.quantbot.com)** | **[Quantitative Researcher Internship - 2026 [Miami]](https://jobright.ai/jobs/info/68d501242ed36439e51e4157?utm_campaign=1066&utm_source=git)** | Miami | On Site | Nov 04 |
-| **[Five Rings](https://fiverings.com)** | **[Winter Intern 2026 - Quantitative Researcher](https://jobright.ai/jobs/info/690a4aa3bcccf20de59e089e?utm_campaign=1066&utm_source=git)** | New York | On Site | Nov 04 |
-| **[University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Soc/Clin Research Assistant](https://jobright.ai/jobs/info/690baad64a1b456627b11627?utm_campaign=1066&utm_source=git)** | North Carolina, United States | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
