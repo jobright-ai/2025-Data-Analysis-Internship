@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/690bdfac4a1b456627b13e4b?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Nov 05 |
+| **[Ohio Department of Education and Workforce](http://education.ohio.gov)** | **[Research Analytics Intern](https://jobright.ai/jobs/info/690bc7eb221b890c277f811a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Nov 05 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Information Systems & Data Analytics](https://jobright.ai/jobs/info/690bc4add046ab6061ce767d?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Nov 05 |
-| **[State of Ohio](http://ohio.gov/)** | **[Research Analytics Intern](https://jobright.ai/jobs/info/690bc29f221b890c277f7d3f?utm_campaign=1066&utm_source=git)** | Ohio Department of Education25 South Front Street | On Site | Nov 05 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Data Steward](https://jobright.ai/jobs/info/690bbfc8221b890c277f7af0?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Nov 05 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Sales Operations Data Analyst](https://jobright.ai/jobs/info/690bbd1a4a1b456627b122fe?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Nov 05 |
+| **[State of Ohio](http://ohio.gov/)** | **[Research Analytics Intern](https://jobright.ai/jobs/info/690bb7b5d046ab6061ce6be7?utm_campaign=1066&utm_source=git)** | Ohio Department of Education25 South Front Street | On Site | Nov 05 |
 | **[State Street](http://www.statestreet.com)** | **[Data Analytics, Databricks & Cloud, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/690bb6c0221b890c277f7336?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Nov 05 |
+| **[Ascend Learning](http://www.ascendlearning.com)** | **[Intern - Research & Applied Psychometrics](https://jobright.ai/jobs/info/690bd597d046ab6061ce85af?utm_campaign=1066&utm_source=git)** | Leawood, KS | Hybrid | Nov 05 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/690bb1c24a1b456627b11b0f?utm_campaign=1066&utm_source=git)** | Florham Park, NJ, USA | On Site | Nov 05 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/690baf77221b890c277f6edd?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 05 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/690bab784a1b456627b11688?utm_campaign=1066&utm_source=git)** | South San Francisco, CA, USA | On Site | Nov 05 |
@@ -79,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/690b7affd046ab6061ce4944?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 05 |
 | **[Notion](https://www.notion.so)** | **[Data Science Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b77fd4a1b456627b0fb59?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 05 |
 | ↳ | **[Data Science Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b731c4a1b456627b0f92b?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Nov 05 |
-| **[Amgen](http://www.amgen.com)** | **[Computational Biology Grad Intern](https://jobright.ai/jobs/info/6904df9dff462851feff839d?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | Hybrid | Nov 05 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68ef0d2c230ae70a14c3f489?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 05 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Data Scientist - PhD Intern](https://jobright.ai/jobs/info/68eed394e0db92422580bc9d?utm_campaign=1066&utm_source=git)** | San Mateo, CA | Hybrid | Nov 05 |
 | **[OneStream Software](https://www.onestream.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/690b5fb34a1b456627b0f1e7?utm_campaign=1066&utm_source=git)** | Big Rapids, MI | Remote | Nov 05 |
@@ -140,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Avison Young](https://www.avisonyoung.com)** | **[Intern](https://jobright.ai/jobs/info/690a73f1d046ab6061cdcba4?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | Hybrid | Nov 04 |
 | **[LA Clippers](http://www.clippers.com)** | **[Business Insights & Analytics Intern](https://jobright.ai/jobs/info/68cce79dd11b445e0bee416e?utm_campaign=1066&utm_source=git)** | Inglewood, CA | On Site | Nov 04 |
 | **[Vizient, Inc](https://www.vizientinc.com)** | **[Summer Intern – Delivery Operations and Analytics](https://jobright.ai/jobs/info/690a7141bcccf20de59e23f7?utm_campaign=1066&utm_source=git)** | Irving, TX | Hybrid | Nov 04 |
+| **[MidAmerican Energy Company](https://www.midamericanenergy.com)** | **[Intern - Data Science, Electric Distribution](https://jobright.ai/jobs/info/690bd5bbd046ab6061ce85df?utm_campaign=1066&utm_source=git)** | Sioux City, IA | On Site | Nov 04 |
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Data Analyst Summer Intern](https://jobright.ai/jobs/info/690a6f9bd046ab6061cdc926?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | On Site | Nov 04 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Data Science Intern - Year Round](https://jobright.ai/jobs/info/690a6f20d046ab6061cdc8a1?utm_campaign=1066&utm_source=git)** | Saukville, WI | Hybrid | Nov 04 |
 | **[Weidmann Electrical Technology](https://www.weidmann-electrical.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/690a5d914a1b456627b06ac6?utm_campaign=1066&utm_source=git)** | Urbana, OH | On Site | Nov 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/690aea1cbcccf20de59e71f5?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 04 |
 | ↳ | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/690aeaefbcccf20de59e7463?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Nov 04 |
 | **[Calamos Investments](http://www.calamos.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/690a33adbcccf20de59dfbf8?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
-| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Quantitative Research Intern](https://jobright.ai/jobs/info/68ed459681fdd1626d39a7c5?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 04 |
-| **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Data & Analytics](https://jobright.ai/jobs/info/68d1e72ea54edb3bf3e17636?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Nov 04 |
-| **[MidAmerican Energy Company](https://www.midamericanenergy.com)** | **[Intern - Data Science, Electric Distribution](https://jobright.ai/jobs/info/690b95d74a1b456627b109f9?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
