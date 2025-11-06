@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PricingService.ai](https://www.pricingservice.ai)** | **[Data Science Intern (Hotel Tech)](https://jobright.ai/jobs/info/690be7ae4a1b456627b14404?utm_campaign=1066&utm_source=git)** | Colorado, United States | On Site | Nov 05 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Data Quality Intern](https://jobright.ai/jobs/info/690be361d046ab6061ce900b?utm_campaign=1066&utm_source=git)** | Lehi, UT, United States | On Site | Nov 05 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/690bdfac4a1b456627b13e4b?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Nov 05 |
 | **[Ohio Department of Education and Workforce](http://education.ohio.gov)** | **[Research Analytics Intern](https://jobright.ai/jobs/info/690bc7eb221b890c277f811a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Nov 05 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Information Systems & Data Analytics](https://jobright.ai/jobs/info/690bc4add046ab6061ce767d?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Nov 05 |
+| **[State of Ohio](http://ohio.gov/)** | **[Research Analytics Intern](https://jobright.ai/jobs/info/690bc29f221b890c277f7d3f?utm_campaign=1066&utm_source=git)** | Ohio Department of Education25 South Front Street | On Site | Nov 05 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Data Steward](https://jobright.ai/jobs/info/690bbfc8221b890c277f7af0?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Nov 05 |
+| **[State Street](http://www.statestreet.com)** | **[Enterprise Reference Data Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6904a613ff462851feff6b72?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Nov 05 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Sales Operations Data Analyst](https://jobright.ai/jobs/info/690bbd1a4a1b456627b122fe?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Nov 05 |
-| **[State of Ohio](http://ohio.gov/)** | **[Research Analytics Intern](https://jobright.ai/jobs/info/690bb7b5d046ab6061ce6be7?utm_campaign=1066&utm_source=git)** | Ohio Department of Education25 South Front Street | On Site | Nov 05 |
 | **[State Street](http://www.statestreet.com)** | **[Data Analytics, Databricks & Cloud, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/690bb6c0221b890c277f7336?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Nov 05 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[Intern - Research & Applied Psychometrics](https://jobright.ai/jobs/info/690bd597d046ab6061ce85af?utm_campaign=1066&utm_source=git)** | Leawood, KS | Hybrid | Nov 05 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/690bb1c24a1b456627b11b0f?utm_campaign=1066&utm_source=git)** | Florham Park, NJ, USA | On Site | Nov 05 |
@@ -132,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Intern - Data Science, Electric Distribution](https://jobright.ai/jobs/info/690a8f81bcccf20de59e3e53?utm_campaign=1066&utm_source=git)** | 223 S Iowa St, Sioux City, IA, 51101, US | On Site | Nov 04 |
 | ↳ | **[Intern - Data Science, Electric Distribution](https://jobright.ai/jobs/info/690a8d9bd046ab6061cde116?utm_campaign=1066&utm_source=git)** | 10510 Douglas Ave, Urbandale, IA, 50322, US | On Site | Nov 04 |
 | ↳ | **[Intern - Data Analyst, Electric Operations](https://jobright.ai/jobs/info/690a8b93bcccf20de59e3b89?utm_campaign=1066&utm_source=git)** | 3500 104th St, Urbandale, IA, 50322, US | On Site | Nov 04 |
+| **[enGen](https://goengen.com)** | **[Sumer 2026 Data Analyst Graduate Intern](https://jobright.ai/jobs/info/690be71a4a1b456627b143aa?utm_campaign=1066&utm_source=git)** | Erie-Meadville Area | On Site | Nov 04 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 IT Analytics Intern](https://jobright.ai/jobs/info/690a86b4bcccf20de59e391e?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Nov 04 |
 | **[Ericsson](https://www.ericsson.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/690a84114a1b456627b08bbc?utm_campaign=1066&utm_source=git)** | Plano, TX | On Site | Nov 04 |
 | **[Physics World](https://physicsworld.com/)** | **[Data Science Institute Graduate Student Intern - Summer 2026](https://jobright.ai/jobs/info/690a7e5fbcccf20de59e30a1?utm_campaign=1066&utm_source=git)** | Livermore, CA | On Site | Nov 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Quantbot Technologies LP](https://www.quantbot.com)** | **[Quantitative Researcher Internship - 2026 [Miami]](https://jobright.ai/jobs/info/68d501242ed36439e51e4157?utm_campaign=1066&utm_source=git)** | Miami | On Site | Nov 04 |
 | **[Five Rings](https://fiverings.com)** | **[Winter Intern 2026 - Quantitative Researcher](https://jobright.ai/jobs/info/690a4aa3bcccf20de59e089e?utm_campaign=1066&utm_source=git)** | New York | On Site | Nov 04 |
 | **[University of North Carolina at Chapel Hill](https://www.kenan-flagler.unc.edu)** | **[Soc/Clin Research Assistant](https://jobright.ai/jobs/info/690baad64a1b456627b11627?utm_campaign=1066&utm_source=git)** | North Carolina, United States | On Site | Nov 04 |
-| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/690a5e02d046ab6061cdb950?utm_campaign=1066&utm_source=git)** | Possible | Remote | Nov 04 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/690aea1cbcccf20de59e71f5?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 04 |
-| ↳ | **[Summer 2026 Intern- Tableau Research](https://jobright.ai/jobs/info/690aeaefbcccf20de59e7463?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Nov 04 |
-| **[Calamos Investments](http://www.calamos.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/690a33adbcccf20de59dfbf8?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
