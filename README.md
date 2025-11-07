@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Insights, Strategy & Analytics - Spring 2026](https://jobright.ai/jobs/info/690d2e6ad046ab6061cf3e00?utm_campaign=1066&utm_source=git)** | Culver City, California | Hybrid | Nov 06 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Data Science Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/690d2a1cd046ab6061cf39fe?utm_campaign=1066&utm_source=git)** | NY - New York | Hybrid | Nov 06 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Wholesale Intern](https://jobright.ai/jobs/info/690d25984a1b456627b1e666?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 06 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Insights, Strategy & Analytics - Spring 2026](https://jobright.ai/jobs/info/690d242c221b890c27803d3f?utm_campaign=1066&utm_source=git)** | Culver City, California | Hybrid | Nov 06 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Data Science Undergraduate Internship - Summer 2026](https://jobright.ai/jobs/info/690d400a221b890c278051df?utm_campaign=1066&utm_source=git)** | NY - New York | Hybrid | Nov 06 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 Intern/Co-Op](https://jobright.ai/jobs/info/690d2239d046ab6061cf33f0?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Nov 06 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/690d0f78d046ab6061cf228f?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Nov 06 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Development (Quant Research) PhD Internship – Summer 2026](https://jobright.ai/jobs/info/690ce350221b890c27800ab0?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Interstates](http://interstates.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/690aed6fd046ab6061ce182a?utm_campaign=1066&utm_source=git)** | Sioux Center, IA | On Site | Nov 04 |
 | **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/690ae2ab4a1b456627b0c43f?utm_campaign=1066&utm_source=git)** | Detroit, MI | Hybrid | Nov 04 |
 | **[Skyworks LLC](http://skyworksllc.com)** | **[Data Scientist Co-op - Summer/Fall 2026](https://jobright.ai/jobs/info/690aebb0bcccf20de59e7486?utm_campaign=1066&utm_source=git)** | Newbury Park, CA | On Site | Nov 04 |
-| **[Seagate Technology](http://www.seagate.com)** | **[Data Scientist Internship - Summer 2026](https://jobright.ai/jobs/info/69012dced5259a1b3cff25c7?utm_campaign=1066&utm_source=git)** | Bloomington, MN | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
