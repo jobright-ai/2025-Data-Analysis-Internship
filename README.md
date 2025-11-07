@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690df494d046ab6061cf9f2c?utm_campaign=1066&utm_source=git)** | US-DC-Washington, DC | On Site | Nov 07 |
+| **[Acadian Asset Management](http://www.acadian-asset.com/)** | **[Quant Developer Intern - Summer 2026](https://jobright.ai/jobs/info/68f16077f462172a5a7d74a3?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Nov 07 |
+| **[Craftwater](http://craftwater.com)** | **[Watershed Analyst Intern](https://jobright.ai/jobs/info/690dfab644146d3b6ec50b3b?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Nov 07 |
+| **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690df5de221b890c2780a6f9?utm_campaign=1066&utm_source=git)** | US-CA-Los Angeles | On Site | Nov 07 |
+| ↳ | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690df494d046ab6061cf9f2c?utm_campaign=1066&utm_source=git)** | US-DC-Washington, DC | On Site | Nov 07 |
 | ↳ | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690df076d046ab6061cf9e59?utm_campaign=1066&utm_source=git)** | US-TX-Dallas | On Site | Nov 07 |
 | ↳ | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690df00a44146d3b6ec508ec?utm_campaign=1066&utm_source=git)** | US-NY-New York | On Site | Nov 07 |
 | ↳ | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690defbc221b890c2780a5d8?utm_campaign=1066&utm_source=git)** | US-CA-San Francisco | On Site | Nov 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PanAgora Asset Management](http://www.panagora.com)** | **[Summer Intern](https://jobright.ai/jobs/info/690b8dff4a1b456627b1047d?utm_campaign=1066&utm_source=git)** | MA Boston - PanAgora | On Site | Nov 05 |
 | **[MarshBerry](http://marshberry.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/690b8c814a1b456627b1039b?utm_campaign=1066&utm_source=git)** | Woodmere, OH | Hybrid | Nov 05 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Scientist, Customer and Competitive Market Intelligence](https://jobright.ai/jobs/info/68fefff9e0c73b3a11198e8a?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 05 |
-| **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/690b7affd046ab6061ce4944?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 05 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68ef0d2c230ae70a14c3f489?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 05 |
-| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Data Scientist - PhD Intern](https://jobright.ai/jobs/info/68eed394e0db92422580bc9d?utm_campaign=1066&utm_source=git)** | San Mateo, CA | Hybrid | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
