@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oatey Company](https://www.oatey.com//)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cb8fc4ba798c1a501d1c99?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Nov 07 |
+| **[Nationwide](http://nationwide.com)** | **[Summer 2026 Analytic Engineer Internship](https://jobright.ai/jobs/info/68fa96d067272b29af731508?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Nov 07 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - TPG Global IE](https://jobright.ai/jobs/info/68f18c87e6870116b1f5a58a?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Nov 07 |
+| **[Texas Instruments](http://www.ti.com)** | **[Facilities Data Analytics Intern](https://jobright.ai/jobs/info/68d5ca011f7fb2169ab13b8f?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Nov 07 |
+| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/690daf03d046ab6061cf82b9?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Nov 07 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/690dcdf7d046ab6061cf93e3?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 07 |
+| **[American Modern Insurance Group](https://www.amig.com/)** | **[Geographic Information Systems Intern](https://jobright.ai/jobs/info/690dd652d046ab6061cf9721?utm_campaign=1066&utm_source=git)** | Cincinnati Metro | Hybrid | Nov 07 |
 | **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[Research Intern](https://jobright.ai/jobs/info/690db84dd046ab6061cf8845?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Nov 07 |
 | **[Infinity Marketing](http://infinitymkt.com)** | **[Analytics Intern (Spring 2026)](https://jobright.ai/jobs/info/690d9aa9d046ab6061cf7686?utm_campaign=1066&utm_source=git)** | Greenville,SC,US | Hybrid | Nov 06 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Assay Database Champion Intern](https://jobright.ai/jobs/info/690d904a221b890c27807a79?utm_campaign=1066&utm_source=git)** | Lexington, MA | Hybrid | Nov 06 |
+| ↳ | **[2026 Summer Internship Program: Data Digital and Technology (DD&T) Intern](https://jobright.ai/jobs/info/690dcde6221b890c27809baf?utm_campaign=1066&utm_source=git)** | USA - IL - Round Lake Innovation Park | On Site | Nov 06 |
 | ↳ | **[2026 Summer Internship Program: Data Scientist for R&D Quality Intern](https://jobright.ai/jobs/info/690d8c8744146d3b6ec4db90?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Nov 06 |
 | ↳ | **[2026 Summer Internship Program: Data Analytics Intern](https://jobright.ai/jobs/info/690d8c64221b890c2780790d?utm_campaign=1066&utm_source=git)** | USA - MA - Lexington - BIO OPS | Hybrid | Nov 06 |
 | ↳ | **[2026 Summer Internship Program: Analytical Development Mass Spectrometry Informatics Intern](https://jobright.ai/jobs/info/690db659d046ab6061cf8722?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Nov 06 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[InterWorks](http://www.interworks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68ca281af61c922772a73738?utm_campaign=1066&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Nov 05 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist, Predictive Finance](https://jobright.ai/jobs/info/68eed15f46e5b153e5a60327?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Nov 05 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68b73394f4e41a61efd96724?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | Hybrid | Nov 05 |
-| **[Medpace](http://www.medpace.com)** | **[Informatics Internship/Co-Op Spring 2026](https://jobright.ai/jobs/info/68ce9376fb49c96ca6ea1b12?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 05 |
-| **[Atlassian](https://www.atlassian.com)** | **[Data Science Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/68f711069a63986de7584aa5?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Nov 05 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Insights Analyst](https://jobright.ai/jobs/info/68cfad3e846f0b04af6843fd?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Nov 05 |
-| **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Data Scientist - Full-time Intern Conversion](https://jobright.ai/jobs/info/68f9d9d27ab77a56387e7932?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 05 |
-| **[MAPFRE](https://www.mapfre.com)** | **[Intern Direct Business](https://jobright.ai/jobs/info/689a87d383d13d1f5b699991?utm_campaign=1066&utm_source=git)** | Webster, MA | On Site | Nov 05 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68ca62a306a34016008c7d3f?utm_campaign=1066&utm_source=git)** | Honolulu, HI | Hybrid | Nov 05 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68cb8a83efdec76df36be3b3?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Nov 05 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68ca3e60f61c922772a7595e?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
