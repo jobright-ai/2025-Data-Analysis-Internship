@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[Research Intern](https://jobright.ai/jobs/info/690db84dd046ab6061cf8845?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Nov 07 |
 | **[Infinity Marketing](http://infinitymkt.com)** | **[Analytics Intern (Spring 2026)](https://jobright.ai/jobs/info/690d9aa9d046ab6061cf7686?utm_campaign=1066&utm_source=git)** | Greenville,SC,US | Hybrid | Nov 06 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Assay Database Champion Intern](https://jobright.ai/jobs/info/690d904a221b890c27807a79?utm_campaign=1066&utm_source=git)** | Lexington, MA | Hybrid | Nov 06 |
 | ↳ | **[2026 Summer Internship Program: Data Scientist for R&D Quality Intern](https://jobright.ai/jobs/info/690d8c8744146d3b6ec4db90?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Nov 06 |
 | ↳ | **[2026 Summer Internship Program: Data Analytics Intern](https://jobright.ai/jobs/info/690d8c64221b890c2780790d?utm_campaign=1066&utm_source=git)** | USA - MA - Lexington - BIO OPS | Hybrid | Nov 06 |
+| ↳ | **[2026 Summer Internship Program: Analytical Development Mass Spectrometry Informatics Intern](https://jobright.ai/jobs/info/690db659d046ab6061cf8722?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Nov 06 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/690d76a2d046ab6061cf66fd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 06 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Wholesale Intern](https://jobright.ai/jobs/info/690d73f3d046ab6061cf6587?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 06 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Data Science Undergraduate Internship - Summer 2026](https://jobright.ai/jobs/info/690d90b7d046ab6061cf71ed?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 06 |
@@ -139,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[MarshBerry](http://marshberry.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/690b8c814a1b456627b1039b?utm_campaign=1066&utm_source=git)** | Woodmere, OH | Hybrid | Nov 05 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Scientist, Customer and Competitive Market Intelligence](https://jobright.ai/jobs/info/68fefff9e0c73b3a11198e8a?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 05 |
 | **[Ivy Tech Community College](http://www.ivytech.edu)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/690b7affd046ab6061ce4944?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 05 |
-| **[Notion](https://www.notion.so)** | **[Data Science Intern (Winter or Summer 2026)](https://jobright.ai/jobs/info/690b731c4a1b456627b0f92b?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Nov 05 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68ef0d2c230ae70a14c3f489?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 05 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Data Scientist - PhD Intern](https://jobright.ai/jobs/info/68eed394e0db92422580bc9d?utm_campaign=1066&utm_source=git)** | San Mateo, CA | Hybrid | Nov 05 |
 | **[OneStream Software](https://www.onestream.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/690b5fb34a1b456627b0f1e7?utm_campaign=1066&utm_source=git)** | Big Rapids, MI | Remote | Nov 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68ca62a306a34016008c7d3f?utm_campaign=1066&utm_source=git)** | Honolulu, HI | Hybrid | Nov 05 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68cb8a83efdec76df36be3b3?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Nov 05 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68ca3e60f61c922772a7595e?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Nov 05 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68ce438724dd5209002f10ec?utm_campaign=1066&utm_source=git)** | Huntsville, AL | Hybrid | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
