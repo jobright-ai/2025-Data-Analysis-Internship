@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Onni Creative](http://www.onnicreative.xyz)** | **[Analytics Intern](https://jobright.ai/jobs/info/690e4091d046ab6061cfbb05?utm_campaign=1066&utm_source=git)** | LA Metro Area | On Site | Nov 07 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Data Science Intern](https://jobright.ai/jobs/info/690e3bd744146d3b6ec52293?utm_campaign=1066&utm_source=git)** | IL - Chicago | On Site | Nov 07 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2026 Graduate Internship – Data Science](https://jobright.ai/jobs/info/690e2606d046ab6061cfac82?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Nov 07 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/68cd8a5ce23def7af55bb67d?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Nov 07 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[IT Systems Analyst - 2026 Summer Internship](https://jobright.ai/jobs/info/68d444cb8c62e63bc7fe7595?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 07 |
@@ -69,15 +71,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12f80e6870116b1f54621?utm_campaign=1066&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 07 |
 | **[GCI Incorporated](https://www.gci.tech)** | **[(Targeting) Intelligence Analyst Summer 2026 Intern (paid)](https://jobright.ai/jobs/info/68effcd19821486c423c8436?utm_campaign=1066&utm_source=git)** | Virginia, United States | On Site | Nov 07 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Construction Technology- Business/Data Analyst](https://jobright.ai/jobs/info/68f164ceef766b3f0fd0d32f?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Nov 07 |
+| **[Arrive Logistics](http://www.arrivelogistics.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e6bfc3ae2b894b1d71d4e6?utm_campaign=1066&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Nov 07 |
 | **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12b35ef766b3f0fd0949c?utm_campaign=1066&utm_source=git)** | Glenview, IL | On Site | Nov 07 |
 | ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f137b9e6870116b1f54e72?utm_campaign=1066&utm_source=git)** | Kenosha, WI | On Site | Nov 07 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[V.I.E. Quant Researcher](https://jobright.ai/jobs/info/690e2a07221b890c2780b612?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Nov 07 |
+| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Construction Technology- Business/Data Analyst](https://jobright.ai/jobs/info/68f1664ee6870116b1f586b0?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Nov 07 |
 | **[Jobgether](https://jobgether.com/)** | **[CX Data Intelligence Analyst Intern (Remote - US)](https://jobright.ai/jobs/info/690e258744146d3b6ec51785?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 07 |
 | **[Acadian Asset Management](http://www.acadian-asset.com/)** | **[Quant Developer Intern - Summer 2026](https://jobright.ai/jobs/info/68f16077f462172a5a7d74a3?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Nov 07 |
 | **[Craftwater](http://craftwater.com)** | **[Watershed Analyst Intern](https://jobright.ai/jobs/info/690dfab644146d3b6ec50b3b?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Nov 07 |
 | **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690df5de221b890c2780a6f9?utm_campaign=1066&utm_source=git)** | US-CA-Los Angeles | On Site | Nov 07 |
 | ↳ | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690df494d046ab6061cf9f2c?utm_campaign=1066&utm_source=git)** | US-DC-Washington, DC | On Site | Nov 07 |
 | **[Jobgether](https://jobgether.com/)** | **[Collections Data Analyst Intern](https://jobright.ai/jobs/info/690e1981d046ab6061cfa845?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 07 |
+| **[Do it Best](http://www.doitbestcorp.com)** | **[Data Analytics Internship - Logistics](https://jobright.ai/jobs/info/68b895e607090163b6ba316a?utm_campaign=1066&utm_source=git)** | Fort Wayne, IN | On Site | Nov 07 |
 | **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690df076d046ab6061cf9e59?utm_campaign=1066&utm_source=git)** | US-TX-Dallas | On Site | Nov 07 |
 | ↳ | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690df00a44146d3b6ec508ec?utm_campaign=1066&utm_source=git)** | US-NY-New York | On Site | Nov 07 |
 | ↳ | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690defbc221b890c2780a5d8?utm_campaign=1066&utm_source=git)** | US-CA-San Francisco | On Site | Nov 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Florida](https://www.ufl.edu)** | **[Student Research Assistant](https://jobright.ai/jobs/info/690d22b3d046ab6061cf344c?utm_campaign=1066&utm_source=git)** | Gainesville, FL | On Site | Nov 05 |
 | **[Ramsi](https://ramsi.com/)** | **[Data Science Intern (Hotel Tech)](https://jobright.ai/jobs/info/690be7ae4a1b456627b14404?utm_campaign=1066&utm_source=git)** | Colorado, United States | On Site | Nov 05 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Data Quality Intern](https://jobright.ai/jobs/info/690be361d046ab6061ce900b?utm_campaign=1066&utm_source=git)** | Lehi, UT, United States | On Site | Nov 05 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/690bdfac4a1b456627b13e4b?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Nov 05 |
-| **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Information Systems & Data Analytics](https://jobright.ai/jobs/info/690bc4add046ab6061ce767d?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Nov 05 |
-| **[State of Ohio](https://development.ohio.gov/)** | **[Research Analytics Intern](https://jobright.ai/jobs/info/690bc29f221b890c277f7d3f?utm_campaign=1066&utm_source=git)** | Ohio Department of Education25 South Front Street | On Site | Nov 05 |
-| **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Data Steward](https://jobright.ai/jobs/info/690bbfc8221b890c277f7af0?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Nov 05 |
-| **[State Street](http://www.statestreet.com)** | **[Enterprise Reference Data Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6904a613ff462851feff6b72?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
