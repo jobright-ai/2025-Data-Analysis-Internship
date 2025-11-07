@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/690d76a2d046ab6061cf66fd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 06 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Wholesale Intern](https://jobright.ai/jobs/info/690d73f3d046ab6061cf6587?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 06 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/690d7f4bd046ab6061cf6b2b?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
+| **[Gorton's](https://gortons.com/)** | **[IT Intern](https://jobright.ai/jobs/info/68cc45a3128dc347fd921b23?utm_campaign=1066&utm_source=git)** | Gloucester, MA | On Site | Nov 06 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Insights, Strategy & Analytics - Spring 2026](https://jobright.ai/jobs/info/690d2e6ad046ab6061cf3e00?utm_campaign=1066&utm_source=git)** | Culver City, California | Hybrid | Nov 06 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Data Science Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/690d2a1cd046ab6061cf39fe?utm_campaign=1066&utm_source=git)** | NY - New York | Hybrid | Nov 06 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Wholesale Intern](https://jobright.ai/jobs/info/690d25984a1b456627b1e666?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 06 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Insights, Strategy & Analytics - Spring 2026](https://jobright.ai/jobs/info/690d242c221b890c27803d3f?utm_campaign=1066&utm_source=git)** | Culver City, California | Hybrid | Nov 06 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Data Science Undergraduate Internship - Summer 2026](https://jobright.ai/jobs/info/690d400a221b890c278051df?utm_campaign=1066&utm_source=git)** | NY - New York | Hybrid | Nov 06 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 Intern/Co-Op](https://jobright.ai/jobs/info/690d2239d046ab6061cf33f0?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Nov 06 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/690d0f78d046ab6061cf228f?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Nov 06 |
@@ -82,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Data Science, Planner & Perception Eval](https://jobright.ai/jobs/info/68d344ff17554c2d9eeef5a3?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Nov 06 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern - Optimization (Summer 2026)](https://jobright.ai/jobs/info/68d614592116ff37ee092992?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 06 |
 | **[IBM](http://www.ibm.com)** | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/69081d75ff462851fe00c757?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Nov 06 |
+| ↳ | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/690d7e1ad046ab6061cf6a2a?utm_campaign=1066&utm_source=git)** | Sandy Springs, GA | On Site | Nov 06 |
 | ↳ | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/690d62f04a1b456627b20e3d?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Nov 06 |
 | **[Medpace](http://www.medpace.com)** | **[Informatics Internship/Co-Op Summer 2026](https://jobright.ai/jobs/info/689a4e6483d13d1f5b697f88?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Summer (MBA)](https://jobright.ai/jobs/info/68d4a7338c62e63bc7feb482?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 06 |
@@ -91,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Kimball International](https://www.kimballinternational.com)** | **[IT Intern: Business Intelligence - Kimball International, Jasper, IN](https://jobright.ai/jobs/info/690c58da221b890c277fd001?utm_campaign=1066&utm_source=git)** | Jasper, IN | On Site | Nov 06 |
 | **[West Des Moines Chamber of Commerce](https://www.wdmchamber.org/)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/690c4df34a1b456627b1774c?utm_campaign=1066&utm_source=git)** | West Des Moines, IA | On Site | Nov 05 |
 | **[MiTek](http://www.mii.com)** | **[Automation Data Scientist Intern](https://jobright.ai/jobs/info/690c4908d046ab6061cec37c?utm_campaign=1066&utm_source=git)** | Wentzville, Missouri, USA | Hybrid | Nov 05 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/690d7c894a1b456627b21c11?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 05 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Business Intelligence Developer Intern (Summer 2026)](https://jobright.ai/jobs/info/690c2cc1221b890c277fc260?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Nov 05 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern  - Epidemiology](https://jobright.ai/jobs/info/690c2390d046ab6061ceb534?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Nov 05 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Data Analytics Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/690c17c8d046ab6061ceadfb?utm_campaign=1066&utm_source=git)** | Hutchins, TX | On Site | Nov 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vatic Labs](http://www.vaticlabs.com)** | **[Quantitative Researcher (Internship)](https://jobright.ai/jobs/info/68b9c6f18043103d4f21a486?utm_campaign=1066&utm_source=git)** | New York | On Site | Nov 05 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Finance Internship: Data Intelligence](https://jobright.ai/jobs/info/690b2166221b890c277f3869?utm_campaign=1066&utm_source=git)** | Allentown, PA | On Site | Nov 05 |
 | **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Data Intelligence Hub Intern](https://jobright.ai/jobs/info/690b17254a1b456627b0dda0?utm_campaign=1066&utm_source=git)** | Portland, OR US | Hybrid | Nov 05 |
-| ↳ | **[Trade Programs Data Specialist Intern](https://jobright.ai/jobs/info/690b1684d046ab6061ce2b0c?utm_campaign=1066&utm_source=git)** | Portland, OR | Hybrid | Nov 05 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Finance Internship: Data Intelligence](https://jobright.ai/jobs/info/690b155054fb8145904e7132?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Nov 05 |
-| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Trade Programs Data Specialist Intern](https://jobright.ai/jobs/info/690b11f7d046ab6061ce2736?utm_campaign=1066&utm_source=git)** | Portland, OR US | Hybrid | Nov 05 |
-| ↳ | **[Data Intelligence Hub Intern](https://jobright.ai/jobs/info/690b0e5d4a1b456627b0d77f?utm_campaign=1066&utm_source=git)** | Portland, OR | Hybrid | Nov 05 |
-| **[West Des Moines Chamber of Commerce](https://www.wdmchamber.org/)** | **[Data Services Intern](https://jobright.ai/jobs/info/690b0691bcccf20de59e7f36?utm_campaign=1066&utm_source=git)** | West Des Moines, IA | On Site | Nov 05 |
-| **[Interstates](http://interstates.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/690aed6fd046ab6061ce182a?utm_campaign=1066&utm_source=git)** | Sioux Center, IA | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
