@@ -57,13 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Infinity Marketing](http://infinitymkt.com)** | **[Analytics Intern (Spring 2026)](https://jobright.ai/jobs/info/690d9aa9d046ab6061cf7686?utm_campaign=1066&utm_source=git)** | Greenville,SC,US | Hybrid | Nov 06 |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Assay Database Champion Intern](https://jobright.ai/jobs/info/690d904a221b890c27807a79?utm_campaign=1066&utm_source=git)** | Lexington, MA | Hybrid | Nov 06 |
+| ↳ | **[2026 Summer Internship Program: Data Scientist for R&D Quality Intern](https://jobright.ai/jobs/info/690d8c8744146d3b6ec4db90?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Nov 06 |
+| ↳ | **[2026 Summer Internship Program: Data Analytics Intern](https://jobright.ai/jobs/info/690d8c64221b890c2780790d?utm_campaign=1066&utm_source=git)** | USA - MA - Lexington - BIO OPS | Hybrid | Nov 06 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/690d76a2d046ab6061cf66fd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 06 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Wholesale Intern](https://jobright.ai/jobs/info/690d73f3d046ab6061cf6587?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 06 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/690d7f4bd046ab6061cf6b2b?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Data Science Undergraduate Internship - Summer 2026](https://jobright.ai/jobs/info/690d90b7d046ab6061cf71ed?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 06 |
+| ↳ | **[Data Science Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/690d8cc844146d3b6ec4dbac?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 06 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/690d8cbfd046ab6061cf70b4?utm_campaign=1066&utm_source=git)** | Maryville, TN | On Site | Nov 06 |
+| ↳ | **[Intern - Information Technology](https://jobright.ai/jobs/info/690d7f4bd046ab6061cf6b2b?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Nov 06 |
+| **[Sanofi](https://www.sanofi.com)** | **[Biostatistics Evidence Generation & Decision Sciences (EGDS)- Summer 2026 Intern](https://jobright.ai/jobs/info/690d9f50221b890c27808285?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Nov 06 |
 | **[Gorton's](https://gortons.com/)** | **[IT Intern](https://jobright.ai/jobs/info/68cc45a3128dc347fd921b23?utm_campaign=1066&utm_source=git)** | Gloucester, MA | On Site | Nov 06 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Insights, Strategy & Analytics - Spring 2026](https://jobright.ai/jobs/info/690d2e6ad046ab6061cf3e00?utm_campaign=1066&utm_source=git)** | Culver City, California | Hybrid | Nov 06 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Data Science Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/690d2a1cd046ab6061cf39fe?utm_campaign=1066&utm_source=git)** | NY - New York | Hybrid | Nov 06 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Wholesale Intern](https://jobright.ai/jobs/info/690d25984a1b456627b1e666?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 06 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Insights, Strategy & Analytics - Spring 2026](https://jobright.ai/jobs/info/690d242c221b890c27803d3f?utm_campaign=1066&utm_source=git)** | Culver City, California | Hybrid | Nov 06 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Data Science Undergraduate Internship - Summer 2026](https://jobright.ai/jobs/info/690d400a221b890c278051df?utm_campaign=1066&utm_source=git)** | NY - New York | Hybrid | Nov 06 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 Intern/Co-Op](https://jobright.ai/jobs/info/690d2239d046ab6061cf33f0?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Nov 06 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/690d0f78d046ab6061cf228f?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Nov 06 |
@@ -89,6 +97,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/690d7e1ad046ab6061cf6a2a?utm_campaign=1066&utm_source=git)** | Sandy Springs, GA | On Site | Nov 06 |
 | ↳ | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/690d62f04a1b456627b20e3d?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Nov 06 |
 | **[Medpace](http://www.medpace.com)** | **[Informatics Internship/Co-Op Summer 2026](https://jobright.ai/jobs/info/689a4e6483d13d1f5b697f88?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 06 |
+| **[IBM](http://www.ibm.com)** | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/690d95ecd046ab6061cf72f7?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Summer (MBA)](https://jobright.ai/jobs/info/68d4a7338c62e63bc7feb482?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 06 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2026](https://jobright.ai/jobs/info/68d446b917554c2d9eef786e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 06 |
 | **[Amway](http://www.amway.com)** | **[Data Analyst Intern, Summer 2026 (42266)](https://jobright.ai/jobs/info/68efbb6ede50091dbfa4fe36?utm_campaign=1066&utm_source=git)** | Ada, MI | Hybrid | Nov 06 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68cb8a83efdec76df36be3b3?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Nov 05 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68ca3e60f61c922772a7595e?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Nov 05 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68ce438724dd5209002f10ec?utm_campaign=1066&utm_source=git)** | Huntsville, AL | Hybrid | Nov 05 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68ce1852e23def7af55c2170?utm_campaign=1066&utm_source=git)** | Charleston, SC | Hybrid | Nov 05 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68ce4977fb49c96ca6e9e6d2?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Nov 05 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68cc17eb16d00d2beeb19a9e?utm_campaign=1066&utm_source=git)** | Annapolis Junction, MD | Hybrid | Nov 05 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68cfe2e6846f0b04af685d42?utm_campaign=1066&utm_source=git)** | Panama City, FL | Hybrid | Nov 05 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68c653bd7d0db411427388ca?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Nov 05 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68c649287d0db41142737cd3?utm_campaign=1066&utm_source=git)** | El Segundo, CA | Hybrid | Nov 05 |
-| **[Vatic Labs](http://www.vaticlabs.com)** | **[Quantitative Researcher (Internship)](https://jobright.ai/jobs/info/68b9c6f18043103d4f21a486?utm_campaign=1066&utm_source=git)** | New York | On Site | Nov 05 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Finance Internship: Data Intelligence](https://jobright.ai/jobs/info/690b2166221b890c277f3869?utm_campaign=1066&utm_source=git)** | Allentown, PA | On Site | Nov 05 |
-| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[Data Intelligence Hub Intern](https://jobright.ai/jobs/info/690b17254a1b456627b0dda0?utm_campaign=1066&utm_source=git)** | Portland, OR US | Hybrid | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
