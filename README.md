@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Insights, Strategy & Analytics - Spring 2026](https://jobright.ai/jobs/info/690d2e6ad046ab6061cf3e00?utm_campaign=1066&utm_source=git)** | Culver City, California | Hybrid | Nov 06 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Data Science Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/690d2a1cd046ab6061cf39fe?utm_campaign=1066&utm_source=git)** | NY - New York | Hybrid | Nov 06 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Wholesale Intern](https://jobright.ai/jobs/info/690d25984a1b456627b1e666?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 06 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Insights, Strategy & Analytics - Spring 2026](https://jobright.ai/jobs/info/690d242c221b890c27803d3f?utm_campaign=1066&utm_source=git)** | Culver City, California | Hybrid | Nov 06 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Data Science Undergraduate Internship - Summer 2026](https://jobright.ai/jobs/info/690d400a221b890c278051df?utm_campaign=1066&utm_source=git)** | NY - New York | Hybrid | Nov 06 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 Intern/Co-Op](https://jobright.ai/jobs/info/690d2239d046ab6061cf33f0?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Nov 06 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/690d0f78d046ab6061cf228f?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Nov 06 |
@@ -75,12 +75,14 @@ For a complete list, click the following sortable link below:
 | **[Ormat Technologies, Inc.](http://www.ormat.com)** | **[Intern GIS Specialist](https://jobright.ai/jobs/info/68d446dd8c62e63bc7fe7aad?utm_campaign=1066&utm_source=git)** | Reno, NV | On Site | Nov 06 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/690d0a4b4a1b456627b1ce2c?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Nov 06 |
 | ↳ | **[Intern - Information Technology](https://jobright.ai/jobs/info/690ccfd3221b890c27800324?utm_campaign=1066&utm_source=git)** | Metairie, LA | On Site | Nov 06 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Data Quality Intern](https://jobright.ai/jobs/info/690d6195221b890c278063a8?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Nov 06 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Business Analytics & Technology Intern](https://jobright.ai/jobs/info/68f75523b0edcf159dc7b091?utm_campaign=1066&utm_source=git)** | Evansville, IN | On Site | Nov 06 |
 | **[Dyson Benelux](http://www.dyson.com)** | **[Data Analyst Internship, Procurement Excellence](https://jobright.ai/jobs/info/690ca2b6d046ab6061ceec99?utm_campaign=1066&utm_source=git)** | St James, NY | On Site | Nov 06 |
 | **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/68d787d2267b154f9a2dbaad?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 06 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Data Science, Planner & Perception Eval](https://jobright.ai/jobs/info/68d344ff17554c2d9eeef5a3?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Nov 06 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern - Optimization (Summer 2026)](https://jobright.ai/jobs/info/68d614592116ff37ee092992?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 06 |
 | **[IBM](http://www.ibm.com)** | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/69081d75ff462851fe00c757?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Nov 06 |
+| ↳ | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/690d62f04a1b456627b20e3d?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Nov 06 |
 | **[Medpace](http://www.medpace.com)** | **[Informatics Internship/Co-Op Summer 2026](https://jobright.ai/jobs/info/689a4e6483d13d1f5b697f88?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Summer (MBA)](https://jobright.ai/jobs/info/68d4a7338c62e63bc7feb482?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 06 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2026](https://jobright.ai/jobs/info/68d446b917554c2d9eef786e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 06 |
@@ -102,10 +104,10 @@ For a complete list, click the following sortable link below:
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/690bdfac4a1b456627b13e4b?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Nov 05 |
 | **[Ohio Department of Education and Workforce](http://education.ohio.gov)** | **[Research Analytics Intern](https://jobright.ai/jobs/info/690bc7eb221b890c277f811a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Nov 05 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Information Systems & Data Analytics](https://jobright.ai/jobs/info/690bc4add046ab6061ce767d?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Nov 05 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Research Analytics Intern](https://jobright.ai/jobs/info/690bc29f221b890c277f7d3f?utm_campaign=1066&utm_source=git)** | Ohio Department of Education25 South Front Street | On Site | Nov 05 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Data Steward](https://jobright.ai/jobs/info/690bbfc8221b890c277f7af0?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Nov 05 |
 | **[State Street](http://www.statestreet.com)** | **[Enterprise Reference Data Analyst, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/6904a613ff462851feff6b72?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Nov 05 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Sales Operations Data Analyst](https://jobright.ai/jobs/info/690bbd1a4a1b456627b122fe?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Nov 05 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Research Analytics Intern](https://jobright.ai/jobs/info/690bb7b5d046ab6061ce6be7?utm_campaign=1066&utm_source=git)** | Ohio Department of Education25 South Front Street | On Site | Nov 05 |
 | **[State Street](http://www.statestreet.com)** | **[Data Analytics, Databricks & Cloud, Internship (Fulltime, Jan - June 2026)](https://jobright.ai/jobs/info/690bb6c0221b890c277f7336?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Nov 05 |
 | **[Ascend Learning](http://www.ascendlearning.com)** | **[Intern - Research & Applied Psychometrics](https://jobright.ai/jobs/info/690bd597d046ab6061ce85af?utm_campaign=1066&utm_source=git)** | Leawood, KS | Hybrid | Nov 05 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/690bb1c24a1b456627b11b0f?utm_campaign=1066&utm_source=git)** | Florham Park, NJ, USA | On Site | Nov 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Intelligence Hub Intern](https://jobright.ai/jobs/info/690b0e5d4a1b456627b0d77f?utm_campaign=1066&utm_source=git)** | Portland, OR | Hybrid | Nov 05 |
 | **[West Des Moines Chamber of Commerce](https://www.wdmchamber.org/)** | **[Data Services Intern](https://jobright.ai/jobs/info/690b0691bcccf20de59e7f36?utm_campaign=1066&utm_source=git)** | West Des Moines, IA | On Site | Nov 05 |
 | **[Interstates](http://interstates.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/690aed6fd046ab6061ce182a?utm_campaign=1066&utm_source=git)** | Sioux Center, IA | On Site | Nov 04 |
-| **[Detroit Manufacturing Systems (DMS)](http://dms-na.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/690ae2ab4a1b456627b0c43f?utm_campaign=1066&utm_source=git)** | Detroit, MI | Hybrid | Nov 04 |
-| **[Skyworks LLC](http://skyworksllc.com)** | **[Data Scientist Co-op - Summer/Fall 2026](https://jobright.ai/jobs/info/690aebb0bcccf20de59e7486?utm_campaign=1066&utm_source=git)** | Newbury Park, CA | On Site | Nov 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
