@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Epidemiology](https://jobright.ai/jobs/info/690f10acd046ab6061d033a5?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Nov 08 |
+| **[Zoox](https://www.zoox.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/690f0920d046ab6061d02f9a?utm_campaign=1066&utm_source=git)** | Foster City, CA | Hybrid | Nov 08 |
 | **[Memorial Sloan Kettering Cancer Center](http://www.mskcc.org)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/690ef07ad046ab6061d023bc?utm_campaign=1066&utm_source=git)** | New York, United States | Remote | Nov 07 |
 | **[Zoox](https://www.zoox.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/690ed111221b890c27811e45?utm_campaign=1066&utm_source=git)** | Foster City, CA | Hybrid | Nov 07 |
 | **[Memorial Sloan Kettering Cancer Center](http://www.mskcc.org)** | **[Data Management Summer Intern](https://jobright.ai/jobs/info/690ecf4a44146d3b6ec57fbd?utm_campaign=1066&utm_source=git)** | New York - Teleworker | Remote | Nov 07 |
@@ -84,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Insights, Strategy & Analytics - Spring 2026](https://jobright.ai/jobs/info/690e5afcd046ab6061cfc93e?utm_campaign=1066&utm_source=git)** | Culver City, CA | Hybrid | Nov 07 |
 | **[Sheetz](https://www.sheetz.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/690e5a8044146d3b6ec533e3?utm_campaign=1066&utm_source=git)** | PITTSBURGH, Pennsylvania | Hybrid | Nov 07 |
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Business Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/690e54ba221b890c2780cd0f?utm_campaign=1066&utm_source=git)** | Greater Chicago Area | On Site | Nov 07 |
-| **[IDeaS Revenue Solutions](http://www.ideas.com)** | **[Data Scientist Research Intern](https://jobright.ai/jobs/info/690e6eded046ab6061cfd913?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[R&D Biostatistics Intern](https://jobright.ai/jobs/info/690e50f9d046ab6061cfc3d1?utm_campaign=1066&utm_source=git)** | Jacksonville, Florida, United States of America | On Site | Nov 07 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Supply Chain/Data Analyst Intern](https://jobright.ai/jobs/info/68eeca7fe0db92422580b888?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Nov 07 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Data Scientist](https://jobright.ai/jobs/info/690e4fbe44146d3b6ec52cd2?utm_campaign=1066&utm_source=git)** | Reston, VA | Remote | Nov 07 |
@@ -136,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/690dcdf7d046ab6061cf93e3?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 07 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Geographic Information Systems Intern](https://jobright.ai/jobs/info/690dd652d046ab6061cf9721?utm_campaign=1066&utm_source=git)** | Cincinnati Metro | Hybrid | Nov 07 |
 | **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[Research Intern](https://jobright.ai/jobs/info/690db84dd046ab6061cf8845?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Nov 07 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/690f07b8d046ab6061d02e82?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Nov 07 |
 | **[Infinity Marketing](http://infinitymkt.com)** | **[Analytics Intern (Spring 2026)](https://jobright.ai/jobs/info/690d9aa9d046ab6061cf7686?utm_campaign=1066&utm_source=git)** | Greenville,SC,US | Hybrid | Nov 06 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, Bachelor’s or Master’s Degree (Summer 2026)](https://jobright.ai/jobs/info/690eedeb221b890c2781295f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 06 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Assay Database Champion Intern](https://jobright.ai/jobs/info/690d904a221b890c27807a79?utm_campaign=1066&utm_source=git)** | Lexington, MA | Hybrid | Nov 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fujitsu](http://www.fujitsu.com)** | **[Research Intern](https://jobright.ai/jobs/info/690e89dad046ab6061cfead3?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 06 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Data Science Undergraduate Internship - Summer 2026](https://jobright.ai/jobs/info/690d400a221b890c278051df?utm_campaign=1066&utm_source=git)** | NY - New York | Hybrid | Nov 06 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 Intern/Co-Op](https://jobright.ai/jobs/info/690d2239d046ab6061cf33f0?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Nov 06 |
-| **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/690d0f78d046ab6061cf228f?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Nov 06 |
-| **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Development (Quant Research) PhD Internship – Summer 2026](https://jobright.ai/jobs/info/690ce350221b890c27800ab0?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
