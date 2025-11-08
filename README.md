@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/68f2ac439a65fd345857f0e8?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Nov 08 |
+| **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68bb2ec95f3832749186cb92?utm_campaign=1066&utm_source=git)** | Davie, FL | Hybrid | Nov 08 |
+| **[IBM](http://www.ibm.com)** | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/68f2ba719a63986de756ba6e?utm_campaign=1066&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 08 |
+| ↳ | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/69080ced122e8474c78e7a95?utm_campaign=1066&utm_source=git)** | Albany, NY | On Site | Nov 08 |
+| **[DriveTime](https://www.drivetime.com)** | **[Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/68d0fd1df1976376178f139e?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Nov 08 |
+| **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/690ada42d046ab6061ce0c5e?utm_campaign=1066&utm_source=git)** | Portland, OR | On Site | Nov 08 |
+| ↳ | **[2026 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/690a964d4a1b456627b097b9?utm_campaign=1066&utm_source=git)** | Rochester, New York Metropolitan Area | On Site | Nov 08 |
+| **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/690f21ef221b890c27814249?utm_campaign=1066&utm_source=git)** | South Sioux City, NE | On Site | Nov 08 |
+| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/690f20ca221b890c27814216?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 08 |
+| **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/690ada72d046ab6061ce0cb0?utm_campaign=1066&utm_source=git)** | Orange, CT | On Site | Nov 08 |
+| ↳ | **[2026 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/690ad865bcccf20de59e6880?utm_campaign=1066&utm_source=git)** | Augusta, ME | On Site | Nov 08 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Epidemiology](https://jobright.ai/jobs/info/690f10acd046ab6061d033a5?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Nov 08 |
 | **[Zoox](https://www.zoox.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/690f0920d046ab6061d02f9a?utm_campaign=1066&utm_source=git)** | Foster City, CA | Hybrid | Nov 08 |
 | **[Memorial Sloan Kettering Cancer Center](http://www.mskcc.org)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/690ef07ad046ab6061d023bc?utm_campaign=1066&utm_source=git)** | New York, United States | Remote | Nov 07 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Internship Program: Data Analytics Intern](https://jobright.ai/jobs/info/690d8c64221b890c2780790d?utm_campaign=1066&utm_source=git)** | USA - MA - Lexington - BIO OPS | Hybrid | Nov 06 |
 | ↳ | **[2026 Summer Internship Program: Analytical Development Mass Spectrometry Informatics Intern](https://jobright.ai/jobs/info/690db659d046ab6061cf8722?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Nov 06 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/690d76a2d046ab6061cf66fd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 06 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Wholesale Intern](https://jobright.ai/jobs/info/690d73f3d046ab6061cf6587?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 06 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Data Science Undergraduate Internship - Summer 2026](https://jobright.ai/jobs/info/690d90b7d046ab6061cf71ed?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 06 |
-| ↳ | **[Data Science Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/690d8cc844146d3b6ec4dbac?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 06 |
-| **[Sanofi](https://www.sanofi.com)** | **[Biostatistics Evidence Generation & Decision Sciences (EGDS)- Summer 2026 Intern](https://jobright.ai/jobs/info/690d9f50221b890c27808285?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Nov 06 |
-| **[Gorton's](https://gortons.com/)** | **[IT Intern](https://jobright.ai/jobs/info/68cc45a3128dc347fd921b23?utm_campaign=1066&utm_source=git)** | Gloucester, MA | On Site | Nov 06 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Insights, Strategy & Analytics - Spring 2026](https://jobright.ai/jobs/info/690d2e6ad046ab6061cf3e00?utm_campaign=1066&utm_source=git)** | Culver City, California | Hybrid | Nov 06 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Data Science Graduate Internship - Summer 2026](https://jobright.ai/jobs/info/690d2a1cd046ab6061cf39fe?utm_campaign=1066&utm_source=git)** | NY - New York | Hybrid | Nov 06 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Wholesale Intern](https://jobright.ai/jobs/info/690d25984a1b456627b1e666?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 06 |
-| **[Fujitsu](http://www.fujitsu.com)** | **[Research Intern](https://jobright.ai/jobs/info/690e89dad046ab6061cfead3?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 06 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Data Science Undergraduate Internship - Summer 2026](https://jobright.ai/jobs/info/690d400a221b890c278051df?utm_campaign=1066&utm_source=git)** | NY - New York | Hybrid | Nov 06 |
-| **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2026 Intern/Co-Op](https://jobright.ai/jobs/info/690d2239d046ab6061cf33f0?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
