@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/690f6381221b890c2781584f?utm_campaign=1066&utm_source=git)** | Florham Park, NJ | On Site | Nov 08 |
+| **[Ibotta](https://home.ibotta.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68d7589861a175619f8c9685?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Nov 08 |
+| **[Lyft](https://www.lyft.com/)** | **[Data Science Intern, Algorithms (Summer 2026)](https://jobright.ai/jobs/info/68cec55fdbd9fb154ede290b?utm_campaign=1066&utm_source=git)** | San Francisco County, CA | Hybrid | Nov 08 |
+| **[Kimball International](https://www.kimballinternational.com)** | **[IT Intern: Business Intelligence - Kimball International, Jasper, IN](https://jobright.ai/jobs/info/690f59ee44146d3b6ec5b729?utm_campaign=1066&utm_source=git)** | Jasper, IN | On Site | Nov 08 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/690f593444146d3b6ec5b6ef?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Nov 08 |
+| ↳ | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/690f5804d046ab6061d04d08?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Nov 08 |
+| **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68d713c145853d0e39cccb8a?utm_campaign=1066&utm_source=git)** | Redwood City, CA | Hybrid | Nov 08 |
+| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[IDAR Summer Intern - C&SP](https://jobright.ai/jobs/info/6907589a122e8474c78e412b?utm_campaign=1066&utm_source=git)** | Raritan, NJ | Hybrid | Nov 08 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Italian Metadata Technician - Internship](https://jobright.ai/jobs/info/689e84c3faa4e875e827d6a3?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Nov 08 |
 | **[Cover Genius](http://www.covergenius.com)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/68f2a6d976a51a4307bc5e09?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 08 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Business Technology Solutions Intern - Data](https://jobright.ai/jobs/info/68d70cb9894705799a2f0430?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Nov 08 |
 | **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68bb39236105227d118a4411?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 08 |
@@ -129,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12b35ef766b3f0fd0949c?utm_campaign=1066&utm_source=git)** | Glenview, IL | On Site | Nov 07 |
 | ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f137b9e6870116b1f54e72?utm_campaign=1066&utm_source=git)** | Kenosha, WI | On Site | Nov 07 |
 | ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12d96f462172a5a7d3c42?utm_campaign=1066&utm_source=git)** | Waukegan, IL | On Site | Nov 07 |
-| **[Ohio Department of Education and Workforce](http://education.ohio.gov)** | **[Research Analytics Intern](https://jobright.ai/jobs/info/690bc7eb221b890c277f811a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Nov 07 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[V.I.E. Quant Researcher](https://jobright.ai/jobs/info/690e2a07221b890c2780b612?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Nov 07 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Construction Technology- Business/Data Analyst](https://jobright.ai/jobs/info/68f1664ee6870116b1f586b0?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Nov 07 |
 | **[Jobgether](https://jobgether.com/)** | **[CX Data Intelligence Analyst Intern (Remote - US)](https://jobright.ai/jobs/info/690e258744146d3b6ec51785?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 07 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oatey Company](https://www.oatey.com//)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cb8fc4ba798c1a501d1c99?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Nov 07 |
 | **[Acadian Asset Management](http://www.acadian-asset.com/)** | **[Quant Research Intern - Summer 2026](https://jobright.ai/jobs/info/68f16117f462172a5a7d75b4?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Nov 07 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - TPG Global IE](https://jobright.ai/jobs/info/68f18c87e6870116b1f5a58a?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Nov 07 |
-| **[Texas Instruments](http://www.ti.com)** | **[Facilities Data Analytics Intern](https://jobright.ai/jobs/info/68d5ca011f7fb2169ab13b8f?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Nov 07 |
-| **[Group 1001](https://group1001.com/)** | **[Quantitative Analysis Intern](https://jobright.ai/jobs/info/68f16c8ee6870116b1f58ca7?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Nov 07 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/690dcdf7d046ab6061cf93e3?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 07 |
-| **[American Modern Insurance Group](https://www.amig.com/)** | **[Geographic Information Systems Intern](https://jobright.ai/jobs/info/690dd652d046ab6061cf9721?utm_campaign=1066&utm_source=git)** | Cincinnati Metro | Hybrid | Nov 07 |
-| **[Foundation for Individual Rights and Expression](https://www.thefire.org/)** | **[Research Intern](https://jobright.ai/jobs/info/690db84dd046ab6061cf8845?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Nov 07 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/690f07b8d046ab6061d02e82?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Nov 07 |
-| **[Infinity Marketing](http://infinitymkt.com)** | **[Analytics Intern (Spring 2026)](https://jobright.ai/jobs/info/690d9aa9d046ab6061cf7686?utm_campaign=1066&utm_source=git)** | Greenville,SC,US | Hybrid | Nov 06 |
-| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, Bachelor’s or Master’s Degree (Summer 2026)](https://jobright.ai/jobs/info/690eedeb221b890c2781295f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
