@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/690f9193bb519377733e91e4?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 08 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Data Science Intern](https://jobright.ai/jobs/info/690f897c183be660d26759df?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 08 |
 | **[Akron Children's](http://www.akronchildrens.org)** | **[Research Intern](https://jobright.ai/jobs/info/690f786a988c2b7b4ec4e262?utm_campaign=1066&utm_source=git)** | Akron, OH | On Site | Nov 08 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/68d802cb7a37c712687d7b34?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68d7fb39295f8e37655e47ee?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Nov 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690df494d046ab6061cf9f2c?utm_campaign=1066&utm_source=git)** | US-DC-Washington, DC | On Site | Nov 07 |
 | **[Jobgether](https://jobgether.com/)** | **[Collections Data Analyst Intern](https://jobright.ai/jobs/info/690e1981d046ab6061cfa845?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Do it Best](http://www.doitbestcorp.com)** | **[Data Analytics Internship - Logistics](https://jobright.ai/jobs/info/68b895e607090163b6ba316a?utm_campaign=1066&utm_source=git)** | Fort Wayne, IN | On Site | Nov 07 |
-| **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690df076d046ab6061cf9e59?utm_campaign=1066&utm_source=git)** | US-TX-Dallas | On Site | Nov 07 |
-| ↳ | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690df00a44146d3b6ec508ec?utm_campaign=1066&utm_source=git)** | US-NY-New York | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
