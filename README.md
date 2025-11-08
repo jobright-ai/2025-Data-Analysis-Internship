@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amgen](http://www.amgen.com)** | **[Grad Intern - Biostatistics](https://jobright.ai/jobs/info/690fa762183be660d267632a?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 08 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/690f9193bb519377733e91e4?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 08 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Data Science Intern](https://jobright.ai/jobs/info/690f897c183be660d26759df?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 08 |
 | **[Akron Children's](http://www.akronchildrens.org)** | **[Research Intern](https://jobright.ai/jobs/info/690f786a988c2b7b4ec4e262?utm_campaign=1066&utm_source=git)** | Akron, OH | On Site | Nov 08 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/68d7fb857796a83635f0e0c0?utm_campaign=1066&utm_source=git)** | Virginia Beach, VA | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/69081970ff462851fe00c5bf?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/69082f1c122e8474c78e8459?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Nov 08 |
+| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/690838ee63502c0aded8ac97?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/690f6381221b890c2781584f?utm_campaign=1066&utm_source=git)** | Florham Park, NJ | On Site | Nov 08 |
 | **[Ibotta](https://home.ibotta.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68d7589861a175619f8c9685?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Nov 08 |
 | **[Lyft](https://www.lyft.com/)** | **[Data Science Intern, Algorithms (Summer 2026)](https://jobright.ai/jobs/info/68cec55fdbd9fb154ede290b?utm_campaign=1066&utm_source=git)** | San Francisco County, CA | Hybrid | Nov 08 |
@@ -90,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/690ada42d046ab6061ce0c5e?utm_campaign=1066&utm_source=git)** | Portland, OR | On Site | Nov 08 |
 | ↳ | **[2026 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/690a964d4a1b456627b097b9?utm_campaign=1066&utm_source=git)** | Rochester, New York Metropolitan Area | On Site | Nov 08 |
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/690f21ef221b890c27814249?utm_campaign=1066&utm_source=git)** | South Sioux City, NE | On Site | Nov 08 |
-| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/690f20ca221b890c27814216?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 08 |
 | **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/690ada72d046ab6061ce0cb0?utm_campaign=1066&utm_source=git)** | Orange, CT | On Site | Nov 08 |
 | ↳ | **[2026 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/690ad865bcccf20de59e6880?utm_campaign=1066&utm_source=git)** | Augusta, ME | On Site | Nov 08 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Epidemiology](https://jobright.ai/jobs/info/690f10acd046ab6061d033a5?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Nov 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690df5de221b890c2780a6f9?utm_campaign=1066&utm_source=git)** | US-CA-Los Angeles | On Site | Nov 07 |
 | ↳ | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690df494d046ab6061cf9f2c?utm_campaign=1066&utm_source=git)** | US-DC-Washington, DC | On Site | Nov 07 |
 | **[Jobgether](https://jobgether.com/)** | **[Collections Data Analyst Intern](https://jobright.ai/jobs/info/690e1981d046ab6061cfa845?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 07 |
-| **[Do it Best](http://www.doitbestcorp.com)** | **[Data Analytics Internship - Logistics](https://jobright.ai/jobs/info/68b895e607090163b6ba316a?utm_campaign=1066&utm_source=git)** | Fort Wayne, IN | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
