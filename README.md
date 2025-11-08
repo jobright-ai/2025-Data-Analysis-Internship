@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Akron Children's](http://www.akronchildrens.org)** | **[Research Intern](https://jobright.ai/jobs/info/690f786a988c2b7b4ec4e262?utm_campaign=1066&utm_source=git)** | Akron, OH | On Site | Nov 08 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/68d802cb7a37c712687d7b34?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
+| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/68d7fb39295f8e37655e47ee?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Nov 08 |
+| **[Ingredion Incorporated](http://ingredion.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68ff7cbce0c73b3a1119bb80?utm_campaign=1066&utm_source=git)** | Westchester, IL | Hybrid | Nov 08 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/68d7fb857796a83635f0e0c0?utm_campaign=1066&utm_source=git)** | Virginia Beach, VA | Hybrid | Nov 08 |
+| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/69081970ff462851fe00c5bf?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
+| ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/69082f1c122e8474c78e8459?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Nov 08 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/690f6381221b890c2781584f?utm_campaign=1066&utm_source=git)** | Florham Park, NJ | On Site | Nov 08 |
 | **[Ibotta](https://home.ibotta.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68d7589861a175619f8c9685?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Nov 08 |
 | **[Lyft](https://www.lyft.com/)** | **[Data Science Intern, Algorithms (Summer 2026)](https://jobright.ai/jobs/info/68cec55fdbd9fb154ede290b?utm_campaign=1066&utm_source=git)** | San Francisco County, CA | Hybrid | Nov 08 |
+| ↳ | **[Data Science Intern, Algorithms (Summer 2026)](https://jobright.ai/jobs/info/68bb27f06105227d118a36c4?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | **[Kimball International](https://www.kimballinternational.com)** | **[IT Intern: Business Intelligence - Kimball International, Jasper, IN](https://jobright.ai/jobs/info/690f59ee44146d3b6ec5b729?utm_campaign=1066&utm_source=git)** | Jasper, IN | On Site | Nov 08 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/690f593444146d3b6ec5b6ef?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Nov 08 |
 | ↳ | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/690f5804d046ab6061d04d08?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Nov 08 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Do it Best](http://www.doitbestcorp.com)** | **[Data Analytics Internship - Logistics](https://jobright.ai/jobs/info/68b895e607090163b6ba316a?utm_campaign=1066&utm_source=git)** | Fort Wayne, IN | On Site | Nov 07 |
 | **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690df076d046ab6061cf9e59?utm_campaign=1066&utm_source=git)** | US-TX-Dallas | On Site | Nov 07 |
 | ↳ | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690df00a44146d3b6ec508ec?utm_campaign=1066&utm_source=git)** | US-NY-New York | On Site | Nov 07 |
-| ↳ | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690defbc221b890c2780a5d8?utm_campaign=1066&utm_source=git)** | US-CA-San Francisco | On Site | Nov 07 |
-| ↳ | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690deee7221b890c2780a5b0?utm_campaign=1066&utm_source=git)** | US-IL-Chicago | On Site | Nov 07 |
-| ↳ | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690deed444146d3b6ec508c6?utm_campaign=1066&utm_source=git)** | US-MA-Boston | On Site | Nov 07 |
-| **[OTC Industrial Technologies](https://otcindustrial.com/)** | **[Systems and Analytics Intern](https://jobright.ai/jobs/info/68f14a62e6870116b1f5651a?utm_campaign=1066&utm_source=git)** | Ohio, United States | Remote | Nov 07 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Billing Solutions Analyst](https://jobright.ai/jobs/info/68ba72796105227d1189e170?utm_campaign=1066&utm_source=git)** | Maryland Heights, MO | On Site | Nov 07 |
-| **[Oatey Company](https://www.oatey.com//)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cb8fc4ba798c1a501d1c99?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Nov 07 |
-| **[Acadian Asset Management](http://www.acadian-asset.com/)** | **[Quant Research Intern - Summer 2026](https://jobright.ai/jobs/info/68f16117f462172a5a7d75b4?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Nov 07 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - TPG Global IE](https://jobright.ai/jobs/info/68f18c87e6870116b1f5a58a?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
