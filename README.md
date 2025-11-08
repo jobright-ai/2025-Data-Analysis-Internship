@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Central Services GIS Intern - Internship 2026](https://jobright.ai/jobs/info/690ea053221b890c2780ffad?utm_campaign=1066&utm_source=git)** | Illinois Remote Work | Remote | Nov 07 |
+| **[The Cigna Group](https://www.cigna.com/)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/690eb302d046ab6061d004c2?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Nov 07 |
+| **[Capital Insurance Group](https://www.ciginsurance.com/)** | **[Analytics Summer Intern](https://jobright.ai/jobs/info/690eae8944146d3b6ec56b88?utm_campaign=1066&utm_source=git)** | Reno, NV | On Site | Nov 07 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Central Services GIS Intern - Internship 2026](https://jobright.ai/jobs/info/690ea7b144146d3b6ec5673a?utm_campaign=1066&utm_source=git)** | Illinois, United States | Remote | Nov 07 |
+| ↳ | **[Central Services GIS Intern - Internship 2026](https://jobright.ai/jobs/info/690ea334d046ab6061cff941?utm_campaign=1066&utm_source=git)** | Wisconsin Remote Work | Remote | Nov 07 |
+| ↳ | **[Central Services GIS Intern - Internship 2026](https://jobright.ai/jobs/info/690ea053221b890c2780ffad?utm_campaign=1066&utm_source=git)** | Illinois Remote Work | Remote | Nov 07 |
 | ↳ | **[Central Services GIS Intern - Internship 2026](https://jobright.ai/jobs/info/690e9f78221b890c2780ff45?utm_campaign=1066&utm_source=git)** | Utah Remote Work | Remote | Nov 07 |
 | ↳ | **[Central Services GIS Intern - Internship 2026](https://jobright.ai/jobs/info/690e9bef44146d3b6ec55e9b?utm_campaign=1066&utm_source=git)** | Kansas Remote Work | Remote | Nov 07 |
 | ↳ | **[Central Services GIS Intern - Internship 2026](https://jobright.ai/jobs/info/690e99c544146d3b6ec55c32?utm_campaign=1066&utm_source=git)** | Michigan Remote Work | Remote | Nov 07 |
@@ -93,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12f80e6870116b1f54621?utm_campaign=1066&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 07 |
 | **[GCI Incorporated](https://www.gci.tech)** | **[(Targeting) Intelligence Analyst Summer 2026 Intern (paid)](https://jobright.ai/jobs/info/68effcd19821486c423c8436?utm_campaign=1066&utm_source=git)** | Virginia, United States | On Site | Nov 07 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Construction Technology- Business/Data Analyst](https://jobright.ai/jobs/info/68f164ceef766b3f0fd0d32f?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Nov 07 |
+| **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f137b9e6870116b1f54e72?utm_campaign=1066&utm_source=git)** | Kenosha, WI | On Site | Nov 07 |
 | **[Arrive Logistics](http://www.arrivelogistics.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e6bfc3ae2b894b1d71d4e6?utm_campaign=1066&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Nov 07 |
 | **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12b35ef766b3f0fd0949c?utm_campaign=1066&utm_source=git)** | Glenview, IL | On Site | Nov 07 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[V.I.E. Quant Researcher](https://jobright.ai/jobs/info/690e2a07221b890c2780b612?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Nov 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/690d0a4b4a1b456627b1ce2c?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Nov 06 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[FamilySearch Data Quality Intern](https://jobright.ai/jobs/info/690d6195221b890c278063a8?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Nov 06 |
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[Business Analytics & Technology Intern](https://jobright.ai/jobs/info/68f75523b0edcf159dc7b091?utm_campaign=1066&utm_source=git)** | Evansville, IN | On Site | Nov 06 |
-| **[Dyson Benelux](http://www.dyson.com)** | **[Data Analyst Internship, Procurement Excellence](https://jobright.ai/jobs/info/690ca2b6d046ab6061ceec99?utm_campaign=1066&utm_source=git)** | St James, NY | On Site | Nov 06 |
-| **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/68d787d2267b154f9a2dbaad?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 06 |
-| **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Data Science, Planner & Perception Eval](https://jobright.ai/jobs/info/68d344ff17554c2d9eeef5a3?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Nov 06 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern - Optimization (Summer 2026)](https://jobright.ai/jobs/info/68d614592116ff37ee092992?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 06 |
-| **[IBM](http://www.ibm.com)** | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/69081d75ff462851fe00c757?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
