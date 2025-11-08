@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IBM](http://www.ibm.com)** | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/68f2ac439a65fd345857f0e8?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Nov 08 |
+| **[Cover Genius](http://www.covergenius.com)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/68f2a6d976a51a4307bc5e09?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 08 |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Business Technology Solutions Intern - Data](https://jobright.ai/jobs/info/68d70cb9894705799a2f0430?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Nov 08 |
+| **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68bb39236105227d118a4411?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 08 |
+| ↳ | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68bb2f796105227d118a3a01?utm_campaign=1066&utm_source=git)** | Syracuse, NY | Hybrid | Nov 08 |
+| **[Church Mutual Insurance Company, S.I.](http://www.churchmutual.com)** | **[Intern-Data & Analytics](https://jobright.ai/jobs/info/690f31d844146d3b6ec5aa19?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Nov 08 |
+| **[IBM](http://www.ibm.com)** | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/68f2ad879a65fd345857f3d7?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
+| ↳ | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/68f2ac439a65fd345857f0e8?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Nov 08 |
 | **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68bb2ec95f3832749186cb92?utm_campaign=1066&utm_source=git)** | Davie, FL | Hybrid | Nov 08 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/68f2ba719a63986de756ba6e?utm_campaign=1066&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 08 |
 | ↳ | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/69080ced122e8474c78e7a95?utm_campaign=1066&utm_source=git)** | Albany, NY | On Site | Nov 08 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/690f07b8d046ab6061d02e82?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Nov 07 |
 | **[Infinity Marketing](http://infinitymkt.com)** | **[Analytics Intern (Spring 2026)](https://jobright.ai/jobs/info/690d9aa9d046ab6061cf7686?utm_campaign=1066&utm_source=git)** | Greenville,SC,US | Hybrid | Nov 06 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, Bachelor’s or Master’s Degree (Summer 2026)](https://jobright.ai/jobs/info/690eedeb221b890c2781295f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 06 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Assay Database Champion Intern](https://jobright.ai/jobs/info/690d904a221b890c27807a79?utm_campaign=1066&utm_source=git)** | Lexington, MA | Hybrid | Nov 06 |
-| ↳ | **[2026 Summer Internship Program: Data Digital and Technology (DD&T) Intern](https://jobright.ai/jobs/info/690dcde6221b890c27809baf?utm_campaign=1066&utm_source=git)** | USA - IL - Round Lake Innovation Park | On Site | Nov 06 |
-| ↳ | **[2026 Summer Internship Program: Data Scientist for R&D Quality Intern](https://jobright.ai/jobs/info/690d8c8744146d3b6ec4db90?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Nov 06 |
-| ↳ | **[2026 Summer Internship Program: Data Analytics Intern](https://jobright.ai/jobs/info/690d8c64221b890c2780790d?utm_campaign=1066&utm_source=git)** | USA - MA - Lexington - BIO OPS | Hybrid | Nov 06 |
-| ↳ | **[2026 Summer Internship Program: Analytical Development Mass Spectrometry Informatics Intern](https://jobright.ai/jobs/info/690db659d046ab6061cf8722?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Nov 06 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst, Emerging Talent Intern](https://jobright.ai/jobs/info/690d76a2d046ab6061cf66fd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
