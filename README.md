@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Motion](https://www.motion.com)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/69108d23183be660d267949a?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Nov 09 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Biostatistics - Intern](https://jobright.ai/jobs/info/69085800ff462851fe00e90e?utm_campaign=1066&utm_source=git)** | North Wales, PA | Hybrid | Nov 09 |
+| **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Intern](https://jobright.ai/jobs/info/68f0b908eb273a32d976cbdb?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Nov 09 |
 | **[Quill](http://www.quill.com)** | **[Quill Data Science Intern - June 2026](https://jobright.ai/jobs/info/68d807d67796a83635f0e6d6?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Nov 09 |
 | **[Creative Artists Agency](http://www.caa.com)** | **[U.S. Campus Summer 2026 Data and Tech Internship Application](https://jobright.ai/jobs/info/68f3af869a63986de75733f2?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Nov 09 |
 | **[Quill](http://www.quill.com)** | **[Quill Reporting & Analytics Intern - June 2026](https://jobright.ai/jobs/info/68d807f47796a83635f0e73c?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Nov 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Veritiv](https://www.veritiv.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68d57ce163d77d6f6f3ef057?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Nov 07 |
 | **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12f80e6870116b1f54621?utm_campaign=1066&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 07 |
 | **[GCI Incorporated](https://www.gci.tech)** | **[(Targeting) Intelligence Analyst Summer 2026 Intern (paid)](https://jobright.ai/jobs/info/68effcd19821486c423c8436?utm_campaign=1066&utm_source=git)** | Virginia, United States | On Site | Nov 07 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Construction Technology- Business/Data Analyst](https://jobright.ai/jobs/info/68f164ceef766b3f0fd0d32f?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Nov 07 |
-| **[Arrive Logistics](http://www.arrivelogistics.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68e6bfc3ae2b894b1d71d4e6?utm_campaign=1066&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Nov 07 |
-| **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12b35ef766b3f0fd0949c?utm_campaign=1066&utm_source=git)** | Glenview, IL | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
