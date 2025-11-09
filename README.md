@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/690fc176183be660d26766ca?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Nov 08 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern - Biostatistics](https://jobright.ai/jobs/info/690fa762183be660d267632a?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 08 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/690f9193bb519377733e91e4?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 08 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Data Science Intern](https://jobright.ai/jobs/info/690f897c183be660d26759df?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 08 |
@@ -118,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Business Intelligence Internship - Summer 2026](https://jobright.ai/jobs/info/690e7545d046ab6061cfdcec?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 07 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[R&D Biostatistics Intern](https://jobright.ai/jobs/info/690e719a44146d3b6ec54415?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Nov 07 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Data Scientist](https://jobright.ai/jobs/info/690e70bdd046ab6061cfda8c?utm_campaign=1066&utm_source=git)** | Reston, VA | On Site | Nov 07 |
+| **[Ohio Department of Education and Workforce](http://education.ohio.gov)** | **[Research Analytics Intern](https://jobright.ai/jobs/info/690bc7eb221b890c277f811a?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Nov 07 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 07 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Revenue Cycle Management Intern – Summer 2026 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/690e6350d046ab6061cfcfd0?utm_campaign=1066&utm_source=git)** | Dallas, TX, United States | On Site | Nov 07 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Insights, Strategy & Analytics - Spring 2026](https://jobright.ai/jobs/info/690e5afcd046ab6061cfc93e?utm_campaign=1066&utm_source=git)** | Culver City, CA | Hybrid | Nov 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Acadian Asset Management](http://www.acadian-asset.com/)** | **[Quant Developer Intern - Summer 2026](https://jobright.ai/jobs/info/68f16077f462172a5a7d74a3?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Nov 07 |
 | **[Craftwater](http://craftwater.com)** | **[Watershed Analyst Intern](https://jobright.ai/jobs/info/690dfab644146d3b6ec50b3b?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Nov 07 |
 | **[Analysis Group](http://www.analysisgroup.com)** | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690df5de221b890c2780a6f9?utm_campaign=1066&utm_source=git)** | US-CA-Los Angeles | On Site | Nov 07 |
-| ↳ | **[Summer Associate Intern - Generalist (PhD) (2026 Start Date)](https://jobright.ai/jobs/info/690df494d046ab6061cf9f2c?utm_campaign=1066&utm_source=git)** | US-DC-Washington, DC | On Site | Nov 07 |
-| **[Jobgether](https://jobgether.com/)** | **[Collections Data Analyst Intern](https://jobright.ai/jobs/info/690e1981d046ab6061cfa845?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
