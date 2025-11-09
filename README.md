@@ -72,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[DriveTime](https://www.drivetime.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68d0bb83dbd9fb154edef339?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Nov 09 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[IBP Data Management Intern - The Toro Company](https://jobright.ai/jobs/info/68f387d39a65fd34585874c3?utm_campaign=1066&utm_source=git)** | Hennepin County, MN | On Site | Nov 09 |
 | **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/68d787d2267b154f9a2dbaad?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 08 |
+| **[Virginia Farm Bureau Family of Companies](http://www.vafb.com)** | **[Part-Time Data Analyst Intern- Meadow Event Park](https://jobright.ai/jobs/info/6910d5b5988c2b7b4ec52b5f?utm_campaign=1066&utm_source=git)** | Doswell, VA | On Site | Nov 08 |
 | **[Latinx in AI (LXAI)](http://www.latinxinai.org/)** | **[AI PhD Discovery Data Science Internship](https://jobright.ai/jobs/info/691061e6183be660d2678c6a?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Nov 08 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern - Biostatistics](https://jobright.ai/jobs/info/690fa762183be660d267632a?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 08 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/690f9193bb519377733e91e4?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/68cd8a5ce23def7af55bb67d?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Nov 07 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[IT Systems Analyst - 2026 Summer Internship](https://jobright.ai/jobs/info/68d444cb8c62e63bc7fe7595?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 07 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Analyst, Software Asset Management](https://jobright.ai/jobs/info/68ff1615e04ac838fb5b62b9?utm_campaign=1066&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 07 |
-| **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/68d5601939247e3c807ea83f?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
