@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/690844c7122e8474c78e9414?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist - Model Risk Management)](https://jobright.ai/jobs/info/68f4ad609a63986de75771c3?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Nov 09 |
+| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/690844c7122e8474c78e9414?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Data Digital and Technology (DD&T) Intern](https://jobright.ai/jobs/info/6910adbcbb519377733eceba?utm_campaign=1066&utm_source=git)** | Libertyville, IL | On Site | Nov 09 |
 | ↳ | **[2026 Summer Internship Program: Data Scientist for R&D Quality Intern](https://jobright.ai/jobs/info/6910aafb988c2b7b4ec525ad?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Nov 09 |
 | **[Motion](https://www.motion.com)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/69108d23183be660d267949a?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Nov 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[IT Systems Analyst - 2026 Summer Internship](https://jobright.ai/jobs/info/68d444cb8c62e63bc7fe7595?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 07 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Analyst, Software Asset Management](https://jobright.ai/jobs/info/68ff1615e04ac838fb5b62b9?utm_campaign=1066&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 07 |
 | **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/68d5601939247e3c807ea83f?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 07 |
-| **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f133f4f462172a5a7d433e?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
