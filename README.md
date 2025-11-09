@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/690fc176183be660d26766ca?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Nov 08 |
+| **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/68d787d2267b154f9a2dbaad?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 08 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern - Biostatistics](https://jobright.ai/jobs/info/690fa762183be660d267632a?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 08 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/690f9193bb519377733e91e4?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 08 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Data Science Intern](https://jobright.ai/jobs/info/690f897c183be660d26759df?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 08 |
