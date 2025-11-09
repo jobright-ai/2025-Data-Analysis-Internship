@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/691103c9183be660d267aa2d?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Nov 09 |
+| **[Los Angeles Capital Management](https://lacapm.com/)** | **[Intern, Research](https://jobright.ai/jobs/info/6910f3a7183be660d267a751?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist - Model Risk Management)](https://jobright.ai/jobs/info/68f4ad609a63986de75771c3?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Nov 09 |
 | ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/690844c7122e8474c78e9414?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Data Digital and Technology (DD&T) Intern](https://jobright.ai/jobs/info/6910adbcbb519377733eceba?utm_campaign=1066&utm_source=git)** | Libertyville, IL | On Site | Nov 09 |
@@ -74,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/68d787d2267b154f9a2dbaad?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 08 |
 | **[Virginia Farm Bureau Family of Companies](http://www.vafb.com)** | **[Part-Time Data Analyst Intern- Meadow Event Park](https://jobright.ai/jobs/info/6910d5b5988c2b7b4ec52b5f?utm_campaign=1066&utm_source=git)** | Doswell, VA | On Site | Nov 08 |
 | **[Latinx in AI (LXAI)](http://www.latinxinai.org/)** | **[AI PhD Discovery Data Science Internship](https://jobright.ai/jobs/info/691061e6183be660d2678c6a?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Nov 08 |
+| **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/69110a33988c2b7b4ec536f7?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 08 |
 | **[Amgen](http://www.amgen.com)** | **[Grad Intern - Biostatistics](https://jobright.ai/jobs/info/690fa762183be660d267632a?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 08 |
-| **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/690f9193bb519377733e91e4?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 08 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Data Science Intern](https://jobright.ai/jobs/info/690f897c183be660d26759df?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 08 |
 | **[Akron Children's](http://www.akronchildrens.org)** | **[Research Intern](https://jobright.ai/jobs/info/690f786a988c2b7b4ec4e262?utm_campaign=1066&utm_source=git)** | Akron, OH | On Site | Nov 08 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/68d802cb7a37c712687d7b34?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAS](http://www.sas.com)** | **[Data Scientist Research Intern](https://jobright.ai/jobs/info/690e5905221b890c2780cfea?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2026 Graduate Internship – Data Science](https://jobright.ai/jobs/info/690e2606d046ab6061cfac82?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Nov 07 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/68cd8a5ce23def7af55bb67d?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Nov 07 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[IT Systems Analyst - 2026 Summer Internship](https://jobright.ai/jobs/info/68d444cb8c62e63bc7fe7595?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 07 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Analyst, Software Asset Management](https://jobright.ai/jobs/info/68ff1615e04ac838fb5b62b9?utm_campaign=1066&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
