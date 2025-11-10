@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cboe Global Markets](http://www.cboe.com)** | **[Data Vantage BI Intern](https://jobright.ai/jobs/info/68cd8cc6e23def7af55bba67?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern- Clinical Operations- Clinical Data Management](https://jobright.ai/jobs/info/69120543d1047e3565cf8f27?utm_campaign=1066&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/68da28590b832179ca4ab92b?utm_campaign=1066&utm_source=git)** | Garland, TX | On Site | Nov 10 |
 | **[Aptiv](http://www.aptiv.com)** | **[Data Analytics Engineering Intern](https://jobright.ai/jobs/info/68cfdcb3846f0b04af68577e?utm_campaign=1066&utm_source=git)** | Troy, MI | On Site | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - R&D - Clinical Data Science](https://jobright.ai/jobs/info/6911c197183be660d267dcd8?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
 | ↳ | **[Intern - Clinical Development - Biostatistics, Oncology](https://jobright.ai/jobs/info/6911becb988c2b7b4ec56804?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
@@ -67,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Jobgether](https://jobgether.com/)** | **[Data Scientist Research Intern](https://jobright.ai/jobs/info/69119866988c2b7b4ec557a5?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 09 |
 | **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/691184fa183be660d267c46b?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Nov 09 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68c00e7d5c5d5f14f46db3bd?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 09 |
-| **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/691103c9183be660d267aa2d?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Nov 09 |
 | **[Los Angeles Capital Management](https://lacapm.com/)** | **[Intern, Research](https://jobright.ai/jobs/info/6910f3a7183be660d267a751?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist - Model Risk Management)](https://jobright.ai/jobs/info/68f4ad609a63986de75771c3?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Nov 09 |
 | ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/690844c7122e8474c78e9414?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
@@ -126,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Epidemiology](https://jobright.ai/jobs/info/690f10acd046ab6061d033a5?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Nov 08 |
 | **[Zoox](https://www.zoox.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/690f0920d046ab6061d02f9a?utm_campaign=1066&utm_source=git)** | Foster City, CA | Hybrid | Nov 08 |
 | **[Memorial Sloan Kettering Cancer Center](http://www.mskcc.org)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/690ef07ad046ab6061d023bc?utm_campaign=1066&utm_source=git)** | New York, United States | Remote | Nov 07 |
-| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/69103d5c183be660d2677db7?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Nov 07 |
 | **[Zoox](https://www.zoox.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/690ed111221b890c27811e45?utm_campaign=1066&utm_source=git)** | Foster City, CA | Hybrid | Nov 07 |
 | **[Memorial Sloan Kettering Cancer Center](http://www.mskcc.org)** | **[Data Management Summer Intern](https://jobright.ai/jobs/info/690ecf4a44146d3b6ec57fbd?utm_campaign=1066&utm_source=git)** | New York - Teleworker | Remote | Nov 07 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Assay Database Champion Intern](https://jobright.ai/jobs/info/690ec814d046ab6061d01285?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Nov 07 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Business Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/690e54ba221b890c2780cd0f?utm_campaign=1066&utm_source=git)** | Greater Chicago Area | On Site | Nov 07 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[R&D Biostatistics Intern](https://jobright.ai/jobs/info/690e50f9d046ab6061cfc3d1?utm_campaign=1066&utm_source=git)** | Jacksonville, Florida, United States of America | On Site | Nov 07 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Supply Chain/Data Analyst Intern](https://jobright.ai/jobs/info/68eeca7fe0db92422580b888?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Nov 07 |
-| **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Data Scientist](https://jobright.ai/jobs/info/690e4fbe44146d3b6ec52cd2?utm_campaign=1066&utm_source=git)** | Reston, VA | Remote | Nov 07 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Data Scientist Research Intern](https://jobright.ai/jobs/info/690e640d44146d3b6ec539e1?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Nov 07 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Data Science Intern](https://jobright.ai/jobs/info/690e3bd744146d3b6ec52293?utm_campaign=1066&utm_source=git)** | IL - Chicago | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
