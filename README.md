@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - R&D - Clinical Data Science](https://jobright.ai/jobs/info/6911ab95bb519377733f086c?utm_campaign=1066&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
+| ↳ | **[Graduate Intern - Research - Bioinformatics](https://jobright.ai/jobs/info/6911aad3bb519377733f065f?utm_campaign=1066&utm_source=git)** | United States - California - Foster City | On Site | Nov 10 |
 | **[Jobgether](https://jobgether.com/)** | **[Data Scientist Research Intern](https://jobright.ai/jobs/info/69119866988c2b7b4ec557a5?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 09 |
 | **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/691184fa183be660d267c46b?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Nov 09 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68c00e7d5c5d5f14f46db3bd?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Business Insights (BI) Intern](https://jobright.ai/jobs/info/690e71e644146d3b6ec5445c?utm_campaign=1066&utm_source=git)** | Nashville, TN | Hybrid | Nov 07 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern- Data Analytics](https://jobright.ai/jobs/info/690e6a3d221b890c2780dc52?utm_campaign=1066&utm_source=git)** | Greater Milwaukee | On Site | Nov 07 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Merchandise Insights Intern](https://jobright.ai/jobs/info/690e8afb221b890c2780f2df?utm_campaign=1066&utm_source=git)** | Remote, USA | Remote | Nov 07 |
-| **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Business Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/690e527644146d3b6ec52e65?utm_campaign=1066&utm_source=git)** | Aurora, Illinois | On Site | Nov 07 |
-| **[Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org)** | **[Summer 2026 Graduate Internship – Data Science](https://jobright.ai/jobs/info/690e57af44146d3b6ec531ba?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
