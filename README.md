@@ -73,7 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/690844c7122e8474c78e9414?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Summer Internship Program: Data Digital and Technology (DD&T) Intern](https://jobright.ai/jobs/info/6910adbcbb519377733eceba?utm_campaign=1066&utm_source=git)** | Libertyville, IL | On Site | Nov 09 |
 | ↳ | **[2026 Summer Internship Program: Data Scientist for R&D Quality Intern](https://jobright.ai/jobs/info/6910aafb988c2b7b4ec525ad?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Nov 09 |
-| **[Motion](https://www.motion.com)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/69108d23183be660d267949a?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Nov 09 |
+| **[Motion](http://www.dragosupply.com/)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/69108d23183be660d267949a?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Nov 09 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Biostatistics - Intern](https://jobright.ai/jobs/info/69085800ff462851fe00e90e?utm_campaign=1066&utm_source=git)** | North Wales, PA | Hybrid | Nov 09 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Intern](https://jobright.ai/jobs/info/68f0b908eb273a32d976cbdb?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Nov 09 |
 | **[Quill](http://www.quill.com)** | **[Quill Data Science Intern - June 2026](https://jobright.ai/jobs/info/68d807d67796a83635f0e6d6?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Nov 09 |
@@ -99,7 +99,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/69082f1c122e8474c78e8459?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Nov 08 |
 | ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/690838ee63502c0aded8ac97?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/690f6381221b890c2781584f?utm_campaign=1066&utm_source=git)** | Florham Park, NJ | On Site | Nov 08 |
-| **[Ibotta](https://home.ibotta.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68d7589861a175619f8c9685?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Nov 08 |
 | **[Lyft](https://www.lyft.com/)** | **[Data Science Intern, Algorithms (Summer 2026)](https://jobright.ai/jobs/info/68cec55fdbd9fb154ede290b?utm_campaign=1066&utm_source=git)** | San Francisco County, CA | Hybrid | Nov 08 |
 | ↳ | **[Data Science Intern, Algorithms (Summer 2026)](https://jobright.ai/jobs/info/68bb27f06105227d118a36c4?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 | **[Kimball International](https://www.kimballinternational.com)** | **[IT Intern: Business Intelligence - Kimball International, Jasper, IN](https://jobright.ai/jobs/info/690f59ee44146d3b6ec5b729?utm_campaign=1066&utm_source=git)** | Jasper, IN | On Site | Nov 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Supply Chain/Data Analyst Intern](https://jobright.ai/jobs/info/68eeca7fe0db92422580b888?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Nov 07 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Data Scientist](https://jobright.ai/jobs/info/690e4fbe44146d3b6ec52cd2?utm_campaign=1066&utm_source=git)** | Reston, VA | Remote | Nov 07 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Data Scientist Research Intern](https://jobright.ai/jobs/info/690e640d44146d3b6ec539e1?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Nov 07 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Data Science Intern](https://jobright.ai/jobs/info/690e3bd744146d3b6ec52293?utm_campaign=1066&utm_source=git)** | IL - Chicago | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
