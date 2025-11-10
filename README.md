@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CoreView](https://www.coreview.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69123404d1047e3565cfa401?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 10 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/69125783ea9ab01b82bf19b0?utm_campaign=1066&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
+| ↳ | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/6912567fea9ab01b82bf18e1?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
+| **[MeeBoss](meeboss.com)** | **[Data Science Contractor/Intern (Conversion to Full-Time Possible)](https://jobright.ai/jobs/info/69027b6b98707b2b0fe6ff7d?utm_campaign=1066&utm_source=git)** | San Ramon, CA | On Site | Nov 10 |
+| **[Leidos](https://www.leidos.com/)** | **[Data Sciences Research Intern](https://jobright.ai/jobs/info/69124f28ea9ab01b82bf1438?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Nov 10 |
+| ↳ | **[Human Factors Research Intern](https://jobright.ai/jobs/info/69124d85ea9ab01b82bf131f?utm_campaign=1066&utm_source=git)** | Arlington, VA | Hybrid | Nov 10 |
 | **[Colliers](http://www.colliers.com)** | **[Research Intern](https://jobright.ai/jobs/info/691233d2d1047e3565cfa3ee?utm_campaign=1066&utm_source=git)** | Jericho, NY | On Site | Nov 10 |
 | **[FM](https://www.fmglobal.com)** | **[Data Science Advanced Analytics Summer Technical Internship 2026](https://jobright.ai/jobs/info/69121956c98948514c478964?utm_campaign=1066&utm_source=git)** | US-RI-Johnston | On Site | Nov 10 |
-| **[Hexagon Manufacturing Intelligence](http://www.hexagonmi.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69123008c98948514c4794fd?utm_campaign=1066&utm_source=git)** | Novi, MI | Hybrid | Nov 10 |
+| **[Core-Mark International](http://www.core-mark.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/691251fdc98948514c47a732?utm_campaign=1066&utm_source=git)** | Westlake, TX | On Site | Nov 10 |
 | **[Colliers](http://www.colliers.com)** | **[Research Intern](https://jobright.ai/jobs/info/69122ef8d1047e3565cfa193?utm_campaign=1066&utm_source=git)** | Jericho, New York, United States of America | On Site | Nov 10 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - PhD Quant Research Analyst, Client Solutions & Analytics - PIMCO](https://jobright.ai/jobs/info/69122dedea9ab01b82bf01d5?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Nov 10 |
 | **[ParetoHealth](https://paretohealth.com)** | **[Analytics Summer Intern](https://jobright.ai/jobs/info/69122a47ea9ab01b82bf0005?utm_campaign=1066&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Nov 10 |
-| **[Core-Mark International](http://www.core-mark.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69123ff7c98948514c479cf2?utm_campaign=1066&utm_source=git)** | Westlake, TX | On Site | Nov 10 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/68cd41e9e23def7af55b75c6?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
 | ↳ | **[Data Vantage BI Intern](https://jobright.ai/jobs/info/68cd8cc6e23def7af55bba67?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern- Clinical Operations- Clinical Data Management](https://jobright.ai/jobs/info/69120543d1047e3565cf8f27?utm_campaign=1066&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Memorial Sloan Kettering Cancer Center](http://www.mskcc.org)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/690ee2eb221b890c278125ea?utm_campaign=1066&utm_source=git)** | New York - Teleworker | Remote | Nov 07 |
 | **[Capital Insurance Group](https://www.ciginsurance.com/)** | **[Analytics Summer Intern](https://jobright.ai/jobs/info/690eae8944146d3b6ec56b88?utm_campaign=1066&utm_source=git)** | Reno, NV | On Site | Nov 07 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Central Services GIS Intern - Internship 2026](https://jobright.ai/jobs/info/690ea7b144146d3b6ec5673a?utm_campaign=1066&utm_source=git)** | Illinois, United States | Remote | Nov 07 |
-| ↳ | **[Central Services GIS Intern - Internship 2026](https://jobright.ai/jobs/info/690ea334d046ab6061cff941?utm_campaign=1066&utm_source=git)** | Wisconsin Remote Work | Remote | Nov 07 |
-| ↳ | **[Central Services GIS Intern - Internship 2026](https://jobright.ai/jobs/info/690ea053221b890c2780ffad?utm_campaign=1066&utm_source=git)** | Illinois Remote Work | Remote | Nov 07 |
-| ↳ | **[Central Services GIS Intern - Internship 2026](https://jobright.ai/jobs/info/690e9f78221b890c2780ff45?utm_campaign=1066&utm_source=git)** | Utah Remote Work | Remote | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
