@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - R&D - Clinical Data Science](https://jobright.ai/jobs/info/6911ab95bb519377733f086c?utm_campaign=1066&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
+| **[Aptiv](http://www.aptiv.com)** | **[Data Analytics Engineering Intern](https://jobright.ai/jobs/info/68cfdcb3846f0b04af68577e?utm_campaign=1066&utm_source=git)** | Troy, MI | On Site | Nov 10 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - R&D - Clinical Data Science](https://jobright.ai/jobs/info/6911c197183be660d267dcd8?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
+| ↳ | **[Intern - Clinical Development - Biostatistics, Oncology](https://jobright.ai/jobs/info/6911becb988c2b7b4ec56804?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
+| ↳ | **[Graduate Intern - Research - Bioinformatics](https://jobright.ai/jobs/info/6911b694bb519377733f0e8d?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Nov 10 |
+| ↳ | **[Intern - R&D - Clinical Data Science](https://jobright.ai/jobs/info/6911ab95bb519377733f086c?utm_campaign=1066&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | ↳ | **[Graduate Intern - Research - Bioinformatics](https://jobright.ai/jobs/info/6911aad3bb519377733f065f?utm_campaign=1066&utm_source=git)** | United States - California - Foster City | On Site | Nov 10 |
+| ↳ | **[Intern - Clinical Development - Biostatistics, Oncology](https://jobright.ai/jobs/info/6911c6ca8b818a6dda66b8b4?utm_campaign=1066&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | **[Jobgether](https://jobgether.com/)** | **[Data Scientist Research Intern](https://jobright.ai/jobs/info/69119866988c2b7b4ec557a5?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 09 |
 | **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/691184fa183be660d267c46b?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Nov 09 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68c00e7d5c5d5f14f46db3bd?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 09 |
@@ -84,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Virginia Farm Bureau Family of Companies](http://www.vafb.com)** | **[Part-Time Data Analyst Intern- Meadow Event Park](https://jobright.ai/jobs/info/6910d5b5988c2b7b4ec52b5f?utm_campaign=1066&utm_source=git)** | Doswell, VA | On Site | Nov 08 |
 | **[Latinx in AI (LXAI)](http://www.latinxinai.org/)** | **[AI PhD Discovery Data Science Internship](https://jobright.ai/jobs/info/691061e6183be660d2678c6a?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Nov 08 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/69110a33988c2b7b4ec536f7?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 08 |
-| **[Amgen](http://www.amgen.com)** | **[Grad Intern - Biostatistics](https://jobright.ai/jobs/info/690fa762183be660d267632a?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 08 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Data Science Intern](https://jobright.ai/jobs/info/690f897c183be660d26759df?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 08 |
 | **[Akron Children's](http://www.akronchildrens.org)** | **[Research Intern](https://jobright.ai/jobs/info/690f786a988c2b7b4ec4e262?utm_campaign=1066&utm_source=git)** | Akron, OH | On Site | Nov 08 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/68d802cb7a37c712687d7b34?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Supply Chain/Data Analyst Intern](https://jobright.ai/jobs/info/68eeca7fe0db92422580b888?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Nov 07 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Data Scientist](https://jobright.ai/jobs/info/690e4fbe44146d3b6ec52cd2?utm_campaign=1066&utm_source=git)** | Reston, VA | Remote | Nov 07 |
 | **[IDEAS](http://www.ideas.firm.in)** | **[Data Scientist Research Intern](https://jobright.ai/jobs/info/690e640d44146d3b6ec539e1?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Nov 07 |
-| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Data Science Intern](https://jobright.ai/jobs/info/690e3bd744146d3b6ec52293?utm_campaign=1066&utm_source=git)** | IL - Chicago | On Site | Nov 07 |
-| **[LP Building Solutions](http://www.lpcorp.com)** | **[Business Insights (BI) Intern](https://jobright.ai/jobs/info/690e71e644146d3b6ec5445c?utm_campaign=1066&utm_source=git)** | Nashville, TN | Hybrid | Nov 07 |
-| **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern- Data Analytics](https://jobright.ai/jobs/info/690e6a3d221b890c2780dc52?utm_campaign=1066&utm_source=git)** | Greater Milwaukee | On Site | Nov 07 |
-| **[ASM Global](http://www.asmglobal.com)** | **[Merchandise Insights Intern](https://jobright.ai/jobs/info/690e8afb221b890c2780f2df?utm_campaign=1066&utm_source=git)** | Remote, USA | Remote | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
