@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jobgether](https://jobgether.com/)** | **[Data Scientist Research Intern](https://jobright.ai/jobs/info/69119866988c2b7b4ec557a5?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 09 |
+| **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/691184fa183be660d267c46b?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Nov 09 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68c00e7d5c5d5f14f46db3bd?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 09 |
 | **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/691103c9183be660d267aa2d?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Nov 09 |
 | **[Los Angeles Capital Management](https://lacapm.com/)** | **[Intern, Research](https://jobright.ai/jobs/info/6910f3a7183be660d267a751?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 09 |
@@ -74,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[John Deere](https://www.deere.com)** | **[Data & Analytics Internship 2026a](https://jobright.ai/jobs/info/690da2e8d046ab6061cf7ce2?utm_campaign=1066&utm_source=git)** | Moline, IL | Hybrid | Nov 09 |
 | **[DriveTime](https://www.drivetime.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68d0bb83dbd9fb154edef339?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Nov 09 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[IBP Data Management Intern - The Toro Company](https://jobright.ai/jobs/info/68f387d39a65fd34585874c3?utm_campaign=1066&utm_source=git)** | Hennepin County, MN | On Site | Nov 09 |
+| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, Bachelor’s or Master’s Degree (Summer 2026)](https://jobright.ai/jobs/info/69117df9bb519377733ef7df?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Nov 08 |
 | **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/68d787d2267b154f9a2dbaad?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 08 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/6911664fbb519377733eef9f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 08 |
 | **[Virginia Farm Bureau Family of Companies](http://www.vafb.com)** | **[Part-Time Data Analyst Intern- Meadow Event Park](https://jobright.ai/jobs/info/6910d5b5988c2b7b4ec52b5f?utm_campaign=1066&utm_source=git)** | Doswell, VA | On Site | Nov 08 |
@@ -128,7 +131,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Internship Program: Analytical Development Mass Spectrometry Informatics Intern](https://jobright.ai/jobs/info/690ec48f221b890c2781187d?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Nov 07 |
 | ↳ | **[2026 Summer Internship Program: Data Scientist for R&D Quality Intern](https://jobright.ai/jobs/info/690ec384d046ab6061d01022?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Nov 07 |
 | **[Memorial Sloan Kettering Cancer Center](http://www.mskcc.org)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/690ee2eb221b890c278125ea?utm_campaign=1066&utm_source=git)** | New York - Teleworker | Remote | Nov 07 |
-| **[The Cigna Group](https://www.cigna.com/)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/690eb302d046ab6061d004c2?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Nov 07 |
 | **[Capital Insurance Group](https://www.ciginsurance.com/)** | **[Analytics Summer Intern](https://jobright.ai/jobs/info/690eae8944146d3b6ec56b88?utm_campaign=1066&utm_source=git)** | Reno, NV | On Site | Nov 07 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Central Services GIS Intern - Internship 2026](https://jobright.ai/jobs/info/690ea7b144146d3b6ec5673a?utm_campaign=1066&utm_source=git)** | Illinois, United States | Remote | Nov 07 |
 | ↳ | **[Central Services GIS Intern - Internship 2026](https://jobright.ai/jobs/info/690ea334d046ab6061cff941?utm_campaign=1066&utm_source=git)** | Wisconsin Remote Work | Remote | Nov 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ASM Global](http://www.asmglobal.com)** | **[Merchandise Insights Intern](https://jobright.ai/jobs/info/690e8afb221b890c2780f2df?utm_campaign=1066&utm_source=git)** | Remote, USA | Remote | Nov 07 |
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Business Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/690e527644146d3b6ec52e65?utm_campaign=1066&utm_source=git)** | Aurora, Illinois | On Site | Nov 07 |
 | **[Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org)** | **[Summer 2026 Graduate Internship – Data Science](https://jobright.ai/jobs/info/690e57af44146d3b6ec531ba?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Nov 07 |
-| **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern- Data Analytics](https://jobright.ai/jobs/info/690e6d74d046ab6061cfd7c6?utm_campaign=1066&utm_source=git)** | Milwaukee 111 Kilbourn | Hybrid | Nov 07 |
-| **[SAS](http://www.sas.com)** | **[Data Scientist Research Intern](https://jobright.ai/jobs/info/690e5905221b890c2780cfea?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
