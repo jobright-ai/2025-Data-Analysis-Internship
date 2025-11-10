@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68c00e7d5c5d5f14f46db3bd?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 09 |
 | **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/691103c9183be660d267aa2d?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Nov 09 |
 | **[Los Angeles Capital Management](https://lacapm.com/)** | **[Intern, Research](https://jobright.ai/jobs/info/6910f3a7183be660d267a751?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist - Model Risk Management)](https://jobright.ai/jobs/info/68f4ad609a63986de75771c3?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Nov 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern- Data Analytics](https://jobright.ai/jobs/info/690e6d74d046ab6061cfd7c6?utm_campaign=1066&utm_source=git)** | Milwaukee 111 Kilbourn | Hybrid | Nov 07 |
 | **[SAS](http://www.sas.com)** | **[Data Scientist Research Intern](https://jobright.ai/jobs/info/690e5905221b890c2780cfea?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2026 Graduate Internship – Data Science](https://jobright.ai/jobs/info/690e2606d046ab6061cfac82?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Nov 07 |
-| **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/68cd8a5ce23def7af55bb67d?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
