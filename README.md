@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[INFORMATION TECHNOLOGY DATA INTERN (Indianapolis)](https://jobright.ai/jobs/info/68c132973fd8b059a20eed30?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Nov 11 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Data Scientist - Internship [Summer 2026]](https://jobright.ai/jobs/info/6912fc48ea9ab01b82bf6ce7?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Nov 11 |
+| **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/691313d9d1047e3565d0144f?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Nov 11 |
 | **[InterWorks](http://www.interworks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68ca281af61c922772a73738?utm_campaign=1066&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Nov 10 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst (Power), Emerging Talent Intern](https://jobright.ai/jobs/info/690d76a2d046ab6061cf66fd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- Claims (Data)](https://jobright.ai/jobs/info/6912b137d1047e3565cfe2e0?utm_campaign=1066&utm_source=git)** | Iowa, United States | Remote | Nov 10 |
@@ -67,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[FM](https://www.fmglobal.com)** | **[Data Science Advanced Analytics Summer Technical Internship 2026](https://jobright.ai/jobs/info/6912c023c98948514c47dcd5?utm_campaign=1066&utm_source=git)** | Johnston, RI | On Site | Nov 10 |
 | **[iCapital](https://icapital.com)** | **[Data Solutions - Summer 2026 Intern](https://jobright.ai/jobs/info/6912e9a2d1047e3565d0047b?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Nov 10 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist (Summer 2026)](https://jobright.ai/jobs/info/69129e98c98948514c47ce76?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 10 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/6912c64fea9ab01b82bf4dda?utm_campaign=1066&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
-| ↳ | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/6912ee5ec98948514c47f9b6?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Nov 10 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/6912ee5ec98948514c47f9b6?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Nov 10 |
+| ↳ | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/6912c64fea9ab01b82bf4dda?utm_campaign=1066&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
 | ↳ | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/6912be00ea9ab01b82bf4a64?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6912d9e9c98948514c47ece2?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - IT - AI/ML Enterprise Data & Analytics](https://jobright.ai/jobs/info/69127e58c98948514c47c358?utm_campaign=1066&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/690838ee63502c0aded8ac97?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/690f6381221b890c2781584f?utm_campaign=1066&utm_source=git)** | Florham Park, NJ | On Site | Nov 08 |
 | **[Lyft](https://www.lyft.com/)** | **[Data Science Intern, Algorithms (Summer 2026)](https://jobright.ai/jobs/info/68cec55fdbd9fb154ede290b?utm_campaign=1066&utm_source=git)** | San Francisco County, CA | Hybrid | Nov 08 |
-| ↳ | **[Data Science Intern, Algorithms (Summer 2026)](https://jobright.ai/jobs/info/68bb27f06105227d118a36c4?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
-| **[Kimball International](https://www.kimballinternational.com)** | **[IT Intern: Business Intelligence - Kimball International, Jasper, IN](https://jobright.ai/jobs/info/690f59ee44146d3b6ec5b729?utm_campaign=1066&utm_source=git)** | Jasper, IN | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
