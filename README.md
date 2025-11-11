@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/6912813fc98948514c47c4a3?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Nov 10 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - IT - AI/ML Enterprise Data & Analytics](https://jobright.ai/jobs/info/69127e58c98948514c47c358?utm_campaign=1066&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
+| **[iCapital](https://icapital.com)** | **[Data Solutions - Summer 2026 Intern](https://jobright.ai/jobs/info/69127a4fc98948514c47c178?utm_campaign=1066&utm_source=git)** | Stamford, Connecticut, United States | On Site | Nov 10 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst (Operations Support), Emerging Talent Intern](https://jobright.ai/jobs/info/69127044ea9ab01b82bf2afd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 10 |
 | **[Nutanix](http://www.nutanix.com)** | **[Business Data Analyst Intern - U.S based undergrads ONLY](https://jobright.ai/jobs/info/691264cec98948514c47b4e3?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 10 |
+| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - IT - Enterprise Data & Analytics](https://jobright.ai/jobs/info/69128a7fea9ab01b82bf360b?utm_campaign=1066&utm_source=git)** | United States - North Carolina - Raleigh | Hybrid | Nov 10 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/69125ebac98948514c47b0f5?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Nov 10 |
 | ↳ | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/69125783ea9ab01b82bf19b0?utm_campaign=1066&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
 | ↳ | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/6912567fea9ab01b82bf18e1?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
@@ -96,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Jobgether](https://jobgether.com/)** | **[Data Scientist Research Intern](https://jobright.ai/jobs/info/69119866988c2b7b4ec557a5?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 09 |
 | **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/691184fa183be660d267c46b?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Nov 09 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68c00e7d5c5d5f14f46db3bd?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 09 |
+| **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Internship - Data-Driven Estimation and Control for Spatiotemporal Dynamics](https://jobright.ai/jobs/info/69128f85c98948514c47c97d?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Nov 09 |
 | **[Los Angeles Capital Management](https://lacapm.com/)** | **[Intern, Research](https://jobright.ai/jobs/info/6910f3a7183be660d267a751?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 09 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist - Model Risk Management)](https://jobright.ai/jobs/info/68f4ad609a63986de75771c3?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Nov 09 |
 | ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/690844c7122e8474c78e9414?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2026 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/690ada72d046ab6061ce0cb0?utm_campaign=1066&utm_source=git)** | Orange, CT | On Site | Nov 08 |
 | ↳ | **[2026 Summer Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/690ad865bcccf20de59e6880?utm_campaign=1066&utm_source=git)** | Augusta, ME | On Site | Nov 08 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Epidemiology](https://jobright.ai/jobs/info/690f10acd046ab6061d033a5?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Nov 08 |
-| **[Zoox](https://www.zoox.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/690f0920d046ab6061d02f9a?utm_campaign=1066&utm_source=git)** | Foster City, CA | Hybrid | Nov 08 |
-| **[Memorial Sloan Kettering Cancer Center](http://www.mskcc.org)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/690ef07ad046ab6061d023bc?utm_campaign=1066&utm_source=git)** | New York, United States | Remote | Nov 07 |
-| **[Zoox](https://www.zoox.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/690ed111221b890c27811e45?utm_campaign=1066&utm_source=git)** | Foster City, CA | Hybrid | Nov 07 |
-| **[Memorial Sloan Kettering Cancer Center](http://www.mskcc.org)** | **[Data Management Summer Intern](https://jobright.ai/jobs/info/690ecf4a44146d3b6ec57fbd?utm_campaign=1066&utm_source=git)** | New York - Teleworker | Remote | Nov 07 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Assay Database Champion Intern](https://jobright.ai/jobs/info/690ec814d046ab6061d01285?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
