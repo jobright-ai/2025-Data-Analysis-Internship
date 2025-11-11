@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Massachusetts Eye and Ear](http://www.masseyeandear.org)** | **[Computational Biology Intern](https://jobright.ai/jobs/info/691381cdd1047e3565d03af0?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 11 |
+| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Claims Technical Analyst Intern](https://jobright.ai/jobs/info/69138064e344172248f71a35?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 11 |
+| **[Allianz Partners](https://allianz-partners.com)** | **[Performance Analyst Intern](https://jobright.ai/jobs/info/69136578e344172248f70f80?utm_campaign=1066&utm_source=git)** | Henrico, VA | Hybrid | Nov 11 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Claims Technical Analyst Intern](https://jobright.ai/jobs/info/691371e6e344172248f713fc?utm_campaign=1066&utm_source=git)** | Cincinnati, OH (USA) | Hybrid | Nov 11 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Business Intelligence & Data Management - R10692](https://jobright.ai/jobs/info/68f6fa099a63986de7583fd4?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 11 |
 | **[Allianz Partners](https://allianz-partners.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69136ddfd1047e3565d031b5?utm_campaign=1066&utm_source=git)** | Henrico, VA | Hybrid | Nov 11 |
-| ↳ | **[Performance Analyst Intern](https://jobright.ai/jobs/info/69136578e344172248f70f80?utm_campaign=1066&utm_source=git)** | Henrico, VA | Hybrid | Nov 11 |
+| **[Danaher Corporation](https://www.danaher.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6913916c1465e02904e95988?utm_campaign=1066&utm_source=git)** | Logan, Utah, United States | On Site | Nov 11 |
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/68daddaf0b832179ca4b2199?utm_campaign=1066&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 11 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Data Systems](https://jobright.ai/jobs/info/68fb4a9293c49825ab1025da?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Nov 11 |
 | **[CNA Corporation](https://www.cna.org)** | **[Research Internship (Summer 2026)](https://jobright.ai/jobs/info/68cc319d128dc347fd9209c9?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Nov 11 |
@@ -85,6 +88,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/6912ee5ec98948514c47f9b6?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Nov 10 |
 | ↳ | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/6912be00ea9ab01b82bf4a64?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6912d9e9c98948514c47ece2?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Nov 10 |
+| ↳ | **[R&D Intern – Summer 2026](https://jobright.ai/jobs/info/69137cab1465e02904e95038?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - IT - AI/ML Enterprise Data & Analytics](https://jobright.ai/jobs/info/69127e58c98948514c47c358?utm_campaign=1066&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6912d988ea9ab01b82bf5b00?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 10 |
 | **[84 Lumber](http://www.84lumber.com/)** | **[IT (Business Intelligence) Internship](https://jobright.ai/jobs/info/6912bcddd1047e3565cfe6f0?utm_campaign=1066&utm_source=git)** | Eighty Four, Pennsylvania | On Site | Nov 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, Bachelor’s or Master’s Degree (Summer 2026)](https://jobright.ai/jobs/info/69117df9bb519377733ef7df?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Nov 08 |
 | **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/68d787d2267b154f9a2dbaad?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 08 |
 | **[Virginia Farm Bureau Family of Companies](http://www.vafb.com)** | **[Part-Time Data Analyst Intern- Meadow Event Park](https://jobright.ai/jobs/info/6910d5b5988c2b7b4ec52b5f?utm_campaign=1066&utm_source=git)** | Doswell, VA | On Site | Nov 08 |
-| **[Latinx in AI (LXAI)](http://www.latinxinai.org/)** | **[AI PhD Discovery Data Science Internship](https://jobright.ai/jobs/info/691061e6183be660d2678c6a?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Nov 08 |
-| **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/69110a33988c2b7b4ec536f7?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 08 |
-| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers – Data Science Intern](https://jobright.ai/jobs/info/690f897c183be660d26759df?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 08 |
-| **[Akron Children's](http://www.akronchildrens.org)** | **[Research Intern](https://jobright.ai/jobs/info/690f786a988c2b7b4ec4e262?utm_campaign=1066&utm_source=git)** | Akron, OH | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
