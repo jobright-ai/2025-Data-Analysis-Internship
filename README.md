@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[INFORMATION TECHNOLOGY DATA INTERN (Indianapolis)](https://jobright.ai/jobs/info/68c132973fd8b059a20eed30?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Nov 11 |
+| **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69132829e344172248f6fb84?utm_campaign=1066&utm_source=git)** | South Sioux City, NE | On Site | Nov 11 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Data Scientist - Internship [Summer 2026]](https://jobright.ai/jobs/info/6912fc48ea9ab01b82bf6ce7?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Nov 11 |
 | **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/691313d9d1047e3565d0144f?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Nov 11 |
 | **[InterWorks](http://www.interworks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68ca281af61c922772a73738?utm_campaign=1066&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Nov 10 |
@@ -100,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Colliers](http://www.colliers.com)** | **[Research Intern](https://jobright.ai/jobs/info/691233d2d1047e3565cfa3ee?utm_campaign=1066&utm_source=git)** | Jericho, NY | On Site | Nov 10 |
 | **[FM](https://www.fmglobal.com)** | **[Data Science Advanced Analytics Summer Technical Internship 2026](https://jobright.ai/jobs/info/69121956c98948514c478964?utm_campaign=1066&utm_source=git)** | US-RI-Johnston | On Site | Nov 10 |
 | **[Colliers](http://www.colliers.com)** | **[Research Intern](https://jobright.ai/jobs/info/69122ef8d1047e3565cfa193?utm_campaign=1066&utm_source=git)** | Jericho, New York, United States of America | On Site | Nov 10 |
-| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - PhD Quant Research Analyst, Client Solutions & Analytics - PIMCO](https://jobright.ai/jobs/info/69122dedea9ab01b82bf01d5?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Nov 10 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Research Intern](https://jobright.ai/jobs/info/6912a513d1047e3565cfdf01?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Nov 10 |
 | **[ParetoHealth](https://paretohealth.com)** | **[Analytics Summer Intern](https://jobright.ai/jobs/info/69122a47ea9ab01b82bf0005?utm_campaign=1066&utm_source=git)** | Philadelphia, Pennsylvania, United States | On Site | Nov 10 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst (Operations Support), Emerging Talent Intern](https://jobright.ai/jobs/info/69126331d1047e3565cfc05b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 10 |
@@ -142,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[The Toro Company](https://www.thetorocompany.com)** | **[IBP Data Management Intern - The Toro Company](https://jobright.ai/jobs/info/68f387d39a65fd34585874c3?utm_campaign=1066&utm_source=git)** | Hennepin County, MN | On Site | Nov 09 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, Bachelor’s or Master’s Degree (Summer 2026)](https://jobright.ai/jobs/info/69117df9bb519377733ef7df?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Nov 08 |
 | **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/68d787d2267b154f9a2dbaad?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 08 |
-| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/6911664fbb519377733eef9f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 08 |
 | **[Virginia Farm Bureau Family of Companies](http://www.vafb.com)** | **[Part-Time Data Analyst Intern- Meadow Event Park](https://jobright.ai/jobs/info/6910d5b5988c2b7b4ec52b5f?utm_campaign=1066&utm_source=git)** | Doswell, VA | On Site | Nov 08 |
 | **[Latinx in AI (LXAI)](http://www.latinxinai.org/)** | **[AI PhD Discovery Data Science Internship](https://jobright.ai/jobs/info/691061e6183be660d2678c6a?utm_campaign=1066&utm_source=git)** | Indiana, United States | On Site | Nov 08 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/69110a33988c2b7b4ec536f7?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 08 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/690838ee63502c0aded8ac97?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 08 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/690f6381221b890c2781584f?utm_campaign=1066&utm_source=git)** | Florham Park, NJ | On Site | Nov 08 |
 | **[Lyft](https://www.lyft.com/)** | **[Data Science Intern, Algorithms (Summer 2026)](https://jobright.ai/jobs/info/68cec55fdbd9fb154ede290b?utm_campaign=1066&utm_source=git)** | San Francisco County, CA | Hybrid | Nov 08 |
+| ↳ | **[Data Science Intern, Algorithms (Summer 2026)](https://jobright.ai/jobs/info/68bb27f06105227d118a36c4?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
