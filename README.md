@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Horizon Lane](horizonlane.us)** | **[Business Data Analysis Intern](https://jobright.ai/jobs/info/691450289c388539cbdeb942?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Nov 12 |
+| **[Pratt & Whitney](https://prattwhitney.com/)** | **[Intern: Summer 2026 - PowerBI Developer (Onsite)](https://jobright.ai/jobs/info/6914455b286ccf0a151262f9?utm_campaign=1066&utm_source=git)** | East Hartford, CT | On Site | Nov 12 |
 | **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 - PowerBI Developer (Onsite)](https://jobright.ai/jobs/info/69140babd1047e3565d084ae?utm_campaign=1066&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Nov 11 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern 2026 (Buffalo, NY)](https://jobright.ai/jobs/info/691403e6e344172248f7603d?utm_campaign=1066&utm_source=git)** | Buffalo, NY | Hybrid | Nov 11 |
 | **[Minerals Technologies Inc.](http://www.mineralstech.com)** | **[Geographic Information Science Intern](https://jobright.ai/jobs/info/6913fecbe344172248f75b2e?utm_campaign=1066&utm_source=git)** | US-SD-Belle Fourche | On Site | Nov 11 |
@@ -94,8 +96,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Data Science Analytics Application Development Graduate Intern](https://jobright.ai/jobs/info/69139c6a1465e02904e95f1a?utm_campaign=1066&utm_source=git)** | OK, Working at Home - Oklahoma | Remote | Nov 11 |
 | ↳ | **[Summer 2026 Data Science Analytics Application Development Graduate Intern](https://jobright.ai/jobs/info/69139c261465e02904e95ef0?utm_campaign=1066&utm_source=git)** | TX, Working at Home - Texas | Remote | Nov 11 |
 | ↳ | **[Summer 2026 Data Science Analytics Application Development Graduate Intern](https://jobright.ai/jobs/info/6913987be344172248f726e7?utm_campaign=1066&utm_source=git)** | NV, Working at Home - Nevada | Remote | Nov 11 |
-| ↳ | **[Summer 2026 Data Science Analytics Application Development Graduate Intern](https://jobright.ai/jobs/info/691398561465e02904e95dc0?utm_campaign=1066&utm_source=git)** | MO, Working at Home - Missouri | Remote | Nov 11 |
 | ↳ | **[Summer 2026 Data Science Analytics Application Development Graduate Intern](https://jobright.ai/jobs/info/691398561465e02904e95dbf?utm_campaign=1066&utm_source=git)** | KS, Working at Home - Kansas | Remote | Nov 11 |
+| ↳ | **[Summer 2026 Data Science Analytics Application Development Graduate Intern](https://jobright.ai/jobs/info/691398561465e02904e95dc0?utm_campaign=1066&utm_source=git)** | MO, Working at Home - Missouri | Remote | Nov 11 |
 | ↳ | **[Summer 2026 Data Science Analytics Application Development Graduate Intern](https://jobright.ai/jobs/info/691398181465e02904e95d91?utm_campaign=1066&utm_source=git)** | VT, Working at Home - Vermont | Remote | Nov 11 |
 | ↳ | **[Summer 2026 Data Science Analytics Application Development Graduate Intern](https://jobright.ai/jobs/info/691397fd1465e02904e95d7f?utm_campaign=1066&utm_source=git)** | AL, Working at Home - Alabama | Remote | Nov 11 |
 | ↳ | **[Summer 2026 Data Science Analytics Application Development Graduate Intern](https://jobright.ai/jobs/info/6913972b1465e02904e95cf1?utm_campaign=1066&utm_source=git)** | CO, Working at Home - Colorado | Remote | Nov 11 |
@@ -143,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[FM](https://www.fmglobal.com)** | **[Data Science Advanced Analytics Summer Technical Internship 2026](https://jobright.ai/jobs/info/6912c023c98948514c47dcd5?utm_campaign=1066&utm_source=git)** | Johnston, RI | On Site | Nov 10 |
 | **[iCapital](https://icapital.com)** | **[Data Solutions - Summer 2026 Intern](https://jobright.ai/jobs/info/6912e9a2d1047e3565d0047b?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Nov 10 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist (Summer 2026)](https://jobright.ai/jobs/info/69129e98c98948514c47ce76?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 10 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/6912ee5ec98948514c47f9b6?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Nov 10 |
-| ↳ | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/6912c64fea9ab01b82bf4dda?utm_campaign=1066&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/6912c64fea9ab01b82bf4dda?utm_campaign=1066&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
+| ↳ | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/6912ee5ec98948514c47f9b6?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Nov 10 |
 | ↳ | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/6912be00ea9ab01b82bf4a64?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[R&D Intern – Summer 2026](https://jobright.ai/jobs/info/69137cab1465e02904e95038?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Nov 10 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6912d9e9c98948514c47ece2?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Nov 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PACCAR Financial Corp.](https://www.paccarfinancial.com)** | **[PFC Data Analytics - Summer Internship 2026](https://jobright.ai/jobs/info/6912da31ea9ab01b82bf5b84?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Nov 10 |
 | **[Root Inc.](https://www.root.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6912e733c98948514c47f656?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 10 |
 | **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/6912813fc98948514c47c4a3?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Nov 10 |
-| **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Research Intern](https://jobright.ai/jobs/info/6912ced2ea9ab01b82bf51a8?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Nov 10 |
-| **[iCapital](https://icapital.com)** | **[Data Solutions - Summer 2026 Intern](https://jobright.ai/jobs/info/69127a4fc98948514c47c178?utm_campaign=1066&utm_source=git)** | Stamford, Connecticut, United States | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
