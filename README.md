@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 - PowerBI Developer (Onsite)](https://jobright.ai/jobs/info/69140babd1047e3565d084ae?utm_campaign=1066&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Nov 11 |
+| **[IBM](http://www.ibm.com)** | **[Data Scientist Intern 2026 (Buffalo, NY)](https://jobright.ai/jobs/info/691403e6e344172248f7603d?utm_campaign=1066&utm_source=git)** | Buffalo, NY | Hybrid | Nov 11 |
 | **[Minerals Technologies Inc.](http://www.mineralstech.com)** | **[Geographic Information Science Intern](https://jobright.ai/jobs/info/6913fecbe344172248f75b2e?utm_campaign=1066&utm_source=git)** | US-SD-Belle Fourche | On Site | Nov 11 |
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Procurement Intern - Data Analyst](https://jobright.ai/jobs/info/6913fba5e344172248f759f0?utm_campaign=1066&utm_source=git)** | Greater Chicago Area | On Site | Nov 11 |
 | **[Monte Nido](https://montenido.co/website)** | **[Research Intern](https://jobright.ai/jobs/info/6913fa651465e02904e9906d?utm_campaign=1066&utm_source=git)** | Miami, Florida | On Site | Nov 11 |
@@ -144,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/6912ee5ec98948514c47f9b6?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Nov 10 |
 | ↳ | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/6912c64fea9ab01b82bf4dda?utm_campaign=1066&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
 | ↳ | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/6912be00ea9ab01b82bf4a64?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
-| **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6912d9e9c98948514c47ece2?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Nov 10 |
-| ↳ | **[R&D Intern – Summer 2026](https://jobright.ai/jobs/info/69137cab1465e02904e95038?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Nov 10 |
+| **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[R&D Intern – Summer 2026](https://jobright.ai/jobs/info/69137cab1465e02904e95038?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Nov 10 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6912d9e9c98948514c47ece2?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - IT - AI/ML Enterprise Data & Analytics](https://jobright.ai/jobs/info/69127e58c98948514c47c358?utm_campaign=1066&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6912d988ea9ab01b82bf5b00?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 10 |
 | **[84 Lumber](http://www.84lumber.com/)** | **[IT (Business Intelligence) Internship](https://jobright.ai/jobs/info/6912bcddd1047e3565cfe6f0?utm_campaign=1066&utm_source=git)** | Eighty Four, Pennsylvania | On Site | Nov 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/6912813fc98948514c47c4a3?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Nov 10 |
 | **[Federal Reserve Bank of Dallas](http://www.dallasfed.org/)** | **[Research Intern](https://jobright.ai/jobs/info/6912ced2ea9ab01b82bf51a8?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Nov 10 |
 | **[iCapital](https://icapital.com)** | **[Data Solutions - Summer 2026 Intern](https://jobright.ai/jobs/info/69127a4fc98948514c47c178?utm_campaign=1066&utm_source=git)** | Stamford, Connecticut, United States | On Site | Nov 10 |
-| **[Atlantic Health](http://www.atlantichealth.org)** | **[Clinical Nursing Research Intern](https://jobright.ai/jobs/info/6912addec98948514c47d2a1?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Nov 10 |
-| **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst (Operations Support), Emerging Talent Intern](https://jobright.ai/jobs/info/69127044ea9ab01b82bf2afd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
