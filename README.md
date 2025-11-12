@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Experian](http://www.experianplc.com)** | **[Data Management Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/68f8435b4bafad6d2d760ed7?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 12 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68cd1a8de23def7af55b560f?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Nov 12 |
+| **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68ccdfdd5954791a1d700348?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
+| ↳ | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68dac2a607c157682e56d2dc?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Nov 12 |
+| ↳ | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68d195c417554c2d9eedcf08?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Nov 12 |
 | **[Horizon Lane](horizonlane.us)** | **[Business Data Analysis Intern](https://jobright.ai/jobs/info/691450289c388539cbdeb942?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Nov 12 |
 | **[Pratt & Whitney](https://prattwhitney.com/)** | **[Intern: Summer 2026 - PowerBI Developer (Onsite)](https://jobright.ai/jobs/info/6914455b286ccf0a151262f9?utm_campaign=1066&utm_source=git)** | East Hartford, CT | On Site | Nov 12 |
 | **[RTX](http://www.raytheon.com)** | **[Intern: Summer 2026 - PowerBI Developer (Onsite)](https://jobright.ai/jobs/info/69140babd1047e3565d084ae?utm_campaign=1066&utm_source=git)** | PW100: East Hartford 400 Main Street, East Hartford, CT, 06118 USA | On Site | Nov 11 |
@@ -145,16 +150,11 @@ For a complete list, click the following sortable link below:
 | **[FM](https://www.fmglobal.com)** | **[Data Science Advanced Analytics Summer Technical Internship 2026](https://jobright.ai/jobs/info/6912c023c98948514c47dcd5?utm_campaign=1066&utm_source=git)** | Johnston, RI | On Site | Nov 10 |
 | **[iCapital](https://icapital.com)** | **[Data Solutions - Summer 2026 Intern](https://jobright.ai/jobs/info/6912e9a2d1047e3565d0047b?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Nov 10 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist (Summer 2026)](https://jobright.ai/jobs/info/69129e98c98948514c47ce76?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 10 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/6912c64fea9ab01b82bf4dda?utm_campaign=1066&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
-| ↳ | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/6912ee5ec98948514c47f9b6?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Nov 10 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/6912ee5ec98948514c47f9b6?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Nov 10 |
+| ↳ | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/6912c64fea9ab01b82bf4dda?utm_campaign=1066&utm_source=git)** | Universal City, CA | Hybrid | Nov 10 |
 | ↳ | **[Data Science & Analytics Internships – Summer 2026](https://jobright.ai/jobs/info/6912be00ea9ab01b82bf4a64?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 10 |
-| **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[R&D Intern – Summer 2026](https://jobright.ai/jobs/info/69137cab1465e02904e95038?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Nov 10 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6912d9e9c98948514c47ece2?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Nov 10 |
+| **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6912d9e9c98948514c47ece2?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Nov 10 |
+| ↳ | **[R&D Intern – Summer 2026](https://jobright.ai/jobs/info/69137cab1465e02904e95038?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Nov 10 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - IT - AI/ML Enterprise Data & Analytics](https://jobright.ai/jobs/info/69127e58c98948514c47c358?utm_campaign=1066&utm_source=git)** | United States - California - Foster City | Hybrid | Nov 10 |
 | **[Mercury Insurance](http://www.mercuryinsurance.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6912d988ea9ab01b82bf5b00?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 10 |
-| **[84 Lumber](http://www.84lumber.com/)** | **[IT (Business Intelligence) Internship](https://jobright.ai/jobs/info/6912bcddd1047e3565cfe6f0?utm_campaign=1066&utm_source=git)** | Eighty Four, Pennsylvania | On Site | Nov 10 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, IT - Optimization (Summer 2026)](https://jobright.ai/jobs/info/691293dcea9ab01b82bf39ce?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 10 |
-| **[PACCAR Financial Corp.](https://www.paccarfinancial.com)** | **[PFC Data Analytics - Summer Internship 2026](https://jobright.ai/jobs/info/6912da31ea9ab01b82bf5b84?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Nov 10 |
-| **[Root Inc.](https://www.root.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6912e733c98948514c47f656?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 10 |
-| **[Integration Innovation, Inc.](https://i3-corps.com/)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/6912813fc98948514c47c4a3?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
