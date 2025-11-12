@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PwC](http://pwc.com)** | **[Risk & Reg - Technology & Analytics - Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f3cca628d10664e867d6?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 12 |
 | **[UT Southwestern Medical Center](https://utswmed.org)** | **[Clinical Research Assistant I, Temporary](https://jobright.ai/jobs/info/6914c8256f36db06ef048d75?utm_campaign=1066&utm_source=git)** | Texas-Dallas-5323 Harry Hines Blvd | Hybrid | Nov 12 |
 | ↳ | **[Clinical Research Assistant I, Temporary](https://jobright.ai/jobs/info/6914c43e286ccf0a15128508?utm_campaign=1066&utm_source=git)** | 5323 Harry Hines Blvd5323 Harry Hines Blvd | Hybrid | Nov 12 |
 | **[PwC](http://pwc.com)** | **[Financial Crimes Unit Data & Analytics Tech - Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f901156de2db04dc3e4008?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 12 |
@@ -65,7 +66,12 @@ For a complete list, click the following sortable link below:
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Client Intelligence Platform Intern](https://jobright.ai/jobs/info/68be668f3d31ec76b7e8a24e?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 12 |
 | **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2026 Summer Internship – Data Science](https://jobright.ai/jobs/info/68bea7efc4c5904ff6007578?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Nov 12 |
 | **[Quill](http://www.quill.com)** | **[Quill Data Science Intern - June 2026](https://jobright.ai/jobs/info/6914bd7f286ccf0a15128236?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Nov 12 |
+| **[Nokia](http://www.nokia.com)** | **[Spatial computing/communications Intern](https://jobright.ai/jobs/info/6914df6f6f36db06ef04953e?utm_campaign=1066&utm_source=git)** | 600-700 Mountain Avenue, Murray Hill, New Jersey, 07974-0636, US | On Site | Nov 12 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68f7eb165dc1be601281e4e5?utm_campaign=1066&utm_source=git)** | Chillicothe, OH | On Site | Nov 12 |
+| **[Bloom Energy](http://www.bloomenergy.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68f89fbaa628d10664e84a78?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 12 |
+| **[Hexagon Manufacturing Intelligence](http://www.hexagonmi.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6914d7c9286ccf0a15128bf2?utm_campaign=1066&utm_source=git)** | Novi, MI | Hybrid | Nov 12 |
+| **[PwC](http://pwc.com)** | **[Risk & Reg - Technology & Analytics - Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f9f2a628d10664e87222?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Nov 12 |
+| ↳ | **[Risk & Reg - Technology & Analytics - Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f905f5cadb2e5a06a5fe2d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[IT Intern](https://jobright.ai/jobs/info/68d0ff1c7727df7d5a84fcd2?utm_campaign=1066&utm_source=git)** | Woodridge, IL | On Site | Nov 12 |
 | **[Gallagher](http://www.ajg.com)** | **[U.S Internship - Data Analytics](https://jobright.ai/jobs/info/68cc5b1b7342c7623ae62d7c?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | On Site | Nov 12 |
 | **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dcf5c7ddc10244dd67bcf1?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 12 |
@@ -132,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Data Science Analytics Application Development Graduate Intern](https://jobright.ai/jobs/info/69139c6a1465e02904e95f1a?utm_campaign=1066&utm_source=git)** | OK, Working at Home - Oklahoma | Remote | Nov 11 |
 | ↳ | **[Summer 2026 Data Science Analytics Application Development Graduate Intern](https://jobright.ai/jobs/info/69139c261465e02904e95ef0?utm_campaign=1066&utm_source=git)** | TX, Working at Home - Texas | Remote | Nov 11 |
 | ↳ | **[Summer 2026 Data Science Analytics Application Development Graduate Intern](https://jobright.ai/jobs/info/6913987be344172248f726e7?utm_campaign=1066&utm_source=git)** | NV, Working at Home - Nevada | Remote | Nov 11 |
-| ↳ | **[Summer 2026 Data Science Analytics Application Development Graduate Intern](https://jobright.ai/jobs/info/691398561465e02904e95dc0?utm_campaign=1066&utm_source=git)** | MO, Working at Home - Missouri | Remote | Nov 11 |
 | ↳ | **[Summer 2026 Data Science Analytics Application Development Graduate Intern](https://jobright.ai/jobs/info/691398561465e02904e95dbf?utm_campaign=1066&utm_source=git)** | KS, Working at Home - Kansas | Remote | Nov 11 |
+| ↳ | **[Summer 2026 Data Science Analytics Application Development Graduate Intern](https://jobright.ai/jobs/info/691398561465e02904e95dc0?utm_campaign=1066&utm_source=git)** | MO, Working at Home - Missouri | Remote | Nov 11 |
 | ↳ | **[Summer 2026 Data Science Analytics Application Development Graduate Intern](https://jobright.ai/jobs/info/691398181465e02904e95d91?utm_campaign=1066&utm_source=git)** | VT, Working at Home - Vermont | Remote | Nov 11 |
 | ↳ | **[Summer 2026 Data Science Analytics Application Development Graduate Intern](https://jobright.ai/jobs/info/691397fd1465e02904e95d7f?utm_campaign=1066&utm_source=git)** | AL, Working at Home - Alabama | Remote | Nov 11 |
 | ↳ | **[Summer 2026 Data Science Analytics Application Development Graduate Intern](https://jobright.ai/jobs/info/6913972b1465e02904e95cf1?utm_campaign=1066&utm_source=git)** | CO, Working at Home - Colorado | Remote | Nov 11 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Data Science Analytics Application Development Graduate Intern](https://jobright.ai/jobs/info/69139528d1047e3565d04378?utm_campaign=1066&utm_source=git)** | IN, Working at Home - Indiana | Remote | Nov 11 |
 | ↳ | **[Summer 2026 Data Science Analytics Application Development Graduate Intern](https://jobright.ai/jobs/info/69139524e344172248f7247b?utm_campaign=1066&utm_source=git)** | AZ, Working at Home - Arizona | Remote | Nov 11 |
 | **[Cytiva](https://www.cytivalifesciences.com/en/se)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6913939be344172248f7239a?utm_campaign=1066&utm_source=git)** | Logan, UT | On Site | Nov 11 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Data Science Analytics Application Development Graduate Intern](https://jobright.ai/jobs/info/6913af8c1465e02904e969ee?utm_campaign=1066&utm_source=git)** | Erie-Meadville Area | On Site | Nov 11 |
-| **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Global Epidemiology Intern (PhD)](https://jobright.ai/jobs/info/6913b07be344172248f73455?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Nov 11 |
-| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Claims Technical Analyst Intern](https://jobright.ai/jobs/info/69138064e344172248f71a35?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 11 |
-| **[Allianz Partners](https://allianz-partners.com)** | **[Performance Analyst Intern](https://jobright.ai/jobs/info/69136578e344172248f70f80?utm_campaign=1066&utm_source=git)** | Henrico, VA | Hybrid | Nov 11 |
-| **[Quantbot Technologies LP](https://www.quantbot.com)** | **[Data Trading Analyst Summer Internship - 2026 [New York]](https://jobright.ai/jobs/info/691396cc1465e02904e95cad?utm_campaign=1066&utm_source=git)** | New York | On Site | Nov 11 |
-| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Claims Technical Analyst Intern](https://jobright.ai/jobs/info/691371e6e344172248f713fc?utm_campaign=1066&utm_source=git)** | Cincinnati, OH (USA) | Hybrid | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
