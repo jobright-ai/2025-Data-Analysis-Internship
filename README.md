@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[USAFacts](https://www.usafacts.org)** | **[Technical Data Analyst Intern](https://jobright.ai/jobs/info/69159151286ccf0a1512f1b6?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Nov 12 |
 | **[Abaka AI](https://www.abaka.ai/)** | **[Research Intern (Video)](https://jobright.ai/jobs/info/691577d9286ccf0a1512e94f?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Nov 12 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Research Internship - True Global Intelligence](https://jobright.ai/jobs/info/69154f4c9c388539cbdf26d8?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 12 |
 | ↳ | **[Research Internship - True Global Intelligence](https://jobright.ai/jobs/info/69154c83286ccf0a1512d151?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 12 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Epidemiology](https://jobright.ai/jobs/info/69150c24286ccf0a1512ab72?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Nov 12 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Business Intelligence Engineer Senior Intern](https://jobright.ai/jobs/info/69150c349c388539cbdeffac?utm_campaign=1066&utm_source=git)** | IL - Chicago | On Site | Nov 12 |
 | **[Root Inc.](https://www.root.com)** | **[Growth Analytics Intern](https://jobright.ai/jobs/info/691528da6f36db06ef04c3c9?utm_campaign=1066&utm_source=git)** | Remote (United States) | Remote | Nov 12 |
-| **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/69154615286ccf0a1512ccbd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 12 |
-| ↳ | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/691502589c388539cbdef756?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Nov 12 |
+| **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/691502589c388539cbdef756?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Nov 12 |
+| ↳ | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/69154615286ccf0a1512ccbd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 12 |
 | **[Availity](http://www.availity.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/691507156f36db06ef04ae1f?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 12 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Customer Intelligence Intern](https://jobright.ai/jobs/info/6914f4be9c388539cbdeedae?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Nov 12 |
 | **[STS Metals Inc](https://stsmetals.com/)** | **[PRODUCTION DATA ANALYST INTERN](https://jobright.ai/jobs/info/6914f5e79c388539cbdeeedc?utm_campaign=1066&utm_source=git)** | IRWINDALE, CA, USA | On Site | Nov 12 |
@@ -122,8 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Quant Tech Intern](https://jobright.ai/jobs/info/68bf99718e65e77df55bbcb2?utm_campaign=1066&utm_source=git)** | Kennett Square, PA | Hybrid | Nov 12 |
 | **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (PhD) (Summer 2026)](https://jobright.ai/jobs/info/68dcf60ca125e75c422a740a?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Nov 12 |
 | **[GALLO](http://www.gallocareers.com)** | **[Winegrowing Research Data Analyst Internship 2026  June - December](https://jobright.ai/jobs/info/68ce5abc846f0b04af678f8b?utm_campaign=1066&utm_source=git)** | Modesto, CA | On Site | Nov 12 |
-| **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Data Analytics Engineering Intern](https://jobright.ai/jobs/info/68dbfa576f6c5c3fadf358cd?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Nov 12 |
-| **[GALLO](http://www.gallocareers.com)** | **[Geospatial Data Science Internship 2026 May - December](https://jobright.ai/jobs/info/68bf359c8e65e77df55b84b4?utm_campaign=1066&utm_source=git)** | Modesto, CA | On Site | Nov 12 |
+| ↳ | **[Geospatial Data Science Internship 2026 May - December](https://jobright.ai/jobs/info/68bf359c8e65e77df55b84b4?utm_campaign=1066&utm_source=git)** | Modesto, CA | On Site | Nov 12 |
 | **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dcf632a125e75c422a7441?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Nov 12 |
 | ↳ | **[Data Scientist Intern, Product Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dcf5a2ddc10244dd67bc4c?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Nov 12 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[Business Data Analysis Intern](https://jobright.ai/jobs/info/68ce99c7fb49c96ca6ea1fb3?utm_campaign=1066&utm_source=git)** | Detroit Metro | Hybrid | Nov 12 |
