@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (Privacy and Data Protection Office)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cb8f6bba798c1a501d1b7f?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 13 |
+| **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68c8b2d3983e6768bc55080d?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Nov 13 |
 | **[USAFacts](https://www.usafacts.org)** | **[Technical Data Analyst Intern](https://jobright.ai/jobs/info/69159151286ccf0a1512f1b6?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Nov 12 |
 | **[Abaka AI](https://www.abaka.ai/)** | **[Research Intern (Video)](https://jobright.ai/jobs/info/691577d9286ccf0a1512e94f?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Nov 12 |
-| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Research Internship - True Global Intelligence](https://jobright.ai/jobs/info/69154f4c9c388539cbdf26d8?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 12 |
+| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Research Internship - True Global Intelligence](https://jobright.ai/jobs/info/691551a36f36db06ef04dac3?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Nov 12 |
+| ↳ | **[Research Internship - True Global Intelligence](https://jobright.ai/jobs/info/69154f4c9c388539cbdf26d8?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 12 |
 | ↳ | **[Research Internship - True Global Intelligence](https://jobright.ai/jobs/info/69154c83286ccf0a1512d151?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 12 |
 | ↳ | **[Research Internship - True Global Intelligence](https://jobright.ai/jobs/info/69154b63286ccf0a1512d0cc?utm_campaign=1066&utm_source=git)** | Illinois, United States | Hybrid | Nov 12 |
-| ↳ | **[Research Internship - True Global Intelligence](https://jobright.ai/jobs/info/69154326286ccf0a1512cb64?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Nov 12 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Data Scientist (Summer 2026 Internship)](https://jobright.ai/jobs/info/69154277286ccf0a1512caff?utm_campaign=1066&utm_source=git)** | Schaumburg, IL | Hybrid | Nov 12 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2026 Summer Intern - MAGNet Program @ Arizona State University](https://jobright.ai/jobs/info/691541c69c388539cbdf1e50?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Nov 12 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Research Internship - True Global Intelligence](https://jobright.ai/jobs/info/69155d9c6f36db06ef04e300?utm_campaign=1066&utm_source=git)** | Michigan, United States | Hybrid | Nov 12 |
@@ -123,7 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Quant Tech Intern](https://jobright.ai/jobs/info/68bf99718e65e77df55bbcb2?utm_campaign=1066&utm_source=git)** | Kennett Square, PA | Hybrid | Nov 12 |
 | **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (PhD) (Summer 2026)](https://jobright.ai/jobs/info/68dcf60ca125e75c422a740a?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Nov 12 |
 | **[GALLO](http://www.gallocareers.com)** | **[Winegrowing Research Data Analyst Internship 2026  June - December](https://jobright.ai/jobs/info/68ce5abc846f0b04af678f8b?utm_campaign=1066&utm_source=git)** | Modesto, CA | On Site | Nov 12 |
-| ↳ | **[Geospatial Data Science Internship 2026 May - December](https://jobright.ai/jobs/info/68bf359c8e65e77df55b84b4?utm_campaign=1066&utm_source=git)** | Modesto, CA | On Site | Nov 12 |
+| **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Data Analytics Engineering Intern](https://jobright.ai/jobs/info/6915b649286ccf0a151302ce?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Nov 12 |
+| **[GALLO](http://www.gallocareers.com)** | **[Geospatial Data Science Internship 2026 May - December](https://jobright.ai/jobs/info/68bf359c8e65e77df55b84b4?utm_campaign=1066&utm_source=git)** | Modesto, CA | On Site | Nov 12 |
 | **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dcf632a125e75c422a7441?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Nov 12 |
 | ↳ | **[Data Scientist Intern, Product Analytics (Summer 2026)](https://jobright.ai/jobs/info/68dcf5a2ddc10244dd67bc4c?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Nov 12 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[Business Data Analysis Intern](https://jobright.ai/jobs/info/68ce99c7fb49c96ca6ea1fb3?utm_campaign=1066&utm_source=git)** | Detroit Metro | Hybrid | Nov 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Phoenix Suns](https://suns.nba.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/6914f7f3286ccf0a15129bde?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Nov 11 |
 | **[Legends Global](http://legends.net)** | **[Merchandise Insights Intern](https://jobright.ai/jobs/info/6913d3d71465e02904e97e62?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 11 |
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Procurement Intern - Data Analyst](https://jobright.ai/jobs/info/6913f8e1d1047e3565d078d7?utm_campaign=1066&utm_source=git)** | Aurora, Illinois | On Site | Nov 11 |
-| **[CareSource](https://www.caresource.com/)** | **[2026 Internship Program - Claims Encounters Analyst](https://jobright.ai/jobs/info/6913cd79e344172248f744c0?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 11 |
-| **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/6913caccd1047e3565d06209?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 11 |
-| **[Jain Global](https://www.jainglobal.com)** | **[Quant Research Intern (Summer 2026 – New York)](https://jobright.ai/jobs/info/6913ca29e344172248f74293?utm_campaign=1066&utm_source=git)** | New York Office | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
