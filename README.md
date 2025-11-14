@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reveal Global Consulting ](https://www.revealgc.com)** | **[Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/6916a95b9c388539cbdfda7a?utm_campaign=1066&utm_source=git)** | Fulton, MD | On Site | Nov 13 |
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/6916a59f286ccf0a15138339?utm_campaign=1066&utm_source=git)** | Piscataway, NJ | Hybrid | Nov 13 |
 | **[Reveal Global Consulting ](https://www.revealgc.com)** | **[Methodology Intern](https://jobright.ai/jobs/info/6916a47b286ccf0a151382b1?utm_campaign=1066&utm_source=git)** | Fulton, MD | On Site | Nov 13 |
 | **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/68d787d2267b154f9a2dbaad?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 13 |
 | **[Grocery Outlet](https://groceryoutlet.com/)** | **[Summer Intern - Data & AI](https://jobright.ai/jobs/info/691690059c388539cbdfcbd8?utm_campaign=1066&utm_source=git)** | Emeryville, CA | Hybrid | Nov 13 |
 | **[ITR Concession Company LLC](https://www.indianatollroad.org/)** | **[Sustainability and Data Analytics Intern](https://jobright.ai/jobs/info/69168c9d6f36db06ef057b5d?utm_campaign=1066&utm_source=git)** | Elkhart, IN, US | Hybrid | Nov 13 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Enterprise Data Intern (Summer 2026)](https://jobright.ai/jobs/info/69168b776f36db06ef057a2f?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 13 |
+| **[TotalEnergies](https://ventures.totalenergies.com)** | **[Power Performance Quant Intern](https://jobright.ai/jobs/info/6916aa9c6f36db06ef058d58?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Nov 13 |
 | **[Attention Arc](https://attentionarc.com)** | **[Intern, Data](https://jobright.ai/jobs/info/686c642f35584b65427c880c?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Nov 13 |
 | **[Cintas](https://www.cintas.com)** | **[IT Intern - Data Analytics](https://jobright.ai/jobs/info/6916a26b286ccf0a1513817d?utm_campaign=1066&utm_source=git)** | Mason, OH | On Site | Nov 13 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Data Analytics Intern- Summer 2026 (Rehlko)](https://jobright.ai/jobs/info/6916745c286ccf0a151362d2?utm_campaign=1066&utm_source=git)** | Sheboygan, WI | On Site | Nov 13 |
@@ -71,10 +73,10 @@ For a complete list, click the following sortable link below:
 | **[ABB](https://global.abb/group/en)** | **[Data & Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/69087f4ed046ab6061ccaf40?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Nov 13 |
 | **[Gusto](https://www.gusto.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6916537d9c388539cbdf9f34?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 13 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Undergraduate Year-Round -  Enterprise IT Tools & Services, Hybrid](https://jobright.ai/jobs/info/691651e0286ccf0a15134746?utm_campaign=1066&utm_source=git)** | Albuquerque, NM | Hybrid | Nov 13 |
-| **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Tactical Solutions Intern-1](https://jobright.ai/jobs/info/691684fe6f36db06ef057517?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Nov 13 |
 | **[Gusto](https://www.gusto.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69164bc09c388539cbdf9956?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Nov 13 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern - ISRD](https://jobright.ai/jobs/info/691649d49c388539cbdf9864?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Nov 13 |
 | **[Crane Payment Innovations](http://www.cranepi.com)** | **[Research & Detect Intern](https://jobright.ai/jobs/info/691659846f36db06ef0555c2?utm_campaign=1066&utm_source=git)** | Malvern, PA | On Site | Nov 13 |
+| **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Tactical Solutions Intern-1](https://jobright.ai/jobs/info/691658f79c388539cbdfa1cf?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Nov 13 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern - ISRD](https://jobright.ai/jobs/info/691638fb9c388539cbdf8cef?utm_campaign=1066&utm_source=git)** | 431 S 18th St, Columbus, OH | On Site | Nov 13 |
 | **[DirectCare AI](www.directcareai.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6916349c286ccf0a151335a3?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 13 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/691687196f36db06ef05772f?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Nov 13 |
@@ -95,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Intern - 5020213](https://jobright.ai/jobs/info/690c938d221b890c277fee38?utm_campaign=1066&utm_source=git)** | Rolla, MO | On Site | Nov 13 |
 | **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/691642c8286ccf0a15133db2?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Nov 13 |
 | ↳ | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/691632fa6f36db06ef053b12?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Nov 13 |
-| ↳ | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/6916056f6f36db06ef052543?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Nov 13 |
 | ↳ | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/691607fa9c388539cbdf75da?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 13 |
+| ↳ | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/6916056f6f36db06ef052543?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Nov 13 |
 | ↳ | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/6916096a6f36db06ef052662?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 13 |
 | **[Figma](https://www.figma.com)** | **[Data Science Intern (2026)](https://jobright.ai/jobs/info/68ce664adbd9fb154eddf322?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Nov 13 |
 | **[STR](https://www.str.us/)** | **[Analytics Summer Internship](https://jobright.ai/jobs/info/68ca75ae5f9f0336447ddeef?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Nov 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hexagon Manufacturing Intelligence](http://www.hexagonmi.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6914d7c9286ccf0a15128bf2?utm_campaign=1066&utm_source=git)** | Novi, MI | Hybrid | Nov 12 |
 | **[Mansfield Energy](www.mansfieldenergy.com)** | **[Intern, Data & AI](https://jobright.ai/jobs/info/691508b49c388539cbdefd14?utm_campaign=1066&utm_source=git)** | Gainesville, GA | On Site | Nov 12 |
 | **[Quill](http://www.quill.com)** | **[Quill Reporting & Analytics Intern - June 2026](https://jobright.ai/jobs/info/6914e9b56f36db06ef049a58?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Nov 12 |
-| **[PwC](http://pwc.com)** | **[Risk & Reg - Technology & Analytics - Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f9f2a628d10664e87222?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Nov 12 |
-| ↳ | **[Risk & Reg - Technology & Analytics - Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f905f5cadb2e5a06a5fe2d?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
