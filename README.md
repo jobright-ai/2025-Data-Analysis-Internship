@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Attention Arc](https://attentionarc.com)** | **[Intern, Data](https://jobright.ai/jobs/info/686c642f35584b65427c880c?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Nov 13 |
+| **[Crum & Forster](https://www.cfins.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69167b286f36db06ef056f9a?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Nov 13 |
+| **[Rehlko](https://www.rehlko.com/)** | **[Data Analytics Intern- Summer 2026 (Rehlko)](https://jobright.ai/jobs/info/6916745c286ccf0a151362d2?utm_campaign=1066&utm_source=git)** | Sheboygan, WI | On Site | Nov 13 |
+| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Data Science Research Intern](https://jobright.ai/jobs/info/691675096f36db06ef056ba9?utm_campaign=1066&utm_source=git)** | Santa Clara, California, United States | On Site | Nov 13 |
 | **[ABB](https://global.abb/group/en)** | **[Data & Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/69087f4ed046ab6061ccaf40?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Nov 13 |
 | **[Gusto](https://www.gusto.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6916537d9c388539cbdf9f34?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 13 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Undergraduate Year-Round -  Enterprise IT Tools & Services, Hybrid](https://jobright.ai/jobs/info/691651e0286ccf0a15134746?utm_campaign=1066&utm_source=git)** | Albuquerque, NM | Hybrid | Nov 13 |
@@ -66,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Tactical Solutions Intern-1](https://jobright.ai/jobs/info/691658f79c388539cbdfa1cf?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Nov 13 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern - ISRD](https://jobright.ai/jobs/info/691638fb9c388539cbdf8cef?utm_campaign=1066&utm_source=git)** | 431 S 18th St, Columbus, OH | On Site | Nov 13 |
 | **[DirectCare AI](www.directcareai.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6916349c286ccf0a151335a3?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 13 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/6916459e6f36db06ef05478d?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Nov 13 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Customer Intelligence Intern (Summer 2026)](https://jobright.ai/jobs/info/6914ed4f9c388539cbdee9c8?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Nov 13 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[GIS Internship](https://jobright.ai/jobs/info/691642b2286ccf0a15133da7?utm_campaign=1066&utm_source=git)** | Minnetonka, MN | On Site | Nov 13 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Data Analytics and Change Management Intern](https://jobright.ai/jobs/info/691646609c388539cbdf9617?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 13 |
@@ -127,8 +130,6 @@ For a complete list, click the following sortable link below:
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Epidemiology](https://jobright.ai/jobs/info/69150c24286ccf0a1512ab72?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Nov 12 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Business Intelligence Engineer Senior Intern](https://jobright.ai/jobs/info/69150c349c388539cbdeffac?utm_campaign=1066&utm_source=git)** | IL - Chicago | On Site | Nov 12 |
 | **[Root Inc.](https://www.root.com)** | **[Growth Analytics Intern](https://jobright.ai/jobs/info/691528da6f36db06ef04c3c9?utm_campaign=1066&utm_source=git)** | Remote (United States) | Remote | Nov 12 |
-| **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/69154615286ccf0a1512ccbd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 12 |
-| **[Availity](http://www.availity.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/691507156f36db06ef04ae1f?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 12 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Customer Intelligence Intern](https://jobright.ai/jobs/info/6914f4be9c388539cbdeedae?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Nov 12 |
 | **[STS Metals Inc](https://stsmetals.com/)** | **[PRODUCTION DATA ANALYST INTERN](https://jobright.ai/jobs/info/6914f5e79c388539cbdeeedc?utm_campaign=1066&utm_source=git)** | IRWINDALE, CA, USA | On Site | Nov 12 |
 | **[PwC](http://pwc.com)** | **[Risk & Reg - Technology & Analytics - Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68f8f3cca628d10664e867d6?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[Research Intern - Bioinformatics & Computational Biology](https://jobright.ai/jobs/info/6914a8f26f36db06ef04822f?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Nov 12 |
 | **[Discount Tire](http://www.discounttire.com/dtcs/home.do)** | **[Information Technology Intern - Treadwell/Analytics](https://jobright.ai/jobs/info/69148c829c388539cbdec967?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Nov 12 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Quant Tech Intern](https://jobright.ai/jobs/info/68bf99718e65e77df55bbcb2?utm_campaign=1066&utm_source=git)** | Kennett Square, PA | Hybrid | Nov 12 |
-| **[Meta](https://www.meta.com)** | **[Data Scientist Intern, Product Analytics (PhD) (Summer 2026)](https://jobright.ai/jobs/info/68dcf60ca125e75c422a740a?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
