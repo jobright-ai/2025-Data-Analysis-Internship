@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Junior Quant Developer - Asset Liability Management Summer Internship Program](https://jobright.ai/jobs/info/68ef6aebde50091dbfa4e9b6?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 15 |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/68e5dfefae2b894b1d714b11?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Nov 15 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Bioanalytical Data Science – Intern](https://jobright.ai/jobs/info/68e7802815da181e7e4edbe8?utm_campaign=1066&utm_source=git)** | Lansdale, PA | Hybrid | Nov 15 |
+| **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Data Science Internship](https://jobright.ai/jobs/info/68cbfa857342c7623ae5cbe5?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Nov 15 |
+| **[Schonfeld](http://www.schonfeld.com/)** | **[2026 PhD Quant Research Summer Intern - Miami Area](https://jobright.ai/jobs/info/68cd9382e23def7af55bbf05?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Nov 15 |
+| ↳ | **[2026 PhD Quant Research Summer Intern - New York](https://jobright.ai/jobs/info/68c7bd1ef42a830e1c7e7205?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 15 |
+| **[GFT](https://www.gftinc.com)** | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/68e04cfef758fe1f97e4c246?utm_campaign=1066&utm_source=git)** | Mechanicsburg, PA | Hybrid | Nov 15 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Retail Media BI Analytics Intern](https://jobright.ai/jobs/info/68fc9178bf1f431bc45f7159?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 15 |
 | **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Business Intelligence/Data Insights Intern](https://jobright.ai/jobs/info/68ccffcbd11b445e0bee5e20?utm_campaign=1066&utm_source=git)** | Jackson, MS | On Site | Nov 15 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (Product Analytics, USDS) - 2025 Start (BS, MS)](https://jobright.ai/jobs/info/6916bde86f36db06ef059652?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Nov 15 |
@@ -75,6 +82,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Research Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68cea39edbd9fb154ede1787?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68c8fa5095f5211cd2cec77c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | ↳ | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cd78d5b2a74e1837ed7440?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 15 |
+| **[GFT](https://www.gftinc.com)** | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/68e04b54b99ec3563b0ce542?utm_campaign=1066&utm_source=git)** | Miami, FL | Hybrid | Nov 15 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Engineering Data Analytics](https://jobright.ai/jobs/info/69184df215b41563671815f7?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 15 |
 | ↳ | **[Student Intern, Customer Data Analyst](https://jobright.ai/jobs/info/691846eb15b4156367181090?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 15 |
 | **[Maxterial, Inc.](https://www.maxterial.com)** | **[Internship in Statistics (Graduate Students)](https://jobright.ai/jobs/info/6918380815b415636717fd49?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 15 |
@@ -124,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Retail Analyst](https://jobright.ai/jobs/info/68c93516f9c6ff7aedf18c31?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68cf8149dbd9fb154ede86e4?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Nov 14 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Long-Term Intern, Model Risk](https://jobright.ai/jobs/info/68cd6f051ad6b16f0289987a?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Nov 14 |
-| **[Oracle](https://www.oracle.com/)** | **[Data Science Intern - Industries](https://jobright.ai/jobs/info/68fdfc7be04ac838fb5b2d41?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern(TikTok Shop-Supply Chain & Logistics) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6916c1c9286ccf0a1513921f?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Nov 14 |
 | **[Efficio](https://www.efficioconsulting.com/)** | **[Internship - Chicago](https://jobright.ai/jobs/info/68fa9523b2c86843bf20faa2?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 14 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68950a0873b3a600fe884916?utm_campaign=1066&utm_source=git)** | Strongsville, OH | On Site | Nov 14 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grocery Outlet](https://groceryoutlet.com/)** | **[Summer Intern - Data & AI](https://jobright.ai/jobs/info/691690059c388539cbdfcbd8?utm_campaign=1066&utm_source=git)** | Emeryville, CA | Hybrid | Nov 13 |
 | **[ITR Concession Company LLC](https://www.indianatollroad.org/)** | **[Sustainability and Data Analytics Intern](https://jobright.ai/jobs/info/69168c9d6f36db06ef057b5d?utm_campaign=1066&utm_source=git)** | Elkhart, IN, US | Hybrid | Nov 13 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Enterprise Data Intern (Summer 2026)](https://jobright.ai/jobs/info/69168b776f36db06ef057a2f?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 13 |
-| **[TotalEnergies](https://ventures.totalenergies.com)** | **[Power Performance Quant Intern](https://jobright.ai/jobs/info/6916aa9c6f36db06ef058d58?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Nov 13 |
-| **[Attention Arc](https://attentionarc.com)** | **[Intern, Data](https://jobright.ai/jobs/info/686c642f35584b65427c880c?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Nov 13 |
-| **[Rehlko](https://www.rehlko.com/)** | **[Data Analytics Intern- Summer 2026 (Rehlko)](https://jobright.ai/jobs/info/6916745c286ccf0a151362d2?utm_campaign=1066&utm_source=git)** | Sheboygan, WI | On Site | Nov 13 |
-| **[Reveal Global Consulting](https://www.revealgc.com)** | **[Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/6916993d286ccf0a15137c4d?utm_campaign=1066&utm_source=git)** | Fulton, MD, US | On Site | Nov 13 |
-| **[Hitachi Energy](http://www.hitachienergy.com/in/en)** | **[Data Science Research Intern](https://jobright.ai/jobs/info/691675096f36db06ef056ba9?utm_campaign=1066&utm_source=git)** | Santa Clara, California, United States | On Site | Nov 13 |
-| **[ABB](https://global.abb/group/en)** | **[Data & Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/69087f4ed046ab6061ccaf40?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Nov 13 |
-| **[Gusto](https://www.gusto.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6916537d9c388539cbdf9f34?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
