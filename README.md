@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2026 Summer]](https://jobright.ai/jobs/info/68cf1297fb49c96ca6ea5a5d?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Nov 15 |
+| **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (PhD 2026)](https://jobright.ai/jobs/info/68cd1f74e23def7af55b59b8?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Nov 15 |
+| **[Henkel](http://www.henkel.com)** | **[Supply Chain Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/68ca661f5f9f0336447dd599?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 15 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Junior Quant Developer - Asset Liability Management Summer Internship Program](https://jobright.ai/jobs/info/68ef6aebde50091dbfa4e9b6?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/68e5dfefae2b894b1d714b11?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Nov 15 |
+| **[PACCAR Financial Corp.](https://www.paccarfinancial.com)** | **[PFC Data Analytics - Summer Internship 2026](https://jobright.ai/jobs/info/69189c1d15b41563671830db?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Nov 15 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program – Bioanalytical Data Science – Intern](https://jobright.ai/jobs/info/68e7802815da181e7e4edbe8?utm_campaign=1066&utm_source=git)** | Lansdale, PA | Hybrid | Nov 15 |
 | **[The Trade Desk](http://thetradedesk.com)** | **[2026 North America Data Science Internship](https://jobright.ai/jobs/info/68cbfa857342c7623ae5cbe5?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Nov 15 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2026 PhD Quant Research Summer Intern - Miami Area](https://jobright.ai/jobs/info/68cd9382e23def7af55bbf05?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Nov 15 |
@@ -109,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/6917885bbcdbf3560c9c8993?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Nov 14 |
 | **[Scientech Research LLC](https://www.scientechresearch.io/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6917a4ec45fb6f5ead89d07a?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Nov 14 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Pharmacometrics Intern (PhD)](https://jobright.ai/jobs/info/6917ae6d15b415636717a5b6?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Nov 14 |
-| ↳ | **[2026 Spatial Transcriptomics Intern (PhD)](https://jobright.ai/jobs/info/69179e6415b41563671799c5?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Nov 14 |
 | ↳ | **[2026 Immunology Bioinformatics Intern (PhD)](https://jobright.ai/jobs/info/6917b303bcdbf3560c9ca66d?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Nov 14 |
+| ↳ | **[2026 Spatial Transcriptomics Intern (PhD)](https://jobright.ai/jobs/info/69179e6415b41563671799c5?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Nov 14 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Business Intelligence Engineer Senior Intern](https://jobright.ai/jobs/info/69178d42bcdbf3560c9c8bd5?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 14 |
 | **[Wip](www.wip.com)** | **[Strategic Analytics Intern](https://jobright.ai/jobs/info/6917a84dbcdbf3560c9c9fc7?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 14 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Data Science Intern (Remote)](https://jobright.ai/jobs/info/6917620a3ea85638ae1ca266?utm_campaign=1066&utm_source=git)** | Dallas, TX, US | Remote | Nov 14 |
@@ -145,16 +149,12 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Science intern (TikTok-Product-Data Science-UG Mid-Platform-US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6915a64d286ccf0a1512fe2c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Strategic Data Analytics Intern](https://jobright.ai/jobs/info/68ce55a2dbd9fb154edde9ec?utm_campaign=1066&utm_source=git)** | Strongsville, OH | On Site | Nov 14 |
 | **[Databricks](https://www.databricks.com)** | **[Data Science Intern (2026 Start)](https://jobright.ai/jobs/info/68cf25aedbd9fb154ede557c?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Nov 14 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 14 |
-| ↳ | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68a4e2fa33dd7158bbc95f3c?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 14 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68a4e2fa33dd7158bbc95f3c?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 14 |
+| ↳ | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 14 |
 | **[Allianz Partners](https://allianz-partners.com)** | **[Performance Analyst Intern](https://jobright.ai/jobs/info/69136578e344172248f70f80?utm_campaign=1066&utm_source=git)** | Henrico, VA | Hybrid | Nov 14 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst (Operations Support), Emerging Talent Intern](https://jobright.ai/jobs/info/69127044ea9ab01b82bf2afd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 14 |
 | **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Digital Transformation Intern](https://jobright.ai/jobs/info/691684fe6f36db06ef057517?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Nov 13 |
 | **[Reveal Global Consulting](https://www.revealgc.com)** | **[Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/6916a95b9c388539cbdfda7a?utm_campaign=1066&utm_source=git)** | Fulton, MD | On Site | Nov 13 |
 | ↳ | **[Methodology Intern](https://jobright.ai/jobs/info/6916a47b286ccf0a151382b1?utm_campaign=1066&utm_source=git)** | Fulton, MD | On Site | Nov 13 |
 | **[City of South Lake Tahoe](http://www.cityofslt.us)** | **[Data and Innovation Intern](https://jobright.ai/jobs/info/69180b1f15b415636717e198?utm_campaign=1066&utm_source=git)** | South Lake Tahoe, CA | On Site | Nov 13 |
-| **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/68d787d2267b154f9a2dbaad?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 13 |
-| **[Grocery Outlet](https://groceryoutlet.com/)** | **[Summer Intern - Data & AI](https://jobright.ai/jobs/info/691690059c388539cbdfcbd8?utm_campaign=1066&utm_source=git)** | Emeryville, CA | Hybrid | Nov 13 |
-| **[ITR Concession Company LLC](https://www.indianatollroad.org/)** | **[Sustainability and Data Analytics Intern](https://jobright.ai/jobs/info/69168c9d6f36db06ef057b5d?utm_campaign=1066&utm_source=git)** | Elkhart, IN, US | Hybrid | Nov 13 |
-| **[RaceTrac](http://www.racetrac.com/)** | **[Enterprise Data Intern (Summer 2026)](https://jobright.ai/jobs/info/69168b776f36db06ef057a2f?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
