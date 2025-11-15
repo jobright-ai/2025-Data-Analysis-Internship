@@ -57,12 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Enterprise Data Analyst Intern](https://jobright.ai/jobs/info/6917ac2a15b415636717a535?utm_campaign=1066&utm_source=git)** | TX - Richardson | On Site | Nov 14 |
+| **[DNV](https://www.dnv.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6917a848bcdbf3560c9c9fc5?utm_campaign=1066&utm_source=git)** | Houston, TX, United States | On Site | Nov 14 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Enterprise Data Analyst Intern](https://jobright.ai/jobs/info/6917a50e15b4156367179f1f?utm_campaign=1066&utm_source=git)** | IL - Chicago | On Site | Nov 14 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Data Science Intern (Remote)](https://jobright.ai/jobs/info/691799c415b415636717970c?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Remote | Nov 14 |
+| **[TD](https://www.td.com)** | **[Data Analytics & Insights Intern/Co-op (WINTER 2026)](https://jobright.ai/jobs/info/6917b97a45fb6f5ead89e0c5?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 14 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Quantitative Insights Lab Intern (PhD)](https://jobright.ai/jobs/info/691789d745fb6f5ead89bdc0?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Nov 14 |
-| ↳ | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/6917885bbcdbf3560c9c8993?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Nov 14 |
-| **[AccelNode](https://AccelNode.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69178325bcdbf3560c9c8633?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 14 |
-| **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Spatial Transcriptomics Intern (PhD)](https://jobright.ai/jobs/info/69179e6415b41563671799c5?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Nov 14 |
+| **[Susan G. Komen](http://www.komen.org)** | **[Data Science Intern (Remote)](https://jobright.ai/jobs/info/6917aaf445fb6f5ead89d659?utm_campaign=1066&utm_source=git)** | Dallas, TX | Remote | Nov 14 |
+| **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/6917885bbcdbf3560c9c8993?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Nov 14 |
+| **[Scientech Research LLC](https://www.scientechresearch.io/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6917a4ec45fb6f5ead89d07a?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Nov 14 |
+| **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Pharmacometrics Intern (PhD)](https://jobright.ai/jobs/info/6917ae6d15b415636717a5b6?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Nov 14 |
+| ↳ | **[2026 Immunology Bioinformatics Intern (PhD)](https://jobright.ai/jobs/info/6917b303bcdbf3560c9ca66d?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Nov 14 |
+| ↳ | **[2026 Spatial Transcriptomics Intern (PhD)](https://jobright.ai/jobs/info/69179e6415b41563671799c5?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Nov 14 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Business Intelligence Engineer Senior Intern](https://jobright.ai/jobs/info/69178d42bcdbf3560c9c8bd5?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 14 |
+| **[Wip](www.wip.com)** | **[Strategic Analytics Intern](https://jobright.ai/jobs/info/6917a84dbcdbf3560c9c9fc7?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 14 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Data Science Intern (Remote)](https://jobright.ai/jobs/info/6917620a3ea85638ae1ca266?utm_campaign=1066&utm_source=git)** | Dallas, TX, US | Remote | Nov 14 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6917611cbcdbf3560c9c7478?utm_campaign=1066&utm_source=git)** | Woodbridge, NJ, 07095, United States | On Site | Nov 14 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Commercial Business Intelligence & Proposal Management Intern](https://jobright.ai/jobs/info/68faf2569e8e925ac6c87c34?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
@@ -145,16 +153,8 @@ For a complete list, click the following sortable link below:
 | **[State of Missouri](http://mo.gov)** | **[Intern - 5020213](https://jobright.ai/jobs/info/690c938d221b890c277fee38?utm_campaign=1066&utm_source=git)** | Rolla, MO | On Site | Nov 13 |
 | **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/691642c8286ccf0a15133db2?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Nov 13 |
 | ↳ | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/691632fa6f36db06ef053b12?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | On Site | Nov 13 |
-| ↳ | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/6916056f6f36db06ef052543?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Nov 13 |
 | ↳ | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/691607fa9c388539cbdf75da?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 13 |
+| ↳ | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/6916056f6f36db06ef052543?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Nov 13 |
 | ↳ | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/6916096a6f36db06ef052662?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 13 |
 | **[Figma](https://www.figma.com)** | **[Data Science Intern (2026)](https://jobright.ai/jobs/info/68ce664adbd9fb154eddf322?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Nov 13 |
-| **[STR](https://www.str.us/)** | **[Analytics Summer Internship](https://jobright.ai/jobs/info/68ca75ae5f9f0336447ddeef?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Nov 13 |
-| ↳ | **[Intelligence Summer Internship](https://jobright.ai/jobs/info/68cb9751ba798c1a501d2992?utm_campaign=1066&utm_source=git)** | Woburn, MA | On Site | Nov 13 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68cb6684efdec76df36bc2db?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Nov 13 |
-| ↳ | **[Data Scientist Intern [TikTok LIVE-Data Science]-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fa09a18a7359609b8c8863?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 13 |
-| ↳ | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd43151ad6b16f02897359?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 13 |
-| ↳ | **[Data Scientist Intern (Privacy and Data Protection Office)- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cb8f6bba798c1a501d1b7f?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 13 |
-| **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68c8b2d3983e6768bc55080d?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Nov 13 |
-| **[STR](https://www.str.us/)** | **[Intelligence Summer Internship](https://jobright.ai/jobs/info/68c20aaa63b706703e111267?utm_campaign=1066&utm_source=git)** | Melbourne, FL | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
