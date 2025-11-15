@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[AccelNode](https://AccelNode.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6918ba8415b415636718390a?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 15 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 15 |
-| **[Arvento A](arventoa.us)** | **[Business Data Analysis Intern](https://jobright.ai/jobs/info/6918a2e145fb6f5ead8a6467?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Nov 15 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Business Intelligence (CIT Rail)](https://jobright.ai/jobs/info/68fc3a3bf55bb021a88a1bba?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 15 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2026 Summer]](https://jobright.ai/jobs/info/68cf1297fb49c96ca6ea5a5d?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Nov 15 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (PhD 2026)](https://jobright.ai/jobs/info/68cd1f74e23def7af55b59b8?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Nov 15 |
@@ -93,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[GFT](https://www.gftinc.com)** | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/68e04b54b99ec3563b0ce542?utm_campaign=1066&utm_source=git)** | Miami, FL | Hybrid | Nov 15 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Engineering Data Analytics](https://jobright.ai/jobs/info/69184df215b41563671815f7?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 15 |
 | ↳ | **[Student Intern, Customer Data Analyst](https://jobright.ai/jobs/info/691846eb15b4156367181090?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 15 |
-| **[Maxterial, Inc.](https://www.maxterial.com)** | **[Internship in Statistics (Graduate Students)](https://jobright.ai/jobs/info/6918380815b415636717fd49?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 15 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Epidemiology](https://jobright.ai/jobs/info/691836ee45fb6f5ead8a2e6e?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Nov 15 |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Data Management, Technology - New York, NY](https://jobright.ai/jobs/info/6918c23c45fb6f5ead8a6b44?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 14 |
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Data Analyst Summer Intern](https://jobright.ai/jobs/info/6917f700bcdbf3560c9cd14e?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | On Site | Nov 14 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6917eac615b415636717cc60?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Nov 14 |
 | **[4MATIV Technologies](https://4mativ.org)** | **[Analytics Intern](https://jobright.ai/jobs/info/6917d58a45fb6f5ead89f09d?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 14 |
 | **[Allianz Partners](https://allianz-partners.com)** | **[Performance Analyst Intern](https://jobright.ai/jobs/info/69136578e344172248f70f80?utm_campaign=1066&utm_source=git)** | Henrico, VA | Hybrid | Nov 14 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Data Analyst (Operations Support), Emerging Talent Intern](https://jobright.ai/jobs/info/69127044ea9ab01b82bf2afd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 14 |
+| **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Digital Transformation Intern](https://jobright.ai/jobs/info/691684fe6f36db06ef057517?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
