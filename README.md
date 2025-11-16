@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (Summer 2026)](https://jobright.ai/jobs/info/68ccf0c9d11b445e0bee4bba?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Nov 16 |
 | **[Peraton](https://www.peraton.com/)** | **[Summer 2026 Data Science Intern](https://jobright.ai/jobs/info/68cc46e816d00d2beeb1cb66?utm_campaign=1066&utm_source=git)** | Herndon, VA | Hybrid | Nov 16 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cbc35befdec76df36c207d?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Nov 16 |
 | **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Data Enablement Intern](https://jobright.ai/jobs/info/6917e83215b415636717c9bb?utm_campaign=1066&utm_source=git)** | Lenexa, KS | On Site | Nov 16 |
@@ -128,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/6917885bbcdbf3560c9c8993?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Nov 14 |
 | **[Scientech Research LLC](https://www.scientechresearch.io/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/6917a4ec45fb6f5ead89d07a?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Nov 14 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2026 Pharmacometrics Intern (PhD)](https://jobright.ai/jobs/info/6917ae6d15b415636717a5b6?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Nov 14 |
-| ↳ | **[2026 Spatial Transcriptomics Intern (PhD)](https://jobright.ai/jobs/info/69179e6415b41563671799c5?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Nov 14 |
 | ↳ | **[2026 Immunology Bioinformatics Intern (PhD)](https://jobright.ai/jobs/info/6917b303bcdbf3560c9ca66d?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Nov 14 |
+| ↳ | **[2026 Spatial Transcriptomics Intern (PhD)](https://jobright.ai/jobs/info/69179e6415b41563671799c5?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Nov 14 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Business Intelligence Engineer Senior Intern](https://jobright.ai/jobs/info/69178d42bcdbf3560c9c8bd5?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 14 |
 | **[Wip](www.wip.com)** | **[Strategic Analytics Intern](https://jobright.ai/jobs/info/6917a84dbcdbf3560c9c9fc7?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 14 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Data Science Intern (Remote)](https://jobright.ai/jobs/info/6917620a3ea85638ae1ca266?utm_campaign=1066&utm_source=git)** | Dallas, TX, US | Remote | Nov 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68950a0873b3a600fe884916?utm_campaign=1066&utm_source=git)** | Strongsville, OH | On Site | Nov 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69157a7c6f36db06ef04f0bf?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Nov 14 |
 | ↳ | **[Data Scientist Intern (TikTok-Business Risk Integrated Control-Risk Measurement) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb55424129dd33cd131964?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
-| ↳ | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/691558029c388539cbdf2b30?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
