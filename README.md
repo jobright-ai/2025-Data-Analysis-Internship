@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Peraton](https://www.peraton.com/)** | **[Summer 2026 Data Science Intern](https://jobright.ai/jobs/info/68cc46e816d00d2beeb1cb66?utm_campaign=1066&utm_source=git)** | Herndon, VA | Hybrid | Nov 16 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cbc35befdec76df36c207d?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Nov 16 |
 | **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Data Enablement Intern](https://jobright.ai/jobs/info/6917e83215b415636717c9bb?utm_campaign=1066&utm_source=git)** | Lenexa, KS | On Site | Nov 16 |
 | **[TC Energy](https://www.tcenergy.com/)** | **[Data Analytics Intern, Operations Office of Excellence Assurance](https://jobright.ai/jobs/info/68d8a4ecc52ed61722c9485a?utm_campaign=1066&utm_source=git)** | Washington, PA | Hybrid | Nov 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69157a7c6f36db06ef04f0bf?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Nov 14 |
 | ↳ | **[Data Scientist Intern (TikTok-Business Risk Integrated Control-Risk Measurement) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb55424129dd33cd131964?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
 | ↳ | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/691558029c388539cbdf2b30?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/69140131e344172248f75d78?utm_campaign=1066&utm_source=git)** | Erie-Meadville Area | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
