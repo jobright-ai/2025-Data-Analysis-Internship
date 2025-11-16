@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Enterprise Data Analyst Intern](https://jobright.ai/jobs/info/691a17a915b4156367187e41?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 16 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Enterprise Data Analyst Intern](https://jobright.ai/jobs/info/691a17b615b4156367187e43?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 16 |
+| ↳ | **[Early Careers - Associate Enterprise Data Analyst Intern](https://jobright.ai/jobs/info/691a17a915b4156367187e41?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 16 |
 | ↳ | **[Early Careers - Associate Enterprise Data Analyst Intern](https://jobright.ai/jobs/info/691a179145fb6f5ead8aaf88?utm_campaign=1066&utm_source=git)** | Richardson, TX | Hybrid | Nov 16 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (Summer 2026)](https://jobright.ai/jobs/info/68ccf0c9d11b445e0bee4bba?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Nov 16 |
 | **[Peraton](https://www.peraton.com/)** | **[Summer 2026 Data Science Intern](https://jobright.ai/jobs/info/68cc46e816d00d2beeb1cb66?utm_campaign=1066&utm_source=git)** | Herndon, VA | Hybrid | Nov 16 |
@@ -66,8 +67,7 @@ For a complete list, click the following sortable link below:
 | **[TC Energy](https://www.tcenergy.com/)** | **[Data Analytics Intern, Operations Office of Excellence Assurance](https://jobright.ai/jobs/info/68d8a4ecc52ed61722c9485a?utm_campaign=1066&utm_source=git)** | Washington, PA | Hybrid | Nov 16 |
 | **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Intern - Data Science, Electric Distribution](https://jobright.ai/jobs/info/69199cf345fb6f5ead8a9fa7?utm_campaign=1066&utm_source=git)** | Davenport, IA | Hybrid | Nov 16 |
 | ↳ | **[Intern - Data Science, Electric Distribution](https://jobright.ai/jobs/info/69199bf315b4156367186d82?utm_campaign=1066&utm_source=git)** | Sioux City, IA | Hybrid | Nov 16 |
-| ↳ | **[Intern - Data Science, Electric Distribution](https://jobright.ai/jobs/info/69199951bcdbf3560c9d6a07?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Hybrid | Nov 16 |
-| **[Maxterial, Inc.](https://www.maxterial.com)** | **[Internship in Statistics (Graduate Students)](https://jobright.ai/jobs/info/6919a152bcdbf3560c9d6cd8?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 15 |
+| ↳ | **[Intern - Data Science, Electric Distribution](https://jobright.ai/jobs/info/6919976715b4156367186b82?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Hybrid | Nov 16 |
 | **[ABB](https://global.abb/group/en)** | **[Data & Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/69087f4ed046ab6061ccaf40?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Nov 15 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/6919185cbcdbf3560c9d41af?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Nov 15 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 15 |
