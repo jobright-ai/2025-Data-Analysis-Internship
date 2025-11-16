@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cbc35befdec76df36c207d?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Nov 16 |
+| **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Data Enablement Intern](https://jobright.ai/jobs/info/6917e83215b415636717c9bb?utm_campaign=1066&utm_source=git)** | Lenexa, KS | On Site | Nov 16 |
+| **[TC Energy](https://www.tcenergy.com/)** | **[Data Analytics Intern, Operations Office of Excellence Assurance](https://jobright.ai/jobs/info/68d8a4ecc52ed61722c9485a?utm_campaign=1066&utm_source=git)** | Washington, PA | Hybrid | Nov 16 |
 | **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Intern - Data Science, Electric Distribution](https://jobright.ai/jobs/info/69199cf345fb6f5ead8a9fa7?utm_campaign=1066&utm_source=git)** | Davenport, IA | Hybrid | Nov 16 |
 | ↳ | **[Intern - Data Science, Electric Distribution](https://jobright.ai/jobs/info/69199bf315b4156367186d82?utm_campaign=1066&utm_source=git)** | Sioux City, IA | Hybrid | Nov 16 |
 | ↳ | **[Intern - Data Science, Electric Distribution](https://jobright.ai/jobs/info/69199951bcdbf3560c9d6a07?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Hybrid | Nov 16 |
+| **[Maxterial, Inc.](https://www.maxterial.com)** | **[Internship in Statistics (Graduate Students)](https://jobright.ai/jobs/info/6919a152bcdbf3560c9d6cd8?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 15 |
 | **[ABB](https://global.abb/group/en)** | **[Data & Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/69087f4ed046ab6061ccaf40?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Nov 15 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/6919185cbcdbf3560c9d41af?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Nov 15 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Intern (TikTok-Business Risk Integrated Control-Risk Measurement) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fb55424129dd33cd131964?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
 | ↳ | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)](https://jobright.ai/jobs/info/691558029c388539cbdf2b30?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/69140131e344172248f75d78?utm_campaign=1066&utm_source=git)** | Erie-Meadville Area | On Site | Nov 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/68cf0840fb49c96ca6ea540c?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Nov 14 |
-| ↳ | **[Data Scientist Intern (TikTok-Search)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6916fc36370fde633d07be2e?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
-| **[Allianz Partners](https://allianz-partners.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69136ddfd1047e3565d031b5?utm_campaign=1066&utm_source=git)** | Henrico, VA | Hybrid | Nov 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science intern (TikTok-Product-Data Science-UG Mid-Platform-US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6915a64d286ccf0a1512fe2c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
