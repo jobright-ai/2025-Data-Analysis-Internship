@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cc4fb47342c7623ae6265b?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Nov 17 |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Integrated Supply Chain (ISC) Analytics Intern - The Toro Company](https://jobright.ai/jobs/info/68c5b195c96a22563ece9b3b?utm_campaign=1066&utm_source=git)** | Hennepin County, MN | On Site | Nov 17 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 17 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Data Science (Memphis, TN or Remote)](https://jobright.ai/jobs/info/691ad81b45fb6f5ead8ae359?utm_campaign=1066&utm_source=git)** | Memphis, TN | Remote | Nov 17 |
 | **[Nebraska Department of Health and Human Services](http://dhhs.ne.gov/)** | **[Masters-Level Epidemiology Internship (Jan 2026 – Jan 2027)](https://jobright.ai/jobs/info/6903cdf1d64a22104aa9351b?utm_campaign=1066&utm_source=git)** | Lincoln, NE | Hybrid | Nov 16 |
-| **[Spirit Halloween](http://www.spirithalloween.com)** | **[Data Governance Internship](https://jobright.ai/jobs/info/691a96d515b41563671891f2?utm_campaign=1066&utm_source=git)** | Egg Harbor, NJ | Hybrid | Nov 16 |
-| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Enterprise Data Analyst Intern](https://jobright.ai/jobs/info/691a17b615b4156367187e43?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 16 |
+| **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Enterprise Data Analyst Intern](https://jobright.ai/jobs/info/691a17a915b4156367187e41?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 16 |
 | ↳ | **[Early Careers - Associate Enterprise Data Analyst Intern](https://jobright.ai/jobs/info/691a179145fb6f5ead8aaf88?utm_campaign=1066&utm_source=git)** | Richardson, TX | Hybrid | Nov 16 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (Summer 2026)](https://jobright.ai/jobs/info/68ccf0c9d11b445e0bee4bba?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Nov 16 |
 | **[Peraton](https://www.peraton.com/)** | **[Summer 2026 Data Science Intern](https://jobright.ai/jobs/info/68cc46e816d00d2beeb1cb66?utm_campaign=1066&utm_source=git)** | Herndon, VA | Hybrid | Nov 16 |
@@ -69,7 +71,7 @@ For a complete list, click the following sortable link below:
 | **[TC Energy](https://www.tcenergy.com/)** | **[Data Analytics Intern, Operations Office of Excellence Assurance](https://jobright.ai/jobs/info/68d8a4ecc52ed61722c9485a?utm_campaign=1066&utm_source=git)** | Washington, PA | Hybrid | Nov 16 |
 | **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Intern - Data Science, Electric Distribution](https://jobright.ai/jobs/info/69199cf345fb6f5ead8a9fa7?utm_campaign=1066&utm_source=git)** | Davenport, IA | Hybrid | Nov 16 |
 | ↳ | **[Intern - Data Science, Electric Distribution](https://jobright.ai/jobs/info/69199bf315b4156367186d82?utm_campaign=1066&utm_source=git)** | Sioux City, IA | Hybrid | Nov 16 |
-| ↳ | **[Intern - Data Science, Electric Distribution](https://jobright.ai/jobs/info/6919976715b4156367186b82?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Hybrid | Nov 16 |
+| ↳ | **[Intern - Data Science, Electric Distribution](https://jobright.ai/jobs/info/69199951bcdbf3560c9d6a07?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Hybrid | Nov 16 |
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/691acc4c45fb6f5ead8adcad?utm_campaign=1066&utm_source=git)** | Overland Park, KS | Hybrid | Nov 15 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Information Governance & Privacy Internship (Summer 2026)](https://jobright.ai/jobs/info/691aaa18bcdbf3560c9d985e?utm_campaign=1066&utm_source=git)** | Schaumburg, IL | Hybrid | Nov 15 |
 | **[ABB](https://global.abb/group/en)** | **[Data & Analytics Intern- Summer 2026](https://jobright.ai/jobs/info/69087f4ed046ab6061ccaf40?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Nov 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[STR](https://www.str.us/)** | **[Intelligence Summer Internship](https://jobright.ai/jobs/info/68cf648cfb49c96ca6ea850e?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Nov 14 |
 | ↳ | **[Analytics Summer Internship](https://jobright.ai/jobs/info/68ce6d3a846f0b04af679cec?utm_campaign=1066&utm_source=git)** | Woburn, MA | On Site | Nov 14 |
 | **[Efficio](https://www.efficioconsulting.com/)** | **[Internship - New York City](https://jobright.ai/jobs/info/68fa8f41edd190144238e37a?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 14 |
-| **[Ketjen Corporation](https://ketjen.com)** | **[Ketjen Summer 2026 Data Science Internship Program](https://jobright.ai/jobs/info/68ca32d2d4187c55157a7cc5?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Nov 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (PhD)](https://jobright.ai/jobs/info/688b98531808534a89cb448d?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
