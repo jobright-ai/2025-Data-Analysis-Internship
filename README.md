@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech World Networking](techworldnetworking.us)** | **[Business Data Analysis Intern](https://jobright.ai/jobs/info/691a5b2dbcdbf3560c9d82df?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Nov 16 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Enterprise Data Analyst Intern](https://jobright.ai/jobs/info/691a17b615b4156367187e43?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 16 |
-| ↳ | **[Early Careers - Associate Enterprise Data Analyst Intern](https://jobright.ai/jobs/info/691a17a915b4156367187e41?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 16 |
 | ↳ | **[Early Careers - Associate Enterprise Data Analyst Intern](https://jobright.ai/jobs/info/691a179145fb6f5ead8aaf88?utm_campaign=1066&utm_source=git)** | Richardson, TX | Hybrid | Nov 16 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (Summer 2026)](https://jobright.ai/jobs/info/68ccf0c9d11b445e0bee4bba?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Nov 16 |
 | **[Peraton](https://www.peraton.com/)** | **[Summer 2026 Data Science Intern](https://jobright.ai/jobs/info/68cc46e816d00d2beeb1cb66?utm_campaign=1066&utm_source=git)** | Herndon, VA | Hybrid | Nov 16 |
