@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Data Systems](https://jobright.ai/jobs/info/691dde5f748c4e1301ec998b?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Nov 19 |
+| **[Canaria](https://www.decanaria.com/)** | **[Data  Scientist  Intern  - QA](https://jobright.ai/jobs/info/691dddd4748c4e1301ec9912?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 19 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/691dc9f761dc50590a64a527?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Nov 19 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/691dc011748c4e1301ec8362?utm_campaign=1066&utm_source=git)** | Portland, ME | On Site | Nov 19 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Revenue Tech and Data Analytics - ATL (Summer 2026)](https://jobright.ai/jobs/info/691d72700b7dff73415037a3?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Nov 19 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/68e5445bb99ec3563b0f217e?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Nov 19 |
 | **[Trimont](https://trimont.com)** | **[Intern, Data Research](https://jobright.ai/jobs/info/6900dfcbf8ce7a040fdb9f33?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Data Science Intern Summer 2026](https://jobright.ai/jobs/info/691accfcbcdbf3560c9da9ee?utm_campaign=1066&utm_source=git)** | Cranberry Township, PA | Hybrid | Nov 19 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Data Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac999bd627244576e47224?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Nov 19 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[2026 Graduate Data Science Summer Internship Program](https://jobright.ai/jobs/info/69013ace4539ea1f2141e378?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 19 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/690146684539ea1f2141ed1e?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 19 |
 | **[Atlassian](https://www.atlassian.com)** | **[Research Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/690185504539ea1f21420d48?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Nov 19 |
@@ -75,19 +79,19 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d440d0b7dff7341501b61?utm_campaign=1066&utm_source=git)** | Florida, United States | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d43f57481340785ed5bae?utm_campaign=1066&utm_source=git)** | Wisconsin, United States | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d43d40b7dff7341501b22?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Nov 18 |
-| ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d43790b7dff7341501aac?utm_campaign=1066&utm_source=git)** | Louisiana, United States | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d43790b7dff7341501aab?utm_campaign=1066&utm_source=git)** | Arizona, United States | Remote | Nov 18 |
+| ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d43790b7dff7341501aac?utm_campaign=1066&utm_source=git)** | Louisiana, United States | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d43637481340785ed5ae7?utm_campaign=1066&utm_source=git)** | Texas, United States | Remote | Nov 18 |
-| ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d434a7481340785ed5ad1?utm_campaign=1066&utm_source=git)** | Bernalillo County, NM | Remote | Nov 18 |
-| ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d434a7481340785ed5ad2?utm_campaign=1066&utm_source=git)** | South Carolina, United States | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d434a7481340785ed5ad0?utm_campaign=1066&utm_source=git)** | South Dakota, United States | Remote | Nov 18 |
+| ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d434a7481340785ed5ad2?utm_campaign=1066&utm_source=git)** | South Carolina, United States | Remote | Nov 18 |
+| ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d434a7481340785ed5ad1?utm_campaign=1066&utm_source=git)** | Bernalillo County, NM | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d43420b7dff7341501a63?utm_campaign=1066&utm_source=git)** | Bernalillo County, NM | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d43297481340785ed5aa7?utm_campaign=1066&utm_source=git)** | Missouri, United States | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d43050b7dff7341501a23?utm_campaign=1066&utm_source=git)** | Nevada, United States | Remote | Nov 18 |
 | ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d42c97481340785ed5a3b?utm_campaign=1066&utm_source=git)** | Maine, United States | Remote | Nov 18 |
 | ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d42a17481340785ed5a0b?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 18 |
-| ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d42867481340785ed59f6?utm_campaign=1066&utm_source=git)** | Nebraska, United States | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d42867481340785ed59f7?utm_campaign=1066&utm_source=git)** | Louisiana, United States | Remote | Nov 18 |
+| ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d42867481340785ed59f6?utm_campaign=1066&utm_source=git)** | Nebraska, United States | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d42027481340785ed59c5?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 18 |
 | ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d41e70b7dff7341501955?utm_campaign=1066&utm_source=git)** | Georgia, United States | Remote | Nov 18 |
 | ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d41bc0b7dff7341501924?utm_campaign=1066&utm_source=git)** | Greater Enid Area | Remote | Nov 18 |
@@ -120,16 +124,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d3ef87481340785ed561a?utm_campaign=1066&utm_source=git)** | New Jersey, United States | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d3ed40b7dff73415015ea?utm_campaign=1066&utm_source=git)** | Hillsborough County, NH | Remote | Nov 18 |
 | ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d3e737481340785ed55a3?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Nov 18 |
-| ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d3e477481340785ed557b?utm_campaign=1066&utm_source=git)** | Kenton County, KY | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d3e477481340785ed557a?utm_campaign=1066&utm_source=git)** | Michigan, United States | Remote | Nov 18 |
+| ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d3e477481340785ed557b?utm_campaign=1066&utm_source=git)** | Kenton County, KY | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d3e2e0b7dff7341501543?utm_campaign=1066&utm_source=git)** | New York, United States | Remote | Nov 18 |
 | ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d3e057481340785ed5524?utm_campaign=1066&utm_source=git)** | Illinois, United States | Remote | Nov 18 |
 | ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d3e057481340785ed5525?utm_campaign=1066&utm_source=git)** | Maryland, United States | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d3de80b7dff73415014fc?utm_campaign=1066&utm_source=git)** | Fremont County, WY | Remote | Nov 18 |
 | ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d3de47481340785ed54f2?utm_campaign=1066&utm_source=git)** | Virginia, United States | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d3dcfbcdbf3560c9eea7f?utm_campaign=1066&utm_source=git)** | Greater Enid Area | Remote | Nov 18 |
-| ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d3d967481340785ed5497?utm_campaign=1066&utm_source=git)** | Georgia, United States | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d3d967481340785ed5498?utm_campaign=1066&utm_source=git)** | Alabama, United States | Remote | Nov 18 |
+| ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d3d967481340785ed5497?utm_campaign=1066&utm_source=git)** | Georgia, United States | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d3d850b7dff7341501498?utm_campaign=1066&utm_source=git)** | Arkansas, United States | Remote | Nov 18 |
 | ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d3d6d0b7dff734150147b?utm_campaign=1066&utm_source=git)** | Cass County, ND | Remote | Nov 18 |
 | ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d3d4bbcdbf3560c9ee9c9?utm_campaign=1066&utm_source=git)** | Ohio, United States | On Site | Nov 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data & Reporting Analyst](https://jobright.ai/jobs/info/691d30ca7481340785ed4a81?utm_campaign=1066&utm_source=git)** | Englewood, CO | On Site | Nov 18 |
 | **[Centene Corporation](http://www.centene.com)** | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d477abcdbf3560c9ef637?utm_campaign=1066&utm_source=git)** | Virginia, United States | Remote | Nov 18 |
 | ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d4abcbcdbf3560c9ef8b4?utm_campaign=1066&utm_source=git)** | Arizona, United States | Remote | Nov 18 |
-| ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d477abcdbf3560c9ef638?utm_campaign=1066&utm_source=git)** | Alabama, United States | Remote | Nov 18 |
-| ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d48d0bcdbf3560c9ef735?utm_campaign=1066&utm_source=git)** | Minnesota, United States | Remote | Nov 18 |
-| ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d4837bcdbf3560c9ef6b4?utm_campaign=1066&utm_source=git)** | Hillsborough County, NH | Remote | Nov 18 |
-| ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d4758bcdbf3560c9ef615?utm_campaign=1066&utm_source=git)** | Iowa, United States | Remote | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
