@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Centene Corporation](http://www.centene.com)** | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691d39a7bcdbf3560c9ee61a?utm_campaign=1066&utm_source=git)** | Providence County, RI | Remote | Nov 18 |
+| **[ADM](http://www.adm.com)** | **[Data Analyst Intern - Erlanger, KY](https://jobright.ai/jobs/info/691d32510b7dff7341500bb8?utm_campaign=1066&utm_source=git)** | Erlanger, KY | On Site | Nov 18 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data & Reporting Analyst](https://jobright.ai/jobs/info/691d30ca7481340785ed4a81?utm_campaign=1066&utm_source=git)** | Englewood, CO | On Site | Nov 18 |
+| **[S2 Global](https://www.screeningsolution.com)** | **[Data Science Co-Op](https://jobright.ai/jobs/info/691d2882bcdbf3560c9edb3e?utm_campaign=1066&utm_source=git)** | Billerica, MA | On Site | Nov 18 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Reservations (Data Science) - Spring 2026](https://jobright.ai/jobs/info/691d1b447481340785ed3d09?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 18 |
 | **[PlayCore](http://www.playcore.com/)** | **[CORE Data Service Lab Intern - PlayCore](https://jobright.ai/jobs/info/691d1af00b7dff73414ffcb9?utm_campaign=1066&utm_source=git)** | Chattanooga, TN | On Site | Nov 18 |
 | **[Centene Corporation](http://www.centene.com)** | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d1643ff7024498416db07?utm_campaign=1066&utm_source=git)** | Remote-AR | Remote | Nov 18 |
@@ -72,8 +76,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d0f6522a2cb4b9bd204f1?utm_campaign=1066&utm_source=git)** | Remote-FL | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d0f21ff7024498416d69a?utm_campaign=1066&utm_source=git)** | Remote-WY | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d0edbff7024498416d68c?utm_campaign=1066&utm_source=git)** | Remote-SD | Remote | Nov 18 |
-| ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d0ec222a2cb4b9bd2046c?utm_campaign=1066&utm_source=git)** | Remote-DE | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d0ec222a2cb4b9bd2046a?utm_campaign=1066&utm_source=git)** | Remote-CO | Remote | Nov 18 |
+| ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d0ec222a2cb4b9bd2046c?utm_campaign=1066&utm_source=git)** | Remote-DE | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d0ea722a2cb4b9bd20455?utm_campaign=1066&utm_source=git)** | Remote-SC | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d0e5122a2cb4b9bd20420?utm_campaign=1066&utm_source=git)** | Remote-MI | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d0d0a22a2cb4b9bd203d0?utm_campaign=1066&utm_source=git)** | Remote-AL | Remote | Nov 18 |
@@ -89,12 +93,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d0514bcdbf3560c9ec6b8?utm_campaign=1066&utm_source=git)** | Remote-MO | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d04e6bcdbf3560c9ec69a?utm_campaign=1066&utm_source=git)** | Remote-NC | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d04c4bcdbf3560c9ec671?utm_campaign=1066&utm_source=git)** | Remote-TN | Remote | Nov 18 |
-| ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d0351bcdbf3560c9ec51a?utm_campaign=1066&utm_source=git)** | Remote-IA | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d0351bcdbf3560c9ec51b?utm_campaign=1066&utm_source=git)** | Remote-NY | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d0351bcdbf3560c9ec519?utm_campaign=1066&utm_source=git)** | Remote-NJ | Remote | Nov 18 |
+| ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d0351bcdbf3560c9ec51a?utm_campaign=1066&utm_source=git)** | Remote-IA | Remote | Nov 18 |
 | ↳ | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d033dbcdbf3560c9ec50d?utm_campaign=1066&utm_source=git)** | Remote-TX | Remote | Nov 18 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Summer Intern Statistics Dec Sci](https://jobright.ai/jobs/info/691d0134bcdbf3560c9ec37a?utm_campaign=1066&utm_source=git)** | Spring House, PA | Hybrid | Nov 18 |
-| **[Talentix](https://thetalentix.com/)** | **[Data Operations & Reporting Internship@Talentix](https://jobright.ai/jobs/info/691cfffc22a2cb4b9bd1fa72?utm_campaign=1066&utm_source=git)** | Fremont, CA | On Site | Nov 18 |
 | **[Centene Corporation](http://www.centene.com)** | **[Data Science Analyst Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/691d1728bcdbf3560c9ed20a?utm_campaign=1066&utm_source=git)** | Remote-IN | Remote | Nov 18 |
 | ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691cf5eaff7024498416c4e1?utm_campaign=1066&utm_source=git)** | Remote-MN | Remote | Nov 18 |
 | ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691cf5b7bcdbf3560c9ebc5a?utm_campaign=1066&utm_source=git)** | Remote-SC | Remote | Nov 18 |
@@ -105,7 +108,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691cedbdbcdbf3560c9eb4f7?utm_campaign=1066&utm_source=git)** | Remote-NJ | Remote | Nov 18 |
 | ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691ced8322a2cb4b9bd1ed5c?utm_campaign=1066&utm_source=git)** | Remote-UT | Remote | Nov 18 |
 | ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691ced6322a2cb4b9bd1ed52?utm_campaign=1066&utm_source=git)** | Remote-IL | Remote | Nov 18 |
-| ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691cecedff7024498416beb4?utm_campaign=1066&utm_source=git)** | Remote-RI | Remote | Nov 18 |
+| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Summer Intern Statistics Dec Sci](https://jobright.ai/jobs/info/691d2428bcdbf3560c9ed99a?utm_campaign=1066&utm_source=git)** | Raritan, NJ | Hybrid | Nov 18 |
+| **[Centene Corporation](http://www.centene.com)** | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691cecedff7024498416beb4?utm_campaign=1066&utm_source=git)** | Remote-RI | Remote | Nov 18 |
 | ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691cecd3bcdbf3560c9eb3f5?utm_campaign=1066&utm_source=git)** | Remote-ID | Remote | Nov 18 |
 | ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691cec5dff7024498416be2e?utm_campaign=1066&utm_source=git)** | Remote-IN | Remote | Nov 18 |
 | ↳ | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/691cec29ff7024498416bde4?utm_campaign=1066&utm_source=git)** | Remote-NV | Remote | Nov 18 |
@@ -119,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](http://www.trimble.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/691cf45e22a2cb4b9bd1f199?utm_campaign=1066&utm_source=git)** | Westminster, CO | On Site | Nov 18 |
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2026 Internship, Spring - Data Science](https://jobright.ai/jobs/info/691cd185bcdbf3560c9ea1ee?utm_campaign=1066&utm_source=git)** | East Hanover, NJ | On Site | Nov 18 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 18 |
+| **[Institute for the Study of War](http://understandingwar.org/)** | **[Geospatial Intelligence and National Security Technologies Internship Spring 2026](https://jobright.ai/jobs/info/691d23307481340785ed430c?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Nov 18 |
 | **[HMH](https://hmhw.com/)** | **[HSSE Intern](https://jobright.ai/jobs/info/691d04cfbcdbf3560c9ec67c?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Nov 18 |
 | **[Encore](https://www.encoreglobal.com/)** | **[IT Data Analyst Intern– Summer 2026](https://jobright.ai/jobs/info/691cbd2122a2cb4b9bd1cad7?utm_campaign=1066&utm_source=git)** | Schiller Park, IL | On Site | Nov 18 |
 | ↳ | **[Shared Services Intern- Summer 2026](https://jobright.ai/jobs/info/691cbc7f22a2cb4b9bd1ca62?utm_campaign=1066&utm_source=git)** | Schiller Park, IL | On Site | Nov 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Endeavor Air](http://www.endeavorair.com/)** | **[Operational Analytics and Performance (OAP) Intern](https://jobright.ai/jobs/info/691c101ebcdbf3560c9e55c3?utm_campaign=1066&utm_source=git)** | US-MN-Minneapolis | On Site | Nov 17 |
 | **[Siemens](https://www.siemens.com)** | **[Data & Analytics Intern (with AI Exposure), Summer 2026](https://jobright.ai/jobs/info/691c0b4322a2cb4b9bd18bb6?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Hybrid | Nov 17 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/691be5a915b4156367193e57?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Nov 17 |
-| ↳ | **[2026 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/691be51e15b4156367193e0e?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Nov 17 |
-| **[USA Baseball](http://www.usabaseball.com)** | **[Intern, Data Quality & Reporting](https://jobright.ai/jobs/info/691bdb3422a2cb4b9bd16cd1?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Nov 17 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Research Analyst Intern](https://jobright.ai/jobs/info/68a4e22f33dd7158bbc95e7c?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 17 |
-| **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Kansas City - Research Intern](https://jobright.ai/jobs/info/691bd26422a2cb4b9bd16785?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Nov 17 |
-| **[FM](https://www.fmglobal.com)** | **[Data Visualization & Reporting Internship Summer 2026](https://jobright.ai/jobs/info/691bd0e3bcdbf3560c9e2ed3?utm_campaign=1066&utm_source=git)** | US-RI-Johnston | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
