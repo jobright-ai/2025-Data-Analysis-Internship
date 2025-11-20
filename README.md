@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Analyst](https://jobright.ai/jobs/info/68ce54c0dbd9fb154edde68e?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Nov 20 |
 | **[QuantCo](https://www.quantco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/691eca66a49a885af9a2ae66?utm_campaign=1066&utm_source=git)** | Europe | On Site | Nov 19 |
 | **[InterWorks](http://www.interworks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68ca281af61c922772a73738?utm_campaign=1066&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Nov 19 |
 | **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/691e83e33f782d2f1afb5842?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 19 |
@@ -70,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern (Data Analyst)](https://jobright.ai/jobs/info/691e4e293f782d2f1afb3a09?utm_campaign=1066&utm_source=git)** | OR - Gresham | On Site | Nov 19 |
 | **[International Air Transport Association (IATA)](http://www.iata.org)** | **[Intern, Global Aviation Data Management](https://jobright.ai/jobs/info/691e4a9ca49a885af9a274a2?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 19 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/691e264c3f782d2f1afb1a70?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 19 |
+| **[Carenet Health](https://carenethealth.com/)** | **[PH Intern / 12/9/2025](https://jobright.ai/jobs/info/691ef3d73f782d2f1afb7b4c?utm_campaign=1066&utm_source=git)** | PH | On Site | Nov 19 |
 | **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/691e094109cc522e87735200?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 19 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/691e08e009cc522e8773518d?utm_campaign=1066&utm_source=git)** | 200 Galleria Parkway SE Suite 900 Atlanta, GA 30339 | On Site | Nov 19 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Data Systems](https://jobright.ai/jobs/info/691dde5f748c4e1301ec998b?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Nov 19 |
@@ -89,7 +91,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/68e53821b99ec3563b0f18b3?utm_campaign=1066&utm_source=git)** | Florham Park, NJ | On Site | Nov 19 |
 | **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, Product Algorithms (PhD)](https://jobright.ai/jobs/info/68e62c371852e62f00819ad3?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 19 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Revenue Tech and Data Analytics - ATL (Summer 2026)](https://jobright.ai/jobs/info/691d72700b7dff73415037a3?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Nov 19 |
-| **[EmFlex](http://markaba.sa)** | **[Start-up Data Internship (unpaid & remote)](https://jobright.ai/jobs/info/691e3b7609cc522e87737ea8?utm_campaign=1066&utm_source=git)** | Palestinian Authority | Remote | Nov 19 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/68e5445bb99ec3563b0f217e?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Nov 19 |
 | **[Trimont](https://trimont.com)** | **[Intern, Data Research](https://jobright.ai/jobs/info/6900dfcbf8ce7a040fdb9f33?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Data Science Intern Summer 2026](https://jobright.ai/jobs/info/691accfcbcdbf3560c9da9ee?utm_campaign=1066&utm_source=git)** | Cranberry Township, PA | Hybrid | Nov 19 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Duolingo](https://www.duolingo.com)** | **[Data Scientist, Intern](https://jobright.ai/jobs/info/68cd9554e23def7af55bc260?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Nov 18 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68cd7827b2a74e1837ed72d1?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Nov 18 |
 | **[Acadian Air Med](https://acadianairmed.com)** | **[GIS Analyst I](https://jobright.ai/jobs/info/691c4922ff70244984167318?utm_campaign=1066&utm_source=git)** | Lafayette, LA | On Site | Nov 18 |
+| **[Visa](https://www.visa.com)** | **[Data Strategy Intern, Global Data Office - Summer 2026](https://jobright.ai/jobs/info/691ef85009cc522e8773ce24?utm_campaign=1066&utm_source=git)** | Miami, FL | Hybrid | Nov 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Data & Infrastructure Solutions (DIS) - Data Governance](https://jobright.ai/jobs/info/691c9ebcbcdbf3560c9e8434?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Nov 18 |
+| **[Endeavor Air](http://www.endeavorair.com/)** | **[Operational Analytics and Performance (OAP) Intern](https://jobright.ai/jobs/info/691eebdd3f782d2f1afb79ec?utm_campaign=1066&utm_source=git)** | US-MN-Minneapolis | On Site | Nov 17 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/691be5a915b4156367193e57?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Nov 17 |
 | ↳ | **[2026 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/691be51e15b4156367193e0e?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Nov 17 |
-| **[USA Baseball](http://www.usabaseball.com)** | **[Intern, Data Quality & Reporting](https://jobright.ai/jobs/info/691bdb3422a2cb4b9bd16cd1?utm_campaign=1066&utm_source=git)** | Cary, NC | On Site | Nov 17 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Research Analyst Intern](https://jobright.ai/jobs/info/68a4e22f33dd7158bbc95e7c?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 17 |
-| **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Kansas City - Research Intern](https://jobright.ai/jobs/info/691bd26422a2cb4b9bd16785?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
