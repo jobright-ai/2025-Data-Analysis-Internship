@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kiva](http://kiva.org)** | **[Impact Analyst](https://jobright.ai/jobs/info/691efe3009cc522e8773cefc?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Nov 20 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Analyst](https://jobright.ai/jobs/info/68ce54c0dbd9fb154edde68e?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Nov 20 |
 | **[QuantCo](https://www.quantco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/691eca66a49a885af9a2ae66?utm_campaign=1066&utm_source=git)** | Europe | On Site | Nov 19 |
 | **[InterWorks](http://www.interworks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68ca281af61c922772a73738?utm_campaign=1066&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Nov 19 |
@@ -152,7 +153,6 @@ For a complete list, click the following sortable link below:
 | **[Duolingo](https://www.duolingo.com)** | **[Data Scientist, Intern](https://jobright.ai/jobs/info/68cd9554e23def7af55bc260?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Nov 18 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68cd7827b2a74e1837ed72d1?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Nov 18 |
 | **[Acadian Air Med](https://acadianairmed.com)** | **[GIS Analyst I](https://jobright.ai/jobs/info/691c4922ff70244984167318?utm_campaign=1066&utm_source=git)** | Lafayette, LA | On Site | Nov 18 |
-| **[Visa](https://www.visa.com)** | **[Data Strategy Intern, Global Data Office - Summer 2026](https://jobright.ai/jobs/info/691ef85009cc522e8773ce24?utm_campaign=1066&utm_source=git)** | Miami, FL | Hybrid | Nov 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Data & Infrastructure Solutions (DIS) - Data Governance](https://jobright.ai/jobs/info/691c9ebcbcdbf3560c9e8434?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Nov 18 |
 | **[Endeavor Air](http://www.endeavorair.com/)** | **[Operational Analytics and Performance (OAP) Intern](https://jobright.ai/jobs/info/691eebdd3f782d2f1afb79ec?utm_campaign=1066&utm_source=git)** | US-MN-Minneapolis | On Site | Nov 17 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/691be5a915b4156367193e57?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Nov 17 |
