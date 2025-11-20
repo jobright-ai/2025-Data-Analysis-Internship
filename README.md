@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KLA](https://www.kla.com)** | **[KLAS Summer Intern](https://jobright.ai/jobs/info/691f2c1309cc522e8773e083?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Nov 20 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[Data Science Intern, Supply Chain BOM Analytics](https://jobright.ai/jobs/info/69049964ff462851feff6688?utm_campaign=1066&utm_source=git)** | Kokomo, IN | On Site | Nov 20 |
 | **[Kiva](http://kiva.org)** | **[Impact Analyst](https://jobright.ai/jobs/info/691efe3009cc522e8773cefc?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Nov 20 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Analyst](https://jobright.ai/jobs/info/68ce54c0dbd9fb154edde68e?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Nov 20 |
 | **[QuantCo](https://www.quantco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/691eca66a49a885af9a2ae66?utm_campaign=1066&utm_source=git)** | Europe | On Site | Nov 19 |
@@ -102,12 +104,11 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/690146684539ea1f2141ed1e?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 19 |
 | **[Atlassian](https://www.atlassian.com)** | **[Research Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/690185504539ea1f21420d48?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Nov 19 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cc229b128dc347fd91f9d2?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Nov 19 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68c00e7d5c5d5f14f46db3bd?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 19 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Networking Research Group](https://jobright.ai/jobs/info/691d88607481340785ed85e7?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Nov 19 |
 | ↳ | **[Research Intern - RiSE group](https://jobright.ai/jobs/info/691d842c0b7dff7341504251?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Nov 19 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Insights Analyst](https://jobright.ai/jobs/info/691d83c6bcdbf3560c9f18ea?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Nov 19 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68a4e2fa33dd7158bbc95f3c?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 19 |
 | **[lululemon](http://shop.lululemon.com)** | **[Analyst Intern - Global Planning / Contract June-August 2026](https://jobright.ai/jobs/info/691d40a37481340785ed5823?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Nov 18 |
-| **[Gusto](https://www.gusto.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/691d3f7a0b7dff73415016c6?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Nov 18 |
 | **[ADM](http://www.adm.com)** | **[Data Analyst Intern - Erlanger, KY](https://jobright.ai/jobs/info/691d32510b7dff7341500bb8?utm_campaign=1066&utm_source=git)** | Erlanger, KY | On Site | Nov 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data & Reporting Analyst](https://jobright.ai/jobs/info/691d30ca7481340785ed4a81?utm_campaign=1066&utm_source=git)** | Englewood, CO | On Site | Nov 18 |
 | **[S2 Global](https://www.screeningsolution.com)** | **[Data Science Co-Op](https://jobright.ai/jobs/info/691d2882bcdbf3560c9edb3e?utm_campaign=1066&utm_source=git)** | Billerica, MA | On Site | Nov 18 |
@@ -144,17 +145,16 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Quantitative Insights Lab Intern (PhD)](https://jobright.ai/jobs/info/68c9545495f5211cd2cefa9c?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Nov 18 |
 | **[LinkedIn](https://www.linkedin.com)** | **[Internship, Data Insights (Central Operations)](https://jobright.ai/jobs/info/691c8f52bcdbf3560c9e7df9?utm_campaign=1066&utm_source=git)** | Greater São Paulo Area | On Site | Nov 18 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Data Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/68ccf8745954791a1d702127?utm_campaign=1066&utm_source=git)** | Westerville, OH | On Site | Nov 18 |
+| **[Duolingo](https://www.duolingo.com)** | **[Data Scientist, Intern (Undergraduate)](https://jobright.ai/jobs/info/68cd9554e23def7af55bc260?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Nov 18 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Data Science](https://jobright.ai/jobs/info/68ce24571ad6b16f028a2491?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Nov 18 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Data Analyst Undergraduate Intern](https://jobright.ai/jobs/info/6919877c45fb6f5ead8a9259?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Nov 18 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Data Management - Renewable Energy GIS](https://jobright.ai/jobs/info/690036c5e0c73b3a111a361c?utm_campaign=1066&utm_source=git)** | Santa Barbara, CA | On Site | Nov 18 |
 | **[CAS](http://www.cas.org)** | **[CAS 2026 Data Scientist Summer Intern](https://jobright.ai/jobs/info/68e41b24b99ec3563b0e5fc6?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Nov 18 |
 | **[Duolingo](https://www.duolingo.com)** | **[Data Scientist Intern (PhD or Masters)](https://jobright.ai/jobs/info/68cd82a71ad6b16f0289aa91?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Nov 18 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cd3993b2a74e1837ed4102?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Nov 18 |
-| **[Duolingo](https://www.duolingo.com)** | **[Data Scientist, Intern](https://jobright.ai/jobs/info/68cd9554e23def7af55bc260?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Nov 18 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68cd7827b2a74e1837ed72d1?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Nov 18 |
+| ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68cd7827b2a74e1837ed72d1?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Nov 18 |
 | **[Acadian Air Med](https://acadianairmed.com)** | **[GIS Analyst I](https://jobright.ai/jobs/info/691c4922ff70244984167318?utm_campaign=1066&utm_source=git)** | Lafayette, LA | On Site | Nov 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Data & Infrastructure Solutions (DIS) - Data Governance](https://jobright.ai/jobs/info/691c9ebcbcdbf3560c9e8434?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Nov 18 |
 | **[Endeavor Air](http://www.endeavorair.com/)** | **[Operational Analytics and Performance (OAP) Intern](https://jobright.ai/jobs/info/691eebdd3f782d2f1afb79ec?utm_campaign=1066&utm_source=git)** | US-MN-Minneapolis | On Site | Nov 17 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/691be5a915b4156367193e57?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Nov 17 |
-| ↳ | **[2026 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/691be51e15b4156367193e0e?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
