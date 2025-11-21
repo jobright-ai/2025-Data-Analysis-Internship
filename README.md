@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ValkaAI](https://valka.ai)** | **[Intern Research Scientist](https://jobright.ai/jobs/info/691fd59fa49a885af9a3486f?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 20 |
+| **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (PhD) - Summer 2026](https://jobright.ai/jobs/info/691fc9643f782d2f1afc0294?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
+| ↳ | **[Quantitative Research Intern (BS/MS) - Summer 2026](https://jobright.ai/jobs/info/691fc95ea49a885af9a34177?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 IT Analytics Intern](https://jobright.ai/jobs/info/690a86b4bcccf20de59e391e?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Nov 20 |
 | **[Allianz Life](http://www.allianzlife.com)** | **[Summer 2026 Relationship Management Data Internship / Hybrid](https://jobright.ai/jobs/info/691f9e2309cc522e87743ba5?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 20 |
 | **[Takeda](http://www.takeda.com)** | **[2026 U.S Summer Internship Program: Statistics and Quantitative Sciences Intern](https://jobright.ai/jobs/info/691f95d9a49a885af9a322bd?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Nov 20 |
@@ -128,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Insights Analyst](https://jobright.ai/jobs/info/691d83c6bcdbf3560c9f18ea?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Nov 19 |
 | **[lululemon](http://shop.lululemon.com)** | **[Analyst Intern - Global Planning / Contract June-August 2026](https://jobright.ai/jobs/info/691d40a37481340785ed5823?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Nov 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data & Reporting Analyst](https://jobright.ai/jobs/info/691d30ca7481340785ed4a81?utm_campaign=1066&utm_source=git)** | Englewood, CO | On Site | Nov 18 |
+| **[Endeavor Air](http://www.endeavorair.com/)** | **[Operational Analytics and Performance (OAP) Intern](https://jobright.ai/jobs/info/691fd2263f782d2f1afc083a?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Nov 18 |
 | **[S2 Global](https://www.screeningsolution.com)** | **[Data Science Co-Op](https://jobright.ai/jobs/info/691d2882bcdbf3560c9edb3e?utm_campaign=1066&utm_source=git)** | Billerica, MA | On Site | Nov 18 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Reservations (Data Science) - Spring 2026](https://jobright.ai/jobs/info/691d1b447481340785ed3d09?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 18 |
 | **[PlayCore](http://www.playcore.com/)** | **[CORE Data Service Lab Intern - PlayCore](https://jobright.ai/jobs/info/691d1af00b7dff73414ffcb9?utm_campaign=1066&utm_source=git)** | Chattanooga, TN | On Site | Nov 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RaceTrac](http://www.racetrac.com/)** | **[Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/691cd77bbcdbf3560c9ea496?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 18 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/691cb973ff70244984169b4f?utm_campaign=1066&utm_source=git)** | US - OH, Dayton | On Site | Nov 18 |
 | **[Sasha Bruce Youthwork](https://www.sashabruce.org/)** | **[Monitoring and Evaluation Intern](https://jobright.ai/jobs/info/691caa55bcdbf3560c9e89c6?utm_campaign=1066&utm_source=git)** | Washington, DC, US | Hybrid | Nov 18 |
-| **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Data Analyst Intern - Product Safety and Compliance (May 2026-May 2027)](https://jobright.ai/jobs/info/691c9e2dbcdbf3560c9e83fc?utm_campaign=1066&utm_source=git)** | Wickliffe, OH | Hybrid | Nov 18 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68ffdb4c0ab3b222462af138?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 18 |
-| **[CAE](http://www.cae.com)** | **[C-GE-916 Data Analyst Intern-EN](https://jobright.ai/jobs/info/691ccf06ff7024498416a8d6?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 18 |
-| **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Business Intelligence Intern [2026 Internship Program]](https://jobright.ai/jobs/info/691cd2f222a2cb4b9bd1d9e3?utm_campaign=1066&utm_source=git)** | 570 Washington Blvd, Jersey City, NJ, 07310, US | Hybrid | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
