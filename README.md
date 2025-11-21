@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Global Medical Affairs, Real World Evidence](https://jobright.ai/jobs/info/692005c209cc522e877475d9?utm_campaign=1066&utm_source=git)** | San Rafael, CA | On Site | Nov 20 |
+| **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Intern, Data (Technology)](https://jobright.ai/jobs/info/6920031d3f782d2f1afc2276?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 20 |
 | **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/691fe8993f782d2f1afc15eb?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 20 |
-| **[GenPark](https://genpark.ai)** | **[Data Science Intern](https://jobright.ai/jobs/info/691fe3803f782d2f1afc12fd?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Nov 20 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (PhD) - Summer 2026](https://jobright.ai/jobs/info/691fc9643f782d2f1afc0294?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
 | ↳ | **[Quantitative Research Intern (BS/MS) - Summer 2026](https://jobright.ai/jobs/info/691fc95ea49a885af9a34177?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 IT Analytics Intern](https://jobright.ai/jobs/info/690a86b4bcccf20de59e391e?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Nov 20 |
@@ -93,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[JM&A Group](https://www.jmagroup.com/)** | **[Business Insights Intern](https://jobright.ai/jobs/info/691e75143f782d2f1afb4d2c?utm_campaign=1066&utm_source=git)** | Miami-FTL Area | Hybrid | Nov 19 |
 | **[Sourcebooks](http://www.sourcebooks.com/)** | **[Summer Internship - Metadata and Strategic Planning](https://jobright.ai/jobs/info/691e71533f782d2f1afb4908?utm_campaign=1066&utm_source=git)** | Naperville, IL | Hybrid | Nov 19 |
 | **[Twitch](https://www.twitch.tv)** | **[Graduate Data Science Intern](https://jobright.ai/jobs/info/691e7bf63f782d2f1afb526f?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Nov 19 |
-| **[SAIC](http://www.saic.com)** | **[Data and Metrics Internship](https://jobright.ai/jobs/info/691d86527481340785ed854f?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | On Site | Nov 19 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern (Data Analyst)](https://jobright.ai/jobs/info/691e55ab09cc522e87739120?utm_campaign=1066&utm_source=git)** | Gresham, OR | On Site | Nov 19 |
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/691e51643f782d2f1afb3c11?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Nov 19 |
 | **[Microchip Technology Inc.](http://www.microchip.com/)** | **[Intern (Data Analyst)](https://jobright.ai/jobs/info/691e4e293f782d2f1afb3a09?utm_campaign=1066&utm_source=git)** | OR - Gresham | On Site | Nov 19 |
@@ -124,10 +124,10 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/690146684539ea1f2141ed1e?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 19 |
 | **[Atlassian](https://www.atlassian.com)** | **[Research Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/690185504539ea1f21420d48?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Nov 19 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cc229b128dc347fd91f9d2?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Nov 19 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68c00e7d5c5d5f14f46db3bd?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 19 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Networking Research Group](https://jobright.ai/jobs/info/691d88607481340785ed85e7?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Nov 19 |
 | ↳ | **[Research Intern - RiSE group](https://jobright.ai/jobs/info/691d842c0b7dff7341504251?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Nov 19 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Insights Analyst](https://jobright.ai/jobs/info/691d83c6bcdbf3560c9f18ea?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Nov 19 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68a4e2fa33dd7158bbc95f3c?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 19 |
 | **[lululemon](http://shop.lululemon.com)** | **[Analyst Intern - Global Planning / Contract June-August 2026](https://jobright.ai/jobs/info/691d40a37481340785ed5823?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Nov 18 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data & Reporting Analyst](https://jobright.ai/jobs/info/691d30ca7481340785ed4a81?utm_campaign=1066&utm_source=git)** | Englewood, CO | On Site | Nov 18 |
 | **[Endeavor Air](http://www.endeavorair.com/)** | **[Operational Analytics and Performance (OAP) Intern](https://jobright.ai/jobs/info/691fd2263f782d2f1afc083a?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Nov 18 |
