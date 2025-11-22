@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Pharmacometrics Intern (PhD)](https://jobright.ai/jobs/info/68cd9f9fb2a74e1837ed9f13?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Nov 22 |
+| **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Business Insights Analyst II](https://jobright.ai/jobs/info/68b0eaffb47fb001d689668d?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Nov 22 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Content Planning & Analysis Graduate Intern, Summer 2026](https://jobright.ai/jobs/info/6921aaa9a49a885af9a47102?utm_campaign=1066&utm_source=git)** | Glendale, CA | On Site | Nov 22 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Global Logistics Data & Analytics Intern](https://jobright.ai/jobs/info/692176183f782d2f1afd2467?utm_campaign=1066&utm_source=git)** | Kernersville, NC | Hybrid | Nov 22 |
 | **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/692193fad1ec2c3565c451ba?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Nov 22 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Geographical Information Systems Intern
+Job ID : 247658](https://jobright.ai/jobs/info/6921b7f8a49a885af9a47482?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Nov 22 |
 | **[Attention Arc](https://attentionarc.com)** | **[Intern, Data](https://jobright.ai/jobs/info/686c642f35584b65427c880c?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Nov 21 |
 | **[Cencora](http://www.cencora.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/6921399b3f782d2f1afd06a6?utm_campaign=1066&utm_source=git)** | Buford, GA | On Site | Nov 21 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Purchasing Data Analytics Intern](https://jobright.ai/jobs/info/692137eca49a885af9a44245?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Nov 21 |
@@ -88,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6920cc62a49a885af9a3f501?utm_campaign=1066&utm_source=git)** | Rockford - Rock Cut Campus (RCC) | On Site | Nov 21 |
 | **[JFK Johnson Rehabilitation Institute](http://JFKJohnson.org)** | **[IT SUMMER INTERN, CLINICAL INFORMATICS](https://jobright.ai/jobs/info/6920f6f6a49a885af9a41652?utm_campaign=1066&utm_source=git)** | Edison, NJ | On Site | Nov 21 |
 | **[AmericanAg®](https://www.aaic.com/)** | **[Property & Casualty (P&C) Insurance Research Intern](https://jobright.ai/jobs/info/69216a0ea49a885af9a45ad0?utm_campaign=1066&utm_source=git)** | Schaumburg, IL | Hybrid | Nov 21 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Purchasing Data Analytics Intern](https://jobright.ai/jobs/info/6921b356a49a885af9a4728c?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | On Site | Nov 21 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[MPP Data Analytics Intern](https://jobright.ai/jobs/info/6920ef5a3f782d2f1afccfa6?utm_campaign=1066&utm_source=git)** | Indianapolis | Hybrid | Nov 21 |
 | **[Genmab](https://www.genmab.com)** | **[Histopathology Imaging Data Science Intern](https://jobright.ai/jobs/info/6920c30500c9ee50eaec7ac9?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Nov 21 |
 | **[Parkhill](http://team-psc.com)** | **[Data Analytics Student](https://jobright.ai/jobs/info/6920bfcea49a885af9a3ec32?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Nov 21 |
@@ -152,9 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Informatics and Predictive Sciences Internship](https://jobright.ai/jobs/info/691f533ca49a885af9a2e469?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 20 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Pharmacometrics Intern (PhD)](https://jobright.ai/jobs/info/691f64d5a49a885af9a2f2ce?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Nov 20 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Bioinformatics and Immunotherapy Internship](https://jobright.ai/jobs/info/691f3757a49a885af9a2d15d?utm_campaign=1066&utm_source=git)** | Madison, NJ | Hybrid | Nov 20 |
-| **[IBM](http://www.ibm.com)** | **[Data Scientist Intern (16 months, September 2026)](https://jobright.ai/jobs/info/691e022609cc522e87734c68?utm_campaign=1066&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Nov 20 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Analyst](https://jobright.ai/jobs/info/68ce54c0dbd9fb154edde68e?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Nov 20 |
-| **[QuantCo](https://www.quantco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/691eca66a49a885af9a2ae66?utm_campaign=1066&utm_source=git)** | Europe | On Site | Nov 19 |
-| **[InterWorks](http://www.interworks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/68ca281af61c922772a73738?utm_campaign=1066&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Nov 19 |
-| **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/691e83e33f782d2f1afb5842?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
