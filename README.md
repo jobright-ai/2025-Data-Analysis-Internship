@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NVIDIA](https://www.nvidia.com)** | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/69057b5a63502c0aded7b74d?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Nov 22 |
+| **[Ededge Groups](http://www.ededgelearning.com)** | **[Data Analyst  Internship  and Training](https://jobright.ai/jobs/info/692201483f782d2f1afd450f?utm_campaign=1066&utm_source=git)** | Canada | On Site | Nov 22 |
+| **[NVIDIA](https://www.nvidia.com)** | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/69057baa122e8474c78d95c5?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Nov 22 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6904ea88122e8474c78d4344?utm_campaign=1066&utm_source=git)** | Carlsbad, CA | On Site | Nov 22 |
 | ↳ | **[Quality Specialist - Data Analysis Sr. Intern](https://jobright.ai/jobs/info/6904f9cd63502c0aded76cd1?utm_campaign=1066&utm_source=git)** | Logan, UT | On Site | Nov 22 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[IT Data Analytics & AI Intern - Summer '26](https://jobright.ai/jobs/info/68e992a40930fe0bc46274eb?utm_campaign=1066&utm_source=git)** | Colorado, United States | Remote | Nov 22 |
@@ -106,7 +109,7 @@ Job ID : 247658](https://jobright.ai/jobs/info/6921b7f8a49a885af9a47482?utm_camp
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science, Predictive Modeling Intern](https://jobright.ai/jobs/info/6920d1f0a49a885af9a3fa3e?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 21 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[MPP Data Analytics Intern](https://jobright.ai/jobs/info/6920f5ac00c9ee50eaeca1c8?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 21 |
 | **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6920cc62a49a885af9a3f501?utm_campaign=1066&utm_source=git)** | Rockford - Rock Cut Campus (RCC) | On Site | Nov 21 |
-| **[JFK Johnson Rehabilitation Institute](http://JFKJohnson.org)** | **[IT SUMMER INTERN, CLINICAL INFORMATICS](https://jobright.ai/jobs/info/6920f6f6a49a885af9a41652?utm_campaign=1066&utm_source=git)** | Edison, NJ | On Site | Nov 21 |
+| **[JFK Johnson Rehabilitation Institute](http://JFKJohnson.org)** | **[IT SUMMER INTERN, CLINICAL INFORMATICS](https://jobright.ai/jobs/info/6920f0da3f782d2f1afcd1c6?utm_campaign=1066&utm_source=git)** | Edison, NJ | On Site | Nov 21 |
 | **[AmericanAg®](https://www.aaic.com/)** | **[Property & Casualty (P&C) Insurance Research Intern](https://jobright.ai/jobs/info/69216a0ea49a885af9a45ad0?utm_campaign=1066&utm_source=git)** | Schaumburg, IL | Hybrid | Nov 21 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Purchasing Data Analytics Intern](https://jobright.ai/jobs/info/6921b356a49a885af9a4728c?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | On Site | Nov 21 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[MPP Data Analytics Intern](https://jobright.ai/jobs/info/6920ef5a3f782d2f1afccfa6?utm_campaign=1066&utm_source=git)** | Indianapolis | Hybrid | Nov 21 |
@@ -115,9 +118,9 @@ Job ID : 247658](https://jobright.ai/jobs/info/6921b7f8a49a885af9a47482?utm_camp
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6920fdd300c9ee50eaeca85d?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 21 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Geographical Information Systems (GIS) Analyst - Virtual](https://jobright.ai/jobs/info/6920fdf23f782d2f1afce164?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | Remote | Nov 21 |
 | **[Genmab](https://www.genmab.com)** | **[Trial Strategy & Delivery (TSD) Intern](https://jobright.ai/jobs/info/6920bc91a49a885af9a3e96b?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Nov 21 |
-| ↳ | **[Clinical Pharmacology and Quantitative Science Intern (Programming/Computer Science)](https://jobright.ai/jobs/info/6920b3593f782d2f1afca6bb?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Nov 21 |
-| **[Philips](https://www.usa.philips.com)** | **[Content & Data Visualization Intern](https://jobright.ai/jobs/info/6920ad133f782d2f1afca0eb?utm_campaign=1066&utm_source=git)** | Best | On Site | Nov 21 |
-| **[Genmab](https://www.genmab.com)** | **[Translational Imaging & Multi-Omics Data Science Intern](https://jobright.ai/jobs/info/6920caafa49a885af9a3f373?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Nov 21 |
+| **[Philips](https://www.usa.philips.com)** | **[Content & Data Visualization Intern](https://jobright.ai/jobs/info/6920b36a3f782d2f1afca6ca?utm_campaign=1066&utm_source=git)** | Best | On Site | Nov 21 |
+| **[Genmab](https://www.genmab.com)** | **[Clinical Pharmacology and Quantitative Science Intern (Programming/Computer Science)](https://jobright.ai/jobs/info/6920b3593f782d2f1afca6bb?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Nov 21 |
+| ↳ | **[Translational Imaging & Multi-Omics Data Science Intern](https://jobright.ai/jobs/info/6920caafa49a885af9a3f373?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Nov 21 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6920a8e7a49a885af9a3dd10?utm_campaign=1066&utm_source=git)** | Boston, MA, 02111, United States | On Site | Nov 21 |
 | **[Genmab](https://www.genmab.com)** | **[Statistical Programming Intern](https://jobright.ai/jobs/info/6920cc3000c9ee50eaec8245?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Nov 21 |
 | ↳ | **[Statistical Programming Intern](https://jobright.ai/jobs/info/6920a3e73f782d2f1afc9ad3?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Nov 21 |
@@ -132,10 +135,10 @@ Job ID : 247658](https://jobright.ai/jobs/info/6921b7f8a49a885af9a47482?utm_camp
 | **[Allianz Life](http://www.allianzlife.com)** | **[Summer 2026 Graduate Data Science Internship / Hybrid](https://jobright.ai/jobs/info/690430c5d64a22104aa97ee3?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 21 |
 | **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Global Medical Affairs, Real World Evidence](https://jobright.ai/jobs/info/69207a543f782d2f1afc7b86?utm_campaign=1066&utm_source=git)** | San Rafael, CA | On Site | Nov 21 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - R&D Operational Design Analytics](https://jobright.ai/jobs/info/691c8d15bcdbf3560c9e7d14?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 21 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Fraud Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/692099ad00c9ee50eaec5e52?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Nov 21 |
 | **[BUCS Analytics](https://bucsanalytics.com/)** | **[Intern](https://jobright.ai/jobs/info/692072ab3f782d2f1afc72ab?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Nov 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - R&D Operational Design Analytics](https://jobright.ai/jobs/info/6920ad48a49a885af9a3dfe7?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Nov 21 |
 | ↳ | **[2026 Immunology Bioinformatics Intern (PhD)](https://jobright.ai/jobs/info/6920a0533f782d2f1afc9973?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Nov 21 |
+| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Fraud Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69209502a49a885af9a3d07d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Nov 21 |
 | **[DP World](https://www.dpworld.com/)** | **[Logistics Data Analyst Intern](https://jobright.ai/jobs/info/68f320459a65fd34585841df?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Nov 21 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 21 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Commercial Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/68cfacad846f0b04af68434a?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Nov 21 |
@@ -155,7 +158,4 @@ Job ID : 247658](https://jobright.ai/jobs/info/6921b7f8a49a885af9a47482?utm_camp
 | **[Takeda](http://www.takeda.com)** | **[2026 U.S Summer Internship Program: Statistics and Quantitative Sciences Intern](https://jobright.ai/jobs/info/691f95d9a49a885af9a322bd?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Nov 20 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Supply Chain/Data Analyst Intern](https://jobright.ai/jobs/info/68eeca7fe0db92422580b888?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Nov 20 |
 | **[Chartway Credit Union](https://chartway.com)** | **[Summer Internship - Data Science](https://jobright.ai/jobs/info/691f8c693f782d2f1afbda5f?utm_campaign=1066&utm_source=git)** | South Jordan, UT | On Site | Nov 20 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Sciences and Informatics (CSI)](https://jobright.ai/jobs/info/691f8863a49a885af9a31553?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Nov 20 |
-| **[Ingredion Incorporated](http://ingredion.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68f0b99333489f7bb1c18b20?utm_campaign=1066&utm_source=git)** | Westchester, IL | Hybrid | Nov 20 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Sciences and Informatics (CSI) ](https://jobright.ai/jobs/info/691f64d93f782d2f1afbb584?utm_campaign=1066&utm_source=git)** | Santa Clara | Remote | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
