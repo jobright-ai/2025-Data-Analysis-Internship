@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, Clinical Informatics](https://jobright.ai/jobs/info/69222e7f3f782d2f1afd4c7f?utm_campaign=1066&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
+| **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, Clinical Informatics](https://jobright.ai/jobs/info/69222e6fd1ec2c3565c46ecd?utm_campaign=1066&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
 | **[Amgen](http://www.amgen.com)** | **[R&D Medical Data Analytics Program - Grad Intern](https://jobright.ai/jobs/info/691dfef4a49a885af9a2365c?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 22 |
 | **[NVIDIA](https://www.nvidia.com)** | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/69057b5a63502c0aded7b74d?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Nov 22 |
 | ↳ | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/69057baa122e8474c78d95c5?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Nov 22 |
@@ -79,8 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Business Insights Analyst II](https://jobright.ai/jobs/info/68b0eaffb47fb001d689668d?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Nov 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Content Planning & Analysis Graduate Intern, Summer 2026](https://jobright.ai/jobs/info/6921aaa9a49a885af9a47102?utm_campaign=1066&utm_source=git)** | Glendale, CA | On Site | Nov 22 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Global Logistics Data & Analytics Intern](https://jobright.ai/jobs/info/692176183f782d2f1afd2467?utm_campaign=1066&utm_source=git)** | Kernersville, NC | Hybrid | Nov 22 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Geographical Information Systems Intern
-Job ID : 247658](https://jobright.ai/jobs/info/6921b7f8a49a885af9a47482?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Nov 22 |
 | **[Attention Arc](https://attentionarc.com)** | **[Intern, Data](https://jobright.ai/jobs/info/686c642f35584b65427c880c?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Nov 21 |
 | **[Cencora](http://www.cencora.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/6921399b3f782d2f1afd06a6?utm_campaign=1066&utm_source=git)** | Buford, GA | On Site | Nov 21 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Purchasing Data Analytics Intern](https://jobright.ai/jobs/info/692137eca49a885af9a44245?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Nov 21 |
@@ -158,4 +156,5 @@ Job ID : 247658](https://jobright.ai/jobs/info/6921b7f8a49a885af9a47482?utm_camp
 | **[Takeda](http://www.takeda.com)** | **[2026 U.S Summer Internship Program: Statistics and Quantitative Sciences Intern](https://jobright.ai/jobs/info/691f95d9a49a885af9a322bd?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Nov 20 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Supply Chain/Data Analyst Intern](https://jobright.ai/jobs/info/68eeca7fe0db92422580b888?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Nov 20 |
 | **[Chartway Credit Union](https://chartway.com)** | **[Summer Internship - Data Science](https://jobright.ai/jobs/info/691f8c693f782d2f1afbda5f?utm_campaign=1066&utm_source=git)** | South Jordan, UT | On Site | Nov 20 |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Sciences and Informatics (CSI)](https://jobright.ai/jobs/info/691f8863a49a885af9a31553?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
