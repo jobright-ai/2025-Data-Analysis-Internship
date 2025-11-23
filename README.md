@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 U.S Summer Internship Program: Statistics and Quantitative Sciences Intern](https://jobright.ai/jobs/info/69231efa7795cd460c83817d?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 23 |
+| ↳ | **[Summer Intern - Biostatistics](https://jobright.ai/jobs/info/69231d9ec0cefa13343da354?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | On Site | Nov 23 |
 | **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Clinical Informaticist – General Internal Medicine](https://jobright.ai/jobs/info/68c62de1db52c07d28844c62?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Nov 23 |
 | **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/69230a6b38cd5478a8d55f11?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Nov 23 |
 | **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Quantitative Researcher Intern, Summer 2026](https://jobright.ai/jobs/info/69225a8ba49a885af9a48c0f?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 22 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Data Analyst Intern 2026](https://jobright.ai/jobs/info/68cd9faf1ad6b16f0289c93f?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Nov 22 |
 | **[BioSpace](http://www.biospace.com/)** | **[R&D Medical Data Analytics Program - Grad Intern](https://jobright.ai/jobs/info/6921d424a49a885af9a47c22?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
 | ↳ | **[R&D Protein Footprinting Data Analysis Grad Intern](https://jobright.ai/jobs/info/6921d1a0d1ec2c3565c4610b?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Nov 22 |
-| ↳ | **[Intern, Data Scientist](https://jobright.ai/jobs/info/6921d0133f782d2f1afd3eed?utm_campaign=1066&utm_source=git)** | San Rafael, CA | On Site | Nov 22 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2026](https://jobright.ai/jobs/info/68ca4aa406a34016008c638e?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Nov 22 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Statistical Science Intern](https://jobright.ai/jobs/info/6904e8d7122e8474c78d4206?utm_campaign=1066&utm_source=git)** | Morrisville, NC | On Site | Nov 22 |
 | **[Duolingo](https://www.duolingo.com)** | **[Data Scientist, Intern (Undergraduate)](https://jobright.ai/jobs/info/68c82b88f9c6ff7aedf0b8fb?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Nov 22 |
@@ -106,7 +107,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Histopathology Imaging Data Science Intern](https://jobright.ai/jobs/info/6920fee4a49a885af9a41d11?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Nov 21 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Enrollment Data Analyst Intern](https://jobright.ai/jobs/info/6920f7bc3f782d2f1afcd89e?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 21 |
 | **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6920efa53f782d2f1afcd01e?utm_campaign=1066&utm_source=git)** | Loves Park, IL | On Site | Nov 21 |
-| **[Pine Rest Christian Mental Health Services](https://www.pinerest.org/)** | **[Intern - Health Information Management](https://jobright.ai/jobs/info/6920e563a49a885af9a4065d?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Nov 21 |
 | **[KeyBank](https://www.key.com)** | **[2026 Summer Analytics and Quantitative Modeling Internship - Cleveland](https://jobright.ai/jobs/info/6920fcbe00c9ee50eaeca72e?utm_campaign=1066&utm_source=git)** | Cleveland, OH | Remote | Nov 21 |
 | **[Colliers](http://www.colliers.com)** | **[Summer 2026 - Data Governance Analyst Intern](https://jobright.ai/jobs/info/6920d99fa49a885af9a3feca?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 21 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Global Logistics Data & Analytics Intern](https://jobright.ai/jobs/info/6920d6e43f782d2f1afcc0a9?utm_campaign=1066&utm_source=git)** | Kernersville, NC | Hybrid | Nov 21 |
@@ -125,7 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Genmab](https://www.genmab.com)** | **[Trial Strategy & Delivery (TSD) Intern](https://jobright.ai/jobs/info/6920bc91a49a885af9a3e96b?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Nov 21 |
 | **[Philips](https://www.usa.philips.com)** | **[Content & Data Visualization Intern](https://jobright.ai/jobs/info/6920b36a3f782d2f1afca6ca?utm_campaign=1066&utm_source=git)** | Best | On Site | Nov 21 |
 | **[Genmab](https://www.genmab.com)** | **[Clinical Pharmacology and Quantitative Science Intern (Programming/Computer Science)](https://jobright.ai/jobs/info/6920b3593f782d2f1afca6bb?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Nov 21 |
-| ↳ | **[Translational Imaging & Multi-Omics Data Science Intern](https://jobright.ai/jobs/info/6920caafa49a885af9a3f373?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Nov 21 |
+| **[Pine Rest Christian Mental Health Services](https://www.pinerest.org/)** | **[Intern - Health Information Management](https://jobright.ai/jobs/info/6920b31d00c9ee50eaec6f46?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Nov 21 |
+| **[Genmab](https://www.genmab.com)** | **[Translational Imaging & Multi-Omics Data Science Intern](https://jobright.ai/jobs/info/6920caafa49a885af9a3f373?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Nov 21 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6920a8e7a49a885af9a3dd10?utm_campaign=1066&utm_source=git)** | Boston, MA, 02111, United States | On Site | Nov 21 |
 | **[Genmab](https://www.genmab.com)** | **[Statistical Programming Intern](https://jobright.ai/jobs/info/6920cc3000c9ee50eaec8245?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Nov 21 |
 | ↳ | **[Statistical Programming Intern](https://jobright.ai/jobs/info/6920a3e73f782d2f1afc9ad3?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Nov 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/691fe8993f782d2f1afc15eb?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 20 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 20 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (PhD) - Summer 2026](https://jobright.ai/jobs/info/691fc9643f782d2f1afc0294?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
-| ↳ | **[Quantitative Research Intern (BS/MS) - Summer 2026](https://jobright.ai/jobs/info/691fc95ea49a885af9a34177?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
