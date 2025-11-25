@@ -57,7 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Data Science Institute Undergraduate Student Intern - Summer 2026](https://jobright.ai/jobs/info/69093cd3bcccf20de59d9196?utm_campaign=1066&utm_source=git)** | Livermore, CA | On Site | Nov 25 |
+| **[We Insure](https://weinsuregroup.com/)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/6925e39627bf2f41a2c41502?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Nov 25 |
+| **[PEAK6](https://www.peak6.com)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/6925e1d227bf2f41a2c413bb?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Nov 25 |
+| **[We Insure](https://weinsuregroup.com/)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/6925e085f0beb0723261ffb8?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Nov 25 |
+| **[WK Kellogg Co](https://www.wkkellogg.com/en-us/home.html)** | **[Temporary Student Support, Category Strategy](https://jobright.ai/jobs/info/691ae87e15b415636718bcdf?utm_campaign=1066&utm_source=git)** | Battle Creek, MI | Hybrid | Nov 25 |
+| **[PEAK6](https://www.peak6.com)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/6925dfded47de4798ecd25be?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Nov 25 |
+| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Precision Medicine, Biological Data Intern](https://jobright.ai/jobs/info/69091d7fd046ab6061cd1a09?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
+| **[PEAK6](https://www.peak6.com)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/6925daa5d47de4798ecd2385?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Nov 25 |
+| ↳ | **[Data Strategy Intern](https://jobright.ai/jobs/info/6925d9e7f0beb0723261fba3?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Nov 25 |
+| **[We Insure](https://weinsuregroup.com/)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/6925d953d47de4798ecd224d?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Nov 25 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Data Science](https://jobright.ai/jobs/info/6925d6d1d47de4798ecd20d1?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Nov 25 |
+| **[GP Fund Solutions](https://gpfundsolutions.com/)** | **[Data Intern - Summer 2026](https://jobright.ai/jobs/info/69090d98bcccf20de59d6826?utm_campaign=1066&utm_source=git)** | Latham, NY | On Site | Nov 25 |
+| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Quantitative Research Intern](https://jobright.ai/jobs/info/68ed459c81fdd1626d39a7cb?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 25 |
+| **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern- Risk Intelligence](https://jobright.ai/jobs/info/69094b1bbcccf20de59d9a9c?utm_campaign=1066&utm_source=git)** | Green Bay, Wisconsin Metropolitan Area | On Site | Nov 25 |
+| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Data Science Institute Graduate Student Intern - Summer 2026](https://jobright.ai/jobs/info/69093a784a1b456627afe48a?utm_campaign=1066&utm_source=git)** | Livermore, CA | On Site | Nov 25 |
+| ↳ | **[Data Science Institute Undergraduate Student Intern - Summer 2026](https://jobright.ai/jobs/info/69093cd3bcccf20de59d9196?utm_campaign=1066&utm_source=git)** | Livermore, CA | On Site | Nov 25 |
+| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Real Estate Data Intern](https://jobright.ai/jobs/info/68ed43506335d33236126edd?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Nov 25 |
+| **[AARP](http://www.aarp.org)** | **[Research Intern (Graduate Student)](https://jobright.ai/jobs/info/69095491d046ab6061cd445e?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 25 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Biostatistics and Data Management Intern](https://jobright.ai/jobs/info/690911e6bcccf20de59d6c16?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
 | ↳ | **[Statistical Programming Technology R Intern](https://jobright.ai/jobs/info/69090b0fbcccf20de59d660d?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
 | **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/691e83e33f782d2f1afb5842?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 25 |
@@ -76,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://www.statefarm.com/careers)** | **[2026 Spring Intern - MAGNet Program @ Arizona State University](https://jobright.ai/jobs/info/68d1ed59a54edb3bf3e17962?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Nov 25 |
 | **[Experian](http://www.experianplc.com)** | **[Fraud Analytics Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/6909639f4a1b456627afff1f?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 25 |
 | **[HDR](http://www.hdrinc.com)** | **[Data Scientist Intern (Summer 2026)](https://jobright.ai/jobs/info/69094ee6d046ab6061cd4030?utm_campaign=1066&utm_source=git)** | Omaha, NE | On Site | Nov 25 |
-| **[Munich Re](https://www.munichre.com)** | **[Data and Analytics Intern](https://jobright.ai/jobs/info/69257d16f0beb0723261ddc6?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Nov 25 |
 | **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Intern - Data Science, Contract Operations](https://jobright.ai/jobs/info/69257383f0beb0723261daa9?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Hybrid | Nov 25 |
 | **[Uber](http://www.uber.com)** | **[2026 PhD Applied Scientist Intern (Core Services Science Staff), United States](https://jobright.ai/jobs/info/69253c6df0beb0723261c497?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | Hybrid | Nov 24 |
 | ↳ | **[2026 PhD Applied Scientist Intern (Core Services Science Staff), United States](https://jobright.ai/jobs/info/69253c1cd47de4798eccea5b?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 24 |
@@ -109,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Denver Health](http://www.denverhealth.org)** | **[Intern, Research Services](https://jobright.ai/jobs/info/6924b661ec574f4265bb618f?utm_campaign=1066&utm_source=git)** | Administrative Offices - 601 Broadway, Denver, CO 80203 | On Site | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern 2026 (Baton Rouge, LA)](https://jobright.ai/jobs/info/6913ee2fd1047e3565d0728d?utm_campaign=1066&utm_source=git)** | Baton Rouge, LA | Hybrid | Nov 24 |
 | ↳ | **[Data Scientist Intern 2026 (Lansing, MI)](https://jobright.ai/jobs/info/6913f9edd1047e3565d07969?utm_campaign=1066&utm_source=git)** | Lansing, MI | Hybrid | Nov 24 |
-| ↳ | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/690d7e1ad046ab6061cf6a2a?utm_campaign=1066&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 24 |
 | ↳ | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/69081d75ff462851fe00c757?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Nov 24 |
+| ↳ | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/690d7e1ad046ab6061cf6a2a?utm_campaign=1066&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 24 |
 | ↳ | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/690d95ecd046ab6061cf72f7?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 24 |
 | ↳ | **[Data Scientist Intern 2026 (Buffalo, NY)](https://jobright.ai/jobs/info/691403e6e344172248f7603d?utm_campaign=1066&utm_source=git)** | Buffalo, NY | Hybrid | Nov 24 |
 | ↳ | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/691fd42009cc522e87745d59?utm_campaign=1066&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 24 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Data Scientist](https://jobright.ai/jobs/info/6921d0133f782d2f1afd3eed?utm_campaign=1066&utm_source=git)** | San Rafael, CA | On Site | Nov 23 |
 | **[Odyssey](https://odyssey.world)** | **[Research Internship](https://jobright.ai/jobs/info/6925c1bb27bf2f41a2c403fe?utm_campaign=1066&utm_source=git)** | Palo Alto | Hybrid | Nov 23 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 23 |
-| **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/68cdb244b2a74e1837edb33c?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Nov 23 |
-| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/68cd949db2a74e1837ed8ffa?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Nov 23 |
-| **[The Hub Project](https://thehubproject.org/)** | **[Polling and Analytics Intern](https://jobright.ai/jobs/info/69233659c0cefa13343da593?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Nov 23 |
-| **[BioSpace](http://www.biospace.com/)** | **[2026 U.S Summer Internship Program: Statistics and Quantitative Sciences Intern](https://jobright.ai/jobs/info/69231efa7795cd460c83817d?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 23 |
-| ↳ | **[Summer Intern - Biostatistics](https://jobright.ai/jobs/info/69231d9ec0cefa13343da354?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | On Site | Nov 23 |
-| **[UW School of Medicine and Public Health](https://www.med.wisc.edu)** | **[Clinical Informaticist – General Internal Medicine](https://jobright.ai/jobs/info/68c62de1db52c07d28844c62?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Nov 23 |
-| **[Arrowstreet Capital, Limited Partnership](http://arrowstreetcapital.com)** | **[Quantitative Researcher Intern, Summer 2026](https://jobright.ai/jobs/info/69225a8ba49a885af9a48c0f?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 22 |
-| ↳ | **[Quantitative Developer Intern, Summer 2026](https://jobright.ai/jobs/info/692259e53f782d2f1afd4f64?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 22 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68c00e7d5c5d5f14f46db3bd?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 22 |
-| **[Fujitsu](http://www.fujitsu.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/691e01be09cc522e87734c14?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 22 |
-| **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, Clinical Informatics](https://jobright.ai/jobs/info/69222e6fd1ec2c3565c46ecd?utm_campaign=1066&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
-| **[NVIDIA](https://www.nvidia.com)** | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/69057b5a63502c0aded7b74d?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Nov 22 |
-| ↳ | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/69057baa122e8474c78d95c5?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Nov 22 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6904ea88122e8474c78d4344?utm_campaign=1066&utm_source=git)** | Carlsbad, CA | On Site | Nov 22 |
-| ↳ | **[Quality Specialist - Data Analysis Sr. Intern](https://jobright.ai/jobs/info/6904f9cd63502c0aded76cd1?utm_campaign=1066&utm_source=git)** | Logan, UT | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
