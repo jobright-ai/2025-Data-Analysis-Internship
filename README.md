@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Data Analyst I (Intern) United States](https://jobright.ai/jobs/info/69251d0bec574f4265bbbdd4?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
+| ↳ | **[Data Analyst I (Intern) United States](https://jobright.ai/jobs/info/69250e74c0cefa13343e5fc7?utm_campaign=1066&utm_source=git)** | Triangle, NC | On Site | Nov 24 |
+| **[Uber](http://www.uber.com)** | **[2026 PhD Applied Scientist Intern (Core Services Science Staff), United States](https://jobright.ai/jobs/info/692507a938cd5478a8d61862?utm_campaign=1066&utm_source=git)** | US-CA-San Francisco | On Site | Nov 24 |
 | **[ASML](https://www.asml.com)** | **[Internship - Data Visualization and Analytics Intern](https://jobright.ai/jobs/info/69250463c0cefa13343e5829?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Nov 24 |
 | **[HR&A Advisors](http://www.hraadvisors.com)** | **[2026 Summer Analyst Internship](https://jobright.ai/jobs/info/6925009b38cd5478a8d613b6?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 24 |
 | **[ASML](https://www.asml.com)** | **[Internship - Data Science and Analytics](https://jobright.ai/jobs/info/6924fd0dec574f4265bba316?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Nov 24 |
@@ -111,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Business Intelligence Internship - Spring 2026](https://jobright.ai/jobs/info/68de368809bda65a4b627d4d?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/6916fc77bcdbf3560c9c3afb?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
 | **[Prime Finance](https://www.primefinance.com)** | **[Intern, Analytics, Summer 2026](https://jobright.ai/jobs/info/6924e681c0cefa13343e3ab8?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Nov 23 |
+| **[BioSpace](http://www.biospace.com/)** | **[Intern, Data Scientist](https://jobright.ai/jobs/info/6921d0133f782d2f1afd3eed?utm_campaign=1066&utm_source=git)** | San Rafael, CA | On Site | Nov 23 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 23 |
 | **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/68cdb244b2a74e1837edb33c?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Nov 23 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/68cd949db2a74e1837ed8ffa?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Nov 23 |
@@ -122,7 +126,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Developer Intern, Summer 2026](https://jobright.ai/jobs/info/692259e53f782d2f1afd4f64?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 22 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68c00e7d5c5d5f14f46db3bd?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 22 |
 | **[Fujitsu](http://www.fujitsu.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/691e01be09cc522e87734c14?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 22 |
-| **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, Clinical Informatics](https://jobright.ai/jobs/info/69222e7f3f782d2f1afd4c7f?utm_campaign=1066&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
+| **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, Clinical Informatics](https://jobright.ai/jobs/info/69222e6fd1ec2c3565c46ecd?utm_campaign=1066&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
 | **[Amgen](http://www.amgen.com)** | **[R&D Medical Data Analytics Program - Grad Intern](https://jobright.ai/jobs/info/691dfef4a49a885af9a2365c?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 22 |
 | **[NVIDIA](https://www.nvidia.com)** | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/69057b5a63502c0aded7b74d?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Nov 22 |
 | ↳ | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/69057baa122e8474c78d95c5?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Nov 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Divergent](http://www.divergent3d.com)** | **[Summer 2026 Data & Process Analytics Intern](https://jobright.ai/jobs/info/6921279b00c9ee50eaecc46b?utm_campaign=1066&utm_source=git)** | Torrance, California, United States | On Site | Nov 21 |
 | **[Syntax Data](https://www.syntaxdata.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69212629a49a885af9a4363f?utm_campaign=1066&utm_source=git)** | New York City | Hybrid | Nov 21 |
 | **[Divergent](http://www.divergent3d.com)** | **[Summer 2026 Data & Process Analytics Intern](https://jobright.ai/jobs/info/692120a700c9ee50eaecbed4?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Nov 21 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Microsoft Research Special Projects](https://jobright.ai/jobs/info/69211afca49a885af9a42f2b?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Nov 21 |
-| **[Tinder](http://www.tinder.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6920fe4400c9ee50eaeca8be?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 21 |
-| **[Colliers](http://www.colliers.com)** | **[Summer 2026 - Data Governance Analyst Intern](https://jobright.ai/jobs/info/692115cda49a885af9a42c17?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 21 |
-| **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, China Center](https://jobright.ai/jobs/info/69211249a49a885af9a42a0c?utm_campaign=1066&utm_source=git)** | Washington,DC,US | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
