@@ -57,6 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[SOC Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/6926052fd47de4798ecd39f2?utm_campaign=1066&utm_source=git)** | New Jersey, United States | On Site | Nov 25 |
+| **[Uber](http://www.uber.com)** | **[2026 Data Science Intern, US](https://jobright.ai/jobs/info/69260444f0beb072326212b4?utm_campaign=1066&utm_source=git)** | US-CA-San Francisco | On Site | Nov 25 |
+| **[Fortrea](https://www.fortrea.com)** | **[Summer Intern - Real World Data Curation](https://jobright.ai/jobs/info/69260140d47de4798ecd3695?utm_campaign=1066&utm_source=git)** | Remote_United States | Remote | Nov 25 |
+| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/692600f227bf2f41a2c424e1?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Nov 25 |
+| ↳ | **[Data and AI Governance Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6925fe3627bf2f41a2c42238?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Nov 25 |
+| **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Intern, Analytics & Insights](https://jobright.ai/jobs/info/6925f7c427bf2f41a2c41fdf?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 25 |
+| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6909d15bbcccf20de59ddcdb?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Nov 25 |
+| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/690972f84a1b456627b0082b?utm_campaign=1066&utm_source=git)** | Salem, VA | On Site | Nov 25 |
+| **[James Hardie](https://www.jameshardie.com)** | **[Advanced Manufacturing Data Analyst Intern](https://jobright.ai/jobs/info/6925f582d47de4798ecd311a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 25 |
+| **[Syngenta](http://www.syngenta.com)** | **[Functional Genomics Intern](https://jobright.ai/jobs/info/6925f445d47de4798ecd3092?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Nov 25 |
+| **[Uber](http://www.uber.com)** | **[2026 PhD Applied Scientist Intern (Core Services Science Staff), United States](https://jobright.ai/jobs/info/6925f3e4f0beb0723262097c?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Nov 25 |
+| **[James Hardie](https://www.jameshardie.com)** | **[EHS Data Analyst  Intern](https://jobright.ai/jobs/info/6925f07d27bf2f41a2c41c3b?utm_campaign=1066&utm_source=git)** | Plant City, FL | On Site | Nov 25 |
+| **[Constellation Brands New Zealand & Australia](https://www.constellationnz.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6925ede927bf2f41a2c41aab?utm_campaign=1066&utm_source=git)** | Rochester, New York | On Site | Nov 25 |
+| **[Barnes Foundation](http://www.barnesfoundation.org)** | **[Summer Intern: Evaluation & Impact](https://jobright.ai/jobs/info/6925ec0ef0beb072326205c8?utm_campaign=1066&utm_source=git)** | Philadelphia, PA, US | On Site | Nov 25 |
 | **[We Insure](https://weinsuregroup.com/)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/6925e39627bf2f41a2c41502?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Nov 25 |
 | **[PEAK6](https://www.peak6.com)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/6925e1d227bf2f41a2c413bb?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Nov 25 |
 | **[We Insure](https://weinsuregroup.com/)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/6925e085f0beb0723261ffb8?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Nov 25 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Inmar Intelligence](http://www.inmar.com)** | **[Data Science Intern, Summer 2026](https://jobright.ai/jobs/info/69249e45c0cefa13343dffea?utm_campaign=1066&utm_source=git)** | Headquarters, Winston Salem, NC | On Site | Nov 24 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69210b9ba49a885af9a42524?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Nov 24 |
 | **[The New York Times](https://www.nytco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6924978bec574f4265bb4c2a?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 24 |
-| **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Data Analyst Intern 2026](https://jobright.ai/jobs/info/68cdaf6ee23def7af55be00c?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Nov 24 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Nov 24 |
-| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quant Trading Intern 2026](https://jobright.ai/jobs/info/68cd9dfae23def7af55bcd43?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Nov 24 |
-| **[Genmab](https://www.genmab.com)** | **[Clinical and Statistical Programming Intern](https://jobright.ai/jobs/info/692476edec574f4265bb3dc1?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Nov 24 |
-| **[Volvo Group](http://www.volvogroup.com)** | **[Intern: BI & Analytics (Summer 2026)](https://jobright.ai/jobs/info/6924910038cd5478a8d5b69c?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Nov 24 |
-| **[Henkel](http://www.henkel.com)** | **[Information Technology & Data Analytics Intern – Summer 2026](https://jobright.ai/jobs/info/68cb9975efdec76df36bf49d?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Nov 24 |
-| **[Technip Energies](https://www.ten.com/)** | **[Future Opportunity - Data Science-Programming Intern (Summer 2026)](https://jobright.ai/jobs/info/6922b4ec7795cd460c836cda?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Nov 24 |
-| **[Trace3](http://trace3.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/690a51b94a1b456627b0626b?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Nov 24 |
-| **[Medpace](http://www.medpace.com)** | **[Business Intelligence Internship - Spring 2026](https://jobright.ai/jobs/info/68de368809bda65a4b627d4d?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/6916fc77bcdbf3560c9c3afb?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
-| **[Prime Finance](https://www.primefinance.com)** | **[Intern, Analytics, Summer 2026](https://jobright.ai/jobs/info/6924e681c0cefa13343e3ab8?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Nov 23 |
-| **[BioSpace](http://www.biospace.com/)** | **[Intern, Data Scientist](https://jobright.ai/jobs/info/6921d0133f782d2f1afd3eed?utm_campaign=1066&utm_source=git)** | San Rafael, CA | On Site | Nov 23 |
-| **[Odyssey](https://odyssey.world)** | **[Research Internship](https://jobright.ai/jobs/info/6925c1bb27bf2f41a2c403fe?utm_campaign=1066&utm_source=git)** | Palo Alto | Hybrid | Nov 23 |
-| **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
