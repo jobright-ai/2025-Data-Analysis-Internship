@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Data Science Specialist](https://jobright.ai/jobs/info/69253f67d47de4798eccec7d?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Nov 24 |
+| **[H15DEN](https://h15den.com)** | **[Research Intern  1 Month](https://jobright.ai/jobs/info/692552b2d47de4798eccf48d?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 24 |
 | **[Uber](http://www.uber.com)** | **[2026 PhD Applied Scientist Intern (Core Services Science Staff), United States](https://jobright.ai/jobs/info/69253c6df0beb0723261c497?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | Hybrid | Nov 24 |
 | ↳ | **[2026 PhD Applied Scientist Intern (Core Services Science Staff), United States](https://jobright.ai/jobs/info/69253c1cd47de4798eccea5b?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 24 |
 | **[The New York Times](https://www.nytco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69252d2dd47de4798eccddbb?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 24 |
@@ -87,13 +87,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analyst I (Intern) United States](https://jobright.ai/jobs/info/6924bd98c0cefa13343e15fb?utm_campaign=1066&utm_source=git)** | RTP, North Carolina, US | Hybrid | Nov 24 |
 | ↳ | **[Data Analyst I (Intern) United States](https://jobright.ai/jobs/info/6924bd6c38cd5478a8d5d318?utm_campaign=1066&utm_source=git)** | Austin, Texas, US | Hybrid | Nov 24 |
 | **[NAPA Auto Parts](https://napaprolink.com/)** | **[Technology Intern – Digital Analytics- Summer 2026](https://jobright.ai/jobs/info/6924dabbc0cefa13343e2c43?utm_campaign=1066&utm_source=git)** | Atlanta, GA, USA | On Site | Nov 24 |
-| **[Chartway Credit Union](https://chartway.com)** | **[Summer Internship - Data Science](https://jobright.ai/jobs/info/691f8c693f782d2f1afbda5f?utm_campaign=1066&utm_source=git)** | South Jordan, UT | On Site | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6917eac615b415636717cc60?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Nov 24 |
 | **[Denver Health](http://www.denverhealth.org)** | **[Intern, Research Services](https://jobright.ai/jobs/info/6924b661ec574f4265bb618f?utm_campaign=1066&utm_source=git)** | Administrative Offices - 601 Broadway, Denver, CO 80203 | On Site | Nov 24 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern 2026 (Baton Rouge, LA)](https://jobright.ai/jobs/info/6913ee2fd1047e3565d0728d?utm_campaign=1066&utm_source=git)** | Baton Rouge, LA | Hybrid | Nov 24 |
 | ↳ | **[Data Scientist Intern 2026 (Lansing, MI)](https://jobright.ai/jobs/info/6913f9edd1047e3565d07969?utm_campaign=1066&utm_source=git)** | Lansing, MI | Hybrid | Nov 24 |
-| ↳ | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/690d7e1ad046ab6061cf6a2a?utm_campaign=1066&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 24 |
 | ↳ | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/69081d75ff462851fe00c757?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Nov 24 |
+| ↳ | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/690d7e1ad046ab6061cf6a2a?utm_campaign=1066&utm_source=git)** | Sandy Springs, GA | Hybrid | Nov 24 |
 | ↳ | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/690d95ecd046ab6061cf72f7?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 24 |
 | ↳ | **[Data Scientist Intern 2026 (Buffalo, NY)](https://jobright.ai/jobs/info/691403e6e344172248f7603d?utm_campaign=1066&utm_source=git)** | Buffalo, NY | Hybrid | Nov 24 |
 | ↳ | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/691fd42009cc522e87745d59?utm_campaign=1066&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 24 |
@@ -121,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Business Intelligence Internship - Spring 2026](https://jobright.ai/jobs/info/68de368809bda65a4b627d4d?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/6916fc77bcdbf3560c9c3afb?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
 | **[Prime Finance](https://www.primefinance.com)** | **[Intern, Analytics, Summer 2026](https://jobright.ai/jobs/info/6924e681c0cefa13343e3ab8?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Nov 23 |
-| **[BioSpace](http://www.biospace.com/)** | **[Intern, Data Scientist](https://jobright.ai/jobs/info/6921d0133f782d2f1afd3eed?utm_campaign=1066&utm_source=git)** | San Rafael, CA | On Site | Nov 23 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 23 |
 | **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/68cdb244b2a74e1837edb33c?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Nov 23 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/68cd949db2a74e1837ed8ffa?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Nov 23 |
@@ -133,7 +131,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Quantitative Developer Intern, Summer 2026](https://jobright.ai/jobs/info/692259e53f782d2f1afd4f64?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 22 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68c00e7d5c5d5f14f46db3bd?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 22 |
 | **[Fujitsu](http://www.fujitsu.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/691e01be09cc522e87734c14?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 22 |
-| **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, Clinical Informatics](https://jobright.ai/jobs/info/69222e6fd1ec2c3565c46ecd?utm_campaign=1066&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
+| **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[IT Summer Intern, Clinical Informatics](https://jobright.ai/jobs/info/69222e7f3f782d2f1afd4c7f?utm_campaign=1066&utm_source=git)** | Edison, NJ | On Site | Nov 22 |
 | **[Amgen](http://www.amgen.com)** | **[R&D Medical Data Analytics Program - Grad Intern](https://jobright.ai/jobs/info/691dfef4a49a885af9a2365c?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 22 |
 | **[NVIDIA](https://www.nvidia.com)** | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/69057b5a63502c0aded7b74d?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Nov 22 |
 | ↳ | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/69057baa122e8474c78d95c5?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Nov 22 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Attention Arc](https://attentionarc.com)** | **[Intern, Data](https://jobright.ai/jobs/info/686c642f35584b65427c880c?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Nov 21 |
 | **[Cencora](http://www.cencora.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/6921399b3f782d2f1afd06a6?utm_campaign=1066&utm_source=git)** | Buford, GA | On Site | Nov 21 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Purchasing Data Analytics Intern](https://jobright.ai/jobs/info/692137eca49a885af9a44245?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Nov 21 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Purchasing Data Analytics Intern](https://jobright.ai/jobs/info/69228bde7795cd460c83617d?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Nov 21 |
+| **[Veriswap](https://veriswap.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69213241a49a885af9a43e16?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
