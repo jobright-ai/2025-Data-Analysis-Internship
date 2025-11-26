@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Data Science, Planner & Perception Eval](https://jobright.ai/jobs/info/68d33e1217554c2d9eeeeed9?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Nov 26 |
 | **[American Water](http://amwater.com)** | **[GIS Data Intern](https://jobright.ai/jobs/info/690abfb1d046ab6061cdfbbf?utm_campaign=1066&utm_source=git)** | Scranton, PA | Hybrid | Nov 26 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68ce438724dd5209002f10ec?utm_campaign=1066&utm_source=git)** | Huntsville, AL | Hybrid | Nov 26 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68ca3e60f61c922772a7595e?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Nov 26 |
@@ -71,6 +72,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68c649287d0db41142737cd3?utm_campaign=1066&utm_source=git)** | El Segundo, CA | Hybrid | Nov 26 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68cc17eb16d00d2beeb19a9e?utm_campaign=1066&utm_source=git)** | Annapolis Junction, MD | Hybrid | Nov 26 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68ce1852e23def7af55c2170?utm_campaign=1066&utm_source=git)** | Charleston, SC | Hybrid | Nov 26 |
+| **[University of Utah Health Research](https://uofuhealth.utah.edu/research)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/6926f53991ceeb2e8a53bc8b?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Nov 26 |
+| **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/6926ea5091ceeb2e8a53ba90?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Nov 26 |
 | **[Labcorp](https://www.labcorp.com)** | **[Summer Intern - Real World Data Curation](https://jobright.ai/jobs/info/6926b169d47de4798ecd8741?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Remote | Nov 25 |
 | **[Nebraska Department of Health and Human Services](http://dhhs.ne.gov/)** | **[Masters-Level Epidemiology Internship (Jan 2026 – Jan 2027)](https://jobright.ai/jobs/info/6903cdf1d64a22104aa9351b?utm_campaign=1066&utm_source=git)** | Lincoln, NE | Hybrid | Nov 25 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/6926d926d47de4798ecd8ea5?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Nov 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Data Science Institute Graduate Student Intern - Summer 2026](https://jobright.ai/jobs/info/69093a784a1b456627afe48a?utm_campaign=1066&utm_source=git)** | Livermore, CA | On Site | Nov 25 |
 | ↳ | **[Data Science Institute Undergraduate Student Intern - Summer 2026](https://jobright.ai/jobs/info/69093cd3bcccf20de59d9196?utm_campaign=1066&utm_source=git)** | Livermore, CA | On Site | Nov 25 |
 | **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Real Estate Data Intern](https://jobright.ai/jobs/info/68ed43506335d33236126edd?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Nov 25 |
-| **[AARP](http://www.aarp.org)** | **[Research Intern (Graduate Student)](https://jobright.ai/jobs/info/69095491d046ab6061cd445e?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 25 |
-| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Biostatistics and Data Management Intern](https://jobright.ai/jobs/info/690911e6bcccf20de59d6c16?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
-| ↳ | **[Statistical Programming Technology R Intern](https://jobright.ai/jobs/info/69090b0fbcccf20de59d660d?utm_campaign=1066&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
