@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Virtua Health](https://www.virtua.org/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/6928671bd47de4798ece2b68?utm_campaign=1066&utm_source=git)** | Marlton, NJ | On Site | Nov 27 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68a4e2fa33dd7158bbc95f3c?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 27 |
+| **[BJC HealthCare](https://www.bjc.org/)** | **[Intern  - Epidemiology](https://jobright.ai/jobs/info/690c2390d046ab6061ceb534?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Nov 27 |
+| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Commodity Management Associate](https://jobright.ai/jobs/info/691dc2ff748c4e1301ec8622?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 27 |
+| **[StandardAero](http://www.standardaero.com/)** | **[Summer Intern - Data Analytics (Supply Chain)](https://jobright.ai/jobs/info/691e758f3f782d2f1afb4ddf?utm_campaign=1066&utm_source=git)** | Slemon Park, Prince Edward Island, Canada | On Site | Nov 27 |
+| **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Data Science, Planner & Perception Eval](https://jobright.ai/jobs/info/68d344ff17554c2d9eeef5a3?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Nov 27 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Macroeconomic Data Science Intern](https://jobright.ai/jobs/info/6924c400ec574f4265bb6bb2?utm_campaign=1066&utm_source=git)** | Del Mar, CA | Hybrid | Nov 27 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern - Optimization (Summer 2026)](https://jobright.ai/jobs/info/68d614592116ff37ee092992?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 27 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2026](https://jobright.ai/jobs/info/68d446b917554c2d9eef786e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689add96faa4e875e825d384?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Nov 25 |
 | ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/68ccd7595954791a1d6ff5cf?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Nov 25 |
 | **[Johnson Law Group](http://johnsonlawgroup.com)** | **[Data Analyst Intern - Spring 2026](https://jobright.ai/jobs/info/6926217af0beb072326225a9?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States | On Site | Nov 25 |
-| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69264680d47de4798ecd612a?utm_campaign=1066&utm_source=git)** | Woodbridge, NJ | On Site | Nov 25 |
-| **[Barnes Foundation](http://www.barnesfoundation.org)** | **[Summer Intern: Evaluation & Impact](https://jobright.ai/jobs/info/69261be7f0beb072326221f7?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Nov 25 |
-| **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[MPP Data Analytics Intern](https://jobright.ai/jobs/info/6920f5ac00c9ee50eaeca1c8?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 25 |
-| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[SOC Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/6926149027bf2f41a2c43320?utm_campaign=1066&utm_source=git)** | Ohio, United States | On Site | Nov 25 |
-| **[PEAK6](https://www.peak6.com)** | **[Data Visualization Intern](https://jobright.ai/jobs/info/692613c3f0beb07232621d8d?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Nov 25 |
-| **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[SOC Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/692613a927bf2f41a2c43276?utm_campaign=1066&utm_source=git)** | Georgia, United States | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
