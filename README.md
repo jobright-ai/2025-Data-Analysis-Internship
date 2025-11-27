@@ -57,14 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Intern - Data Science, Operations Sustainment](https://jobright.ai/jobs/info/6927746ad47de4798ecdcd52?utm_campaign=1066&utm_source=git)** | 3500 104th St, Urbandale, IA, 50322, US | On Site | Nov 26 |
+| **[The University of Georgia](http://www.ai.uga.edu)** | **[Business Analytics Intern (Student)](https://jobright.ai/jobs/info/69278d71d47de4798ecde655?utm_campaign=1066&utm_source=git)** | Athens, GA | On Site | Nov 26 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - Enterprise Data Office](https://jobright.ai/jobs/info/69276f14f0beb0723262a28a?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Nov 26 |
-| **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Intern - Data Science, IT Enterprise Management](https://jobright.ai/jobs/info/69276d59f0beb0723262a0e4?utm_campaign=1066&utm_source=git)** | 3500 104th St, Urbandale, IA, 50322, US | On Site | Nov 26 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 26 |
+| **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Intern - Data Science, Operations Sustainment](https://jobright.ai/jobs/info/6927746ad47de4798ecdcd52?utm_campaign=1066&utm_source=git)** | 3500 104th St, Urbandale, IA, 50322, US | On Site | Nov 26 |
+| ↳ | **[Intern - Data Science, IT Enterprise Management](https://jobright.ai/jobs/info/69276d59f0beb0723262a0e4?utm_campaign=1066&utm_source=git)** | 3500 104th St, Urbandale, IA, 50322, US | On Site | Nov 26 |
 | **[Nemours](http://www.nemours.org)** | **[Intern, Research](https://jobright.ai/jobs/info/692764a9f0beb07232629bbd?utm_campaign=1066&utm_source=git)** | Wilmington, DE | On Site | Nov 26 |
 | **[KLA](https://www.kla.com)** | **[Supply Chain Data Science Intern](https://jobright.ai/jobs/info/692763e1d47de4798ecdc13b?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Nov 26 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Medical Affairs Analytics Intern, Oncology](https://jobright.ai/jobs/info/692762bb91ceeb2e8a53ea7d?utm_campaign=1066&utm_source=git)** | Gaithersburg, MD | On Site | Nov 26 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[IT Intern](https://jobright.ai/jobs/info/69275e00f0beb072326297d1?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Nov 26 |
-| **[KLA](https://www.kla.com)** | **[Supply Chain Data Science Intern](https://jobright.ai/jobs/info/692751aaf0beb07232628f14?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Nov 26 |
+| **[KLA](https://www.kla.com)** | **[Supply Chain Data Science Intern](https://jobright.ai/jobs/info/6927512bf0beb07232628eac?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Nov 26 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Data Analysis](https://jobright.ai/jobs/info/692758d491ceeb2e8a53e40e?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Nov 26 |
 | **[Milliman](http://www.milliman.com)** | **[Pharmacy Analytics Intern Winter 2026 (Part-time) – (CMH Health)](https://jobright.ai/jobs/info/6927363091ceeb2e8a53d450?utm_campaign=1066&utm_source=git)** | Brookfield, WI | Remote | Nov 26 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Health Data Analytics](https://jobright.ai/jobs/info/6927359a91ceeb2e8a53d3f4?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Nov 26 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689ae31083d13d1f5b69d924?utm_campaign=1066&utm_source=git)** | Richmond, VA | Hybrid | Nov 25 |
 | **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[SOC Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/6926123d27bf2f41a2c431a9?utm_campaign=1066&utm_source=git)** | South Carolina, United States | On Site | Nov 25 |
 | ↳ | **[SOC Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/69260f2c27bf2f41a2c42efb?utm_campaign=1066&utm_source=git)** | Colorado, United States | On Site | Nov 25 |
-| ↳ | **[SOC Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/69260f14d47de4798ecd413b?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Nov 25 |
 | **[We Insure](https://weinsuregroup.com/)** | **[Data Visualization Intern](https://jobright.ai/jobs/info/69260eacd47de4798ecd40c6?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Nov 25 |
 | **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[SOC Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/69260d60f0beb0723262199c?utm_campaign=1066&utm_source=git)** | Texas, United States | On Site | Nov 25 |
 | ↳ | **[SOC Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/69260cacd47de4798ecd3f5b?utm_campaign=1066&utm_source=git)** | Michigan, United States | On Site | Nov 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WPS—A health solutions company](https://www.wpshealthsolutions.com/)** | **[Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/692600f227bf2f41a2c424e1?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Nov 25 |
 | ↳ | **[Data and AI Governance Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6925fe3627bf2f41a2c42238?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Nov 25 |
 | ↳ | **[SOC Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/692620ecf0beb07232622547?utm_campaign=1066&utm_source=git)** | Iowa, United States | On Site | Nov 25 |
-| ↳ | **[SOC Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/69261f97f0beb07232622487?utm_campaign=1066&utm_source=git)** | Missouri, United States | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
