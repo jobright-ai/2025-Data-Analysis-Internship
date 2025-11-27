@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ciena](http://www.ciena.com)** | **[Global Customer Care Business Intelligence Intern (Winter 2026)](https://jobright.ai/jobs/info/6928aaf7f0beb07232631007?utm_campaign=1066&utm_source=git)** | Ottawa | Hybrid | Nov 27 |
+| **[BMO](http://www.bmo.com)** | **[Quantitative Analyst - Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/6928a7b1f0beb07232630fb7?utm_campaign=1066&utm_source=git)** | Chicago, IL, USA | On Site | Nov 27 |
+| ↳ | **[Quantitative Analyst - Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69289f9391ceeb2e8a545fa8?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN | On Site | Nov 27 |
+| **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Data Analytics - R10661](https://jobright.ai/jobs/info/68f061199e09d311e043116e?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 27 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Data Steward](https://jobright.ai/jobs/info/69104990bb519377733eb60e?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Nov 27 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6927954c91ceeb2e8a541664?utm_campaign=1066&utm_source=git)** | Mobile, AL | On Site | Nov 27 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Data Analytics Intern- Summer 2026 (Rehl](https://jobright.ai/jobs/info/69288c06f0beb07232630bdb?utm_campaign=1066&utm_source=git)** | Sheboygan, WI | On Site | Nov 27 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Information Systems & Data Analytics](https://jobright.ai/jobs/info/690bc4add046ab6061ce767d?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Nov 27 |
-| **[Canaria](https://www.decanaria.com/)** | **[Data Scientist Intern - QA](https://jobright.ai/jobs/info/69287ee3d47de4798ece3000?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 27 |
 | **[Virtua Health](https://www.virtua.org/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/6928671bd47de4798ece2b68?utm_campaign=1066&utm_source=git)** | Marlton, NJ | On Site | Nov 27 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68a4e2fa33dd7158bbc95f3c?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 27 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern  - Epidemiology](https://jobright.ai/jobs/info/690c2390d046ab6061ceb534?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Nov 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689adfcd83d13d1f5b69d54b?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Nov 25 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Data Analyst Intern - Tech Services](https://jobright.ai/jobs/info/69262b03d47de4798ecd52e6?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Nov 25 |
 | **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689ae1bc83d13d1f5b69d788?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Nov 25 |
-| ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689ada9983d13d1f5b69d25e?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 25 |
-| **[KeyBank](https://www.key.com)** | **[2026 Summer Analytics and Quantitative Modeling Internship - Cleveland](https://jobright.ai/jobs/info/6920fcbe00c9ee50eaeca72e?utm_campaign=1066&utm_source=git)** | Cleveland, OH | Remote | Nov 25 |
-| **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689adb75faa4e875e825d072?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
