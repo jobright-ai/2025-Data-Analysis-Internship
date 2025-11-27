@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Data Steward](https://jobright.ai/jobs/info/69104990bb519377733eb60e?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Nov 27 |
+| **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6927954c91ceeb2e8a541664?utm_campaign=1066&utm_source=git)** | Mobile, AL | On Site | Nov 27 |
+| **[Rehlko](https://www.rehlko.com/)** | **[Data Analytics Intern- Summer 2026 (Rehl](https://jobright.ai/jobs/info/69288c06f0beb07232630bdb?utm_campaign=1066&utm_source=git)** | Sheboygan, WI | On Site | Nov 27 |
+| **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Information Systems & Data Analytics](https://jobright.ai/jobs/info/690bc4add046ab6061ce767d?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Nov 27 |
+| **[Canaria](https://www.decanaria.com/)** | **[Data Scientist Intern - QA](https://jobright.ai/jobs/info/69287ee3d47de4798ece3000?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 27 |
 | **[Virtua Health](https://www.virtua.org/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/6928671bd47de4798ece2b68?utm_campaign=1066&utm_source=git)** | Marlton, NJ | On Site | Nov 27 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SPRING) Data Analyst Intern](https://jobright.ai/jobs/info/68a4e2fa33dd7158bbc95f3c?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 27 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern  - Epidemiology](https://jobright.ai/jobs/info/690c2390d046ab6061ceb534?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Nov 27 |
@@ -85,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927bc33f0beb0723262d890?utm_campaign=1066&utm_source=git)** | Wilmington, NC | On Site | Nov 26 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Data Science](https://jobright.ai/jobs/info/68ce24571ad6b16f028a2491?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Nov 26 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927c81791ceeb2e8a543118?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Nov 26 |
-| ↳ | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927b7fc91ceeb2e8a5428c7?utm_campaign=1066&utm_source=git)** | US-SC-Greenville | On Site | Nov 26 |
 | ↳ | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927bf39f0beb0723262da96?utm_campaign=1066&utm_source=git)** | US-NC-Asheville | On Site | Nov 26 |
+| ↳ | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927b7fc91ceeb2e8a5428c7?utm_campaign=1066&utm_source=git)** | US-SC-Greenville | On Site | Nov 26 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Business Analytics Intern (Student)](https://jobright.ai/jobs/info/69278d71d47de4798ecde655?utm_campaign=1066&utm_source=git)** | Athens, GA | On Site | Nov 26 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - Enterprise Data Office](https://jobright.ai/jobs/info/69276f14f0beb0723262a28a?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Nov 26 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689ada9983d13d1f5b69d25e?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 25 |
 | **[KeyBank](https://www.key.com)** | **[2026 Summer Analytics and Quantitative Modeling Internship - Cleveland](https://jobright.ai/jobs/info/6920fcbe00c9ee50eaeca72e?utm_campaign=1066&utm_source=git)** | Cleveland, OH | Remote | Nov 25 |
 | **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689adb75faa4e875e825d072?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Nov 25 |
-| **[Central Hudson](https://www.cenhud.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69261385f0beb07232621d78?utm_campaign=1066&utm_source=git)** | Poughkeepsie | On Site | Nov 25 |
-| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/69260f00d47de4798ecd4123?utm_campaign=1066&utm_source=git)** | Poughkeepsie, NY | On Site | Nov 25 |
-| **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689add96faa4e875e825d384?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Nov 25 |
-| ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/68ccd7595954791a1d6ff5cf?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Nov 25 |
-| **[Johnson Law Group](http://johnsonlawgroup.com)** | **[Data Analyst Intern - Spring 2026](https://jobright.ai/jobs/info/6926217af0beb072326225a9?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
