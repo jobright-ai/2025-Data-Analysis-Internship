@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Research Internship - True Global Intelligence](https://jobright.ai/jobs/info/69295c36fa28370be269431f?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 28 |
 | **[Carboncopies Foundation](https://carboncopies.org)** | **[Data science  spring 2026 Internship](https://jobright.ai/jobs/info/692909c3f0beb07232631bf8?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 27 |
 | **[BMO](http://www.bmo.com)** | **[Quantitative Analyst - Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6928d11c91ceeb2e8a54677f?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 27 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Quantitative Analyst - Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/6928cf4af0beb072326315bf?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uber](http://www.uber.com)** | **[2026 Data Science Intern, US](https://jobright.ai/jobs/info/69264b0e27bf2f41a2c450e8?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Nov 25 |
 | **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Medical Affairs Analytics Intern, Oncology](https://jobright.ai/jobs/info/6926777827bf2f41a2c4659b?utm_campaign=1066&utm_source=git)** | Gaithersburg | On Site | Nov 25 |
 | **[Constellation Brands](http://cbrands.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69263a72f0beb072326234dc?utm_campaign=1066&utm_source=git)** | Rochester, NY | On Site | Nov 25 |
-| **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/692639b727bf2f41a2c448c9?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
