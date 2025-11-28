@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Carboncopies Foundation](https://carboncopies.org)** | **[Data science  spring 2026 Internship](https://jobright.ai/jobs/info/692909c3f0beb07232631bf8?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 27 |
 | **[BMO](http://www.bmo.com)** | **[Quantitative Analyst - Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6928d11c91ceeb2e8a54677f?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 27 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Quantitative Analyst - Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/6928cf4af0beb072326315bf?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 27 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 27 |
@@ -106,7 +107,7 @@ For a complete list, click the following sortable link below:
 | **[KLA](https://www.kla.com)** | **[Supply Chain Data Science Intern](https://jobright.ai/jobs/info/692763e1d47de4798ecdc13b?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Nov 26 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Medical Affairs Analytics Intern, Oncology](https://jobright.ai/jobs/info/692762bb91ceeb2e8a53ea7d?utm_campaign=1066&utm_source=git)** | Gaithersburg, MD | On Site | Nov 26 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[IT Intern](https://jobright.ai/jobs/info/69275e00f0beb072326297d1?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Nov 26 |
-| **[KLA](https://www.kla.com)** | **[Supply Chain Data Science Intern](https://jobright.ai/jobs/info/6927512bf0beb07232628eac?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Nov 26 |
+| **[KLA](https://www.kla.com)** | **[Supply Chain Data Science Intern](https://jobright.ai/jobs/info/69275af4d47de4798ecdbbc2?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Nov 26 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Data Analysis](https://jobright.ai/jobs/info/692758d491ceeb2e8a53e40e?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Nov 26 |
 | **[Milliman](http://www.milliman.com)** | **[Pharmacy Analytics Intern Winter 2026 (Part-time) – (CMH Health)](https://jobright.ai/jobs/info/6927363091ceeb2e8a53d450?utm_campaign=1066&utm_source=git)** | Brookfield, WI | Remote | Nov 26 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Health Data Analytics](https://jobright.ai/jobs/info/6927359a91ceeb2e8a53d3f4?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Nov 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/692639b727bf2f41a2c448c9?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 25 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Data Strategy & Governance](https://jobright.ai/jobs/info/6926382af0beb0723262334f?utm_campaign=1066&utm_source=git)** | Parsippany, NJ | On Site | Nov 25 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Medical Affairs Analytics Intern, Oncology](https://jobright.ai/jobs/info/69262c36d47de4798ecd53d8?utm_campaign=1066&utm_source=git)** | US - Gaithersburg - MD | Hybrid | Nov 25 |
-| **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689adfcd83d13d1f5b69d54b?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
