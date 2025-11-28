@@ -144,6 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Nebraska Department of Health and Human Services](http://dhhs.ne.gov/)** | **[Masters-Level Epidemiology Internship (Jan 2026 – Jan 2027)](https://jobright.ai/jobs/info/6903cdf1d64a22104aa9351b?utm_campaign=1066&utm_source=git)** | Lincoln, NE | Hybrid | Nov 25 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/6926d926d47de4798ecd8ea5?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Nov 25 |
 | **[Ericsson](https://www.ericsson.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69268e5ed47de4798ecd81b9?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Nov 25 |
+| **[MidAmerican Energy Company](https://www.midamericanenergy.com)** | **[Intern - Data Science, IT Enterprise Management](https://jobright.ai/jobs/info/69292b51f0beb07232631fd0?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Nov 25 |
+| ↳ | **[Intern - Data Science, Operations Sustainment](https://jobright.ai/jobs/info/69292be891ceeb2e8a54713e?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Nov 25 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Subject Matter Experts (AUSME) Development Team – Student Developer & Data Analyst](https://jobright.ai/jobs/info/692676fbd47de4798ecd7751?utm_campaign=1066&utm_source=git)** | Auburn, AL | On Site | Nov 25 |
 | **[2077AI Open Source Foundation](https://www.2077ai.com/)** | **[Research Intern (Vision/VLM)](https://jobright.ai/jobs/info/6926e50af0beb07232626a75?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 25 |
 | ↳ | **[Research Intern (Video)](https://jobright.ai/jobs/info/6926e790f0beb07232626ad8?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Medical Affairs Analytics Intern, Oncology](https://jobright.ai/jobs/info/6926777827bf2f41a2c4659b?utm_campaign=1066&utm_source=git)** | Gaithersburg | On Site | Nov 25 |
 | **[Constellation Brands](http://cbrands.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69263a72f0beb072326234dc?utm_campaign=1066&utm_source=git)** | Rochester, NY | On Site | Nov 25 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/692639b727bf2f41a2c448c9?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 25 |
-| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Data Strategy & Governance](https://jobright.ai/jobs/info/6926382af0beb0723262334f?utm_campaign=1066&utm_source=git)** | Parsippany, NJ | On Site | Nov 25 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[Medical Affairs Analytics Intern, Oncology](https://jobright.ai/jobs/info/69262c36d47de4798ecd53d8?utm_campaign=1066&utm_source=git)** | US - Gaithersburg - MD | Hybrid | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
