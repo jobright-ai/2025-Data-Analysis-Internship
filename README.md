@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12d96f462172a5a7d3c42?utm_campaign=1066&utm_source=git)** | Waukegan, IL | On Site | Nov 28 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[IT Systems Analyst - 2026 Summer Internship](https://jobright.ai/jobs/info/68d444cb8c62e63bc7fe7595?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 28 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Analyst, Software Asset Management](https://jobright.ai/jobs/info/691a91aa15b4156367188c97?utm_campaign=1066&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 28 |
+| **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f137b9e6870116b1f54e72?utm_campaign=1066&utm_source=git)** | Kenosha, WI | On Site | Nov 28 |
+| ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12d96f462172a5a7d3c42?utm_campaign=1066&utm_source=git)** | Waukegan, IL | On Site | Nov 28 |
 | **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6929dd2cfa28370be269582e?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Nov 28 |
 | **[University Pension Plan Ontario](https://myupp.ca/)** | **[Intern Analyst, Data & Technology (January 2026 - April 2026)](https://jobright.ai/jobs/info/6929d239fa28370be269548f?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 28 |
+| **[Ededge Learn](www.ededgelearning.com)** | **[Data  Analytics Training & Internship](https://jobright.ai/jobs/info/6929f4d166796e3028f8dc47?utm_campaign=1066&utm_source=git)** | Canada | Remote | Nov 28 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/68f02b6478ba1621431e2adb?utm_campaign=1066&utm_source=git)** | Rocky Mount, VA | On Site | Nov 28 |
 | **[Veritiv](https://www.veritiv.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68d57ce163d77d6f6f3ef057?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 28 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Wholesale Intern](https://jobright.ai/jobs/info/690d73f3d046ab6061cf6587?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 28 |
@@ -120,7 +124,7 @@ For a complete list, click the following sortable link below:
 | **[KLA](https://www.kla.com)** | **[Supply Chain Data Science Intern](https://jobright.ai/jobs/info/692763e1d47de4798ecdc13b?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Nov 26 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Medical Affairs Analytics Intern, Oncology](https://jobright.ai/jobs/info/692762bb91ceeb2e8a53ea7d?utm_campaign=1066&utm_source=git)** | Gaithersburg, MD | On Site | Nov 26 |
 | **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[IT Intern](https://jobright.ai/jobs/info/69275e00f0beb072326297d1?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Nov 26 |
-| **[KLA](https://www.kla.com)** | **[Supply Chain Data Science Intern](https://jobright.ai/jobs/info/692751aaf0beb07232628f14?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Nov 26 |
+| **[KLA](https://www.kla.com)** | **[Supply Chain Data Science Intern](https://jobright.ai/jobs/info/6927512bf0beb07232628eac?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Nov 26 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Data Analysis](https://jobright.ai/jobs/info/692758d491ceeb2e8a53e40e?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Nov 26 |
 | **[Milliman](http://www.milliman.com)** | **[Pharmacy Analytics Intern Winter 2026 (Part-time) – (CMH Health)](https://jobright.ai/jobs/info/6927363091ceeb2e8a53d450?utm_campaign=1066&utm_source=git)** | Brookfield, WI | Remote | Nov 26 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Health Data Analytics](https://jobright.ai/jobs/info/6927359a91ceeb2e8a53d3f4?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Nov 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68cc17eb16d00d2beeb19a9e?utm_campaign=1066&utm_source=git)** | Annapolis Junction, MD | Hybrid | Nov 26 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68ce1852e23def7af55c2170?utm_campaign=1066&utm_source=git)** | Charleston, SC | Hybrid | Nov 26 |
 | **[University of Utah Health Research](https://uofuhealth.utah.edu/research)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/6926f53991ceeb2e8a53bc8b?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Nov 26 |
-| **[Labcorp](https://www.labcorp.com)** | **[Summer Intern - Real World Data Curation](https://jobright.ai/jobs/info/6926b169d47de4798ecd8741?utm_campaign=1066&utm_source=git)** | North Carolina, United States | Remote | Nov 25 |
-| **[Nebraska Department of Health and Human Services](http://dhhs.ne.gov/)** | **[Masters-Level Epidemiology Internship (Jan 2026 – Jan 2027)](https://jobright.ai/jobs/info/6903cdf1d64a22104aa9351b?utm_campaign=1066&utm_source=git)** | Lincoln, NE | Hybrid | Nov 25 |
-| **[Labcorp](https://www.labcorp.com)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/6926d926d47de4798ecd8ea5?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Nov 25 |
-| **[Ericsson](https://www.ericsson.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69268e5ed47de4798ecd81b9?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Nov 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
