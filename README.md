@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maxterial, Inc.](https://www.maxterial.com)** | **[Internship in Statistics (Graduate Students)](https://jobright.ai/jobs/info/692b4ea966796e3028f906cc?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 29 |
+| **[Wichita State University](http://www.wichita.edu)** | **[NIAR ATLAS Data Science Student Assistant](https://jobright.ai/jobs/info/692b387066796e3028f904f9?utm_campaign=1066&utm_source=git)** | Wichita, KS | On Site | Nov 29 |
+| **[Ingredion Incorporated](http://ingredion.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68ff7cbce0c73b3a1119bb80?utm_campaign=1066&utm_source=git)** | Westchester, IL | Hybrid | Nov 29 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Data Analytics Intern](https://jobright.ai/jobs/info/690ec68dd046ab6061d0118f?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Nov 29 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Quantitative Research and Trading Intern](https://jobright.ai/jobs/info/692b2d7066796e3028f90424?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 29 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/68cd8a5ce23def7af55bb67d?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Nov 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - Enterprise Data Office](https://jobright.ai/jobs/info/69276f14f0beb0723262a28a?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Nov 26 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 26 |
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Intern - Data Science, IT Enterprise Management](https://jobright.ai/jobs/info/69276d59f0beb0723262a0e4?utm_campaign=1066&utm_source=git)** | 3500 104th St, Urbandale, IA, 50322, US | On Site | Nov 26 |
-| ↳ | **[Intern - Data Science, Operations Sustainment](https://jobright.ai/jobs/info/6929d38c66796e3028f8d368?utm_campaign=1066&utm_source=git)** | 3500 104th St, Urbandale, IA, 50322, US | On Site | Nov 26 |
-| **[KLA](https://www.kla.com)** | **[Supply Chain Data Science Intern](https://jobright.ai/jobs/info/692763e1d47de4798ecdc13b?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Nov 26 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[Medical Affairs Analytics Intern, Oncology](https://jobright.ai/jobs/info/692762bb91ceeb2e8a53ea7d?utm_campaign=1066&utm_source=git)** | Gaithersburg, MD | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
