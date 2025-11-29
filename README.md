@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Data Science Intern (AI/ML Research for Ion Chromatography)](https://jobright.ai/jobs/info/692ab7794c474121999cca2e?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Nov 29 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/692a02fa4c474121999cb201?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Nov 28 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[IT Systems Analyst - 2026 Summer Internship](https://jobright.ai/jobs/info/68d444cb8c62e63bc7fe7595?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 28 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Analyst, Software Asset Management](https://jobright.ai/jobs/info/691a91aa15b4156367188c97?utm_campaign=1066&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 28 |
@@ -68,7 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Veritiv](https://www.veritiv.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68d57ce163d77d6f6f3ef057?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Nov 28 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Wholesale Intern](https://jobright.ai/jobs/info/690d73f3d046ab6061cf6587?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Development (Quant Research) Internship – Summer 2026](https://jobright.ai/jobs/info/690cfe564a1b456627b1c37c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 28 |
-| ↳ | **[Algorithm Development (Quant Research) PhD Internship – Summer 2026](https://jobright.ai/jobs/info/690cf53c4a1b456627b1bd5c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 28 |
+| **[ABB](https://global.abb/group/en)** | **[Internship - Customer Quality Data Analyst](https://jobright.ai/jobs/info/692ab2f9fa28370be269792b?utm_campaign=1066&utm_source=git)** | Location, WV | Hybrid | Nov 28 |
+| **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Development (Quant Research) PhD Internship – Summer 2026](https://jobright.ai/jobs/info/690cf53c4a1b456627b1bd5c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[Atlassian](https://www.atlassian.com)** | **[Data Science Intern, 2026 Summer Canada](https://jobright.ai/jobs/info/6916e97e9c388539cbdffcb0?utm_campaign=1066&utm_source=git)** | Canada | Hybrid | Nov 28 |
 | **[Acadian Asset Management](http://www.acadian-asset.com/)** | **[Quant Research Intern - Summer 2026](https://jobright.ai/jobs/info/68f16117f462172a5a7d75b4?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Nov 28 |
 | **[Oatey Company](https://www.oatey.com//)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cb8fc4ba798c1a501d1c99?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Nov 28 |
@@ -115,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Data Science](https://jobright.ai/jobs/info/68ce24571ad6b16f028a2491?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Nov 26 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927c81791ceeb2e8a543118?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Nov 26 |
 | **[CN](http://www.cn.ca)** | **[Intern, Crew Management Center (West)](https://jobright.ai/jobs/info/692a49434c474121999cbdb5?utm_campaign=1066&utm_source=git)** | Edmonton, Alberta, CA | On Site | Nov 26 |
-| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927bf39f0beb0723262da96?utm_campaign=1066&utm_source=git)** | US-NC-Asheville | On Site | Nov 26 |
-| ↳ | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927b7fc91ceeb2e8a5428c7?utm_campaign=1066&utm_source=git)** | US-SC-Greenville | On Site | Nov 26 |
+| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927b7fc91ceeb2e8a5428c7?utm_campaign=1066&utm_source=git)** | US-SC-Greenville | On Site | Nov 26 |
+| ↳ | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927bf39f0beb0723262da96?utm_campaign=1066&utm_source=git)** | US-NC-Asheville | On Site | Nov 26 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Business Analytics Intern (Student)](https://jobright.ai/jobs/info/69278d71d47de4798ecde655?utm_campaign=1066&utm_source=git)** | Athens, GA | On Site | Nov 26 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - Enterprise Data Office](https://jobright.ai/jobs/info/69276f14f0beb0723262a28a?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Nov 26 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[For Love & Lemons](http://www.forloveandlemons.com/)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/6926d72a91ceeb2e8a53b7b6?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68cfe2e6846f0b04af685d42?utm_campaign=1066&utm_source=git)** | Panama City, FL | Hybrid | Nov 26 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68c649287d0db41142737cd3?utm_campaign=1066&utm_source=git)** | El Segundo, CA | Hybrid | Nov 26 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68cc17eb16d00d2beeb19a9e?utm_campaign=1066&utm_source=git)** | Annapolis Junction, MD | Hybrid | Nov 26 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/68ce1852e23def7af55c2170?utm_campaign=1066&utm_source=git)** | Charleston, SC | Hybrid | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
