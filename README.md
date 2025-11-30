@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DriveTime](https://www.drivetime.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68d0bb83dbd9fb154edef339?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Nov 30 |
+| **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68bb2f796105227d118a3a01?utm_campaign=1066&utm_source=git)** | Syracuse, NY | Hybrid | Nov 30 |
+| **[John Deere](https://www.deere.com)** | **[Data & Analytics Internship 2026a](https://jobright.ai/jobs/info/690da2e8d046ab6061cf7ce2?utm_campaign=1066&utm_source=git)** | Moline, IL | Hybrid | Nov 30 |
+| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/692c1f5a4c474121999cfb0b?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 30 |
 | **[Syngenta](http://www.syngenta.com)** | **[Functional Genomics Intern](https://jobright.ai/jobs/info/6925f445d47de4798ecd3092?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Nov 29 |
 | **[MetLife](http://www.metlife.com)** | **[METx Data & Analytics Intern](https://jobright.ai/jobs/info/69126d7cd1047e3565cfc8b0?utm_campaign=1066&utm_source=git)** | Cary, NC | Hybrid | Nov 29 |
 | **[Wichita State University](http://www.wichita.edu)** | **[NIAR ATLAS Data Science Student Assistant](https://jobright.ai/jobs/info/692b387066796e3028f904f9?utm_campaign=1066&utm_source=git)** | Wichita, KS | On Site | Nov 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - Enterprise Data Office](https://jobright.ai/jobs/info/69276f14f0beb0723262a28a?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Nov 26 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 26 |
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Intern - Data Science, IT Enterprise Management](https://jobright.ai/jobs/info/69276d59f0beb0723262a0e4?utm_campaign=1066&utm_source=git)** | 3500 104th St, Urbandale, IA, 50322, US | On Site | Nov 26 |
-| ↳ | **[Intern - Data Science, Operations Sustainment](https://jobright.ai/jobs/info/692bf9d766796e3028f924b2?utm_campaign=1066&utm_source=git)** | 3500 104th St, Urbandale, IA, 50322, US | On Site | Nov 26 |
-| **[KLA](https://www.kla.com)** | **[Supply Chain Data Science Intern](https://jobright.ai/jobs/info/692763e1d47de4798ecdc13b?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Nov 26 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[Medical Affairs Analytics Intern, Oncology](https://jobright.ai/jobs/info/692762bb91ceeb2e8a53ea7d?utm_campaign=1066&utm_source=git)** | Gaithersburg, MD | On Site | Nov 26 |
-| **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[IT Intern](https://jobright.ai/jobs/info/69275e00f0beb072326297d1?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
