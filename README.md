@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/691ca42d22a2cb4b9bd1be30?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Nov 30 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/6922a32938cd5478a8d54819?utm_campaign=1066&utm_source=git)** | Virginia Beach, VA | Hybrid | Nov 30 |
+| ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/691d59d00b7dff7341502cce?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
+| ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/691ca42d22a2cb4b9bd1be30?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Nov 30 |
 | ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/691ca6eeff702449841691f3?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Intern](https://jobright.ai/jobs/info/68f0b908eb273a32d976cbdb?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Nov 30 |
-| **[GenPark](https://genpark.ai)** | **[Data Science Specialist](https://jobright.ai/jobs/info/692c51e3fa28370be269af20?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Nov 30 |
 | **[Ibotta](https://home.ibotta.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69142e4b1465e02904e9b2b5?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Nov 30 |
 | **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68d713c145853d0e39cccb8a?utm_campaign=1066&utm_source=git)** | Redwood City, CA | Hybrid | Nov 30 |
 | **[DriveTime](https://www.drivetime.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68d0bb83dbd9fb154edef339?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Nov 30 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Zoox](https://www.zoox.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/690f0920d046ab6061d02f9a?utm_campaign=1066&utm_source=git)** | Foster City, CA | Hybrid | Nov 29 |
 | **[Texas Instruments](http://www.ti.com)** | **[Facilities Data Analytics Intern](https://jobright.ai/jobs/info/68d5ca011f7fb2169ab13b8f?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Nov 29 |
 | **[Medpace](http://www.medpace.com)** | **[Business Intelligence Internship - Summer 2026](https://jobright.ai/jobs/info/690e7545d046ab6061cfdcec?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 29 |
-| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/692ad28466796e3028f8f99e?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Nov 29 |
 | **[99](https://99app.com/)** | **[CX Intelligence Intern](https://jobright.ai/jobs/info/691ba19915b4156367191187?utm_campaign=1066&utm_source=git)** | Greater São Paulo Area | On Site | Nov 29 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/6921021e3f782d2f1afce3cc?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 29 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Data Science Intern (AI/ML Research for Ion Chromatography)](https://jobright.ai/jobs/info/692ab7794c474121999cca2e?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Nov 29 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Data Science](https://jobright.ai/jobs/info/68ce24571ad6b16f028a2491?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Nov 26 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927c81791ceeb2e8a543118?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Nov 26 |
 | **[CN](http://www.cn.ca)** | **[Intern, Crew Management Center (West)](https://jobright.ai/jobs/info/692a49434c474121999cbdb5?utm_campaign=1066&utm_source=git)** | Edmonton, Alberta, CA | On Site | Nov 26 |
-| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927b7fc91ceeb2e8a5428c7?utm_campaign=1066&utm_source=git)** | US-SC-Greenville | On Site | Nov 26 |
-| ↳ | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927bf39f0beb0723262da96?utm_campaign=1066&utm_source=git)** | US-NC-Asheville | On Site | Nov 26 |
+| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927bf39f0beb0723262da96?utm_campaign=1066&utm_source=git)** | US-NC-Asheville | On Site | Nov 26 |
+| ↳ | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927b7fc91ceeb2e8a5428c7?utm_campaign=1066&utm_source=git)** | US-SC-Greenville | On Site | Nov 26 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Business Analytics Intern (Student)](https://jobright.ai/jobs/info/69278d71d47de4798ecde655?utm_campaign=1066&utm_source=git)** | Athens, GA | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
