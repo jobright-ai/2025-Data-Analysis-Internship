@@ -80,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Cover Genius](http://www.covergenius.com)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/68f2a6d976a51a4307bc5e09?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 29 |
 | **[Global MedTeam](https://globalmedteam.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/692af1c5fa28370be2697e5c?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 29 |
 | **[Acadian Asset Management](http://www.acadian-asset.com/)** | **[Quant Developer Intern - Summer 2026](https://jobright.ai/jobs/info/68f16077f462172a5a7d74a3?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Nov 29 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/692b9ae566796e3028f90c28?utm_campaign=1066&utm_source=git)** | Oak Brook, IL | On Site | Nov 29 |
 | **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68bb39236105227d118a4411?utm_campaign=1066&utm_source=git)** | United States | Remote | Nov 29 |
 | **[Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org)** | **[Summer 2026 Graduate Internship – Data Science](https://jobright.ai/jobs/info/690e57af44146d3b6ec531ba?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Nov 29 |
 | **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68bb2ec95f3832749186cb92?utm_campaign=1066&utm_source=git)** | Davie, FL | Hybrid | Nov 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Intern - Data Science, IT Enterprise Management](https://jobright.ai/jobs/info/69276d59f0beb0723262a0e4?utm_campaign=1066&utm_source=git)** | 3500 104th St, Urbandale, IA, 50322, US | On Site | Nov 26 |
 | ↳ | **[Intern - Data Science, Operations Sustainment](https://jobright.ai/jobs/info/6929d38c66796e3028f8d368?utm_campaign=1066&utm_source=git)** | 3500 104th St, Urbandale, IA, 50322, US | On Site | Nov 26 |
 | **[KLA](https://www.kla.com)** | **[Supply Chain Data Science Intern](https://jobright.ai/jobs/info/692763e1d47de4798ecdc13b?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Nov 26 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[Medical Affairs Analytics Intern, Oncology](https://jobright.ai/jobs/info/692762bb91ceeb2e8a53ea7d?utm_campaign=1066&utm_source=git)** | Gaithersburg, MD | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
