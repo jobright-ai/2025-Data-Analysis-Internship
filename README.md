@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/691ca42d22a2cb4b9bd1be30?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Nov 30 |
+| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/691ca6eeff702449841691f3?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
+| **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Intern](https://jobright.ai/jobs/info/68f0b908eb273a32d976cbdb?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Nov 30 |
+| **[GenPark](https://genpark.ai)** | **[Data Science Specialist](https://jobright.ai/jobs/info/692c51e3fa28370be269af20?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Nov 30 |
+| **[Ibotta](https://home.ibotta.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69142e4b1465e02904e9b2b5?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Nov 30 |
 | **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68d713c145853d0e39cccb8a?utm_campaign=1066&utm_source=git)** | Redwood City, CA | Hybrid | Nov 30 |
 | **[DriveTime](https://www.drivetime.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68d0bb83dbd9fb154edef339?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Nov 30 |
 | **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68bb2f796105227d118a3a01?utm_campaign=1066&utm_source=git)** | Syracuse, NY | Hybrid | Nov 30 |
@@ -65,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[MetLife](http://www.metlife.com)** | **[METx Data & Analytics Intern](https://jobright.ai/jobs/info/69126d7cd1047e3565cfc8b0?utm_campaign=1066&utm_source=git)** | Cary, NC | Hybrid | Nov 29 |
 | **[Wichita State University](http://www.wichita.edu)** | **[NIAR ATLAS Data Science Student Assistant](https://jobright.ai/jobs/info/692b387066796e3028f904f9?utm_campaign=1066&utm_source=git)** | Wichita, KS | On Site | Nov 29 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/68ff7cbce0c73b3a1119bb80?utm_campaign=1066&utm_source=git)** | Westchester, IL | Hybrid | Nov 29 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Data Analytics Intern](https://jobright.ai/jobs/info/690ec68dd046ab6061d0118f?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Nov 29 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/68cd8a5ce23def7af55bb67d?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Nov 29 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/69081970ff462851fe00c5bf?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 29 |
 | ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/691c91ecff70244984168921?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Nov 29 |
@@ -73,9 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Assay Database Champion Intern](https://jobright.ai/jobs/info/690ec814d046ab6061d01285?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Nov 29 |
 | **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12f80e6870116b1f54621?utm_campaign=1066&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 29 |
 | ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12b35ef766b3f0fd0949c?utm_campaign=1066&utm_source=git)** | Glenview, IL | On Site | Nov 29 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Analytical Development Mass Spectrometry Informatics Intern](https://jobright.ai/jobs/info/690ec48f221b890c2781187d?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Nov 29 |
-| ↳ | **[2026 Summer Internship Program: Data Scientist for R&D Quality Intern](https://jobright.ai/jobs/info/690ec384d046ab6061d01022?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Nov 29 |
-| ↳ | **[2026 Summer Internship Program: Data Digital and Technology (DD&T) Intern](https://jobright.ai/jobs/info/690ec4afd046ab6061d01094?utm_campaign=1066&utm_source=git)** | Libertyville, IL | On Site | Nov 29 |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Data Scientist for R&D Quality Intern](https://jobright.ai/jobs/info/690ec384d046ab6061d01022?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Nov 29 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[R&D Biostatistics Intern](https://jobright.ai/jobs/info/690e719a44146d3b6ec54415?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Nov 29 |
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Business Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/690e54ba221b890c2780cd0f?utm_campaign=1066&utm_source=git)** | Greater Chicago Area | On Site | Nov 29 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, Business Insights (BI)](https://jobright.ai/jobs/info/691aaa5015b4156367189b9a?utm_campaign=1066&utm_source=git)** | Nashville, TN | Hybrid | Nov 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927b7fc91ceeb2e8a5428c7?utm_campaign=1066&utm_source=git)** | US-SC-Greenville | On Site | Nov 26 |
 | ↳ | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927bf39f0beb0723262da96?utm_campaign=1066&utm_source=git)** | US-NC-Asheville | On Site | Nov 26 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Business Analytics Intern (Student)](https://jobright.ai/jobs/info/69278d71d47de4798ecde655?utm_campaign=1066&utm_source=git)** | Athens, GA | On Site | Nov 26 |
-| **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - Enterprise Data Office](https://jobright.ai/jobs/info/69276f14f0beb0723262a28a?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Nov 26 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
