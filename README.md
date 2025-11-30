@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68d713c145853d0e39cccb8a?utm_campaign=1066&utm_source=git)** | Redwood City, CA | Hybrid | Nov 30 |
 | **[DriveTime](https://www.drivetime.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68d0bb83dbd9fb154edef339?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Nov 30 |
 | **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68bb2f796105227d118a3a01?utm_campaign=1066&utm_source=git)** | Syracuse, NY | Hybrid | Nov 30 |
 | **[John Deere](https://www.deere.com)** | **[Data & Analytics Internship 2026a](https://jobright.ai/jobs/info/690da2e8d046ab6061cf7ce2?utm_campaign=1066&utm_source=git)** | Moline, IL | Hybrid | Nov 30 |
-| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/692c1f5a4c474121999cfb0b?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 30 |
 | **[Syngenta](http://www.syngenta.com)** | **[Functional Genomics Intern](https://jobright.ai/jobs/info/6925f445d47de4798ecd3092?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Nov 29 |
 | **[MetLife](http://www.metlife.com)** | **[METx Data & Analytics Intern](https://jobright.ai/jobs/info/69126d7cd1047e3565cfc8b0?utm_campaign=1066&utm_source=git)** | Cary, NC | Hybrid | Nov 29 |
 | **[Wichita State University](http://www.wichita.edu)** | **[NIAR ATLAS Data Science Student Assistant](https://jobright.ai/jobs/info/692b387066796e3028f904f9?utm_campaign=1066&utm_source=git)** | Wichita, KS | On Site | Nov 29 |
@@ -91,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Texas Instruments](http://www.ti.com)** | **[Facilities Data Analytics Intern](https://jobright.ai/jobs/info/68d5ca011f7fb2169ab13b8f?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Nov 29 |
 | **[Medpace](http://www.medpace.com)** | **[Business Intelligence Internship - Summer 2026](https://jobright.ai/jobs/info/690e7545d046ab6061cfdcec?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Nov 29 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/692ad28466796e3028f8f99e?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Nov 29 |
+| **[99](https://99app.com/)** | **[CX Intelligence Intern](https://jobright.ai/jobs/info/691ba19915b4156367191187?utm_campaign=1066&utm_source=git)** | Greater São Paulo Area | On Site | Nov 29 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/6921021e3f782d2f1afce3cc?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Nov 29 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Data Science Intern (AI/ML Research for Ion Chromatography)](https://jobright.ai/jobs/info/692ab7794c474121999cca2e?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Nov 29 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/692a02fa4c474121999cb201?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Nov 28 |
@@ -114,7 +115,7 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Quantitative Analyst - Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6928d11c91ceeb2e8a54677f?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 27 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Quantitative Analyst - Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/6928cf4af0beb072326315bf?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 27 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 27 |
-| **[BMO](http://www.bmo.com)** | **[Quantitative Analyst - Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/6928a5f3d47de4798ece3639?utm_campaign=1066&utm_source=git)** | Chicago, IL, USA | On Site | Nov 27 |
+| **[BMO](http://www.bmo.com)** | **[Quantitative Analyst - Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/6928a7b1f0beb07232630fb7?utm_campaign=1066&utm_source=git)** | Chicago, IL, USA | On Site | Nov 27 |
 | ↳ | **[Quantitative Analyst - Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69289f9391ceeb2e8a545fa8?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN | On Site | Nov 27 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Data Analytics - R10661](https://jobright.ai/jobs/info/68f061199e09d311e043116e?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 27 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Data Steward](https://jobright.ai/jobs/info/69104990bb519377733eb60e?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Nov 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Business Analytics Intern (Student)](https://jobright.ai/jobs/info/69278d71d47de4798ecde655?utm_campaign=1066&utm_source=git)** | Athens, GA | On Site | Nov 26 |
 | **[Raymond James](http://www.raymondjames.com)** | **[2026 Summer Intern - Enterprise Data Office](https://jobright.ai/jobs/info/69276f14f0beb0723262a28a?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Nov 26 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 26 |
-| **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Intern - Data Science, IT Enterprise Management](https://jobright.ai/jobs/info/69276d59f0beb0723262a0e4?utm_campaign=1066&utm_source=git)** | 3500 104th St, Urbandale, IA, 50322, US | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
