@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist - Model Risk Management)](https://jobright.ai/jobs/info/692db8904c474121999d2ef6?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Dec 01 |
+| **[4Creeks, Inc.](https://www.4-creeks.com)** | **[Water Data Management Summer Internship 2026](https://jobright.ai/jobs/info/692da33b66796e3028f95590?utm_campaign=1066&utm_source=git)** | Visalia, CA | On Site | Dec 01 |
 | **[Stevens Capital Management LP](https://www.scm-lp.com)** | **[PhD Internship - Quantitative Research Analyst](https://jobright.ai/jobs/info/692d98454c474121999d2621?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 01 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/691abc11bcdbf3560c9da35b?utm_campaign=1066&utm_source=git)** | Garland, TX | On Site | Dec 01 |
 | **[Motion](https://www.motion.com)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/692d929c66796e3028f951b0?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Dec 01 |
@@ -66,7 +68,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - R&D - Clinical Data Science](https://jobright.ai/jobs/info/6911c197183be660d267dcd8?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Dec 01 |
 | ↳ | **[Graduate Intern - Research - Bioinformatics](https://jobright.ai/jobs/info/6911b694bb519377733f0e8d?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Dec 01 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[IBP Data Management Intern - The Toro Company](https://jobright.ai/jobs/info/68f387d39a65fd34585874c3?utm_campaign=1066&utm_source=git)** | Hennepin County, MN | On Site | Dec 01 |
-| **[Crest Vale](crestvale.us)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/692d6ee366796e3028f94b42?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Dec 01 |
 | **[4Creeks, Inc.](https://www.4-creeks.com)** | **[Water Data Management Summer Internship 2026](https://jobright.ai/jobs/info/692d49fd4c474121999d14f1?utm_campaign=1066&utm_source=git)** | Visalia, California, United States | On Site | Nov 30 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 30 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Research Intern](https://jobright.ai/jobs/info/692d2bf766796e3028f93ebf?utm_campaign=1066&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Seagate Technology](http://www.seagate.com)** | **[Advanced Data Storage Material Discovery Intern](https://jobright.ai/jobs/info/692036dda49a885af9a377c7?utm_campaign=1066&utm_source=git)** | Bloomington, MN | On Site | Nov 27 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 27 |
 | **[University of Utah](http://utah.edu)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/69281479d47de4798ece1bd1?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Nov 27 |
-| **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Graduate Data Science - Pharmacometrics Programming Internship](https://jobright.ai/jobs/info/692810f6f0beb0723262f4e2?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
