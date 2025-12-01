@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stevens Capital Management LP](https://www.scm-lp.com)** | **[PhD Internship - Quantitative Research Analyst](https://jobright.ai/jobs/info/692d98454c474121999d2621?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 01 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/691abc11bcdbf3560c9da35b?utm_campaign=1066&utm_source=git)** | Garland, TX | On Site | Dec 01 |
+| **[Motion](https://www.motion.com)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/692d929c66796e3028f951b0?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Dec 01 |
+| **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/691184fa183be660d267c46b?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Dec 01 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 01 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Clinical Development - Biostatistics, Oncology](https://jobright.ai/jobs/info/6911becb988c2b7b4ec56804?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Dec 01 |
 | ↳ | **[Intern - R&D - Clinical Data Science](https://jobright.ai/jobs/info/6911c197183be660d267dcd8?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Dec 01 |
 | ↳ | **[Graduate Intern - Research - Bioinformatics](https://jobright.ai/jobs/info/6911b694bb519377733f0e8d?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Dec 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Nov 27 |
 | **[University of Utah](http://utah.edu)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/69281479d47de4798ece1bd1?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Nov 27 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Summer 2026 - Graduate Data Science - Pharmacometrics Programming Internship](https://jobright.ai/jobs/info/692810f6f0beb0723262f4e2?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Nov 27 |
-| **[Tinder](http://www.tinder.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6920fe4400c9ee50eaeca8be?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
-| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927c6c7d47de4798ece064c?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Nov 26 |
-| **[Analysis Group](http://www.analysisgroup.com)** | **[Senior Data Science Intern (PhD) - Montreal (2026 Start Date)](https://jobright.ai/jobs/info/6927c40c91ceeb2e8a542e93?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 26 |
-| ↳ | **[Data Science Intern (Master's) - Boston (2026 Start Date)](https://jobright.ai/jobs/info/6927c318f0beb0723262dc9f?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Nov 26 |
-| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927c135f0beb0723262db8e?utm_campaign=1066&utm_source=git)** | Asheville, NC | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
