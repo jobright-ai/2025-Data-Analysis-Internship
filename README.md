@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/692cae7066796e3028f933e7?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Nov 30 |
-| **[Ededge Groups](http://www.ededgelearning.com)** | **[Data analyst  Training &  Internship program](https://jobright.ai/jobs/info/692c95204c474121999d0438?utm_campaign=1066&utm_source=git)** | Canada | Remote | Nov 30 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/6922a32938cd5478a8d54819?utm_campaign=1066&utm_source=git)** | Virginia Beach, VA | Hybrid | Nov 30 |
 | ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/691d59d00b7dff7341502cce?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
 | ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/691ca42d22a2cb4b9bd1be30?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Nov 30 |
@@ -156,5 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Data Science](https://jobright.ai/jobs/info/68ce24571ad6b16f028a2491?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Nov 26 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927c81791ceeb2e8a543118?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Nov 26 |
 | **[CN](http://www.cn.ca)** | **[Intern, Crew Management Center (West)](https://jobright.ai/jobs/info/692a49434c474121999cbdb5?utm_campaign=1066&utm_source=git)** | Edmonton, Alberta, CA | On Site | Nov 26 |
-| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927b7fc91ceeb2e8a5428c7?utm_campaign=1066&utm_source=git)** | US-SC-Greenville | On Site | Nov 26 |
+| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927bf39f0beb0723262da96?utm_campaign=1066&utm_source=git)** | US-NC-Asheville | On Site | Nov 26 |
+| ↳ | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927b7fc91ceeb2e8a5428c7?utm_campaign=1066&utm_source=git)** | US-SC-Greenville | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
