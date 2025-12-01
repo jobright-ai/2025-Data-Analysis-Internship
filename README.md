@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Research Intern](https://jobright.ai/jobs/info/692d2bf766796e3028f93ebf?utm_campaign=1066&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
+| **[Root Inc.](https://www.root.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/692d1e0f66796e3028f93dd9?utm_campaign=1066&utm_source=git)** | Remote (United States) | Remote | Nov 30 |
 | **[Point72](https://www.point72.com)** | **[2026 Spring Internship - MS/PhD Data Scientist, Proprietary Research](https://jobright.ai/jobs/info/692d02e04c474121999d0d66?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Nov 30 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/6922a32938cd5478a8d54819?utm_campaign=1066&utm_source=git)** | Virginia Beach, VA | Hybrid | Nov 30 |
 | ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/691d59d00b7dff7341502cce?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
@@ -99,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Data Science Intern (AI/ML Research for Ion Chromatography)](https://jobright.ai/jobs/info/692ab7794c474121999cca2e?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Nov 29 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/692a02fa4c474121999cb201?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Nov 28 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[IT Systems Analyst - 2026 Summer Internship](https://jobright.ai/jobs/info/68d444cb8c62e63bc7fe7595?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 28 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Analyst, Software Asset Management](https://jobright.ai/jobs/info/691a91aa15b4156367188c97?utm_campaign=1066&utm_source=git)** | Newtown Square, PA | Hybrid | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f137b9e6870116b1f54e72?utm_campaign=1066&utm_source=git)** | Kenosha, WI | On Site | Nov 28 |
 | ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12d96f462172a5a7d3c42?utm_campaign=1066&utm_source=git)** | Waukegan, IL | On Site | Nov 28 |
 | **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6929dd2cfa28370be269582e?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Nov 28 |
@@ -118,7 +119,7 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Quantitative Analyst - Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6928d11c91ceeb2e8a54677f?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 27 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Quantitative Analyst - Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/6928cf4af0beb072326315bf?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 27 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 27 |
-| **[BMO](http://www.bmo.com)** | **[Quantitative Analyst - Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/6928a7b1f0beb07232630fb7?utm_campaign=1066&utm_source=git)** | Chicago, IL, USA | On Site | Nov 27 |
+| **[BMO](http://www.bmo.com)** | **[Quantitative Analyst - Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/6928a5f3d47de4798ece3639?utm_campaign=1066&utm_source=git)** | Chicago, IL, USA | On Site | Nov 27 |
 | ↳ | **[Quantitative Analyst - Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69289f9391ceeb2e8a545fa8?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN | On Site | Nov 27 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Data Analytics - R10661](https://jobright.ai/jobs/info/68f061199e09d311e043116e?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 27 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Data Steward](https://jobright.ai/jobs/info/69104990bb519377733eb60e?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Nov 27 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Data Science](https://jobright.ai/jobs/info/68ce24571ad6b16f028a2491?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Nov 26 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927c81791ceeb2e8a543118?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Nov 26 |
 | **[CN](http://www.cn.ca)** | **[Intern, Crew Management Center (West)](https://jobright.ai/jobs/info/692a49434c474121999cbdb5?utm_campaign=1066&utm_source=git)** | Edmonton, Alberta, CA | On Site | Nov 26 |
-| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927b7fc91ceeb2e8a5428c7?utm_campaign=1066&utm_source=git)** | US-SC-Greenville | On Site | Nov 26 |
-| ↳ | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927bf39f0beb0723262da96?utm_campaign=1066&utm_source=git)** | US-NC-Asheville | On Site | Nov 26 |
+| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927bf39f0beb0723262da96?utm_campaign=1066&utm_source=git)** | US-NC-Asheville | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
