@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 30 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Research Intern](https://jobright.ai/jobs/info/692d2bf766796e3028f93ebf?utm_campaign=1066&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
+| ↳ | **[Harmful Algae and Toxins Data Analysis Intern](https://jobright.ai/jobs/info/692d4461fa28370be269c3b9?utm_campaign=1066&utm_source=git)** | Wake County, NC | Remote | Nov 30 |
 | **[Root Inc.](https://www.root.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/692d1e0f66796e3028f93dd9?utm_campaign=1066&utm_source=git)** | Remote (United States) | Remote | Nov 30 |
 | **[Point72](https://www.point72.com)** | **[2026 Spring Internship - MS/PhD Data Scientist, Proprietary Research](https://jobright.ai/jobs/info/692d02e04c474121999d0d66?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Nov 30 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/6922a32938cd5478a8d54819?utm_campaign=1066&utm_source=git)** | Virginia Beach, VA | Hybrid | Nov 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927bc33f0beb0723262d890?utm_campaign=1066&utm_source=git)** | Wilmington, NC | On Site | Nov 26 |
 | **[Waymo](https://waymo.com)** | **[2026 Summer Intern, PhD, Data Science](https://jobright.ai/jobs/info/68ce24571ad6b16f028a2491?utm_campaign=1066&utm_source=git)** | Mountain View, CA | On Site | Nov 26 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927c81791ceeb2e8a543118?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Nov 26 |
-| **[CN](http://www.cn.ca)** | **[Intern, Crew Management Center (West)](https://jobright.ai/jobs/info/692a49434c474121999cbdb5?utm_campaign=1066&utm_source=git)** | Edmonton, Alberta, CA | On Site | Nov 26 |
-| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927bf39f0beb0723262da96?utm_campaign=1066&utm_source=git)** | US-NC-Asheville | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
