@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist - Model Risk Management)](https://jobright.ai/jobs/info/692db8904c474121999d2ef6?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Dec 01 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Business Systems Analyst](https://jobright.ai/jobs/info/692dc17266796e3028f96045?utm_campaign=1066&utm_source=git)** | 4001 Embarcadero, Arlington, TX, 76014, US | Remote | Dec 01 |
 | **[4Creeks, Inc.](https://www.4-creeks.com)** | **[Water Data Management Summer Internship 2026](https://jobright.ai/jobs/info/692da33b66796e3028f95590?utm_campaign=1066&utm_source=git)** | Visalia, CA | On Site | Dec 01 |
 | **[Stevens Capital Management LP](https://www.scm-lp.com)** | **[PhD Internship - Quantitative Research Analyst](https://jobright.ai/jobs/info/692d98454c474121999d2621?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 01 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/691abc11bcdbf3560c9da35b?utm_campaign=1066&utm_source=git)** | Garland, TX | On Site | Dec 01 |
