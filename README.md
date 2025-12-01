@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/692cae7066796e3028f933e7?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Nov 30 |
+| **[Point72](https://www.point72.com)** | **[2026 Spring Internship - MS/PhD Data Scientist, Proprietary Research](https://jobright.ai/jobs/info/692d02e04c474121999d0d66?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Nov 30 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/6922a32938cd5478a8d54819?utm_campaign=1066&utm_source=git)** | Virginia Beach, VA | Hybrid | Nov 30 |
 | ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/691d59d00b7dff7341502cce?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Nov 30 |
 | ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/691ca42d22a2cb4b9bd1be30?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Nov 30 |
@@ -118,7 +118,7 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Quantitative Analyst - Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6928d11c91ceeb2e8a54677f?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 27 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Quantitative Analyst - Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/6928cf4af0beb072326315bf?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Nov 27 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Nov 27 |
-| **[BMO](http://www.bmo.com)** | **[Quantitative Analyst - Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/6928a5f3d47de4798ece3639?utm_campaign=1066&utm_source=git)** | Chicago, IL, USA | On Site | Nov 27 |
+| **[BMO](http://www.bmo.com)** | **[Quantitative Analyst - Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/6928a7b1f0beb07232630fb7?utm_campaign=1066&utm_source=git)** | Chicago, IL, USA | On Site | Nov 27 |
 | ↳ | **[Quantitative Analyst - Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69289f9391ceeb2e8a545fa8?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN | On Site | Nov 27 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Data Analytics - R10661](https://jobright.ai/jobs/info/68f061199e09d311e043116e?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Nov 27 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Data Steward](https://jobright.ai/jobs/info/69104990bb519377733eb60e?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Nov 27 |
