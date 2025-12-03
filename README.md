@@ -57,8 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/6913caccd1047e3565d06209?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 03 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Automation & Power BI Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/6919fbc715b4156367187c09?utm_campaign=1066&utm_source=git)** | Georgia, United States | On Site | Dec 03 |
+| **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68ccdfdd5954791a1d700348?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Dec 03 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Data Analytics Intern - Summer 2025 (Georgia, United States)](https://jobright.ai/jobs/info/691aa5fabcdbf3560c9d9713?utm_campaign=1066&utm_source=git)** | Georgia, United States | On Site | Dec 03 |
+| **[Aptiv](http://www.aptiv.com)** | **[Vehicle System Data Analytic Intern](https://jobright.ai/jobs/info/68f7f060b0edcf159dc8c23c?utm_campaign=1066&utm_source=git)** | Troy, MI | On Site | Dec 03 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - People Data Scientist](https://jobright.ai/jobs/info/68f806fcb0edcf159dc8dd9c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 03 |
+| **[Experian](http://www.experianplc.com)** | **[Data Science Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/6913a5e6d1047e3565d04c93?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Dec 03 |
+| **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68dac2a607c157682e56d2dc?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Dec 03 |
+| ↳ | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68d195c417554c2d9eedcf08?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Dec 03 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Business Analyst](https://jobright.ai/jobs/info/68cd1a8de23def7af55b560f?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Dec 03 |
 | **[TEHORA inc.](https://www.tehora.ca)** | **[Analyste fonctionnel gÃ©omatique internÃ© (F1B)](https://jobright.ai/jobs/info/692fe065fa28370be26adfae?utm_campaign=1066&utm_source=git)** | MontrÃ©al, Quebec, Canada | Hybrid | Dec 02 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Enterprise Reporting](https://jobright.ai/jobs/info/692fe078fa28370be26adfb9?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Dec 02 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Enterprise Reporting](https://jobright.ai/jobs/info/692fd969fa28370be26add14?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Dec 02 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Data Scienctist Intern](https://jobright.ai/jobs/info/692fa9d54c474121999e19e7?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Dec 02 |
 | **[Simmons Bank](https://www.simmonsbank.com/)** | **[Power BI Intern](https://jobright.ai/jobs/info/692fa4a0ef4b48533d147afb?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Dec 02 |
 | ↳ | **[Power BI Intern](https://jobright.ai/jobs/info/692fa27e4c474121999e141a?utm_campaign=1066&utm_source=git)** | Little Rock, AR | On Site | Dec 02 |
@@ -126,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Clarity AI](https://clarity.ai)** | **[Intern - Data Research](https://jobright.ai/jobs/info/692e5348fa28370be26a3852?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 01 |
 | **[TGS](http://www.magseis.com)** | **[Multi-Client Business Analytics Intern](https://jobright.ai/jobs/info/692e50d9ef4b48533d13ea30?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Dec 01 |
 | **[Camping World](http://www.campingworld.com/)** | **[Analytics and Insights Intern](https://jobright.ai/jobs/info/692e4d304c474121999d831f?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 01 |
-| **[Melotech](https://www.melotech.ai)** | **[Data Science Intern, Music & Audio](https://jobright.ai/jobs/info/692e8811ef4b48533d1405e5?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Dec 01 |
-| ↳ | **[Data Science Intern, Music & Audio](https://jobright.ai/jobs/info/692e6c36fa28370be26a4861?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Dec 01 |
+| **[Melotech](https://www.melotech.ai)** | **[Data Science Intern, Music & Audio](https://jobright.ai/jobs/info/692e6c36fa28370be26a4861?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Dec 01 |
+| ↳ | **[Data Science Intern, Music & Audio](https://jobright.ai/jobs/info/692e8811ef4b48533d1405e5?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Dec 01 |
 | ↳ | **[Data Science Intern, Music & Audio](https://jobright.ai/jobs/info/692e6938ef4b48533d13fafc?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Dec 01 |
 | **[Metrea](https://www.metrea.aero)** | **[Research Intern](https://jobright.ai/jobs/info/692e47ae4c474121999d7f78?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | Dec 01 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Commercial Analytics](https://jobright.ai/jobs/info/692e46754c474121999d7e5d?utm_campaign=1066&utm_source=git)** | Marlborough, MA, United States | On Site | Dec 01 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Quantitative Research Intern](https://jobright.ai/jobs/info/692f4fddef4b48533d1441c7?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 01 |
 | **[The Hartford](http://www.thehartford.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/692e1bfefa28370be26a15b4?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Dec 01 |
 | **[PING](http://ping.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/692df07c4c474121999d488f?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Dec 01 |
-| **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - INDOT - Data Analysis](https://jobright.ai/jobs/info/692758d491ceeb2e8a53e40e?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Dec 01 |
-| **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/692dee59fa28370be269f794?utm_campaign=1066&utm_source=git)** | Plymouth, MN | On Site | Dec 01 |
-| **[Mastronardi Produce](https://www.sunsetgrown.com)** | **[Data Analyst Intern - Spring 2026](https://jobright.ai/jobs/info/692e163bfa28370be26a1136?utm_campaign=1066&utm_source=git)** | Livonia, MI | On Site | Dec 01 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ESPN Research Intern, Summer 2026](https://jobright.ai/jobs/info/692e0a25fa28370be26a09e8?utm_campaign=1066&utm_source=git)** | Bristol, CT, USA | Hybrid | Dec 01 |
-| **[Hyundai Motor Company](https://www.hyundai.com)** | **[Intern, Emerging Issues Data Analysis](https://jobright.ai/jobs/info/692de3d066796e3028f96fa7?utm_campaign=1066&utm_source=git)** | Fountain Valley, CA | On Site | Dec 01 |
-| **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Data, AI, & Analytics Intern](https://jobright.ai/jobs/info/692de363fa28370be269f2aa?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Dec 01 |
-| **[Hyundai Motor Company](https://www.hyundai.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/692de2b7fa28370be269f250?utm_campaign=1066&utm_source=git)** | Fountain Valley, CA | On Site | Dec 01 |
-| ↳ | **[Intern, Data Analytics & Performance Optimization](https://jobright.ai/jobs/info/692df35b4c474121999d4ab1?utm_campaign=1066&utm_source=git)** | Fountain Valley, CA | On Site | Dec 01 |
-| **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Data Maintenance Intern](https://jobright.ai/jobs/info/692e16164c474121999d6019?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Dec 01 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Intern](https://jobright.ai/jobs/info/692e65dcef4b48533d13f8b0?utm_campaign=1066&utm_source=git)** | United States-Massachusetts-Boston-250 Washington Street | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
