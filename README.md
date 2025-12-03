@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Element Biosciences](https://www.elementbiosciences.com)** | **[Genetic Data Scientist Intern](https://jobright.ai/jobs/info/69307384ef4b48533d14bb46?utm_campaign=1066&utm_source=git)** | San Diego - Headquarters | On Site | Dec 03 |
+| **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2026 Summer Internship – Data Science](https://jobright.ai/jobs/info/68bea7efc4c5904ff6007578?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Dec 03 |
+| **[AtriCure, Inc.](http://www.atricure.com)** | **[IT Co-op - Spring 2026 (Data Science)](https://jobright.ai/jobs/info/691d52bb0b7dff734150290e?utm_campaign=1066&utm_source=git)** | Mason, OH | On Site | Dec 03 |
+| **[Gallagher](http://www.ajg.com)** | **[U.S Internship - Data Analytics](https://jobright.ai/jobs/info/68cc5b1b7342c7623ae62d7c?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | On Site | Dec 03 |
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Data Analytics Engineering Intern](https://jobright.ai/jobs/info/6915b649286ccf0a151302ce?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Dec 03 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/68daddaf0b832179ca4b2199?utm_campaign=1066&utm_source=git)** | Fort Worth, TX | Hybrid | Dec 03 |
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Procurement Intern - Data Analyst (Summer 2026)](https://jobright.ai/jobs/info/6913fba5e344172248f759f0?utm_campaign=1066&utm_source=git)** | Greater Chicago Area | On Site | Dec 03 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Global Epidemiology Intern (PhD)](https://jobright.ai/jobs/info/6913b05fe344172248f7343f?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Dec 03 |
 | **[Cytiva](https://www.cytivalifesciences.com/en/se)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6913939be344172248f7239a?utm_campaign=1066&utm_source=git)** | Logan, UT | On Site | Dec 03 |
@@ -96,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[JLG Industries](http://www.jlg.com/en)** | **[Data Scientist Intern - Digital Technology](https://jobright.ai/jobs/info/692f9906fa28370be26abe23?utm_campaign=1066&utm_source=git)** | Hagerstown, MD | On Site | Dec 02 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Enterprise Reporting](https://jobright.ai/jobs/info/692f7019ef4b48533d14556c?utm_campaign=1066&utm_source=git)** | 350 North Humphreys Boulevard, Memphis, TN, 38120, US | On Site | Dec 02 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (PhD)](https://jobright.ai/jobs/info/692f6acffa28370be26a9edd?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 02 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Data Scientist Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/692fa62b4c474121999e172a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 02 |
-| ↳ | **[Data Scientist Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/692fa572ef4b48533d147bb1?utm_campaign=1066&utm_source=git)** | Schaumburg, IL | On Site | Dec 02 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Data Scientist Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/692fa572ef4b48533d147bb1?utm_campaign=1066&utm_source=git)** | Schaumburg, IL | On Site | Dec 02 |
+| ↳ | **[Data Scientist Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/692fa62b4c474121999e172a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 02 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Data Systems](https://jobright.ai/jobs/info/692f5eb54c474121999de3be?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Dec 02 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (BS/MS)](https://jobright.ai/jobs/info/692f5dacfa28370be26a9417?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 02 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Networking Research Group](https://jobright.ai/jobs/info/692f5d09ef4b48533d144875?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Dec 02 |
@@ -144,17 +149,12 @@ For a complete list, click the following sortable link below:
 | **[TransUnion](http://www.transunion.com)** | **[Data Science & Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/692e6676fa28370be26a43c1?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 01 |
 | **[Clarity AI](https://clarity.ai)** | **[Intern - Data Research](https://jobright.ai/jobs/info/692e5348fa28370be26a3852?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 01 |
 | **[TGS](http://www.magseis.com)** | **[Multi-Client Business Analytics Intern](https://jobright.ai/jobs/info/692e50d9ef4b48533d13ea30?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Dec 01 |
-| **[Camping World](http://www.campingworld.com/)** | **[Analytics and Insights Intern](https://jobright.ai/jobs/info/692e4d304c474121999d831f?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 01 |
 | **[Melotech](https://www.melotech.ai)** | **[Data Science Intern, Music & Audio](https://jobright.ai/jobs/info/692e6c36fa28370be26a4861?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Dec 01 |
 | ↳ | **[Data Science Intern, Music & Audio](https://jobright.ai/jobs/info/692e8811ef4b48533d1405e5?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Dec 01 |
 | ↳ | **[Data Science Intern, Music & Audio](https://jobright.ai/jobs/info/692e6938ef4b48533d13fafc?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Dec 01 |
 | **[Metrea](https://www.metrea.aero)** | **[Research Intern](https://jobright.ai/jobs/info/692e47ae4c474121999d7f78?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | Dec 01 |
-| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Commercial Analytics](https://jobright.ai/jobs/info/692e46754c474121999d7e5d?utm_campaign=1066&utm_source=git)** | Marlborough, MA, United States | On Site | Dec 01 |
-| ↳ | **[Intern, Commercial Analytics](https://jobright.ai/jobs/info/692e3e0afa28370be26a2aa1?utm_campaign=1066&utm_source=git)** | Marlborough, MA | On Site | Dec 01 |
+| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Commercial Analytics](https://jobright.ai/jobs/info/692e3e0afa28370be26a2aa1?utm_campaign=1066&utm_source=git)** | Marlborough, MA | On Site | Dec 01 |
 | **[Netflix](https://www.netflix.com)** | **[Experimentation & Causal Inference Intern, Summer 2026](https://jobright.ai/jobs/info/692e3ab7ef4b48533d13dd77?utm_campaign=1066&utm_source=git)** | Los Gatos, CA | On Site | Dec 01 |
 | **[Lyft](https://www.lyft.com/)** | **[Data Science Intern, Algorithms (Summer 2026)](https://jobright.ai/jobs/info/692e34c1fa28370be26a2403?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Dec 01 |
 | ↳ | **[Data Science Intern, Algorithms (Summer 2026)](https://jobright.ai/jobs/info/692e34b1fa28370be26a23ff?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
-| **[IG Wealth Management](https://ig.ca)** | **[Summer Intern 2026 - Data Office](https://jobright.ai/jobs/info/692e33d94c474121999d724b?utm_campaign=1066&utm_source=git)** | Manitoba, Canada | Hybrid | Dec 01 |
-| **[Netflix](https://www.netflix.com)** | **[Data Visualization Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/692e33d04c474121999d7240?utm_campaign=1066&utm_source=git)** | Los Gatos, CA | On Site | Dec 01 |
-| **[Corewell Health](https://corewellhealth.org)** | **[Biostatistician Intern](https://jobright.ai/jobs/info/692e52d0fa28370be26a380a?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | Hybrid | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
