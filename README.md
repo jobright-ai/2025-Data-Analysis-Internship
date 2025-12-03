@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TEHORA inc.](https://www.tehora.ca)** | **[Analyste fonctionnel gÃ©omatique internÃ© (F1B)](https://jobright.ai/jobs/info/692fe065fa28370be26adfae?utm_campaign=1066&utm_source=git)** | MontrÃ©al, Quebec, Canada | Hybrid | Dec 02 |
+| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Enterprise Reporting](https://jobright.ai/jobs/info/692fe078fa28370be26adfb9?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Dec 02 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Data Scienctist Intern](https://jobright.ai/jobs/info/692fa9d54c474121999e19e7?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Dec 02 |
 | **[Simmons Bank](https://www.simmonsbank.com/)** | **[Power BI Intern](https://jobright.ai/jobs/info/692fa4a0ef4b48533d147afb?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Dec 02 |
 | ↳ | **[Power BI Intern](https://jobright.ai/jobs/info/692fa27e4c474121999e141a?utm_campaign=1066&utm_source=git)** | Little Rock, AR | On Site | Dec 02 |
@@ -73,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[JLG Industries](http://www.jlg.com/en)** | **[Data Scientist Intern - Digital Technology](https://jobright.ai/jobs/info/692f9906fa28370be26abe23?utm_campaign=1066&utm_source=git)** | Hagerstown, MD | On Site | Dec 02 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Enterprise Reporting](https://jobright.ai/jobs/info/692f7019ef4b48533d14556c?utm_campaign=1066&utm_source=git)** | 350 North Humphreys Boulevard, Memphis, TN, 38120, US | On Site | Dec 02 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (PhD)](https://jobright.ai/jobs/info/692f6acffa28370be26a9edd?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 02 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Data Scientist Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/692fa62b4c474121999e172a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 02 |
-| ↳ | **[Data Scientist Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/692fa572ef4b48533d147bb1?utm_campaign=1066&utm_source=git)** | Schaumburg, IL | On Site | Dec 02 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Data Scientist Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/692fa572ef4b48533d147bb1?utm_campaign=1066&utm_source=git)** | Schaumburg, IL | On Site | Dec 02 |
+| ↳ | **[Data Scientist Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/692fa62b4c474121999e172a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 02 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Data Systems](https://jobright.ai/jobs/info/692f5eb54c474121999de3be?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Dec 02 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (BS/MS)](https://jobright.ai/jobs/info/692f5dacfa28370be26a9417?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 02 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Networking Research Group](https://jobright.ai/jobs/info/692f5d09ef4b48533d144875?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Dec 02 |
@@ -125,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Clarity AI](https://clarity.ai)** | **[Intern - Data Research](https://jobright.ai/jobs/info/692e5348fa28370be26a3852?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 01 |
 | **[TGS](http://www.magseis.com)** | **[Multi-Client Business Analytics Intern](https://jobright.ai/jobs/info/692e50d9ef4b48533d13ea30?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Dec 01 |
 | **[Camping World](http://www.campingworld.com/)** | **[Analytics and Insights Intern](https://jobright.ai/jobs/info/692e4d304c474121999d831f?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 01 |
-| **[Melotech](https://www.melotech.ai)** | **[Data Science Intern, Music & Audio](https://jobright.ai/jobs/info/692e6c36fa28370be26a4861?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Dec 01 |
-| ↳ | **[Data Science Intern, Music & Audio](https://jobright.ai/jobs/info/692e8811ef4b48533d1405e5?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Dec 01 |
+| **[Melotech](https://www.melotech.ai)** | **[Data Science Intern, Music & Audio](https://jobright.ai/jobs/info/692e8811ef4b48533d1405e5?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Dec 01 |
+| ↳ | **[Data Science Intern, Music & Audio](https://jobright.ai/jobs/info/692e6c36fa28370be26a4861?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Remote | Dec 01 |
 | ↳ | **[Data Science Intern, Music & Audio](https://jobright.ai/jobs/info/692e6938ef4b48533d13fafc?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Dec 01 |
 | **[Metrea](https://www.metrea.aero)** | **[Research Intern](https://jobright.ai/jobs/info/692e47ae4c474121999d7f78?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | Dec 01 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Commercial Analytics](https://jobright.ai/jobs/info/692e46754c474121999d7e5d?utm_campaign=1066&utm_source=git)** | Marlborough, MA, United States | On Site | Dec 01 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Hyundai Motor Company](https://www.hyundai.com)** | **[Intern, Emerging Issues Data Analysis](https://jobright.ai/jobs/info/692de3d066796e3028f96fa7?utm_campaign=1066&utm_source=git)** | Fountain Valley, CA | On Site | Dec 01 |
 | **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Data, AI, & Analytics Intern](https://jobright.ai/jobs/info/692de363fa28370be269f2aa?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Dec 01 |
 | **[Hyundai Motor Company](https://www.hyundai.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/692de2b7fa28370be269f250?utm_campaign=1066&utm_source=git)** | Fountain Valley, CA | On Site | Dec 01 |
-| ↳ | **[Intern, Data Analytics & Performance Optimization](https://jobright.ai/jobs/info/692df35b4c474121999d4ab1?utm_campaign=1066&utm_source=git)** | Fountain Valley, CA | On Site | Dec 01 |
-| **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Data Maintenance Intern](https://jobright.ai/jobs/info/692e16164c474121999d6019?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Dec 01 |
-| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Contracted Student Intern](https://jobright.ai/jobs/info/692e65dcef4b48533d13f8b0?utm_campaign=1066&utm_source=git)** | United States-Massachusetts-Boston-250 Washington Street | On Site | Dec 01 |
+| **[Centene Corporation](http://www.centene.com)** | **[Data Science Intern (Graduate - Summer 2026)](https://jobright.ai/jobs/info/692fe5c4ef4b48533d149785?utm_campaign=1066&utm_source=git)** | Remote-MO | Remote | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
