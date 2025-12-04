@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JEA](https://www.jea.com)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/69315734ef4b48533d153b98?utm_campaign=1066&utm_source=git)** | 225 N Pearl Street225 N Pearl Street | On Site | Dec 04 |
+| **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/6931550bfa28370be26b830a?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Dec 04 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Bioinformatics](https://jobright.ai/jobs/info/69313566ef4b48533d152f45?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 03 |
 | ↳ | **[Intern, Statistical Programming](https://jobright.ai/jobs/info/69312af94c474121999ec6df?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 03 |
 | **[Molex](http://www.molex.com)** | **[Molex Data Analyst Engineer Intern - Summer 2026](https://jobright.ai/jobs/info/69312a454c474121999ec6a2?utm_campaign=1066&utm_source=git)** | Lake City, PA | On Site | Dec 03 |
@@ -82,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 03 |
 | **[Veriswap](https://veriswap.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/693107f6ef4b48533d151b6c?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 03 |
 | **[JLens](http://www.jlensnetwork.org/)** | **[Research Analyst (Spring Intern 2026)](https://jobright.ai/jobs/info/6930c5e64c474121999e8aba?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 03 |
-| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Bioinformatics](https://jobright.ai/jobs/info/6930e30eef4b48533d15057b?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 03 |
 | **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/691e83e33f782d2f1afb5842?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 03 |
 | **[Terex Corporation](http://www.terex.com)** | **[Business & Data Analyst Intern](https://jobright.ai/jobs/info/6930ddd2fa28370be26b4b33?utm_campaign=1066&utm_source=git)** | Watertown, SD | On Site | Dec 03 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6924f01bc0cefa13343e4700?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 03 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[JLG Industries](http://www.jlg.com/en)** | **[Data Scientist Intern - Digital Technology](https://jobright.ai/jobs/info/692f9906fa28370be26abe23?utm_campaign=1066&utm_source=git)** | Hagerstown, MD | On Site | Dec 02 |
 | **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Enterprise Reporting](https://jobright.ai/jobs/info/692f7019ef4b48533d14556c?utm_campaign=1066&utm_source=git)** | 350 North Humphreys Boulevard, Memphis, TN, 38120, US | On Site | Dec 02 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (PhD)](https://jobright.ai/jobs/info/692f6acffa28370be26a9edd?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 02 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Data Scientist Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/692fa572ef4b48533d147bb1?utm_campaign=1066&utm_source=git)** | Schaumburg, IL | On Site | Dec 02 |
-| ↳ | **[Data Scientist Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/692fa62b4c474121999e172a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 02 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Data Scientist Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/692fa62b4c474121999e172a?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 02 |
+| ↳ | **[Data Scientist Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/692fa572ef4b48533d147bb1?utm_campaign=1066&utm_source=git)** | Schaumburg, IL | On Site | Dec 02 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Data Systems](https://jobright.ai/jobs/info/692f5eb54c474121999de3be?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Dec 02 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[Quantitative Research Intern (BS/MS)](https://jobright.ai/jobs/info/692f5dacfa28370be26a9417?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 02 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Networking Research Group](https://jobright.ai/jobs/info/692f5d09ef4b48533d144875?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Dec 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
