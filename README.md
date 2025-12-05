@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Data Analysis & Performance Reporting](https://jobright.ai/jobs/info/693287a7764507023d1af39c?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Dec 04 |
+| **[Red Alpha](https://www.red-alpha.com/)** | **[Data Science Intern - Summer 2026 (TS/SCI w/ Polygraph Clearance Required)](https://jobright.ai/jobs/info/69327768764507023d1aee2b?utm_campaign=1066&utm_source=git)** | Columbia, MD | On Site | Dec 04 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Data Scientist Internship - Summer 2026](https://jobright.ai/jobs/info/693259d7f131d96e4845b702?utm_campaign=1066&utm_source=git)** | Bloomington, MN | Remote | Dec 04 |
 | **[University of Washington](http://www.washington.edu)** | **[Research Scientist 2 (Temporary)](https://jobright.ai/jobs/info/69325620a0dde7020e2e5ddc?utm_campaign=1066&utm_source=git)** | Seattle, Non-Campus | Hybrid | Dec 04 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Strategy & Transformation – Data Scientist](https://jobright.ai/jobs/info/69325498f131d96e4845b366?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Dec 04 |
 | **[Danfoss](https://www.danfoss.com)** | **[Pricing Intern / Day Shift](https://jobright.ai/jobs/info/69326a8d764507023d1ae5b8?utm_campaign=1066&utm_source=git)** | Eden Prairie, MN | On Site | Dec 04 |
 | **[Cisco](http://www.cisco.com)** | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/693247caf131d96e4845a8b1?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 04 |
 | ↳ | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/693246dbf131d96e4845a804?utm_campaign=1066&utm_source=git)** | Triangle, NC | On Site | Dec 04 |
-| **[General Motors](https://www.gm.com)** | **[2026 Summer Intern – Strategy & Transformation – Data Scientist](https://jobright.ai/jobs/info/69326468a0dde7020e2e675a?utm_campaign=1066&utm_source=git)** | Warren, MI | Hybrid | Dec 04 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Business & Data Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/693269de764507023d1ae542?utm_campaign=1066&utm_source=git)** | Bloomington, MN | Remote | Dec 04 |
 | **[Cisco](http://www.cisco.com)** | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69326661a0dde7020e2e6848?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Dec 04 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern I - Data and Manufacturing Analytics](https://jobright.ai/jobs/info/693265aea0dde7020e2e67d6?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 04 |
@@ -84,14 +84,15 @@ For a complete list, click the following sortable link below:
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[USDA-ARS SCINet/AI-COE Postdoctoral Fellowship in Integrating Multiple Data Streams into Forecasts of Arthropod-Borne Livestock Disease Emergence and Spread](https://jobright.ai/jobs/info/69321c97fa28370be26c20ef?utm_campaign=1066&utm_source=git)** | Manhattan, KS | On Site | Dec 04 |
 | **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/69322a88d0010831497c0400?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Dec 04 |
 | **[Cisco](http://www.cisco.com)** | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69321a594c474121999f6e95?utm_campaign=1066&utm_source=git)** | Austin, Texas, US | Hybrid | Dec 04 |
-| ↳ | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/693221e8d0010831497bfead?utm_campaign=1066&utm_source=git)** | RTP, North Carolina, US | Hybrid | Dec 04 |
 | ↳ | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69321fdbfa28370be26c2413?utm_campaign=1066&utm_source=git)** | San Jose, California, US | Hybrid | Dec 04 |
+| ↳ | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/693221e8d0010831497bfead?utm_campaign=1066&utm_source=git)** | RTP, North Carolina, US | Hybrid | Dec 04 |
 | **[Lightcast](https://lightcast.io)** | **[Junior Data Scientist/Research Analyst Intern](https://jobright.ai/jobs/info/6931f415fa28370be26bfb54?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Dec 04 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Data Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/693226fcfa28370be26c2987?utm_campaign=1066&utm_source=git)** | Yocumtown, PA | On Site | Dec 04 |
 | **[Tokyo Electron US](http://www.tel.com)** | **[Business Intelligence Engineer Intern](https://jobright.ai/jobs/info/6931f118d0010831497bd311?utm_campaign=1066&utm_source=git)** | Austin RiverSouth | On Site | Dec 04 |
 | **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/69322027fa28370be26c2466?utm_campaign=1066&utm_source=git)** | Milwaukee, WI, US | Hybrid | Dec 04 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Intern-Data Scientist](https://jobright.ai/jobs/info/6931eaf74c474121999f450c?utm_campaign=1066&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Dec 04 |
 | **[Amgen](http://www.amgen.com)** | **[Computational Biology Grad Intern](https://jobright.ai/jobs/info/69321c3ed0010831497bfb4d?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | Hybrid | Dec 04 |
+| **[ComEd](https://www.comed.com)** | **[ComEd Data Science Intern](https://jobright.ai/jobs/info/6931f8924c474121999f5009?utm_campaign=1066&utm_source=git)** | Oakbrook Terrace, IL | On Site | Dec 04 |
 | **[Genmab](https://www.genmab.com)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/693209d8d0010831497be963?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Dec 04 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/68f89fbaa628d10664e84a78?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 04 |
 | **[TotalEnergies](https://ventures.totalenergies.com)** | **[Data and Process Optimization Analyst Internship - Spring /Fall 2026](https://jobright.ai/jobs/info/68f993386de2db04dc3ea340?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Dec 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gen Re](http://www.genre.com/)** | **[P&C Commercial Insurance Data Analytics Intern - Genesis](https://jobright.ai/jobs/info/6930e074fa28370be26b4cb7?utm_campaign=1066&utm_source=git)** | Stamford, CT, US | Hybrid | Dec 03 |
 | **[Vistar](http://www.vistar.com)** | **[Pricing Intern](https://jobright.ai/jobs/info/6930db10ef4b48533d14ffed?utm_campaign=1066&utm_source=git)** | Englewood, CO | On Site | Dec 03 |
 | **[Genmab](https://www.genmab.com)** | **[Clinical Development Data Science Intern](https://jobright.ai/jobs/info/6930daabef4b48533d14ffa0?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Dec 03 |
-| **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6930d949ef4b48533d14fe80?utm_campaign=1066&utm_source=git)** | Mankato, MN | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
