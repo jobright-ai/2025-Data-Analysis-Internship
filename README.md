@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (PhD)](https://jobright.ai/jobs/info/68cf0840fb49c96ca6ea540c?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 05 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Insights Analyst](https://jobright.ai/jobs/info/6932c233a0dde7020e2e8aa9?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Dec 05 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69157a7c6f36db06ef04f0bf?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 05 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern II - User Research](https://jobright.ai/jobs/info/69329e40f131d96e4845d1df?utm_campaign=1066&utm_source=git)** | Remote - United States | Hybrid | Dec 05 |
 | ↳ | **[Intern II - User Research](https://jobright.ai/jobs/info/69329daff131d96e4845d1a9?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Dec 05 |
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Data Analysis & Performance Reporting](https://jobright.ai/jobs/info/693287a7764507023d1af39c?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Dec 04 |
-| **[Red Alpha](https://www.red-alpha.com/)** | **[Data Science Intern - Summer 2026 (TS/SCI w/ Polygraph Clearance Required)](https://jobright.ai/jobs/info/69327768764507023d1aee2b?utm_campaign=1066&utm_source=git)** | Columbia, MD | On Site | Dec 04 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Data Scientist Internship - Summer 2026](https://jobright.ai/jobs/info/693259d7f131d96e4845b702?utm_campaign=1066&utm_source=git)** | Bloomington, MN | Remote | Dec 04 |
 | **[Danfoss](https://www.danfoss.com)** | **[Pricing Intern / Day Shift](https://jobright.ai/jobs/info/69326a8d764507023d1ae5b8?utm_campaign=1066&utm_source=git)** | Eden Prairie, MN | On Site | Dec 04 |
 | **[Cisco](http://www.cisco.com)** | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/693247caf131d96e4845a8b1?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 04 |
@@ -77,9 +79,9 @@ For a complete list, click the following sortable link below:
 | **[Daice Labs](https://daicelabs.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69323187d0010831497c082a?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Dec 04 |
 | **[MarketAxess](http://marketaxess.com)** | **[Quant Research Intern 2026](https://jobright.ai/jobs/info/693204404c474121999f5c55?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 04 |
 | **[Sanofi](https://www.sanofi.com)** | **[Data Scientist Catalyst](https://jobright.ai/jobs/info/6931fc7e4c474121999f53c2?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 04 |
-| **[Munich Re](https://www.munichre.com)** | **[Data Science Intern, NA Integrated Analytics (2026 Summer - New York)](https://jobright.ai/jobs/info/69324b66764507023d1acbd8?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Dec 04 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[USDA-ARS SCINet/AI-COE Postdoctoral Fellowship in Integrating Multiple Data Streams into Forecasts of Arthropod-Borne Livestock Disease Emergence and Spread](https://jobright.ai/jobs/info/69321c97fa28370be26c20ef?utm_campaign=1066&utm_source=git)** | Manhattan, KS | On Site | Dec 04 |
 | **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/69322a88d0010831497c0400?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Dec 04 |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/6932b581764507023d1b01c4?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Dec 04 |
 | **[Lightcast](https://lightcast.io)** | **[Junior Data Scientist/Research Analyst Intern](https://jobright.ai/jobs/info/6931f415fa28370be26bfb54?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Dec 04 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Data Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/693226fcfa28370be26c2987?utm_campaign=1066&utm_source=git)** | Yocumtown, PA | On Site | Dec 04 |
 | **[Tokyo Electron US](http://www.tel.com)** | **[Business Intelligence Engineer Intern](https://jobright.ai/jobs/info/6931f118d0010831497bd311?utm_campaign=1066&utm_source=git)** | Austin RiverSouth | On Site | Dec 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Attain Partners](http://www.attain.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6930b967ef4b48533d14e51d?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Dec 03 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/6930d7b7fa28370be26b462f?utm_campaign=1066&utm_source=git)** | Richfield, OH | Hybrid | Dec 03 |
 | **[Michigan State University](http://msu.edu)** | **[Research Assistant II](https://jobright.ai/jobs/info/6930a5ffef4b48533d14d66e?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Dec 03 |
-| **[TransUnion](http://www.transunion.com)** | **[Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/6930d924ef4b48533d14fe51?utm_campaign=1066&utm_source=git)** | Chicago, Illinois | On Site | Dec 03 |
-| **[PennEngineering®](http://www.pemnet.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6930c560fa28370be26b3888?utm_campaign=1066&utm_source=git)** | Danboro, PA | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
