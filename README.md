@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[San Diego State University](http://www.sdsu.edu)** | **[NIWC - Undergraduate - Research and Analytics support to Department Staff and Intelligence, Surveillance, and Reconnaissance Department Projects (Task 56-142521)](https://jobright.ai/jobs/info/6933c7cc764507023d1b95b7?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 05 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 05 |
 | **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/691e83e33f782d2f1afb5842?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/6933b2dba0dde7020e2f0b20?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Dec 05 |
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/6933b1d7764507023d1b8677?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 05 |
@@ -64,7 +66,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/6933aee9a0dde7020e2f0807?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Dec 05 |
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/6933aea8a0dde7020e2f07d0?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 05 |
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/6933ad8bf131d96e48465cea?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Dec 05 |
-| ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/6933a947a0dde7020e2f0454?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Dec 05 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: Data Analyst](https://jobright.ai/jobs/info/6933cbfb764507023d1b9746?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Dec 05 |
+| **[Amazon](https://amazon.com)** | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/6933a947a0dde7020e2f0454?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Dec 05 |
 | **[Munich Airport NJ LLC](http://www.munich-airport.com/nj)** | **[Software & Data Analyst Intern](https://jobright.ai/jobs/info/6933a544a0dde7020e2f0144?utm_campaign=1066&utm_source=git)** | Newark, NJ | On Site | Dec 05 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/6933b4e4f131d96e48466276?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Dec 05 |
 | ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/6933b801764507023d1b8a0b?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Dec 05 |
@@ -106,9 +109,9 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/693361b6a0dde7020e2ed3ae?utm_campaign=1066&utm_source=git)** | Sandy Springs, GA | Hybrid | Dec 05 |
 | ↳ | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/693374a2f131d96e4846388c?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
 | ↳ | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/69335fbcf131d96e48462a75?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Dec 05 |
-| **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/693356f1f131d96e484622e6?utm_campaign=1066&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 05 |
+| **[Amazon](https://amazon.com)** | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/6933592e764507023d1b4976?utm_campaign=1066&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 05 |
 | ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/693356b9f131d96e484622a3?utm_campaign=1066&utm_source=git)** | Seattle, Washington, USA | On Site | Dec 05 |
-| ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/6933592e764507023d1b4976?utm_campaign=1066&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 05 |
+| ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/693356f1f131d96e484622e6?utm_campaign=1066&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 05 |
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/69335a11f131d96e484625e2?utm_campaign=1066&utm_source=git)** | Seattle, Washington, USA | On Site | Dec 05 |
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/69335885a0dde7020e2ece6a?utm_campaign=1066&utm_source=git)** | Bellevue, Washington, USA | On Site | Dec 05 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69335593764507023d1b45dd?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Dec 05 |
@@ -149,12 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Dexcom](http://www.dexcom.com)** | **[Intern II - User Research](https://jobright.ai/jobs/info/69329e40f131d96e4845d1df?utm_campaign=1066&utm_source=git)** | Remote - United States | Hybrid | Dec 05 |
 | ↳ | **[Intern II - User Research](https://jobright.ai/jobs/info/69329daff131d96e4845d1a9?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Dec 05 |
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Data Analysis & Performance Reporting](https://jobright.ai/jobs/info/693287a7764507023d1af39c?utm_campaign=1066&utm_source=git)** | Jersey City, NJ | On Site | Dec 04 |
+| **[Stoneridge](http://www.stoneridge.com)** | **[Business Data Analysis Intern](https://jobright.ai/jobs/info/6933d064764507023d1b9a8a?utm_campaign=1066&utm_source=git)** | Detroit Metro | Hybrid | Dec 04 |
+| **[Bloom Energy](http://www.bloomenergy.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6933cbaaf131d96e4846716e?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 04 |
 | **[Analog Devices](http://www.analog.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6933b9a5f131d96e48466419?utm_campaign=1066&utm_source=git)** | Wilmington, MA | On Site | Dec 04 |
 | **[Red Alpha](https://www.red-alpha.com/)** | **[Data Science Intern - Summer 2026 (TS/SCI w/ Polygraph Clearance Required)](https://jobright.ai/jobs/info/69331a6a764507023d1b22e4?utm_campaign=1066&utm_source=git)** | Columbia, MD | On Site | Dec 04 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Data Scientist Internship - Summer 2026](https://jobright.ai/jobs/info/693259d7f131d96e4845b702?utm_campaign=1066&utm_source=git)** | Bloomington, MN | Remote | Dec 04 |
-| **[Cisco](http://www.cisco.com)** | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/693247caf131d96e4845a8b1?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 04 |
-| ↳ | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/693246dbf131d96e4845a804?utm_campaign=1066&utm_source=git)** | Triangle, NC | On Site | Dec 04 |
-| **[Seagate Technology](http://www.seagate.com)** | **[Business & Data Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/693269de764507023d1ae542?utm_campaign=1066&utm_source=git)** | Bloomington, MN | Remote | Dec 04 |
-| **[Cisco](http://www.cisco.com)** | **[Data Science Analyst I (Intern) United States](https://jobright.ai/jobs/info/69326661a0dde7020e2e6848?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Dec 04 |
-| **[QuantLink AI](https://www.quantlink.ai/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6932e3b3a0dde7020e2e93e6?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
