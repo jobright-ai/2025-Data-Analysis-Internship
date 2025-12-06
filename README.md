@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (Product Analytics, USDS) - 2025 Start (BS, MS)](https://jobright.ai/jobs/info/6916bde86f36db06ef059652?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Dec 06 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Computational Social Science](https://jobright.ai/jobs/info/69342f9df131d96e48469e60?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Dec 06 |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Immunology Bioinformatics Intern (PhD)](https://jobright.ai/jobs/info/68cf0860846f0b04af67ed46?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Dec 06 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Storage Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/693423c3f131d96e48469b81?utm_campaign=1066&utm_source=git)** | Emeryville, CA | On Site | Dec 06 |
+| **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68cc15ba128dc347fd91eb81?utm_campaign=1066&utm_source=git)** | Jackson, MS | On Site | Dec 06 |
+| **[ByteDance](http://bytedance.com)** | **[Multilingual Data Intern (Speech) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/690cf67cd046ab6061cf0e0f?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (PhD)](https://jobright.ai/jobs/info/688b98531808534a89cb448d?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
+| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Supply Chain Data Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/69200eaf09cc522e87747a9e?utm_campaign=1066&utm_source=git)** | Middleton, WI | On Site | Dec 06 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Science intern (TikTok-Product-Data Science-UG Mid-Platform-US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6915a64d286ccf0a1512fe2c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
+| ↳ | **[Data Science Project Intern(TikTok Shop-Supply Chain & Logistics) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6916c1c9286ccf0a1513921f?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
+| ↳ | **[Data Scientist Graduate (Product Analytics, USDS) - 2025 Start (BS, MS)](https://jobright.ai/jobs/info/6916bde86f36db06ef059652?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Dec 06 |
 | **[Oracle](https://www.oracle.com/)** | **[Data Science Intern - Industries](https://jobright.ai/jobs/info/69217ec1a49a885af9a4626c?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 06 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68950a0873b3a600fe884916?utm_campaign=1066&utm_source=git)** | Strongsville, OH | On Site | Dec 06 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Data Analytics Graduate Intern](https://jobright.ai/jobs/info/69140131e344172248f75d78?utm_campaign=1066&utm_source=git)** | Erie-Meadville Area | On Site | Dec 06 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Biostatistics](https://jobright.ai/jobs/info/6932ff4af131d96e4845f162?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | On Site | Dec 05 |
 | **[Danfoss](https://www.danfoss.com)** | **[Pricing Intern / Day Shift](https://jobright.ai/jobs/info/6932febca0dde7020e2e9c90?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Dec 05 |
 | ↳ | **[Pricing Intern / Day Shift](https://jobright.ai/jobs/info/6932febba0dde7020e2e9c8d?utm_campaign=1066&utm_source=git)** | Minnesota, United States | On Site | Dec 05 |
-| **[BioSpace](http://www.biospace.com/)** | **[Intern, Statistical Science](https://jobright.ai/jobs/info/6932fea8a0dde7020e2e9c82?utm_campaign=1066&utm_source=git)** | Home, KS | Remote | Dec 05 |
-| **[State of Missouri](http://mo.gov)** | **[Intern - 5020501](https://jobright.ai/jobs/info/68c65d397d0db41142738e13?utm_campaign=1066&utm_source=git)** | Rolla, MO | On Site | Dec 05 |
-| **[Reveal Global Consulting](https://www.revealgc.com)** | **[Data Analytics/Data Science Intern](https://jobright.ai/jobs/info/6916a95b9c388539cbdfda7a?utm_campaign=1066&utm_source=git)** | Fulton, MD | On Site | Dec 05 |
-| **[Crane Payment Innovations](http://www.cranepi.com)** | **[Research & Detect Intern](https://jobright.ai/jobs/info/691659846f36db06ef0555c2?utm_campaign=1066&utm_source=git)** | Malvern, PA | On Site | Dec 05 |
-| **[RaceTrac](http://www.racetrac.com/)** | **[Enterprise Data Intern (Summer 2026)](https://jobright.ai/jobs/info/69168b776f36db06ef057a2f?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Dec 05 |
-| **[STR](https://www.str.us/)** | **[Analytics Summer Internship](https://jobright.ai/jobs/info/68ca75ae5f9f0336447ddeef?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Dec 05 |
-| **[Reveal Global Consulting](https://www.revealgc.com)** | **[Methodology Intern](https://jobright.ai/jobs/info/6916a47b286ccf0a151382b1?utm_campaign=1066&utm_source=git)** | Fulton, MD | On Site | Dec 05 |
-| **[BioSpace](http://www.biospace.com/)** | **[Intern, Data Scientist](https://jobright.ai/jobs/info/69331872f131d96e4845fbba?utm_campaign=1066&utm_source=git)** | Home, KS | Remote | Dec 05 |
-| **[STR](https://www.str.us/)** | **[Intelligence Summer Internship](https://jobright.ai/jobs/info/68cf648cfb49c96ca6ea850e?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
