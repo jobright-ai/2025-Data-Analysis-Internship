@@ -148,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/693361b6a0dde7020e2ed3ae?utm_campaign=1066&utm_source=git)** | Sandy Springs, GA | Hybrid | Dec 05 |
 | ↳ | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/693374a2f131d96e4846388c?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
 | ↳ | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/69335fbcf131d96e48462a75?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Dec 05 |
-| **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/693356f1f131d96e484622e6?utm_campaign=1066&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 05 |
-| ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/6933592e764507023d1b4976?utm_campaign=1066&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 05 |
+| **[Amazon](https://amazon.com)** | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/6933592e764507023d1b4976?utm_campaign=1066&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 05 |
+| ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/693356f1f131d96e484622e6?utm_campaign=1066&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 05 |
 | ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/693356b9f131d96e484622a3?utm_campaign=1066&utm_source=git)** | Seattle, Washington, USA | On Site | Dec 05 |
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/69335a11f131d96e484625e2?utm_campaign=1066&utm_source=git)** | Seattle, Washington, USA | On Site | Dec 05 |
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/69335885a0dde7020e2ece6a?utm_campaign=1066&utm_source=git)** | Bellevue, Washington, USA | On Site | Dec 05 |
