@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Quantitative Research and Trading Intern](https://jobright.ai/jobs/info/6935d8ad764507023d1c12c4?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Dec 07 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/6919185cbcdbf3560c9d41af?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Dec 07 |
 | **[Ededge Learn](www.ededgelearning.com)** | **[Data Analytics Training  &  Internship](https://jobright.ai/jobs/info/6935983f764507023d1c0c72?utm_campaign=1066&utm_source=git)** | Canada | Remote | Dec 07 |
 | **[Peraton](https://www.peraton.com/)** | **[Summer 2026 Data Science Intern](https://jobright.ai/jobs/info/691ff24309cc522e87746f02?utm_campaign=1066&utm_source=git)** | Herndon, VA | Hybrid | Dec 07 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (Summer 2026)](https://jobright.ai/jobs/info/68ccf0c9d11b445e0bee4bba?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Dec 07 |
-| **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/69357ed9f131d96e4846e70b?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Dec 07 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Junior Quant Developer - Asset Liability Management Summer Internship Program](https://jobright.ai/jobs/info/68ef6aebde50091dbfa4e9b6?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 07 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2026 PhD Quant Research Summer Intern - Miami Area](https://jobright.ai/jobs/info/68cd9382e23def7af55bbf05?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Dec 07 |
 | **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Data Enablement Intern](https://jobright.ai/jobs/info/691d39bd7481340785ed4ead?utm_campaign=1066&utm_source=git)** | Lenexa, KS | On Site | Dec 07 |
@@ -138,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[API - American Petroleum Institute](http://www.api.org)** | **[Statistics Intern](https://jobright.ai/jobs/info/693395acf131d96e48464a18?utm_campaign=1066&utm_source=git)** | Washington, DC, US | On Site | Dec 05 |
 | **[Hunt Oil Company](http://www.huntoil.com)** | **[Data Analyst Intern - HSSE - Summer 2026](https://jobright.ai/jobs/info/693374b1f131d96e48463899?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Dec 05 |
 | **[Western EcoSystems Technology, Inc. (WEST)](https://www.west-inc.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/693390baf131d96e48464696?utm_campaign=1066&utm_source=git)** | Laramie, WY 82051 US (Primary) | On Site | Dec 05 |
-| **[Daymon](https://www.daymon.com/)** | **[Daymon Category Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69339459f131d96e48464905?utm_campaign=1066&utm_source=git)** | US-MI-Grand Rapids | On Site | Dec 05 |
-| ↳ | **[Daymon Category Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/6933971ba0dde7020e2ef741?utm_campaign=1066&utm_source=git)** | Grand Rapids | On Site | Dec 05 |
+| **[Daymon](https://www.daymon.com/)** | **[Daymon Category Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/6933971ba0dde7020e2ef741?utm_campaign=1066&utm_source=git)** | Grand Rapids | On Site | Dec 05 |
+| ↳ | **[Daymon Category Analyst Intern-Advantage Solutions](https://jobright.ai/jobs/info/69339459f131d96e48464905?utm_campaign=1066&utm_source=git)** | US-MI-Grand Rapids | On Site | Dec 05 |
 | **[Genmab](https://www.genmab.com)** | **[Center for Outcomes Research, Real World Evidence and Epidemiology (CORE) Intern](https://jobright.ai/jobs/info/69337156764507023d1b5b40?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Dec 05 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern 2026 (Lansing, MI)](https://jobright.ai/jobs/info/69335940f131d96e48462518?utm_campaign=1066&utm_source=git)** | Lansing, MI | Hybrid | Dec 05 |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/69336c6c764507023d1b579e?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Dec 05 |
