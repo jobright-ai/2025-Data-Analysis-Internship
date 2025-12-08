@@ -134,7 +134,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/6933b51ef131d96e48466294?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 05 |
 | **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Customer Data Intern](https://jobright.ai/jobs/info/69338e24a0dde7020e2ef23d?utm_campaign=1066&utm_source=git)** | Milwaukee, WI, US | Hybrid | Dec 05 |
 | **[Genmab](https://www.genmab.com)** | **[Center for Outcomes Research, Real World Evidence and Epidemiology (CORE) Intern](https://jobright.ai/jobs/info/693385f9f131d96e48464105?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Dec 05 |
-| **[ClinChoice](https://www.clinchoice.com.cn)** | **[1475# Statistical programmer Internship](https://jobright.ai/jobs/info/69338309764507023d1b653a?utm_campaign=1066&utm_source=git)** | Horsham, PA | On Site | Dec 05 |
 | **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6930d949ef4b48533d14fe80?utm_campaign=1066&utm_source=git)** | Mankato, MN | On Site | Dec 05 |
 | **[Hubbell Gas Utility Solutions (HGUS)](https://www.hubbell.com/continentalindustries/en)** | **[Data Analyst Intern (Summer 2026) - St. Louis, MO](https://jobright.ai/jobs/info/69339e75a0dde7020e2efab6?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Dec 05 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/69339c85764507023d1b74b4?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Dec 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/69334fe5a0dde7020e2ec7c7?utm_campaign=1066&utm_source=git)** | New York, New York, USA | On Site | Dec 05 |
 | ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/69334f19764507023d1b4022?utm_campaign=1066&utm_source=git)** | New York, New York, USA | On Site | Dec 05 |
 | **[Orthofix](http://www.orthofix.com)** | **[Intern - Data Scientist](https://jobright.ai/jobs/info/69334cfda0dde7020e2ec59f?utm_campaign=1066&utm_source=git)** | Toronto | On Site | Dec 05 |
+| **[IBM](http://www.ibm.com)** | **[Data Scientist Intern 2026 (Buffalo, NY)](https://jobright.ai/jobs/info/69334cb0a0dde7020e2ec56a?utm_campaign=1066&utm_source=git)** | Buffalo, NY | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
