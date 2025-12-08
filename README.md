@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cbc35befdec76df36c207d?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Dec 08 |
+| **[TC Energy](https://www.tcenergy.com/)** | **[Data Analytics Intern, Operations Office of Excellence Assurance](https://jobright.ai/jobs/info/68d8a4ecc52ed61722c9485a?utm_campaign=1066&utm_source=git)** | Washington, PA | Hybrid | Dec 08 |
 | **[Craftwater](http://craftwater.com)** | **[Watershed Analyst Intern](https://jobright.ai/jobs/info/69365558f131d96e48470d35?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Dec 07 |
 | **[Arizona State University](http://www.asu.edu)** | **[Management Intern](https://jobright.ai/jobs/info/6935ee77764507023d1c15bf?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Dec 07 |
 | **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/6935e938764507023d1c14c5?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Dec 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/69334fe5a0dde7020e2ec7c7?utm_campaign=1066&utm_source=git)** | New York, New York, USA | On Site | Dec 05 |
 | ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/69334f19764507023d1b4022?utm_campaign=1066&utm_source=git)** | New York, New York, USA | On Site | Dec 05 |
 | **[Orthofix](http://www.orthofix.com)** | **[Intern - Data Scientist](https://jobright.ai/jobs/info/69334cfda0dde7020e2ec59f?utm_campaign=1066&utm_source=git)** | Toronto | On Site | Dec 05 |
-| **[IBM](http://www.ibm.com)** | **[Data Scientist Intern 2026 (Buffalo, NY)](https://jobright.ai/jobs/info/69334cb0a0dde7020e2ec56a?utm_campaign=1066&utm_source=git)** | Buffalo, NY | On Site | Dec 05 |
-| **[Amazon](https://amazon.com)** | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/693349ada0dde7020e2ec2ed?utm_campaign=1066&utm_source=git)** | Bellevue, Washington, USA | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
