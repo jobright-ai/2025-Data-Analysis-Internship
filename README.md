@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Arizona State University](http://www.asu.edu)** | **[Management Intern](https://jobright.ai/jobs/info/6935ee77764507023d1c15bf?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Dec 07 |
 | **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/6935e938764507023d1c14c5?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Dec 07 |
-| **[LiftedViz](http://www.liftedviz.com)** | **[Data Visualization Intern - Music Event Analytics](https://jobright.ai/jobs/info/6935e810f131d96e4846f4d9?utm_campaign=1066&utm_source=git)** | Washington, United States | Remote | Dec 07 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/6919185cbcdbf3560c9d41af?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Dec 07 |
 | **[Peraton](https://www.peraton.com/)** | **[Summer 2026 Data Science Intern](https://jobright.ai/jobs/info/691ff24309cc522e87746f02?utm_campaign=1066&utm_source=git)** | Herndon, VA | Hybrid | Dec 07 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (Summer 2026)](https://jobright.ai/jobs/info/68ccf0c9d11b445e0bee4bba?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Dec 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern 2026 (Buffalo, NY)](https://jobright.ai/jobs/info/69334cb0a0dde7020e2ec56a?utm_campaign=1066&utm_source=git)** | Buffalo, NY | On Site | Dec 05 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/693349ada0dde7020e2ec2ed?utm_campaign=1066&utm_source=git)** | Bellevue, Washington, USA | On Site | Dec 05 |
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/69334907764507023d1b3bf2?utm_campaign=1066&utm_source=git)** | Arlington, Virginia, USA | On Site | Dec 05 |
+| **[Princess Cruises](http://www.princess.com)** | **[Intern, Data Scientist](https://jobright.ai/jobs/info/693370dba0dde7020e2ee0b4?utm_campaign=1066&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
