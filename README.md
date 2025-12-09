@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CN](http://www.cn.ca)** | **[Intern, Environment- FR](https://jobright.ai/jobs/info/6937b920aabec14a727cc6be?utm_campaign=1066&utm_source=git)** | Homewood, IL | On Site | Dec 09 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69340b98f131d96e4846928b?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Dec 09 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - OPIS Strategic Insights / Analytics Intern](https://jobright.ai/jobs/info/693219424c474121999f6dd1?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Dec 09 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cc4fb47342c7623ae6265b?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Dec 09 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68cd7827b2a74e1837ed72d1?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Dec 09 |
 | **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Data Analyst Undergraduate Intern](https://jobright.ai/jobs/info/693169cc4c474121999ee0d3?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Dec 09 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Integrated Supply Chain (ISC) Analytics Intern - The Toro Company](https://jobright.ai/jobs/info/68c5b195c96a22563ece9b3b?utm_campaign=1066&utm_source=git)** | Hennepin County, MN | On Site | Dec 09 |
-| **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Quantitative Research and Trading Intern](https://jobright.ai/jobs/info/6937f1c1aabec14a727cf79b?utm_campaign=1066&utm_source=git)** | New York, United States | Remote | Dec 09 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Research Analyst(Division of Scientific Services)](https://jobright.ai/jobs/info/6937e82aaabec14a727ceac5?utm_campaign=1066&utm_source=git)** | Meriden, CT | On Site | Dec 08 |
 | **[AARP](http://www.aarp.org)** | **[Consumer Insights Intern (Graduate Student)](https://jobright.ai/jobs/info/6937be7aaabec14a727cccb8?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Dec 08 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6937bdada0dde7020e307976?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Dec 08 |
@@ -111,6 +111,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern, Data Analytics & Business Intelligence](https://jobright.ai/jobs/info/6937434ea0dde7020e300a54?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Dec 08 |
 | **[Leidos](https://www.leidos.com/)** | **[Engineering Intern](https://jobright.ai/jobs/info/693705f4aabec14a727c38f5?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Dec 08 |
 | **[Discount Tire](http://www.discounttire.com/dtcs/home.do)** | **[Information Technology Intern - Treadwell/Analytics](https://jobright.ai/jobs/info/69148c829c388539cbdec967?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Dec 08 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6904ea88122e8474c78d4344?utm_campaign=1066&utm_source=git)** | Carlsbad, CA | On Site | Dec 08 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cbc35befdec76df36c207d?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Dec 08 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Quality Specialist - Data Analysis Sr. Intern](https://jobright.ai/jobs/info/6904f9cd63502c0aded76cd1?utm_campaign=1066&utm_source=git)** | Logan, UT | On Site | Dec 08 |
 | **[TC Energy](https://www.tcenergy.com/)** | **[Data Analytics Intern, Operations Office of Excellence Assurance](https://jobright.ai/jobs/info/68d8a4ecc52ed61722c9485a?utm_campaign=1066&utm_source=git)** | Washington, PA | Hybrid | Dec 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68cd08d1e23def7af55b3c96?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Dec 06 |
 | ↳ | **[Quantitative Research Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68cea39edbd9fb154ede1787?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68cf8149dbd9fb154ede86e4?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68cc6b78128dc347fd92494c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
