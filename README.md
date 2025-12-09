@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Consumer Insights Intern (Graduate Student)](https://jobright.ai/jobs/info/6937be7aaabec14a727cccb8?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Dec 08 |
+| **[Intuitive](https://www.intuitive.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6937bdada0dde7020e307976?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | On Site | Dec 08 |
+| **[Allstate](http://www.allstate.com)** | **[Process Intelligence Intern](https://jobright.ai/jobs/info/6937bef1a0dde7020e3079eb?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 08 |
 | **[Take-Two Interactive](http://www.take2games.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6937978eaabec14a727c9991?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Dec 08 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/6937ba4e1c1c2161c13f90f8?utm_campaign=1066&utm_source=git)** | Richfield, OH | On Site | Dec 08 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69379329a0dde7020e3044f7?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Dec 08 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Power Bi Reporting Long Term Intern](https://jobright.ai/jobs/info/69252c3727bf2f41a2c3cd0f?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 08 |
 | **[Take-Two Interactive](http://www.take2games.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69375959a0dde7020e301a59?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Dec 08 |
@@ -81,13 +85,13 @@ For a complete list, click the following sortable link below:
 | **[Bread for the World](https://www.bread.org/)** | **[Data and Insights Internship](https://jobright.ai/jobs/info/6937568aaabec14a727c6a1a?utm_campaign=1066&utm_source=git)** | DC, Washington, DC, US | Hybrid | Dec 08 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Business Intelligence / BI / Engineer internship](https://jobright.ai/jobs/info/6937515a1c1c2161c13f2c4f?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Dec 08 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Data Science](https://jobright.ai/jobs/info/693732f1aabec14a727c4f6c?utm_campaign=1066&utm_source=git)** | Kentucky, United States | On Site | Dec 08 |
+| **[Camping World](http://www.campingworld.com/)** | **[Analytics & Insights Intern](https://jobright.ai/jobs/info/69375210aabec14a727c666c?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 08 |
 | **[Arcus Biosciences](http://www.arcusbio.com)** | **[Bioinformatics Intern - 2 positions](https://jobright.ai/jobs/info/69374f4daabec14a727c6434?utm_campaign=1066&utm_source=git)** | Hayward, CA | On Site | Dec 08 |
 | ↳ | **[Bioinformatics Intern - 2 positions](https://jobright.ai/jobs/info/69372bdba0dde7020e2ff8d6?utm_campaign=1066&utm_source=git)** | Hayward, California | Hybrid | Dec 08 |
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Strategic Analysis & Forecasting](https://jobright.ai/jobs/info/6937295caabec14a727c48f4?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | ↳ | **[Summer Intern, Data Analytics & Business Intelligence](https://jobright.ai/jobs/info/693727e0aabec14a727c4826?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 08 |
 | **[Visa](https://www.visa.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/6937267f1c1c2161c13f0ea6?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 08 |
-| **[Camping World](http://www.campingworld.com/)** | **[Analytics & Insights Intern](https://jobright.ai/jobs/info/693747ffaabec14a727c5f1c?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 08 |
-| **[Visa](https://www.visa.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69374dc6aabec14a727c6320?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Dec 08 |
+| ↳ | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69374dc6aabec14a727c6320?utm_campaign=1066&utm_source=git)** | Toronto, ON, Canada | Hybrid | Dec 08 |
 | **[Allstate](http://www.allstate.com)** | **[Process Intelligence Intern](https://jobright.ai/jobs/info/693754a31c1c2161c13f2dec?utm_campaign=1066&utm_source=git)** | USA - IL (Remote) | Remote | Dec 08 |
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Strategic Analysis & Forecasting](https://jobright.ai/jobs/info/69373871a0dde7020e300228?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Dec 08 |
 | ↳ | **[Summer Intern, Data Analytics & Business Intelligence](https://jobright.ai/jobs/info/6937434ea0dde7020e300a54?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Dec 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enova International](http://www.enova.com)** | **[Analytics Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/691e83e33f782d2f1afb5842?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 05 |
 | **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6937b4a2a0dde7020e306837?utm_campaign=1066&utm_source=git)** | Mankato, MN | On Site | Dec 05 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/6933b2dba0dde7020e2f0b20?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Dec 05 |
-| ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/6933b1d7764507023d1b8677?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 05 |
-| ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/6933af70764507023d1b84c2?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Dec 05 |
-| ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/6933aee9a0dde7020e2f0807?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Dec 05 |
-| ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/6933aea8a0dde7020e2f07d0?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
