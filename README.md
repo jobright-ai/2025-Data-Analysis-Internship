@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[STMicroelectronics](https://www.st.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6938976baabec14a727d7a05?utm_campaign=1066&utm_source=git)** | Burlington, NC | Hybrid | Dec 09 |
+| **[CXtec](http://www.cxtec.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/693891ccaabec14a727d718a?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Dec 09 |
 | **[FanDuel](http://www.fanduel.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69386d69a0dde7020e310347?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Dec 09 |
+| **[Ededge Groups](http://www.ededgelearning.com)** | **[Data Analyst training & internship Program](https://jobright.ai/jobs/info/69388ba3b95c305f206dbb79?utm_campaign=1066&utm_source=git)** | Canada | Remote | Dec 09 |
 | **[Bread for the World](https://www.bread.org/)** | **[CRM Data Insights Intern](https://jobright.ai/jobs/info/69386909b95c305f206d95b5?utm_campaign=1066&utm_source=git)** | Washington, DC, US | Hybrid | Dec 09 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Jr. Research Analyst Internship  ](https://jobright.ai/jobs/info/69388364a0dde7020e3115e9?utm_campaign=1066&utm_source=git)** | USA MD Baltimore | Remote | Dec 09 |
+| ↳ | **[Summer 2026 Jr. Research Analyst Internship  ](https://jobright.ai/jobs/info/69388cd5b95c305f206dbc49?utm_campaign=1066&utm_source=git)** | USA VA Falls Church | Remote | Dec 09 |
 | **[C3 Nonprofit Consulting Group](http://c3nonprofitconsulting.com)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/69385df2b95c305f206d8440?utm_campaign=1066&utm_source=git)** | US | Remote | Dec 09 |
 | ↳ | **[Data Strategy Intern](https://jobright.ai/jobs/info/69385dd2aabec14a727d35bf?utm_campaign=1066&utm_source=git)** | Remote, WI, US | Remote | Dec 09 |
 | ↳ | **[Data Strategy Intern](https://jobright.ai/jobs/info/69385d8faabec14a727d3574?utm_campaign=1066&utm_source=git)** | Remote, NJ, US | Remote | Dec 09 |
@@ -73,6 +78,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Strategy Intern](https://jobright.ai/jobs/info/69385b62a0dde7020e30e293?utm_campaign=1066&utm_source=git)** | Remote, GA, US | Remote | Dec 09 |
 | **[Lotis Blue Consulting](https://lotisblueconsulting.com)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/69385aeaaabec14a727d328c?utm_campaign=1066&utm_source=git)** | Remote, IN, US | Remote | Dec 09 |
 | ↳ | **[Data Strategy Intern](https://jobright.ai/jobs/info/69385ae9aabec14a727d3289?utm_campaign=1066&utm_source=git)** | Remote, CA, US | Remote | Dec 09 |
+| **[Allstate](http://www.allstate.com)** | **[Process Intelligence Intern](https://jobright.ai/jobs/info/69385a59a0dde7020e30e1ac?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 09 |
 | **[C3 Nonprofit Consulting Group](http://c3nonprofitconsulting.com)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/693859bab95c305f206d8013?utm_campaign=1066&utm_source=git)** | Remote, NY, US | Remote | Dec 09 |
 | ↳ | **[Data Strategy Intern](https://jobright.ai/jobs/info/6938594faabec14a727d30c6?utm_campaign=1066&utm_source=git)** | Remote, VA, US | Remote | Dec 09 |
 | **[Lotis Blue Consulting](https://lotisblueconsulting.com)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/69385932aabec14a727d30a5?utm_campaign=1066&utm_source=git)** | Remote, PA, US | Remote | Dec 09 |
@@ -117,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Kansas City - Research Intern](https://jobright.ai/jobs/info/691bd26422a2cb4b9bd16785?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Dec 09 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/691be5a915b4156367193e57?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Dec 09 |
 | **[Mission Pet Health](https://missionvetpartners.com/)** | **[Business Intelligence Intern - Mission Pet Health](https://jobright.ai/jobs/info/69386c19aabec14a727d534e?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Dec 09 |
-| **[Allstate](http://www.allstate.com)** | **[Process Intelligence Intern](https://jobright.ai/jobs/info/69380433a0dde7020e30a8c5?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 09 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/691be51e15b4156367193e0e?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Dec 09 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cd3993b2a74e1837ed4102?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Dec 09 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Data & Infrastructure Solutions (DIS) - Data Governance](https://jobright.ai/jobs/info/69380161a0dde7020e30a864?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Dec 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Business Intelligence / BI / Engineer internship](https://jobright.ai/jobs/info/6937515a1c1c2161c13f2c4f?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Dec 08 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Data Science](https://jobright.ai/jobs/info/693732f1aabec14a727c4f6c?utm_campaign=1066&utm_source=git)** | Kentucky, United States | On Site | Dec 08 |
 | **[Camping World](http://www.campingworld.com/)** | **[Analytics & Insights Intern](https://jobright.ai/jobs/info/69375210aabec14a727c666c?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 08 |
-| **[Arcus Biosciences](http://www.arcusbio.com)** | **[Bioinformatics Intern - 2 positions](https://jobright.ai/jobs/info/69374f4daabec14a727c6434?utm_campaign=1066&utm_source=git)** | Hayward, CA | On Site | Dec 08 |
-| ↳ | **[Bioinformatics Intern - 2 positions](https://jobright.ai/jobs/info/69372bdba0dde7020e2ff8d6?utm_campaign=1066&utm_source=git)** | Hayward, California | Hybrid | Dec 08 |
-| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Strategic Analysis & Forecasting](https://jobright.ai/jobs/info/6937295caabec14a727c48f4?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 08 |
-| ↳ | **[Summer Intern, Data Analytics & Business Intelligence](https://jobright.ai/jobs/info/693727e0aabec14a727c4826?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 08 |
-| **[Visa](https://www.visa.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/6937267f1c1c2161c13f0ea6?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
