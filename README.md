@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Take-Two Interactive](http://www.take2games.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6937978eaabec14a727c9991?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Dec 08 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69379329a0dde7020e3044f7?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Dec 08 |
 | **[Take-Two Interactive](http://www.take2games.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69375959a0dde7020e301a59?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Dec 08 |
+| **[Spare-it](https://www.spare-it.com/)** | **[Data & Business Systems Intern](https://jobright.ai/jobs/info/69377f01a0dde7020e303795?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 08 |
+| **[Karh](http://karh.energy)** | **[Data Science Intern (unpaid / experiential learning)](https://jobright.ai/jobs/info/693799a0a0dde7020e304951?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Dec 08 |
+| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Data Science (Toronto Office)](https://jobright.ai/jobs/info/69379016a0dde7020e304299?utm_campaign=1066&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Dec 08 |
 | **[CME Group](http://www.cmegroup.com)** | **[Data Science Intern - Summer 2026 - Fall 2026](https://jobright.ai/jobs/info/693767551c1c2161c13f3ef1?utm_campaign=1066&utm_source=git)** | Chicago - 20 S. Wacker | On Site | Dec 08 |
 | **[Barton Malow](http://www.bartonmalow.com)** | **[Data Science Intern - Southfield, MI](https://jobright.ai/jobs/info/69375dbea0dde7020e301e8d?utm_campaign=1066&utm_source=git)** | Southfield, MI | On Site | Dec 08 |
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Summer Data Scientist Intern (R14997)](https://jobright.ai/jobs/info/69374682aabec14a727c5dc5?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Dec 08 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/6933aea8a0dde7020e2f07d0?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 05 |
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/6933ad8bf131d96e48465cea?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Dec 05 |
 | ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/6933a947a0dde7020e2f0454?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Dec 05 |
-| **[Munich Airport NJ LLC](http://www.munich-airport.com/nj)** | **[Software & Data Analyst Intern](https://jobright.ai/jobs/info/6933a544a0dde7020e2f0144?utm_campaign=1066&utm_source=git)** | Newark, NJ | On Site | Dec 05 |
-| **[Amazon](https://amazon.com)** | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/6933b4e4f131d96e48466276?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Dec 05 |
-| ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/6933b801764507023d1b8a0b?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Dec 05 |
-| ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/6933b1fea0dde7020e2f0a7d?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 05 |
-| ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/6933af5d764507023d1b84b2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
