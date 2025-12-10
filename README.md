@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Goodyear Tire & Rubber Company](https://jobs.goodyear.com/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69393d1956b68f3dc4e6b32c?utm_campaign=1066&utm_source=git)** | LU GICL | On Site | Dec 10 |
+| **[Ededge Learn](www.ededgelearning.com)** | **[Data  Analytics    Training  &   Internship](https://jobright.ai/jobs/info/69393724ac80bb5492bbd03d?utm_campaign=1066&utm_source=git)** | Canada | Remote | Dec 09 |
 | **[Attain Partners](http://www.attain.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6930b967ef4b48533d14e51d?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Dec 09 |
-| **[Electronic Arts (EA)](https://www.ea.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6938e6b0b95c305f206e2965?utm_campaign=1066&utm_source=git)** | Marina del Rey, CA | Hybrid | Dec 09 |
 | **[Haworth](http://www.haworth.com/)** | **[Data Analyst Intern- Holland, MI](https://jobright.ai/jobs/info/6938d4e1aabec14a727dbcc3?utm_campaign=1066&utm_source=git)** | Holland, MI | On Site | Dec 09 |
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, E-ZPass Data Analytics](https://jobright.ai/jobs/info/6938d480a0dde7020e316978?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Dec 09 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6938f41eaabec14a727de558?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 09 |
@@ -132,6 +133,7 @@ For a complete list, click the following sortable link below:
 | **[StandardAero](http://www.standardaero.com/)** | **[Data Analytics- Summer Intern](https://jobright.ai/jobs/info/691c1c4722a2cb4b9bd1936a?utm_campaign=1066&utm_source=git)** | Greater St. John's Metropolitan Area | On Site | Dec 09 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69340b98f131d96e4846928b?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Dec 09 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - OPIS Strategic Insights / Analytics Intern](https://jobright.ai/jobs/info/693219424c474121999f6dd1?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Dec 09 |
+| **[KCI](http://www.kci.com/)** | **[Survey Intern](https://jobright.ai/jobs/info/68c8c17c95f5211cd2ce9171?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Dec 09 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cc4fb47342c7623ae6265b?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Dec 09 |
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Kansas City - Research Intern](https://jobright.ai/jobs/info/691bd26422a2cb4b9bd16785?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Dec 09 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/691be5a915b4156367193e57?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Dec 09 |
@@ -141,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cd3993b2a74e1837ed4102?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Dec 09 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Data & Infrastructure Solutions (DIS) - Data Governance](https://jobright.ai/jobs/info/69380161a0dde7020e30a864?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Dec 09 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68cd7827b2a74e1837ed72d1?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Dec 09 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Data Analyst Undergraduate Intern](https://jobright.ai/jobs/info/693169cc4c474121999ee0d3?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Dec 09 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Integrated Supply Chain (ISC) Analytics Intern - The Toro Company](https://jobright.ai/jobs/info/68c5b195c96a22563ece9b3b?utm_campaign=1066&utm_source=git)** | Hennepin County, MN | On Site | Dec 09 |
 | **[Connecticut Department of Administrative Services](https://portal.ct.gov/das)** | **[Research Analyst(Division of Scientific Services)](https://jobright.ai/jobs/info/6937e82aaabec14a727ceac5?utm_campaign=1066&utm_source=git)** | Meriden, CT | On Site | Dec 08 |
 | **[AARP](http://www.aarp.org)** | **[Consumer Insights Intern (Graduate Student)](https://jobright.ai/jobs/info/6937be7aaabec14a727cccb8?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Dec 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Twin Disc](http://www.twindisc.com/)** | **[Data Analyst Intern - Internal Audit](https://jobright.ai/jobs/info/69389d19b95c305f206dd204?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Dec 08 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Data Science (Toronto Office)](https://jobright.ai/jobs/info/69379016a0dde7020e304299?utm_campaign=1066&utm_source=git)** | CA-ON-Greater Toronto Area | Hybrid | Dec 08 |
 | **[CME Group](http://www.cmegroup.com)** | **[Data Science Intern - Summer 2026 - Fall 2026](https://jobright.ai/jobs/info/693767551c1c2161c13f3ef1?utm_campaign=1066&utm_source=git)** | Chicago - 20 S. Wacker | On Site | Dec 08 |
-| **[Barton Malow](http://www.bartonmalow.com)** | **[Data Science Intern - Southfield, MI](https://jobright.ai/jobs/info/69375dbea0dde7020e301e8d?utm_campaign=1066&utm_source=git)** | Southfield, MI | On Site | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
