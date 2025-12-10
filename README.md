@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Tolling Technology & Data Analytics](https://jobright.ai/jobs/info/6938cf47a0dde7020e3161f9?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 09 |
+| **[Electronic Arts (EA)](https://www.ea.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6938e6b0b95c305f206e2965?utm_campaign=1066&utm_source=git)** | Marina del Rey, CA | Hybrid | Dec 09 |
+| **[Haworth](http://www.haworth.com/)** | **[Data Analyst Intern- Holland, MI](https://jobright.ai/jobs/info/6938d4e1aabec14a727dbcc3?utm_campaign=1066&utm_source=git)** | Holland, MI | On Site | Dec 09 |
+| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, E-ZPass Data Analytics](https://jobright.ai/jobs/info/6938d480a0dde7020e316978?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Dec 09 |
+| ↳ | **[Summer Intern, Tolling Technology & Data Analytics](https://jobright.ai/jobs/info/6938cf47a0dde7020e3161f9?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 09 |
+| ↳ | **[Summer Intern, Tolling Technology & Data Analytics](https://jobright.ai/jobs/info/6938db81aabec14a727dc88b?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Dec 09 |
+| ↳ | **[Summer Intern, Roadside Tolling Data Analytics](https://jobright.ai/jobs/info/6938e2e7a0dde7020e31824b?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Dec 09 |
+| ↳ | **[Summer Intern, E-ZPass Data Analytics](https://jobright.ai/jobs/info/6938d337aabec14a727db9ec?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 09 |
+| ↳ | **[Summer Intern, Roadside Tolling Data Analytics](https://jobright.ai/jobs/info/6938dc19b95c305f206e15d5?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/6938b6b9a0dde7020e3151c7?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Dec 09 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Analyst, Software Asset Management](https://jobright.ai/jobs/info/6938ad90b95c305f206deb7c?utm_campaign=1066&utm_source=git)** | Newtown Square, PA | Hybrid | Dec 09 |
 | **[CXtec](http://www.cxtec.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6938a451b95c305f206de049?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | Dec 09 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CME Group](http://www.cmegroup.com)** | **[Data Science Intern - Summer 2026 - Fall 2026](https://jobright.ai/jobs/info/693767551c1c2161c13f3ef1?utm_campaign=1066&utm_source=git)** | Chicago - 20 S. Wacker | On Site | Dec 08 |
 | **[Barton Malow](http://www.bartonmalow.com)** | **[Data Science Intern - Southfield, MI](https://jobright.ai/jobs/info/69375dbea0dde7020e301e8d?utm_campaign=1066&utm_source=git)** | Southfield, MI | On Site | Dec 08 |
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Summer Data Scientist Intern (R14997)](https://jobright.ai/jobs/info/69374682aabec14a727c5dc5?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Dec 08 |
-| **[CME Group](http://www.cmegroup.com)** | **[Data Science Intern - Summer 2026 - Fall 2026](https://jobright.ai/jobs/info/69376e331c1c2161c13f456f?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 08 |
-| **[Reinsurance Group of America, Incorporated](http://www.rgare.com)** | **[Summer Intern - Data Science](https://jobright.ai/jobs/info/69374382aabec14a727c5b73?utm_campaign=1066&utm_source=git)** | Chesterfield, MO | On Site | Dec 08 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Business Intelligence / BI / Engineer internship](https://jobright.ai/jobs/info/69373f8ca0dde7020e30071b?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Dec 08 |
-| ↳ | **[Summer 2026 Business Intelligence / BI / Engineer internship](https://jobright.ai/jobs/info/69373f21aabec14a727c57a7?utm_campaign=1066&utm_source=git)** | Frisco, TX | On Site | Dec 08 |
-| **[Arcus Biosciences](http://www.arcusbio.com)** | **[Bioinformatics Intern - 2 positions](https://jobright.ai/jobs/info/69373e9da0dde7020e300674?utm_campaign=1066&utm_source=git)** | United States | On Site | Dec 08 |
-| **[KEEN](http://www.keenfootwear.com)** | **[Corporate Sustainability Intern](https://jobright.ai/jobs/info/69373e42aabec14a727c5700?utm_campaign=1066&utm_source=git)** | Portland, OR | On Site | Dec 08 |
-| **[Peabody Energy](http://www.peabodyenergy.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/69373e18a0dde7020e300601?utm_campaign=1066&utm_source=git)** | St Louis, MO | Hybrid | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
