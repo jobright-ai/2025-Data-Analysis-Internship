@@ -58,7 +58,12 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[CommScope](http://www.commscope.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/6939c97948a8ce22990dcd91?utm_campaign=1066&utm_source=git)** | Claremont, NC | On Site | Dec 10 |
+| **[Self-Help Credit Union](https://www.self-help.org/)** | **[Avila Center Data System Associate Intern](https://jobright.ai/jobs/info/6939daf3ac80bb5492bc5883?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Dec 10 |
+| **[Riddell](http://www.riddell.com/)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/6939d23248a8ce22990dd30b?utm_campaign=1066&utm_source=git)** | Irving, TX 75038, USA | On Site | Dec 10 |
+| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / AfterSales Data Analyst](https://jobright.ai/jobs/info/6939e64c48a8ce22990ddef9?utm_campaign=1066&utm_source=git)** | Kirkland, WA | On Site | Dec 10 |
+| **[Axos Bank](https://www.axosbank.com/)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/6939e37a56b68f3dc4e737bc?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 10 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Summer Intern Analytics](https://jobright.ai/jobs/info/6939c1ae48a8ce22990dc969?utm_campaign=1066&utm_source=git)** | Markham, Ontario, Canada | On Site | Dec 10 |
+| **[Ededge Groups](http://www.ededgelearning.com)** | **[Data  Analyst   training  & Internship  Program](https://jobright.ai/jobs/info/6939e1e2ac80bb5492bc5e02?utm_campaign=1066&utm_source=git)** | Canada | Remote | Dec 10 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Business Analytics Summer Internship (Overland Park, KS)](https://jobright.ai/jobs/info/6939aea248a8ce22990da85e?utm_campaign=1066&utm_source=git)** | Overland Park,Kansas,United States | Hybrid | Dec 10 |
 | **[Encore](https://www.encoreglobal.com/)** | **[IT Data Analyst Intern– Summer 2026](https://jobright.ai/jobs/info/691cbd2122a2cb4b9bd1cad7?utm_campaign=1066&utm_source=git)** | Schiller Park, IL | On Site | Dec 10 |
 | **[CEFCU](https://www.cefcu.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6939a58a56b68f3dc4e6fcad?utm_campaign=1066&utm_source=git)** | Peoria IL | On Site | Dec 10 |
@@ -99,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Tolling Technology & Data Analytics](https://jobright.ai/jobs/info/6938cf47a0dde7020e3161f9?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[Sonepar USA](http://sonepar-us.com)** | **[Supply Chain Data Analytics Intern](https://jobright.ai/jobs/info/6938f9e1aabec14a727de7fd?utm_campaign=1066&utm_source=git)** | North Charleston, SC | On Site | Dec 09 |
 | **[Shield AI](http://www.shield.ai)** | **[Intern Summer 2026 - Data Analyst Intern](https://jobright.ai/jobs/info/6932224cfa28370be26c260f?utm_campaign=1066&utm_source=git)** | Dallas, Texas | On Site | Dec 09 |
-| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Tolling Technology & Data Analytics](https://jobright.ai/jobs/info/6938db81aabec14a727dc88b?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Dec 09 |
-| ↳ | **[Summer Intern, Roadside Tolling Data Analytics](https://jobright.ai/jobs/info/6938e2e7a0dde7020e31824b?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Dec 09 |
+| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Roadside Tolling Data Analytics](https://jobright.ai/jobs/info/6938e2e7a0dde7020e31824b?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Dec 09 |
+| ↳ | **[Summer Intern, Tolling Technology & Data Analytics](https://jobright.ai/jobs/info/6938db81aabec14a727dc88b?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Dec 09 |
 | ↳ | **[Summer Intern, E-ZPass Data Analytics](https://jobright.ai/jobs/info/6938d337aabec14a727db9ec?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | ↳ | **[Summer Intern, Roadside Tolling Data Analytics](https://jobright.ai/jobs/info/6938dc19b95c305f206e15d5?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Analyst, Software Asset Management](https://jobright.ai/jobs/info/6938ad90b95c305f206deb7c?utm_campaign=1066&utm_source=git)** | Newtown Square, PA | Hybrid | Dec 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Strategy Intern](https://jobright.ai/jobs/info/69385556a0dde7020e30dc4e?utm_campaign=1066&utm_source=git)** | Remote, VA, US | Remote | Dec 09 |
 | **[C3 Nonprofit Consulting Group](http://c3nonprofitconsulting.com)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/69385556a0dde7020e30dc4d?utm_campaign=1066&utm_source=git)** | Remote, OH, US | Remote | Dec 09 |
 | **[Lotis Blue Consulting](https://lotisblueconsulting.com)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/693854fdaabec14a727d2cd9?utm_campaign=1066&utm_source=git)** | Remote, NY, US | Remote | Dec 09 |
-| **[C3 Nonprofit Consulting Group](http://c3nonprofitconsulting.com)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/693854c2aabec14a727d2c9f?utm_campaign=1066&utm_source=git)** | Remote, IL, US | Remote | Dec 09 |
-| ↳ | **[Data Strategy Intern](https://jobright.ai/jobs/info/6938548eaabec14a727d2c65?utm_campaign=1066&utm_source=git)** | Remote, MI, US | Remote | Dec 09 |
-| ↳ | **[Data Strategy Intern](https://jobright.ai/jobs/info/6938544da0dde7020e30db4e?utm_campaign=1066&utm_source=git)** | Remote, MA, US | Remote | Dec 09 |
-| ↳ | **[Data Strategy Intern](https://jobright.ai/jobs/info/69385441aabec14a727d2c14?utm_campaign=1066&utm_source=git)** | Remote, AZ, US | Remote | Dec 09 |
-| **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Summer 2026](https://jobright.ai/jobs/info/69385223b95c305f206d78f0?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
