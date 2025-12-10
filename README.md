@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Tolling Technology & Data Analytics](https://jobright.ai/jobs/info/6938cf47a0dde7020e3161f9?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 09 |
+| **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/6938b6b9a0dde7020e3151c7?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Dec 09 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Analyst, Software Asset Management](https://jobright.ai/jobs/info/6938ad90b95c305f206deb7c?utm_campaign=1066&utm_source=git)** | Newtown Square, PA | Hybrid | Dec 09 |
 | **[CXtec](http://www.cxtec.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6938a451b95c305f206de049?utm_campaign=1066&utm_source=git)** | Syracuse, NY, US | On Site | Dec 09 |
 | **[Bayer](https://www.bayer.com)** | **[Real World Evidence Intern](https://jobright.ai/jobs/info/6938a7dcb95c305f206de7a9?utm_campaign=1066&utm_source=git)** | Whippany, NJ | On Site | Dec 09 |
@@ -65,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[CXtec](http://www.cxtec.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/693891ccaabec14a727d718a?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Dec 09 |
 | **[FanDuel](http://www.fanduel.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69386d69a0dde7020e310347?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Dec 09 |
 | **[Bread for the World](https://www.bread.org/)** | **[CRM Data Insights Intern](https://jobright.ai/jobs/info/69386909b95c305f206d95b5?utm_campaign=1066&utm_source=git)** | Washington, DC, US | Hybrid | Dec 09 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Jr. Research Analyst Internship  ](https://jobright.ai/jobs/info/69388cd5b95c305f206dbc49?utm_campaign=1066&utm_source=git)** | USA VA Falls Church | Remote | Dec 09 |
-| ↳ | **[Summer 2026 Jr. Research Analyst Internship  ](https://jobright.ai/jobs/info/69388364a0dde7020e3115e9?utm_campaign=1066&utm_source=git)** | USA MD Baltimore | Remote | Dec 09 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Summer 2026 Jr. Research Analyst Internship  ](https://jobright.ai/jobs/info/69388364a0dde7020e3115e9?utm_campaign=1066&utm_source=git)** | USA MD Baltimore | Remote | Dec 09 |
+| ↳ | **[Summer 2026 Jr. Research Analyst Internship  ](https://jobright.ai/jobs/info/69388cd5b95c305f206dbc49?utm_campaign=1066&utm_source=git)** | USA VA Falls Church | Remote | Dec 09 |
 | **[C3 Nonprofit Consulting Group](http://c3nonprofitconsulting.com)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/69385df2b95c305f206d8440?utm_campaign=1066&utm_source=git)** | US | Remote | Dec 09 |
 | ↳ | **[Data Strategy Intern](https://jobright.ai/jobs/info/69385dd2aabec14a727d35bf?utm_campaign=1066&utm_source=git)** | Remote, WI, US | Remote | Dec 09 |
 | ↳ | **[Data Strategy Intern](https://jobright.ai/jobs/info/69385d8faabec14a727d3574?utm_campaign=1066&utm_source=git)** | Remote, NJ, US | Remote | Dec 09 |
@@ -123,7 +125,7 @@ For a complete list, click the following sortable link below:
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69340b98f131d96e4846928b?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Dec 09 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - OPIS Strategic Insights / Analytics Intern](https://jobright.ai/jobs/info/693219424c474121999f6dd1?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Dec 09 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cc4fb47342c7623ae6265b?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Dec 09 |
-| **[Root Inc.](https://www.root.com)** | **[Data Analytics Intern - Policyholder Experience](https://jobright.ai/jobs/info/693811eab95c305f206d4b98?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 09 |
+| **[Root Inc.](https://www.root.com)** | **[Data Analytics Intern - Grad Students](https://jobright.ai/jobs/info/693811eab95c305f206d4b98?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 09 |
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Kansas City - Research Intern](https://jobright.ai/jobs/info/691bd26422a2cb4b9bd16785?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Dec 09 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data Scientist](https://jobright.ai/jobs/info/691be5a915b4156367193e57?utm_campaign=1066&utm_source=git)** | Overland Park, KS | On Site | Dec 09 |
 | **[Mission Pet Health](https://missionvetpartners.com/)** | **[Business Intelligence Intern - Mission Pet Health](https://jobright.ai/jobs/info/69386c19aabec14a727d534e?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Dec 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arcus Biosciences](http://www.arcusbio.com)** | **[Bioinformatics Intern - 2 positions](https://jobright.ai/jobs/info/69373e9da0dde7020e300674?utm_campaign=1066&utm_source=git)** | United States | On Site | Dec 08 |
 | **[KEEN](http://www.keenfootwear.com)** | **[Corporate Sustainability Intern](https://jobright.ai/jobs/info/69373e42aabec14a727c5700?utm_campaign=1066&utm_source=git)** | Portland, OR | On Site | Dec 08 |
 | **[Peabody Energy](http://www.peabodyenergy.com)** | **[HRIS Intern](https://jobright.ai/jobs/info/69373e18a0dde7020e300601?utm_campaign=1066&utm_source=git)** | St Louis, MO | Hybrid | Dec 08 |
-| **[Moody's Corporation](http://www.moodys.com)** | **[Moody's Technology Rotation Program - Data Science](https://jobright.ai/jobs/info/69373bc3a0dde7020e30047a?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 08 |
-| **[Arcus Biosciences](http://www.arcusbio.com)** | **[Bioinformatics Intern - 2 positions](https://jobright.ai/jobs/info/69372b611c1c2161c13f1139?utm_campaign=1066&utm_source=git)** | Remote, United States | Hybrid | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
