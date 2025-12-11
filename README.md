@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Biostatistics Research (Bachelors)](https://jobright.ai/jobs/info/693a346848a8ce22990e2c72?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | Dec 10 |
+| **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[Research Intern - Thoracic Head & Neck Medical Oncology](https://jobright.ai/jobs/info/693a2917ac80bb5492bcae5b?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Dec 10 |
+| **[The Chemours Company](https://www.chemours.com)** | **[AI & Data Science Intern](https://jobright.ai/jobs/info/693a283e48a8ce22990e2238?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 10 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 10 |
+| **[Give and Go Prepared Foods](http://www.giveandgo.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/693a37a048a8ce22990e31e0?utm_campaign=1066&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | Dec 10 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - IT Data Science](https://jobright.ai/jobs/info/693a196356b68f3dc4e77250?utm_campaign=1066&utm_source=git)** | US-KS-Overland Park | Remote | Dec 10 |
 | **[Ulta Beauty](https://www.ulta.com)** | **[Intern Retail Operations](https://jobright.ai/jobs/info/693a190dac80bb5492bc98c6?utm_campaign=1066&utm_source=git)** | Bolingbrook, IL | On Site | Dec 10 |
+| **[Aflac](http://www.aflac.com)** | **[Quantitative Analytics Solutions Intern](https://jobright.ai/jobs/info/693a3c6fac80bb5492bcc065?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Dec 10 |
+| **[CommScope](http://www.commscope.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/693a327256b68f3dc4e781c4?utm_campaign=1066&utm_source=git)** | Claremont, NC | On Site | Dec 10 |
+| **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Real World Data Intern (Graduate Level)](https://jobright.ai/jobs/info/693a289b48a8ce22990e2280?utm_campaign=1066&utm_source=git)** | Wilmington, Delaware, United States of America | On Site | Dec 10 |
 | **[Hotwire](https://www.hotwireglobal.com)** | **[Intern](https://jobright.ai/jobs/info/6939f66256b68f3dc4e74579?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Dec 10 |
 | **[Oak Ridge Institute for Science and Education](https://orise.orau.gov/)** | **[USDA-ARS Post-Graduate Fellowship in Data Science/Computational Biology/Bioinformatics](https://jobright.ai/jobs/info/6939f4d948a8ce22990de8e3?utm_campaign=1066&utm_source=git)** | Hilo, HI | On Site | Dec 10 |
 | **[Moooov](https://www.moooov.us/)** | **[Algorithm Intern (Mandarin Required)](https://jobright.ai/jobs/info/693a0b6f56b68f3dc4e76ab5?utm_campaign=1066&utm_source=git)** | Irvine, CA | Hybrid | Dec 10 |
@@ -107,15 +115,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/691cf45e22a2cb4b9bd1f199?utm_campaign=1066&utm_source=git)** | Westminster, CO | On Site | Dec 10 |
 | **[The Goodyear Tire & Rubber Company](https://jobs.goodyear.com/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69393d1956b68f3dc4e6b32c?utm_campaign=1066&utm_source=git)** | LU GICL | On Site | Dec 10 |
 | **[Attain Partners](http://www.attain.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6930b967ef4b48533d14e51d?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Dec 09 |
-| **[Electronic Arts (EA)](https://www.ea.com)** | **[Data Analytics Intern - Undergraduate Program](https://jobright.ai/jobs/info/6939ed3956b68f3dc4e73d92?utm_campaign=1066&utm_source=git)** | Marina del Rey, CA | Hybrid | Dec 09 |
 | **[Haworth](http://www.haworth.com/)** | **[Data Analyst Intern- Holland, MI](https://jobright.ai/jobs/info/6938d4e1aabec14a727dbcc3?utm_campaign=1066&utm_source=git)** | Holland, MI | On Site | Dec 09 |
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, E-ZPass Data Analytics](https://jobright.ai/jobs/info/6938d480a0dde7020e316978?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Dec 09 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6938f41eaabec14a727de558?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 09 |
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Tolling Technology & Data Analytics](https://jobright.ai/jobs/info/6938cf47a0dde7020e3161f9?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[Sonepar USA](http://sonepar-us.com)** | **[Supply Chain Data Analytics Intern](https://jobright.ai/jobs/info/6938f9e1aabec14a727de7fd?utm_campaign=1066&utm_source=git)** | North Charleston, SC | On Site | Dec 09 |
 | **[Shield AI](http://www.shield.ai)** | **[Intern Summer 2026 - Data Analyst Intern](https://jobright.ai/jobs/info/6932224cfa28370be26c260f?utm_campaign=1066&utm_source=git)** | Dallas, Texas | On Site | Dec 09 |
-| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Tolling Technology & Data Analytics](https://jobright.ai/jobs/info/6938db81aabec14a727dc88b?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Dec 09 |
-| ↳ | **[Summer Intern, Roadside Tolling Data Analytics](https://jobright.ai/jobs/info/6938e2e7a0dde7020e31824b?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Dec 09 |
+| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Roadside Tolling Data Analytics](https://jobright.ai/jobs/info/6938e2e7a0dde7020e31824b?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Dec 09 |
+| ↳ | **[Summer Intern, Tolling Technology & Data Analytics](https://jobright.ai/jobs/info/6938db81aabec14a727dc88b?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Dec 09 |
 | ↳ | **[Summer Intern, E-ZPass Data Analytics](https://jobright.ai/jobs/info/6938d337aabec14a727db9ec?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | ↳ | **[Summer Intern, Roadside Tolling Data Analytics](https://jobright.ai/jobs/info/6938dc19b95c305f206e15d5?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Analyst, Software Asset Management](https://jobright.ai/jobs/info/6938ad90b95c305f206deb7c?utm_campaign=1066&utm_source=git)** | Newtown Square, PA | Hybrid | Dec 09 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Strategy Intern](https://jobright.ai/jobs/info/693858dba0dde7020e30dff4?utm_campaign=1066&utm_source=git)** | Remote, AZ, US | Remote | Dec 09 |
 | **[C3 Nonprofit Consulting Group](http://c3nonprofitconsulting.com)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/69385851b95c305f206d7e92?utm_campaign=1066&utm_source=git)** | Remote, IN, US | Remote | Dec 09 |
 | **[Lotis Blue Consulting](https://lotisblueconsulting.com)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/6938582cb95c305f206d7e68?utm_campaign=1066&utm_source=git)** | Remote, CO, US | Remote | Dec 09 |
-| ↳ | **[Data Strategy Intern](https://jobright.ai/jobs/info/69385802b95c305f206d7e43?utm_campaign=1066&utm_source=git)** | Remote, TX, US | Remote | Dec 09 |
-| ↳ | **[Data Strategy Intern](https://jobright.ai/jobs/info/693857dbb95c305f206d7e16?utm_campaign=1066&utm_source=git)** | Remote, US | Remote | Dec 09 |
-| **[C3 Nonprofit Consulting Group](http://c3nonprofitconsulting.com)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/693857dbb95c305f206d7e17?utm_campaign=1066&utm_source=git)** | Remote, PA, US | Remote | Dec 09 |
-| **[Lotis Blue Consulting](https://lotisblueconsulting.com)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/69385745aabec14a727d2ea1?utm_campaign=1066&utm_source=git)** | US | Remote | Dec 09 |
-| **[C3 Nonprofit Consulting Group](http://c3nonprofitconsulting.com)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/69385738a0dde7020e30de48?utm_campaign=1066&utm_source=git)** | Remote, CO, US | Remote | Dec 09 |
-| ↳ | **[Data Strategy Intern](https://jobright.ai/jobs/info/69385694b95c305f206d7d0f?utm_campaign=1066&utm_source=git)** | Remote, MN, US | Remote | Dec 09 |
-| **[Lotis Blue Consulting](https://lotisblueconsulting.com)** | **[Data Strategy Intern](https://jobright.ai/jobs/info/6938566cb95c305f206d7cd9?utm_campaign=1066&utm_source=git)** | Remote, GA, US | Remote | Dec 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
