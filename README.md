@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Innovation & Digital Health Accelerator Internship (Global.Health)](https://jobright.ai/jobs/info/693a5e24ac80bb5492bcee08?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Dec 10 |
 | **[SelectQuote Insurance Services](http://www.selectquote.com)** | **[Intern - IT Data Science](https://jobright.ai/jobs/info/693a4dbdac80bb5492bccd90?utm_campaign=1066&utm_source=git)** | KC Metro Area | On Site | Dec 10 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Dec 10 |
+| **[Panasonic Avionics Corporation](http://www.panasonic.aero)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/693a62c856b68f3dc4e7c5bb?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Dec 10 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Biostatistics Research (Bachelors)](https://jobright.ai/jobs/info/693a346848a8ce22990e2c72?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | Dec 10 |
-| **[GenPark](https://genpark.ai)** | **[Data Science Researcher](https://jobright.ai/jobs/info/693a589056b68f3dc4e7c025?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Dec 10 |
 | **[MD Anderson Cancer Center](https://www.mdanderson.org/)** | **[Research Intern - Thoracic Head & Neck Medical Oncology](https://jobright.ai/jobs/info/693a2917ac80bb5492bcae5b?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Dec 10 |
-| **[Summr](http://www.summr.tech)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/693a566eac80bb5492bce972?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 10 |
 | **[The Chemours Company](https://www.chemours.com)** | **[AI & Data Science Intern](https://jobright.ai/jobs/info/693a283e48a8ce22990e2238?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 10 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 10 |
 | **[Give and Go Prepared Foods](http://www.giveandgo.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/693a3f4448a8ce22990e3ea1?utm_campaign=1066&utm_source=git)** | Etobicoke, ON, Canada | On Site | Dec 10 |
