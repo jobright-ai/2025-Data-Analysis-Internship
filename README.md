@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cengage Group](https://www.cengagegroup.com/)** | **[Enterprise and Analytics Intern (Remote)](https://jobright.ai/jobs/info/693afb56d4054a2bc024e19b?utm_campaign=1066&utm_source=git)** | Massachusetts, USA | Remote | Dec 11 |
 | **[Vertiv](https://www.Vertiv.com)** | **[Data Operations Internship (Summer 2026)](https://jobright.ai/jobs/info/68ac999bd627244576e47224?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Dec 11 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/68cfde05846f0b04af685988?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Dec 11 |
 | ↳ | **[2026 Spatial Transcriptomics Intern (PhD)](https://jobright.ai/jobs/info/68acf8d9daf1431824c9973a?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Dec 11 |
@@ -128,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](http://www.trimble.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/691ce5a622a2cb4b9bd1e63a?utm_campaign=1066&utm_source=git)** | Dayton, OH | On Site | Dec 10 |
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/691cf45e22a2cb4b9bd1f199?utm_campaign=1066&utm_source=git)** | Westminster, CO | On Site | Dec 10 |
 | **[The Goodyear Tire & Rubber Company](https://jobs.goodyear.com/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69393d1956b68f3dc4e6b32c?utm_campaign=1066&utm_source=git)** | LU GICL | On Site | Dec 10 |
-| **[Highmark Health](https://www.highmarkhealth.org/hmk)** | **[Summer 2026 Data Analyst Undergraduate Intern](https://jobright.ai/jobs/info/693a7f1d0652687940eaa848?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Dec 09 |
 | **[Attain Partners](http://www.attain.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6930b967ef4b48533d14e51d?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Dec 09 |
 | **[Haworth](http://www.haworth.com/)** | **[Data Analyst Intern- Holland, MI](https://jobright.ai/jobs/info/6938d4e1aabec14a727dbcc3?utm_campaign=1066&utm_source=git)** | Holland, MI | On Site | Dec 09 |
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, E-ZPass Data Analytics](https://jobright.ai/jobs/info/6938d480a0dde7020e316978?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Dec 09 |
@@ -136,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Tolling Technology & Data Analytics](https://jobright.ai/jobs/info/6938cf47a0dde7020e3161f9?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[Sonepar USA](http://sonepar-us.com)** | **[Supply Chain Data Analytics Intern](https://jobright.ai/jobs/info/6938f9e1aabec14a727de7fd?utm_campaign=1066&utm_source=git)** | North Charleston, SC | On Site | Dec 09 |
 | **[Shield AI](http://www.shield.ai)** | **[Intern Summer 2026 - Data Analyst Intern](https://jobright.ai/jobs/info/6932224cfa28370be26c260f?utm_campaign=1066&utm_source=git)** | Dallas, Texas | On Site | Dec 09 |
-| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Tolling Technology & Data Analytics](https://jobright.ai/jobs/info/6938db81aabec14a727dc88b?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Dec 09 |
-| ↳ | **[Summer Intern, Roadside Tolling Data Analytics](https://jobright.ai/jobs/info/6938e2e7a0dde7020e31824b?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Dec 09 |
+| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Roadside Tolling Data Analytics](https://jobright.ai/jobs/info/6938e2e7a0dde7020e31824b?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Dec 09 |
+| ↳ | **[Summer Intern, Tolling Technology & Data Analytics](https://jobright.ai/jobs/info/6938db81aabec14a727dc88b?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Dec 09 |
 | ↳ | **[Summer Intern, E-ZPass Data Analytics](https://jobright.ai/jobs/info/6938d337aabec14a727db9ec?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | ↳ | **[Summer Intern, Roadside Tolling Data Analytics](https://jobright.ai/jobs/info/6938dc19b95c305f206e15d5?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Analyst, Software Asset Management](https://jobright.ai/jobs/info/6938ad90b95c305f206deb7c?utm_campaign=1066&utm_source=git)** | Newtown Square, PA | Hybrid | Dec 09 |
