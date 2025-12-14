@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Business Insights Analyst II](https://jobright.ai/jobs/info/68b0eaffb47fb001d689668d?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Dec 14 |
 | **[Outlier AI](http://outlier.ai/)** | **[Assessment Analyst Intern (Remote)](https://jobright.ai/jobs/info/693e835250bbaf7650513613?utm_campaign=1066&utm_source=git)** | El Paso, TX | Remote | Dec 14 |
 | ↳ | **[Assessment Analyst Intern (Remote)](https://jobright.ai/jobs/info/693e825349a7695fbd04bad4?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | Remote | Dec 14 |
 | **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/693e8192aa598a08c3eed358?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Dec 14 |
@@ -69,7 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data and AI Computational Scientist Catalyst](https://jobright.ai/jobs/info/693dcc26aa598a08c3ee4894?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 13 |
 | **[CommScope](http://www.commscope.com)** | **[Data Analytics Dashboard Intern](https://jobright.ai/jobs/info/693dc6bb50bbaf765050a9fa?utm_campaign=1066&utm_source=git)** | Shakopee, MN | On Site | Dec 13 |
 | **[First Finish | A Shawmut Company](https://www.firstfinish.net)** | **[Intern/Coop- Data Analyst](https://jobright.ai/jobs/info/693dbeaf50bbaf765050a89e?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Data Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693db2bc50bbaf765050a67d?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Data Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693db27349a7695fbd042e3a?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | ↳ | **[2026 Summer - CDO, Data Quality Analyst Intern (4 months - Bedford, NS)](https://jobright.ai/jobs/info/693d983049a7695fbd041312?utm_campaign=1066&utm_source=git)** | HALIFAX, Nova Scotia, Canada | Hybrid | Dec 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Biostatistics](https://jobright.ai/jobs/info/693d8ec750bbaf765050892f?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | On Site | Dec 13 |
 | **[Takeda](http://www.takeda.com)** | **[2026 U.S Summer Internship Program: Statistics and Quantitative Sciences Intern](https://jobright.ai/jobs/info/6920999600c9ee50eaec5e39?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Dec 13 |
@@ -134,15 +135,15 @@ For a complete list, click the following sortable link below:
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/693c64ce50bbaf76504faa09?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | On Site | Dec 12 |
 | **[MGIC](https://www.mgic.com)** | **[Structured Transactions Intern](https://jobright.ai/jobs/info/693c7b5850bbaf76504fb6f5?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Dec 12 |
 | ↳ | **[Structured Transactions Intern](https://jobright.ai/jobs/info/693c5aa9aa598a08c3ed4415?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Dec 12 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AML Analyst Intern (4 Months- Bedford, NS)](https://jobright.ai/jobs/info/693c4da750bbaf76504f88d4?utm_campaign=1066&utm_source=git)** | 90 WESTERN PKY:BEDFORD | Hybrid | Dec 12 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Business Insights + Analytics Summer Intern](https://jobright.ai/jobs/info/693c49aaaa598a08c3ed2b15?utm_campaign=1066&utm_source=git)** | New York, NY (55th St) | On Site | Dec 12 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Data Scientist/Statistician Intern (MS/PhD)](https://jobright.ai/jobs/info/691aaa30bcdbf3560c9d98e1?utm_campaign=1066&utm_source=git)** | Wickliffe, OH | On Site | Dec 12 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Business Insights + Analytics Summer Intern](https://jobright.ai/jobs/info/693c47cdaa598a08c3ed2567?utm_campaign=1066&utm_source=git)** | New York, NY (55th St) | On Site | Dec 12 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AML Analyst Intern (4 Months- Bedford, NS)](https://jobright.ai/jobs/info/693c4724aa598a08c3ed239d?utm_campaign=1066&utm_source=git)** | 90 WESTERN PKY:BEDFORD | Hybrid | Dec 12 |
 | **[CN](http://www.cn.ca)** | **[Intern, Developer Performance Analytics- EN](https://jobright.ai/jobs/info/691facdca49a885af9a3310f?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 12 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Data Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c456749a7695fbd030aeb?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 12 |
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Intern, Data (Technology)](https://jobright.ai/jobs/info/6920031d3f782d2f1afc2276?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Dec 12 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68f0b99333489f7bb1c18b20?utm_campaign=1066&utm_source=git)** | Westchester, IL | Hybrid | Dec 12 |
 | **[CN](http://www.cn.ca)** | **[Intern, Developer Performance Analytics- EN](https://jobright.ai/jobs/info/691fb54909cc522e877449ef?utm_campaign=1066&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 12 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Data Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c284049a7695fbd0300fe?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Data Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c2ad8aa598a08c3ed18ed?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
 | **[Twitch](https://www.twitch.tv)** | **[Graduate Data Science Intern](https://jobright.ai/jobs/info/691f28003f782d2f1afb8c39?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Dec 12 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Data Science Intern, Supply Chain BOM Analytics](https://jobright.ai/jobs/info/69049964ff462851feff6688?utm_campaign=1066&utm_source=git)** | Kokomo, IN | On Site | Dec 12 |
 | **[Bombshell Sportswear](https://www.bombshellsportswear.com)** | **[Data Analytics Intern Winter at Bombshell Sportswear](https://jobright.ai/jobs/info/693c147549a7695fbd02e337?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Dec 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Acadian Asset Management](https://www.acadian-inc.com/)** | **[Quant Developer Intern - Summer 2026](https://jobright.ai/jobs/info/68f16077f462172a5a7d74a3?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Dec 12 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Data Science - AI](https://jobright.ai/jobs/info/693bdfa150bbaf76504f4c60?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | Dec 12 |
 | ↳ | **[Data Science AI&I Intern – PhD degree level (On-site)](https://jobright.ai/jobs/info/693bcec550bbaf76504f2d93?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Dec 12 |
-| **[Haworth](http://www.haworth.com/)** | **[Data Analyst Intern- Holland, MI](https://jobright.ai/jobs/info/6938d4e1aabec14a727dbcc3?utm_campaign=1066&utm_source=git)** | Holland, MI | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
