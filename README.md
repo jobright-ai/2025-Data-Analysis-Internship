@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68d195c417554c2d9eedcf08?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Dec 14 |
+| **[NVIDIA](https://www.nvidia.com)** | **[PhD Research Intern, Gaming Research - 2026](https://jobright.ai/jobs/info/690578e263502c0aded7b5c8?utm_campaign=1066&utm_source=git)** | Westford, MA | On Site | Dec 14 |
+| **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/6933d7acf131d96e48467b1a?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Dec 14 |
+| ↳ | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/693a486548a8ce22990e43c1?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Dec 14 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Business Insights Analyst II](https://jobright.ai/jobs/info/68b0eaffb47fb001d689668d?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Dec 14 |
 | **[Outlier AI](http://outlier.ai/)** | **[Assessment Analyst Intern (Remote)](https://jobright.ai/jobs/info/693e835250bbaf7650513613?utm_campaign=1066&utm_source=git)** | El Paso, TX | Remote | Dec 14 |
 | ↳ | **[Assessment Analyst Intern (Remote)](https://jobright.ai/jobs/info/693e825349a7695fbd04bad4?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | Remote | Dec 14 |
-| **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/693e8192aa598a08c3eed358?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Dec 14 |
-| **[Outlier AI](http://outlier.ai/)** | **[Assessment Analyst Intern (Remote)](https://jobright.ai/jobs/info/693e7d68aa598a08c3eed16b?utm_campaign=1066&utm_source=git)** | Houston, TX | Remote | Dec 14 |
+| ↳ | **[Assessment Analyst Intern (Remote)](https://jobright.ai/jobs/info/693e7d68aa598a08c3eed16b?utm_campaign=1066&utm_source=git)** | Houston, TX | Remote | Dec 14 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 13 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - CDO, Data Quality Analyst Intern (4 months - Bedford, NS)](https://jobright.ai/jobs/info/693de072aa598a08c3ee6403?utm_campaign=1066&utm_source=git)** | Halifax, Nova Scotia, Canada | Hybrid | Dec 13 |
 | ↳ | **[2026 Summer - CLAO, Data Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693ddfae50bbaf765050c5d2?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 13 |
@@ -71,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[CommScope](http://www.commscope.com)** | **[Data Analytics Dashboard Intern](https://jobright.ai/jobs/info/693dc6bb50bbaf765050a9fa?utm_campaign=1066&utm_source=git)** | Shakopee, MN | On Site | Dec 13 |
 | **[First Finish | A Shawmut Company](https://www.firstfinish.net)** | **[Intern/Coop- Data Analyst](https://jobright.ai/jobs/info/693dbeaf50bbaf765050a89e?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Dec 13 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Data Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693db27349a7695fbd042e3a?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
-| ↳ | **[2026 Summer - CDO, Data Quality Analyst Intern (4 months - Bedford, NS)](https://jobright.ai/jobs/info/693d983049a7695fbd041312?utm_campaign=1066&utm_source=git)** | HALIFAX, Nova Scotia, Canada | Hybrid | Dec 13 |
+| ↳ | **[2026 Summer - CDO, Data Quality Analyst Intern (4 months - Bedford, NS)](https://jobright.ai/jobs/info/693d980750bbaf7650508b0c?utm_campaign=1066&utm_source=git)** | HALIFAX, Nova Scotia, Canada | Hybrid | Dec 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Biostatistics](https://jobright.ai/jobs/info/693d8ec750bbaf765050892f?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | On Site | Dec 13 |
 | **[Takeda](http://www.takeda.com)** | **[2026 U.S Summer Internship Program: Statistics and Quantitative Sciences Intern](https://jobright.ai/jobs/info/6920999600c9ee50eaec5e39?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Dec 13 |
 | **[Enova International](http://www.enova.com)** | **[Business Intelligence Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/6903aaed63502c0aded6ae8a?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 13 |
@@ -143,7 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Mercer Advisors](http://www.merceradvisors.com/)** | **[Intern, Data (Technology)](https://jobright.ai/jobs/info/6920031d3f782d2f1afc2276?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Dec 12 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68f0b99333489f7bb1c18b20?utm_campaign=1066&utm_source=git)** | Westchester, IL | Hybrid | Dec 12 |
 | **[CN](http://www.cn.ca)** | **[Intern, Developer Performance Analytics- EN](https://jobright.ai/jobs/info/691fb54909cc522e877449ef?utm_campaign=1066&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Dec 12 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Data Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c2ad8aa598a08c3ed18ed?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Data Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c284049a7695fbd0300fe?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 12 |
 | **[Twitch](https://www.twitch.tv)** | **[Graduate Data Science Intern](https://jobright.ai/jobs/info/691f28003f782d2f1afb8c39?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Dec 12 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Data Science Intern, Supply Chain BOM Analytics](https://jobright.ai/jobs/info/69049964ff462851feff6688?utm_campaign=1066&utm_source=git)** | Kokomo, IN | On Site | Dec 12 |
 | **[Bombshell Sportswear](https://www.bombshellsportswear.com)** | **[Data Analytics Intern Winter at Bombshell Sportswear](https://jobright.ai/jobs/info/693c147549a7695fbd02e337?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Dec 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Project Data Analyst Co-op](https://jobright.ai/jobs/info/692288417795cd460c836047?utm_campaign=1066&utm_source=git)** | Ripon, WI | On Site | Dec 12 |
 | **[Acadian Asset Management](https://www.acadian-inc.com/)** | **[Quant Research Intern - Summer 2026](https://jobright.ai/jobs/info/68f16117f462172a5a7d75b4?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Dec 12 |
 | **[Bombshell Sportswear](https://www.bombshellsportswear.com)** | **[Data Analytics Intern Winter](https://jobright.ai/jobs/info/693beb1f50bbaf76504f5203?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Dec 12 |
-| **[Acadian Asset Management](https://www.acadian-inc.com/)** | **[Quant Developer Intern - Summer 2026](https://jobright.ai/jobs/info/68f16077f462172a5a7d74a3?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Dec 12 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Data Science - AI](https://jobright.ai/jobs/info/693bdfa150bbaf76504f4c60?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | Dec 12 |
-| ↳ | **[Data Science AI&I Intern – PhD degree level (On-site)](https://jobright.ai/jobs/info/693bcec550bbaf76504f2d93?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
