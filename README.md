@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (TikTok-Product-Data Science) - 2025 Summer (PhD)](https://jobright.ai/jobs/info/6916fc77bcdbf3560c9c3afb?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 16 |
+| **[Medpace](http://www.medpace.com)** | **[Business Intelligence Internship - Spring 2026](https://jobright.ai/jobs/info/68de368809bda65a4b627d4d?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 16 |
 | **[IBM](http://www.ibm.com)** | **[Data and AI Intern](https://jobright.ai/jobs/info/6940d23350bbaf765052dc18?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Dec 15 |
 | **[Republic Airways](http://www.rjet.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6940d1dbaa598a08c3f07494?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Dec 15 |
 | **[IBM](http://www.ibm.com)** | **[Data and AI Intern](https://jobright.ai/jobs/info/6940c90250bbaf765052c717?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 15 |
@@ -131,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Decision Analytics](https://jobright.ai/jobs/info/693dd67349a7695fbd044b78?utm_campaign=1066&utm_source=git)** | Miami, FL | Hybrid | Dec 13 |
 | **[Sanofi](https://www.sanofi.com)** | **[Data and AI Computational Scientist Catalyst](https://jobright.ai/jobs/info/693dcd4caa598a08c3ee48ce?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 13 |
 | **[First Finish | A Shawmut Company](https://www.firstfinish.net)** | **[Intern/Coop- Data Analyst](https://jobright.ai/jobs/info/693dbeaf50bbaf765050a89e?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Data Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693db27349a7695fbd042e3a?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
-| ↳ | **[2026 Summer - CDO, Data Quality Analyst Intern (4 months - Bedford, NS)](https://jobright.ai/jobs/info/693d980750bbaf7650508b0c?utm_campaign=1066&utm_source=git)** | HALIFAX, Nova Scotia, Canada | Hybrid | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Data Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693db2bc50bbaf765050a67d?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
+| ↳ | **[2026 Summer - CDO, Data Quality Analyst Intern (4 months - Bedford, NS)](https://jobright.ai/jobs/info/693d983049a7695fbd041312?utm_campaign=1066&utm_source=git)** | HALIFAX, Nova Scotia, Canada | Hybrid | Dec 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Biostatistics](https://jobright.ai/jobs/info/693d8ec750bbaf765050892f?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | On Site | Dec 13 |
 | **[Takeda](http://www.takeda.com)** | **[2026 U.S Summer Internship Program: Statistics and Quantitative Sciences Intern](https://jobright.ai/jobs/info/6920999600c9ee50eaec5e39?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Dec 13 |
 | **[Enova International](http://www.enova.com)** | **[Business Intelligence Internship Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/6903aaed63502c0aded6ae8a?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grainger](https://www.grainger.com)** | **[GTG Intern - Business Intelligence](https://jobright.ai/jobs/info/693cdc3650bbaf7650500487?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 12 |
 | **[Trans Mountain](https://www.transmountain.com/)** | **[IT Data & Innovation, Summer Student](https://jobright.ai/jobs/info/693cf38950bbaf76505029fd?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 12 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Learning & Skill Development](https://jobright.ai/jobs/info/693ccb71aa598a08c3ed9ac4?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Dec 12 |
-| **[Zipline](https://www.zipline.com/)** | **[Analytics Engineering Intern (Summer 2026)](https://jobright.ai/jobs/info/693ccaadaa598a08c3ed9a8b?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Dec 12 |
-| ↳ | **[Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc63f49a7695fbd03820e?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
