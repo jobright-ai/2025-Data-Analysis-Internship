@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Genmab](https://www.genmab.com)** | **[Global Data & Governance Intern](https://jobright.ai/jobs/info/69423a1050bbaf7650541dc7?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Dec 16 |
+| **[Johns Hopkins Applied Physics Laboratory](http://jhuapl.edu/)** | **[2026 Internship – National Security Affordability Analyst or Data Scientist](https://jobright.ai/jobs/info/694269f314ee092a6900a9fd?utm_campaign=1066&utm_source=git)** | Laurel, MD | On Site | Dec 16 |
+| **[Genmab](https://www.genmab.com)** | **[Global Data & Governance Intern](https://jobright.ai/jobs/info/6942617c14ee092a6900a672?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Dec 16 |
+| ↳ | **[Global Data & Governance Intern](https://jobright.ai/jobs/info/69423a1050bbaf7650541dc7?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Dec 16 |
 | **[UFG Insurance](https://www.ufginsurance.com/)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/694217cebdcf884a5addd936?utm_campaign=1066&utm_source=git)** | Cedar Rapids, IA | Hybrid | Dec 16 |
 | **[Amazon](https://amazon.com)** | **[2026 Data Science Internship - United States, PhD or Masters Student](https://jobright.ai/jobs/info/69423fcd14ee092a69006e6b?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 16 |
 | **[Alex Lee, Inc.](http://www.alexlee.com/)** | **[Summer Internship - Data Analytics](https://jobright.ai/jobs/info/69420f2414ee092a69002cbb?utm_campaign=1066&utm_source=git)** | 5005 Alex Lee Blvd. (28601) | On Site | Dec 16 |
@@ -88,7 +90,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68c8b2d3983e6768bc55080d?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Dec 16 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Summer Intern - Procurement](https://jobright.ai/jobs/info/6942148a14ee092a69003747?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 16 |
 | **[CN](http://www.cn.ca)** | **[Intern, Data Governance & Quality- EN](https://jobright.ai/jobs/info/6924a2fcc0cefa13343e034f?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 16 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Software and Data Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/694189ebbdcf884a5add4797?utm_campaign=1066&utm_source=git)** | Green Bay, WI | Hybrid | Dec 16 |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Software and Data Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/6941800250bbaf7650535ab5?utm_campaign=1066&utm_source=git)** | Green Bay, WI | Hybrid | Dec 16 |
 | **[AARP](http://www.aarp.org)** | **[Research Intern (Graduate Student)](https://jobright.ai/jobs/info/69095491d046ab6061cd445e?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 16 |
 | **[LinkedIn](https://www.linkedin.com)** | **[Applied Science- Data Science Intern, PhD - Summer 2026 (Mountain View, CA)](https://jobright.ai/jobs/info/694172a2bdcf884a5add3ef3?utm_campaign=1066&utm_source=git)** | Mountain View, CA | Hybrid | Dec 16 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Dec 16 |
@@ -117,6 +119,7 @@ For a complete list, click the following sortable link below:
 | **[City of Mississauga](http://www.mississauga.ca/portal/home)** | **[Co-Op Student - Data Analyst](https://jobright.ai/jobs/info/6940aaea49a7695fbd06317c?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Dec 15 |
 | **[MidAmerican Energy Company](https://www.midamericanenergy.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69420b9c14ee092a69002872?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Dec 15 |
 | **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - IT Data Analyst](https://jobright.ai/jobs/info/6940a8d850bbaf765052b123?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Dec 15 |
+| **[Cyquent, Inc.](https://cyquent.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/694262aebdcf884a5ade41ed?utm_campaign=1066&utm_source=git)** | Rockville, MD | Hybrid | Dec 15 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Dec 15 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Technology and Innovation Data Management Team Internship - Hourly - Albany](https://jobright.ai/jobs/info/694096fb49a7695fbd062659?utm_campaign=1066&utm_source=git)** | Albany, NY | On Site | Dec 15 |
 | **[Dallas Mavericks](http://www.mavs.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6941ef6814ee092a69000aa5?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Dec 15 |
@@ -145,16 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Weidmann Electrical Technology](https://www.weidmann-electrical.com/)** | **[Business Intelligence (BI) Intern](https://jobright.ai/jobs/info/69405ae849a7695fbd05e29b?utm_campaign=1066&utm_source=git)** | Urbana, OH | On Site | Dec 15 |
 | **[Ripple](http://ripple.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69403e8faa598a08c3efda0c?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Dec 15 |
 | **[Oaktree Capital Management, L.P.](http://www.oaktreecapital.com)** | **[2026 Undergraduate Intern, Risk, Reporting & Analytics](https://jobright.ai/jobs/info/694053a349a7695fbd05df54?utm_campaign=1066&utm_source=git)** | Los Angeles | On Site | Dec 15 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, FC Risk Analytics Intern (4 Months)](https://jobright.ai/jobs/info/694052ebaa598a08c3effb20?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 15 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, FC Risk Analytics Intern (4 Months)](https://jobright.ai/jobs/info/69404e23aa598a08c3eff902?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 15 |
 | **[Velera](https://www.velera.com)** | **[Intern - Data Science (REMOTE)](https://jobright.ai/jobs/info/69406dc650bbaf7650526f84?utm_campaign=1066&utm_source=git)** | Remote-USA | Remote | Dec 15 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Data and Corporate Analytics Intern](https://jobright.ai/jobs/info/69406edbaa598a08c3f00d73?utm_campaign=1066&utm_source=git)** | Campbell, California | Hybrid | Dec 15 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 DC Analyst/Data Intern](https://jobright.ai/jobs/info/6940431b50bbaf7650524581?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Dec 15 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6940632149a7695fbd05e74c?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | On Site | Dec 15 |
-| **[Ripple](http://ripple.com)** | **[Data Scientist Intern (Summer 2026)](https://jobright.ai/jobs/info/69403d4150bbaf7650523cb2?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Dec 15 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Graduate/MBA Internship - Pricing Analytics](https://jobright.ai/jobs/info/6940308c49a7695fbd05b56d?utm_campaign=1066&utm_source=git)** | New York, NY, United States | On Site | Dec 15 |
+| **[Ripple](http://ripple.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69403d4150bbaf7650523cb2?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Dec 15 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AML Data Management Intern (8 Months)](https://jobright.ai/jobs/info/69402676aa598a08c3efce99?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 15 |
 | **[Republic Airways](http://www.rjet.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6940202aaa598a08c3efccfc?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Dec 15 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AML Data Management Intern (8 Months)](https://jobright.ai/jobs/info/69401f9949a7695fbd05b035?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 15 |
-| ↳ | **[2026 Summer - GRM, AML Data Management Intern (8 Months)](https://jobright.ai/jobs/info/69403bcc49a7695fbd05b9e1?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 15 |
-| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/6940953e49a7695fbd0624c1?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Dec 15 |
-| **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/68cdb244b2a74e1837edb33c?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
