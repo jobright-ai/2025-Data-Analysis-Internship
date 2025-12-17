@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern- Risk Intelligence](https://jobright.ai/jobs/info/6933dd7a764507023d1ba37a?utm_campaign=1066&utm_source=git)** | Green Bay, Wisconsin Metropolitan Area | On Site | Dec 17 |
+| **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689adb75faa4e875e825d072?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Dec 17 |
+| **[Experian](http://www.experianplc.com)** | **[Fraud Analytics Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/6909639f4a1b456627afff1f?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 17 |
 | **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689ad80f83d13d1f5b69cefb?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Dec 17 |
 | ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689ae1bc83d13d1f5b69d788?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 17 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Business Intelligence Intern - Summer 2026](https://jobright.ai/jobs/info/69092361bcccf20de59d7c0a?utm_campaign=1066&utm_source=git)** | Neenah, WI | Hybrid | Dec 17 |
@@ -66,6 +69,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689ae31083d13d1f5b69d924?utm_campaign=1066&utm_source=git)** | Richmond, VA | Hybrid | Dec 17 |
 | ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/68ccd7595954791a1d6ff5cf?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Dec 17 |
 | **[HDR](http://www.hdrinc.com)** | **[Data Scientist Intern (Summer 2026)](https://jobright.ai/jobs/info/692e5ecdef4b48533d13f336?utm_campaign=1066&utm_source=git)** | Omaha, NE | On Site | Dec 17 |
+| **[Precision Castparts](http://precast.com)** | **[Data Analytics Intern - Supply Chain (Co-Op)](https://jobright.ai/jobs/info/6908f1774a1b456627afa6e8?utm_campaign=1066&utm_source=git)** | Santa Ana, CA | On Site | Dec 17 |
+| **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689add96faa4e875e825d384?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Dec 17 |
+| **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690922494a1b456627afcf98?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Dec 17 |
 | **[Johns Hopkins Applied Physics Laboratory](http://jhuapl.edu/)** | **[2026 Internship – National Security Affordability Analyst or Data Scientist](https://jobright.ai/jobs/info/694269f314ee092a6900a9fd?utm_campaign=1066&utm_source=git)** | Laurel, MD | On Site | Dec 16 |
 | **[Genmab](https://www.genmab.com)** | **[Global Data & Governance Intern](https://jobright.ai/jobs/info/6942617c14ee092a6900a672?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Dec 16 |
 | ↳ | **[Global Data & Governance Intern](https://jobright.ai/jobs/info/69423a1050bbaf7650541dc7?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Dec 16 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DRB](https://drb.com)** | **[Patheon Data Specialist Intern - Summer 2026](https://jobright.ai/jobs/info/69408ed049a7695fbd061fa0?utm_campaign=1066&utm_source=git)** | Akron, OH | Hybrid | Dec 15 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Graduate/MBA Internship - Pricing Analytics](https://jobright.ai/jobs/info/6940637250bbaf765052681f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 15 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Research Intern, Beyond Jails](https://jobright.ai/jobs/info/69406312aa598a08c3f003ed?utm_campaign=1066&utm_source=git)** | Brooklyn, New York | Hybrid | Dec 15 |
-| **[Corsair](http://www.corsair.com)** | **[Data Science Intern 1](https://jobright.ai/jobs/info/694080ce50bbaf765052866b?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Dec 15 |
-| **[CCS Global Tech](http://ccsglobaltech.com)** | **[Entry-Level Data Analyst (Internship)](https://jobright.ai/jobs/info/69405efd49a7695fbd05e474?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Dec 15 |
-| **[BASF](https://www.basf.com/)** | **[2026 Summer Internship - Data Science/Computer Engineering - Geismar, LA](https://jobright.ai/jobs/info/69407b1449a7695fbd05fb48?utm_campaign=1066&utm_source=git)** | Geismar, LA | Hybrid | Dec 15 |
-| **[Weidmann Electrical Technology](https://www.weidmann-electrical.com/)** | **[Business Intelligence (BI) Intern](https://jobright.ai/jobs/info/69405ae849a7695fbd05e29b?utm_campaign=1066&utm_source=git)** | Urbana, OH | On Site | Dec 15 |
-| **[Ripple](http://ripple.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69403e8faa598a08c3efda0c?utm_campaign=1066&utm_source=git)** | San Francisco, CA, United States | On Site | Dec 15 |
-| **[Oaktree Capital Management, L.P.](http://www.oaktreecapital.com)** | **[2026 Undergraduate Intern, Risk, Reporting & Analytics](https://jobright.ai/jobs/info/694053a349a7695fbd05df54?utm_campaign=1066&utm_source=git)** | Los Angeles | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
