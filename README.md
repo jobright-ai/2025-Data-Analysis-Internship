@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exaquant](https://exaquant.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6942cd84dd382f5f5668c8f2?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 17 |
+| **[WK Kellogg Co](https://www.wkkellogg.com/en-us/home.html)** | **[Temporary Student Support, Category Strategy](https://jobright.ai/jobs/info/691ae87e15b415636718bcdf?utm_campaign=1066&utm_source=git)** | Battle Creek, MI | Hybrid | Dec 17 |
+| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Real Estate Data Intern](https://jobright.ai/jobs/info/68ed43506335d33236126edd?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Dec 17 |
+| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Data Science Institute Undergraduate Student Intern - Summer 2026](https://jobright.ai/jobs/info/69093cd3bcccf20de59d9196?utm_campaign=1066&utm_source=git)** | Livermore, CA | On Site | Dec 17 |
+| **[HSB - Hartford Steam Boiler](http://www.hsb.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6909d15bbcccf20de59ddcdb?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Dec 17 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern- Risk Intelligence](https://jobright.ai/jobs/info/6933dd7a764507023d1ba37a?utm_campaign=1066&utm_source=git)** | Green Bay, Wisconsin Metropolitan Area | On Site | Dec 17 |
+| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Data Science Institute Graduate Student Intern - Summer 2026](https://jobright.ai/jobs/info/69093a784a1b456627afe48a?utm_campaign=1066&utm_source=git)** | Livermore, CA | On Site | Dec 17 |
+| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Data Strategy & Governance](https://jobright.ai/jobs/info/6926382af0beb0723262334f?utm_campaign=1066&utm_source=git)** | Parsippany, NJ | On Site | Dec 17 |
 | **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689adb75faa4e875e825d072?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Dec 17 |
 | **[Experian](http://www.experianplc.com)** | **[Fraud Analytics Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/6909639f4a1b456627afff1f?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 17 |
 | **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/689ad80f83d13d1f5b69cefb?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Dec 17 |
@@ -75,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Johns Hopkins Applied Physics Laboratory](http://jhuapl.edu/)** | **[2026 Internship – National Security Affordability Analyst or Data Scientist](https://jobright.ai/jobs/info/694269f314ee092a6900a9fd?utm_campaign=1066&utm_source=git)** | Laurel, MD | On Site | Dec 16 |
 | **[Genmab](https://www.genmab.com)** | **[Global Data & Governance Intern](https://jobright.ai/jobs/info/6942617c14ee092a6900a672?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Dec 16 |
 | ↳ | **[Global Data & Governance Intern](https://jobright.ai/jobs/info/69423a1050bbaf7650541dc7?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Dec 16 |
-| **[UFG Insurance](https://www.ufginsurance.com/)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/694217cebdcf884a5addd936?utm_campaign=1066&utm_source=git)** | Cedar Rapids, IA | Hybrid | Dec 16 |
 | **[Amazon](https://amazon.com)** | **[2026 Data Science Internship - United States, PhD or Masters Student](https://jobright.ai/jobs/info/69423fcd14ee092a69006e6b?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 16 |
 | **[Alex Lee, Inc.](http://www.alexlee.com/)** | **[Summer Internship - Data Analytics](https://jobright.ai/jobs/info/69420f2414ee092a69002cbb?utm_campaign=1066&utm_source=git)** | 5005 Alex Lee Blvd. (28601) | On Site | Dec 16 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69420c6c14ee092a69002926?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 16 |
@@ -104,9 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68d195c417554c2d9eedcf08?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Dec 16 |
 | ↳ | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/693a486548a8ce22990e43c1?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Dec 16 |
 | ↳ | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68c8b2d3983e6768bc55080d?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Dec 16 |
-| **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Summer Intern - Procurement](https://jobright.ai/jobs/info/6942148a14ee092a69003747?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 16 |
 | **[CN](http://www.cn.ca)** | **[Intern, Data Governance & Quality- EN](https://jobright.ai/jobs/info/6924a2fcc0cefa13343e034f?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 16 |
-| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Software and Data Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/694189ebbdcf884a5add4797?utm_campaign=1066&utm_source=git)** | Green Bay, WI | Hybrid | Dec 16 |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Software and Data Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/6941800250bbaf7650535ab5?utm_campaign=1066&utm_source=git)** | Green Bay, WI | Hybrid | Dec 16 |
 | **[AARP](http://www.aarp.org)** | **[Research Intern (Graduate Student)](https://jobright.ai/jobs/info/69095491d046ab6061cd445e?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 16 |
 | **[LinkedIn](https://www.linkedin.com)** | **[Applied Science- Data Science Intern, PhD - Summer 2026 (Mountain View, CA)](https://jobright.ai/jobs/info/694172a2bdcf884a5add3ef3?utm_campaign=1066&utm_source=git)** | Mountain View, CA | Hybrid | Dec 16 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Dec 16 |
@@ -118,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quant Trading Intern 2026](https://jobright.ai/jobs/info/6940f987aa598a08c3f0a674?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Dec 16 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69415827bdcf884a5add1f1f?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Dec 16 |
 | **[CN](http://www.cn.ca)** | **[Intern, Data Governance & Quality- EN](https://jobright.ai/jobs/info/69249836ec574f4265bb4c7b?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 16 |
+| **[Ripple](http://ripple.com)** | **[Data Scientist Intern (Summer 2026)](https://jobright.ai/jobs/info/69403d4150bbaf7650523cb2?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Dec 16 |
 | **[Genmab](https://www.genmab.com)** | **[Clinical and Statistical Programming Intern](https://jobright.ai/jobs/info/6924a3c3ec574f4265bb547c?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Dec 16 |
 | **[Genuine Parts Company](http://genpt.com)** | **[Technology Intern – Digital Analytics- Summer 2026](https://jobright.ai/jobs/info/6941a31cbdcf884a5add5c90?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Dec 16 |
 | **[Medpace](http://www.medpace.com)** | **[Business Intelligence Internship - Spring 2026](https://jobright.ai/jobs/info/68de368809bda65a4b627d4d?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 16 |
@@ -135,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[City of Mississauga](http://www.mississauga.ca/portal/home)** | **[Co-Op Student - Data Analyst](https://jobright.ai/jobs/info/6940aaea49a7695fbd06317c?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Dec 15 |
 | **[MidAmerican Energy Company](https://www.midamericanenergy.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/69420b9c14ee092a69002872?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Dec 15 |
 | **[Nassau Financial Group](https://nfg.com)** | **[2026 Intern - IT Data Analyst](https://jobright.ai/jobs/info/6940a8d850bbaf765052b123?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Dec 15 |
+| **[Cyquent, Inc.](https://cyquent.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6942b1f9dd382f5f5668b366?utm_campaign=1066&utm_source=git)** | Rockville, MD | Hybrid | Dec 15 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Dec 15 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Technology and Innovation Data Management Team Internship - Hourly - Albany](https://jobright.ai/jobs/info/694096fb49a7695fbd062659?utm_campaign=1066&utm_source=git)** | Albany, NY | On Site | Dec 15 |
 | **[Dallas Mavericks](http://www.mavs.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6941ef6814ee092a69000aa5?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Dec 15 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allen Institute](https://alleninstitute.org/)** | **[ASPIRE Intern – Studio D3: Data-driven Models of Collective Cell Behavior](https://jobright.ai/jobs/info/6941831c50bbaf7650535b6c?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Dec 15 |
 | **[Corsair](http://www.corsair.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/694078ed49a7695fbd05f8d1?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Dec 15 |
 | ↳ | **[Data Science Intern 2](https://jobright.ai/jobs/info/694077b449a7695fbd05f6f9?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Dec 15 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, FC Risk Analytics Intern (4 Months)](https://jobright.ai/jobs/info/69409ae050bbaf765052a8f3?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 15 |
-| **[Velera](https://www.velera.com)** | **[Intern - Data Science (REMOTE)](https://jobright.ai/jobs/info/6940907049a7695fbd06212b?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 15 |
-| **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/69408caa49a7695fbd061e2e?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Dec 15 |
-| **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Data and Corporate Analytics Intern](https://jobright.ai/jobs/info/69408b76aa598a08c3f03aef?utm_campaign=1066&utm_source=git)** | Campbell, CA | Hybrid | Dec 15 |
-| **[DRB](https://drb.com)** | **[Patheon Data Specialist Intern - Summer 2026](https://jobright.ai/jobs/info/69408ed049a7695fbd061fa0?utm_campaign=1066&utm_source=git)** | Akron, OH | Hybrid | Dec 15 |
-| **[Tiffany & Co.](http://www.tiffany.com)** | **[Graduate/MBA Internship - Pricing Analytics](https://jobright.ai/jobs/info/6940637250bbaf765052681f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 15 |
-| **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Research Intern, Beyond Jails](https://jobright.ai/jobs/info/69406312aa598a08c3f003ed?utm_campaign=1066&utm_source=git)** | Brooklyn, New York | Hybrid | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
