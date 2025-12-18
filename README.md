@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sage Bionetworks](https://sagebionetworks.org)** | **[Alzheimer’s Disease Translational Research Intern](https://jobright.ai/jobs/info/69438a40dd382f5f5669af24?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Dec 17 |
+| **[Border States](https://www.borderstates.com)** | **[BSC Intern - Data & Analytics](https://jobright.ai/jobs/info/6943832994730b739876a0b1?utm_campaign=1066&utm_source=git)** | Fargo, ND | On Site | Dec 17 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - CRE, Data Analyst Intern (4 Months)](https://jobright.ai/jobs/info/69438069dd382f5f56698f87?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 17 |
 | **[S&P Global](https://www.spglobal.com)** | **[Research Analyst Intern - Gas, Power & Climate Solutions (Early Career)](https://jobright.ai/jobs/info/6943797594730b73987697fb?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Dec 17 |
+| **[Lanteris Space Systems](https://www.lanterisspace.com)** | **[Intern, Quality, Data Analysis, AI](https://jobright.ai/jobs/info/6943610650bbaf76505545e3?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 17 |
 | **[CAS](http://www.cas.org)** | **[CAS 2026 Bioinformatics Scientist Summer Intern](https://jobright.ai/jobs/info/69435a9594730b73987665bf?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Dec 17 |
 | **[Hudson Institute](http://www.hudson.org/)** | **[Research Internship, Great Power Competition](https://jobright.ai/jobs/info/69435a2e94730b73987664e1?utm_campaign=1066&utm_source=git)** | Washington,DC,US | Hybrid | Dec 17 |
 | **[Maxar Technologies](https://www.maxar.com)** | **[Intern, Quality, Data Analysis, AI](https://jobright.ai/jobs/info/69434d6f94730b7398765be0?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 17 |
@@ -74,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Buying and Planning Data Analytics](https://jobright.ai/jobs/info/694348cb50bbaf7650552e04?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 17 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Field Services Data Analytics Intern (Remote)](https://jobright.ai/jobs/info/694343f594730b7398765501?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 17 |
 | **[Emerson](http://www.emerson.com)** | **[Graduate Data Science Intern](https://jobright.ai/jobs/info/6943440794730b7398765532?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Dec 17 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[Quantitative Sciences & Statistical Programming Intern - Graduate](https://jobright.ai/jobs/info/69433d9350bbaf7650551c0f?utm_campaign=1066&utm_source=git)** | US - Boston - MA | Hybrid | Dec 17 |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[Quantitative Sciences & Statistical Programming Intern - Graduate](https://jobright.ai/jobs/info/69433a36dd382f5f56693127?utm_campaign=1066&utm_source=git)** | US - Boston - MA | Hybrid | Dec 17 |
 | **[Emerson](http://www.emerson.com)** | **[Graduate Data Science Intern](https://jobright.ai/jobs/info/6943146750bbaf765054ec2a?utm_campaign=1066&utm_source=git)** | 11500 North Mopac Expressway, Austin, TX, 78759, US | On Site | Dec 17 |
 | **[Cal Ripken Sr. Collegiate Baseball League](http://www.calripkenleague.org/)** | **[Baseball Tracking and Analytics Internship](https://jobright.ai/jobs/info/6943324794730b73987634ed?utm_campaign=1066&utm_source=git)** | Gaithersburg, MD | On Site | Dec 17 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Redmond](https://jobright.ai/jobs/info/6943316fdd382f5f56692279?utm_campaign=1066&utm_source=git)** | United States, Washington, Redmond | Hybrid | Dec 17 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Research Intern (Graduate Student)](https://jobright.ai/jobs/info/69095491d046ab6061cd445e?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 16 |
 | **[LinkedIn](https://www.linkedin.com)** | **[Applied Science- Data Science Intern, PhD - Summer 2026 (Mountain View, CA)](https://jobright.ai/jobs/info/694172a2bdcf884a5add3ef3?utm_campaign=1066&utm_source=git)** | Mountain View, CA | Hybrid | Dec 16 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Lincoln, NE only](https://jobright.ai/jobs/info/68ca54fd46caff4db51fd9ca?utm_campaign=1066&utm_source=git)** | Lincoln, NE | On Site | Dec 16 |
-| **[ASML](https://www.asml.com)** | **[Internship - Data Visualization and Analytics Intern](https://jobright.ai/jobs/info/69250463c0cefa13343e5829?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Dec 16 |
-| **[HR&A Advisors](http://www.hraadvisors.com)** | **[2026 Summer Analyst Internship](https://jobright.ai/jobs/info/6925009b38cd5478a8d613b6?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 16 |
-| **[Henkel](http://www.henkel.com)** | **[Information Technology & Data Analytics Intern – Summer 2026](https://jobright.ai/jobs/info/693698af1c1c2161c13edd5f?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Dec 16 |
-| **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Data Analyst Intern 2026](https://jobright.ai/jobs/info/68cdaf6ee23def7af55be00c?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Dec 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
