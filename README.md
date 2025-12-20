@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Data and Analytics](https://jobright.ai/jobs/info/6945fe22d1953b5d11bf10df?utm_campaign=1066&utm_source=git)** | 1381 Old Mill Circle Suite 200 | On Site | Dec 19 |
+| **[Veolia | North America](http://growingblue.com/)** | **[Capital Project's Intern](https://jobright.ai/jobs/info/6945f3d1d1953b5d11befd18?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 19 |
+| **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern- Data Analytics](https://jobright.ai/jobs/info/6945f22363141d1884558a3c?utm_campaign=1066&utm_source=git)** | Greater Milwaukee | On Site | Dec 19 |
+| **[IGEN](https://www.complyiq.io/)** | **[Business Intelligence Analyst Intern - U.S. AutoForce](https://jobright.ai/jobs/info/6945ebcd7d506e3808f12e6b?utm_campaign=1066&utm_source=git)** | Appleton, WI | Hybrid | Dec 19 |
+| **[Valley Bank](https://www.valley.com/)** | **[Intern - Commercial Data & Analytics](https://jobright.ai/jobs/info/6945ea8f63141d1884558637?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Dec 19 |
+| **[NinjaTrader](http://www.ninjatrader.com)** | **[Graduate Research Intern - Summer 2026](https://jobright.ai/jobs/info/6945ea10d1953b5d11bef832?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 19 |
+| **[Azuria Water Solutions](http://www.azuria.com)** | **[Intern](https://jobright.ai/jobs/info/6945e80f7d506e3808f12cb3?utm_campaign=1066&utm_source=git)** | ITI Layton UT | On Site | Dec 19 |
+| **[Schneider Electric](https://www.se.com)** | **[Data analyst intern](https://jobright.ai/jobs/info/6945e7fc63141d1884558451?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Dec 19 |
+| **[Jenner & Block](http://jenner.com/)** | **[Competitive Intelligence Intern](https://jobright.ai/jobs/info/6945e7dad1953b5d11bef691?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 19 |
 | **[Clayton](http://www.claytonhomes.com/)** | **[Business Analytics/ERP Reporting Intern](https://jobright.ai/jobs/info/6945e3eed1953b5d11bef405?utm_campaign=1066&utm_source=git)** | Maryville, TN | On Site | Dec 19 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Data Sciences and Quantitative Biology Intern, Master’s and PhD Students](https://jobright.ai/jobs/info/6945dbbbd1953b5d11beedc5?utm_campaign=1066&utm_source=git)** | US - Waltham - MA | Hybrid | Dec 19 |
 | **[Access Limited](accesslimited.com)** | **[IT Intern](https://jobright.ai/jobs/info/6945da2ed1953b5d11beec73?utm_campaign=1066&utm_source=git)** | Westminster, CO | Hybrid | Dec 19 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: Internship Opportunities - Redmond](https://jobright.ai/jobs/info/6943fef950bbaf76505604a5?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Dec 18 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Business Data Analyst Intern – Indirect Commodity](https://jobright.ai/jobs/info/693e815aaa598a08c3eed2f8?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 18 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Data Scientist - PhD Intern](https://jobright.ai/jobs/info/68eed394e0db92422580bc9d?utm_campaign=1066&utm_source=git)** | San Mateo, CA | Hybrid | Dec 18 |
-| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927c81791ceeb2e8a543118?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Dec 18 |
-| **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[IT Intern](https://jobright.ai/jobs/info/69275e00f0beb072326297d1?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Dec 18 |
-| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2026 - Quantitative Research Intern](https://jobright.ai/jobs/info/68ed459681fdd1626d39a7c5?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Dec 18 |
-| **[Analysis Group](http://www.analysisgroup.com)** | **[Data Science Intern (Master's) - Boston (2026 Start Date)](https://jobright.ai/jobs/info/69424a2a50bbaf76505443db?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Dec 18 |
-| **[KLA](https://www.kla.com)** | **[Supply Chain Data Science Intern](https://jobright.ai/jobs/info/692763e1d47de4798ecdc13b?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Dec 18 |
-| **[Analysis Group](http://www.analysisgroup.com)** | **[Data Science Intern (Master's) - Montreal (2026 Start Date) / Stage - Scientifique des données (diplôme de maîtrise) - Montréal (Date de début 2026)](https://jobright.ai/jobs/info/6927be97f0beb0723262da21?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 18 |
-| ↳ | **[Senior Data Science Intern (PhD) - Montreal (2026 Start Date) / Stage - Scientifique des données senior (diplôme de doctorat) - Montréal (Date de début 2026](https://jobright.ai/jobs/info/6927c40c91ceeb2e8a542e93?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 18 |
-| **[Neuralk AI](https://www.neuralk-ai.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6943eb6750bbaf765055e638?utm_campaign=1066&utm_source=git)** | Paris Station, NY | On Site | Dec 18 |
-| **[Baptist Memorial Health Care](http://www.baptistonline.org/)** | **[Intern-Health Data Analytics](https://jobright.ai/jobs/info/6927359a91ceeb2e8a53d3f4?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
