@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12d96f462172a5a7d3c42?utm_campaign=1066&utm_source=git)** | Waukegan, IL | On Site | Dec 20 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 20 |
+| **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f137b9e6870116b1f54e72?utm_campaign=1066&utm_source=git)** | Kenosha, WI | On Site | Dec 20 |
+| ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12d96f462172a5a7d3c42?utm_campaign=1066&utm_source=git)** | Waukegan, IL | On Site | Dec 20 |
 | **[Veritiv](https://www.veritiv.com)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/68d57ce163d77d6f6f3ef057?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Dec 20 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Wholesale Intern](https://jobright.ai/jobs/info/690d73f3d046ab6061cf6587?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[California Association of Food Banks](https://www.cafoodbanks.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/6941fb0c14ee092a69001adb?utm_campaign=1066&utm_source=git)** | Oakland (Hybrid Position) | Hybrid | Dec 20 |
@@ -110,7 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Access Limited](accesslimited.com)** | **[IT Intern](https://jobright.ai/jobs/info/6945a7ab63141d1884553477?utm_campaign=1066&utm_source=git)** | US-CO-Westminster | Hybrid | Dec 19 |
 | **[GeoStabilization International®](http://www.geostabilization.com)** | **[IT Intern](https://jobright.ai/jobs/info/6945a4c0951654073537bf07?utm_campaign=1066&utm_source=git)** | US-CO-Westminster | Hybrid | Dec 19 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Sciences and Informatics (CSI), Reagent Bioinformatics](https://jobright.ai/jobs/info/6945a31e63141d1884552f2e?utm_campaign=1066&utm_source=git)** | Pleasanton | On Site | Dec 19 |
-| **[KION Group](http://www.kiongroup.com/)** | **[Analytics Internship](https://jobright.ai/jobs/info/6945c22f63141d1884554f52?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI, United States | On Site | Dec 19 |
+| **[KION Group](http://www.kiongroup.com/)** | **[Analytics Internship](https://jobright.ai/jobs/info/6945c8fd951654073537e622?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI, United States | On Site | Dec 19 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 19 |
 | **[Clayton Homes of Opelousas](http://claytonhomesopelousas.com)** | **[Business Analytics/ERP Reporting Intern](https://jobright.ai/jobs/info/6945c57b63141d1884555343?utm_campaign=1066&utm_source=git)** | Maryville, TN | On Site | Dec 19 |
 | **[HUB International](https://www.hubinternational.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69459d4263141d1884552b87?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Dec 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6944b067a7227b3ece665bd0?utm_campaign=1066&utm_source=git)** | Remote Site | Remote | Dec 18 |
 | **[National Commission on Certification of Physician Assistants (NCCPA)](https://www.nccpa.net/)** | **[Summer Psychometrics & Data Science Intern](https://jobright.ai/jobs/info/6944ac9250bbaf765056c427?utm_campaign=1066&utm_source=git)** | Johns Creek, GA, US | Hybrid | Dec 18 |
 | **[Rally Assets](http://rallyassets.com)** | **[Impact Analyst Intern](https://jobright.ai/jobs/info/6944a958a7227b3ece6655f4?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 18 |
-| **[National Commission on Certification of Physician Assistants (NCCPA)](https://www.nccpa.net/)** | **[Summer Psychometrics & Data Science Intern](https://jobright.ai/jobs/info/69449fe550bbaf765056a487?utm_campaign=1066&utm_source=git)** | Johns Creek, GA | On Site | Dec 18 |
-| **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Data Governance - Summer 2026](https://jobright.ai/jobs/info/69449a9394730b739877cef5?utm_campaign=1066&utm_source=git)** | Cary, NC | Hybrid | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
