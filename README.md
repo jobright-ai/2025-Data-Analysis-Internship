@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Data Scientist](https://jobright.ai/jobs/info/694623f963141d188455cfc5?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Dec 19 |
 | **[C.A. Carlin](https://carlin-group.com/)** | **[Insights Analyst Internship](https://jobright.ai/jobs/info/69461ae3d1953b5d11bf376e?utm_campaign=1066&utm_source=git)** | Schaumburg, IL | Hybrid | Dec 19 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2025 Data & Analytics Intern - Chicago](https://jobright.ai/jobs/info/694618e67d506e3808f16ce3?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 19 |
 | **[BMO](http://www.bmo.com)** | **[Data Science Intern, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6946105f63141d188455bf83?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 19 |
@@ -75,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[NinjaTrader](http://www.ninjatrader.com)** | **[Graduate Research Intern - Summer 2026](https://jobright.ai/jobs/info/6945ea10d1953b5d11bef832?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 19 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Data and Analytics](https://jobright.ai/jobs/info/694604aa7d506e3808f15620?utm_campaign=1066&utm_source=git)** | US-NC-Winston Salem | On Site | Dec 19 |
 | **[Azuria Water Solutions](http://www.azuria.com)** | **[Intern](https://jobright.ai/jobs/info/6945e80f7d506e3808f12cb3?utm_campaign=1066&utm_source=git)** | ITI Layton UT | On Site | Dec 19 |
-| **[Schneider Electric](https://www.se.com)** | **[Data analyst intern](https://jobright.ai/jobs/info/6945e7fc63141d1884558451?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Dec 19 |
 | **[Jenner & Block](http://jenner.com/)** | **[Competitive Intelligence Intern](https://jobright.ai/jobs/info/6945e7dad1953b5d11bef691?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 19 |
 | **[Clayton](http://www.claytonhomes.com/)** | **[Business Analytics/ERP Reporting Intern](https://jobright.ai/jobs/info/6945e3eed1953b5d11bef405?utm_campaign=1066&utm_source=git)** | Maryville, TN | On Site | Dec 19 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Data Sciences and Quantitative Biology Intern, Master’s and PhD Students](https://jobright.ai/jobs/info/6945dbbbd1953b5d11beedc5?utm_campaign=1066&utm_source=git)** | US - Waltham - MA | Hybrid | Dec 19 |
@@ -100,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Access Limited](accesslimited.com)** | **[IT Intern](https://jobright.ai/jobs/info/6945a7ab63141d1884553477?utm_campaign=1066&utm_source=git)** | US-CO-Westminster | Hybrid | Dec 19 |
 | **[GeoStabilization International®](http://www.geostabilization.com)** | **[IT Intern](https://jobright.ai/jobs/info/6945a4c0951654073537bf07?utm_campaign=1066&utm_source=git)** | US-CO-Westminster | Hybrid | Dec 19 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Sciences and Informatics (CSI), Reagent Bioinformatics](https://jobright.ai/jobs/info/6945a31e63141d1884552f2e?utm_campaign=1066&utm_source=git)** | Pleasanton | On Site | Dec 19 |
-| **[KION Group](http://www.kiongroup.com/)** | **[Analytics Internship](https://jobright.ai/jobs/info/6945c8fd951654073537e622?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI, United States | On Site | Dec 19 |
+| **[KION Group](http://www.kiongroup.com/)** | **[Analytics Internship](https://jobright.ai/jobs/info/6945c22f63141d1884554f52?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI, United States | On Site | Dec 19 |
 | **[LCS](https://www.lcsnet.com/)** | **[Data & Analytics Internship](https://jobright.ai/jobs/info/68cd12ade23def7af55b4c8b?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Dec 19 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 19 |
 | **[Clayton Homes of Opelousas](http://claytonhomesopelousas.com)** | **[Business Analytics/ERP Reporting Intern](https://jobright.ai/jobs/info/6945c57b63141d1884555343?utm_campaign=1066&utm_source=git)** | Maryville, TN | On Site | Dec 19 |
@@ -109,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Pharmacy (Data Analytics) Intern](https://jobright.ai/jobs/info/69462c2763141d188455d49d?utm_campaign=1066&utm_source=git)** | 465 South St, Morristown, NJ, 07960, US | On Site | Dec 19 |
 | **[Merchants Distributors, LLC](https://www.mdi.com)** | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/6945b70b63141d1884554676?utm_campaign=1066&utm_source=git)** | US-NC-Hickory | On Site | Dec 19 |
 | ↳ | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/6945b501951654073537d11f?utm_campaign=1066&utm_source=git)** | 5005 Alex Lee Blvd. (28601) | On Site | Dec 19 |
-| **[Alex Lee, Inc.](http://www.alexlee.com/)** | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/6945af60951654073537c9b4?utm_campaign=1066&utm_source=git)** | US-NC-Hickory | On Site | Dec 19 |
-| ↳ | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/6945b95bd1953b5d11beba35?utm_campaign=1066&utm_source=git)** | 5005 Alex Lee Blvd. (28601) | On Site | Dec 19 |
+| **[Alex Lee, Inc.](http://www.alexlee.com/)** | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/6945b95bd1953b5d11beba35?utm_campaign=1066&utm_source=git)** | 5005 Alex Lee Blvd. (28601) | On Site | Dec 19 |
+| ↳ | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/6945af60951654073537c9b4?utm_campaign=1066&utm_source=git)** | US-NC-Hickory | On Site | Dec 19 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Clinical Supplies Data Analyst Intern, Undergraduate Students](https://jobright.ai/jobs/info/69458d1463141d1884551a58?utm_campaign=1066&utm_source=git)** | US - Gaithersburg - MD | On Site | Dec 19 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69458b6dd1953b5d11be8934?utm_campaign=1066&utm_source=git)** | Oklahoma City, Oklahoma | On Site | Dec 19 |
 | **[Realtor.com](https://www.realtor.com/)** | **[Intern, Data Analytics](https://jobright.ai/jobs/info/69458ac9d1953b5d11be888d?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Dec 19 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6944738750bbaf76505678e3?utm_campaign=1066&utm_source=git)** | North Bethesda, Maryland | On Site | Dec 18 |
 | **[Inversion](https://www.inversioncap.com/)** | **[Research Internship](https://jobright.ai/jobs/info/6944731bdd382f5f566a9a8d?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
 | **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6944723694730b739877a05e?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Dec 18 |
+| **[Curriculum Associates](http://www.curriculumassociates.com)** | **[Research Intern](https://jobright.ai/jobs/info/694461ea50bbaf7650565ef8?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 18 |
+| **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Quantitative Sciences & Statistical Programming Intern - Graduate](https://jobright.ai/jobs/info/6944533294730b7398777c31?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
