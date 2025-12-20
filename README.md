@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Development (Quant Research) Internship – Summer 2026](https://jobright.ai/jobs/info/690cfe564a1b456627b1c37c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 20 |
+| **[Oatey Company](https://www.oatey.com//)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cb8fc4ba798c1a501d1c99?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Dec 20 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/692a02fa4c474121999cb201?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Dec 20 |
+| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, Bachelor’s or Master’s Degree (Summer 2026)](https://jobright.ai/jobs/info/69463c07d1953b5d11bf68b7?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 20 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Early Clinical Development](https://jobright.ai/jobs/info/69465fdf63141d188456126e?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Dec 20 |
 | **[C.A. Carlin](https://carlin-group.com/)** | **[Insights Analyst Internship](https://jobright.ai/jobs/info/69461ae3d1953b5d11bf376e?utm_campaign=1066&utm_source=git)** | Schaumburg, IL | Hybrid | Dec 19 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2025 Data & Analytics Intern - Chicago](https://jobright.ai/jobs/info/694618e67d506e3808f16ce3?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Real World Evidence Intern - PhD](https://jobright.ai/jobs/info/69447babdd382f5f566aa8fc?utm_campaign=1066&utm_source=git)** | US - Wilmington - DE | Hybrid | Dec 18 |
 | **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Real World Evidence Intern - PhD](https://jobright.ai/jobs/info/6944758e94730b739877a7f9?utm_campaign=1066&utm_source=git)** | Wilmington, Delaware, United States of America | Hybrid | Dec 18 |
 | **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6944738750bbaf76505678e3?utm_campaign=1066&utm_source=git)** | North Bethesda, Maryland | On Site | Dec 18 |
-| **[Inversion](https://www.inversioncap.com/)** | **[Research Internship](https://jobright.ai/jobs/info/6944731bdd382f5f566a9a8d?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Dec 18 |
-| **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6944723694730b739877a05e?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Dec 18 |
-| **[Curriculum Associates](http://www.curriculumassociates.com)** | **[Research Intern](https://jobright.ai/jobs/info/694461ea50bbaf7650565ef8?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 18 |
-| **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Quantitative Sciences & Statistical Programming Intern - Graduate](https://jobright.ai/jobs/info/6944533294730b7398777c31?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
