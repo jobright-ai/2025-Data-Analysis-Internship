@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Early Clinical Development](https://jobright.ai/jobs/info/69465fdf63141d188456126e?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Dec 20 |
 | **[C.A. Carlin](https://carlin-group.com/)** | **[Insights Analyst Internship](https://jobright.ai/jobs/info/69461ae3d1953b5d11bf376e?utm_campaign=1066&utm_source=git)** | Schaumburg, IL | Hybrid | Dec 19 |
 | **[West Monroe](https://www.westmonroe.com)** | **[2025 Data & Analytics Intern - Chicago](https://jobright.ai/jobs/info/694618e67d506e3808f16ce3?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 19 |
 | **[BMO](http://www.bmo.com)** | **[Data Science Intern, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6946105f63141d188455bf83?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 19 |
@@ -102,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[LCS](https://www.lcsnet.com/)** | **[Data & Analytics Internship](https://jobright.ai/jobs/info/68cd12ade23def7af55b4c8b?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Dec 19 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 19 |
 | **[Clayton Homes of Opelousas](http://claytonhomesopelousas.com)** | **[Business Analytics/ERP Reporting Intern](https://jobright.ai/jobs/info/6945c57b63141d1884555343?utm_campaign=1066&utm_source=git)** | Maryville, TN | On Site | Dec 19 |
-| **[Oracle](https://www.oracle.com/)** | **[PhD Applied Scientist Intern - Oracle Analytics](https://jobright.ai/jobs/info/6945bd85951654073537d9fd?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 19 |
 | **[HUB International](https://www.hubinternational.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69459d4263141d1884552b87?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Dec 19 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Pharmacy (Data Analytics) Intern](https://jobright.ai/jobs/info/69462c2763141d188455d49d?utm_campaign=1066&utm_source=git)** | 465 South St, Morristown, NJ, 07960, US | On Site | Dec 19 |
 | **[Merchants Distributors, LLC](https://www.mdi.com)** | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/6945b70b63141d1884554676?utm_campaign=1066&utm_source=git)** | US-NC-Hickory | On Site | Dec 19 |
