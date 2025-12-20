@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/694712cc7d506e3808f271bb?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Dec 20 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Geographical Information Systems Intern
+Job ID : 247658](https://jobright.ai/jobs/info/69470b1e63141d188456b403?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Dec 20 |
+| **[Smith Debnam Narron Drake Saintsing & Myers, L.L.P.](http://smithdebnamlaw.com)** | **[SQL Reporting Intern](https://jobright.ai/jobs/info/6946feb77d506e3808f250ce?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Dec 20 |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[Data Sciences and Quantitative Biology Intern, Master’s and PhD Students](https://jobright.ai/jobs/info/6946fe3b63141d188456ad46?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Dec 20 |
+| ↳ | **[Clinical Supplies Data Analyst Intern, Undergraduate Students](https://jobright.ai/jobs/info/6946fd927d506e3808f24f23?utm_campaign=1066&utm_source=git)** | Gaithersburg, MD | On Site | Dec 20 |
 | **[Capital One](http://www.capitalone.com)** | **[Intern, Data Scientist - Summer 2026](https://jobright.ai/jobs/info/6946e59063141d188456a02a?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 20 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Pharmacometrics Intern (PhD)](https://jobright.ai/jobs/info/6946cd077d506e3808f222b6?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Dec 20 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 20 |
@@ -121,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Pharmacy (Data Analytics) Intern](https://jobright.ai/jobs/info/69462c2763141d188455d49d?utm_campaign=1066&utm_source=git)** | 465 South St, Morristown, NJ, 07960, US | On Site | Dec 19 |
 | **[Merchants Distributors, LLC](https://www.mdi.com)** | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/6945b70b63141d1884554676?utm_campaign=1066&utm_source=git)** | US-NC-Hickory | On Site | Dec 19 |
 | ↳ | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/6945b501951654073537d11f?utm_campaign=1066&utm_source=git)** | 5005 Alex Lee Blvd. (28601) | On Site | Dec 19 |
-| **[Alex Lee, Inc.](http://www.alexlee.com/)** | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/6945af60951654073537c9b4?utm_campaign=1066&utm_source=git)** | US-NC-Hickory | On Site | Dec 19 |
-| ↳ | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/6945b95bd1953b5d11beba35?utm_campaign=1066&utm_source=git)** | 5005 Alex Lee Blvd. (28601) | On Site | Dec 19 |
+| **[Alex Lee, Inc.](http://www.alexlee.com/)** | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/6945b95bd1953b5d11beba35?utm_campaign=1066&utm_source=git)** | 5005 Alex Lee Blvd. (28601) | On Site | Dec 19 |
+| ↳ | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/6945af60951654073537c9b4?utm_campaign=1066&utm_source=git)** | US-NC-Hickory | On Site | Dec 19 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Clinical Supplies Data Analyst Intern, Undergraduate Students](https://jobright.ai/jobs/info/69458d1463141d1884551a58?utm_campaign=1066&utm_source=git)** | US - Gaithersburg - MD | On Site | Dec 19 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69458b6dd1953b5d11be8934?utm_campaign=1066&utm_source=git)** | Oklahoma City, Oklahoma | On Site | Dec 19 |
 | **[Realtor.com](https://www.realtor.com/)** | **[Intern, Data Analytics](https://jobright.ai/jobs/info/69458ac9d1953b5d11be888d?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Dec 19 |
@@ -152,9 +158,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern: 2026](https://jobright.ai/jobs/info/6944c4e1a7227b3ece666e2c?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Dec 18 |
 | ↳ | **[Data and AI Intern 2026](https://jobright.ai/jobs/info/6944c3c850bbaf765056d8e2?utm_campaign=1066&utm_source=git)** | Armonk, NY | Hybrid | Dec 18 |
 | ↳ | **[Data and AI Intern 2026](https://jobright.ai/jobs/info/6944c34150bbaf765056d888?utm_campaign=1066&utm_source=git)** | Research Park, CA | Hybrid | Dec 18 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6944c2bc50bbaf765056d84a?utm_campaign=1066&utm_source=git)** | Golden, CO | On Site | Dec 18 |
-| **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6944b74f94730b739877fb24?utm_campaign=1066&utm_source=git)** | North Bethesda, MD | Hybrid | Dec 18 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6944b45d50bbaf765056cc12?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Dec 18 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6944b12f94730b739877f537?utm_campaign=1066&utm_source=git)** | Golden, CO | On Site | Dec 18 |
-| ↳ | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6944b067a7227b3ece665bd0?utm_campaign=1066&utm_source=git)** | Remote Site | Remote | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
