@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Research Internship - True Global Intelligence](https://jobright.ai/jobs/info/6947597a63141d1884570ac9?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Dec 20 |
 | **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/694712cc7d506e3808f271bb?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Dec 20 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Geographical Information Systems Intern
 Job ID : 247658](https://jobright.ai/jobs/info/69470b1e63141d188456b403?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Dec 20 |
@@ -83,6 +84,7 @@ Job ID : 247658](https://jobright.ai/jobs/info/69470b1e63141d188456b403?utm_camp
 | **[West Monroe](https://www.westmonroe.com)** | **[2025 Data & Analytics Intern - Chicago](https://jobright.ai/jobs/info/694618e67d506e3808f16ce3?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 19 |
 | **[BMO](http://www.bmo.com)** | **[Data Science Intern, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/6946105f63141d188455bf83?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 19 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Early Clinical Development](https://jobright.ai/jobs/info/69460fe5d1953b5d11bf3000?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Dec 19 |
+| **[LCS](https://www.lcsnet.com/)** | **[Data & Analytics Internship](https://jobright.ai/jobs/info/69476477d1953b5d11c07a81?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Dec 19 |
 | **[HUB International](https://www.hubinternational.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69460cf463141d188455bb98?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Dec 19 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Data and Analytics](https://jobright.ai/jobs/info/6946089f63141d188455b89f?utm_campaign=1066&utm_source=git)** | Winston-Salem, NC | On Site | Dec 19 |
 | **[Kinross Gold Corporation](http://kinross.com/)** | **[Gold Rush Summer Intern - Data Governance](https://jobright.ai/jobs/info/694605a063141d188455b1c3?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 19 |
@@ -156,6 +158,4 @@ Job ID : 247658](https://jobright.ai/jobs/info/69470b1e63141d188456b403?utm_camp
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, Technical Undergraduate Summer - Nuclear Waste Disposal Research and Analysis, Onsite](https://jobright.ai/jobs/info/6944da7b94730b739878147e?utm_campaign=1066&utm_source=git)** | Albuquerque, NM | On Site | Dec 18 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6944cb9fa7227b3ece66744e?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 18 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern: 2026](https://jobright.ai/jobs/info/6944c4e1a7227b3ece666e2c?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Dec 18 |
-| ↳ | **[Data and AI Intern 2026](https://jobright.ai/jobs/info/6944c3c850bbaf765056d8e2?utm_campaign=1066&utm_source=git)** | Armonk, NY | Hybrid | Dec 18 |
-| ↳ | **[Data and AI Intern 2026](https://jobright.ai/jobs/info/6944c34150bbaf765056d888?utm_campaign=1066&utm_source=git)** | Research Park, CA | Hybrid | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
