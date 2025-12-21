@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/69081970ff462851fe00c5bf?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Dec 21 |
+| **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12f80e6870116b1f54621?utm_campaign=1066&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 21 |
+| ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12b35ef766b3f0fd0949c?utm_campaign=1066&utm_source=git)** | Glenview, IL | On Site | Dec 21 |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Data Scientist for R&D Quality Intern](https://jobright.ai/jobs/info/690ec384d046ab6061d01022?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Dec 21 |
+| **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f133f4f462172a5a7d433e?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Dec 21 |
+| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Assay Database Champion Intern](https://jobright.ai/jobs/info/690ec814d046ab6061d01285?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Dec 21 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/691c91ecff70244984168921?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Dec 21 |
+| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/69081970ff462851fe00c5bf?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Dec 21 |
 | **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/68cd8a5ce23def7af55bb67d?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Dec 21 |
 | **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Business Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/690e54ba221b890c2780cd0f?utm_campaign=1066&utm_source=git)** | Greater Chicago Area | On Site | Dec 21 |
 | **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, Business Insights (BI)](https://jobright.ai/jobs/info/691aaa5015b4156367189b9a?utm_campaign=1066&utm_source=git)** | Nashville, TN | Hybrid | Dec 21 |
@@ -152,10 +158,4 @@ Job ID : 247658](https://jobright.ai/jobs/info/69470b1e63141d188456b403?utm_camp
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Data Insights Unit](https://jobright.ai/jobs/info/69457b7cd1953b5d11be768a?utm_campaign=1066&utm_source=git)** | Branchburg | On Site | Dec 19 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Information Systems & Data Analytics](https://jobright.ai/jobs/info/690bc4add046ab6061ce767d?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Dec 19 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Data Analytics - R10661](https://jobright.ai/jobs/info/68f061199e09d311e043116e?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 19 |
-| **[StandardAero](http://www.standardaero.com/)** | **[Summer Intern - Data Analytics (Supply Chain)](https://jobright.ai/jobs/info/691e758f3f782d2f1afb4ddf?utm_campaign=1066&utm_source=git)** | Slemon Park, Prince Edward Island, Canada | On Site | Dec 19 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern - Optimization (Summer 2026)](https://jobright.ai/jobs/info/68d614592116ff37ee092992?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Dec 19 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist, Predictive Finance](https://jobright.ai/jobs/info/68eed15f46e5b153e5a60327?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Dec 19 |
-| **[Celestica](https://www.celestica.com/)** | **[Student Intern, Commodity Management Associate](https://jobright.ai/jobs/info/691dc2ff748c4e1301ec8622?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 19 |
-| **[Leadership Triangle](https://leadershiptriangle.com)** | **[Avila Center Data System Associate Intern](https://jobright.ai/jobs/info/694535e263141d188454bb77?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Dec 19 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - TPG Global IE](https://jobright.ai/jobs/info/68f18c87e6870116b1f5a58a?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
