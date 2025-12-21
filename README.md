@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Georgia Institute of Technology](http://gatech.edu)** | **[Research Intern (GTRI-CIPHER)](https://jobright.ai/jobs/info/6947dd7363141d188457976e?utm_campaign=1066&utm_source=git)** | Atlanta Metro | On Site | Dec 21 |
+| **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68bb2ec95f3832749186cb92?utm_campaign=1066&utm_source=git)** | Davie, FL | Hybrid | Dec 21 |
+| ↳ | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68bb39236105227d118a4411?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 21 |
+| **[Cover Genius](http://www.covergenius.com)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/69379eb5a0dde7020e304d53?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Dec 21 |
+| **[Medpace](http://www.medpace.com)** | **[Business Intelligence Internship - Summer 2026](https://jobright.ai/jobs/info/690e7545d046ab6061cfdcec?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 21 |
+| **[Zoox](https://www.zoox.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/690f0920d046ab6061d02f9a?utm_campaign=1066&utm_source=git)** | Foster City, CA | Hybrid | Dec 21 |
+| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/69439c6ddd382f5f5669bab4?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Dec 21 |
 | **[DataFy Systems](https://www.datafysystems.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6947bb26d1953b5d11c0e572?utm_campaign=1066&utm_source=git)** | Columbia, MD | Hybrid | Dec 21 |
 | **[Ededge Groups](http://www.ededgelearning.com)** | **[Data  Analyst Training & Internship Program](https://jobright.ai/jobs/info/6947a20563141d1884575803?utm_campaign=1066&utm_source=git)** | Canada | Remote | Dec 20 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Research Internship - True Global Intelligence](https://jobright.ai/jobs/info/6947597a63141d1884570ac9?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Dec 20 |
@@ -128,8 +135,8 @@ Job ID : 247658](https://jobright.ai/jobs/info/69470b1e63141d188456b403?utm_camp
 | **[Clayton Homes of Opelousas](http://claytonhomesopelousas.com)** | **[Business Analytics/ERP Reporting Intern](https://jobright.ai/jobs/info/6945c57b63141d1884555343?utm_campaign=1066&utm_source=git)** | Maryville, TN | On Site | Dec 19 |
 | **[HUB International](https://www.hubinternational.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69459d4263141d1884552b87?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Dec 19 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Pharmacy (Data Analytics) Intern](https://jobright.ai/jobs/info/69462c2763141d188455d49d?utm_campaign=1066&utm_source=git)** | 465 South St, Morristown, NJ, 07960, US | On Site | Dec 19 |
-| **[Merchants Distributors, LLC](https://www.mdi.com)** | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/6945b70b63141d1884554676?utm_campaign=1066&utm_source=git)** | US-NC-Hickory | On Site | Dec 19 |
-| ↳ | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/6945b501951654073537d11f?utm_campaign=1066&utm_source=git)** | 5005 Alex Lee Blvd. (28601) | On Site | Dec 19 |
+| **[Merchants Distributors, LLC](https://www.mdi.com)** | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/6945b501951654073537d11f?utm_campaign=1066&utm_source=git)** | 5005 Alex Lee Blvd. (28601) | On Site | Dec 19 |
+| ↳ | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/6945b70b63141d1884554676?utm_campaign=1066&utm_source=git)** | US-NC-Hickory | On Site | Dec 19 |
 | **[Alex Lee, Inc.](http://www.alexlee.com/)** | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/6945b95bd1953b5d11beba35?utm_campaign=1066&utm_source=git)** | 5005 Alex Lee Blvd. (28601) | On Site | Dec 19 |
 | ↳ | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/6945af60951654073537c9b4?utm_campaign=1066&utm_source=git)** | US-NC-Hickory | On Site | Dec 19 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Clinical Supplies Data Analyst Intern, Undergraduate Students](https://jobright.ai/jobs/info/69458d1463141d1884551a58?utm_campaign=1066&utm_source=git)** | US - Gaithersburg - MD | On Site | Dec 19 |
@@ -144,7 +151,6 @@ Job ID : 247658](https://jobright.ai/jobs/info/69470b1e63141d188456b403?utm_camp
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Maritime Information Systems & Data Analytics](https://jobright.ai/jobs/info/690bc4add046ab6061ce767d?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Dec 19 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Data Analytics - R10661](https://jobright.ai/jobs/info/68f061199e09d311e043116e?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 19 |
 | **[StandardAero](http://www.standardaero.com/)** | **[Summer Intern - Data Analytics (Supply Chain)](https://jobright.ai/jobs/info/691e758f3f782d2f1afb4ddf?utm_campaign=1066&utm_source=git)** | Slemon Park, Prince Edward Island, Canada | On Site | Dec 19 |
-| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Research Internship - True Global Intelligence](https://jobright.ai/jobs/info/69295c36fa28370be269431f?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Dec 19 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern - Optimization (Summer 2026)](https://jobright.ai/jobs/info/68d614592116ff37ee092992?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Dec 19 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist, Predictive Finance](https://jobright.ai/jobs/info/68eed15f46e5b153e5a60327?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Dec 19 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Commodity Management Associate](https://jobright.ai/jobs/info/691dc2ff748c4e1301ec8622?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 19 |
@@ -152,10 +158,4 @@ Job ID : 247658](https://jobright.ai/jobs/info/69470b1e63141d188456b403?utm_camp
 | **[Micron Technology](http://www.micron.com)** | **[Intern - TPG Global IE](https://jobright.ai/jobs/info/68f18c87e6870116b1f5a58a?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Dec 19 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2026](https://jobright.ai/jobs/info/68d446b917554c2d9eef786e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 19 |
 | ↳ | **[Informatics Internship/Co-Op Spring 2026](https://jobright.ai/jobs/info/69452fb6d1953b5d11be29de?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 19 |
-| **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Intern - Data Science](https://jobright.ai/jobs/info/6945267263141d188454b50b?utm_campaign=1066&utm_source=git)** | Des Moines, IA | On Site | Dec 19 |
-| **[Meta](https://www.metacareers.com/)** | **[Research Scientist Intern, FAIR - Text Data Research (PhD)](https://jobright.ai/jobs/info/694517e5d1953b5d11be0f3b?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Dec 19 |
-| **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Redmond](https://jobright.ai/jobs/info/6947998163141d1884574d26?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Dec 18 |
-| **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Data Scientist - Full-time Intern Conversion](https://jobright.ai/jobs/info/694791e463141d18845735f0?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 18 |
-| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Innovation & Digital Health Accelerator Internship (Global.Health)](https://jobright.ai/jobs/info/6944e212a7227b3ece667fad?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Dec 18 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6944dac150bbaf765056e78f?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | Hybrid | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
