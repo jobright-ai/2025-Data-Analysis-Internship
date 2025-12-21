@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DataFy Systems](https://www.datafysystems.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6947bb26d1953b5d11c0e572?utm_campaign=1066&utm_source=git)** | Columbia, MD | Hybrid | Dec 21 |
 | **[Ededge Groups](http://www.ededgelearning.com)** | **[Data  Analyst Training & Internship Program](https://jobright.ai/jobs/info/6947a20563141d1884575803?utm_campaign=1066&utm_source=git)** | Canada | Remote | Dec 20 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Research Internship - True Global Intelligence](https://jobright.ai/jobs/info/6947597a63141d1884570ac9?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Dec 20 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Geographical Information Systems Intern
@@ -77,7 +78,6 @@ Job ID : 247658](https://jobright.ai/jobs/info/69470b1e63141d188456b403?utm_camp
 | **[Oatey Company](https://www.oatey.com//)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cb8fc4ba798c1a501d1c99?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Dec 20 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Development (Quant Research) PhD Internship – Summer 2026](https://jobright.ai/jobs/info/690cf53c4a1b456627b1bd5c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/692a02fa4c474121999cb201?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Dec 20 |
-| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, Bachelor’s or Master’s Degree (Summer 2026)](https://jobright.ai/jobs/info/69463c07d1953b5d11bf68b7?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 20 |
 | **[Atlassian](https://www.atlassian.com)** | **[Data Science Intern, 2026 Summer Canada](https://jobright.ai/jobs/info/6916e97e9c388539cbdffcb0?utm_campaign=1066&utm_source=git)** | Canada | Hybrid | Dec 20 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Early Clinical Development](https://jobright.ai/jobs/info/69465fdf63141d188456126e?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Dec 20 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Pharmacy (Data Analytics) Intern](https://jobright.ai/jobs/info/694799b763141d1884574e34?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Dec 19 |
