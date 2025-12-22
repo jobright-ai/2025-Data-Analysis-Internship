@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/691d59d00b7dff7341502cce?utm_campaign=1066&utm_source=git)** | Nashville, TN | Hybrid | Dec 22 |
+| ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/691ca42d22a2cb4b9bd1be30?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Dec 22 |
+| ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/6922a32938cd5478a8d54819?utm_campaign=1066&utm_source=git)** | Virginia Beach, VA | Hybrid | Dec 22 |
+| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/6934fb9df131d96e4846c62e?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Dec 22 |
+| **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68d713c145853d0e39cccb8a?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Dec 22 |
+| **[Ibotta](https://home.ibotta.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69142e4b1465e02904e9b2b5?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Dec 22 |
 | **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68bb2f796105227d118a3a01?utm_campaign=1066&utm_source=git)** | Syracuse, NY | Hybrid | Dec 22 |
 | **[DriveTime](https://www.drivetime.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68d0bb83dbd9fb154edef339?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Dec 22 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[IBP Data Management Intern - The Toro Company](https://jobright.ai/jobs/info/68f387d39a65fd34585874c3?utm_campaign=1066&utm_source=git)** | Hennepin County, MN | On Site | Dec 22 |
@@ -150,12 +156,6 @@ Job ID : 247658](https://jobright.ai/jobs/info/69470b1e63141d188456b403?utm_camp
 | **[Access Limited](accesslimited.com)** | **[IT Intern](https://jobright.ai/jobs/info/6945a7ab63141d1884553477?utm_campaign=1066&utm_source=git)** | US-CO-Westminster | Hybrid | Dec 19 |
 | **[GeoStabilization International®](http://www.geostabilization.com)** | **[IT Intern](https://jobright.ai/jobs/info/6945a4c0951654073537bf07?utm_campaign=1066&utm_source=git)** | US-CO-Westminster | Hybrid | Dec 19 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Sciences and Informatics (CSI), Reagent Bioinformatics](https://jobright.ai/jobs/info/6945a31e63141d1884552f2e?utm_campaign=1066&utm_source=git)** | Pleasanton | On Site | Dec 19 |
-| **[KION Group](http://www.kiongroup.com/)** | **[Analytics Internship](https://jobright.ai/jobs/info/6945c8fd951654073537e622?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI, United States | On Site | Dec 19 |
+| **[KION Group](http://www.kiongroup.com/)** | **[Analytics Internship](https://jobright.ai/jobs/info/6945c22f63141d1884554f52?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI, United States | On Site | Dec 19 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 19 |
-| **[Clayton Homes of Opelousas](http://claytonhomesopelousas.com)** | **[Business Analytics/ERP Reporting Intern](https://jobright.ai/jobs/info/6945c57b63141d1884555343?utm_campaign=1066&utm_source=git)** | Maryville, TN | On Site | Dec 19 |
-| **[HUB International](https://www.hubinternational.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69459d4263141d1884552b87?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Dec 19 |
-| **[Atlantic Health](http://www.atlantichealth.org)** | **[Pharmacy (Data Analytics) Intern](https://jobright.ai/jobs/info/69462c2763141d188455d49d?utm_campaign=1066&utm_source=git)** | 465 South St, Morristown, NJ, 07960, US | On Site | Dec 19 |
-| **[Merchants Distributors, LLC](https://www.mdi.com)** | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/6945b501951654073537d11f?utm_campaign=1066&utm_source=git)** | 5005 Alex Lee Blvd. (28601) | On Site | Dec 19 |
-| ↳ | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/6945b70b63141d1884554676?utm_campaign=1066&utm_source=git)** | US-NC-Hickory | On Site | Dec 19 |
-| **[Alex Lee, Inc.](http://www.alexlee.com/)** | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/6945af60951654073537c9b4?utm_campaign=1066&utm_source=git)** | US-NC-Hickory | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
