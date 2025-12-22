@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69264680d47de4798ecd612a?utm_campaign=1066&utm_source=git)** | Woodbridge, NJ | On Site | Dec 22 |
+| **[Hotwire](https://www.hotwireglobal.com)** | **[Intern](https://jobright.ai/jobs/info/693a11ae48a8ce22990e13d6?utm_campaign=1066&utm_source=git)** | NYC Metro Area | Hybrid | Dec 22 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6939f66256b68f3dc4e74579?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Dec 22 |
+| **[Aptiv](http://www.aptiv.com)** | **[Vehicle System Data Analytic Intern](https://jobright.ai/jobs/info/68f7f060b0edcf159dc8c23c?utm_campaign=1066&utm_source=git)** | Troy, MI | On Site | Dec 22 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/691d59d00b7dff7341502cce?utm_campaign=1066&utm_source=git)** | Nashville, TN | Hybrid | Dec 22 |
 | ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/691ca42d22a2cb4b9bd1be30?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Dec 22 |
 | ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/6922a32938cd5478a8d54819?utm_campaign=1066&utm_source=git)** | Virginia Beach, VA | Hybrid | Dec 22 |
@@ -71,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Data Scientist Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/6949079a7d506e3808f43adb?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 22 |
 | ↳ | **[Velocity - Data Analyst Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/694906ead1953b5d11c211d5?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 22 |
 | **[Resources for the Future](http://www.rff.org/)** | **[2026 Summer Research Internship: Air Conditioning & Exposure and Vulnerability to Extreme Heat](https://jobright.ai/jobs/info/6949052c7d506e3808f438cd?utm_campaign=1066&utm_source=git)** | RFF - WASHINGTON, DC 20036 | On Site | Dec 22 |
-| **[Ededge Learn](www.ededgelearning.com)** | **[Business  Analytics  Training   &  Internship](https://jobright.ai/jobs/info/6948cfdfd1953b5d11c1ccb0?utm_campaign=1066&utm_source=git)** | Canada | Remote | Dec 21 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Dec 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Immunology Bioinformatics Intern (PhD)](https://jobright.ai/jobs/info/69481c16d1953b5d11c1311d?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Dec 21 |
 | **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12f80e6870116b1f54621?utm_campaign=1066&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 21 |
@@ -155,7 +158,4 @@ Job ID : 247658](https://jobright.ai/jobs/info/69470b1e63141d188456b403?utm_camp
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6945a87b63141d188455356b?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Dec 19 |
 | **[Access Limited](accesslimited.com)** | **[IT Intern](https://jobright.ai/jobs/info/6945a7ab63141d1884553477?utm_campaign=1066&utm_source=git)** | US-CO-Westminster | Hybrid | Dec 19 |
 | **[GeoStabilization International®](http://www.geostabilization.com)** | **[IT Intern](https://jobright.ai/jobs/info/6945a4c0951654073537bf07?utm_campaign=1066&utm_source=git)** | US-CO-Westminster | Hybrid | Dec 19 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Sciences and Informatics (CSI), Reagent Bioinformatics](https://jobright.ai/jobs/info/6945a31e63141d1884552f2e?utm_campaign=1066&utm_source=git)** | Pleasanton | On Site | Dec 19 |
-| **[KION Group](http://www.kiongroup.com/)** | **[Analytics Internship](https://jobright.ai/jobs/info/6945c22f63141d1884554f52?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI, United States | On Site | Dec 19 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
