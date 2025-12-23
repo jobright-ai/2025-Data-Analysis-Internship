@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Netflix](https://www.netflix.com)** | **[Experimentation & Causal Inference Intern, Summer 2026](https://jobright.ai/jobs/info/692e3ab7ef4b48533d13dd77?utm_campaign=1066&utm_source=git)** | Los Gatos, CA | On Site | Dec 23 |
+| ↳ | **[Data Visualization Engineering Intern, Summer 2026](https://jobright.ai/jobs/info/694647a3d1953b5d11bf6ee8?utm_campaign=1066&utm_source=git)** | Los Gatos, CA | On Site | Dec 23 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Data Analytics Co-op - Fall 2026](https://jobright.ai/jobs/info/694a66d1187e565c6bfa6056?utm_campaign=1066&utm_source=git)** | Quincy, MA | Hybrid | Dec 23 |
 | **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/694a64da3019f50a4fe57bf8?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Dec 23 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Data Analytics Co-op - Fall 2026](https://jobright.ai/jobs/info/694a6459187e565c6bfa5ced?utm_campaign=1066&utm_source=git)** | Quincy, MA | Hybrid | Dec 23 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Data Analytics Intern - Summer 2025 (Georgia, United States)](https://jobright.ai/jobs/info/691aa5fabcdbf3560c9d9713?utm_campaign=1066&utm_source=git)** | Georgia, United States | On Site | Dec 23 |
@@ -76,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Zymo Research Corp](https://www.zymoresearch.com)** | **[Computational (Bioinformatics) Internship](https://jobright.ai/jobs/info/694a127763141d188459bc13?utm_campaign=1066&utm_source=git)** | Irvine, CA | Hybrid | Dec 22 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Data Science Intern - Great American Risk Solutions](https://jobright.ai/jobs/info/6949f9797d506e3808f508b8?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 22 |
 | **[Skyward Specialty Insurance](https://www.skywardinsurance.com)** | **[2026 Summer Intern - Data Science](https://jobright.ai/jobs/info/694a1cc263141d188459cd03?utm_campaign=1066&utm_source=git)** | Remote - US | Remote | Dec 22 |
-| **[JUST Capital](http://justcapital.com/)** | **[Research Intern](https://jobright.ai/jobs/info/694a026f63141d1884599300?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[Hoffmaster](http://hoffmastergroupinc.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/694a03cfc6f0e2546ceee9b5?utm_campaign=1066&utm_source=git)** | Oshkosh, WI | On Site | Dec 22 |
 | **[Entegris](http://www.entegris.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/694a11de63141d188459baad?utm_campaign=1066&utm_source=git)** | Chaska, MN | Hybrid | Dec 22 |
 | **[Voith Paper](http://www.voith.com/paper)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/694a072663141d1884599e1d?utm_campaign=1066&utm_source=git)** | Appleton, WI | Hybrid | Dec 22 |
@@ -98,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 22 |
 | **[New York City FC](http://www.nycfc.com/zach-dixon)** | **[Business Intelligence Engineer Intern](https://jobright.ai/jobs/info/694a0c187d506e3808f537f9?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[National Commission on Certification of Physician Assistants (NCCPA)](https://www.nccpa.net/)** | **[Summer Psychometrics & Data Science Intern](https://jobright.ai/jobs/info/69499be1d1953b5d11c2a17a?utm_campaign=1066&utm_source=git)** | Johns Creek, GA | On Site | Dec 22 |
-| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Workplace Solutions](https://jobright.ai/jobs/info/69498ce07d506e3808f4aff7?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Dec 22 |
+| **[JUST Capital](http://justcapital.com/)** | **[Research Intern](https://jobright.ai/jobs/info/69499a247d506e3808f4c05e?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[Cosign](www.rentwithcosign.com)** | **[Data Science Research Intern — Renter Behaviors (UC Graduate & PhD Students)](https://jobright.ai/jobs/info/694999cad1953b5d11c29e73?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Dec 22 |
 | ↳ | **[Data Science Research Intern — Renter Economics (UC Graduate & PhD Students)](https://jobright.ai/jobs/info/6949918a63141d1884592c6f?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Dec 22 |
 | **[Heartland Food Products Group](http://heartlandfpg.com/)** | **[Insights and Analytics Intern - Splenda](https://jobright.ai/jobs/info/69499894d1953b5d11c29bc6?utm_campaign=1066&utm_source=git)** | Carmel, IN, US | On Site | Dec 22 |
@@ -118,7 +120,7 @@ For a complete list, click the following sortable link below:
 | **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68bb2f796105227d118a3a01?utm_campaign=1066&utm_source=git)** | Syracuse, NY | Hybrid | Dec 22 |
 | **[DriveTime](https://www.drivetime.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/68d0bb83dbd9fb154edef339?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Dec 22 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[IBP Data Management Intern - The Toro Company](https://jobright.ai/jobs/info/68f387d39a65fd34585874c3?utm_campaign=1066&utm_source=git)** | Hennepin County, MN | On Site | Dec 22 |
-| ↳ | **[IBP Data Management Intern - The Toro Company](https://jobright.ai/jobs/info/694a422931c12007d3b9043f?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Dec 22 |
+| ↳ | **[IBP Data Management Intern - The Toro Company](https://jobright.ai/jobs/info/694a3ac331c12007d3b8fec1?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Dec 22 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Data Scientist Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/6949079a7d506e3808f43adb?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 22 |
 | ↳ | **[Velocity - Data Analyst Internship/Co-Op - Summer 2026](https://jobright.ai/jobs/info/694906ead1953b5d11c211d5?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 22 |
 | **[Resources for the Future](http://www.rff.org/)** | **[2026 Summer Research Internship: Air Conditioning & Exposure and Vulnerability to Extreme Heat](https://jobright.ai/jobs/info/6949052c7d506e3808f438cd?utm_campaign=1066&utm_source=git)** | RFF - WASHINGTON, DC 20036 | On Site | Dec 22 |
@@ -156,6 +158,4 @@ Job ID : 247658](https://jobright.ai/jobs/info/69470b1e63141d188456b403?utm_camp
 | **[David Yurman](http://www.davidyurman.com)** | **[Wholesale Intern](https://jobright.ai/jobs/info/690d73f3d046ab6061cf6587?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[California Association of Food Banks](https://www.cafoodbanks.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/6941fb0c14ee092a69001adb?utm_campaign=1066&utm_source=git)** | Oakland (Hybrid Position) | Hybrid | Dec 20 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Data Steward](https://jobright.ai/jobs/info/69104990bb519377733eb60e?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 20 |
-| **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Development (Quant Research) Internship – Summer 2026](https://jobright.ai/jobs/info/690cfe564a1b456627b1c37c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 20 |
-| **[Oatey Company](https://www.oatey.com//)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cb8fc4ba798c1a501d1c99?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Dec 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
