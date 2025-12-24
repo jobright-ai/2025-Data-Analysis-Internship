@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Data Scienctist Intern](https://jobright.ai/jobs/info/692fa9d54c474121999e19e7?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Dec 24 |
+| **[Experian](http://www.experianplc.com)** | **[Data Science Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/6913a5e6d1047e3565d04c93?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 24 |
+| **[Colliers](http://www.colliers.com)** | **[Research Intern](https://jobright.ai/jobs/info/691233d2d1047e3565cfa3ee?utm_campaign=1066&utm_source=git)** | Jericho, NY | On Site | Dec 24 |
+| **[DriveTime](https://www.drivetime.com)** | **[Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/692ecd9dfa28370be26a5fe9?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Dec 24 |
+| **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/694bbd4cd64ebf28d8217053?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 24 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/694bbb2ed64ebf28d8216c61?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 24 |
+| **[Ntrepid LLC](https://ntrepidcorp.com/)** | **[Technology & Global Affairs Research Intern](https://jobright.ai/jobs/info/694bba0ed64ebf28d8216a93?utm_campaign=1066&utm_source=git)** | Herndon, VA | Remote | Dec 24 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/694bb5001a572a617dde0248?utm_campaign=1066&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 24 |
 | **[ASML](https://www.asml.com)** | **[Internship - Equipment Data Analyst /AI](https://jobright.ai/jobs/info/694ba41cd64ebf28d8215e46?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
 | **[Delsys](https://www.delsys.com)** | **[R&D Engineer \- Sensor Data Analysis (Intern)](https://jobright.ai/jobs/info/694b9e505d73121134702fe3?utm_campaign=1066&utm_source=git)** | Natick, Massachusetts, United States | On Site | Dec 23 |
@@ -67,10 +74,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/694b4c1f3019f50a4fe66526?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist - Technical Operations (Summer 2026)](https://jobright.ai/jobs/info/694b489f4b53a1551f951027?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
 | **[Snowflake](https://www.snowflake.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/694b34814b53a1551f94edc3?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Dec 23 |
-| **[BluWave, LP](https://www.bluwave.net/)** | **[Data and Analytics Fall Intern](https://jobright.ai/jobs/info/694b64be1a572a617dddb49a?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Dec 23 |
 | **[Paramount](https://www.paramount.com)** | **[Data Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/694b5f3cd64ebf28d82112a3?utm_campaign=1066&utm_source=git)** | Burbank, CA | On Site | Dec 23 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - SPD - Business Intelligence](https://jobright.ai/jobs/info/694b37a33019f50a4fe6415c?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Dec 23 |
 | **[KBR, Inc.](https://www.kbr.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/694b330f3019f50a4fe63f60?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | On Site | Dec 23 |
+| **[BluWave, LP](https://www.bluwave.net/)** | **[Data and Analytics Fall Intern](https://jobright.ai/jobs/info/694b59a65d731211346fe234?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Dec 23 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/694b5ac5d64ebf28d8210fe7?utm_campaign=1066&utm_source=git)** | Cedar Rapids,IA,US | On Site | Dec 23 |
 | **[Vendelux](https://vendelux.com)** | **[Part time Data Intern](https://jobright.ai/jobs/info/694b21b83019f50a4fe6370f?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Dec 23 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[2026 Graduate Data Science Summer Internship Program](https://jobright.ai/jobs/info/694b1f0a4b53a1551f94e1da?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Dec 23 |
@@ -89,7 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Commercial Analytics Intern](https://jobright.ai/jobs/info/694afef63019f50a4fe60691?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
 | **[Vendelux](https://vendelux.com)** | **[Part time Data Intern](https://jobright.ai/jobs/info/694b182a1224705e90023672?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Campaign for the Fair Sentencing of Youth](http://cfsy.org/hire-ican)** | **[Data Intern](https://jobright.ai/jobs/info/694af5433019f50a4fe5ff84?utm_campaign=1066&utm_source=git)** | United States | On Site | Dec 23 |
-| **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/694b17ea4b53a1551f94d2d2?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
+| **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/694b1ab44b53a1551f94d936?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/694b12123019f50a4fe61e75?utm_campaign=1066&utm_source=git)** | Colorado Springs, Colorado | On Site | Dec 23 |
 | **[NT Concepts](http://www.ntconcepts.com/)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/694add731224705e900201c9?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Dec 23 |
 | **[Woodforest National Bank](https://www.woodforest.com/)** | **[Lending Services Data & AI Solutions Intern](https://jobright.ai/jobs/info/694af95d1224705e90021055?utm_campaign=1066&utm_source=git)** | The Woodlands, TX | On Site | Dec 23 |
@@ -124,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Vendelux](https://vendelux.com)** | **[Data Intern](https://jobright.ai/jobs/info/694adc9667a69734cac5fdf8?utm_campaign=1066&utm_source=git)** | New York | On Site | Dec 22 |
 | **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Data Science Intern - Great American Risk Solutions](https://jobright.ai/jobs/info/6949f9797d506e3808f508b8?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 22 |
 | **[Skyward Specialty Insurance](https://www.skywardinsurance.com)** | **[2026 Summer Intern - Data Science](https://jobright.ai/jobs/info/694a1cc263141d188459cd03?utm_campaign=1066&utm_source=git)** | Remote - US | Remote | Dec 22 |
+| **[JUST Capital](http://justcapital.com/)** | **[Research Intern](https://jobright.ai/jobs/info/694a026f63141d1884599300?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[Hoffmaster](http://hoffmastergroupinc.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/694a03cfc6f0e2546ceee9b5?utm_campaign=1066&utm_source=git)** | Oshkosh, WI | On Site | Dec 22 |
 | **[Entegris](http://www.entegris.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/694a11de63141d188459baad?utm_campaign=1066&utm_source=git)** | Chaska, MN | Hybrid | Dec 22 |
 | **[Voith Paper](http://www.voith.com/paper)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/694a072663141d1884599e1d?utm_campaign=1066&utm_source=git)** | Appleton, WI | Hybrid | Dec 22 |
@@ -143,18 +151,10 @@ For a complete list, click the following sortable link below:
 | **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Graduate Intern Summer 2026 - Technology, US Open and Enterprise Systems](https://jobright.ai/jobs/info/694a00e563141d1884598e30?utm_campaign=1066&utm_source=git)** | Purchase, NY | Hybrid | Dec 22 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 22 |
 | **[New York City FC](http://www.nycfc.com/zach-dixon)** | **[Business Intelligence Engineer Intern](https://jobright.ai/jobs/info/694a0c187d506e3808f537f9?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 22 |
-| **[JUST Capital](http://justcapital.com/)** | **[Research Intern](https://jobright.ai/jobs/info/69499a247d506e3808f4c05e?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 22 |
 | **[Cosign](www.rentwithcosign.com)** | **[Data Science Research Intern — Renter Behaviors (UC Graduate & PhD Students)](https://jobright.ai/jobs/info/694999cad1953b5d11c29e73?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Dec 22 |
 | ↳ | **[Data Science Research Intern — Renter Economics (UC Graduate & PhD Students)](https://jobright.ai/jobs/info/6949918a63141d1884592c6f?utm_campaign=1066&utm_source=git)** | California, United States | Remote | Dec 22 |
 | **[Heartland Food Products Group](http://heartlandfpg.com/)** | **[Insights and Analytics Intern - Splenda](https://jobright.ai/jobs/info/69499894d1953b5d11c29bc6?utm_campaign=1066&utm_source=git)** | Carmel, IN, US | On Site | Dec 22 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69264680d47de4798ecd612a?utm_campaign=1066&utm_source=git)** | Woodbridge, NJ | On Site | Dec 22 |
 | **[Hotwire](https://www.hotwireglobal.com)** | **[Intern](https://jobright.ai/jobs/info/693a11ae48a8ce22990e13d6?utm_campaign=1066&utm_source=git)** | NYC Metro Area | Hybrid | Dec 22 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6939f66256b68f3dc4e74579?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Dec 22 |
-| **[Aptiv](http://www.aptiv.com)** | **[Vehicle System Data Analytic Intern](https://jobright.ai/jobs/info/68f7f060b0edcf159dc8c23c?utm_campaign=1066&utm_source=git)** | Troy, MI | On Site | Dec 22 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/691d59d00b7dff7341502cce?utm_campaign=1066&utm_source=git)** | Nashville, TN | Hybrid | Dec 22 |
-| ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/691ca42d22a2cb4b9bd1be30?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Dec 22 |
-| ↳ | **[Summer Associate Internship (Associate Business Intelligence Analyst – Branch Risk Office)](https://jobright.ai/jobs/info/6922a32938cd5478a8d54819?utm_campaign=1066&utm_source=git)** | Virginia Beach, VA | Hybrid | Dec 22 |
-| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/6934fb9df131d96e4846c62e?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Dec 22 |
-| **[Atlantic Health](http://www.atlantichealth.org)** | **[Pharmacy (Data Analytics) Intern](https://jobright.ai/jobs/info/694799b763141d1884574e34?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Dec 22 |
-| **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68d713c145853d0e39cccb8a?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
