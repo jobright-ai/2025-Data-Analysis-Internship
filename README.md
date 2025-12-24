@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vendelux](https://vendelux.com)** | **[Part time Data Intern](https://jobright.ai/jobs/info/694b21b83019f50a4fe6370f?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Dec 23 |
+| **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[2026 Graduate Data Science Summer Internship Program](https://jobright.ai/jobs/info/694b1f0a4b53a1551f94e1da?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Dec 23 |
+| **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/694b18513019f50a4fe62d0a?utm_campaign=1066&utm_source=git)** | Irving, TX | Remote | Dec 23 |
+| **[Credit One Bank](http://creditonebank.com)** | **[Advanced Analytics Intern](https://jobright.ai/jobs/info/694b12691224705e90022aa1?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Dec 23 |
+| **[IEEE](http://www.ieee.org)** | **[Intern - Data Analytics and Quality Assurance](https://jobright.ai/jobs/info/694b0e8b1224705e90022320?utm_campaign=1066&utm_source=git)** | Piscataway, NJ | On Site | Dec 23 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[EPI/RWE Analytics Intern](https://jobright.ai/jobs/info/694b0df54b53a1551f94bda8?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
 | ↳ | **[Bioinformatics/Computational Biology Intern](https://jobright.ai/jobs/info/694b0cec3019f50a4fe61447?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - PhD Data Science Intern](https://jobright.ai/jobs/info/694b0c6d1224705e90021ee1?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Dec 23 |
@@ -66,7 +71,10 @@ For a complete list, click the following sortable link below:
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Data Analyst Clinical Solutions Intern](https://jobright.ai/jobs/info/694b03443019f50a4fe60a82?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
 | **[Bunge](http://www.bunge.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/694afffd3019f50a4fe6077b?utm_campaign=1066&utm_source=git)** | Chesterfield, MO | On Site | Dec 23 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Commercial Analytics Intern](https://jobright.ai/jobs/info/694afef63019f50a4fe60691?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
+| **[Vendelux](https://vendelux.com)** | **[Part time Data Intern](https://jobright.ai/jobs/info/694b182a1224705e90023672?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Campaign for the Fair Sentencing of Youth](http://cfsy.org/hire-ican)** | **[Data Intern](https://jobright.ai/jobs/info/694af5433019f50a4fe5ff84?utm_campaign=1066&utm_source=git)** | United States | On Site | Dec 23 |
+| **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/694b1ab44b53a1551f94d936?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
+| **[KBR Careers](https://careers.kbr.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/694b12123019f50a4fe61e75?utm_campaign=1066&utm_source=git)** | Colorado Springs, Colorado | On Site | Dec 23 |
 | **[NT Concepts](http://www.ntconcepts.com/)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/694add731224705e900201c9?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Dec 23 |
 | **[Woodforest National Bank](https://www.woodforest.com/)** | **[Lending Services Data & AI Solutions Intern](https://jobright.ai/jobs/info/694af95d1224705e90021055?utm_campaign=1066&utm_source=git)** | The Woodlands, TX | On Site | Dec 23 |
 | **[NT Concepts](http://www.ntconcepts.com/)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/694ace503019f50a4fe5e7f9?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Dec 23 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12b35ef766b3f0fd0949c?utm_campaign=1066&utm_source=git)** | Glenview, IL | On Site | Dec 21 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Data Scientist for R&D Quality Intern](https://jobright.ai/jobs/info/690ec384d046ab6061d01022?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Dec 21 |
 | **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f133f4f462172a5a7d433e?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Dec 21 |
-| **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Assay Database Champion Intern](https://jobright.ai/jobs/info/690ec814d046ab6061d01285?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Dec 21 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/691c91ecff70244984168921?utm_campaign=1066&utm_source=git)** | Pensacola, FL | Hybrid | Dec 21 |
-| ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/69081970ff462851fe00c5bf?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Dec 21 |
-| **[ArcBest](http://www.arcb.com)** | **[Intern, Business Intelligence](https://jobright.ai/jobs/info/68cd8a5ce23def7af55bb67d?utm_campaign=1066&utm_source=git)** | Fort Smith, AR | On Site | Dec 21 |
-| **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Business Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/690e54ba221b890c2780cd0f?utm_campaign=1066&utm_source=git)** | Greater Chicago Area | On Site | Dec 21 |
-| **[LP Building Solutions](http://www.lpcorp.com)** | **[Intern, Business Insights (BI)](https://jobright.ai/jobs/info/691aaa5015b4156367189b9a?utm_campaign=1066&utm_source=git)** | Nashville, TN | Hybrid | Dec 21 |
-| **[Georgia Institute of Technology](http://gatech.edu)** | **[Research Intern (GTRI-CIPHER)](https://jobright.ai/jobs/info/6947dd7363141d188457976e?utm_campaign=1066&utm_source=git)** | Atlanta Metro | On Site | Dec 21 |
-| **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68bb2ec95f3832749186cb92?utm_campaign=1066&utm_source=git)** | Davie, FL | Hybrid | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
