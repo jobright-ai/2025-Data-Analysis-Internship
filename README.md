@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Data Analytics Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6942f78f50bbaf765054c8fc?utm_campaign=1066&utm_source=git)** | Olive Branch, MS | On Site | Dec 24 |
 | **[Health Research, Inc.](https://www.healthresearch.org)** | **[Hourly Data Analyst II (Internship)](https://jobright.ai/jobs/info/694c26941a572a617dde6ee8?utm_campaign=1066&utm_source=git)** | Albany, NY | Hybrid | Dec 24 |
 | **[BMO](http://www.bmo.com)** | **[Data Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/694c1e805d7312113470a0c5?utm_campaign=1066&utm_source=git)** | Chicago, IL, USA | On Site | Dec 24 |
 | **[The American Council for an Energy-Efficient Economy (ACEEE)](http://aceee.org/)** | **[Paid Summer Research Intern](https://jobright.ai/jobs/info/694c1bd4d64ebf28d821c2c4?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 24 |
@@ -119,7 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Commercial Analytics Intern](https://jobright.ai/jobs/info/694afef63019f50a4fe60691?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
 | **[Vendelux](https://vendelux.com)** | **[Part time Data Intern](https://jobright.ai/jobs/info/694b182a1224705e90023672?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Campaign for the Fair Sentencing of Youth](https://cfsy.org/)** | **[Data Intern](https://jobright.ai/jobs/info/694af5433019f50a4fe5ff84?utm_campaign=1066&utm_source=git)** | United States | On Site | Dec 23 |
-| **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/694b1ab44b53a1551f94d936?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
+| **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/694b17ea4b53a1551f94d2d2?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/694b12123019f50a4fe61e75?utm_campaign=1066&utm_source=git)** | Colorado Springs, Colorado | On Site | Dec 23 |
 | **[NT Concepts](http://www.ntconcepts.com/)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/694add731224705e900201c9?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Dec 23 |
 | **[Woodforest National Bank](https://www.woodforest.com/)** | **[Lending Services Data & AI Solutions Intern](https://jobright.ai/jobs/info/694af95d1224705e90021055?utm_campaign=1066&utm_source=git)** | The Woodlands, TX | On Site | Dec 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Skyward Specialty Insurance](https://www.skywardinsurance.com)** | **[2026 Summer Intern - Data Science](https://jobright.ai/jobs/info/694a1cc263141d188459cd03?utm_campaign=1066&utm_source=git)** | Remote - US | Remote | Dec 22 |
 | **[Hoffmaster](http://hoffmastergroupinc.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/694a03cfc6f0e2546ceee9b5?utm_campaign=1066&utm_source=git)** | Oshkosh, WI | On Site | Dec 22 |
 | **[Entegris](http://www.entegris.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/694a11de63141d188459baad?utm_campaign=1066&utm_source=git)** | Chaska, MN | Hybrid | Dec 22 |
-| **[Voith Paper](http://www.voith.com/paper)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/694a072663141d1884599e1d?utm_campaign=1066&utm_source=git)** | Appleton, WI | Hybrid | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
