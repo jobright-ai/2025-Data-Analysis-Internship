@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Van Meter Inc.](http://vanmeterinc.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/694bb5001a572a617dde0248?utm_campaign=1066&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 24 |
+| **[ASML](https://www.asml.com)** | **[Internship - Equipment Data Analyst /AI](https://jobright.ai/jobs/info/694ba41cd64ebf28d8215e46?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
+| **[Delsys](https://www.delsys.com)** | **[R&D Engineer \- Sensor Data Analysis (Intern)](https://jobright.ai/jobs/info/694b9e505d73121134702fe3?utm_campaign=1066&utm_source=git)** | Natick, Massachusetts, United States | On Site | Dec 23 |
 | **[Daktronics](http://www.daktronics.com/en-us)** | **[Analyst Student](https://jobright.ai/jobs/info/694b72065d731211346ff836?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 23 |
 | **[The American Council for an Energy-Efficient Economy (ACEEE)](http://aceee.org/)** | **[Paid Summer Research Intern](https://jobright.ai/jobs/info/694b47eb4b53a1551f950fea?utm_campaign=1066&utm_source=git)** | Remote Worker - N/A | Remote | Dec 23 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Learning & Skill Development Data Analyst](https://jobright.ai/jobs/info/694b54895d731211346fdf14?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Dec 23 |
@@ -64,10 +67,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/694b4c1f3019f50a4fe66526?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist - Technical Operations (Summer 2026)](https://jobright.ai/jobs/info/694b489f4b53a1551f951027?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
 | **[Snowflake](https://www.snowflake.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/694b34814b53a1551f94edc3?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Dec 23 |
+| **[BluWave, LP](https://www.bluwave.net/)** | **[Data and Analytics Fall Intern](https://jobright.ai/jobs/info/694b64be1a572a617dddb49a?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Dec 23 |
 | **[Paramount](https://www.paramount.com)** | **[Data Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/694b5f3cd64ebf28d82112a3?utm_campaign=1066&utm_source=git)** | Burbank, CA | On Site | Dec 23 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - SPD - Business Intelligence](https://jobright.ai/jobs/info/694b37a33019f50a4fe6415c?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Dec 23 |
 | **[KBR, Inc.](https://www.kbr.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/694b330f3019f50a4fe63f60?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | On Site | Dec 23 |
-| **[BluWave, LP](https://www.bluwave.net/)** | **[Data and Analytics Fall Intern](https://jobright.ai/jobs/info/694b59a65d731211346fe234?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Dec 23 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/694b5ac5d64ebf28d8210fe7?utm_campaign=1066&utm_source=git)** | Cedar Rapids,IA,US | On Site | Dec 23 |
 | **[Vendelux](https://vendelux.com)** | **[Part time Data Intern](https://jobright.ai/jobs/info/694b21b83019f50a4fe6370f?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Dec 23 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[2026 Graduate Data Science Summer Internship Program](https://jobright.ai/jobs/info/694b1f0a4b53a1551f94e1da?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Dec 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Associate Internship (Data Scientist)](https://jobright.ai/jobs/info/6934fb9df131d96e4846c62e?utm_campaign=1066&utm_source=git)** | Vienna, VA | Hybrid | Dec 22 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Pharmacy (Data Analytics) Intern](https://jobright.ai/jobs/info/694799b763141d1884574e34?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Dec 22 |
 | **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68d713c145853d0e39cccb8a?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Dec 22 |
-| **[Ibotta](https://home.ibotta.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69142e4b1465e02904e9b2b5?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Dec 22 |
-| **[Red Ventures](http://www.redventures.com)** | **[2026 LAUNCH Program: Data Science Intern](https://jobright.ai/jobs/info/68f0b908eb273a32d976cbdb?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Dec 22 |
-| **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/68bb2f796105227d118a3a01?utm_campaign=1066&utm_source=git)** | Syracuse, NY | Hybrid | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
