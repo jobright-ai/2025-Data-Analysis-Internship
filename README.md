@@ -59,8 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[2077AI Open Source Foundation](https://www.2077ai.com/)** | **[Research Intern (Vision/VLM)](https://jobright.ai/jobs/info/694cc14629655e4dd656ddf9?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 24 |
 | ↳ | **[Research Intern (Video)](https://jobright.ai/jobs/info/694cbc3fd4a7df7a0671fa33?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 24 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern Data Research
-Job ID : 269304](https://jobright.ai/jobs/info/694c665e5d7312113470d7fa?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Dec 24 |
 | **[Velera](https://www.velera.com)** | **[Intern - Data Science (REMOTE)](https://jobright.ai/jobs/info/69476dac63141d18845716a9?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 24 |
 | **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/694c62b0d64ebf28d82200d4?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Dec 24 |
 | **[AMA - Alberta Motor Association](https://ama.ab.ca/)** | **[Junior Analyst, IT Intern (16-months)](https://jobright.ai/jobs/info/694c570cd64ebf28d821f2a5?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Dec 24 |
@@ -95,9 +93,9 @@ Job ID : 269304](https://jobright.ai/jobs/info/694c665e5d7312113470d7fa?utm_camp
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist (Summer 2026)](https://jobright.ai/jobs/info/69129e98c98948514c47ce76?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Dec 24 |
 | **[Abaka AI](https://www.abaka.ai/)** | **[Research Intern (Video)](https://jobright.ai/jobs/info/692f04d2ef4b48533d142336?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | Remote | Dec 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - People Data Scientist](https://jobright.ai/jobs/info/68f806fcb0edcf159dc8dd9c?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Dec 24 |
+| **[Ntrepid LLC](https://ntrepidcorp.com/)** | **[Technology & Global Affairs Research Intern](https://jobright.ai/jobs/info/694bbe4bd64ebf28d821723d?utm_campaign=1066&utm_source=git)** | Herndon, VA | Remote | Dec 24 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/694bbd4cd64ebf28d8217053?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 24 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/694bbb2ed64ebf28d8216c61?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 24 |
-| **[Ntrepid LLC](https://ntrepidcorp.com/)** | **[Technology & Global Affairs Research Intern](https://jobright.ai/jobs/info/694bba0ed64ebf28d8216a93?utm_campaign=1066&utm_source=git)** | Herndon, VA | Remote | Dec 24 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/694bb5001a572a617dde0248?utm_campaign=1066&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 24 |
 | **[ASML](https://www.asml.com)** | **[Internship - Equipment Data Analyst /AI](https://jobright.ai/jobs/info/694ba41cd64ebf28d8215e46?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
 | **[Delsys](https://www.delsys.com)** | **[R&D Engineer \- Sensor Data Analysis (Intern)](https://jobright.ai/jobs/info/694b9e505d73121134702fe3?utm_campaign=1066&utm_source=git)** | Natick, Massachusetts, United States | On Site | Dec 23 |
@@ -108,10 +106,10 @@ Job ID : 269304](https://jobright.ai/jobs/info/694c665e5d7312113470d7fa?utm_camp
 | ↳ | **[Data Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/694b4c1f3019f50a4fe66526?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist - Technical Operations (Summer 2026)](https://jobright.ai/jobs/info/694b489f4b53a1551f951027?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
 | **[Snowflake](https://www.snowflake.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/694b34814b53a1551f94edc3?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Dec 23 |
-| **[BluWave, LP](https://www.bluwave.net/)** | **[Data and Analytics Fall Intern](https://jobright.ai/jobs/info/694b64be1a572a617dddb49a?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Dec 23 |
 | **[Paramount](https://www.paramount.com)** | **[Data Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/694b5f3cd64ebf28d82112a3?utm_campaign=1066&utm_source=git)** | Burbank, CA | On Site | Dec 23 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - SPD - Business Intelligence](https://jobright.ai/jobs/info/694b37a33019f50a4fe6415c?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Dec 23 |
 | **[KBR, Inc.](https://www.kbr.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/694b330f3019f50a4fe63f60?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | On Site | Dec 23 |
+| **[BluWave, LP](https://www.bluwave.net/)** | **[Data and Analytics Fall Intern](https://jobright.ai/jobs/info/694b59a65d731211346fe234?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Dec 23 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/694b5ac5d64ebf28d8210fe7?utm_campaign=1066&utm_source=git)** | Cedar Rapids,IA,US | On Site | Dec 23 |
 | **[Vendelux](https://vendelux.com)** | **[Part time Data Intern](https://jobright.ai/jobs/info/694b21b83019f50a4fe6370f?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Dec 23 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[2026 Graduate Data Science Summer Internship Program](https://jobright.ai/jobs/info/694b1f0a4b53a1551f94e1da?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Dec 23 |
@@ -158,4 +156,5 @@ Job ID : 269304](https://jobright.ai/jobs/info/694c665e5d7312113470d7fa?utm_camp
 | ↳ | **[Business Intelligence Developer Summer Intern](https://jobright.ai/jobs/info/694a08fb63141d188459a316?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Dec 22 |
 | **[Entegris](http://www.entegris.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/6949fc3b63141d1884597fa7?utm_campaign=1066&utm_source=git)** | Chaska, MN | Hybrid | Dec 22 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Computational Sciences Center of Excellence](https://jobright.ai/jobs/info/694a1a40c6f0e2546cef2345?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Dec 22 |
+| **[Hoffmaster](http://hoffmastergroupinc.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/694a1652c6f0e2546cef1a41?utm_campaign=1066&utm_source=git)** | Hoffmaster, 2920 N. Main St, Oshkosh, Wisconsin, United States of America | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
