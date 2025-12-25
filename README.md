@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[2077AI Open Source Foundation](https://www.2077ai.com/)** | **[Research Intern (Vision/VLM)](https://jobright.ai/jobs/info/694cc14629655e4dd656ddf9?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 24 |
+| ↳ | **[Research Intern (Video)](https://jobright.ai/jobs/info/694cbc3fd4a7df7a0671fa33?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 24 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern Data Research
 Job ID : 269304](https://jobright.ai/jobs/info/694c665e5d7312113470d7fa?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Dec 24 |
 | **[Velera](https://www.velera.com)** | **[Intern - Data Science (REMOTE)](https://jobright.ai/jobs/info/69476dac63141d18845716a9?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 24 |
@@ -156,6 +158,4 @@ Job ID : 269304](https://jobright.ai/jobs/info/694c665e5d7312113470d7fa?utm_camp
 | ↳ | **[Business Intelligence Developer Summer Intern](https://jobright.ai/jobs/info/694a08fb63141d188459a316?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Dec 22 |
 | **[Entegris](http://www.entegris.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/6949fc3b63141d1884597fa7?utm_campaign=1066&utm_source=git)** | Chaska, MN | Hybrid | Dec 22 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Computational Sciences Center of Excellence](https://jobright.ai/jobs/info/694a1a40c6f0e2546cef2345?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Dec 22 |
-| **[Hoffmaster](http://hoffmastergroupinc.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/694a1652c6f0e2546cef1a41?utm_campaign=1066&utm_source=git)** | Hoffmaster, 2920 N. Main St, Oshkosh, Wisconsin, United States of America | On Site | Dec 22 |
-| **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Graduate Intern Summer 2026 - Technology, US Open and Enterprise Systems](https://jobright.ai/jobs/info/694a022363141d18845991fe?utm_campaign=1066&utm_source=git)** | Purchase, NY | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
