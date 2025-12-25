@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern Data Research
+Job ID : 269304](https://jobright.ai/jobs/info/694c665e5d7312113470d7fa?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Dec 24 |
+| **[Velera](https://www.velera.com)** | **[Intern - Data Science (REMOTE)](https://jobright.ai/jobs/info/69476dac63141d18845716a9?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 24 |
+| **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/694c62b0d64ebf28d82200d4?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Dec 24 |
 | **[AMA - Alberta Motor Association](https://ama.ab.ca/)** | **[Junior Analyst, IT Intern (16-months)](https://jobright.ai/jobs/info/694c570cd64ebf28d821f2a5?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Dec 24 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 24 |
 | **[NISA Investment Advisors, LLC](http://nisa.com)** | **[Intern](https://jobright.ai/jobs/info/68f6f6a69a63986de7583c8c?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Dec 24 |
@@ -89,9 +93,9 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist (Summer 2026)](https://jobright.ai/jobs/info/69129e98c98948514c47ce76?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Dec 24 |
 | **[Abaka AI](https://www.abaka.ai/)** | **[Research Intern (Video)](https://jobright.ai/jobs/info/692f04d2ef4b48533d142336?utm_campaign=1066&utm_source=git)** | Palo Alto, CA | Remote | Dec 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - People Data Scientist](https://jobright.ai/jobs/info/68f806fcb0edcf159dc8dd9c?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Dec 24 |
+| **[Ntrepid LLC](https://ntrepidcorp.com/)** | **[Technology & Global Affairs Research Intern](https://jobright.ai/jobs/info/694bbe4bd64ebf28d821723d?utm_campaign=1066&utm_source=git)** | Herndon, VA | Remote | Dec 24 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/694bbd4cd64ebf28d8217053?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 24 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/694bbb2ed64ebf28d8216c61?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 24 |
-| **[Ntrepid LLC](https://ntrepidcorp.com/)** | **[Technology & Global Affairs Research Intern](https://jobright.ai/jobs/info/694bba0ed64ebf28d8216a93?utm_campaign=1066&utm_source=git)** | Herndon, VA | Remote | Dec 24 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/694bb5001a572a617dde0248?utm_campaign=1066&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 24 |
 | **[ASML](https://www.asml.com)** | **[Internship - Equipment Data Analyst /AI](https://jobright.ai/jobs/info/694ba41cd64ebf28d8215e46?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
 | **[Delsys](https://www.delsys.com)** | **[R&D Engineer \- Sensor Data Analysis (Intern)](https://jobright.ai/jobs/info/694b9e505d73121134702fe3?utm_campaign=1066&utm_source=git)** | Natick, Massachusetts, United States | On Site | Dec 23 |
@@ -123,7 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Commercial Analytics Intern](https://jobright.ai/jobs/info/694afef63019f50a4fe60691?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
 | **[Vendelux](https://vendelux.com)** | **[Part time Data Intern](https://jobright.ai/jobs/info/694b182a1224705e90023672?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Campaign for the Fair Sentencing of Youth](https://cfsy.org/)** | **[Data Intern](https://jobright.ai/jobs/info/694af5433019f50a4fe5ff84?utm_campaign=1066&utm_source=git)** | United States | On Site | Dec 23 |
-| **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/694b17ea4b53a1551f94d2d2?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
+| **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/694b1ab44b53a1551f94d936?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/694b12123019f50a4fe61e75?utm_campaign=1066&utm_source=git)** | Colorado Springs, Colorado | On Site | Dec 23 |
 | **[NT Concepts](http://www.ntconcepts.com/)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/694add731224705e900201c9?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Dec 23 |
 | **[Woodforest National Bank](https://www.woodforest.com/)** | **[Lending Services Data & AI Solutions Intern](https://jobright.ai/jobs/info/694af95d1224705e90021055?utm_campaign=1066&utm_source=git)** | The Woodlands, TX | On Site | Dec 23 |
@@ -154,7 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Computational Sciences Center of Excellence](https://jobright.ai/jobs/info/694a1a40c6f0e2546cef2345?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Dec 22 |
 | **[Hoffmaster](http://hoffmastergroupinc.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/694a1652c6f0e2546cef1a41?utm_campaign=1066&utm_source=git)** | Hoffmaster, 2920 N. Main St, Oshkosh, Wisconsin, United States of America | On Site | Dec 22 |
 | **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Graduate Intern Summer 2026 - Technology, US Open and Enterprise Systems](https://jobright.ai/jobs/info/694a022363141d18845991fe?utm_campaign=1066&utm_source=git)** | Purchase, NY | On Site | Dec 22 |
-| **[Zymo Research Corp](https://www.zymoresearch.com)** | **[Computational (Bioinformatics) Internship](https://jobright.ai/jobs/info/694a127763141d188459bc13?utm_campaign=1066&utm_source=git)** | Irvine, CA | Hybrid | Dec 22 |
-| **[Vendelux](https://vendelux.com)** | **[Data Intern](https://jobright.ai/jobs/info/694adc9667a69734cac5fdf8?utm_campaign=1066&utm_source=git)** | New York | On Site | Dec 22 |
-| **[Great American Insurance Group](http://www.greatamericaninsurancegroup.com)** | **[Data Science Intern - Great American Risk Solutions](https://jobright.ai/jobs/info/6949f9797d506e3808f508b8?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
