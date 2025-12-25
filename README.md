@@ -60,6 +60,7 @@ For a complete list, click the following sortable link below:
 | **[TransUnion](http://www.transunion.com)** | **[Data Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/6933c158764507023d1b91c7?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 25 |
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Data Analytics Engineering Intern](https://jobright.ai/jobs/info/6915b649286ccf0a151302ce?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Dec 25 |
 | **[ATI](https://www.forging.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69336404f131d96e48462c6e?utm_campaign=1066&utm_source=git)** | Natrona Heights, PA | On Site | Dec 25 |
+| **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/691a95dd45fb6f5ead8ac241?utm_campaign=1066&utm_source=git)** | Chillicothe, OH | On Site | Dec 25 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Internship Program - Claims Encounters Analyst - R10722](https://jobright.ai/jobs/info/69145c78286ccf0a15126880?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 25 |
 | **[GP Fund Solutions](https://gpfundsolutions.com/)** | **[Data Intern - Summer 2026](https://jobright.ai/jobs/info/6930bfc14c474121999e869d?utm_campaign=1066&utm_source=git)** | Latham, NY | On Site | Dec 25 |
 | **[PennEngineering®](http://www.pemnet.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6930c560fa28370be26b3888?utm_campaign=1066&utm_source=git)** | Danboro, PA | On Site | Dec 25 |
@@ -124,10 +125,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/694b4c1f3019f50a4fe66526?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 23 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist - Technical Operations (Summer 2026)](https://jobright.ai/jobs/info/694b489f4b53a1551f951027?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
 | **[Snowflake](https://www.snowflake.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/694b34814b53a1551f94edc3?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Dec 23 |
-| **[BluWave, LP](https://www.bluwave.net/)** | **[Data and Analytics Fall Intern](https://jobright.ai/jobs/info/694b64be1a572a617dddb49a?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Dec 23 |
 | **[Paramount](https://www.paramount.com)** | **[Data Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/694b5f3cd64ebf28d82112a3?utm_campaign=1066&utm_source=git)** | Burbank, CA | On Site | Dec 23 |
 | **[State of Indiana](https://www.in.gov)** | **[Governor's Summer Intern - SPD - Business Intelligence](https://jobright.ai/jobs/info/694b37a33019f50a4fe6415c?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Dec 23 |
 | **[KBR, Inc.](https://www.kbr.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/694b330f3019f50a4fe63f60?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | On Site | Dec 23 |
+| **[BluWave, LP](https://www.bluwave.net/)** | **[Data and Analytics Fall Intern](https://jobright.ai/jobs/info/694b59a65d731211346fe234?utm_campaign=1066&utm_source=git)** | Brentwood, TN | On Site | Dec 23 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/694b5ac5d64ebf28d8210fe7?utm_campaign=1066&utm_source=git)** | Cedar Rapids,IA,US | On Site | Dec 23 |
 | **[Vendelux](https://vendelux.com)** | **[Part time Data Intern](https://jobright.ai/jobs/info/694b21b83019f50a4fe6370f?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Dec 23 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[2026 Graduate Data Science Summer Internship Program](https://jobright.ai/jobs/info/694b1f0a4b53a1551f94e1da?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Dec 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/691184fa183be660d267c46b?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Dec 23 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/691abc11bcdbf3560c9da35b?utm_campaign=1066&utm_source=git)** | Garland, TX | On Site | Dec 23 |
 | **[Hyundai Motor Company](https://www.hyundai.com)** | **[Intern, Emerging Issues Data Analysis](https://jobright.ai/jobs/info/694596ca63141d1884552330?utm_campaign=1066&utm_source=git)** | Fountain Valley, CA | On Site | Dec 23 |
-| **[Motion](https://www.motion.com)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/6933cd88a0dde7020e2f1fac?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
