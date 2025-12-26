@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ededge Learn](www.ededgelearning.com)** | **[Data  Analyst  Training  &  Internship](https://jobright.ai/jobs/info/694eb861ce13cd105656f8db?utm_campaign=1066&utm_source=git)** | Canada | Remote | Dec 26 |
+| **[Leidos](https://www.leidos.com/)** | **[SRE Metrics Analyst Intern](https://jobright.ai/jobs/info/694eb81629655e4dd65848b6?utm_campaign=1066&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Dec 26 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/694eb52c29655e4dd6584869?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Dec 26 |
+| ↳ | **[2026 Quantitative Insights Lab Intern (PhD)](https://jobright.ai/jobs/info/694eb335ce13cd105656f782?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Dec 26 |
 | **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/6916096a6f36db06ef052662?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Dec 26 |
 | ↳ | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/691607fa9c388539cbdf75da?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 26 |
 | ↳ | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/691642c8286ccf0a15133db2?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 26 |
@@ -116,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[AMA - Alberta Motor Association](https://ama.ab.ca/)** | **[Junior Analyst, IT Intern (16-months)](https://jobright.ai/jobs/info/694c570cd64ebf28d821f2a5?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Dec 24 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 24 |
 | **[NISA Investment Advisors, LLC](http://nisa.com)** | **[Intern](https://jobright.ai/jobs/info/68f6f6a69a63986de7583c8c?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Dec 24 |
-| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Data Analytics Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/6942f78f50bbaf765054c8fc?utm_campaign=1066&utm_source=git)** | Olive Branch, MS | On Site | Dec 24 |
 | **[Health Research, Inc.](https://www.healthresearch.org)** | **[Hourly Data Analyst II (Internship)](https://jobright.ai/jobs/info/694c26941a572a617dde6ee8?utm_campaign=1066&utm_source=git)** | Albany, NY | Hybrid | Dec 24 |
 | **[BMO](http://www.bmo.com)** | **[Data Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/694c1e805d7312113470a0c5?utm_campaign=1066&utm_source=git)** | Chicago, IL, USA | On Site | Dec 24 |
 | **[The American Council for an Energy-Efficient Economy (ACEEE)](http://aceee.org/)** | **[Paid Summer Research Intern](https://jobright.ai/jobs/info/694c1bd4d64ebf28d821c2c4?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The American Council for an Energy-Efficient Economy (ACEEE)](http://aceee.org/)** | **[Paid Summer Research Intern](https://jobright.ai/jobs/info/694b47eb4b53a1551f950fea?utm_campaign=1066&utm_source=git)** | Remote Worker - N/A | Remote | Dec 23 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Learning & Skill Development Data Analyst](https://jobright.ai/jobs/info/694b54895d731211346fdf14?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Dec 23 |
 | **[Paramount](https://www.paramount.com)** | **[CBS Sports Data Delivery & Insights Internship (Summer 2026, In Person- Fort Lauderdale, FL)](https://jobright.ai/jobs/info/694b5378d64ebf28d8210bcf?utm_campaign=1066&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 23 |
-| ↳ | **[Data Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/694b4c1f3019f50a4fe66526?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 23 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist - Technical Operations (Summer 2026)](https://jobright.ai/jobs/info/694b489f4b53a1551f951027?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Dec 23 |
-| **[Snowflake](https://www.snowflake.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/694b34814b53a1551f94edc3?utm_campaign=1066&utm_source=git)** | Menlo Park, CA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
