@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Figma](https://www.figma.com)** | **[Data Science Intern (2026)](https://jobright.ai/jobs/info/68ce225de23def7af55c2988?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 26 |
+| **[State of Missouri](http://mo.gov)** | **[Intern - 5020213](https://jobright.ai/jobs/info/690c938d221b890c277fee38?utm_campaign=1066&utm_source=git)** | Rolla, MO | On Site | Dec 26 |
+| **[STR](https://www.str.us/)** | **[Intelligence Summer Internship](https://jobright.ai/jobs/info/68cb9751ba798c1a501d2992?utm_campaign=1066&utm_source=git)** | Woburn, MA | On Site | Dec 26 |
+| **[MarketAxess](http://marketaxess.com)** | **[Quant Research Intern 2026](https://jobright.ai/jobs/info/693204404c474121999f5c55?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 26 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[2026 Summer Intern - MAGNet Program @ Arizona State University](https://jobright.ai/jobs/info/691541c69c388539cbdf1e50?utm_campaign=1066&utm_source=git)** | Tempe, AZ | Hybrid | Dec 26 |
+| **[Sanofi](https://www.sanofi.com)** | **[Biostatistics Evidence Generation & Decision Sciences (EGDS)- Summer 2026 Intern](https://jobright.ai/jobs/info/6930e8344c474121999ea2e2?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Dec 26 |
+| **[Quill](http://www.quill.com)** | **[Quill Data Science Intern - June 2026](https://jobright.ai/jobs/info/6914bd7f286ccf0a15128236?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 26 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd43151ad6b16f02897359?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 26 |
 | **[Paramount Global](https://www.paramountglobal.com/)** | **[CBS Sports Data Delivery & Insights Internship (Summer 2026, In Person- Fort Lauderdale, FL)](https://jobright.ai/jobs/info/694e53f3d4a7df7a0673207b?utm_campaign=1066&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 26 |
 | **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/694e4f2929655e4dd658004b?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Dec 26 |
 | **[KBR, Inc.](https://www.kbr.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/694b330f3019f50a4fe63f60?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | On Site | Dec 25 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/694b1ab44b53a1551f94d936?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
 | **[KBR Careers](https://careers.kbr.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/694b12123019f50a4fe61e75?utm_campaign=1066&utm_source=git)** | Colorado Springs, Colorado | On Site | Dec 23 |
 | **[NT Concepts](http://www.ntconcepts.com/)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/694add731224705e900201c9?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Dec 23 |
-| **[Woodforest National Bank](https://www.woodforest.com/)** | **[Lending Services Data & AI Solutions Intern](https://jobright.ai/jobs/info/694af95d1224705e90021055?utm_campaign=1066&utm_source=git)** | The Woodlands, TX | On Site | Dec 23 |
-| **[NT Concepts](http://www.ntconcepts.com/)** | **[Data Science Summer Intern](https://jobright.ai/jobs/info/694ace503019f50a4fe5e7f9?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Dec 23 |
-| **[IEEE](http://www.ieee.org)** | **[Intern - Data Analytics and Quality Assurance](https://jobright.ai/jobs/info/694aca9d3019f50a4fe5db2e?utm_campaign=1066&utm_source=git)** | United States-New Jersey-Piscataway | On Site | Dec 23 |
-| **[Sage Bionetworks](https://sagebionetworks.org)** | **[Alzheimer’s Disease Translational Research Intern](https://jobright.ai/jobs/info/69438a40dd382f5f5669af24?utm_campaign=1066&utm_source=git)** | United States | On Site | Dec 23 |
-| **[TransUnion](http://www.transunion.com)** | **[Data Science & Analytics Internship - Summer 2026](https://jobright.ai/jobs/info/692e6676fa28370be26a43c1?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Dec 23 |
-| **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/691184fa183be660d267c46b?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Dec 23 |
-| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/691abc11bcdbf3560c9da35b?utm_campaign=1066&utm_source=git)** | Garland, TX | On Site | Dec 23 |
-| **[Hyundai Motor Company](https://www.hyundai.com)** | **[Intern, Emerging Issues Data Analysis](https://jobright.ai/jobs/info/694596ca63141d1884552330?utm_campaign=1066&utm_source=git)** | Fountain Valley, CA | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
