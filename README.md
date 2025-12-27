@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Data Analytics Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69500d6ece13cd1056581da1?utm_campaign=1066&utm_source=git)** | Olive Branch, MS | On Site | Dec 27 |
 | **[University Pension Plan Ontario](https://myupp.ca/)** | **[Intern Analyst, Development (January 2026 - August 2026)](https://jobright.ai/jobs/info/69334a6da0dde7020e2ec37c?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 27 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/6933af70764507023d1b84c2?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Dec 27 |
 | **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6917111e3ea85638ae1c7668?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern Data Research Job ID : 269304](https://jobright.ai/jobs/info/694f7a35ce13cd105657aa23?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Dec 24 |
 | **[Velera](https://www.velera.com)** | **[Intern - Data Science (REMOTE)](https://jobright.ai/jobs/info/69476dac63141d18845716a9?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 24 |
 | **[AMA - Alberta Motor Association](https://ama.ab.ca/)** | **[Junior Analyst, IT Intern (16-months)](https://jobright.ai/jobs/info/694c570cd64ebf28d821f2a5?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Dec 24 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
