@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/693d0ccf50bbaf765050363a?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 27 |
+| **[STR](https://www.str.us/)** | **[Intelligence Summer Internship](https://jobright.ai/jobs/info/68cf648cfb49c96ca6ea850e?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Dec 27 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/69339c85764507023d1b74b4?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Dec 27 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689403694c7e851b90ae2086?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Dec 27 |
+| ↳ | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/693d0b9649a7695fbd03bc91?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Dec 27 |
+| **[Sanofi](https://www.sanofi.com)** | **[Summer-Fall 2026 Co-Op - RNA Bioinformatics - Vaccines](https://jobright.ai/jobs/info/6933e9d2764507023d1bab60?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Dec 27 |
 | **[Leidos](https://www.leidos.com/)** | **[SRE Metrics Analyst Intern](https://jobright.ai/jobs/info/694eb81629655e4dd65848b6?utm_campaign=1066&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Dec 26 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/694eb52c29655e4dd6584869?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Dec 26 |
 | ↳ | **[2026 Quantitative Insights Lab Intern (PhD)](https://jobright.ai/jobs/info/694eb335ce13cd105656f782?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Dec 26 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/694bbb2ed64ebf28d8216c61?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Dec 24 |
 | **[Van Meter Inc.](http://vanmeterinc.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/694bb5001a572a617dde0248?utm_campaign=1066&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 24 |
 | **[ASML](https://www.asml.com)** | **[Internship - Equipment Data Analyst /AI](https://jobright.ai/jobs/info/694ba41cd64ebf28d8215e46?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
-| **[Delsys](https://www.delsys.com)** | **[R&D Engineer \- Sensor Data Analysis (Intern)](https://jobright.ai/jobs/info/694b9e505d73121134702fe3?utm_campaign=1066&utm_source=git)** | Natick, Massachusetts, United States | On Site | Dec 23 |
-| **[Daktronics](http://www.daktronics.com/en-us)** | **[Analyst Student](https://jobright.ai/jobs/info/694b72065d731211346ff836?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 23 |
-| **[The American Council for an Energy-Efficient Economy (ACEEE)](http://aceee.org/)** | **[Paid Summer Research Intern](https://jobright.ai/jobs/info/694b47eb4b53a1551f950fea?utm_campaign=1066&utm_source=git)** | Remote Worker - N/A | Remote | Dec 23 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Learning & Skill Development Data Analyst](https://jobright.ai/jobs/info/694b54895d731211346fdf14?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Dec 23 |
-| **[Paramount](https://www.paramount.com)** | **[CBS Sports Data Delivery & Insights Internship (Summer 2026, In Person- Fort Lauderdale, FL)](https://jobright.ai/jobs/info/694b5378d64ebf28d8210bcf?utm_campaign=1066&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 23 |
-| ↳ | **[Data Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/694b4c1f3019f50a4fe66526?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
