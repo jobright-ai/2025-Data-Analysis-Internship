@@ -58,7 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Sage Bionetworks](https://sagebionetworks.org)** | **[Alzheimer’s Disease Translational Research Intern](https://jobright.ai/jobs/info/69438a40dd382f5f5669af24?utm_campaign=1066&utm_source=git)** | United States | On Site | Dec 27 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 27 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 27 |
 | **[Kirin](kirin.com)** | **[Quantitative Research Intern - Prediction Markets](https://jobright.ai/jobs/info/695046b3a2668b7f54534889?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | ↳ | **[Quantitative Research Intern - Prediction Markets](https://jobright.ai/jobs/info/69504270a2668b7f545330b7?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Dec 27 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Data Analytics Engineer Intern (Summer 2026)](https://jobright.ai/jobs/info/69500d6ece13cd1056581da1?utm_campaign=1066&utm_source=git)** | Olive Branch, MS | On Site | Dec 27 |
