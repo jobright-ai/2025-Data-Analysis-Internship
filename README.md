@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/69519f11ce13cd1056594420?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Dec 28 |
 | **[University Pension Plan Ontario](https://myupp.ca/)** | **[Intern Analyst, Data & Technology (January 2026 - August 2026)](https://jobright.ai/jobs/info/695180bece13cd10565921bf?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 28 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Computational Social Science](https://jobright.ai/jobs/info/69342f9df131d96e48469e60?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Dec 28 |
 | **[Health Care Service Corporation](https://www.hcsc.com)** | **[Early Careers - Associate Business Intelligence Engineer Senior Intern](https://jobright.ai/jobs/info/69178d42bcdbf3560c9c8bd5?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Dec 28 |
@@ -109,8 +110,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/6933b51ef131d96e48466294?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/69335243764507023d1b432f?utm_campaign=1066&utm_source=git)** | Brookhaven, PA | On Site | Dec 27 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/6933b801764507023d1b8a0b?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Dec 27 |
-| ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/6933ad8bf131d96e48465cea?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Dec 27 |
 | ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/6933af5d764507023d1b84b2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 27 |
+| ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/6933ad8bf131d96e48465cea?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Dec 27 |
 | **[State of Missouri](http://mo.gov)** | **[Intern - 5020501](https://jobright.ai/jobs/info/68c65d397d0db41142738e13?utm_campaign=1066&utm_source=git)** | Rolla, MO | On Site | Dec 27 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/6933b205764507023d1b869a?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Enterprise Data Intern (Summer 2026)](https://jobright.ai/jobs/info/69168b776f36db06ef057a2f?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Dec 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://www.statefarm.com/careers)** | **[2026 Summer Intern - MAGNet Program @ Arizona State University](https://jobright.ai/jobs/info/691541c69c388539cbdf1e50?utm_campaign=1066&utm_source=git)** | Tempe, AZ | Hybrid | Dec 26 |
 | **[Sanofi](https://www.sanofi.com)** | **[Biostatistics Evidence Generation & Decision Sciences (EGDS)- Summer 2026 Intern](https://jobright.ai/jobs/info/6930e8344c474121999ea2e2?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Dec 26 |
 | **[Quill](http://www.quill.com)** | **[Quill Data Science Intern - June 2026](https://jobright.ai/jobs/info/6914bd7f286ccf0a15128236?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 26 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68cd43151ad6b16f02897359?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
