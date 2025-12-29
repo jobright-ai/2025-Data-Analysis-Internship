@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD](https://www.td.com)** | **[Data Analytics & Insights Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/695242ff5bb7de448ef569f3?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 29 |
+| ↳ | **[Data Science Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695242aa935649778e200e77?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
+| ↳ | **[Data Analyst Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695242a9f1f8465b79e9974a?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Data Analytics & Insights Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/695223f929655e4dd65af2e4?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 28 |
 | ↳ | **[Innovation Analyst Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952239d29655e4dd65af2d0?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, Canada | On Site | Dec 28 |
 | ↳ | **[Data Science Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695222c6ce13cd105659a70a?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
@@ -101,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69520b57a2668b7f54549db0?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Dec 27 |
 | ↳ | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/695200bc29655e4dd65ac9b6?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Dec 27 |
 | **[Sage Bionetworks](https://sagebionetworks.org)** | **[Alzheimer’s Disease Translational Research Intern](https://jobright.ai/jobs/info/69438a40dd382f5f5669af24?utm_campaign=1066&utm_source=git)** | United States | On Site | Dec 27 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 27 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 27 |
 | **[Kirin](kirin.com)** | **[Quantitative Research Intern - Prediction Markets](https://jobright.ai/jobs/info/695046b3a2668b7f54534889?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | ↳ | **[Quantitative Research Intern - Prediction Markets](https://jobright.ai/jobs/info/69504270a2668b7f545330b7?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Dec 27 |
 | **[University Pension Plan Ontario](https://myupp.ca/)** | **[Intern Analyst, Development (January 2026 - August 2026)](https://jobright.ai/jobs/info/69334a6da0dde7020e2ec37c?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Data Scientist (Summer 2026 Internship)](https://jobright.ai/jobs/info/6933ef2cf131d96e48468543?utm_campaign=1066&utm_source=git)** | Schaumburg, IL | On Site | Dec 26 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern II - User Research](https://jobright.ai/jobs/info/693d289850bbaf76505044cb?utm_campaign=1066&utm_source=git)** | United States | On Site | Dec 26 |
 | **[Analog Devices](http://www.analog.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6933b9a5f131d96e48466419?utm_campaign=1066&utm_source=git)** | Wilmington, MA | On Site | Dec 26 |
-| **[Dexcom](http://www.dexcom.com)** | **[Intern I - Data and Manufacturing Analytics](https://jobright.ai/jobs/info/693265aea0dde7020e2e67d6?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 26 |
-| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Data Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/693226fcfa28370be26c2987?utm_campaign=1066&utm_source=git)** | Yocumtown, PA | On Site | Dec 26 |
-| **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/6916056f6f36db06ef052543?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
