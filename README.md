@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[HR Data Analysis Intern](https://jobright.ai/jobs/info/6952e6f2935649778e20a7c9?utm_campaign=1066&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 29 |
+| **[Bespoke Technologies, Inc.](https://bespoketechinc.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6952db5cf1f8465b79ea24dc?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 29 |
 | **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Transformation and Analytics Intern - Customer Interactions](https://jobright.ai/jobs/info/6952da885bb7de448ef5ec63?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Dec 29 |
 | **[Woodfin - Your Home Team](https://askwoodfin.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/6952d56d5bb7de448ef5e691?utm_campaign=1066&utm_source=git)** | Richmond, VA | On Site | Dec 29 |
 | **[Arkema](http://www.arkema.com)** | **[Data Science Intern (must be located in Houston or Beaumont)](https://jobright.ai/jobs/info/6952caf55bb7de448ef5dfaf?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Dec 29 |
@@ -74,13 +76,11 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/693d34cc50bbaf7650505ed1?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Dec 29 |
 | **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Business Intelligence/Data Insights Intern](https://jobright.ai/jobs/info/68ccffcbd11b445e0bee5e20?utm_campaign=1066&utm_source=git)** | Jackson, MS | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Data Analytics & Insights Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/695242ff5bb7de448ef569f3?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 29 |
-| ↳ | **[Data Science Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695242aa935649778e200e77?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Data Analyst Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695242a9f1f8465b79e9974a?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Data Analytics & Insights Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/695223f929655e4dd65af2e4?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 28 |
 | ↳ | **[Innovation Analyst Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952239d29655e4dd65af2d0?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, Canada | On Site | Dec 28 |
 | ↳ | **[Data Analyst Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695222afce13cd105659a706?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
 | ↳ | **[Risk Management - Model Development Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952229ea2668b7f5454b0cd?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 28 |
-| **[TD](https://www.td.com)** | **[Data Science Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/69521655a2668b7f5454acc6?utm_campaign=1066&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Data Analyst Intern - Returns](https://jobright.ai/jobs/info/695215c729655e4dd65aeeca?utm_campaign=1066&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
 | **[TD](https://www.td.com)** | **[Data Analytics & Insights Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/6952157aa2668b7f5454ac81?utm_campaign=1066&utm_source=git)** | Montréal, Québec | Hybrid | Dec 28 |
 | ↳ | **[Data Analyst Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/6952156629655e4dd65aeeaa?utm_campaign=1066&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
@@ -88,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Data Analytics & Insights Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/69521442ce13cd105659a296?utm_campaign=1066&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6952142cce13cd105659a290?utm_campaign=1066&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
 | **[TD](https://www.td.com)** | **[Innovation Analyst Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952140dce13cd105659a286?utm_campaign=1066&utm_source=git)** | TD Terrace - 160 Front Street West Corporate, Toronto, Ontario | Hybrid | Dec 28 |
-| ↳ | **[Data Science Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/69521365ce13cd105659a25e?utm_campaign=1066&utm_source=git)** | TD Terrace - 160 Front Street West Corporate, Toronto, Ontario | Hybrid | Dec 28 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/6951f9adce13cd1056597a6d?utm_campaign=1066&utm_source=git)** | Richfield, OH | Hybrid | Dec 28 |
 | **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/69519f11ce13cd1056594420?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Dec 28 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Quantitative Insights Lab Intern (PhD)](https://jobright.ai/jobs/info/694eb335ce13cd105656f782?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Dec 28 |
@@ -143,8 +142,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/6933b51ef131d96e48466294?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/69335243764507023d1b432f?utm_campaign=1066&utm_source=git)** | Brookhaven, PA | On Site | Dec 27 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/6933b801764507023d1b8a0b?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Dec 27 |
-| ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/6933af5d764507023d1b84b2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/6933ad8bf131d96e48465cea?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Dec 27 |
+| ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/6933af5d764507023d1b84b2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | **[State of Missouri](http://mo.gov)** | **[Intern - 5020501](https://jobright.ai/jobs/info/68c65d397d0db41142738e13?utm_campaign=1066&utm_source=git)** | Rolla, MO | On Site | Dec 27 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/6933b205764507023d1b869a?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Enterprise Data Intern (Summer 2026)](https://jobright.ai/jobs/info/69168b776f36db06ef057a2f?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Dec 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/693d0b9649a7695fbd03bc91?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Dec 27 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer-Fall 2026 Co-Op - RNA Bioinformatics - Vaccines](https://jobright.ai/jobs/info/6933e9d2764507023d1bab60?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Dec 27 |
 | **[Kirin](kirin.com)** | **[Quantitative Research Intern - Prediction Markets](https://jobright.ai/jobs/info/6950410ece13cd1056582899?utm_campaign=1066&utm_source=git)** | New York City | Remote | Dec 26 |
+| **[Leidos](https://www.leidos.com/)** | **[SRE Metrics Analyst Intern](https://jobright.ai/jobs/info/694eb81629655e4dd65848b6?utm_campaign=1066&utm_source=git)** | 6314 Remote/Teleworker US | Remote | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
