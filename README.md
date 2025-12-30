@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Kansas City - Research Intern](https://jobright.ai/jobs/info/691bd26422a2cb4b9bd16785?utm_campaign=1066&utm_source=git)** | Kansas City, MO | Hybrid | Dec 30 |
+| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cbc35befdec76df36c207d?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Dec 30 |
+| **[Take-Two Interactive](http://www.take2games.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6937978eaabec14a727c9991?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Dec 30 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Quality Specialist - Data Analysis Sr. Intern](https://jobright.ai/jobs/info/69539c9c935649778e216237?utm_campaign=1066&utm_source=git)** | Logan, UT | On Site | Dec 30 |
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69534ee2935649778e210d63?utm_campaign=1066&utm_source=git)** | South Sioux City, NE | On Site | Dec 29 |
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Causal AI & Data Science Intern](https://jobright.ai/jobs/info/695339fbf1f8465b79ea89a0?utm_campaign=1066&utm_source=git)** | Littleton, CO | On Site | Dec 29 |
@@ -118,7 +121,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69520b57a2668b7f54549db0?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Dec 27 |
 | ↳ | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/695200bc29655e4dd65ac9b6?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Dec 27 |
 | **[Sage Bionetworks](https://sagebionetworks.org)** | **[Alzheimer’s Disease Translational Research Intern](https://jobright.ai/jobs/info/69438a40dd382f5f5669af24?utm_campaign=1066&utm_source=git)** | United States | On Site | Dec 27 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 27 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 27 |
 | **[Kirin](kirin.com)** | **[Quantitative Research Intern - Prediction Markets](https://jobright.ai/jobs/info/695046b3a2668b7f54534889?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | ↳ | **[Quantitative Research Intern - Prediction Markets](https://jobright.ai/jobs/info/69504270a2668b7f545330b7?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Dec 27 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/6933af70764507023d1b84c2?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Dec 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/6933b4e4f131d96e48466276?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Dec 27 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/69339c85764507023d1b74b4?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Dec 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/689403694c7e851b90ae2086?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Dec 27 |
-| ↳ | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/693d0b9649a7695fbd03bc91?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Dec 27 |
-| **[Sanofi](https://www.sanofi.com)** | **[Summer-Fall 2026 Co-Op - RNA Bioinformatics - Vaccines](https://jobright.ai/jobs/info/6933e9d2764507023d1bab60?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Dec 27 |
-| **[Kirin](kirin.com)** | **[Quantitative Research Intern - Prediction Markets](https://jobright.ai/jobs/info/6950410ece13cd1056582899?utm_campaign=1066&utm_source=git)** | New York City | Remote | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
