@@ -65,8 +65,8 @@ For a complete list, click the following sortable link below:
 | **[Bespoke Technologies, Inc.](https://bespoketechinc.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6952db5cf1f8465b79ea24dc?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 29 |
 | **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Transformation and Analytics Intern - Customer Interactions](https://jobright.ai/jobs/info/6952da885bb7de448ef5ec63?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Dec 29 |
 | **[Arkema](http://www.arkema.com)** | **[Data Science Intern (must be located in Houston or Beaumont)](https://jobright.ai/jobs/info/6952caf55bb7de448ef5dfaf?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Dec 29 |
-| ↳ | **[Data Science Intern (must be located in Beaumont or Houston, TX)](https://jobright.ai/jobs/info/6952c6fff1f8465b79ea14ce?utm_campaign=1066&utm_source=git)** | Beaumont, TX | Hybrid | Dec 29 |
 | **[Southwest Autism Research & Resource Center](https://autismcenter.org)** | **[Internship - Research](https://jobright.ai/jobs/info/6952c2aaf1f8465b79ea12c0?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Dec 29 |
+| **[Arkema](http://www.arkema.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6952c6fff1f8465b79ea14ce?utm_campaign=1066&utm_source=git)** | Beaumont, TX | Hybrid | Dec 29 |
 | **[Hotwire](https://www.hotwireglobal.com)** | **[Intern](https://jobright.ai/jobs/info/693a11ae48a8ce22990e13d6?utm_campaign=1066&utm_source=git)** | NYC Metro Area | Hybrid | Dec 29 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6939f66256b68f3dc4e74579?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Dec 29 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/6919185cbcdbf3560c9d41af?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Dec 29 |
@@ -118,7 +118,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69520b57a2668b7f54549db0?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Dec 27 |
 | ↳ | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/695200bc29655e4dd65ac9b6?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Dec 27 |
 | **[Sage Bionetworks](https://sagebionetworks.org)** | **[Alzheimer’s Disease Translational Research Intern](https://jobright.ai/jobs/info/69438a40dd382f5f5669af24?utm_campaign=1066&utm_source=git)** | United States | On Site | Dec 27 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 27 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 27 |
 | **[Kirin](kirin.com)** | **[Quantitative Research Intern - Prediction Markets](https://jobright.ai/jobs/info/695046b3a2668b7f54534889?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | ↳ | **[Quantitative Research Intern - Prediction Markets](https://jobright.ai/jobs/info/69504270a2668b7f545330b7?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Dec 27 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/6933af70764507023d1b84c2?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Dec 27 |
