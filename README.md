@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ededge Learn](www.ededgelearning.com)** | **[Data  Analyst   Training  &  Internship](https://jobright.ai/jobs/info/6953da9eaa05c26e7aae67a3?utm_campaign=1066&utm_source=git)** | Canada | Remote | Dec 30 |
+| **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Geospatial Information Systems Intern](https://jobright.ai/jobs/info/69540919aa05c26e7aae8e63?utm_campaign=1066&utm_source=git)** | Ames, IA | On Site | Dec 30 |
+| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[AI Data Analyst Intern](https://jobright.ai/jobs/info/69540325aa05c26e7aae7fef?utm_campaign=1066&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 30 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Data Science (Toronto Office)](https://jobright.ai/jobs/info/69379df2aabec14a727c9d37?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 30 |
 | **[KEEN](http://www.keenfootwear.com)** | **[Corporate Sustainability Intern](https://jobright.ai/jobs/info/69373e42aabec14a727c5700?utm_campaign=1066&utm_source=git)** | Portland, OR | On Site | Dec 30 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Data Science](https://jobright.ai/jobs/info/693732f1aabec14a727c4f6c?utm_campaign=1066&utm_source=git)** | Lexington, KY | On Site | Dec 30 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/6933b51ef131d96e48466294?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Dec 27 |
 | **[IBM](http://www.ibm.com)** | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/69335243764507023d1b432f?utm_campaign=1066&utm_source=git)** | Brookhaven, PA | On Site | Dec 27 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/6933b801764507023d1b8a0b?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Dec 27 |
-| ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/6933af5d764507023d1b84b2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/6933ad8bf131d96e48465cea?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
