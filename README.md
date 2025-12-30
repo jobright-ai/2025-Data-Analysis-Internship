@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ededge Learn](www.ededgelearning.com)** | **[Data  Analyst   Training  &  Internship](https://jobright.ai/jobs/info/6953da9eaa05c26e7aae67a3?utm_campaign=1066&utm_source=git)** | Canada | Remote | Dec 30 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Data Science (Toronto Office)](https://jobright.ai/jobs/info/69379df2aabec14a727c9d37?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 30 |
 | **[KEEN](http://www.keenfootwear.com)** | **[Corporate Sustainability Intern](https://jobright.ai/jobs/info/69373e42aabec14a727c5700?utm_campaign=1066&utm_source=git)** | Portland, OR | On Site | Dec 30 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Data Science](https://jobright.ai/jobs/info/693732f1aabec14a727c4f6c?utm_campaign=1066&utm_source=git)** | Lexington, KY | On Site | Dec 30 |
@@ -72,12 +73,13 @@ For a complete list, click the following sortable link below:
 | **[Boost Mobile](http://www.boostmobile.com/)** | **[Causal AI & Data Science Intern](https://jobright.ai/jobs/info/695339fbf1f8465b79ea89a0?utm_campaign=1066&utm_source=git)** | Littleton, CO | On Site | Dec 29 |
 | ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/69533909f1f8465b79ea8893?utm_campaign=1066&utm_source=git)** | Littleton, CO | On Site | Dec 29 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Domestic Network Analysis (Summer 2026)](https://jobright.ai/jobs/info/69532508f1f8465b79ea78f8?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Dec 29 |
+| **[Delinea](https://delinea.com)** | **[Business Data Operations Intern - Summer 2026](https://jobright.ai/jobs/info/6953eb765bb7de448ef6e5e6?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Dec 29 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[HR Data Analysis Intern](https://jobright.ai/jobs/info/6952e6f2935649778e20a7c9?utm_campaign=1066&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 29 |
 | **[Bespoke Technologies, Inc.](https://bespoketechinc.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6952db5cf1f8465b79ea24dc?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 29 |
 | **[Grange Insurance](https://www.grangeinsurance.com/)** | **[Transformation and Analytics Intern - Customer Interactions](https://jobright.ai/jobs/info/6952da885bb7de448ef5ec63?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Dec 29 |
 | **[Arkema](http://www.arkema.com)** | **[Data Science Intern (must be located in Houston or Beaumont)](https://jobright.ai/jobs/info/6952caf55bb7de448ef5dfaf?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Dec 29 |
+| ↳ | **[Data Science Intern (must be located in Beaumont or Houston, TX)](https://jobright.ai/jobs/info/6952c6fff1f8465b79ea14ce?utm_campaign=1066&utm_source=git)** | Beaumont, TX | Hybrid | Dec 29 |
 | **[Southwest Autism Research & Resource Center](https://autismcenter.org)** | **[Internship - Research](https://jobright.ai/jobs/info/6952c2aaf1f8465b79ea12c0?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Dec 29 |
-| **[Arkema](http://www.arkema.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6952c6fff1f8465b79ea14ce?utm_campaign=1066&utm_source=git)** | Beaumont, TX | Hybrid | Dec 29 |
 | **[Hotwire](https://www.hotwireglobal.com)** | **[Intern](https://jobright.ai/jobs/info/693a11ae48a8ce22990e13d6?utm_campaign=1066&utm_source=git)** | NYC Metro Area | Hybrid | Dec 29 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6939f66256b68f3dc4e74579?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Dec 29 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/6919185cbcdbf3560c9d41af?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Dec 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/6933b801764507023d1b8a0b?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Dec 27 |
 | ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/6933af5d764507023d1b84b2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/6933ad8bf131d96e48465cea?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Dec 27 |
-| **[State of Missouri](http://mo.gov)** | **[Intern - 5020501](https://jobright.ai/jobs/info/68c65d397d0db41142738e13?utm_campaign=1066&utm_source=git)** | Rolla, MO | On Site | Dec 27 |
-| **[Amazon](https://amazon.com)** | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/6933b205764507023d1b869a?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
