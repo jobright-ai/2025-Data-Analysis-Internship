@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maxterial, Inc.](https://www.maxterial.com)** | **[Internship in Statistics (Graduate Students)](https://jobright.ai/jobs/info/695586b2f1f8465b79ec8698?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 31 |
 | **[BMO](http://www.bmo.com)** | **[Data Analyst Intern (Co-op/Internship), Summer 2026, Toronto - 4 months](https://jobright.ai/jobs/info/695577ebaa05c26e7aafcd03?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 31 |
 | **[DC Water](https://dcwater.com/)** | **[815012-016:Summer Intern, Data Analytics](https://jobright.ai/jobs/info/69555b9b9f1b381eb26eab72?utm_campaign=1066&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | Hybrid | Dec 31 |
 | ↳ | **[601006-082:Summer Intern, IT-Data and Analytics](https://jobright.ai/jobs/info/69555a039f1b381eb26ea603?utm_campaign=1066&utm_source=git)** | 5000 Overlook Avenue S. W., Washington, DC, 20032, US | Hybrid | Dec 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Supply Chain Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6936957344eb324fb785c883?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | On Site | Dec 28 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Immunology Bioinformatics Intern (PhD)](https://jobright.ai/jobs/info/68cf0860846f0b04af67ed46?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Dec 28 |
 | ↳ | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/68e5dfefae2b894b1d714b11?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Dec 28 |
-| **[StandardAero](http://www.standardaero.com/)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/69194d21bcdbf3560c9d4c06?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
