@@ -57,16 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMO](http://www.bmo.com)** | **[Data Analyst Intern (Co-op/Internship), Summer 2026, Toronto - 4 months](https://jobright.ai/jobs/info/695577ebaa05c26e7aafcd03?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 31 |
 | **[DC Water](https://dcwater.com/)** | **[815012-016:Summer Intern, Data Analytics](https://jobright.ai/jobs/info/69555b9b9f1b381eb26eab72?utm_campaign=1066&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | Hybrid | Dec 31 |
 | ↳ | **[601006-082:Summer Intern, IT-Data and Analytics](https://jobright.ai/jobs/info/69555a039f1b381eb26ea603?utm_campaign=1066&utm_source=git)** | 5000 Overlook Avenue S. W., Washington, DC, 20032, US | Hybrid | Dec 31 |
 | **[Stevens Capital Management LP](https://www.scm-lp.com)** | **[PhD Internship - Quantitative Research Analyst](https://jobright.ai/jobs/info/69554fa3aa05c26e7aafa61b?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Dec 31 |
-| **[Ededge Learn](www.ededgelearning.com)** | **[Data  Analyst  Training &  Internship](https://jobright.ai/jobs/info/6955446daa05c26e7aafa2f8?utm_campaign=1066&utm_source=git)** | Canada | Remote | Dec 31 |
 | **[CN](http://www.cn.ca)** | **[Intern, Environment- FR](https://jobright.ai/jobs/info/69409173aa598a08c3f03d34?utm_campaign=1066&utm_source=git)** | Homewood, IL | On Site | Dec 31 |
 | ↳ | **[Intern, Environment- EN](https://jobright.ai/jobs/info/69424a4150bbaf765054441c?utm_campaign=1066&utm_source=git)** | Homewood, IL | On Site | Dec 31 |
 | **[FanDuel](http://www.fanduel.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69386d69a0dde7020e310347?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Dec 31 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Global Real World Evidence](https://jobright.ai/jobs/info/691baa9cbcdbf3560c9e13aa?utm_campaign=1066&utm_source=git)** | Parsippany, NJ | Hybrid | Dec 31 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69386d87aabec14a727d5724?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Dec 31 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Data Analyst, Software Asset Management](https://jobright.ai/jobs/info/695539b5aa05c26e7aafa066?utm_campaign=1066&utm_source=git)** | Newtown Square, PA | Hybrid | Dec 31 |
+| **[StandardAero](http://www.standardaero.com/)** | **[Data Analytics- Summer Intern](https://jobright.ai/jobs/info/691c1c4722a2cb4b9bd1936a?utm_campaign=1066&utm_source=git)** | Greater St. John's Metropolitan Area | On Site | Dec 31 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69340b98f131d96e4846928b?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Dec 31 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Summer 2026](https://jobright.ai/jobs/info/69385223b95c305f206d78f0?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Dec 31 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cc4fb47342c7623ae6265b?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Dec 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Immunology Bioinformatics Intern (PhD)](https://jobright.ai/jobs/info/68cf0860846f0b04af67ed46?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Dec 28 |
 | ↳ | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/68e5dfefae2b894b1d714b11?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Dec 28 |
 | **[StandardAero](http://www.standardaero.com/)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/69194d21bcdbf3560c9d4c06?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Dec 28 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (Product Analytics, USDS) - 2025 Start (BS, MS)](https://jobright.ai/jobs/info/6916bde86f36db06ef059652?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
