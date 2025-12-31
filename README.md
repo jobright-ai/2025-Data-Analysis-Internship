@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DC Water](https://dcwater.com/)** | **[815012-016:Summer Intern, Data Analytics](https://jobright.ai/jobs/info/69555b9b9f1b381eb26eab72?utm_campaign=1066&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | Hybrid | Dec 31 |
+| ↳ | **[601006-082:Summer Intern, IT-Data and Analytics](https://jobright.ai/jobs/info/69555a039f1b381eb26ea603?utm_campaign=1066&utm_source=git)** | 5000 Overlook Avenue S. W., Washington, DC, 20032, US | Hybrid | Dec 31 |
+| **[Stevens Capital Management LP](https://www.scm-lp.com)** | **[PhD Internship - Quantitative Research Analyst](https://jobright.ai/jobs/info/69554fa3aa05c26e7aafa61b?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Dec 31 |
 | **[Ededge Learn](www.ededgelearning.com)** | **[Data  Analyst  Training &  Internship](https://jobright.ai/jobs/info/6955446daa05c26e7aafa2f8?utm_campaign=1066&utm_source=git)** | Canada | Remote | Dec 31 |
 | **[CN](http://www.cn.ca)** | **[Intern, Environment- FR](https://jobright.ai/jobs/info/69409173aa598a08c3f03d34?utm_campaign=1066&utm_source=git)** | Homewood, IL | On Site | Dec 31 |
 | ↳ | **[Intern, Environment- EN](https://jobright.ai/jobs/info/69424a4150bbaf765054441c?utm_campaign=1066&utm_source=git)** | Homewood, IL | On Site | Dec 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/68e5dfefae2b894b1d714b11?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Dec 28 |
 | **[StandardAero](http://www.standardaero.com/)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/69194d21bcdbf3560c9d4c06?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Dec 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Graduate (Product Analytics, USDS) - 2025 Start (BS, MS)](https://jobright.ai/jobs/info/6916bde86f36db06ef059652?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 28 |
-| ↳ | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (PhD)](https://jobright.ai/jobs/info/688b98531808534a89cb448d?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Dec 28 |
-| ↳ | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/68cf8149dbd9fb154ede86e4?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Dec 28 |
-| **[Oracle](https://www.oracle.com/)** | **[Data Science Intern - Industries](https://jobright.ai/jobs/info/6946b3327d506e3808f2174f?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
