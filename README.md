@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/6955ba8af1f8465b79ecaa40?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Dec 31 |
 | **[Maxterial, Inc.](https://www.maxterial.com)** | **[Internship in Statistics (Graduate Students)](https://jobright.ai/jobs/info/695586b2f1f8465b79ec8698?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 31 |
 | **[BMO](http://www.bmo.com)** | **[Data Analyst Intern (Co-op/Internship), Summer 2026, Toronto - 4 months](https://jobright.ai/jobs/info/695577ebaa05c26e7aafcd03?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 31 |
 | **[DC Water](https://dcwater.com/)** | **[815012-016:Summer Intern, Data Analytics](https://jobright.ai/jobs/info/69555b9b9f1b381eb26eab72?utm_campaign=1066&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | Hybrid | Dec 31 |
@@ -145,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Data Analytics & Insights Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/69521442ce13cd105659a296?utm_campaign=1066&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6952142cce13cd105659a290?utm_campaign=1066&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 28 |
 | **[TD](https://www.td.com)** | **[Innovation Analyst Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952140dce13cd105659a286?utm_campaign=1066&utm_source=git)** | TD Terrace - 160 Front Street West Corporate, Toronto, Ontario | Hybrid | Dec 28 |
-| ↳ | **[Data Science Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695436cc5bb7de448ef71f8e?utm_campaign=1066&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
 | ↳ | **[Data Science Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6954354bf1f8465b79eb55c2?utm_campaign=1066&utm_source=git)** | TD Terrace - 160 Front Street West Corporate, Toronto, Ontario | Hybrid | Dec 28 |
+| ↳ | **[Data Science Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695436cc5bb7de448ef71f8e?utm_campaign=1066&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 28 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[GIS Intern](https://jobright.ai/jobs/info/6951f9adce13cd1056597a6d?utm_campaign=1066&utm_source=git)** | Richfield, OH | Hybrid | Dec 28 |
 | **[Ashford Inc.](https://www.ashfordinc.com/)** | **[Ashford Intern](https://jobright.ai/jobs/info/695497f6f1f8465b79ebc5b8?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Dec 28 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Quantitative Insights Lab Intern (PhD)](https://jobright.ai/jobs/info/694eb335ce13cd105656f782?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Dec 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (PhD 2026)](https://jobright.ai/jobs/info/68cd1f74e23def7af55b59b8?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Dec 28 |
 | **[Henkel](http://www.henkel.com)** | **[Supply Chain Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6936957344eb324fb785c883?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | On Site | Dec 28 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Immunology Bioinformatics Intern (PhD)](https://jobright.ai/jobs/info/68cf0860846f0b04af67ed46?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Dec 28 |
-| ↳ | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/68e5dfefae2b894b1d714b11?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
