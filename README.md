@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/6955e6b0aa05c26e7ab01edd?utm_campaign=1066&utm_source=git)** | Savannah, GA | On Site | Dec 31 |
 | **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/6955ba8af1f8465b79ecaa40?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Dec 31 |
 | **[Maxterial, Inc.](https://www.maxterial.com)** | **[Internship in Statistics (Graduate Students)](https://jobright.ai/jobs/info/695586b2f1f8465b79ec8698?utm_campaign=1066&utm_source=git)** | United States | Remote | Dec 31 |
 | **[BMO](http://www.bmo.com)** | **[Data Analyst Intern (Co-op/Internship), Summer 2026, Toronto - 4 months](https://jobright.ai/jobs/info/695577ebaa05c26e7aafcd03?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN | On Site | Dec 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2026 Summer]](https://jobright.ai/jobs/info/68cf1297fb49c96ca6ea5a5d?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Dec 28 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (PhD 2026)](https://jobright.ai/jobs/info/68cd1f74e23def7af55b59b8?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Dec 28 |
 | **[Henkel](http://www.henkel.com)** | **[Supply Chain Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6936957344eb324fb785c883?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | On Site | Dec 28 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Immunology Bioinformatics Intern (PhD)](https://jobright.ai/jobs/info/68cf0860846f0b04af67ed46?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Dec 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
