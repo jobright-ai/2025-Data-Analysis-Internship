@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ededge Learn](www.ededgelearning.com)** | **[Data Analyst Training  & Internship](https://jobright.ai/jobs/info/695807689f1b381eb270f765?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jan 02 |
+| **[Zoetis](https://www.zoetis.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69580679f1f8465b79eeac4d?utm_campaign=1066&utm_source=git)** | Troy Hills, NJ | On Site | Jan 02 |
+| **[Philips](https://www.usa.philips.com)** | **[Intern-Data Strategy & Analytics-Cambridge, MA  or Nashville, TN-Summer 2026](https://jobright.ai/jobs/info/695820aaf1f8465b79eeb7b8?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 02 |
 | **[Zoetis](https://www.zoetis.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6957fe3e9f1b381eb270f49e?utm_campaign=1066&utm_source=git)** | Parsippany | On Site | Jan 02 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6957fc95f1f8465b79eea1cb?utm_campaign=1066&utm_source=git)** | Parsippany | On Site | Jan 02 |
 | **[Pacira BioSciences, Inc.](http://www.pacira.com)** | **[Biometrics Intern](https://jobright.ai/jobs/info/6957ee57f1f8465b79ee8bf4?utm_campaign=1066&utm_source=git)** | Parsippany, NJ | On Site | Jan 02 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Analyst - Enterprise Model Risk Management Intern (4 Months)](https://jobright.ai/jobs/info/6957e89caa05c26e7ab1d348?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Jan 02 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Analyst - Enterprise Model Risk Management Intern (4 Months)](https://jobright.ai/jobs/info/6957e88d9f1b381eb270d424?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Jan 02 |
 | **[Sage Bionetworks](https://sagebionetworks.org)** | **[Alzheimer’s Disease Translational Research Intern](https://jobright.ai/jobs/info/69438a40dd382f5f5669af24?utm_campaign=1066&utm_source=git)** | United States | On Site | Jan 02 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Data Scientist (Masters Degree) Internship](https://jobright.ai/jobs/info/68b782e82124650c140234ef?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jan 02 |
 | ↳ | **[Procter & Gamble – Consumer & Market Knowledge: Analytics & Insights Internship (Advanced Analytics) – Summer 2026](https://jobright.ai/jobs/info/68a40bdc541cc34798409d58?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jan 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Watts Water Technologies](http://www.suntouch.com/)** | **[Business Intelligence Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/69542fc95bb7de448ef71ba0?utm_campaign=1066&utm_source=git)** | Fort Worth, TX | Hybrid | Dec 30 |
 | ↳ | **[Business Intelligence Analyst Intern, Summer 2026](https://jobright.ai/jobs/info/69542cc8aa05c26e7aae9fbc?utm_campaign=1066&utm_source=git)** | Andover, MA Federal Street | Hybrid | Dec 30 |
 | **[Upbound Group](https://www.upbound.com)** | **[CEX Analyst Intern](https://jobright.ai/jobs/info/69541206f1f8465b79eb41e1?utm_campaign=1066&utm_source=git)** | Plano, TX | On Site | Dec 30 |
-| **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Geospatial Information Systems Intern](https://jobright.ai/jobs/info/69540919aa05c26e7aae8e63?utm_campaign=1066&utm_source=git)** | Ames, IA | On Site | Dec 30 |
-| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[AI Data Analyst Intern](https://jobright.ai/jobs/info/69540325aa05c26e7aae7fef?utm_campaign=1066&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 30 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Data Science (Toronto Office)](https://jobright.ai/jobs/info/69379df2aabec14a727c9d37?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
