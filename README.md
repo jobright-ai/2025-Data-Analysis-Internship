@@ -97,8 +97,7 @@ For a complete list, click the following sortable link below:
 | **[adidas](https://www.adidas-group.com)** | **[2026 US Undergraduate Internship - Digital Analytics](https://jobright.ai/jobs/info/695641deaa05c26e7ab0723b?utm_campaign=1066&utm_source=git)** | Portland, OR | Hybrid | Jan 01 |
 | **[Textron](http://textron.com)** | **[2026 Internship - Quality Assurance Data Analyst](https://jobright.ai/jobs/info/69563d63aa05c26e7ab06f40?utm_campaign=1066&utm_source=git)** | Wichita, KS | On Site | Jan 01 |
 | ↳ | **[2026 Summer High School Intern - Data Analytics (Independence, KS)](https://jobright.ai/jobs/info/695657cb9f1b381eb26f8ff3?utm_campaign=1066&utm_source=git)** | US-Kansas-Independence | On Site | Jan 01 |
-| **[CNH](http://www.cnhindustrial.com)** | **[Logistics Data Analyst Intern](https://jobright.ai/jobs/info/6956c6a39f1b381eb26ff512?utm_campaign=1066&utm_source=git)** | Racine, WI | On Site | Dec 31 |
-| ↳ | **[Digital Transformation & Risk Analyst Intern](https://jobright.ai/jobs/info/69561e5e9f1b381eb26f5a3e?utm_campaign=1066&utm_source=git)** | Waterford, WI | On Site | Dec 31 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Digital Transformation & Risk Analyst Intern](https://jobright.ai/jobs/info/69561e5e9f1b381eb26f5a3e?utm_campaign=1066&utm_source=git)** | Waterford, WI | On Site | Dec 31 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - OPIS Strategic Insights / Analytics Intern](https://jobright.ai/jobs/info/695761129f1b381eb2706fd7?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Dec 31 |
 | **[CN](http://www.cn.ca)** | **[Intern, Environment- EN](https://jobright.ai/jobs/info/69575d80aa05c26e7ab16f53?utm_campaign=1066&utm_source=git)** | Homewood, IL | On Site | Dec 31 |
 | ↳ | **[Intern, Environment- FR](https://jobright.ai/jobs/info/69575d489f1b381eb2706dff?utm_campaign=1066&utm_source=git)** | Homewood, IL | On Site | Dec 31 |
@@ -132,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[Performance and Analysis Intern](https://jobright.ai/jobs/info/6954627af1f8465b79eb8ccc?utm_campaign=1066&utm_source=git)** | Canada, Quebec, Montreal | On Site | Dec 30 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Dec 30 |
 | **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/691607fa9c388539cbdf75da?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Dec 30 |
+| **[Delinea](https://delinea.com)** | **[Business Data Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69543f45f1f8465b79eb5de1?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
 | **[DISH TV](https://www.dish.com)** | **[Data Governance Intern](https://jobright.ai/jobs/info/69543f235bb7de448ef7264f?utm_campaign=1066&utm_source=git)** | Littleton, CO | On Site | Dec 30 |
 | **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/6916056f6f36db06ef052543?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Dec 30 |
 | **[Highline Warren](https://highlinewarren.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/695435b15bb7de448ef71ecb?utm_campaign=1066&utm_source=git)** | Naperville, IL | Hybrid | Dec 30 |
