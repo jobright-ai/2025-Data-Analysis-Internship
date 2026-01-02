@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stoneridge](http://www.stoneridge.com)** | **[Business Data Analysis Intern](https://jobright.ai/jobs/info/693b4a945f2c001987ed4767?utm_campaign=1066&utm_source=git)** | Detroit Metro | Hybrid | Jan 02 |
+| **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Project Data Analyst Co-op](https://jobright.ai/jobs/info/692288417795cd460c836047?utm_campaign=1066&utm_source=git)** | Ripon, WI | On Site | Jan 02 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - TPG Global IE](https://jobright.ai/jobs/info/68cd29d1e23def7af55b6432?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Jan 02 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 01 |
 | ↳ | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 01 |
 | **[Sargento](http://www.sargento.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/695706c2aa05c26e7ab11f12?utm_campaign=1066&utm_source=git)** | Plymouth, WI | Hybrid | Jan 01 |
 | **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/6956dd74f1f8465b79edcf08?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Jan 01 |
-| **[Maxterial, Inc.](https://www.maxterial.com)** | **[Internship in Statistics (Graduate Students)](https://jobright.ai/jobs/info/6956d309f1f8465b79edb2ee?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 01 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Data Analytics Intern - MYMI 2026](https://jobright.ai/jobs/info/6956ad2cf1f8465b79eda0c9?utm_campaign=1066&utm_source=git)** | Canada-Ontario-MississaugaWork Locations | Hybrid | Jan 01 |
 | ↳ | **[Data Analytics Intern - MYMI 2026](https://jobright.ai/jobs/info/6956ac5eaa05c26e7ab0de73?utm_campaign=1066&utm_source=git)** | 2680 Matheson Blvd East, Suite 5002680 Matheson Blvd East, Suite 500 | Hybrid | Jan 01 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2026 Summer Intern - MAGNet Program @ Arizona State University](https://jobright.ai/jobs/info/691541c69c388539cbdf1e50?utm_campaign=1066&utm_source=git)** | Tempe, AZ | Hybrid | Jan 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TD Securities](https://www.tdsecurities.com)** | **[Data Science Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6954b389f1f8465b79ebf410?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 29 |
 | **[TD](https://www.td.com)** | **[Data Science Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6954af2daa05c26e7aaf3da6?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 29 |
 | **[Great West Casualty Company](https://ssl.gwccnet.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69534ee2935649778e210d63?utm_campaign=1066&utm_source=git)** | South Sioux City, NE | On Site | Dec 29 |
-| **[Boost Mobile](http://www.boostmobile.com/)** | **[Causal AI & Data Science Intern](https://jobright.ai/jobs/info/695339fbf1f8465b79ea89a0?utm_campaign=1066&utm_source=git)** | Littleton, CO | On Site | Dec 29 |
-| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/69533909f1f8465b79ea8893?utm_campaign=1066&utm_source=git)** | Littleton, CO | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
