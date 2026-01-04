@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Association of Professional Football Analysis](https://apfa.io/)** | **[Performance Analysis Internships (Remote)](https://jobright.ai/jobs/info/695adf1f9f1b381eb27363e0?utm_campaign=1066&utm_source=git)** | Location, WV | Remote | Jan 04 |
+| **[Risk and Insurance Studies Centre](www.riscyu.org)** | **[HAIVE 11 - Internship (21 positions - Paid)](https://jobright.ai/jobs/info/695adda0f1f8465b79f1128c?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 04 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jan 04 |
 | **[Wichita State University](http://www.wichita.edu)** | **[NIAR ATLAS Data Science Student Assistant](https://jobright.ai/jobs/info/695aa347aa05c26e7ab434a1?utm_campaign=1066&utm_source=git)** | Wichita, KS | On Site | Jan 04 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Fraud Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69209502a49a885af9a3d07d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Remote | Jan 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Quantitative Insights Lab Intern (PhD)](https://jobright.ai/jobs/info/68c9545495f5211cd2cefa9c?utm_campaign=1066&utm_source=git)** | North Chicago, IL | Remote | Jan 01 |
 | **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/69569c119f1b381eb26fd0cf?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jan 01 |
 | ↳ | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/69567f82aa05c26e7ab0c280?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 01 |
-| **[Atlassian](https://www.atlassian.com)** | **[Research Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/690185504539ea1f21420d48?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jan 01 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/68e53821b99ec3563b0f18b3?utm_campaign=1066&utm_source=git)** | Florham Park, NJ | On Site | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
