@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DP World](https://www.dpworld.com/)** | **[Logistics Data Analyst Intern](https://jobright.ai/jobs/info/68f320459a65fd34585841df?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jan 04 |
 | **[Trucker Path](https://truckerpath.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69547fe9f1f8465b79ebb447?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 03 |
 | **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/6959ecbcf1f8465b79f03eaa?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 03 |
 | **[Labcorp](https://www.labcorp.com)** | **[Crisis Management Analyst Intern](https://jobright.ai/jobs/info/6959bfb69f1b381eb2727b08?utm_campaign=1066&utm_source=git)** | North Carolina, United States | On Site | Jan 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CNH](http://www.cnhindustrial.com)** | **[Digital Transformation & Risk Analyst Intern](https://jobright.ai/jobs/info/69561e5e9f1b381eb26f5a3e?utm_campaign=1066&utm_source=git)** | Waterford, WI | On Site | Dec 31 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - OPIS Strategic Insights / Analytics Intern](https://jobright.ai/jobs/info/695761129f1b381eb2706fd7?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Dec 31 |
 | **[CN](http://www.cn.ca)** | **[Intern, Environment- FR](https://jobright.ai/jobs/info/695a034a9f1b381eb272af4f?utm_campaign=1066&utm_source=git)** | Homewood, IL | On Site | Dec 31 |
-| ↳ | **[Intern, Environment- EN](https://jobright.ai/jobs/info/6958c116aa05c26e7ab2a5e6?utm_campaign=1066&utm_source=git)** | Homewood, IL | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
