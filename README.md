@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Data Analyst Intern 2026](https://jobright.ai/jobs/info/6940e29350bbaf765052e6b3?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Jan 05 |
+| ↳ | **[Quantitative Research Intern 2026](https://jobright.ai/jobs/info/68ca4aa406a34016008c638e?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Jan 05 |
+| **[Hydro One](http://www.hydroone.com/)** | **[University Co-Op Student-Data Scientist-12 Months, Toronto, Summer 2026](https://jobright.ai/jobs/info/695ba938f1f8465b79f1ae9b?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 05 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Business Insights Analyst II](https://jobright.ai/jobs/info/68b0eaffb47fb001d689668d?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Jan 05 |
 | **[Ontario Teachers'​ Pension Plan](https://www.otpp.com/en-ca/investments/our-investments/teachers-venture-growth/)** | **[Intern - Business Insights and Analytics (September 2026 - 12 months)](https://jobright.ai/jobs/info/695b91f7aa05c26e7ab4efba?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 05 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - PDM - Quality, Data Science](https://jobright.ai/jobs/info/695b8dcf9f1b381eb273f637?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
@@ -71,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Sanofi](https://www.sanofi.com)** | **[Biomarker Statistics - Summer 2026 Intern](https://jobright.ai/jobs/info/695b808d9f1b381eb273e49c?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Jan 05 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Research Internship - True Global Intelligence](https://jobright.ai/jobs/info/695b80349f1b381eb273e445?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jan 05 |
 | **[Sanofi](https://www.sanofi.com)** | **[Statistical Methodology- Summer 2026 Intern](https://jobright.ai/jobs/info/695b7ecb9f1b381eb273e325?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 05 |
-| ↳ | **[Summer-Fall 2026 Co-Op - RNA Bioinformatics - Vaccines](https://jobright.ai/jobs/info/695b7d7baa05c26e7ab4cb22?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Jan 05 |
 | ↳ | **[Biostatistics Evidence Generation & Decision Sciences (EGDS)- Summer 2026 Intern](https://jobright.ai/jobs/info/695b7cb4f1f8465b79f18dc5?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 05 |
 | **[Ontario Teachers'​ Pension Plan](https://www.otpp.com/en-ca/investments/our-investments/teachers-venture-growth/)** | **[Intern - Business Insights and Analytics (September 2026 - 12 months)](https://jobright.ai/jobs/info/695b513af1f8465b79f16ab8?utm_campaign=1066&utm_source=git)** | Toronto, Canada | On Site | Jan 04 |
 | **[Roche](http://www.roche.com)** | **[2026 Intern - Analytical Data Science](https://jobright.ai/jobs/info/695b35689f1b381eb27394f3?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 04 |
@@ -134,9 +136,9 @@ For a complete list, click the following sortable link below:
 | **[2077AI Open Source Foundation](https://www.2077ai.com/)** | **[Research Intern (Video)](https://jobright.ai/jobs/info/69584a0af1f8465b79eeebc9?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 02 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/6958239b9f1b381eb2710440?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | Hybrid | Jan 02 |
 | **[Zoetis](https://www.zoetis.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6957fe3e9f1b381eb270f49e?utm_campaign=1066&utm_source=git)** | Parsippany | On Site | Jan 02 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6957f8cef1f8465b79ee9519?utm_campaign=1066&utm_source=git)** | Parsippany | On Site | Jan 02 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6957fc95f1f8465b79eea1cb?utm_campaign=1066&utm_source=git)** | Parsippany | On Site | Jan 02 |
 | **[Pacira BioSciences, Inc.](http://www.pacira.com)** | **[Biometrics Intern](https://jobright.ai/jobs/info/6957ee57f1f8465b79ee8bf4?utm_campaign=1066&utm_source=git)** | Parsippany, NJ | On Site | Jan 02 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Analyst - Enterprise Model Risk Management Intern (4 Months)](https://jobright.ai/jobs/info/6957e88d9f1b381eb270d424?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Jan 02 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Analyst - Enterprise Model Risk Management Intern (4 Months)](https://jobright.ai/jobs/info/6957e89caa05c26e7ab1d348?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Jan 02 |
 | **[Sage Bionetworks](https://sagebionetworks.org)** | **[Alzheimer’s Disease Translational Research Intern](https://jobright.ai/jobs/info/69438a40dd382f5f5669af24?utm_campaign=1066&utm_source=git)** | United States | On Site | Jan 02 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Data Scientist (Masters Degree) Internship](https://jobright.ai/jobs/info/68b782e82124650c140234ef?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jan 02 |
 | ↳ | **[Procter & Gamble – Consumer & Market Knowledge: Analytics & Insights Internship (Advanced Analytics) – Summer 2026](https://jobright.ai/jobs/info/68a81ea533dd7158bbcac4fe?utm_campaign=1066&utm_source=git)** | Fayetteville, AR | On Site | Jan 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CNH](http://www.cnhindustrial.com)** | **[Logistics Data Analyst Intern](https://jobright.ai/jobs/info/695b38669f1b381eb27395c7?utm_campaign=1066&utm_source=git)** | Racine, WI | On Site | Jan 01 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 01 |
 | **[Sargento](http://www.sargento.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/695706c2aa05c26e7ab11f12?utm_campaign=1066&utm_source=git)** | Plymouth, WI | Hybrid | Jan 01 |
-| **[Upbound Group](https://www.upbound.com)** | **[CEX Analyst Intern](https://jobright.ai/jobs/info/69541206f1f8465b79eb41e1?utm_campaign=1066&utm_source=git)** | Plano, TX | On Site | Jan 01 |
-| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Data Analytics Intern - MYMI 2026](https://jobright.ai/jobs/info/6956ad2cf1f8465b79eda0c9?utm_campaign=1066&utm_source=git)** | Canada-Ontario-MississaugaWork Locations | Hybrid | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
