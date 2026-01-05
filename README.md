@@ -57,18 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD](https://www.td.com)** | **[Business Insights & Analytics Intern/Co-op ( Summer 2026 )](https://jobright.ai/jobs/info/695bf40f22c9dc0d3d53d6d9?utm_campaign=1066&utm_source=git)** | TD Centre - TD Tower - 66 Wellington Street West, Toronto, Ontario | On Site | Jan 05 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[R&D Research Algorithm & Data Science Intern 2026](https://jobright.ai/jobs/info/695bf08422c9dc0d3d53cb11?utm_campaign=1066&utm_source=git)** | Arden Hills, MN | On Site | Jan 05 |
+| **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/695bdddbf1f8465b79f1dec8?utm_campaign=1066&utm_source=git)** | Reading, PA | On Site | Jan 05 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Data Analyst Intern 2026](https://jobright.ai/jobs/info/6940e29350bbaf765052e6b3?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Jan 05 |
 | ↳ | **[Quantitative Research Intern 2026](https://jobright.ai/jobs/info/68ca4aa406a34016008c638e?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Jan 05 |
 | **[Hydro One](http://www.hydroone.com/)** | **[University Co-Op Student-Data Scientist-12 Months, Toronto, Summer 2026](https://jobright.ai/jobs/info/695ba938f1f8465b79f1ae9b?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 05 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Business Insights Analyst II](https://jobright.ai/jobs/info/68b0eaffb47fb001d689668d?utm_campaign=1066&utm_source=git)** | Dallas, TX | Hybrid | Jan 05 |
 | **[Ontario Teachers'​ Pension Plan](https://www.otpp.com/en-ca/investments/our-investments/teachers-venture-growth/)** | **[Intern - Business Insights and Analytics (September 2026 - 12 months)](https://jobright.ai/jobs/info/695b91f7aa05c26e7ab4efba?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 05 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Research - Bioinformatics](https://jobright.ai/jobs/info/695b8d8e9f1b381eb273f5e3?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
-| ↳ | **[Intern - R&D - Clinical Data Science](https://jobright.ai/jobs/info/695b8d65f1f8465b79f1a113?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
 | ↳ | **[Intern - IT - Enterprise Data & Analytics](https://jobright.ai/jobs/info/695b8d5ff1f8465b79f1a0fb?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jan 05 |
 | ↳ | **[Intern - IT - Enterprise Data and Analytics](https://jobright.ai/jobs/info/695b8d50f1f8465b79f1a0e3?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jan 05 |
 | ↳ | **[Intern - IT - AI/ML Enterprise Data & Analytics](https://jobright.ai/jobs/info/695b8d3aaa05c26e7ab4e8c3?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
 | ↳ | **[Intern - Clinical Data Science - Biostatistics, Oncology](https://jobright.ai/jobs/info/695b8d28aa05c26e7ab4e89e?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
-| ↳ | **[Intern - PDM - Quality, Data Science](https://jobright.ai/jobs/info/695bd66c22c9dc0d3d53b0cc?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
+| ↳ | **[Intern- Clinical Operations- Clinical Data Management](https://jobright.ai/jobs/info/695beb07aa05c26e7ab52e82?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Jan 05 |
 | **[Sanofi](https://www.sanofi.com)** | **[Biomarker Statistics - Summer 2026 Intern](https://jobright.ai/jobs/info/695b808d9f1b381eb273e49c?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Jan 05 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Research Internship - True Global Intelligence](https://jobright.ai/jobs/info/695b80349f1b381eb273e445?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jan 05 |
 | **[Sanofi](https://www.sanofi.com)** | **[Statistical Methodology- Summer 2026 Intern](https://jobright.ai/jobs/info/695b7ecb9f1b381eb273e325?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 05 |
@@ -133,8 +135,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/6958296c9f1b381eb27108c1?utm_campaign=1066&utm_source=git)** | Panama City, FL | Hybrid | Jan 02 |
 | **[2077AI Open Source Foundation](https://www.2077ai.com/)** | **[Research Intern (Video)](https://jobright.ai/jobs/info/69584a0af1f8465b79eeebc9?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 02 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/6958239b9f1b381eb2710440?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | Hybrid | Jan 02 |
-| **[Zoetis](https://www.zoetis.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6957fe3e9f1b381eb270f49e?utm_campaign=1066&utm_source=git)** | Parsippany | On Site | Jan 02 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6957fc95f1f8465b79eea1cb?utm_campaign=1066&utm_source=git)** | Parsippany | On Site | Jan 02 |
 | **[Pacira BioSciences, Inc.](http://www.pacira.com)** | **[Biometrics Intern](https://jobright.ai/jobs/info/6957ee57f1f8465b79ee8bf4?utm_campaign=1066&utm_source=git)** | Parsippany, NJ | On Site | Jan 02 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Analyst - Enterprise Model Risk Management Intern (4 Months)](https://jobright.ai/jobs/info/6957e89caa05c26e7ab1d348?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Jan 02 |
 | **[Sage Bionetworks](https://sagebionetworks.org)** | **[Alzheimer’s Disease Translational Research Intern](https://jobright.ai/jobs/info/69438a40dd382f5f5669af24?utm_campaign=1066&utm_source=git)** | United States | On Site | Jan 02 |
