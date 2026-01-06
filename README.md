@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision Castparts](http://precast.com)** | **[Data Analyst Co-Op Intern (Tooling)](https://jobright.ai/jobs/info/695d0d42f5f3c43f38e1dc72?utm_campaign=1066&utm_source=git)** | Canton, MI | On Site | Jan 06 |
+| **[BASF](https://www.basf.com/)** | **[2026 Summer Internship - Data Science/Computer Engineering - Geismar, LA](https://jobright.ai/jobs/info/69407b1449a7695fbd05fb48?utm_campaign=1066&utm_source=git)** | Geismar, LA | On Site | Jan 06 |
+| **[Corsair](http://www.corsair.com)** | **[Data Science Intern 2](https://jobright.ai/jobs/info/694077b449a7695fbd05f6f9?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Jan 06 |
+| **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/69408caa49a7695fbd061e2e?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Jan 06 |
+| **[Gallagher Bassett](https://www.robanda.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6940632149a7695fbd05e74c?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | On Site | Jan 06 |
+| **[Weidmann Electrical Technology](https://www.weidmann-electrical.com/)** | **[Business Intelligence (BI) Intern](https://jobright.ai/jobs/info/69405ae849a7695fbd05e29b?utm_campaign=1066&utm_source=git)** | Urbana, OH | On Site | Jan 06 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AML Data Management Intern (8 Months)](https://jobright.ai/jobs/info/69403bcc49a7695fbd05b9e1?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 06 |
+| **[Corsair](http://www.corsair.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/694078ed49a7695fbd05f8d1?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Jan 06 |
+| **[Republic Airways](http://www.rjet.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6940d1dbaa598a08c3f07494?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jan 06 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Analyst Internship – Global Banking, Transaction Banking](https://jobright.ai/jobs/info/6943109750bbaf765054e865?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 06 |
+| **[Corsair](http://www.corsair.com)** | **[Data Science Intern 1](https://jobright.ai/jobs/info/694080ce50bbaf765052866b?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Jan 06 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, FC Risk Analytics Intern (4 Months)](https://jobright.ai/jobs/info/69409ae050bbaf765052a8f3?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 06 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Research Internship - True Global Intelligence](https://jobright.ai/jobs/info/695cd8495e4962051b59fa1b?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 06 |
 | ↳ | **[Research Internship - True Global Intelligence](https://jobright.ai/jobs/info/695cd7d61dfa954d1c46fb38?utm_campaign=1066&utm_source=git)** | Illinois, United States | Hybrid | Jan 06 |
 | **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/695cd579f1f8465b79f2fa27?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Jan 06 |
@@ -99,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Gate City Bank](http://gatecitybank.com)** | **[Business Intelligence Summer Internship](https://jobright.ai/jobs/info/695c4e2422c9dc0d3d543b5e?utm_campaign=1066&utm_source=git)** | Fargo, ND | On Site | Jan 05 |
 | **[Lending Science DM](http://www.lendingsciencedm.com/)** | **[Data Science Internship — Summer 2026](https://jobright.ai/jobs/info/695c3de622c9dc0d3d541cdd?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | Hybrid | Jan 05 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Transportation Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/695c0e49f1f8465b79f21886?utm_campaign=1066&utm_source=git)** | Ascena Corp ETNA-ascena-Pataskala, OH 43062 | On Site | Jan 05 |
-| **[BrokerLink](http://www.brokerlink.ca)** | **[Data Scientist I – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/695c3e1df1f8465b79f24678?utm_campaign=1066&utm_source=git)** | Montréal, Quebec, CAN | Hybrid | Jan 05 |
-| ↳ | **[Data Scientist I – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/695c37fdaa05c26e7ab587d5?utm_campaign=1066&utm_source=git)** | Québec, Quebec, CAN | Hybrid | Jan 05 |
+| **[BrokerLink](http://www.brokerlink.ca)** | **[Data Scientist I – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/695c37fdaa05c26e7ab587d5?utm_campaign=1066&utm_source=git)** | Québec, Quebec, CAN | Hybrid | Jan 05 |
+| ↳ | **[Data Scientist I – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/695c3e1df1f8465b79f24678?utm_campaign=1066&utm_source=git)** | Montréal, Quebec, CAN | Hybrid | Jan 05 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Data & Analytics (May 2026)](https://jobright.ai/jobs/info/695c089df1f8465b79f214a0?utm_campaign=1066&utm_source=git)** | Montreal - 1000 Rue De La Gauchetière Ouest | Hybrid | Jan 05 |
 | ↳ | **[Co-op or Intern, Data & Analytics (May 2026)](https://jobright.ai/jobs/info/695c080ff1f8465b79f21400?utm_campaign=1066&utm_source=git)** | Toronto - Bay St | Hybrid | Jan 05 |
 | ↳ | **[Co-op or Intern, Data & Analytics (May 2026)](https://jobright.ai/jobs/info/695c06c7f1f8465b79f212f7?utm_campaign=1066&utm_source=git)** | Ottawa - Kent St | Hybrid | Jan 05 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/6941d9c014ee092a69ffe91a?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 04 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/68dc251866059a42a715bfb4?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jan 04 |
 | **[Wichita State University](http://www.wichita.edu)** | **[NIAR ATLAS Data Science Student Assistant](https://jobright.ai/jobs/info/695aa347aa05c26e7ab434a1?utm_campaign=1066&utm_source=git)** | Wichita, KS | On Site | Jan 04 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Fraud Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69209502a49a885af9a3d07d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Remote | Jan 04 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Pharmacometrics Intern (PhD)](https://jobright.ai/jobs/info/68cd9f9fb2a74e1837ed9f13?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Jan 04 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - CDO, Data Quality Analyst Intern (4 months - Bedford, NS)](https://jobright.ai/jobs/info/693de072aa598a08c3ee6403?utm_campaign=1066&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Jan 04 |
-| **[Genmab](https://www.genmab.com)** | **[Histopathology Imaging Data Science Intern](https://jobright.ai/jobs/info/6920fee4a49a885af9a41d11?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Jan 04 |
-| ↳ | **[Statistical Programming Intern](https://jobright.ai/jobs/info/6920cc3000c9ee50eaec8245?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Jan 04 |
-| ↳ | **[Translational Imaging & Multi-Omics Data Science Intern](https://jobright.ai/jobs/info/69210252a49a885af9a42067?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Jan 04 |
-| ↳ | **[Clinical Pharmacology and Quantitative Science Intern (Programming/Computer Science)](https://jobright.ai/jobs/info/69210a3b00c9ee50eaecb0a9?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Jan 04 |
-| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science, Predictive Modeling Intern](https://jobright.ai/jobs/info/6920d1f0a49a885af9a3fa3e?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jan 04 |
-| **[MGIC](https://www.mgic.com)** | **[Structured Transactions Intern](https://jobright.ai/jobs/info/6950c7d729655e4dd659fccd?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Jan 04 |
-| **[DP World](https://www.dpworld.com/)** | **[Logistics Data Analyst Intern](https://jobright.ai/jobs/info/68f320459a65fd34585841df?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jan 04 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Data Analyst Intern (8 Months)](https://jobright.ai/jobs/info/693ddfae50bbaf765050c5d2?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 04 |
-| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6920fdd300c9ee50eaeca85d?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jan 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
