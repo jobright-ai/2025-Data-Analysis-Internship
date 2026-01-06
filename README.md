@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 05 |
+| **[Ededge Learn](www.ededgelearning.com)** | **[Data Analyst  Training &  Internship  Program](https://jobright.ai/jobs/info/695c8acd5e4962051b59a996?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jan 05 |
+| **[KnitWell Group](https://www.knitwellgroup.com)** | **[Transportation Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/695c834cf1f8465b79f2a79f?utm_campaign=1066&utm_source=git)** | Pataskala, OH | On Site | Jan 05 |
+| ↳ | **[Transportation Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/695c8213f1f8465b79f2a674?utm_campaign=1066&utm_source=git)** | Pataskala, OH | On Site | Jan 05 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Data Scientist - Paid Intern](https://jobright.ai/jobs/info/695c8f1e9a87b95a9397e30e?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 05 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Data Analytics Bachelor's Intern](https://jobright.ai/jobs/info/695c6e41aa05c26e7ab5d816?utm_campaign=1066&utm_source=git)** | California-Oakland-Ordway | Hybrid | Jan 05 |
 | **[Intact](http://www.intactfc.com)** | **[Data Analyst (IT Finance)– 4 months Internship/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695c6b375e4962051b598718?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 05 |
 | ↳ | **[Data Scientist I – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/695c6414f1f8465b79f287e1?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 05 |
@@ -89,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Lending Science DM](http://www.lendingsciencedm.com/)** | **[Data Science Internship — Summer 2026](https://jobright.ai/jobs/info/695c3de622c9dc0d3d541cdd?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | Hybrid | Jan 05 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Transportation Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/695c118422c9dc0d3d53efc2?utm_campaign=1066&utm_source=git)** | Ascena Corp ETNA-ascena-Pataskala, OH 43062 | On Site | Jan 05 |
 | ↳ | **[Transportation Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/695c0e49f1f8465b79f21886?utm_campaign=1066&utm_source=git)** | Ascena Corp ETNA-ascena-Pataskala, OH 43062 | On Site | Jan 05 |
-| **[BrokerLink](http://www.brokerlink.ca)** | **[Data Scientist I – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/695c3e1df1f8465b79f24678?utm_campaign=1066&utm_source=git)** | Montréal, Quebec, CAN | Hybrid | Jan 05 |
-| ↳ | **[Data Scientist I – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/695c37fdaa05c26e7ab587d5?utm_campaign=1066&utm_source=git)** | Québec, Quebec, CAN | Hybrid | Jan 05 |
+| **[BrokerLink](http://www.brokerlink.ca)** | **[Data Scientist I – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/695c37fdaa05c26e7ab587d5?utm_campaign=1066&utm_source=git)** | Québec, Quebec, CAN | Hybrid | Jan 05 |
+| ↳ | **[Data Scientist I – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/695c3e1df1f8465b79f24678?utm_campaign=1066&utm_source=git)** | Montréal, Quebec, CAN | Hybrid | Jan 05 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Data & Analytics (May 2026)](https://jobright.ai/jobs/info/695c089df1f8465b79f214a0?utm_campaign=1066&utm_source=git)** | Montreal - 1000 Rue De La Gauchetière Ouest | Hybrid | Jan 05 |
 | ↳ | **[Co-op or Intern, Data & Analytics (May 2026)](https://jobright.ai/jobs/info/695c080ff1f8465b79f21400?utm_campaign=1066&utm_source=git)** | Toronto - Bay St | Hybrid | Jan 05 |
 | ↳ | **[Co-op or Intern, Data & Analytics (May 2026)](https://jobright.ai/jobs/info/695c06c7f1f8465b79f212f7?utm_campaign=1066&utm_source=git)** | Ottawa - Kent St | Hybrid | Jan 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Labcorp](https://www.labcorp.com)** | **[Crisis Management Analyst Intern](https://jobright.ai/jobs/info/6959bfb69f1b381eb2727b08?utm_campaign=1066&utm_source=git)** | North Carolina, United States | On Site | Jan 03 |
 | **[Skyworks LLC](http://skyworksllc.com)** | **[Data Scientist Co-op - Summer/Fall 2026](https://jobright.ai/jobs/info/6959c77ef1f8465b79f03165?utm_campaign=1066&utm_source=git)** | Newbury Park, CA | On Site | Jan 03 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 03 |
-| **[Capital One](http://www.capitalone.com)** | **[Intern, Data Scientist - Summer 2026](https://jobright.ai/jobs/info/695696e39f1b381eb26fcd5e?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 03 |
-| **[Univest](http://www.univest.net/)** | **[Data Analytics / Business Intelligence Intern - Summer 2026](https://jobright.ai/jobs/info/693d1fd4aa598a08c3eddd48?utm_campaign=1066&utm_source=git)** | Souderton, PA | On Site | Jan 03 |
-| **[Twitch](https://www.twitch.tv)** | **[Graduate Data Science Intern](https://jobright.ai/jobs/info/691f28003f782d2f1afb8c39?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Remote | Jan 03 |
-| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Outcomes Research](https://jobright.ai/jobs/info/693cadaaaa598a08c3ed8d22?utm_campaign=1066&utm_source=git)** | Marlborough, MA | On Site | Jan 03 |
-| **[Zipline](https://www.zipline.com/)** | **[Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc63f49a7695fbd03820e?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
