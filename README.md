@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[KnitWell Group](https://www.knitwellgroup.com)** | **[Transportation Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/695c118422c9dc0d3d53efc2?utm_campaign=1066&utm_source=git)** | Ascena Corp ETNA-ascena-Pataskala, OH 43062 | On Site | Jan 05 |
-| ↳ | **[Transportation Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/695c0e49f1f8465b79f21886?utm_campaign=1066&utm_source=git)** | Ascena Corp ETNA-ascena-Pataskala, OH 43062 | On Site | Jan 05 |
+| **[BrokerLink](http://www.brokerlink.ca)** | **[Data Analyst (IT Finance)– 4 months Internship/Co-op (Summer 2026)](https://jobright.ai/jobs/info/695c33d5aa05c26e7ab585a9?utm_campaign=1066&utm_source=git)** | Montréal, Quebec, CAN | On Site | Jan 05 |
+| **[Haworth](http://www.haworth.com/)** | **[Customer Analytics Intern - Holland, MI (Onsite)](https://jobright.ai/jobs/info/695c2dbaf1f8465b79f23903?utm_campaign=1066&utm_source=git)** | Holland, MI | On Site | Jan 05 |
+| **[NISA Investment Advisors, LLC](http://nisa.com)** | **[Intern](https://jobright.ai/jobs/info/6959efff9f1b381eb272a817?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jan 05 |
+| **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/695c2a0ef1f8465b79f23644?utm_campaign=1066&utm_source=git)** | Reading, PA | On Site | Jan 05 |
+| **[KnitWell Group](https://www.knitwellgroup.com)** | **[Transportation Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/695c0e49f1f8465b79f21886?utm_campaign=1066&utm_source=git)** | Ascena Corp ETNA-ascena-Pataskala, OH 43062 | On Site | Jan 05 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Data & Analytics (May 2026)](https://jobright.ai/jobs/info/695c089df1f8465b79f214a0?utm_campaign=1066&utm_source=git)** | Montreal - 1000 Rue De La Gauchetière Ouest | Hybrid | Jan 05 |
 | ↳ | **[Co-op or Intern, Data & Analytics (May 2026)](https://jobright.ai/jobs/info/695c080ff1f8465b79f21400?utm_campaign=1066&utm_source=git)** | Toronto - Bay St | Hybrid | Jan 05 |
 | ↳ | **[Co-op or Intern, Data & Analytics (May 2026)](https://jobright.ai/jobs/info/695c06c7f1f8465b79f212f7?utm_campaign=1066&utm_source=git)** | Ottawa - Kent St | Hybrid | Jan 05 |
@@ -70,6 +73,9 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Summer Intern Statistics Dec Sci](https://jobright.ai/jobs/info/695c013822c9dc0d3d53e3ae?utm_campaign=1066&utm_source=git)** | Raritan, NJ | Hybrid | Jan 05 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Data & Analytics (May 2026)](https://jobright.ai/jobs/info/695c00d7aa05c26e7ab555bc?utm_campaign=1066&utm_source=git)** | Calgary - 8th Ave SW | Hybrid | Jan 05 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Summer Intern Statistics Dec Sci](https://jobright.ai/jobs/info/695bfe6322c9dc0d3d53e21b?utm_campaign=1066&utm_source=git)** | Spring House, PA | Hybrid | Jan 05 |
+| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, Research](https://jobright.ai/jobs/info/695c22c722c9dc0d3d540294?utm_campaign=1066&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Jan 05 |
+| **[KnitWell Group](https://www.knitwellgroup.com)** | **[Transportation Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/695c2a1aaa05c26e7ab57d5b?utm_campaign=1066&utm_source=git)** | Ascena Corp ETNA-ascena-Pataskala, OH 43062 | On Site | Jan 05 |
+| ↳ | **[Transportation Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/695c246c22c9dc0d3d5404aa?utm_campaign=1066&utm_source=git)** | Ascena Corp ETNA-ascena-Pataskala, OH 43062 | On Site | Jan 05 |
 | **[Brother USA](https://brother-usa.com)** | **[Google Analytics & Analysis Intern (IT) (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bfc8c22c9dc0d3d53e143?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 05 |
 | **[ASTM International](http://www.astm.org)** | **[Intern, Additive Manufacturing Data Science](https://jobright.ai/jobs/info/695bfc61f1f8465b79f20a21?utm_campaign=1066&utm_source=git)** | DC REMOTE, US | Remote | Jan 05 |
 | ↳ | **[Intern, Additive Manufacturing Data Science](https://jobright.ai/jobs/info/695bfa2a22c9dc0d3d53dfc6?utm_campaign=1066&utm_source=git)** | PA REMOTE, US | Remote | Jan 05 |
@@ -128,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[iHeartMedia](http://iheartmedia.com)** | **[Business Insights + Analytics Summer Intern](https://jobright.ai/jobs/info/693c98ec49a7695fbd036ab2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 03 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/693c67fcaa598a08c3ed4a70?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Jan 03 |
 | ↳ | **[Biometrics Intern](https://jobright.ai/jobs/info/693c703d50bbaf76504fb097?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Jan 03 |
-| **[Grainger](https://www.grainger.com)** | **[GTG Intern - Business Intelligence](https://jobright.ai/jobs/info/693cdc3650bbaf7650500487?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 03 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, AML Analyst Intern (4 Months- Bedford, NS)](https://jobright.ai/jobs/info/693ca7c3aa598a08c3ed8a8f?utm_campaign=1066&utm_source=git)** | Bedford, Nova Scotia, Canada | On Site | Jan 03 |
 | ↳ | **[2026 Summer - GRM, Data Analyst Intern (4 Months)](https://jobright.ai/jobs/info/693c456749a7695fbd030aeb?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 03 |
 | **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/69596470f1f8465b79efe640?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69583209f1f8465b79eec5f8?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Jan 02 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/695831359f1b381eb2710d49?utm_campaign=1066&utm_source=git)** | Honolulu, HI | Hybrid | Jan 02 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/695830b9f1f8465b79eec2f3?utm_campaign=1066&utm_source=git)** | Huntsville, AL | Hybrid | Jan 02 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69582d649f1b381eb2710bd4?utm_campaign=1066&utm_source=git)** | Charleston, SC | Hybrid | Jan 02 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/6958296c9f1b381eb27108c1?utm_campaign=1066&utm_source=git)** | Panama City, FL | Hybrid | Jan 02 |
-| **[2077AI Open Source Foundation](https://www.2077ai.com/)** | **[Research Intern (Video)](https://jobright.ai/jobs/info/69584a0af1f8465b79eeebc9?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 02 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/6958239b9f1b381eb2710440?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | Hybrid | Jan 02 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Audit & Assurance Intern – Data Science – Summer 2026](https://jobright.ai/jobs/info/695c10c022c9dc0d3d53ef09?utm_campaign=1066&utm_source=git)** | McLean, Virginia, United States | Hybrid | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
