@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Research Internship - True Global Intelligence](https://jobright.ai/jobs/info/695cd8495e4962051b59fa1b?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 06 |
+| ↳ | **[Research Internship - True Global Intelligence](https://jobright.ai/jobs/info/695cd7d61dfa954d1c46fb38?utm_campaign=1066&utm_source=git)** | Illinois, United States | Hybrid | Jan 06 |
+| **[City of Concord](https://www.cityofconcord.org)** | **[College Student Internship](https://jobright.ai/jobs/info/695cd579f1f8465b79f2fa27?utm_campaign=1066&utm_source=git)** | Concord, CA | On Site | Jan 06 |
 | **[LMI](http://www.lmi.org)** | **[Research Analyst Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/695cb7ad5e4962051b59de53?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Jan 05 |
+| ↳ | **[Research Analyst Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/695cc4a6f1f8465b79f2ee1f?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | Jan 05 |
+| ↳ | **[Research Analyst Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/695cc5011dfa954d1c46e2f5?utm_campaign=1066&utm_source=git)** | US-DC-Washington, DC | On Site | Jan 05 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 05 |
 | **[Ededge Learn](www.ededgelearning.com)** | **[Data Analyst  Training &  Internship  Program](https://jobright.ai/jobs/info/695c8acd5e4962051b59a996?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jan 05 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Transportation Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/695c834cf1f8465b79f2a79f?utm_campaign=1066&utm_source=git)** | Pataskala, OH | On Site | Jan 05 |
@@ -93,10 +98,9 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Scientist - Paid Intern](https://jobright.ai/jobs/info/695c4a94aa05c26e7ab5a76d?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Jan 05 |
 | **[Gate City Bank](http://gatecitybank.com)** | **[Business Intelligence Summer Internship](https://jobright.ai/jobs/info/695c4e2422c9dc0d3d543b5e?utm_campaign=1066&utm_source=git)** | Fargo, ND | On Site | Jan 05 |
 | **[Lending Science DM](http://www.lendingsciencedm.com/)** | **[Data Science Internship — Summer 2026](https://jobright.ai/jobs/info/695c3de622c9dc0d3d541cdd?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | Hybrid | Jan 05 |
-| **[KnitWell Group](https://www.knitwellgroup.com)** | **[Transportation Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/695c118422c9dc0d3d53efc2?utm_campaign=1066&utm_source=git)** | Ascena Corp ETNA-ascena-Pataskala, OH 43062 | On Site | Jan 05 |
-| ↳ | **[Transportation Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/695c0e49f1f8465b79f21886?utm_campaign=1066&utm_source=git)** | Ascena Corp ETNA-ascena-Pataskala, OH 43062 | On Site | Jan 05 |
-| **[BrokerLink](http://www.brokerlink.ca)** | **[Data Scientist I – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/695c37fdaa05c26e7ab587d5?utm_campaign=1066&utm_source=git)** | Québec, Quebec, CAN | Hybrid | Jan 05 |
-| ↳ | **[Data Scientist I – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/695c3e1df1f8465b79f24678?utm_campaign=1066&utm_source=git)** | Montréal, Quebec, CAN | Hybrid | Jan 05 |
+| **[KnitWell Group](https://www.knitwellgroup.com)** | **[Transportation Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/695c0e49f1f8465b79f21886?utm_campaign=1066&utm_source=git)** | Ascena Corp ETNA-ascena-Pataskala, OH 43062 | On Site | Jan 05 |
+| **[BrokerLink](http://www.brokerlink.ca)** | **[Data Scientist I – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/695c3e1df1f8465b79f24678?utm_campaign=1066&utm_source=git)** | Montréal, Quebec, CAN | Hybrid | Jan 05 |
+| ↳ | **[Data Scientist I – 4 months Internship/Coop (Summer 2026)](https://jobright.ai/jobs/info/695c37fdaa05c26e7ab587d5?utm_campaign=1066&utm_source=git)** | Québec, Quebec, CAN | Hybrid | Jan 05 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Data & Analytics (May 2026)](https://jobright.ai/jobs/info/695c089df1f8465b79f214a0?utm_campaign=1066&utm_source=git)** | Montreal - 1000 Rue De La Gauchetière Ouest | Hybrid | Jan 05 |
 | ↳ | **[Co-op or Intern, Data & Analytics (May 2026)](https://jobright.ai/jobs/info/695c080ff1f8465b79f21400?utm_campaign=1066&utm_source=git)** | Toronto - Bay St | Hybrid | Jan 05 |
 | ↳ | **[Co-op or Intern, Data & Analytics (May 2026)](https://jobright.ai/jobs/info/695c06c7f1f8465b79f212f7?utm_campaign=1066&utm_source=git)** | Ottawa - Kent St | Hybrid | Jan 05 |
@@ -109,7 +113,8 @@ For a complete list, click the following sortable link below:
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Data & Analytics (May 2026)](https://jobright.ai/jobs/info/695c00d7aa05c26e7ab555bc?utm_campaign=1066&utm_source=git)** | Calgary - 8th Ave SW | Hybrid | Jan 05 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Summer Intern Statistics Dec Sci](https://jobright.ai/jobs/info/695bfe6322c9dc0d3d53e21b?utm_campaign=1066&utm_source=git)** | Spring House, PA | Hybrid | Jan 05 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Summer Intern, Research](https://jobright.ai/jobs/info/695c22c722c9dc0d3d540294?utm_campaign=1066&utm_source=git)** | New York, NY - 225 Liberty Street | On Site | Jan 05 |
-| **[KnitWell Group](https://www.knitwellgroup.com)** | **[Transportation Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/695c246c22c9dc0d3d5404aa?utm_campaign=1066&utm_source=git)** | Ascena Corp ETNA-ascena-Pataskala, OH 43062 | On Site | Jan 05 |
+| **[KnitWell Group](https://www.knitwellgroup.com)** | **[Transportation Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/695c2a1aaa05c26e7ab57d5b?utm_campaign=1066&utm_source=git)** | Ascena Corp ETNA-ascena-Pataskala, OH 43062 | On Site | Jan 05 |
+| ↳ | **[Transportation Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/695c246c22c9dc0d3d5404aa?utm_campaign=1066&utm_source=git)** | Ascena Corp ETNA-ascena-Pataskala, OH 43062 | On Site | Jan 05 |
 | **[Brother USA](https://brother-usa.com)** | **[Google Analytics & Analysis Intern (IT) (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bfc8c22c9dc0d3d53e143?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 05 |
 | **[ASTM International](http://www.astm.org)** | **[Intern, Additive Manufacturing Data Science](https://jobright.ai/jobs/info/695bfc61f1f8465b79f20a21?utm_campaign=1066&utm_source=git)** | DC REMOTE, US | Remote | Jan 05 |
 | ↳ | **[Intern, Additive Manufacturing Data Science](https://jobright.ai/jobs/info/695bfa2a22c9dc0d3d53dfc6?utm_campaign=1066&utm_source=git)** | PA REMOTE, US | Remote | Jan 05 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MGIC](https://www.mgic.com)** | **[Structured Transactions Intern](https://jobright.ai/jobs/info/6950c7d729655e4dd659fccd?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Jan 04 |
 | **[DP World](https://www.dpworld.com/)** | **[Logistics Data Analyst Intern](https://jobright.ai/jobs/info/68f320459a65fd34585841df?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jan 04 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Data Analyst Intern (8 Months)](https://jobright.ai/jobs/info/693ddfae50bbaf765050c5d2?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 04 |
-| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6920fdd300c9ee50eaeca85d?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jan 04 |
-| **[Trucker Path](https://truckerpath.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69547fe9f1f8465b79ebb447?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 03 |
-| **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/6959ecbcf1f8465b79f03eaa?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 03 |
-| **[Labcorp](https://www.labcorp.com)** | **[Crisis Management Analyst Intern](https://jobright.ai/jobs/info/6959bfb69f1b381eb2727b08?utm_campaign=1066&utm_source=git)** | North Carolina, United States | On Site | Jan 03 |
-| **[Skyworks LLC](http://skyworksllc.com)** | **[Data Scientist Co-op - Summer/Fall 2026](https://jobright.ai/jobs/info/6959c77ef1f8465b79f03165?utm_campaign=1066&utm_source=git)** | Newbury Park, CA | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
