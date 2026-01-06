@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LMI](http://www.lmi.org)** | **[Research Analyst Intern (USPS) - Summer 2026](https://jobright.ai/jobs/info/695cb7ad5e4962051b59de53?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Jan 05 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 05 |
 | **[Ededge Learn](www.ededgelearning.com)** | **[Data Analyst  Training &  Internship  Program](https://jobright.ai/jobs/info/695c8acd5e4962051b59a996?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jan 05 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Transportation Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/695c834cf1f8465b79f2a79f?utm_campaign=1066&utm_source=git)** | Pataskala, OH | On Site | Jan 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sungrow Power Supply Co., Ltd.](https://sungrowpower.com/)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/6959ecbcf1f8465b79f03eaa?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 03 |
 | **[Labcorp](https://www.labcorp.com)** | **[Crisis Management Analyst Intern](https://jobright.ai/jobs/info/6959bfb69f1b381eb2727b08?utm_campaign=1066&utm_source=git)** | North Carolina, United States | On Site | Jan 03 |
 | **[Skyworks LLC](http://skyworksllc.com)** | **[Data Scientist Co-op - Summer/Fall 2026](https://jobright.ai/jobs/info/6959c77ef1f8465b79f03165?utm_campaign=1066&utm_source=git)** | Newbury Park, CA | On Site | Jan 03 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
