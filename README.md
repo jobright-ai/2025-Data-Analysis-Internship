@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ededge Groups](http://www.ededgelearning.com)** | **[Data Analyst Training   & Internship Program](https://jobright.ai/jobs/info/695de87462ca9111e7826641?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jan 06 |
 | **[Washington Gas](https://www.washingtongas.com/)** | **[WGL - 2026 Summer Intern: Utilities, Data Analytics](https://jobright.ai/jobs/info/695dd5ac89be3415c7462fab?utm_campaign=1066&utm_source=git)** | Springfield, VA | On Site | Jan 06 |
 | **[Amentum](https://www.amentum.com/)** | **[Spring 2026 Internship - AI and Astronaut Physiology](https://jobright.ai/jobs/info/695dd57f89be3415c7462f6c?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jan 06 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Learning and Skill Development Data Scientist](https://jobright.ai/jobs/info/695dcce816906f25775f8ba0?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 06 |
+| **[Axtria - Ingenious Insights](http://axtria.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/695dc03ef1f8465b79f4076e?utm_campaign=1066&utm_source=git)** | Berkeley Heights, NJ | On Site | Jan 06 |
 | **[APL Logistics](http://www.apllogistics.com/)** | **[Apprentice/Intern, Data Science and BI Intern -  (1st Shift) - Scottsdale](https://jobright.ai/jobs/info/695dbd3aefe5dd5cbd3d9354?utm_campaign=1066&utm_source=git)** | 14350 North 87th Street, Suite 350, Scottsdale, AZ, 85260, US | Hybrid | Jan 06 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Learning and Skill Development Data Scientist](https://jobright.ai/jobs/info/695dd50de4cdbb1454cfcb77?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 06 |
 | **[Veolia | North America](http://www.veolianorthamerica.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69420c6c14ee092a69002926?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Jan 06 |
@@ -100,11 +100,11 @@ For a complete list, click the following sortable link below:
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Data Analytics Bachelor's Intern](https://jobright.ai/jobs/info/695d5e6ff1f8465b79f389eb?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Jan 06 |
 | **[VRChat Inc.](https://hello.vrchat.com)** | **[Trust and Safety Data Analyst Intern](https://jobright.ai/jobs/info/695d5e09f5f3c43f38e22634?utm_campaign=1066&utm_source=git)** | Anywhere | Remote | Jan 06 |
 | **[Together AI](https://www.together.ai)** | **[Research Intern, Inference (Summer 2026)](https://jobright.ai/jobs/info/695d5ca4f5f3c43f38e22585?utm_campaign=1066&utm_source=git)** | San Francisco | On Site | Jan 06 |
+| **[Devon Energy](https://www.devonenergy.com)** | **[Data Analytics Technology Intern](https://jobright.ai/jobs/info/695d5a25f1f8465b79f38752?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Jan 06 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/695d5961f5f3c43f38e22356?utm_campaign=1066&utm_source=git)** | Folsom, CA | On Site | Jan 06 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/695d57dcf1f8465b79f385de?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Jan 06 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/695d565af1f8465b79f38510?utm_campaign=1066&utm_source=git)** | Boise, ID - Main Site | On Site | Jan 06 |
-| **[Devon Energy](https://www.devonenergy.com)** | **[Data Analytics Technology Intern](https://jobright.ai/jobs/info/695d509df1f8465b79f3810c?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Jan 06 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/695d4f7bfbd62a0a6565da54?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jan 06 |
+| ↳ | **[Intern - Data Science](https://jobright.ai/jobs/info/695d4f7bfbd62a0a6565da54?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jan 06 |
 | **[American Chemical Society](https://www.acs.org/)** | **[Data & AI Analytics Intern](https://jobright.ai/jobs/info/695d743ef1f8465b79f3a02b?utm_campaign=1066&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jan 06 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 NYL Direct Summer Internship Program - AI & DS](https://jobright.ai/jobs/info/695d4db4f1f8465b79f37f34?utm_campaign=1066&utm_source=git)** | Tampa, FL | Hybrid | Jan 06 |
 | ↳ | **[2026 NYL Direct Summer Internship Program - AI & DS](https://jobright.ai/jobs/info/695d479efbd62a0a6565cd76?utm_campaign=1066&utm_source=git)** | Tampa,Florida,United States | Hybrid | Jan 06 |
