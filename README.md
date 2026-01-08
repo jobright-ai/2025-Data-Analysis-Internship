@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GoFundMe](http://www.gofundme.com)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/692639b727bf2f41a2c448c9?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jan 08 |
+| **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Business Intelligence Intern - Summer 2026](https://jobright.ai/jobs/info/69092361bcccf20de59d7c0a?utm_campaign=1066&utm_source=git)** | Neenah, WI | On Site | Jan 08 |
+| **[American Water](http://amwater.com)** | **[GIS Data Intern](https://jobright.ai/jobs/info/690abfb1d046ab6061cdfbbf?utm_campaign=1066&utm_source=git)** | Scranton, PA | On Site | Jan 08 |
+| **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690922494a1b456627afcf98?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jan 08 |
+| **[HDR](http://www.hdrinc.com)** | **[Data Scientist Intern (Summer 2026)](https://jobright.ai/jobs/info/692e5ecdef4b48533d13f336?utm_campaign=1066&utm_source=git)** | Omaha, NE | On Site | Jan 08 |
+| **[Noble Health Services](https://www.noblehealthservices.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/695f78b80badca5763afe15d?utm_campaign=1066&utm_source=git)** | Syracuse, NY | Remote | Jan 08 |
 | **[C.H. Robinson](http://www.chrobinson.com)** | **[Intern - Analytics](https://jobright.ai/jobs/info/695f5ecaa112b402660e0d90?utm_campaign=1066&utm_source=git)** | Eden Prairie, MN | On Site | Jan 07 |
 | **[ASTM International](http://www.astm.org)** | **[Intern, Additive Manufacturing Data Analyst](https://jobright.ai/jobs/info/695c3da0aa05c26e7ab58f32?utm_campaign=1066&utm_source=git)** | Washington, DC | Remote | Jan 07 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Co-op or Intern, Data & Analytics (May 2026)](https://jobright.ai/jobs/info/695c50efaa05c26e7ab5b415?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 07 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68c8b2d3983e6768bc55080d?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Jan 07 |
 | ↳ | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/6933d7acf131d96e48467b1a?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Jan 07 |
 | ↳ | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/694d824029655e4dd65768ff?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Jan 07 |
-| **[GTI Fabrication](https://www.gtifabrication.com)** | **[Computer Science / Data Science Intern](https://jobright.ai/jobs/info/6941dea614ee092a69ffef96?utm_campaign=1066&utm_source=git)** | Goodyear, AZ | On Site | Jan 07 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Summer intern Neuroscience/Ophthalmology](https://jobright.ai/jobs/info/695e27b02847344df473ae4f?utm_campaign=1066&utm_source=git)** | La Jolla, California, United States of America | Hybrid | Jan 07 |
-| **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/691642c8286ccf0a15133db2?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Jan 07 |
-| **[Craftwater](http://craftwater.com)** | **[Watershed Analyst Intern](https://jobright.ai/jobs/info/695e100561d5475ac1a0d0b1?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Jan 06 |
-| **[Washington Gas](https://www.washingtongas.com/)** | **[WGL - 2026 Summer Intern: Utilities, Data Analytics](https://jobright.ai/jobs/info/695dd5ac89be3415c7462fab?utm_campaign=1066&utm_source=git)** | Springfield, VA | On Site | Jan 06 |
-| **[Amentum](https://www.amentum.com/)** | **[Spring 2026 Internship - AI and Astronaut Physiology](https://jobright.ai/jobs/info/695dd57f89be3415c7462f6c?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jan 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
