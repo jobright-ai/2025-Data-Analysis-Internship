@@ -73,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Analytics](https://jobright.ai/jobs/info/696179d0a112b402660ffee8?utm_campaign=1066&utm_source=git)** | San Jose | Hybrid | Jan 09 |
 | **[BMLL](https://www.bmlltech.com)** | **[Junior Quantitative Analyst Internship - Summer 26 - UNITED STATES](https://jobright.ai/jobs/info/69617367e7ed9a5731ba3a14?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Jan 09 |
 | **[City of New York](http://www1.nyc.gov)** | **[College Graduate Intern](https://jobright.ai/jobs/info/69614afdf3f4cd13250645c0?utm_campaign=1066&utm_source=git)** | Queens, NY | On Site | Jan 09 |
+| ↳ | **[Summer College Intern](https://jobright.ai/jobs/info/69614a9af3f4cd132506451f?utm_campaign=1066&utm_source=git)** | Queens, NY | On Site | Jan 09 |
 | **[Equitable](http://equitable.ca/)** | **[Data Scientist - Co-Op](https://jobright.ai/jobs/info/69617936f3f4cd13250672d0?utm_campaign=1066&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | Jan 09 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/696167a1f3f4cd1325066008?utm_campaign=1066&utm_source=git)** | VA, Glen Allen - 4820 Lake Brook - Suite 300 | On Site | Jan 09 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/696162d7f3f4cd1325065ae5?utm_campaign=1066&utm_source=git)** | US-WI-Milwaukee | On Site | Jan 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Upbound Group](https://www.upbound.com)** | **[CEX Analyst Intern](https://jobright.ai/jobs/info/69541206f1f8465b79eb41e1?utm_campaign=1066&utm_source=git)** | Plano, TX | On Site | Jan 08 |
 | **[Veolia | North America](http://growingblue.com/)** | **[Capital Project's Intern](https://jobright.ai/jobs/info/6945f3d1d1953b5d11befd18?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Jan 08 |
 | **[SciTec, Inc.](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601d64a1bbea1d9a7aec27?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Jan 08 |
-| ↳ | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601fd1a112b402660ed6f6?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
