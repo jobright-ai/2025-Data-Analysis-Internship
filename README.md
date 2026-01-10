@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6962748b25e18715077f4ab8?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Jan 10 |
+| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Business Intelligence Graduate Intern](https://jobright.ai/jobs/info/696275232cbf4e44756c652a?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Jan 10 |
+| ↳ | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6962748b25e18715077f4ab8?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Jan 10 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Commercial Data & Analytics](https://jobright.ai/jobs/info/6945ea8f63141d1884558637?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Jan 10 |
 | **[Veritiv](https://www.veritiv.com)** | **[Advanced Analytics Intern](https://jobright.ai/jobs/info/68d57ce163d77d6f6f3ef057?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Jan 10 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Wholesale Intern](https://jobright.ai/jobs/info/690d73f3d046ab6061cf6587?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 10 |
+| **[American Fidelity](http://www.americanfidelity.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6945a87b63141d188455356b?utm_campaign=1066&utm_source=git)** | Oklahoma City, OK | On Site | Jan 10 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Data and Analytics](https://jobright.ai/jobs/info/695949c8f1f8465b79efe1e4?utm_campaign=1066&utm_source=git)** | Winston-Salem, NC | On Site | Jan 10 |
 | **[Dematic](http://www.dematic.com)** | **[Analytics Internship](https://jobright.ai/jobs/info/6961d2bdf3f4cd132506d1a3?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | Remote | Jan 10 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Data Steward](https://jobright.ai/jobs/info/69520724a2668b7f545489dc?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Jan 10 |
@@ -128,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[BMLL](https://www.bmlltech.com)** | **[Junior Quantitative Analyst Internship - Summer 26 - UNITED STATES](https://jobright.ai/jobs/info/69617367e7ed9a5731ba3a14?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Jan 09 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business Intelligence Developer Intern - Summer 2026](https://jobright.ai/jobs/info/6961c642a112b40266105504?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | On Site | Jan 09 |
 | **[City of New York](http://www1.nyc.gov)** | **[College Graduate Intern](https://jobright.ai/jobs/info/69614afdf3f4cd13250645c0?utm_campaign=1066&utm_source=git)** | Queens, NY | On Site | Jan 09 |
+| ↳ | **[Summer College Intern](https://jobright.ai/jobs/info/69614a9af3f4cd132506451f?utm_campaign=1066&utm_source=git)** | Queens, NY | On Site | Jan 09 |
 | **[Equitable](http://equitable.ca/)** | **[Data Scientist - Co-Op](https://jobright.ai/jobs/info/69617936f3f4cd13250672d0?utm_campaign=1066&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | Jan 09 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/696167a1f3f4cd1325066008?utm_campaign=1066&utm_source=git)** | VA, Glen Allen - 4820 Lake Brook - Suite 300 | On Site | Jan 09 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/696162d7f3f4cd1325065ae5?utm_campaign=1066&utm_source=git)** | US-WI-Milwaukee | On Site | Jan 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Curriculum Associates](http://www.curriculumassociates.com)** | **[Research Intern](https://jobright.ai/jobs/info/69520a7729655e4dd65ad3e8?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 09 |
 | **[Microsoft](https://www.microsoft.com)** | **[Data Science: PhD Internship Opportunities - Redmond](https://jobright.ai/jobs/info/6947998163141d1884574d26?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Jan 09 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Graduate (Year-Round) Intern: Geospatial Data Science Modeling and Analysis](https://jobright.ai/jobs/info/6944cb9fa7227b3ece66744e?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 09 |
-| **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2026](https://jobright.ai/jobs/info/68d446b917554c2d9eef786e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jan 09 |
-| **[IBM](http://www.ibm.com)** | **[Data and AI Intern 2026](https://jobright.ai/jobs/info/6944c3c850bbaf765056d8e2?utm_campaign=1066&utm_source=git)** | Armonk, NY | Hybrid | Jan 09 |
-| **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6944b45d50bbaf765056cc12?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
