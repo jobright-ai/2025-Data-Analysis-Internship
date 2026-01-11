@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conair LLC](http://www.conair.com/)** | **[2026 Analytics Intern](https://jobright.ai/jobs/info/6963fe6425e1871507807f26?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Jan 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Biostatistics](https://jobright.ai/jobs/info/6963cd5d25e187150780526d?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | Remote | Jan 11 |
 | **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12d96f462172a5a7d3c42?utm_campaign=1066&utm_source=git)** | Waukegan, IL | On Site | Jan 11 |
 | ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f137b9e6870116b1f54e72?utm_campaign=1066&utm_source=git)** | Kenosha, WI | On Site | Jan 11 |
@@ -115,9 +116,9 @@ For a complete list, click the following sortable link below:
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate II Summer Internship Program - 2026 Global Decision Science, Credit & Fraud Risk - New York, NY](https://jobright.ai/jobs/info/69619461e7ed9a5731ba6eef?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 09 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2026 Intern - Data Analytics](https://jobright.ai/jobs/info/69619364f3f4cd132506a152?utm_campaign=1066&utm_source=git)** | 500 Renaissance Ctr, Detroit, MI, 48243, US | On Site | Jan 09 |
 | **[University of Utah Health Research](https://uofuhealth.utah.edu/research)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/69619159e7ed9a5731ba6ba5?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 09 |
+| **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69619148e7ed9a5731ba6b93?utm_campaign=1066&utm_source=git)** | Remote - USA | Remote | Jan 09 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Strategic Analytics Internship, 2026](https://jobright.ai/jobs/info/68c9a65aa0c52d598ea39746?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Jan 09 |
 | ↳ | **[Data Science Internship, 2026](https://jobright.ai/jobs/info/68ccf59477add66568abc9d2?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Jan 09 |
-| **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69618df9a112b4026610256b?utm_campaign=1066&utm_source=git)** | Remote - USA | Remote | Jan 09 |
 | **[Panasonic North America](https://www.na.panasonic.com/)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69618d7ef3f4cd1325069cfe?utm_campaign=1066&utm_source=git)** | Newark, NJ | Hybrid | Jan 09 |
 | **[Taylor Corporation](https://www.taylor.com/)** | **[Business Data Analyst Intern](https://jobright.ai/jobs/info/69618692f3f4cd1325068dc7?utm_campaign=1066&utm_source=git)** | North Mankato, MN - Taylor Corporation | On Site | Jan 09 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/69618238f3f4cd1325067e7c?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Jan 09 |
@@ -141,14 +142,14 @@ For a complete list, click the following sortable link below:
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/69615874e7ed9a5731ba1e97?utm_campaign=1066&utm_source=git)** | US-VA-Glen Allen | On Site | Jan 09 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Client Analytics, North America](https://jobright.ai/jobs/info/696157b5a112b402660fdad7?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 09 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Data Privacy Intern](https://jobright.ai/jobs/info/696172e0f3f4cd1325066abf?utm_campaign=1066&utm_source=git)** | State College, PA | On Site | Jan 09 |
-| **[Cox Enterprises](http://coxenterprises.com)** | **[Business Intelligence & Analytics Intern, Summer 2026 - Mission, KS - Atlanta, GA](https://jobright.ai/jobs/info/69617d3fe7ed9a5731ba44ff?utm_campaign=1066&utm_source=git)** | Mission KS | Hybrid | Jan 09 |
-| ↳ | **[Business Intelligence & Analytics Intern, Summer 2026 - Mission, KS - Atlanta, GA](https://jobright.ai/jobs/info/69617afba112b402660fffb4?utm_campaign=1066&utm_source=git)** | Atlanta GA | Hybrid | Jan 09 |
+| **[Cox Enterprises](http://coxenterprises.com)** | **[Business Intelligence & Analytics Intern, Summer 2026 - Mission, KS - Atlanta, GA](https://jobright.ai/jobs/info/69617afba112b402660fffb4?utm_campaign=1066&utm_source=git)** | Atlanta GA | Hybrid | Jan 09 |
+| ↳ | **[Business Intelligence & Analytics Intern, Summer 2026 - Mission, KS - Atlanta, GA](https://jobright.ai/jobs/info/69617d3fe7ed9a5731ba44ff?utm_campaign=1066&utm_source=git)** | Mission KS | Hybrid | Jan 09 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Visualization Intern](https://jobright.ai/jobs/info/69617ceef3f4cd13250676f1?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Jan 09 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Analytics](https://jobright.ai/jobs/info/696179d0a112b402660ffee8?utm_campaign=1066&utm_source=git)** | San Jose | Hybrid | Jan 09 |
 | **[BMLL](https://www.bmlltech.com)** | **[Junior Quantitative Analyst Internship - Summer 26 - UNITED STATES](https://jobright.ai/jobs/info/69617367e7ed9a5731ba3a14?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Jan 09 |
 | **[Sierra Nevada Corporation](https://www.sncorp.com)** | **[Business Intelligence Developer Intern - Summer 2026](https://jobright.ai/jobs/info/6961c642a112b40266105504?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | On Site | Jan 09 |
 | **[City of New York](http://www1.nyc.gov)** | **[College Graduate Intern](https://jobright.ai/jobs/info/69614afdf3f4cd13250645c0?utm_campaign=1066&utm_source=git)** | Queens, NY | On Site | Jan 09 |
-| **[Equitable](http://equitable.ca/)** | **[Data Scientist - Co-Op](https://jobright.ai/jobs/info/69617936f3f4cd13250672d0?utm_campaign=1066&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | Jan 09 |
+| **[Equitable](http://equitable.ca/)** | **[Data Scientist - Co-Op](https://jobright.ai/jobs/info/69617571a112b402660ff984?utm_campaign=1066&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | Jan 09 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/696167a1f3f4cd1325066008?utm_campaign=1066&utm_source=git)** | VA, Glen Allen - 4820 Lake Brook - Suite 300 | On Site | Jan 09 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/696162d7f3f4cd1325065ae5?utm_campaign=1066&utm_source=git)** | US-WI-Milwaukee | On Site | Jan 09 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Analytics Undergrad Intern](https://jobright.ai/jobs/info/69616014a112b402660fe43e?utm_campaign=1066&utm_source=git)** | Hopkinton, Massachusetts, United States | On Site | Jan 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Client Operations Management Data Intern](https://jobright.ai/jobs/info/69613a0ea112b402660fc179?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Jan 09 |
 | **[Munich Re](https://www.munichre.com)** | **[Data Analysis & Engineering Intern](https://jobright.ai/jobs/info/6961395de7ed9a5731ba01d2?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jan 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/69613880e7ed9a5731ba0103?utm_campaign=1066&utm_source=git)** | Florham Park, NJ | On Site | Jan 09 |
-| **[Minitab](http://www.minitab.com/en-us/)** | **[Data Privacy Intern](https://jobright.ai/jobs/info/69613497f3f4cd132506305d?utm_campaign=1066&utm_source=git)** | State College, Pennsylvania, United States | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
