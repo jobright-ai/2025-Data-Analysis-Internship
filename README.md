@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VA250 Commission](https://va250.org/)** | **[Research Intern](https://jobright.ai/jobs/info/69647c5d25e187150780eab4?utm_campaign=1066&utm_source=git)** | Richmond, VA, US | Hybrid | Jan 11 |
+| **[Roche](http://www.roche.com)** | **[2026 - Biostatistics Intern](https://jobright.ai/jobs/info/6964706e25e187150780ce9c?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 11 |
+| ↳ | **[2026 Summer Intern - Health Data Strategy](https://jobright.ai/jobs/info/69646f9ca112b40266125169?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 11 |
 | **[Jacobs](http://www.jacobs.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6964699225e187150780cb8c?utm_campaign=1066&utm_source=git)** | Irvine, CA | Hybrid | Jan 11 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/6964690625e187150780cb5e?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Jan 11 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/696468bf25e187150780cb49?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 11 |
@@ -109,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[QuadReal Property Group](https://www.quadreal.com/)** | **[Data Governance, Summer 2026 - Toronto (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6961c547a112b4026610546c?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 09 |
 | **[Agtegra Cooperative](https://www.agtegra.com/)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/6961c30fe7ed9a5731ba95fc?utm_campaign=1066&utm_source=git)** | Aberdeen, SD | On Site | Jan 09 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[MSIPP-EM PhD Intern - Data Analysis of Groundwater Interactions](https://jobright.ai/jobs/info/6961c27ff3f4cd132506c7d7?utm_campaign=1066&utm_source=git)** | Richland, WA | On Site | Jan 09 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Data Analyst, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/69646c3625e187150780cbfc?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 09 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern II - User Research](https://jobright.ai/jobs/info/693d289850bbaf76505044cb?utm_campaign=1066&utm_source=git)** | United States | On Site | Jan 09 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/6961be02e7ed9a5731ba91f7?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 09 |
 | **[Edelman DXI](https://www.edelmandxi.com)** | **[Intern, Human Intelligence](https://jobright.ai/jobs/info/6961bd86f3f4cd132506c40d?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 09 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/69615874e7ed9a5731ba1e97?utm_campaign=1066&utm_source=git)** | US-VA-Glen Allen | On Site | Jan 09 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Client Analytics, North America](https://jobright.ai/jobs/info/696157b5a112b402660fdad7?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 09 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Data Privacy Intern](https://jobright.ai/jobs/info/696172e0f3f4cd1325066abf?utm_campaign=1066&utm_source=git)** | State College, PA | On Site | Jan 09 |
-| **[Cox Enterprises](http://coxenterprises.com)** | **[Business Intelligence & Analytics Intern, Summer 2026 - Mission, KS - Atlanta, GA](https://jobright.ai/jobs/info/69617afba112b402660fffb4?utm_campaign=1066&utm_source=git)** | Atlanta GA | Hybrid | Jan 09 |
-| ↳ | **[Business Intelligence & Analytics Intern, Summer 2026 - Mission, KS - Atlanta, GA](https://jobright.ai/jobs/info/69617d3fe7ed9a5731ba44ff?utm_campaign=1066&utm_source=git)** | Mission KS | Hybrid | Jan 09 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Visualization Intern](https://jobright.ai/jobs/info/69617ceef3f4cd13250676f1?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Jan 09 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Analytics](https://jobright.ai/jobs/info/696179d0a112b402660ffee8?utm_campaign=1066&utm_source=git)** | San Jose | Hybrid | Jan 09 |
+| **[Cox Enterprises](http://coxenterprises.com)** | **[Business Intelligence & Analytics Intern, Summer 2026 - Mission, KS - Atlanta, GA](https://jobright.ai/jobs/info/69617d3fe7ed9a5731ba44ff?utm_campaign=1066&utm_source=git)** | Mission KS | Hybrid | Jan 09 |
+| ↳ | **[Business Intelligence & Analytics Intern, Summer 2026 - Mission, KS - Atlanta, GA](https://jobright.ai/jobs/info/69617afba112b402660fffb4?utm_campaign=1066&utm_source=git)** | Atlanta GA | Hybrid | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
