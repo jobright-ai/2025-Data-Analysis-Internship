@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Conair LLC](http://www.conair.com/)** | **[2026 Analytics Intern](https://jobright.ai/jobs/info/6963fe6425e1871507807f26?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Jan 11 |
+| **[Conair LLC](http://www.conair.com/)** | **[2026 Consumer Insights Intern](https://jobright.ai/jobs/info/69645447a112b402661249b4?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Jan 11 |
+| ↳ | **[2026 Consumer Insights Intern](https://jobright.ai/jobs/info/69644d6325e187150780c09e?utm_campaign=1066&utm_source=git)** | Stamford, Connecticut | Hybrid | Jan 11 |
+| ↳ | **[2026 Analytics Intern](https://jobright.ai/jobs/info/6963fe6425e1871507807f26?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Jan 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[Summer Intern – Biostatistics](https://jobright.ai/jobs/info/6963cd5d25e187150780526d?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | Remote | Jan 11 |
 | **[Uline](http://www.uline.com)** | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f12d96f462172a5a7d3c42?utm_campaign=1066&utm_source=git)** | Waukegan, IL | On Site | Jan 11 |
 | ↳ | **[Business Intelligence Developer Internship - Summer 2026](https://jobright.ai/jobs/info/68f137b9e6870116b1f54e72?utm_campaign=1066&utm_source=git)** | Kenosha, WI | On Site | Jan 11 |
@@ -110,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[BW Converting](http://www.bwconverting.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69619752f3f4cd132506a546?utm_campaign=1066&utm_source=git)** | Green Bay, WI | On Site | Jan 09 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/6961bcb5f3f4cd132506c32b?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Jan 09 |
 | **[BW Converting](http://www.bwconverting.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6961967ce7ed9a5731ba7169?utm_campaign=1066&utm_source=git)** | United States | On Site | Jan 09 |
+| **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6961961cf3f4cd132506a400?utm_campaign=1066&utm_source=git)** | Green Bay, WI | On Site | Jan 09 |
 | **[Exiger](http://www.exiger.com)** | **[Trade Intelligence Analyst Intern – Government Analytics (Summer 2026)](https://jobright.ai/jobs/info/69619514a112b40266102caa?utm_campaign=1066&utm_source=git)** | McLean, Virginia, United States | Hybrid | Jan 09 |
 | **[Medpace](http://www.medpace.com)** | **[Business Intelligence Internship - Summer 2026](https://jobright.ai/jobs/info/696194c7a112b40266102c46?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jan 09 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate II Summer Internship Program - 2026 Global Decision Science, Credit & Fraud Risk - New York, NY](https://jobright.ai/jobs/info/69619461e7ed9a5731ba6eef?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 09 |
@@ -125,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/6961a810e7ed9a5731ba7cd7?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Jan 09 |
 | **[Panasonic North America](https://www.na.panasonic.com/)** | **[Business Intelligence Intern (Summer 2026)](https://jobright.ai/jobs/info/69617f94a112b40266100427?utm_campaign=1066&utm_source=git)** | Newark, NJ | Hybrid | Jan 09 |
 | **[DHL](http://www.dhl.com)** | **[Data Analyst, Network Operations Efficiency Platform](https://jobright.ai/jobs/info/69619237a112b4026610298b?utm_campaign=1066&utm_source=git)** | Plantation, FL | On Site | Jan 09 |
-| **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69619832a112b40266103017?utm_campaign=1066&utm_source=git)** | Green Bay, WI | On Site | Jan 09 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Analytics](https://jobright.ai/jobs/info/696199a5e7ed9a5731ba7472?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Jan 09 |
 | **[VA250 Commission](https://va250.org/)** | **[Knowledge Work Intern](https://jobright.ai/jobs/info/69617033f3f4cd13250667ab?utm_campaign=1066&utm_source=git)** | Richmond, VA, US | Hybrid | Jan 09 |
 | **[W. R. Berkley Corporation](https://www.berkley.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/69616f6ca112b402660ff22d?utm_campaign=1066&utm_source=git)** | Glen Allen, VA | On Site | Jan 09 |
@@ -142,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/69615874e7ed9a5731ba1e97?utm_campaign=1066&utm_source=git)** | US-VA-Glen Allen | On Site | Jan 09 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Client Analytics, North America](https://jobright.ai/jobs/info/696157b5a112b402660fdad7?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 09 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Data Privacy Intern](https://jobright.ai/jobs/info/696172e0f3f4cd1325066abf?utm_campaign=1066&utm_source=git)** | State College, PA | On Site | Jan 09 |
-| **[Cox Enterprises](http://coxenterprises.com)** | **[Business Intelligence & Analytics Intern, Summer 2026 - Mission, KS - Atlanta, GA](https://jobright.ai/jobs/info/69617d3fe7ed9a5731ba44ff?utm_campaign=1066&utm_source=git)** | Mission KS | Hybrid | Jan 09 |
-| ↳ | **[Business Intelligence & Analytics Intern, Summer 2026 - Mission, KS - Atlanta, GA](https://jobright.ai/jobs/info/69617afba112b402660fffb4?utm_campaign=1066&utm_source=git)** | Atlanta GA | Hybrid | Jan 09 |
+| **[Cox Enterprises](http://coxenterprises.com)** | **[Business Intelligence & Analytics Intern, Summer 2026 - Mission, KS - Atlanta, GA](https://jobright.ai/jobs/info/69617afba112b402660fffb4?utm_campaign=1066&utm_source=git)** | Atlanta GA | Hybrid | Jan 09 |
+| ↳ | **[Business Intelligence & Analytics Intern, Summer 2026 - Mission, KS - Atlanta, GA](https://jobright.ai/jobs/info/69617d3fe7ed9a5731ba44ff?utm_campaign=1066&utm_source=git)** | Mission KS | Hybrid | Jan 09 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Visualization Intern](https://jobright.ai/jobs/info/69617ceef3f4cd13250676f1?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Jan 09 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Analytics](https://jobright.ai/jobs/info/696179d0a112b402660ffee8?utm_campaign=1066&utm_source=git)** | San Jose | Hybrid | Jan 09 |
 | **[BMLL](https://www.bmlltech.com)** | **[Junior Quantitative Analyst Internship - Summer 26 - UNITED STATES](https://jobright.ai/jobs/info/69617367e7ed9a5731ba3a14?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Jan 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/696162d7f3f4cd1325065ae5?utm_campaign=1066&utm_source=git)** | US-WI-Milwaukee | On Site | Jan 09 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Analytics Undergrad Intern](https://jobright.ai/jobs/info/69616014a112b402660fe43e?utm_campaign=1066&utm_source=git)** | Hopkinton, Massachusetts, United States | On Site | Jan 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Data Science and Analytics](https://jobright.ai/jobs/info/69613cafe7ed9a5731ba0429?utm_campaign=1066&utm_source=git)** | Home, KS | Hybrid | Jan 09 |
-| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Client Operations Management Data Intern](https://jobright.ai/jobs/info/69613a0ea112b402660fc179?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Jan 09 |
-| **[Munich Re](https://www.munichre.com)** | **[Data Analysis & Engineering Intern](https://jobright.ai/jobs/info/6961395de7ed9a5731ba01d2?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
