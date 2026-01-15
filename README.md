@@ -58,12 +58,13 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Syngenta](http://www.syngenta.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/696845c2f25a38006696af02?utm_campaign=1066&utm_source=git)** | Durham, NC | Hybrid | Jan 14 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - Financial Applications Intern](https://jobright.ai/jobs/info/696862f6639b452fb57e077e?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Jan 14 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Biostatistics Summer Intern (Remote)](https://jobright.ai/jobs/info/696857f6639b452fb57dfa8c?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 14 |
 | **[Molex](http://www.molex.com)** | **[Molex 2026 Search Analyst Internship](https://jobright.ai/jobs/info/6968330b639b452fb57dcdc0?utm_campaign=1066&utm_source=git)** | Lisle, IL | On Site | Jan 14 |
 | **[1-800-FLOWERS.COM, INC.](http://www.1800flowers.com)** | **[Intern, Data Analysis](https://jobright.ai/jobs/info/69685813f25a38006696bf14?utm_campaign=1066&utm_source=git)** | Jericho, NY | On Site | Jan 14 |
+| **[Ryan](http://ryan.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69682d17639b452fb57dc380?utm_campaign=1066&utm_source=git)** | North York | On Site | Jan 14 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Data Science Intern, Summer 2026](https://jobright.ai/jobs/info/69682d16f25a380066968a7c?utm_campaign=1066&utm_source=git)** | Santa Monica, CA, USA | Hybrid | Jan 14 |
 | **[Syngenta](http://www.syngenta.com)** | **[Geospatial Remote Sensing Intern](https://jobright.ai/jobs/info/696853da639b452fb57df576?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Remote | Jan 14 |
-| **[Ryan](http://ryan.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69683577639b452fb57dd211?utm_campaign=1066&utm_source=git)** | North York | On Site | Jan 14 |
 | **[Solar Digital Agro LLC](https://www.solardigitalagro.com/)** | **[Quant Strategy Research Intern](https://jobright.ai/jobs/info/696843f41703f05405a9f6b9?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 14 |
 | **[SwingVision](https://swing.vision)** | **[Data Labeling Intern](https://jobright.ai/jobs/info/69683544639b452fb57dd1bf?utm_campaign=1066&utm_source=git)** | Berkeley, CA | On Site | Jan 14 |
 | **[Ericsson](https://www.ericsson.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69682eaf1703f05405a9d5bd?utm_campaign=1066&utm_source=git)** | Plano, TX | On Site | Jan 14 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Zoox](https://www.zoox.com/)** | **[Reliability Data Intern](https://jobright.ai/jobs/info/69672c661703f05405a8dc5e?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Jan 13 |
 | **[Legrand, North America](http://www.legrand.us)** | **[Digital Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69670805a135876680844e11?utm_campaign=1066&utm_source=git)** | West Hartford, CT | On Site | Jan 13 |
 | **[State of Ohio](http://ohio.gov/)** | **[Paid College Intern, PN 20072239](https://jobright.ai/jobs/info/69670f03a135876680845486?utm_campaign=1066&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | Jan 13 |
-| ↳ | **[Paid College Intern, PN 20072239](https://jobright.ai/jobs/info/6967010c639b452fb57c911e?utm_campaign=1066&utm_source=git)** | Ohio Dept of Transportation1980 West Broad Street | On Site | Jan 13 |
 | ↳ | **[Paid College Intern, PN 20072239](https://jobright.ai/jobs/info/696708136f782b4e8d52b646?utm_campaign=1066&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | Jan 13 |
+| ↳ | **[Paid College Intern, PN 20072239](https://jobright.ai/jobs/info/6967010c639b452fb57c911e?utm_campaign=1066&utm_source=git)** | Ohio Dept of Transportation1980 West Broad Street | On Site | Jan 13 |
 | **[Ferris State University College of Business](http://ferris.edu/business)** | **[Pharmacy Data Analyst Asst (Student Position)](https://jobright.ai/jobs/info/69670764639b452fb57c9a51?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Jan 13 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6966c711a112b4026614c4f2?utm_campaign=1066&utm_source=git)** | Canada - ON - Ontario | On Site | Jan 13 |
 | **[Zoox](https://www.zoox.com/)** | **[Reliability Data Intern](https://jobright.ai/jobs/info/6966f7de6f782b4e8d52a0f6?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Jan 13 |
 | **[Symetra](http://www.symetra.com)** | **[2026 Data Analytics Internship](https://jobright.ai/jobs/info/6966f4506f782b4e8d529c16?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 13 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Data Scientist Internship - Summer 2026](https://jobright.ai/jobs/info/6966c2d7a112b4026614beaf?utm_campaign=1066&utm_source=git)** | Normandale, United States | On Site | Jan 13 |
-| **[Medpace](http://www.medpace.com)** | **[Clinical Informatics Intern - Summer 2026](https://jobright.ai/jobs/info/69670791639b452fb57c9a85?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
