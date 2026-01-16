@@ -57,10 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 16 |
+| **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Quant Tech Intern](https://jobright.ai/jobs/info/68bf99718e65e77df55bbcb2?utm_campaign=1066&utm_source=git)** | Kennett Square, PA | On Site | Jan 16 |
+| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Data Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/695c9c269a87b95a939804b7?utm_campaign=1066&utm_source=git)** | Yocumtown, PA | On Site | Jan 16 |
+| **[STR](https://www.str.us/)** | **[Intelligence Summer Internship](https://jobright.ai/jobs/info/68c20aaa63b706703e111267?utm_campaign=1066&utm_source=git)** | Melbourne, FL | On Site | Jan 16 |
+| **[Boston Children's Hospital](https://www.childrenshospital.org/)** | **[Innovation & Digital Health Accelerator Internship (Global.Health)](https://jobright.ai/jobs/info/696a2da4350cf43803111498?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Jan 16 |
+| **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern – Biostatistics](https://jobright.ai/jobs/info/69475f9ed1953b5d11c0786c?utm_campaign=1066&utm_source=git)** | Headquarters, NJ | Hybrid | Jan 16 |
+| **[State of Missouri](http://mo.gov)** | **[Intern - 5020213](https://jobright.ai/jobs/info/690c938d221b890c277fee38?utm_campaign=1066&utm_source=git)** | Rolla, MO | On Site | Jan 16 |
+| **[STR](https://www.str.us/)** | **[Intelligence Summer Internship](https://jobright.ai/jobs/info/68cb9751ba798c1a501d2992?utm_campaign=1066&utm_source=git)** | Woburn, MA | On Site | Jan 16 |
 | **[Quill](http://www.quill.com)** | **[Quill Data Science Intern - June 2026](https://jobright.ai/jobs/info/6914bd7f286ccf0a15128236?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Jan 16 |
+| **[Celestica](https://www.celestica.com/)** | **[Student Intern, SCM Data Scientist](https://jobright.ai/jobs/info/69181da015b415636717eceb?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 16 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Intern](https://jobright.ai/jobs/info/696a1e0cdb26b618950d4d7e?utm_campaign=1066&utm_source=git)** | Shanghai, VA | On Site | Jan 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/696782791703f05405a92934?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jan 16 |
 | **[Insmed Incorporated](http://www.insmed.com)** | **[Summer Intern - Biostatistics](https://jobright.ai/jobs/info/693a481f56b68f3dc4e79d7b?utm_campaign=1066&utm_source=git)** | Headquarters, NJ | Hybrid | Jan 16 |
+| **[O'Neal Steel](https://www.onealsteel.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/696a28bf5fc8624185391f90?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Jan 16 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Data Analyst Intern - Global Revenue Operations](https://jobright.ai/jobs/info/695edeab0badca5763af5894?utm_campaign=1066&utm_source=git)** | Longmont, CO | Hybrid | Jan 15 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Data Analyst for PowerBI Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6969b44e639b452fb57fa2d6?utm_campaign=1066&utm_source=git)** | North Las Vegas, NV | On Site | Jan 15 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Intern, Data Analyst & BI, Summer 2026](https://jobright.ai/jobs/info/6969b2ae639b452fb57fa20e?utm_campaign=1066&utm_source=git)** | Towson, MD | On Site | Jan 15 |
@@ -80,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[State of South Dakota](https://doh.sd.gov/)** | **[Intern - Data & Outcomes (Summer)](https://jobright.ai/jobs/info/6969b054639b452fb57fa042?utm_campaign=1066&utm_source=git)** | Sioux Falls, SD | On Site | Jan 15 |
 | **[HDR](http://www.hdrinc.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6969b6fe1703f05405abb1ca?utm_campaign=1066&utm_source=git)** | Omaha, NE | On Site | Jan 15 |
 | **[PlayCore](http://www.playcore.com/)** | **[Field Software Data Intern - PlayCore](https://jobright.ai/jobs/info/6969afbaf25a38006698664b?utm_campaign=1066&utm_source=git)** | Auburn, AL 36849, USA | Hybrid | Jan 15 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern](https://jobright.ai/jobs/info/696a2896350cf438031113ae?utm_campaign=1066&utm_source=git)** | United States, California, Mountain View | Hybrid | Jan 15 |
 | **[Broadridge](http://www.broadridge.com)** | **[Jr. Analyst, Client Services Intern (Hybrid)](https://jobright.ai/jobs/info/6969b186f25a380066986833?utm_campaign=1066&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Jan 15 |
 | **[PlayCore](http://www.playcore.com/)** | **[Field Software Data Intern - PlayCore](https://jobright.ai/jobs/info/69699881639b452fb57f89e3?utm_campaign=1066&utm_source=git)** | Auburn, AL | Hybrid | Jan 15 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Data & Solutions Analyst](https://jobright.ai/jobs/info/696990cdf25a380066984739?utm_campaign=1066&utm_source=git)** | Draper, UT | On Site | Jan 15 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Munich Re](https://www.munichre.com)** | **[Data Analysis & Engineering Intern](https://jobright.ai/jobs/info/6968ef011703f05405aacf43?utm_campaign=1066&utm_source=git)** | Hartford, CT | On Site | Jan 15 |
 | **[Apogem Capital](https://apogemcapital.com/)** | **[2026 Business Analytics Summer Internship (Overland Park, KS)](https://jobright.ai/jobs/info/6968c0cd1703f05405aa9953?utm_campaign=1066&utm_source=git)** | Overland Park, KS | Hybrid | Jan 15 |
 | **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6968a3031703f05405aa7528?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Jan 14 |
-| **[Federal Reserve Bank of Philadelphia](http://www.philadelphiafed.org)** | **[Summer Intern, Supervision Regulation & Credit, Risk and Lending Behavior Research](https://jobright.ai/jobs/info/6968cb95f25a380066975acc?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Jan 14 |
-| **[American Water](http://amwater.com)** | **[GIS Data Intern](https://jobright.ai/jobs/info/690abfb1d046ab6061cdfbbf?utm_campaign=1066&utm_source=git)** | Scranton, PA | On Site | Jan 14 |
-| **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Energy Analyst (GA)](https://jobright.ai/jobs/info/69689de11703f05405aa7076?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Jan 14 |
-| ↳ | **[2026 Summer Intern, Energy Analyst (MD)](https://jobright.ai/jobs/info/69688b04639b452fb57e423a?utm_campaign=1066&utm_source=git)** | Columbia, MD | Hybrid | Jan 14 |
-| **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Data Analyst Student](https://jobright.ai/jobs/info/69689a6bf25a380066972213?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 14 |
-| **[Flatiron School](http://flatironschool.com)** | **[Data Scientist Work/Study Apprentice Program](https://jobright.ai/jobs/info/6968771c1703f05405aa2faf?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 14 |
-| **[Renesas Electronics](https://www.renesas.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/696878a6f25a38006696e81e?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Jan 14 |
-| **[Chromalloy](https://www.chromalloy.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/69688a08639b452fb57e40d8?utm_campaign=1066&utm_source=git)** | 3401 Queen Palm Dr, Tampa, FL 33619, USA | On Site | Jan 14 |
-| **[Carnival Corporation](http://carnivalcorp.com)** | **[Financial Data Analyst Intern](https://jobright.ai/jobs/info/6968957c639b452fb57e5342?utm_campaign=1066&utm_source=git)** | 3655 NW 87th Avenue, Miami, FL, 33178, US | On Site | Jan 14 |
-| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Data Analyst Intern Fall 2026](https://jobright.ai/jobs/info/6968821c639b452fb57e337d?utm_campaign=1066&utm_source=git)** | Columbus, MS | On Site | Jan 14 |
-| ↳ | **[Data Analyst Intern Summer 2026](https://jobright.ai/jobs/info/6968646cf25a38006696d07e?utm_campaign=1066&utm_source=git)** | Columbus, MS | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
