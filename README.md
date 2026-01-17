@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Data Science (Summer 2026)](https://jobright.ai/jobs/info/696bdcf7db26b618950f4b98?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 17 |
+| **[Oregon Health & Science University](http://www.ohsu.edu/)** | **[Biomedical Informatics and Data Science Internship Program Internship](https://jobright.ai/jobs/info/696bd2cc350cf43803131741?utm_campaign=1066&utm_source=git)** | Portland, OR | Hybrid | Jan 17 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2026: Data Science Intern, Identity & Analytics](https://jobright.ai/jobs/info/696bba8edb26b618950f2e2b?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Jan 17 |
 | **[VantAI](https://proximabio.com)** | **[Target Prioritization CS Intern](https://jobright.ai/jobs/info/696baf7bdb26b618950f2c2c?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jan 17 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Supply Chain Data Scientist Intern](https://jobright.ai/jobs/info/696b9e88db26b618950f269a?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Jan 17 |
@@ -111,14 +113,13 @@ For a complete list, click the following sortable link below:
 | **[First Capital REIT](https://fcr.ca/)** | **[Real Estate Services Data & Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/696b00bc350cf43803123ff0?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 16 |
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Data Science (Summer 2026)](https://jobright.ai/jobs/info/696ae1e55fc86241853a1132?utm_campaign=1066&utm_source=git)** | Toronto, Ontario | Hybrid | Jan 16 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Escalations BI and Knowledge](https://jobright.ai/jobs/info/696afd83db26b618950e7282?utm_campaign=1066&utm_source=git)** | CA-ON-Ottawa | Hybrid | Jan 16 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Data Analyst - Learning & Skill Development](https://jobright.ai/jobs/info/696b0549db26b618950e7cae?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Jan 16 |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Data Analyst - Learning & Skill Development](https://jobright.ai/jobs/info/696afebb350cf43803123d1b?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Jan 16 |
 | **[Foley Hoag LLP](http://www.foleyhoag.com)** | **[Data Strategy and Analytics Intern](https://jobright.ai/jobs/info/696b7f8b5fc86241853ad29d?utm_campaign=1066&utm_source=git)** | Boston Office | Hybrid | Jan 16 |
 | **[United Airlines](https://www.united.com)** | **[Intern – Kinective: Data & Analytics (Summer 2026)](https://jobright.ai/jobs/info/696ad1645fc862418539f3e9?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 16 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/696b0927350cf43803124d50?utm_campaign=1066&utm_source=git)** | JUPITER, FL | On Site | Jan 16 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/696ad0f25fc862418539f302?utm_campaign=1066&utm_source=git)** | McLean, VA | On Site | Jan 16 |
 | **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Stanford Rebele Data Science Intern, Summer 2026](https://jobright.ai/jobs/info/696ae575db26b618950e473f?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 16 |
 | **[Donaldson](http://donaldson.com)** | **[Intern - Modeling & Data Science](https://jobright.ai/jobs/info/696abfc4350cf4380311ccd1?utm_campaign=1066&utm_source=git)** | Bloomington, MN (USA) | On Site | Jan 16 |
-| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern](https://jobright.ai/jobs/info/696abda6350cf4380311c922?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Jan 16 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Power Bi Reporting Long Term Intern](https://jobright.ai/jobs/info/69252c3727bf2f41a2c3cd0f?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 16 |
 | **[CRH](http://crh.com)** | **[Performance Analytics Summer Intern](https://jobright.ai/jobs/info/696aba685fc862418539cc8d?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 16 |
 | **[Magna International](http://www.magna.com/)** | **[Data Science Intern- Summer 2026](https://jobright.ai/jobs/info/696aba4adb26b618950df993?utm_campaign=1066&utm_source=git)** | Troy, MI | On Site | Jan 16 |
@@ -129,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Donaldson](http://donaldson.com)** | **[Intern - Modeling & Data Science](https://jobright.ai/jobs/info/696ad015350cf4380311e7b6?utm_campaign=1066&utm_source=git)** | Bloomington, MN | On Site | Jan 16 |
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Intern, Data Intelligence](https://jobright.ai/jobs/info/696aafe55fc862418539b646?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 16 |
 | **[CRH](http://crh.com)** | **[Aggregates Intern](https://jobright.ai/jobs/info/696acbdddb26b618950e180e?utm_campaign=1066&utm_source=git)** | New Britain, CT | On Site | Jan 16 |
+| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern](https://jobright.ai/jobs/info/696ad000db26b618950e1f85?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Jan 16 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Clinical Information Science Intern](https://jobright.ai/jobs/info/696aabe15fc862418539a7df?utm_campaign=1066&utm_source=git)** | Gaithersburg, MD | On Site | Jan 16 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Research Intern](https://jobright.ai/jobs/info/696adc1e5fc86241853a0a75?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Jan 16 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Data Science Intern](https://jobright.ai/jobs/info/696aaa5a350cf43803119928?utm_campaign=1066&utm_source=git)** | CAN - Richmond, Canada | Hybrid | Jan 16 |
@@ -140,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Fairbanks Morse Defense](https://www.fairbanksmorsedefense.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/696a8f77350cf43803117ea0?utm_campaign=1066&utm_source=git)** | Fairbanks Morse Defense, 701 White Ave, Beloit, Wisconsin, United States of America | On Site | Jan 16 |
 | **[Kubota Tractor Corporation](https://linktr.ee/kubotausa)** | **[Summer 2026 Internship - (Predicition Modeling/Data Analytics)](https://jobright.ai/jobs/info/696a893f5fc862418539808a?utm_campaign=1066&utm_source=git)** | Grapevine, TX | On Site | Jan 16 |
 | **[CHS Inc.](https://www.chsinc.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/696a88a05fc8624185398033?utm_campaign=1066&utm_source=git)** | Inver Grove Heights, MN | Hybrid | Jan 16 |
+| **[WCF Insurance](https://www.wcf.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/696be6b75fc86241853b2a1e?utm_campaign=1066&utm_source=git)** | Sandy,UT,US | On Site | Jan 16 |
 | **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Science & Society, Pew Research Center Summer 2026](https://jobright.ai/jobs/info/696a9dde5fc8624185399786?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
 | **[First Capital REIT](https://fcr.ca/)** | **[Real Estate Services Data & Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/696a9a74350cf43803118bcf?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Jan 16 |
 | **[Georgia Institute of Technology](http://gatech.edu)** | **[Research Intern (GTRI-CIPHER)](https://jobright.ai/jobs/info/696a7df3350cf4380311722e?utm_campaign=1066&utm_source=git)** | Atlanta Metro | On Site | Jan 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Canadian Security Intelligence Service (CSIS) | Service canadien du renseignement de sécurité (SCRS)](https://www.canada.ca/csisjobs)** | **[Co-op: Intelligence Analysis](https://jobright.ai/jobs/info/696a57f0db26b618950d7e24?utm_campaign=1066&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 16 |
 | ↳ | **[Co-op: Analysis & Exploitation of Info Sources](https://jobright.ai/jobs/info/696a57e2db26b618950d7e1f?utm_campaign=1066&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Jan 16 |
 | **[Chatham Financial](http://www.chathamfinancial.com/)** | **[2026 Quant Tech Intern](https://jobright.ai/jobs/info/68bf99718e65e77df55bbcb2?utm_campaign=1066&utm_source=git)** | Kennett Square, PA | On Site | Jan 16 |
-| **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Data Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/695c9c269a87b95a939804b7?utm_campaign=1066&utm_source=git)** | Yocumtown, PA | On Site | Jan 16 |
-| **[Stripe](https://stripe.com)** | **[Data Analyst, Intern (Master's degree)](https://jobright.ai/jobs/info/691703b9ab115751cca3e781?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 16 |
-| **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/6916096a6f36db06ef052662?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
