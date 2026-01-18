@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Computational Social Science](https://jobright.ai/jobs/info/69342f9df131d96e48469e60?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jan 18 |
+| **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (PhD 2026)](https://jobright.ai/jobs/info/68cd1f74e23def7af55b59b8?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jan 18 |
+| **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2026 Summer]](https://jobright.ai/jobs/info/68cf1297fb49c96ca6ea5a5d?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Jan 18 |
+| **[Ashford Inc.](https://www.ashfordinc.com/)** | **[Ashford Intern](https://jobright.ai/jobs/info/695497f6f1f8465b79ebc5b8?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jan 18 |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Immunology Bioinformatics Intern (PhD)](https://jobright.ai/jobs/info/68cf0860846f0b04af67ed46?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 18 |
+| ↳ | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/68e5dfefae2b894b1d714b11?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Jan 18 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/696712656f782b4e8d52c4c2?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jan 18 |
 | **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/68cc15ba128dc347fd91eb81?utm_campaign=1066&utm_source=git)** | Jackson, MS | On Site | Jan 18 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Retail Analyst](https://jobright.ai/jobs/info/68c93516f9c6ff7aedf18c31?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mitsubishi Electric Research Laboratories](http://www.merl.com/)** | **[Internship - Uncertainty Quantification & Bayesian Inverse Problems](https://jobright.ai/jobs/info/696abfd35fc862418539d607?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 16 |
 | **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Global, Pew Research Center Summer 2026](https://jobright.ai/jobs/info/696a9806350cf438031188b2?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
 | ↳ | **[Undergraduate Intern in Survey Design, Pew Research Center Summer 2026](https://jobright.ai/jobs/info/696a921edb26b618950dbacb?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
-| **[Fairbanks Morse Defense](https://www.fairbanksmorsedefense.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/696a8f77350cf43803117ea0?utm_campaign=1066&utm_source=git)** | Fairbanks Morse Defense, 701 White Ave, Beloit, Wisconsin, United States of America | On Site | Jan 16 |
-| **[Kubota Tractor Corporation](https://linktr.ee/kubotausa)** | **[Summer 2026 Internship - (Predicition Modeling/Data Analytics)](https://jobright.ai/jobs/info/696a893f5fc862418539808a?utm_campaign=1066&utm_source=git)** | Grapevine, TX | On Site | Jan 16 |
-| **[CHS Inc.](https://www.chsinc.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/696a88a05fc8624185398033?utm_campaign=1066&utm_source=git)** | Inver Grove Heights, MN | Hybrid | Jan 16 |
-| **[WCF Insurance](https://www.wcf.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/696cb75e5fc86241853bdb9a?utm_campaign=1066&utm_source=git)** | Sandy,UT,US | On Site | Jan 16 |
-| **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Science & Society, Pew Research Center Summer 2026](https://jobright.ai/jobs/info/696a9dde5fc8624185399786?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jan 16 |
-| **[First Capital REIT](https://fcr.ca/)** | **[Real Estate Services Data & Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/696a9a74350cf43803118bcf?utm_campaign=1066&utm_source=git)** | Toronto, ON | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
