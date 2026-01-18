@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/696d199bdb26b61895104643?utm_campaign=1066&utm_source=git)** | Boston, MA | Remote | Jan 18 |
-| **[GenPark](https://genpark.ai)** | **[Data science intern](https://jobright.ai/jobs/info/696d0fbe5fc86241853c1d0b?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 18 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 U.S Summer Internship Program: Data Scientist Computational Biology Intern](https://jobright.ai/jobs/info/696d050ddb26b61895102c4f?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Remote | Jan 18 |
 | **[S&T Bank](https://www.stbank.com/)** | **[Intern-Data](https://jobright.ai/jobs/info/696ceef7db26b61895102a2e?utm_campaign=1066&utm_source=git)** | Indiana, PA | On Site | Jan 18 |
 | ↳ | **[Intern-Analytics](https://jobright.ai/jobs/info/696ce9a6350cf4380313fc42?utm_campaign=1066&utm_source=git)** | Indiana, PA | On Site | Jan 18 |
@@ -117,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[City of Markham](https://www.markham.ca)** | **[Summer Student - Data & GIS Technician](https://jobright.ai/jobs/info/6968290b1703f05405a9cc24?utm_campaign=1066&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 17 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Data Science Intern](https://jobright.ai/jobs/info/696b7976350cf4380312c960?utm_campaign=1066&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Jan 17 |
 | **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Data Analyst Student](https://jobright.ai/jobs/info/69689a6bf25a380066972213?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 16 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Data Analyst - Learning & Skill Development](https://jobright.ai/jobs/info/696b0341db26b618950e7a80?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 16 |
+| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Data Analyst - Learning & Skill Development](https://jobright.ai/jobs/info/696affea350cf43803123ec7?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 16 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/696afbd6350cf43803123955?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Jan 16 |
 | **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/696b1033db26b618950e89c4?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Jan 16 |
 | **[Enveda](https://enveda.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/696b0eb1350cf438031251b1?utm_campaign=1066&utm_source=git)** | Boulder, CO | Remote | Jan 16 |
@@ -136,7 +135,7 @@ For a complete list, click the following sortable link below:
 | **[First Capital REIT](https://fcr.ca/)** | **[Real Estate Services Data & Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/696b00bc350cf43803123ff0?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 16 |
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Data Science (Summer 2026)](https://jobright.ai/jobs/info/696ae1e55fc86241853a1132?utm_campaign=1066&utm_source=git)** | Toronto, Ontario | Hybrid | Jan 16 |
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Escalations BI and Knowledge](https://jobright.ai/jobs/info/696afd83db26b618950e7282?utm_campaign=1066&utm_source=git)** | CA-ON-Ottawa | Hybrid | Jan 16 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Data Analyst - Learning & Skill Development](https://jobright.ai/jobs/info/696afebb350cf43803123d1b?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Jan 16 |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Data Analyst - Learning & Skill Development](https://jobright.ai/jobs/info/696b0549db26b618950e7cae?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Jan 16 |
 | **[Foley Hoag LLP](http://www.foleyhoag.com)** | **[Data Strategy and Analytics Intern](https://jobright.ai/jobs/info/696b7f8b5fc86241853ad29d?utm_campaign=1066&utm_source=git)** | Boston Office | Hybrid | Jan 16 |
 | **[United Airlines](https://www.united.com)** | **[Intern – Kinective: Data & Analytics (Summer 2026)](https://jobright.ai/jobs/info/696ad1645fc862418539f3e9?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 16 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/696b0927350cf43803124d50?utm_campaign=1066&utm_source=git)** | JUPITER, FL | On Site | Jan 16 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Clinical Information Science Intern](https://jobright.ai/jobs/info/696aabe15fc862418539a7df?utm_campaign=1066&utm_source=git)** | Gaithersburg, MD | On Site | Jan 16 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Research Intern](https://jobright.ai/jobs/info/696adc1e5fc86241853a0a75?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | Jan 16 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Data Science Intern](https://jobright.ai/jobs/info/696aaa5a350cf43803119928?utm_campaign=1066&utm_source=git)** | CAN - Richmond, Canada | Hybrid | Jan 16 |
+| **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Stanford Rebele Data Science Intern, Summer 2026](https://jobright.ai/jobs/info/696aa7365fc8624185399f4f?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
