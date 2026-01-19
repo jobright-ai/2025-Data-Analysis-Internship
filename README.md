@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Transportation Logistics & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/696dc625350cf43803149b46?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Jan 18 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Data Scientist Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI](https://jobright.ai/jobs/info/696d7b1fdb26b61895107505?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 18 |
 | ↳ | **[Decision Science Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI](https://jobright.ai/jobs/info/696d7a9f350cf438031442c1?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 18 |
 | **[Farmers Insurance DDHQ](https://recruitment.farmers.com/district-manager-locator/co/greenwood-village/jared-seyl)** | **[Data Scientist Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI](https://jobright.ai/jobs/info/696d65325fc86241853c44a2?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 18 |
@@ -121,9 +122,8 @@ For a complete list, click the following sortable link below:
 | **[City of Markham](https://www.markham.ca)** | **[Summer Student - Data & GIS Technician](https://jobright.ai/jobs/info/6968290b1703f05405a9cc24?utm_campaign=1066&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 17 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Data Science Intern](https://jobright.ai/jobs/info/696b7976350cf4380312c960?utm_campaign=1066&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Jan 17 |
 | **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Data Analyst Student](https://jobright.ai/jobs/info/69689a6bf25a380066972213?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 16 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Data Analyst - Learning & Skill Development](https://jobright.ai/jobs/info/696b0341db26b618950e7a80?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 16 |
+| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Data Analyst - Learning & Skill Development](https://jobright.ai/jobs/info/696affea350cf43803123ec7?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 16 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/696afbd6350cf43803123955?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Jan 16 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Escalations BI and Knowledge](https://jobright.ai/jobs/info/696dbb175fc86241853c95c0?utm_campaign=1066&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Jan 16 |
 | **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/696b1033db26b618950e89c4?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Jan 16 |
 | **[Enveda](https://enveda.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/696b0eb1350cf438031251b1?utm_campaign=1066&utm_source=git)** | Boulder, CO | Remote | Jan 16 |
 | **[WCF Insurance](https://www.wcf.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/696db1f0350cf438031475d7?utm_campaign=1066&utm_source=git)** | Sandy, UT | On Site | Jan 16 |
@@ -140,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Affinius Capital](https://affiniuscapital.com)** | **[Research Data Scientist Intern](https://jobright.ai/jobs/info/696ae374db26b618950e422a?utm_campaign=1066&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Jan 16 |
 | **[First Capital REIT](https://fcr.ca/)** | **[Real Estate Services Data & Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/696b00bc350cf43803123ff0?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 16 |
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Data Science (Summer 2026)](https://jobright.ai/jobs/info/696ae1e55fc86241853a1132?utm_campaign=1066&utm_source=git)** | Toronto, Ontario | Hybrid | Jan 16 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Escalations BI and Knowledge](https://jobright.ai/jobs/info/696afd83db26b618950e7282?utm_campaign=1066&utm_source=git)** | CA-ON-Ottawa | Hybrid | Jan 16 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Data Analyst - Learning & Skill Development](https://jobright.ai/jobs/info/696b0549db26b618950e7cae?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Jan 16 |
 | **[Foley Hoag LLP](http://www.foleyhoag.com)** | **[Data Strategy and Analytics Intern](https://jobright.ai/jobs/info/696b7f8b5fc86241853ad29d?utm_campaign=1066&utm_source=git)** | Boston Office | Hybrid | Jan 16 |
 | **[United Airlines](https://www.united.com)** | **[Intern – Kinective: Data & Analytics (Summer 2026)](https://jobright.ai/jobs/info/696ad1645fc862418539f3e9?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 16 |
@@ -148,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/696ad0f25fc862418539f302?utm_campaign=1066&utm_source=git)** | McLean, VA | On Site | Jan 16 |
 | **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Stanford Rebele Data Science Intern, Summer 2026](https://jobright.ai/jobs/info/696ae575db26b618950e473f?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 16 |
 | **[Donaldson](http://donaldson.com)** | **[Intern - Modeling & Data Science](https://jobright.ai/jobs/info/696abfc4350cf4380311ccd1?utm_campaign=1066&utm_source=git)** | Bloomington, MN (USA) | On Site | Jan 16 |
-| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern](https://jobright.ai/jobs/info/696abda6350cf4380311c922?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Jan 16 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Power Bi Reporting Long Term Intern](https://jobright.ai/jobs/info/69252c3727bf2f41a2c3cd0f?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 16 |
 | **[CRH](http://crh.com)** | **[Performance Analytics Summer Intern](https://jobright.ai/jobs/info/696aba685fc862418539cc8d?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 16 |
 | **[Magna International](http://www.magna.com/)** | **[Data Science Intern- Summer 2026](https://jobright.ai/jobs/info/696aba4adb26b618950df993?utm_campaign=1066&utm_source=git)** | Troy, MI | On Site | Jan 16 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Austin American-Statesman](http://www.statesman.com/)** | **[Stanford Rebele Data Science Intern, Summer 2026](https://jobright.ai/jobs/info/696ab412350cf4380311ba9d?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Jan 16 |
 | **[Main Line Health](https://www.mainlinehealth.org/locations/bryn-mawr-hospital)** | **[Intern - IT Data Science](https://jobright.ai/jobs/info/696ab401db26b618950df1ab?utm_campaign=1066&utm_source=git)** | Radnor, PA | On Site | Jan 16 |
 | **[Donaldson](http://donaldson.com)** | **[Intern - Modeling & Data Science](https://jobright.ai/jobs/info/696ad015350cf4380311e7b6?utm_campaign=1066&utm_source=git)** | Bloomington, MN | On Site | Jan 16 |
+| **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Intern, Data Intelligence](https://jobright.ai/jobs/info/696aafe55fc862418539b646?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 16 |
+| **[CRH](http://crh.com)** | **[Aggregates Intern](https://jobright.ai/jobs/info/696acbdddb26b618950e180e?utm_campaign=1066&utm_source=git)** | New Britain, CT | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
