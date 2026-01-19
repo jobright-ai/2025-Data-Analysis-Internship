@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Concora Credit](https://about.concoracredit.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/696e873ddb26b61895116509?utm_campaign=1066&utm_source=git)** | US-OR-Beaverton | On Site | Jan 19 |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Data Management](https://jobright.ai/jobs/info/696e6fe35fc86241853d3296?utm_campaign=1066&utm_source=git)** | Oceanside | On Site | Jan 19 |
+| **[CSC](http://www.cscglobal.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/696e65bc5fc86241853d2efb?utm_campaign=1066&utm_source=git)** | 251 Little Falls Dr., Wilmington, DE, 19808, US | Hybrid | Jan 19 |
+| **[Allstate](http://www.allstate.com)** | **[Arity - Data Analyst Intern](https://jobright.ai/jobs/info/696e5c725fc86241853d1363?utm_campaign=1066&utm_source=git)** | USA - IL (Remote) | Remote | Jan 19 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Biology Molecular Lab Applications (DSRIC)](https://jobright.ai/jobs/info/696e51b85fc86241853d0f88?utm_campaign=1066&utm_source=git)** | Santa Clara | Remote | Jan 19 |
 | **[TD](https://www.td.com)** | **[Data Analytics & Insights Intern / Co-Op (SUMMER 2026)](https://jobright.ai/jobs/info/695242ff5bb7de448ef569f3?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 19 |
 | **[Minnesota Department of Health](https://www.health.state.mn.us)** | **[Research Scientist 2, Health Economics](https://jobright.ai/jobs/info/696e34fa5fc86241853d043a?utm_campaign=1066&utm_source=git)** | St Paul, MN | Hybrid | Jan 19 |
@@ -107,23 +111,18 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b8fcf350cf4380312e929?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jan 17 |
 | ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b8f97350cf4380312e8ef?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Researcher Intern](https://jobright.ai/jobs/info/68f99c98cadb2e5a06a66477?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jan 17 |
-| **[IBM](http://www.ibm.com)** | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/693361b6a0dde7020e2ed3ae?utm_campaign=1066&utm_source=git)** | Sandy Springs, GA | On Site | Jan 17 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/696b84595fc86241853aec0c?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Jan 17 |
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b84135fc86241853aebef?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Jan 17 |
-| **[IBM](http://www.ibm.com)** | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/69671c9df7d5ac1d4827e20a?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Jan 17 |
-| **[Amazon](https://amazon.com)** | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696a04591703f05405ac1750?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Jan 17 |
+| ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696a04591703f05405ac1750?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Jan 17 |
 | **[Crane Payment Innovations](http://www.cranepi.com)** | **[Research & Detect Intern](https://jobright.ai/jobs/info/691659846f36db06ef0555c2?utm_campaign=1066&utm_source=git)** | Malvern, PA | On Site | Jan 17 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/696b839adb26b618950f07ec?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jan 17 |
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b8393db26b618950f0792?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jan 17 |
-| **[IBM](http://www.ibm.com)** | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/695200bc29655e4dd65ac9b6?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jan 17 |
-| ↳ | **[2026 Senior Data Scientist Intern - Corporate Development (M&A)](https://jobright.ai/jobs/info/6967f87b1703f05405a99632?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jan 17 |
+| **[IBM](http://www.ibm.com)** | **[2026 Senior Data Scientist Intern - Corporate Development (M&A)](https://jobright.ai/jobs/info/6967f87b1703f05405a99632?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jan 17 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/696b82e1350cf4380312d6a3?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 17 |
-| **[IBM](http://www.ibm.com)** | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/69673567f25a3800669596c1?utm_campaign=1066&utm_source=git)** | Brookhaven, PA | On Site | Jan 17 |
-| **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b82a4350cf4380312d0b0?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Jan 17 |
+| ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b82a4350cf4380312d0b0?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Jan 17 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern (16 months, September 2026)](https://jobright.ai/jobs/info/6967b2e1639b452fb57d4760?utm_campaign=1066&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 17 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b8256350cf4380312ca11?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Jan 17 |
 | **[Genmab](https://www.genmab.com)** | **[Center for Outcomes Research, Real World Evidence and Epidemiology (CORE) Intern](https://jobright.ai/jobs/info/693385f9f131d96e48464105?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Jan 17 |
-| **[IBM](http://www.ibm.com)** | **[Associate Data Scientist Intern 2026](https://jobright.ai/jobs/info/693374a2f131d96e4846388c?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 17 |
 | **[State of Missouri](http://mo.gov)** | **[Intern - 5020501](https://jobright.ai/jobs/info/68c65d397d0db41142738e13?utm_campaign=1066&utm_source=git)** | Rolla, MO | On Site | Jan 17 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/69339c85764507023d1b74b4?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Jan 17 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69676f0e1703f05405a9203d?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jan 17 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/696ad0f25fc862418539f302?utm_campaign=1066&utm_source=git)** | McLean, VA | On Site | Jan 16 |
 | **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Stanford Rebele Data Science Intern, Summer 2026](https://jobright.ai/jobs/info/696ae575db26b618950e473f?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 16 |
 | **[Donaldson](http://donaldson.com)** | **[Intern - Modeling & Data Science](https://jobright.ai/jobs/info/696abfc4350cf4380311ccd1?utm_campaign=1066&utm_source=git)** | Bloomington, MN (USA) | On Site | Jan 16 |
+| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern](https://jobright.ai/jobs/info/696abda6350cf4380311c922?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
