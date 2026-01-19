@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Studios Research & Analytics Intern, Summer 2026](https://jobright.ai/jobs/info/696dee9ddb26b6189510da87?utm_campaign=1066&utm_source=git)** | Burbank, CA, USA | On Site | Jan 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Transportation Logistics & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/696dc625350cf43803149b46?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Jan 18 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Data Scientist Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI](https://jobright.ai/jobs/info/696d7b1fdb26b61895107505?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 18 |
 | ↳ | **[Decision Science Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI](https://jobright.ai/jobs/info/696d7a9f350cf438031442c1?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 18 |
@@ -140,13 +141,14 @@ For a complete list, click the following sortable link below:
 | **[Affinius Capital](https://affiniuscapital.com)** | **[Research Data Scientist Intern](https://jobright.ai/jobs/info/696ae374db26b618950e422a?utm_campaign=1066&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Jan 16 |
 | **[First Capital REIT](https://fcr.ca/)** | **[Real Estate Services Data & Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/696b00bc350cf43803123ff0?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 16 |
 | **[Wealthsimple](https://www.wealthsimple.com)** | **[Intern, Data Science (Summer 2026)](https://jobright.ai/jobs/info/696ae1e55fc86241853a1132?utm_campaign=1066&utm_source=git)** | Toronto, Ontario | Hybrid | Jan 16 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Data Analyst - Learning & Skill Development](https://jobright.ai/jobs/info/696b0549db26b618950e7cae?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Jan 16 |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Data Analyst - Learning & Skill Development](https://jobright.ai/jobs/info/696afebb350cf43803123d1b?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Jan 16 |
 | **[Foley Hoag LLP](http://www.foleyhoag.com)** | **[Data Strategy and Analytics Intern](https://jobright.ai/jobs/info/696b7f8b5fc86241853ad29d?utm_campaign=1066&utm_source=git)** | Boston Office | Hybrid | Jan 16 |
 | **[United Airlines](https://www.united.com)** | **[Intern – Kinective: Data & Analytics (Summer 2026)](https://jobright.ai/jobs/info/696ad1645fc862418539f3e9?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 16 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/696b0927350cf43803124d50?utm_campaign=1066&utm_source=git)** | JUPITER, FL | On Site | Jan 16 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/696ad0f25fc862418539f302?utm_campaign=1066&utm_source=git)** | McLean, VA | On Site | Jan 16 |
 | **[Houston Chronicle](http://www.houstonchronicle.com/)** | **[Stanford Rebele Data Science Intern, Summer 2026](https://jobright.ai/jobs/info/696ae575db26b618950e473f?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 16 |
 | **[Donaldson](http://donaldson.com)** | **[Intern - Modeling & Data Science](https://jobright.ai/jobs/info/696abfc4350cf4380311ccd1?utm_campaign=1066&utm_source=git)** | Bloomington, MN (USA) | On Site | Jan 16 |
+| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern](https://jobright.ai/jobs/info/696abda6350cf4380311c922?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Jan 16 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Power Bi Reporting Long Term Intern](https://jobright.ai/jobs/info/69252c3727bf2f41a2c3cd0f?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 16 |
 | **[CRH](http://crh.com)** | **[Performance Analytics Summer Intern](https://jobright.ai/jobs/info/696aba685fc862418539cc8d?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 16 |
 | **[Magna International](http://www.magna.com/)** | **[Data Science Intern- Summer 2026](https://jobright.ai/jobs/info/696aba4adb26b618950df993?utm_campaign=1066&utm_source=git)** | Troy, MI | On Site | Jan 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Austin American-Statesman](http://www.statesman.com/)** | **[Stanford Rebele Data Science Intern, Summer 2026](https://jobright.ai/jobs/info/696ab412350cf4380311ba9d?utm_campaign=1066&utm_source=git)** | New York, NY, United States | Hybrid | Jan 16 |
 | **[Main Line Health](https://www.mainlinehealth.org/locations/bryn-mawr-hospital)** | **[Intern - IT Data Science](https://jobright.ai/jobs/info/696ab401db26b618950df1ab?utm_campaign=1066&utm_source=git)** | Radnor, PA | On Site | Jan 16 |
 | **[Donaldson](http://donaldson.com)** | **[Intern - Modeling & Data Science](https://jobright.ai/jobs/info/696ad015350cf4380311e7b6?utm_campaign=1066&utm_source=git)** | Bloomington, MN | On Site | Jan 16 |
-| **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Intern, Data Intelligence](https://jobright.ai/jobs/info/696aafe55fc862418539b646?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 16 |
-| **[CRH](http://crh.com)** | **[Aggregates Intern](https://jobright.ai/jobs/info/696acbdddb26b618950e180e?utm_campaign=1066&utm_source=git)** | New Britain, CT | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
