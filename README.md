@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Clinical Development](https://jobright.ai/jobs/info/696f92ee0f4e0f657ea3e267?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Jan 20 |
+| **[We Energies](https://www.we-energies.com)** | **[Intern - Power Generation Data Analyst](https://jobright.ai/jobs/info/6969b7cc639b452fb57fa566?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 20 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/6919185cbcdbf3560c9d41af?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Jan 20 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Data Science](https://jobright.ai/jobs/info/693732f1aabec14a727c4f6c?utm_campaign=1066&utm_source=git)** | Lexington, KY | On Site | Jan 20 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Data Science (Toronto Office)](https://jobright.ai/jobs/info/6959e5b29f1b381eb2728acf?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 20 |
@@ -64,8 +66,11 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Studios Research & Analytics Intern, Summer 2026](https://jobright.ai/jobs/info/696f7b953ed06875134a733f?utm_campaign=1066&utm_source=git)** | Burbank, CA | On Site | Jan 20 |
 | **[Discount Tire](http://www.discounttire.com/dtcs/home.do)** | **[Information Technology Intern - Treadwell/Analytics](https://jobright.ai/jobs/info/69148c829c388539cbdec967?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Jan 20 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Walt Disney World Transportation Logistics & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/696f781b3ed06875134a620b?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 20 |
+| **[AARP](http://www.aarp.org)** | **[Consumer Insights Intern (Graduate Student)](https://jobright.ai/jobs/info/6937be7aaabec14a727cccb8?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Transportation Logistics & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/696f737782817106e97679be?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 20 |
 | **[Haemonetics](http://www.haemonetics.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/696f6c6d3ed06875134a5884?utm_campaign=1066&utm_source=git)** | Boston, MA, US | Hybrid | Jan 20 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69379329a0dde7020e3044f7?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 20 |
+| **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Studios Research & Analytics Intern, Summer 2026](https://jobright.ai/jobs/info/696f88010f4e0f657ea3dbc1?utm_campaign=1066&utm_source=git)** | Burbank, CA | On Site | Jan 20 |
 | **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Business Intelligence/Data Insights Intern](https://jobright.ai/jobs/info/68ccffcbd11b445e0bee5e20?utm_campaign=1066&utm_source=git)** | Jackson, MS | On Site | Jan 20 |
 | ↳ | **[Data Governance Intern](https://jobright.ai/jobs/info/68c57ea07d0db4114273447b?utm_campaign=1066&utm_source=git)** | Jackson, MS | On Site | Jan 20 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Product Development Data Sciences](https://jobright.ai/jobs/info/696f3a2a82817106e9765376?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 20 |
@@ -80,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[GSD&M](http://www.gsdm.com)** | **[Media Analytics Intern](https://jobright.ai/jobs/info/696eb654350cf4380315909f?utm_campaign=1066&utm_source=git)** | Austin | Hybrid | Jan 19 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Biology Molecular Lab Applications (DSRIC)](https://jobright.ai/jobs/info/696eabf1db26b6189511a5d7?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | Remote | Jan 19 |
 | **[Innovative Research Group](https://innovativeresearch.ca)** | **[Intern, Research Analyst (2026)](https://jobright.ai/jobs/info/696ea8d2db26b61895119e7e?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 19 |
-| **[CSC](http://www.cscglobal.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/696ea67edb26b6189511994c?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Jan 19 |
 | **[Arity](http://www.arity.com)** | **[Arity - Data Analyst Intern - Arity](https://jobright.ai/jobs/info/696ea5acdb26b6189511977f?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 19 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern – Client Innovation Center (Entry Level) 2026](https://jobright.ai/jobs/info/696ea318350cf43803156ad5?utm_campaign=1066&utm_source=git)** | Buffalo, NY | On Site | Jan 19 |
 | **[MDA Space](https://mda.space/en/)** | **[Student – Operations Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/696e90e45fc86241853d46e8?utm_campaign=1066&utm_source=git)** | Brampton, Ontario, Canada | On Site | Jan 19 |
@@ -88,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Concora Credit](https://about.concoracredit.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/696e873ddb26b61895116509?utm_campaign=1066&utm_source=git)** | US-OR-Beaverton | On Site | Jan 19 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Data Management](https://jobright.ai/jobs/info/696e6fe35fc86241853d3296?utm_campaign=1066&utm_source=git)** | Oceanside | On Site | Jan 19 |
 | **[Allstate](http://www.allstate.com)** | **[Arity - Data Analyst Intern](https://jobright.ai/jobs/info/696e5c725fc86241853d1363?utm_campaign=1066&utm_source=git)** | USA - IL (Remote) | Remote | Jan 19 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Biology Molecular Lab Applications (DSRIC)](https://jobright.ai/jobs/info/696e51b85fc86241853d0f88?utm_campaign=1066&utm_source=git)** | Santa Clara | Remote | Jan 19 |
 | **[Minnesota Department of Health](https://www.health.state.mn.us)** | **[Research Scientist 2, Health Economics](https://jobright.ai/jobs/info/696e34fa5fc86241853d043a?utm_campaign=1066&utm_source=git)** | St Paul, MN | Hybrid | Jan 19 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (Summer 2026)](https://jobright.ai/jobs/info/68ccf0c9d11b445e0bee4bba?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jan 19 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2026 PhD Quant Research Summer Intern - Miami Area](https://jobright.ai/jobs/info/68cd9382e23def7af55bbf05?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Jan 19 |
@@ -145,8 +148,7 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[2026 Senior Data Scientist Intern - Corporate Development (M&A)](https://jobright.ai/jobs/info/6967f87b1703f05405a99632?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jan 17 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/696b82e1350cf4380312d6a3?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b82a4350cf4380312d0b0?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Jan 17 |
-| **[IBM](http://www.ibm.com)** | **[Data Scientist Intern (16 months, September 2026)](https://jobright.ai/jobs/info/6967b2e1639b452fb57d4760?utm_campaign=1066&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 17 |
-| **[Amazon](https://amazon.com)** | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b8256350cf4380312ca11?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Jan 17 |
+| ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b8256350cf4380312ca11?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Jan 17 |
 | **[Genmab](https://www.genmab.com)** | **[Center for Outcomes Research, Real World Evidence and Epidemiology (CORE) Intern](https://jobright.ai/jobs/info/693385f9f131d96e48464105?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Jan 17 |
 | **[State of Missouri](http://mo.gov)** | **[Intern - 5020501](https://jobright.ai/jobs/info/68c65d397d0db41142738e13?utm_campaign=1066&utm_source=git)** | Rolla, MO | On Site | Jan 17 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/69339c85764507023d1b74b4?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Jan 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/693d0b9649a7695fbd03bc91?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jan 17 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Data Science Intern](https://jobright.ai/jobs/info/696b7976350cf4380312c960?utm_campaign=1066&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Jan 17 |
 | **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Data Analyst Student](https://jobright.ai/jobs/info/69689a6bf25a380066972213?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 16 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Data Analyst - Learning & Skill Development](https://jobright.ai/jobs/info/696b0341db26b618950e7a80?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 16 |
-| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/696afbd6350cf43803123955?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
