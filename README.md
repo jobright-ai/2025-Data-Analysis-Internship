@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nokia](http://www.nokia.com)** | **[Transformation Intern](https://jobright.ai/jobs/info/696fbece3ed06875134ab1c7?utm_campaign=1066&utm_source=git)** | Not in Nokia premises, US Virtual, US | Remote | Jan 20 |
+| **[Definity](https://www.definityfinancial.com/)** | **[Reporting Specialist - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/696fb74c0f4e0f657ea406f1?utm_campaign=1066&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | Jan 20 |
+| **[Haemonetics](http://www.haemonetics.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/696facfe3ed06875134a961e?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Jan 20 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Clinical Development](https://jobright.ai/jobs/info/696f92ee0f4e0f657ea3e267?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Jan 20 |
 | **[We Energies](https://www.we-energies.com)** | **[Intern - Power Generation Data Analyst](https://jobright.ai/jobs/info/6969b7cc639b452fb57fa566?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 20 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/6919185cbcdbf3560c9d41af?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Jan 20 |
@@ -83,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[Shirley Ryan AbilityLab](https://www.sralab.org)** | **[Research Intern - CBM](https://jobright.ai/jobs/info/696ec450350cf4380315af5c?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 19 |
 | ↳ | **[Research Intern - CBM](https://jobright.ai/jobs/info/696eb68c350cf43803159122?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 19 |
 | **[GSD&M](http://www.gsdm.com)** | **[Media Analytics Intern](https://jobright.ai/jobs/info/696eb654350cf4380315909f?utm_campaign=1066&utm_source=git)** | Austin | Hybrid | Jan 19 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Biology Molecular Lab Applications (DSRIC)](https://jobright.ai/jobs/info/696eabf1db26b6189511a5d7?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | Remote | Jan 19 |
 | **[Innovative Research Group](https://innovativeresearch.ca)** | **[Intern, Research Analyst (2026)](https://jobright.ai/jobs/info/696ea8d2db26b61895119e7e?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 19 |
 | **[Arity](http://www.arity.com)** | **[Arity - Data Analyst Intern - Arity](https://jobright.ai/jobs/info/696ea5acdb26b6189511977f?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 19 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern – Client Innovation Center (Entry Level) 2026](https://jobright.ai/jobs/info/696ea318350cf43803156ad5?utm_campaign=1066&utm_source=git)** | Buffalo, NY | On Site | Jan 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69676f0e1703f05405a9203d?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jan 17 |
 | ↳ | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6967fe05639b452fb57d8a59?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jan 17 |
 | ↳ | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/693d0b9649a7695fbd03bc91?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jan 17 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Data Science Intern](https://jobright.ai/jobs/info/696b7976350cf4380312c960?utm_campaign=1066&utm_source=git)** | Richmond, British Columbia, Canada | Hybrid | Jan 17 |
-| **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Data Analyst Student](https://jobright.ai/jobs/info/69689a6bf25a380066972213?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
