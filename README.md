@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Business Intelligence/Data Insights Intern](https://jobright.ai/jobs/info/68ccffcbd11b445e0bee5e20?utm_campaign=1066&utm_source=git)** | Jackson, MS | On Site | Jan 20 |
+| ↳ | **[Data Governance Intern](https://jobright.ai/jobs/info/68c57ea07d0db4114273447b?utm_campaign=1066&utm_source=git)** | Jackson, MS | On Site | Jan 20 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Product Development Data Sciences](https://jobright.ai/jobs/info/696f3a2a82817106e9765376?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 20 |
 | **[Nutrien](https://www.nutrien.com/)** | **[Co-op, Maintenance Analytics Developer](https://jobright.ai/jobs/info/696f0f9d9c3c52633455d676?utm_campaign=1066&utm_source=git)** | Fort Saskatchewan, Alberta, Canada | On Site | Jan 19 |
 | **[Emmes](https://www.emmes.com/)** | **[Biostatistician Intern](https://jobright.ai/jobs/info/696ef48582817106e9761834?utm_campaign=1066&utm_source=git)** | Rockville, MD | Remote | Jan 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/696b02ee350cf438031242d6?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 16 |
 | ↳ | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/696b02cddb26b618950e79dd?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jan 16 |
 | ↳ | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/696afe235fc86241853a45e9?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jan 16 |
-| ↳ | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/696afd315fc86241853a44bd?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Jan 16 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Student Research Assistant - Psychological Sciences](https://jobright.ai/jobs/info/696afcd4350cf43803123a95?utm_campaign=1066&utm_source=git)** | Auburn, AL | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
