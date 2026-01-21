@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/6971130f333b6343a14d8cf4?utm_campaign=1066&utm_source=git)** | Remote, USA | Remote | Jan 21 |
 | **[Converge](https://convergemarketing.com/)** | **[Intern, Data & Analytics](https://jobright.ai/jobs/info/69710a7a51f72647718349e9?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 21 |
-| **[Aedra](Aedra.co)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69710a5e333b6343a14d876f?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 21 |
 | **[PT Indorama Petrochemical](http://www.indoramaventures.com)** | **[Intern - Environmental Data Analyst](https://jobright.ai/jobs/info/6971094c51f726477183457e?utm_campaign=1066&utm_source=git)** | Hilton Head Island, South Carolina Area | On Site | Jan 21 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Immunology Bioinformatics Intern (PhD)](https://jobright.ai/jobs/info/697107ff333b6343a14d85c9?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 21 |
 | **[InfiniteQuant](https://infquant.com)** | **[Quantitative Researcher  - 2026 Summer Internship](https://jobright.ai/jobs/info/6970fee651f7264771832d16?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 21 |
@@ -149,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[Transformation Intern](https://jobright.ai/jobs/info/696fbece3ed06875134ab1c7?utm_campaign=1066&utm_source=git)** | Not in Nokia premises, US Virtual, US | Remote | Jan 20 |
 | **[Definity](https://www.definityfinancial.com/)** | **[Reporting Specialist - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/696fb74c0f4e0f657ea406f1?utm_campaign=1066&utm_source=git)** | Waterloo, ONT, Canada | Hybrid | Jan 20 |
 | **[Haemonetics](http://www.haemonetics.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/696facfe3ed06875134a961e?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Jan 20 |
+| **[Okta for Developers](https://developer.okta.com)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6971152851f7264771835215?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jan 20 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Clinical Development](https://jobright.ai/jobs/info/696f92ee0f4e0f657ea3e267?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Jan 20 |
 | **[We Energies](https://www.we-energies.com)** | **[Intern - Power Generation Data Analyst](https://jobright.ai/jobs/info/6969b7cc639b452fb57fa566?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 20 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/6919185cbcdbf3560c9d41af?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Jan 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Data Science (Toronto Office)](https://jobright.ai/jobs/info/6959e5b29f1b381eb2728acf?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 20 |
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Summer Data Scientist Intern (R14997)](https://jobright.ai/jobs/info/694246c414ee092a69008627?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Jan 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Studios Research & Analytics Intern, Summer 2026](https://jobright.ai/jobs/info/696f7b953ed06875134a733f?utm_campaign=1066&utm_source=git)** | Burbank, CA | On Site | Jan 20 |
-| **[Discount Tire](http://www.discounttire.com/dtcs/home.do)** | **[Information Technology Intern - Treadwell/Analytics](https://jobright.ai/jobs/info/69148c829c388539cbdec967?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
