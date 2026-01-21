@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Indiana Pacers Basketball Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69707ea6333b6343a14d0259?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jan 20 |
+| **[Okta](http://www.okta.com)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69707d56587dfa0bb55e1a1d?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jan 20 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Research Internship, Global Economy and Development (Job ID 2026-3776)](https://jobright.ai/jobs/info/6970713f51f726477182c438?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Research Intern, Incarceration & Inequality Project](https://jobright.ai/jobs/info/69706ed151f726477182c2e3?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 20 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Research Internship, Global Economy and Development (Job ID 2026-3783)](https://jobright.ai/jobs/info/69706d67333b6343a14cfb83?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[GIS Intern (Summer 2026)](https://jobright.ai/jobs/info/696ed1b1db26b6189511f242?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Jan 19 |
 | **[Concora Credit](https://about.concoracredit.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/696ec5c75fc86241853db126?utm_campaign=1066&utm_source=git)** | Beaverton, OR | On Site | Jan 19 |
 | **[Shirley Ryan AbilityLab](https://www.sralab.org)** | **[Research Intern - CBM](https://jobright.ai/jobs/info/696ec450350cf4380315af5c?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 19 |
-| ↳ | **[Research Intern - CBM](https://jobright.ai/jobs/info/696eb68c350cf43803159122?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 19 |
-| **[GSD&M](http://www.gsdm.com)** | **[Media Analytics Intern](https://jobright.ai/jobs/info/696eb654350cf4380315909f?utm_campaign=1066&utm_source=git)** | Austin | Hybrid | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
