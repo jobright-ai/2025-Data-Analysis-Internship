@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[InfiniteQuant](https://infquant.com)** | **[Quantitative Researcher  - 2026 Summer Internship](https://jobright.ai/jobs/info/6970fee651f7264771832d16?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 21 |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6970f8bc587dfa0bb55e7d04?utm_campaign=1066&utm_source=git)** | Arden Hills, MN | On Site | Jan 21 |
+| **[Donaldson](http://donaldson.com)** | **[Intern - Modeling & Data Science](https://jobright.ai/jobs/info/696ad015350cf4380311e7b6?utm_campaign=1066&utm_source=git)** | Bloomington, MN | On Site | Jan 21 |
 | **[CN](http://www.cn.ca)** | **[Intern, Environment- EN](https://jobright.ai/jobs/info/6965532aa112b40266132b74?utm_campaign=1066&utm_source=git)** | Homewood, IL | On Site | Jan 21 |
+| **[SAP](https://www.sap.com)** | **[SAP NS2 Analytics Cloud (SAC) Operations Analyst Internship- Herndon, VA](https://jobright.ai/jobs/info/6971014251f7264771832e78?utm_campaign=1066&utm_source=git)** | Herndon, VA | Hybrid | Jan 21 |
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69547a085bb7de448ef76a8e?utm_campaign=1066&utm_source=git)** | Feasterville-Trevose, PA | On Site | Jan 21 |
 | **[CN](http://www.cn.ca)** | **[Intern, Environment- FR](https://jobright.ai/jobs/info/696558562cbf4e44756ecc8a?utm_campaign=1066&utm_source=git)** | Homewood, IL | On Site | Jan 21 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69386d87aabec14a727d5724?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jan 21 |
@@ -83,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69704f3751f72647718284de?utm_campaign=1066&utm_source=git)** | San Francisco, California | On Site | Jan 20 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/69704ae3587dfa0bb55dd396?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 20 |
 | **[BMO](http://www.bmo.com)** | **[Agile Center of Excellence, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/697049c3587dfa0bb55dd2a5?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 20 |
-| **[CoxHealth](https://www.coxhealth.com/)** | **[Intern - Enterprise Data & Analytics](https://jobright.ai/jobs/info/697048e0333b6343a14cb89e?utm_campaign=1066&utm_source=git)** | Springfield, MO | On Site | Jan 20 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/6970483e333b6343a14cb81d?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 20 |
 | **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Data Science Student](https://jobright.ai/jobs/info/697061bc333b6343a14cedb9?utm_campaign=1066&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 20 |
 | **[Perseus Group, Constellation Software](https://csiperseus.com/)** | **[Data Services Intern](https://jobright.ai/jobs/info/6970426b333b6343a14caa29?utm_campaign=1066&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Jan 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Discount Tire](http://www.discounttire.com/dtcs/home.do)** | **[Information Technology Intern - Treadwell/Analytics](https://jobright.ai/jobs/info/69148c829c388539cbdec967?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Jan 20 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Walt Disney World Transportation Logistics & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/696f781b3ed06875134a620b?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 20 |
 | **[AARP](http://www.aarp.org)** | **[Consumer Insights Intern (Graduate Student)](https://jobright.ai/jobs/info/6937be7aaabec14a727cccb8?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Transportation Logistics & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/696f737782817106e97679be?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 20 |
-| **[Haemonetics](http://www.haemonetics.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/696f6c6d3ed06875134a5884?utm_campaign=1066&utm_source=git)** | Boston, MA, US | Hybrid | Jan 20 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69379329a0dde7020e3044f7?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
