@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CAMRIS](http://camris.com)** | **[Epidemiologist (Graduate Student Intern)](https://jobright.ai/jobs/info/69712ba5333b6343a14d9c7d?utm_campaign=1066&utm_source=git)** | US-CA-San Diego | On Site | Jan 21 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/6971130f333b6343a14d8cf4?utm_campaign=1066&utm_source=git)** | Remote, USA | Remote | Jan 21 |
 | **[Converge](https://convergemarketing.com/)** | **[Intern, Data & Analytics](https://jobright.ai/jobs/info/69710a7a51f72647718349e9?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 21 |
 | **[PT Indorama Petrochemical](http://www.indoramaventures.com)** | **[Intern - Environmental Data Analyst](https://jobright.ai/jobs/info/6971094c51f726477183457e?utm_campaign=1066&utm_source=git)** | Hilton Head Island, South Carolina Area | On Site | Jan 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Data Science](https://jobright.ai/jobs/info/693732f1aabec14a727c4f6c?utm_campaign=1066&utm_source=git)** | Lexington, KY | On Site | Jan 20 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Data Science (Toronto Office)](https://jobright.ai/jobs/info/6959e5b29f1b381eb2728acf?utm_campaign=1066&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 20 |
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Summer Data Scientist Intern (R14997)](https://jobright.ai/jobs/info/694246c414ee092a69008627?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Jan 20 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Studios Research & Analytics Intern, Summer 2026](https://jobright.ai/jobs/info/696f7b953ed06875134a733f?utm_campaign=1066&utm_source=git)** | Burbank, CA | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
