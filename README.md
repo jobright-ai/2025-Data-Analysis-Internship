@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Indiana Pacers Basketball Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/697099ab333b6343a14d2898?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jan 21 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Data & Infrastructure Solutions (DIS) - Data Governance](https://jobright.ai/jobs/info/697091e451f726477182d2e8?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Jan 21 |
-| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Indiana Pacers Basketball Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6970891751f726477182cf80?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jan 21 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Indiana Pacers Basketball Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69707ea6333b6343a14d0259?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jan 20 |
 | **[Okta](http://www.okta.com)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69707d56587dfa0bb55e1a1d?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jan 20 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Research Internship, Global Economy and Development (Job ID 2026-3776)](https://jobright.ai/jobs/info/6970713f51f726477182c438?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
