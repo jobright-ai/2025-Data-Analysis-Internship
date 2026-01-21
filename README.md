@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Summer 2026](https://jobright.ai/jobs/info/69385223b95c305f206d78f0?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jan 21 |
+| **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/695a1f38aa05c26e7ab3b9c8?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Jan 21 |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cc4fb47342c7623ae6265b?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Jan 21 |
+| **[Indiana Fever](https://fever.wnba.com/)** | **[Indiana Pacers Basketball Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6970afb9587dfa0bb55e46b9?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jan 21 |
+| **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68d71fe9894705799a2f0d9b?utm_campaign=1066&utm_source=git)** | Menlo Park, California, United States | On Site | Jan 21 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68cd7827b2a74e1837ed72d1?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jan 21 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Indiana Pacers Basketball Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/697099ab333b6343a14d2898?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jan 21 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Data & Infrastructure Solutions (DIS) - Data Governance](https://jobright.ai/jobs/info/697091e451f726477182d2e8?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Jan 21 |
-| **[Indiana Fever](https://fever.wnba.com/)** | **[Indiana Pacers Basketball Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/69707ea6333b6343a14d0259?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jan 20 |
 | **[Okta](http://www.okta.com)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69707d56587dfa0bb55e1a1d?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jan 20 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Research Internship, Global Economy and Development (Job ID 2026-3776)](https://jobright.ai/jobs/info/6970713f51f726477182c438?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
 | **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Research Intern, Incarceration & Inequality Project](https://jobright.ai/jobs/info/69706ed151f726477182c2e3?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southern Farm Bureau Life Insurance Company](http://www.sfbli.com)** | **[Business Intelligence/Data Insights Intern](https://jobright.ai/jobs/info/68ccffcbd11b445e0bee5e20?utm_campaign=1066&utm_source=git)** | Jackson, MS | On Site | Jan 20 |
 | ↳ | **[Data Governance Intern](https://jobright.ai/jobs/info/68c57ea07d0db4114273447b?utm_campaign=1066&utm_source=git)** | Jackson, MS | On Site | Jan 20 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Product Development Data Sciences](https://jobright.ai/jobs/info/696f3a2a82817106e9765376?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 20 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Co-op, Maintenance Analytics Developer](https://jobright.ai/jobs/info/696f0f9d9c3c52633455d676?utm_campaign=1066&utm_source=git)** | Fort Saskatchewan, Alberta, Canada | On Site | Jan 19 |
-| **[Emmes](https://www.emmes.com/)** | **[Biostatistician Intern](https://jobright.ai/jobs/info/696ef48582817106e9761834?utm_campaign=1066&utm_source=git)** | Rockville, MD | Remote | Jan 19 |
-| **[trophi.ai](https://www.trophi.ai)** | **[Data Science Intern](https://jobright.ai/jobs/info/696edf545fc86241853dd99b?utm_campaign=1066&utm_source=git)** | St. John's, Newfoundland and Labrador, Canada | On Site | Jan 19 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Product Development Data Sciences](https://jobright.ai/jobs/info/696f324d0f4e0f657ea38d51?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
