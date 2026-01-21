@@ -81,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Southwire Company](http://southwire.com)** | **[Spark Intern](https://jobright.ai/jobs/info/69705faa333b6343a14cec7c?utm_campaign=1066&utm_source=git)** | Carrollton, GA | On Site | Jan 20 |
 | **[Methods Machine Tools, Inc.](https://www.methodsmachine.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69705bab51f726477182ab0b?utm_campaign=1066&utm_source=git)** | Sudbury, MA | On Site | Jan 20 |
 | **[Okta](http://www.okta.com)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69704f3751f72647718284de?utm_campaign=1066&utm_source=git)** | San Francisco, California | On Site | Jan 20 |
-| **[Triumph](https://www.tfin.com/)** | **[Associate Data Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/69704b74587dfa0bb55dd41f?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jan 20 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/69704ae3587dfa0bb55dd396?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 20 |
 | **[BMO](http://www.bmo.com)** | **[Agile Center of Excellence, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/697049c3587dfa0bb55dd2a5?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 20 |
 | **[CoxHealth](https://www.coxhealth.com/)** | **[Intern - Enterprise Data & Analytics](https://jobright.ai/jobs/info/697048e0333b6343a14cb89e?utm_campaign=1066&utm_source=git)** | Springfield, MO | On Site | Jan 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Consumer Insights Intern (Graduate Student)](https://jobright.ai/jobs/info/6937be7aaabec14a727cccb8?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Transportation Logistics & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/696f737782817106e97679be?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 20 |
 | **[Haemonetics](http://www.haemonetics.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/696f6c6d3ed06875134a5884?utm_campaign=1066&utm_source=git)** | Boston, MA, US | Hybrid | Jan 20 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69379329a0dde7020e3044f7?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
