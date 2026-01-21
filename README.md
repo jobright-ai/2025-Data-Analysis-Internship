@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Converge](https://convergemarketing.com/)** | **[Intern, Data & Analytics](https://jobright.ai/jobs/info/69710a7a51f72647718349e9?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 21 |
+| **[Aedra](Aedra.co)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/69710a5e333b6343a14d876f?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 21 |
+| **[PT Indorama Petrochemical](http://www.indoramaventures.com)** | **[Intern - Environmental Data Analyst](https://jobright.ai/jobs/info/6971094c51f726477183457e?utm_campaign=1066&utm_source=git)** | Hilton Head Island, South Carolina Area | On Site | Jan 21 |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Immunology Bioinformatics Intern (PhD)](https://jobright.ai/jobs/info/697107ff333b6343a14d85c9?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 21 |
 | **[InfiniteQuant](https://infquant.com)** | **[Quantitative Researcher  - 2026 Summer Internship](https://jobright.ai/jobs/info/6970fee651f7264771832d16?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6970f8bc587dfa0bb55e7d04?utm_campaign=1066&utm_source=git)** | Arden Hills, MN | On Site | Jan 21 |
 | **[Donaldson](http://donaldson.com)** | **[Intern - Modeling & Data Science](https://jobright.ai/jobs/info/696ad015350cf4380311e7b6?utm_campaign=1066&utm_source=git)** | Bloomington, MN | On Site | Jan 21 |
@@ -89,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Agile Center of Excellence, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/697049c3587dfa0bb55dd2a5?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 20 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/6970483e333b6343a14cb81d?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 20 |
 | **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Data Science Student](https://jobright.ai/jobs/info/697061bc333b6343a14cedb9?utm_campaign=1066&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 20 |
-| **[Perseus Group, Constellation Software](https://csiperseus.com/)** | **[Data Services Intern](https://jobright.ai/jobs/info/6970426b333b6343a14caa29?utm_campaign=1066&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Jan 20 |
 | **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[Intern, Research Department](https://jobright.ai/jobs/info/69702804587dfa0bb55daa76?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jan 20 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Internship, Research PhD – Summer 2026](https://jobright.ai/jobs/info/69700b1a82817106e977275d?utm_campaign=1066&utm_source=git)** | Kansas City, MO | Hybrid | Jan 20 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69703f15333b6343a14ca85a?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 20 |
@@ -128,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Data Science Internship MS PhD 2026 - Optimization and Operations Research](https://jobright.ai/jobs/info/696ff5850f4e0f657ea4459e?utm_campaign=1066&utm_source=git)** | Deer Park TX US | Hybrid | Jan 20 |
 | **[Varda Space Industries](http://varda.com)** | **[Finance - Data Structures/ Analytics Internship - Spring 2026](https://jobright.ai/jobs/info/696ff1b40f4e0f657ea43d47?utm_campaign=1066&utm_source=git)** | El Segundo, California, United States | On Site | Jan 20 |
 | **[Viant Technology](http://viantinc.com/)** | **[Business Intelligence Internship - Summer 2026](https://jobright.ai/jobs/info/696ff04e0f4e0f657ea4397c?utm_campaign=1066&utm_source=git)** | Irvine, CA | Hybrid | Jan 20 |
-| **[WineFetch](http://retailer.winefetch.com)** | **[Data Services Intern](https://jobright.ai/jobs/info/696fef063ed06875134adb69?utm_campaign=1066&utm_source=git)** | Markham, Ontario - CAN | Remote | Jan 20 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - CS-CoE (Computational Biology & Single-Cell/Spatial Proteomics)](https://jobright.ai/jobs/info/696fe9070f4e0f657ea4307f?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 20 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Intern](https://jobright.ai/jobs/info/69700f173ed06875134b0d3c?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 20 |
 | **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[CHI - 2026 - Research Analyst Intern](https://jobright.ai/jobs/info/696fe5813ed06875134acf10?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MKS Inc.](https://www.mks.com)** | **[2026 Summer Data Scientist Intern (R14997)](https://jobright.ai/jobs/info/694246c414ee092a69008627?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Jan 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Studios Research & Analytics Intern, Summer 2026](https://jobright.ai/jobs/info/696f7b953ed06875134a733f?utm_campaign=1066&utm_source=git)** | Burbank, CA | On Site | Jan 20 |
 | **[Discount Tire](http://www.discounttire.com/dtcs/home.do)** | **[Information Technology Intern - Treadwell/Analytics](https://jobright.ai/jobs/info/69148c829c388539cbdec967?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Jan 20 |
-| **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Walt Disney World Transportation Logistics & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/696f781b3ed06875134a620b?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 20 |
-| **[AARP](http://www.aarp.org)** | **[Consumer Insights Intern (Graduate Student)](https://jobright.ai/jobs/info/6937be7aaabec14a727cccb8?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
