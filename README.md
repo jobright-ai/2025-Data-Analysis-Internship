@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Research Internship, Global Economy and Development (Job ID 2026-3776)](https://jobright.ai/jobs/info/6970713f51f726477182c438?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Research Intern, Incarceration & Inequality Project](https://jobright.ai/jobs/info/69706ed151f726477182c2e3?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 20 |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Research Internship, Global Economy and Development (Job ID 2026-3783)](https://jobright.ai/jobs/info/69706d67333b6343a14cfb83?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
+| **[Vera Institute of Justice](https://www.vera.org)** | **[Summer 2026 - Research Intern, Beyond Jails](https://jobright.ai/jobs/info/69706ad1333b6343a14cfa6e?utm_campaign=1066&utm_source=git)** | Brooklyn, NY | On Site | Jan 20 |
+| **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Research Internship, Global Economy and Development (Job ID 2026-3782)](https://jobright.ai/jobs/info/69706a05587dfa0bb55e12fe?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
 | **[Southwire Company](http://southwire.com)** | **[Spark Intern](https://jobright.ai/jobs/info/69705faa333b6343a14cec7c?utm_campaign=1066&utm_source=git)** | Carrollton, GA | On Site | Jan 20 |
 | **[Methods Machine Tools, Inc.](https://www.methodsmachine.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69705bab51f726477182ab0b?utm_campaign=1066&utm_source=git)** | Sudbury, MA | On Site | Jan 20 |
 | **[Okta](http://www.okta.com)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69704f3751f72647718284de?utm_campaign=1066&utm_source=git)** | San Francisco, California | On Site | Jan 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shirley Ryan AbilityLab](https://www.sralab.org)** | **[Research Intern - CBM](https://jobright.ai/jobs/info/696ec450350cf4380315af5c?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 19 |
 | ↳ | **[Research Intern - CBM](https://jobright.ai/jobs/info/696eb68c350cf43803159122?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 19 |
 | **[GSD&M](http://www.gsdm.com)** | **[Media Analytics Intern](https://jobright.ai/jobs/info/696eb654350cf4380315909f?utm_campaign=1066&utm_source=git)** | Austin | Hybrid | Jan 19 |
-| **[Innovative Research Group](https://innovativeresearch.ca)** | **[Intern, Research Analyst (2026)](https://jobright.ai/jobs/info/696ea8d2db26b61895119e7e?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 19 |
-| **[IBM](http://www.ibm.com)** | **[Data Scientist Intern – Client Innovation Center (Entry Level) 2026](https://jobright.ai/jobs/info/696ea318350cf43803156ad5?utm_campaign=1066&utm_source=git)** | Buffalo, NY | On Site | Jan 19 |
-| **[MDA Space](https://mda.space/en/)** | **[Student – Operations Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/696e90e45fc86241853d46e8?utm_campaign=1066&utm_source=git)** | Brampton, Ontario, Canada | On Site | Jan 19 |
-| **[City of Markham](https://www.markham.ca)** | **[Summer Student - Data & GIS Technician](https://jobright.ai/jobs/info/6968290b1703f05405a9cc24?utm_campaign=1066&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 19 |
-| **[Concora Credit](https://about.concoracredit.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/696e873ddb26b61895116509?utm_campaign=1066&utm_source=git)** | US-OR-Beaverton | On Site | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
