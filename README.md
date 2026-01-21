@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwire Company](http://southwire.com)** | **[Spark Intern](https://jobright.ai/jobs/info/69705faa333b6343a14cec7c?utm_campaign=1066&utm_source=git)** | Carrollton, GA | On Site | Jan 20 |
+| **[Methods Machine Tools, Inc.](https://www.methodsmachine.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69705bab51f726477182ab0b?utm_campaign=1066&utm_source=git)** | Sudbury, MA | On Site | Jan 20 |
+| **[Okta](http://www.okta.com)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69704f3751f72647718284de?utm_campaign=1066&utm_source=git)** | San Francisco, California | On Site | Jan 20 |
 | **[Triumph](https://www.tfin.com/)** | **[Associate Data Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/69704b74587dfa0bb55dd41f?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jan 20 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/69704ae3587dfa0bb55dd396?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 20 |
 | **[BMO](http://www.bmo.com)** | **[Agile Center of Excellence, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/697049c3587dfa0bb55dd2a5?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 20 |
 | **[CoxHealth](https://www.coxhealth.com/)** | **[Intern - Enterprise Data & Analytics](https://jobright.ai/jobs/info/697048e0333b6343a14cb89e?utm_campaign=1066&utm_source=git)** | Springfield, MO | On Site | Jan 20 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/6970483e333b6343a14cb81d?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 20 |
+| **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Data Science Student](https://jobright.ai/jobs/info/697061bc333b6343a14cedb9?utm_campaign=1066&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 20 |
 | **[Perseus Group, Constellation Software](https://csiperseus.com/)** | **[Data Services Intern](https://jobright.ai/jobs/info/6970426b333b6343a14caa29?utm_campaign=1066&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Jan 20 |
 | **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[Intern, Research Department](https://jobright.ai/jobs/info/69702804587dfa0bb55daa76?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jan 20 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Internship, Research PhD – Summer 2026](https://jobright.ai/jobs/info/69700b1a82817106e977275d?utm_campaign=1066&utm_source=git)** | Kansas City, MO | Hybrid | Jan 20 |
@@ -72,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Empyrean](http://www.goempyrean.com)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/69703aca587dfa0bb55dbd83?utm_campaign=1066&utm_source=git)** | Houston, TX, USA | On Site | Jan 20 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[GIS Analyst Intern](https://jobright.ai/jobs/info/697039b7587dfa0bb55dbc61?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jan 20 |
 | ↳ | **[Real Estate & GIS/Database Intern](https://jobright.ai/jobs/info/697038b651f7264771826963?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jan 20 |
+| **[Peter Millar](http://www.petermillar.com/)** | **[Data Science Internship](https://jobright.ai/jobs/info/6970546451f726477182886c?utm_campaign=1066&utm_source=git)** | Triangle, NC | On Site | Jan 20 |
 | **[Methods Machine Tools, Inc.](https://www.methodsmachine.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69703467587dfa0bb55db73a?utm_campaign=1066&utm_source=git)** | Sudbury,MA,US | On Site | Jan 20 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Tech Ops Analytics (Summer 2026)](https://jobright.ai/jobs/info/697022763ed06875134b20bb?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69702e5b587dfa0bb55db0c0?utm_campaign=1066&utm_source=git)** | Arden Hills, MN - CDS | On Site | Jan 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MDA Space](https://mda.space/en/)** | **[Student – Operations Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/696e90e45fc86241853d46e8?utm_campaign=1066&utm_source=git)** | Brampton, Ontario, Canada | On Site | Jan 19 |
 | **[City of Markham](https://www.markham.ca)** | **[Summer Student - Data & GIS Technician](https://jobright.ai/jobs/info/6968290b1703f05405a9cc24?utm_campaign=1066&utm_source=git)** | Markham, Ontario, Canada | On Site | Jan 19 |
 | **[Concora Credit](https://about.concoracredit.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/696e873ddb26b61895116509?utm_campaign=1066&utm_source=git)** | US-OR-Beaverton | On Site | Jan 19 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Data Management](https://jobright.ai/jobs/info/696e6fe35fc86241853d3296?utm_campaign=1066&utm_source=git)** | Oceanside | On Site | Jan 19 |
-| **[Minnesota Department of Health](https://www.health.state.mn.us)** | **[Research Scientist 2, Health Economics](https://jobright.ai/jobs/info/696e34fa5fc86241853d043a?utm_campaign=1066&utm_source=git)** | St Paul, MN | Hybrid | Jan 19 |
-| **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (Summer 2026)](https://jobright.ai/jobs/info/68ccf0c9d11b445e0bee4bba?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jan 19 |
-| **[Schonfeld](http://www.schonfeld.com/)** | **[2026 PhD Quant Research Summer Intern - Miami Area](https://jobright.ai/jobs/info/68cd9382e23def7af55bbf05?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Jan 19 |
-| **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Data Enablement Intern](https://jobright.ai/jobs/info/691d39bd7481340785ed4ead?utm_campaign=1066&utm_source=git)** | Lenexa, KS | On Site | Jan 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
