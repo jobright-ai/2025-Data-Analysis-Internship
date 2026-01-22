@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Allen Institute](https://alleninstitute.org/)** | **[Bioinformatics Intern – Analysis Tool Development](https://jobright.ai/jobs/info/69719638587dfa0bb55f4697?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jan 21 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Claims Data Bachelor's Intern](https://jobright.ai/jobs/info/6971ab9f333b6343a14e4c14?utm_campaign=1066&utm_source=git)** | California-Oakland-1950 Franklin | Hybrid | Jan 21 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Data Science - AI](https://jobright.ai/jobs/info/6971aaaf51f7264771841c6d?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | Jan 21 |
+| **[Soleno Therapeutics, Inc.](https://soleno.life/)** | **[Summer Intern - Biostatistics](https://jobright.ai/jobs/info/6971aa2d51f72647718416b2?utm_campaign=1066&utm_source=git)** | Redwood City, CA | Hybrid | Jan 21 |
+| **[Allen Institute](https://alleninstitute.org/)** | **[Bioinformatics Intern – Exploration of Alternative Splicing and Clonal Expansion](https://jobright.ai/jobs/info/6971a0c851f726477183f920?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jan 21 |
+| ↳ | **[Bioinformatics Intern – Analysis Tool Development](https://jobright.ai/jobs/info/69719638587dfa0bb55f4697?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jan 21 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Clinical Research Analytics Intern](https://jobright.ai/jobs/info/6971909a587dfa0bb55f412e?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 21 |
 | **[EG4 Electronics](https://www.eg4electronics.com)** | **[Engineering Data Analysis Intern](https://jobright.ai/jobs/info/69718f2a587dfa0bb55f3fad?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Data Support Analyst Intern – Supply Chain- EN](https://jobright.ai/jobs/info/69718b6e587dfa0bb55f3c81?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 21 |
@@ -104,6 +108,7 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Immunology Bioinformatics Intern (PhD)](https://jobright.ai/jobs/info/697107ff333b6343a14d85c9?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 21 |
 | **[InfiniteQuant](https://infquant.com)** | **[Quantitative Researcher  - 2026 Summer Internship](https://jobright.ai/jobs/info/6970fee651f7264771832d16?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6970f8bc587dfa0bb55e7d04?utm_campaign=1066&utm_source=git)** | Arden Hills, MN | On Site | Jan 21 |
+| **[Donaldson](http://donaldson.com)** | **[Intern - Modeling & Data Science](https://jobright.ai/jobs/info/6971a374333b6343a14e3bd4?utm_campaign=1066&utm_source=git)** | Bloomington, MN | On Site | Jan 21 |
 | **[CN](http://www.cn.ca)** | **[Intern, Environment- EN](https://jobright.ai/jobs/info/6965532aa112b40266132b74?utm_campaign=1066&utm_source=git)** | Homewood, IL | On Site | Jan 21 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Analytics Cloud (SAC) Operations Analyst Internship- Herndon, VA](https://jobright.ai/jobs/info/6971014251f7264771832e78?utm_campaign=1066&utm_source=git)** | Herndon, VA | Hybrid | Jan 21 |
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69547a085bb7de448ef76a8e?utm_campaign=1066&utm_source=git)** | Feasterville-Trevose, PA | On Site | Jan 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Roblox](https://corp.roblox.com)** | **[[2026] Data Scientist - PhD Intern (Short Term)](https://jobright.ai/jobs/info/6970159382817106e97730ad?utm_campaign=1066&utm_source=git)** | San Mateo, CA, United States | Hybrid | Jan 20 |
 | **[Sanofi](https://www.sanofi.com)** | **[Biomarker Statistics - Summer 2026 Intern](https://jobright.ai/jobs/info/697014323ed06875134b12ed?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 20 |
 | **[Roblox](https://corp.roblox.com)** | **[[2026] Data Scientist - PhD Intern (Short Term)](https://jobright.ai/jobs/info/6970139f3ed06875134b1277?utm_campaign=1066&utm_source=git)** | San Mateo, CA | Hybrid | Jan 20 |
-| **[Sanofi](https://www.sanofi.com)** | **[Biostatistics Evidence Generation & Decision Sciences (EGDS)- Summer 2026 Intern](https://jobright.ai/jobs/info/6970129182817106e9772ded?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Jan 20 |
-| **[Varda Space Industries](http://varda.com)** | **[Finance - Data Structures/ Analytics Internship - Spring 2026](https://jobright.ai/jobs/info/6970119a0f4e0f657ea46d44?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Jan 20 |
-| **[Sanofi](https://www.sanofi.com)** | **[Biomarker Statistics - Summer 2026 Intern](https://jobright.ai/jobs/info/69700e8582817106e9772a07?utm_campaign=1066&utm_source=git)** | Cambridge, NJ | On Site | Jan 20 |
-| ↳ | **[Statistical Methodology- Summer 2026 Intern](https://jobright.ai/jobs/info/697009ac3ed06875134b07e2?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 20 |
-| **[The Keystone Group](http://www.thekeystonegroup.com)** | **[Summer Analyst](https://jobright.ai/jobs/info/697023603ed06875134b27d0?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
