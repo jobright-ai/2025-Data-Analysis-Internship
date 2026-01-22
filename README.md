@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EG4 Electronics](https://www.eg4electronics.com)** | **[Engineering Data Analysis Intern](https://jobright.ai/jobs/info/69718f2a587dfa0bb55f3fad?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
+| **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Data Support Analyst Intern – Supply Chain- EN](https://jobright.ai/jobs/info/69718b6e587dfa0bb55f3c81?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 21 |
+| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69718a80587dfa0bb55f3ba3?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jan 21 |
+| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Patient Centered-Outcomes Research in Data Sciences and Analytics](https://jobright.ai/jobs/info/69718581587dfa0bb55f3795?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 21 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6971803a587dfa0bb55f32e3?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Bayesian Methods in Geometric Computer Vision](https://jobright.ai/jobs/info/69717fc851f726477183dc67?utm_campaign=1066&utm_source=git)** | United States, Washington, Redmond | On Site | Jan 21 |
 | **[TriNet](http://trinet.com)** | **[Intern, Transformation Analyst](https://jobright.ai/jobs/info/69717f2651f726477183dbc5?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
@@ -81,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Intern - Data Science - AI](https://jobright.ai/jobs/info/69714454333b6343a14dbd02?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Hybrid | Jan 21 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Health Equity Analytics Internship](https://jobright.ai/jobs/info/697142df51f7264771837d08?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69264680d47de4798ecd612a?utm_campaign=1066&utm_source=git)** | Woodbridge, NJ | On Site | Jan 21 |
-| **[Amynta Group](https://www.amyntagroup.com)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/69713edd333b6343a14db090?utm_campaign=1066&utm_source=git)** | NC - Remote | Remote | Jan 21 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Clinical Transformation Analytics Internship](https://jobright.ai/jobs/info/69713d0f51f7264771837248?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Jumio Corporation](http://www.jumio.com)** | **[Data Intern](https://jobright.ai/jobs/info/69713397333b6343a14da52f?utm_campaign=1066&utm_source=git)** | USA (remote) | Remote | Jan 21 |
 | **[Soles4Souls](http://www.soles4souls.org)** | **[Information Technology Intern](https://jobright.ai/jobs/info/69713021587dfa0bb55eb8c4?utm_campaign=1066&utm_source=git)** | West, MI | Remote | Jan 21 |
@@ -89,8 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Gellert Global Group](https://www.gellertglobalgroup.com)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/69712ec5587dfa0bb55eb727?utm_campaign=1066&utm_source=git)** | Elizabeth, NJ | On Site | Jan 21 |
 | **[CAMRIS](http://camris.com)** | **[Epidemiologist (Graduate Student Intern)](https://jobright.ai/jobs/info/69712ba5333b6343a14d9c7d?utm_campaign=1066&utm_source=git)** | US-CA-San Diego | On Site | Jan 21 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Patient Centered-Outcomes Research in Data Sciences and Analytics](https://jobright.ai/jobs/info/697142ea587dfa0bb55ed159?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Jan 21 |
-| **[Amynta Group](https://www.amyntagroup.com)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/69714c02587dfa0bb55ee6c1?utm_campaign=1066&utm_source=git)** | DFW | On Site | Jan 21 |
-| ↳ | **[Technical Analyst Intern](https://jobright.ai/jobs/info/6971482b51f72647718388fb?utm_campaign=1066&utm_source=git)** | NJ - 305 Madison Avenue, Morristown | On Site | Jan 21 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/6971393a587dfa0bb55ec3fc?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Alexander Group](https://www.alexandergroup.com)** | **[Associate Commercial Data Science Intern](https://jobright.ai/jobs/info/6971374d333b6343a14da964?utm_campaign=1066&utm_source=git)** | New York,NY,US | On Site | Jan 21 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Clinical Research Analytics Intern](https://jobright.ai/jobs/info/69713aea51f7264771837165?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Jan 21 |
@@ -101,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Immunology Bioinformatics Intern (PhD)](https://jobright.ai/jobs/info/697107ff333b6343a14d85c9?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 21 |
 | **[InfiniteQuant](https://infquant.com)** | **[Quantitative Researcher  - 2026 Summer Internship](https://jobright.ai/jobs/info/6970fee651f7264771832d16?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6970f8bc587dfa0bb55e7d04?utm_campaign=1066&utm_source=git)** | Arden Hills, MN | On Site | Jan 21 |
-| **[Donaldson](http://donaldson.com)** | **[Intern - Modeling & Data Science](https://jobright.ai/jobs/info/696ad015350cf4380311e7b6?utm_campaign=1066&utm_source=git)** | Bloomington, MN | On Site | Jan 21 |
 | **[CN](http://www.cn.ca)** | **[Intern, Environment- EN](https://jobright.ai/jobs/info/6965532aa112b40266132b74?utm_campaign=1066&utm_source=git)** | Homewood, IL | On Site | Jan 21 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Analytics Cloud (SAC) Operations Analyst Internship- Herndon, VA](https://jobright.ai/jobs/info/6971014251f7264771832e78?utm_campaign=1066&utm_source=git)** | Herndon, VA | Hybrid | Jan 21 |
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69547a085bb7de448ef76a8e?utm_campaign=1066&utm_source=git)** | Feasterville-Trevose, PA | On Site | Jan 21 |
