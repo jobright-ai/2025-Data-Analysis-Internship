@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allen Institute](https://alleninstitute.org/)** | **[Bioinformatics Intern – Analysis Tool Development](https://jobright.ai/jobs/info/69719638587dfa0bb55f4697?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jan 21 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Clinical Research Analytics Intern](https://jobright.ai/jobs/info/6971909a587dfa0bb55f412e?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 21 |
 | **[EG4 Electronics](https://www.eg4electronics.com)** | **[Engineering Data Analysis Intern](https://jobright.ai/jobs/info/69718f2a587dfa0bb55f3fad?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Data Support Analyst Intern – Supply Chain- EN](https://jobright.ai/jobs/info/69718b6e587dfa0bb55f3c81?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 21 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69718a80587dfa0bb55f3ba3?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jan 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sanofi](https://www.sanofi.com)** | **[Biomarker Statistics - Summer 2026 Intern](https://jobright.ai/jobs/info/69700e8582817106e9772a07?utm_campaign=1066&utm_source=git)** | Cambridge, NJ | On Site | Jan 20 |
 | ↳ | **[Statistical Methodology- Summer 2026 Intern](https://jobright.ai/jobs/info/697009ac3ed06875134b07e2?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 20 |
 | **[The Keystone Group](http://www.thekeystonegroup.com)** | **[Summer Analyst](https://jobright.ai/jobs/info/697023603ed06875134b27d0?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
-| **[Acadian Asset Management](https://www.acadian-inc.com/)** | **[Quant Developer Intern - Summer 2026](https://jobright.ai/jobs/info/68f16077f462172a5a7d74a3?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Jan 20 |
-| **[Alera Group, Inc.](http://aleragroup.com)** | **[Intern](https://jobright.ai/jobs/info/697003b13ed06875134b03fe?utm_campaign=1066&utm_source=git)** | Mechanicsburg, PA | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
