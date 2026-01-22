@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RaceTrac](http://www.racetrac.com/)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6971803a587dfa0bb55f32e3?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Bayesian Methods in Geometric Computer Vision](https://jobright.ai/jobs/info/69717fc851f726477183dc67?utm_campaign=1066&utm_source=git)** | United States, Washington, Redmond | On Site | Jan 21 |
+| **[TriNet](http://trinet.com)** | **[Intern, Transformation Analyst](https://jobright.ai/jobs/info/69717f2651f726477183dbc5?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
+| **[Federal Reserve Bank of Philadelphia](http://www.philadelphiafed.org)** | **[Summer Intern, Supervision Regulation & Credit, Credit Lending Research](https://jobright.ai/jobs/info/69717b4a587dfa0bb55f2d68?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
+| **[Syngenta](http://www.syngenta.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69717776333b6343a14e12ae?utm_campaign=1066&utm_source=git)** | Durham, NC | Hybrid | Jan 21 |
+| **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[IT Data & AI Intern](https://jobright.ai/jobs/info/697173a7333b6343a14e10d6?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | Jan 21 |
+| **[Federal Reserve Bank of Philadelphia](http://www.philadelphiafed.org)** | **[Summer Intern, Supervision Regulation & Credit, SES and Stress Testing Data](https://jobright.ai/jobs/info/697172c0333b6343a14e1083?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/696ad0f25fc862418539f302?utm_campaign=1066&utm_source=git)** | McLean, VA | On Site | Jan 21 |
 | **[TriNet](http://trinet.com)** | **[Intern, Transformation Analyst](https://jobright.ai/jobs/info/697168ef587dfa0bb55f0949?utm_campaign=1066&utm_source=git)** | 120 High St, Dunwoody, GA, 30346, US | Hybrid | Jan 21 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Intern, Supervision Regulation & Credit, Credit Lending Research](https://jobright.ai/jobs/info/69716862333b6343a14df11e?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 21 |
@@ -82,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Gellert Global Group](https://www.gellertglobalgroup.com)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/69712ec5587dfa0bb55eb727?utm_campaign=1066&utm_source=git)** | Elizabeth, NJ | On Site | Jan 21 |
 | **[CAMRIS](http://camris.com)** | **[Epidemiologist (Graduate Student Intern)](https://jobright.ai/jobs/info/69712ba5333b6343a14d9c7d?utm_campaign=1066&utm_source=git)** | US-CA-San Diego | On Site | Jan 21 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Patient Centered-Outcomes Research in Data Sciences and Analytics](https://jobright.ai/jobs/info/697142ea587dfa0bb55ed159?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Jan 21 |
-| **[Amynta Group](https://www.amyntagroup.com)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/6971482b51f72647718388fb?utm_campaign=1066&utm_source=git)** | NJ - 305 Madison Avenue, Morristown | On Site | Jan 21 |
-| ↳ | **[Technical Analyst Intern](https://jobright.ai/jobs/info/69714c02587dfa0bb55ee6c1?utm_campaign=1066&utm_source=git)** | DFW | On Site | Jan 21 |
+| **[Amynta Group](https://www.amyntagroup.com)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/69714c02587dfa0bb55ee6c1?utm_campaign=1066&utm_source=git)** | DFW | On Site | Jan 21 |
+| ↳ | **[Technical Analyst Intern](https://jobright.ai/jobs/info/6971482b51f72647718388fb?utm_campaign=1066&utm_source=git)** | NJ - 305 Madison Avenue, Morristown | On Site | Jan 21 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/6971393a587dfa0bb55ec3fc?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Alexander Group](https://www.alexandergroup.com)** | **[Associate Commercial Data Science Intern](https://jobright.ai/jobs/info/6971374d333b6343a14da964?utm_campaign=1066&utm_source=git)** | New York,NY,US | On Site | Jan 21 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Clinical Research Analytics Intern](https://jobright.ai/jobs/info/69713aea51f7264771837165?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Jan 21 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Keystone Group](http://www.thekeystonegroup.com)** | **[Summer Analyst](https://jobright.ai/jobs/info/697023603ed06875134b27d0?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
 | **[Acadian Asset Management](https://www.acadian-inc.com/)** | **[Quant Developer Intern - Summer 2026](https://jobright.ai/jobs/info/68f16077f462172a5a7d74a3?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Jan 20 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Intern](https://jobright.ai/jobs/info/697003b13ed06875134b03fe?utm_campaign=1066&utm_source=git)** | Mechanicsburg, PA | Hybrid | Jan 20 |
-| **[CRH](http://crh.com)** | **[Aggregates Intern](https://jobright.ai/jobs/info/697002470f4e0f657ea45fe5?utm_campaign=1066&utm_source=git)** | New Britain, CT | On Site | Jan 20 |
-| **[Peter Millar](http://www.petermillar.com/)** | **[Data Science Internship](https://jobright.ai/jobs/info/697001520f4e0f657ea45ef0?utm_campaign=1066&utm_source=git)** | Research Triangle Park, NC | On Site | Jan 20 |
-| **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Data Science Internship MS PhD 2026 - Optimization and Operations Research](https://jobright.ai/jobs/info/696ffb0082817106e97711f9?utm_campaign=1066&utm_source=git)** | Wickliffe OH US | Hybrid | Jan 20 |
-| **[Triumph](https://www.tfin.com/)** | **[Associate Data Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/696ff91e0f4e0f657ea44f8f?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jan 20 |
-| **[Velera](https://www.velera.com)** | **[Intern- Insights & Reporting Analyst](https://jobright.ai/jobs/info/696ff8643ed06875134af3fb?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 20 |
-| **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Data Science Internship MS PhD 2026 - Optimization and Operations Research](https://jobright.ai/jobs/info/696ff79c0f4e0f657ea44b43?utm_campaign=1066&utm_source=git)** | Wickliffe, OH | Hybrid | Jan 20 |
-| **[Empyrean](http://www.goempyrean.com)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/696ff7560f4e0f657ea44aaf?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
