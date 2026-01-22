@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Analog Devices](http://www.analog.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/695c842f9a87b95a9397d525?utm_campaign=1066&utm_source=git)** | Wilmington, MA | On Site | Jan 21 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Claims Data Bachelor's Intern](https://jobright.ai/jobs/info/6971ab9f333b6343a14e4c14?utm_campaign=1066&utm_source=git)** | California-Oakland-1950 Franklin | Hybrid | Jan 21 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Data Science - AI](https://jobright.ai/jobs/info/6971aaaf51f7264771841c6d?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | Jan 21 |
 | **[Soleno Therapeutics, Inc.](https://soleno.life/)** | **[Summer Intern - Biostatistics](https://jobright.ai/jobs/info/6971aa2d51f72647718416b2?utm_campaign=1066&utm_source=git)** | Redwood City, CA | Hybrid | Jan 21 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[EG4 Electronics](https://www.eg4electronics.com)** | **[Engineering Data Analysis Intern](https://jobright.ai/jobs/info/69718f2a587dfa0bb55f3fad?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Data Support Analyst Intern – Supply Chain- EN](https://jobright.ai/jobs/info/69718b6e587dfa0bb55f3c81?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 21 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69718a80587dfa0bb55f3ba3?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jan 21 |
-| **[EOSYS](https://eosysgroup.com)** | **[Associate Commercial Data Science Intern](https://jobright.ai/jobs/info/6971b5c3587dfa0bb55f7f85?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 21 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Patient Centered-Outcomes Research in Data Sciences and Analytics](https://jobright.ai/jobs/info/69718581587dfa0bb55f3795?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 21 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6971803a587dfa0bb55f32e3?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Bayesian Methods in Geometric Computer Vision](https://jobright.ai/jobs/info/69717fc851f726477183dc67?utm_campaign=1066&utm_source=git)** | United States, Washington, Redmond | On Site | Jan 21 |
