@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TTX Company](http://www.ttx.com)** | **[Year-Round Data Analytics Intern](https://jobright.ai/jobs/info/697287e29b83b424830e78a3?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Jan 22 |
+| **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Intern, Student (Data Analytics)](https://jobright.ai/jobs/info/697285ce9b83b424830e7669?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jan 22 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69728235584a1c1ef6fd7d99?utm_campaign=1066&utm_source=git)** | St. Louis - Brentwood, Richmond Heights, Clayton, Maplewood & central areas | On Site | Jan 22 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - RBCx, Analytics Intern (4 Months)](https://jobright.ai/jobs/info/697280b7584a1c1ef6fd7c2a?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Jan 22 |
 | **[PHINIA](https://phinia.com)** | **[Manufacturing Data Management & Analysis Intern - Summer Internship](https://jobright.ai/jobs/info/69727cc39b83b424830e6c80?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | Jan 22 |
 | **[Airbnb](https://www.airbnb.com)** | **[Advanced Analytics Intern](https://jobright.ai/jobs/info/69727caf9b83b424830e6c6b?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 22 |
 | **[USG](https://www.usg.com/)** | **[Sourcing Analytical Intern](https://jobright.ai/jobs/info/69727b12584a1c1ef6fd75af?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 22 |
@@ -64,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[USG](https://www.usg.com/)** | **[Sourcing Analytical Intern](https://jobright.ai/jobs/info/697278e94ccbf64f8df26a99?utm_campaign=1066&utm_source=git)** | 550 W. Adams Street, Chicago, United States, 60661, US | Hybrid | Jan 22 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Data Analytics Intern - Summer 2026 - School Year 2026-27](https://jobright.ai/jobs/info/697277c9584a1c1ef6fd720d?utm_campaign=1066&utm_source=git)** | West Des Moines, IA | On Site | Jan 22 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/697277464ccbf64f8df268aa?utm_campaign=1066&utm_source=git)** | St. Louis - Brentwood, Richmond Heights, Clayton, Maplewood & central areas | On Site | Jan 22 |
+| **[NRG Energy](http://www.nrg.com/)** | **[Home Texas Energy & Digital Management Intern](https://jobright.ai/jobs/info/69728ccb4ccbf64f8df27f98?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jan 22 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Data Scientist Intern - Summer 2026 (Windsor, ON)](https://jobright.ai/jobs/info/697269754ccbf64f8df26138?utm_campaign=1066&utm_source=git)** | Windsor, ON | On Site | Jan 22 |
 | **[Flatiron School](http://flatironschool.com)** | **[Data Scientist Trainee (Earn & Learn Apprenticeship)](https://jobright.ai/jobs/info/69724cbf9b83b424830e36ff?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 22 |
 | **[TTX Company](http://www.ttx.com)** | **[Year-Round Data Analytics Intern](https://jobright.ai/jobs/info/697264f6584a1c1ef6fd67c8?utm_campaign=1066&utm_source=git)** | 2151 Hawkins St, Charlotte, NC, 28203, US | On Site | Jan 22 |
@@ -102,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Allen Institute](https://alleninstitute.org/)** | **[Bioinformatics Intern – Exploration of Alternative Splicing and Clonal Expansion](https://jobright.ai/jobs/info/6971a0c851f726477183f920?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jan 21 |
 | ↳ | **[Bioinformatics Intern – Analysis Tool Development](https://jobright.ai/jobs/info/69719638587dfa0bb55f4697?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jan 21 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Clinical Research Analytics Intern](https://jobright.ai/jobs/info/6971909a587dfa0bb55f412e?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 21 |
-| **[EG4 Electronics](https://www.eg4electronics.com)** | **[Engineering Data Analysis Intern](https://jobright.ai/jobs/info/69718f2a587dfa0bb55f3fad?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Data Support Analyst Intern – Supply Chain- EN](https://jobright.ai/jobs/info/69718b6e587dfa0bb55f3c81?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 21 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69718a80587dfa0bb55f3ba3?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jan 21 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Patient Centered-Outcomes Research in Data Sciences and Analytics](https://jobright.ai/jobs/info/69718581587dfa0bb55f3795?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cc4fb47342c7623ae6265b?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Jan 21 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Indiana Pacers Basketball Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6970afb9587dfa0bb55e46b9?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jan 21 |
 | **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68d71fe9894705799a2f0d9b?utm_campaign=1066&utm_source=git)** | Menlo Park, California, United States | On Site | Jan 21 |
-| **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Kansas City - Research Intern](https://jobright.ai/jobs/info/691bd26422a2cb4b9bd16785?utm_campaign=1066&utm_source=git)** | Kansas City, MO | Hybrid | Jan 21 |
-| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68cd7827b2a74e1837ed72d1?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jan 21 |
-| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Indiana Pacers Basketball Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/697099ab333b6343a14d2898?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jan 21 |
-| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Data & Infrastructure Solutions (DIS) - Data Governance](https://jobright.ai/jobs/info/697091e451f726477182d2e8?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
