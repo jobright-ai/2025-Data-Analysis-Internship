@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Smart Manufacturing and AI Data Science](https://jobright.ai/jobs/info/6971652b587dfa0bb55f05e6?utm_campaign=1066&utm_source=git)** | Boise, ID - Main Site | On Site | Jan 21 |
+| **[TriNet](http://trinet.com)** | **[Intern, Transformation Analyst](https://jobright.ai/jobs/info/69716483333b6343a14ded5b?utm_campaign=1066&utm_source=git)** | 120 High St, Dunwoody, GA, 30346, US | Hybrid | Jan 21 |
+| **[Reworld Waste](https://www.reworldwaste.com)** | **[Summer Intern - Information Technology](https://jobright.ai/jobs/info/6971624c51f726477183ad24?utm_campaign=1066&utm_source=git)** | Florham Park, NJ | On Site | Jan 21 |
+| **[Jumio Corporation](http://www.jumio.com)** | **[Data Intern](https://jobright.ai/jobs/info/697158ca587dfa0bb55ef9c4?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 21 |
+| **[Connors Group](http://www.connorsllc.com/)** | **[Intern Analyst/Co-Op - Fall 2026](https://jobright.ai/jobs/info/697158c651f726477183a4cf?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 21 |
+| **[Arrive Logistics](http://www.arrivelogistics.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6971574a333b6343a14de122?utm_campaign=1066&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Jan 21 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Intern, Supervision Regulation & Credit, SES and Stress Testing Data](https://jobright.ai/jobs/info/697156f1333b6343a14de0b6?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
 | **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Biostatistics and Programming](https://jobright.ai/jobs/info/697154e0587dfa0bb55ef526?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 21 |
 | **[Arrive Logistics](http://www.arrivelogistics.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6971507651f7264771839bc8?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
 | **[Tri-State Generation and Transmission Association, Inc.](http://www.tristategt.org)** | **[IT Integration and Analytics Intern](https://jobright.ai/jobs/info/6971470a587dfa0bb55eda84?utm_campaign=1066&utm_source=git)** | Westminster, CO | On Site | Jan 21 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Empyrean](http://www.goempyrean.com)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/696ff7560f4e0f657ea44aaf?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jan 20 |
 | **[GoMaterials](https://www.gomaterials.com/)** | **[Data Quality Intern - Summer 2026](https://jobright.ai/jobs/info/696ff5ea0f4e0f657ea446bf?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | Jan 20 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Data Science Internship MS PhD 2026 - Optimization and Operations Research](https://jobright.ai/jobs/info/696ff5850f4e0f657ea4459e?utm_campaign=1066&utm_source=git)** | Deer Park TX US | Hybrid | Jan 20 |
-| **[Varda Space Industries](http://varda.com)** | **[Finance - Data Structures/ Analytics Internship - Spring 2026](https://jobright.ai/jobs/info/696ff1b40f4e0f657ea43d47?utm_campaign=1066&utm_source=git)** | El Segundo, California, United States | On Site | Jan 20 |
-| **[Viant Technology](http://viantinc.com/)** | **[Business Intelligence Internship - Summer 2026](https://jobright.ai/jobs/info/696ff04e0f4e0f657ea4397c?utm_campaign=1066&utm_source=git)** | Irvine, CA | Hybrid | Jan 20 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - CS-CoE (Computational Biology & Single-Cell/Spatial Proteomics)](https://jobright.ai/jobs/info/696fe9070f4e0f657ea4307f?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 20 |
-| **[Alera Group, Inc.](http://aleragroup.com)** | **[Intern](https://jobright.ai/jobs/info/69700f173ed06875134b0d3c?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 20 |
-| **[IMC Trading](https://www.imc.com/us/imc-investments/)** | **[CHI - 2026 - Research Analyst Intern](https://jobright.ai/jobs/info/696fe5813ed06875134acf10?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
-| **[Definity](https://www.definityfinancial.com/)** | **[Reporting Specialist - Summer 2026 Co-op/Intern](https://jobright.ai/jobs/info/696fe57e82817106e976eaab?utm_campaign=1066&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | Jan 20 |
-| **[CAMRIS](http://camris.com)** | **[Epidemiologist (Student Intern)](https://jobright.ai/jobs/info/696fe3df3ed06875134acd03?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
