@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Forward Bank](https://www.forward.bank/)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/697295979b83b424830e8c5d?utm_campaign=1066&utm_source=git)** | Marshfield, Marshfield, WI, US | On Site | Jan 22 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/697277464ccbf64f8df268aa?utm_campaign=1066&utm_source=git)** | St. Louis - Brentwood, Richmond Heights, Clayton, Maplewood & central areas | On Site | Jan 22 |
+| **[Airbnb](https://www.airbnb.com)** | **[Advanced Analytics Intern](https://jobright.ai/jobs/info/697290864ccbf64f8df284ca?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 22 |
 | **[TTX Company](http://www.ttx.com)** | **[Year-Round Data Analytics Intern](https://jobright.ai/jobs/info/697287e29b83b424830e78a3?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Jan 22 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Intern, Student (Data Analytics)](https://jobright.ai/jobs/info/697285ce9b83b424830e7669?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jan 22 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69728235584a1c1ef6fd7d99?utm_campaign=1066&utm_source=git)** | St. Louis - Brentwood, Richmond Heights, Clayton, Maplewood & central areas | On Site | Jan 22 |
@@ -67,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Kearny Bank](http://kearnybank.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/697279f0584a1c1ef6fd7461?utm_campaign=1066&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
 | **[USG](https://www.usg.com/)** | **[Sourcing Analytical Intern](https://jobright.ai/jobs/info/697278e94ccbf64f8df26a99?utm_campaign=1066&utm_source=git)** | 550 W. Adams Street, Chicago, United States, 60661, US | Hybrid | Jan 22 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Data Analytics Intern - Summer 2026 - School Year 2026-27](https://jobright.ai/jobs/info/697277c9584a1c1ef6fd720d?utm_campaign=1066&utm_source=git)** | West Des Moines, IA | On Site | Jan 22 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/697277464ccbf64f8df268aa?utm_campaign=1066&utm_source=git)** | St. Louis - Brentwood, Richmond Heights, Clayton, Maplewood & central areas | On Site | Jan 22 |
 | **[NRG Energy](http://www.nrg.com/)** | **[Home Texas Energy & Digital Management Intern](https://jobright.ai/jobs/info/69728ccb4ccbf64f8df27f98?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jan 22 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Data Scientist Intern - Summer 2026 (Windsor, ON)](https://jobright.ai/jobs/info/697269754ccbf64f8df26138?utm_campaign=1066&utm_source=git)** | Windsor, ON | On Site | Jan 22 |
 | **[Flatiron School](http://flatironschool.com)** | **[Data Scientist Trainee (Earn & Learn Apprenticeship)](https://jobright.ai/jobs/info/69724cbf9b83b424830e36ff?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Summer 2026](https://jobright.ai/jobs/info/69385223b95c305f206d78f0?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jan 21 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/695a1f38aa05c26e7ab3b9c8?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Jan 21 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cc4fb47342c7623ae6265b?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Jan 21 |
-| **[Indiana Fever](https://fever.wnba.com/)** | **[Indiana Pacers Basketball Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6970afb9587dfa0bb55e46b9?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jan 21 |
-| **[Moloco](http://www.moloco.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/68d71fe9894705799a2f0d9b?utm_campaign=1066&utm_source=git)** | Menlo Park, California, United States | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
