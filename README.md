@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6971e0a347b64f4e963e146f?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
+| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6971d653cda45e69535809bc?utm_campaign=1066&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 21 |
+| **[Camelot Strategic Marketing & Media](http://camelotsmm.com)** | **[Data & Analytics Summer Intern](https://jobright.ai/jobs/info/6971d47cb707bf728a4b6048?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
 | **[Analog Devices](http://www.analog.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/695c842f9a87b95a9397d525?utm_campaign=1066&utm_source=git)** | Wilmington, MA | On Site | Jan 21 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Claims Data Bachelor's Intern](https://jobright.ai/jobs/info/6971ab9f333b6343a14e4c14?utm_campaign=1066&utm_source=git)** | California-Oakland-1950 Franklin | Hybrid | Jan 21 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Intern - Data Science - AI](https://jobright.ai/jobs/info/6971aaaf51f7264771841c6d?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | Jan 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Veradigm®](https://veradigm.com)** | **[RWE/HEOR Researcher Intern](https://jobright.ai/jobs/info/697021880f4e0f657ea47b71?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 20 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Data Science & Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69701b513ed06875134b1789?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jan 20 |
 | **[ADM](http://www.adm.com)** | **[Bioinformatics/Computational Biologist Internship - Eugene, Oregon](https://jobright.ai/jobs/info/69703f2e333b6343a14ca878?utm_campaign=1066&utm_source=git)** | KY - Kentucky | On Site | Jan 20 |
-| **[Roblox](https://corp.roblox.com)** | **[[2026] Data Scientist - PhD Intern (Short Term)](https://jobright.ai/jobs/info/6970159382817106e97730ad?utm_campaign=1066&utm_source=git)** | San Mateo, CA, United States | Hybrid | Jan 20 |
-| **[Sanofi](https://www.sanofi.com)** | **[Biomarker Statistics - Summer 2026 Intern](https://jobright.ai/jobs/info/697014323ed06875134b12ed?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 20 |
-| **[Roblox](https://corp.roblox.com)** | **[[2026] Data Scientist - PhD Intern (Short Term)](https://jobright.ai/jobs/info/6970139f3ed06875134b1277?utm_campaign=1066&utm_source=git)** | San Mateo, CA | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
