@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[TTX Company](http://www.ttx.com)** | **[Year-Round Data Governance Intern](https://jobright.ai/jobs/info/697262ee584a1c1ef6fd665d?utm_campaign=1066&utm_source=git)** | 2151 Hawkins St, Charlotte, NC, 28203, US | On Site | Jan 22 |
+| **[Quicken Loans](http://www.quickenloans.com/)** | **[Data Scientist Intern - Summer 2026 (Windsor, ON)](https://jobright.ai/jobs/info/697269754ccbf64f8df26138?utm_campaign=1066&utm_source=git)** | Windsor, ON | On Site | Jan 22 |
+| **[Flatiron School](http://flatironschool.com)** | **[Data Scientist Trainee (Earn & Learn Apprenticeship)](https://jobright.ai/jobs/info/69724cbf9b83b424830e36ff?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 22 |
+| **[TTX Company](http://www.ttx.com)** | **[Year-Round Data Analytics Intern](https://jobright.ai/jobs/info/697264f6584a1c1ef6fd67c8?utm_campaign=1066&utm_source=git)** | 2151 Hawkins St, Charlotte, NC, 28203, US | On Site | Jan 22 |
+| ↳ | **[Year-Round Data Governance Intern](https://jobright.ai/jobs/info/697262ee584a1c1ef6fd665d?utm_campaign=1066&utm_source=git)** | 2151 Hawkins St, Charlotte, NC, 28203, US | On Site | Jan 22 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Intern, Student (Data Analytics)](https://jobright.ai/jobs/info/69725c669b83b424830e556b?utm_campaign=1066&utm_source=git)** | 875 Greentree Rd, Pittsburgh, PA, 15220, US | On Site | Jan 22 |
 | **[PHINIA](https://phinia.com)** | **[Manufacturing Data Management & Analysis Intern - Summer Internship](https://jobright.ai/jobs/info/697258e64ccbf64f8df24980?utm_campaign=1066&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA | On Site | Jan 22 |
 | **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/697251a94ccbf64f8df23b76?utm_campaign=1066&utm_source=git)** | Green Bay, WI | On Site | Jan 22 |
 | **[BASF](https://www.basf.com/)** | **[2026 Summer Internship - Data Science/Computer Engineering - Geismar, LA](https://jobright.ai/jobs/info/69407b1449a7695fbd05fb48?utm_campaign=1066&utm_source=git)** | Geismar, LA | On Site | Jan 22 |
 | **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69724fa79b83b424830e3849?utm_campaign=1066&utm_source=git)** | Remote - USA | Remote | Jan 22 |
-| **[Flatiron School](http://flatironschool.com)** | **[Data Scientist Trainee (Earn & Learn Apprenticeship)](https://jobright.ai/jobs/info/69724cbf9b83b424830e36ff?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 22 |
+| **[BioSpace](http://www.biospace.com/)** | **[R&D Protein Footprinting Data Analysis Grad Intern](https://jobright.ai/jobs/info/697266c29b83b424830e5c79?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 22 |
 | **[Connors Group](http://www.connorsllc.com/)** | **[Intern Analyst/Co-Op - Fall 2026](https://jobright.ai/jobs/info/6972402a9b83b424830e2e3b?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 22 |
 | **[I.R.E](https://www.linkedin.com/company/101450002)** | **[Perations Research Science Internship](https://jobright.ai/jobs/info/69723bad4ccbf64f8df22da5?utm_campaign=1066&utm_source=git)** | California, California, United States | Remote | Jan 22 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/6970f6b451f726477183282c?utm_campaign=1066&utm_source=git)** | Savannah, GA | On Site | Jan 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Summer 2026, Research Internship, Global Economy and Development (Job ID 2026-3782)](https://jobright.ai/jobs/info/69706a05587dfa0bb55e12fe?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jan 20 |
 | **[CoComply AI](https://www.cocomply.ai/)** | **[Data & AI Governance Intern (Governance & Certification Focus)](https://jobright.ai/jobs/info/6970ceb6587dfa0bb55e6547?utm_campaign=1066&utm_source=git)** | St George, UT | Remote | Jan 20 |
 | **[Southwire Company](http://southwire.com)** | **[Spark Intern](https://jobright.ai/jobs/info/69705faa333b6343a14cec7c?utm_campaign=1066&utm_source=git)** | Carrollton, GA | On Site | Jan 20 |
-| **[Methods Machine Tools, Inc.](https://www.methodsmachine.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69705bab51f726477182ab0b?utm_campaign=1066&utm_source=git)** | Sudbury, MA | On Site | Jan 20 |
-| **[Okta](http://www.okta.com)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69704f3751f72647718284de?utm_campaign=1066&utm_source=git)** | San Francisco, California | On Site | Jan 20 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/69704ae3587dfa0bb55dd396?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
