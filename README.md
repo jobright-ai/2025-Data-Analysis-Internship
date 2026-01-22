@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[APL Logistics](http://www.apllogistics.com/)** | **[Apprentice/Intern, Data Science & BI (WMS) -  (1st Shift) - Scottsdale](https://jobright.ai/jobs/info/6971eca3b707bf728a4b86c3?utm_campaign=1066&utm_source=git)** | 14350 North 87th Street, Suite 350, Scottsdale, AZ, 85260, US | Hybrid | Jan 22 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6971e0a347b64f4e963e146f?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6971d653cda45e69535809bc?utm_campaign=1066&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 21 |
 | **[Camelot Strategic Marketing & Media](http://camelotsmm.com)** | **[Data & Analytics Summer Intern](https://jobright.ai/jobs/info/6971d47cb707bf728a4b6048?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jan 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok UG-Mid Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6970231a3ed06875134b22b4?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jan 20 |
 | **[Veradigm®](https://veradigm.com)** | **[RWE/HEOR Researcher Intern](https://jobright.ai/jobs/info/697021880f4e0f657ea47b71?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 20 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Data Science & Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69701b513ed06875134b1789?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jan 20 |
-| **[ADM](http://www.adm.com)** | **[Bioinformatics/Computational Biologist Internship - Eugene, Oregon](https://jobright.ai/jobs/info/69703f2e333b6343a14ca878?utm_campaign=1066&utm_source=git)** | KY - Kentucky | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
