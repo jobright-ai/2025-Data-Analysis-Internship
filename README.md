@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connors Group](http://www.connorsllc.com/)** | **[Intern Analyst/Co-Op - Fall 2026](https://jobright.ai/jobs/info/6972402a9b83b424830e2e3b?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 22 |
+| **[I.R.E](https://www.linkedin.com/company/101450002)** | **[Perations Research Science Internship](https://jobright.ai/jobs/info/69723bad4ccbf64f8df22da5?utm_campaign=1066&utm_source=git)** | California, California, United States | Remote | Jan 22 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/6970f6b451f726477183282c?utm_campaign=1066&utm_source=git)** | Savannah, GA | On Site | Jan 22 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Smart Manufacturing and AI Data Science](https://jobright.ai/jobs/info/697228ee47b64f4e963e6ffc?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Jan 22 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Bayesian Methods in Geometric Computer Vision](https://jobright.ai/jobs/info/6972258447b64f4e963e6e00?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Jan 22 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Quantitative Insights Lab Intern (PhD)](https://jobright.ai/jobs/info/68c9545495f5211cd2cefa9c?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Jan 22 |
 | **[S&P Global](https://www.spglobal.com)** | **[Research Analyst Intern - Fuels, Chemicals & Resource Solutions (Early Career)](https://jobright.ai/jobs/info/69549288f1f8465b79ebc13b?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jan 22 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Data Analyst Intern (Hybrid) – (Summer 2026 Internship)](https://jobright.ai/jobs/info/691ce413ff7024498416b6c5?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 22 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/691debe5748c4e1301eca388?utm_campaign=1066&utm_source=git)** | Atlanta Metro | Hybrid | Jan 22 |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/68e53821b99ec3563b0f18b3?utm_campaign=1066&utm_source=git)** | Florham Park, NJ | On Site | Jan 22 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Data Science Intern Summer 2026](https://jobright.ai/jobs/info/6924049238cd5478a8d589ed?utm_campaign=1066&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 22 |
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/691ce5a622a2cb4b9bd1e63a?utm_campaign=1066&utm_source=git)** | Dayton, OH | On Site | Jan 22 |
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/691cf45e22a2cb4b9bd1f199?utm_campaign=1066&utm_source=git)** | Westminster, CO | On Site | Jan 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/6970483e333b6343a14cb81d?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 20 |
 | **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Data Science Student](https://jobright.ai/jobs/info/697061bc333b6343a14cedb9?utm_campaign=1066&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 20 |
 | **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[Intern, Research Department](https://jobright.ai/jobs/info/69702804587dfa0bb55daa76?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jan 20 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Internship, Research PhD – Summer 2026](https://jobright.ai/jobs/info/69700b1a82817106e977275d?utm_campaign=1066&utm_source=git)** | Kansas City, MO | Hybrid | Jan 20 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/69703f15333b6343a14ca85a?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 20 |
-| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Data and Analytics Internship](https://jobright.ai/jobs/info/69703d8c333b6343a14ca6ca?utm_campaign=1066&utm_source=git)** | Dublin, OH | On Site | Jan 20 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69703c62587dfa0bb55dbf36?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
