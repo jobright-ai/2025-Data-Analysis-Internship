@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Smart Manufacturing and AI Data Science](https://jobright.ai/jobs/info/697228ee47b64f4e963e6ffc?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Jan 22 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Bayesian Methods in Geometric Computer Vision](https://jobright.ai/jobs/info/6972258447b64f4e963e6e00?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Jan 22 |
+| **[AbbVie](https://www.abbvie.com)** | **[2026 Quantitative Insights Lab Intern (PhD)](https://jobright.ai/jobs/info/68c9545495f5211cd2cefa9c?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Jan 22 |
+| **[S&P Global](https://www.spglobal.com)** | **[Research Analyst Intern - Fuels, Chemicals & Resource Solutions (Early Career)](https://jobright.ai/jobs/info/69549288f1f8465b79ebc13b?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jan 22 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Data Science Intern Summer 2026](https://jobright.ai/jobs/info/6924049238cd5478a8d589ed?utm_campaign=1066&utm_source=git)** | Cranberry Township, PA | Hybrid | Jan 22 |
-| **[Trimble Inc.](https://www.trimble.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/691cf45e22a2cb4b9bd1f199?utm_campaign=1066&utm_source=git)** | Westminster, CO | On Site | Jan 22 |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/691ce5a622a2cb4b9bd1e63a?utm_campaign=1066&utm_source=git)** | Dayton, OH | On Site | Jan 22 |
+| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/691cf45e22a2cb4b9bd1f199?utm_campaign=1066&utm_source=git)** | Westminster, CO | On Site | Jan 22 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cc229b128dc347fd91f9d2?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jan 22 |
 | ↳ | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cd3993b2a74e1837ed4102?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jan 22 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Digital Transformation & Risk Analyst Intern](https://jobright.ai/jobs/info/69688a3ef25a3800669706f3?utm_campaign=1066&utm_source=git)** | Waterford, WI | On Site | Jan 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cardinal Health](https://www.cardinalhealth.com)** | **[Data and Analytics Internship](https://jobright.ai/jobs/info/69703d8c333b6343a14ca6ca?utm_campaign=1066&utm_source=git)** | Dublin, OH | On Site | Jan 20 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69703c62587dfa0bb55dbf36?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 20 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69703b89333b6343a14ca4aa?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jan 20 |
-| **[Empyrean](http://www.goempyrean.com)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/69703aca587dfa0bb55dbd83?utm_campaign=1066&utm_source=git)** | Houston, TX, USA | On Site | Jan 20 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[GIS Analyst Intern](https://jobright.ai/jobs/info/697039b7587dfa0bb55dbc61?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jan 20 |
-| ↳ | **[Real Estate & GIS/Database Intern](https://jobright.ai/jobs/info/697038b651f7264771826963?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jan 20 |
-| **[Peter Millar](http://www.petermillar.com/)** | **[Data Science Internship](https://jobright.ai/jobs/info/6970546451f726477182886c?utm_campaign=1066&utm_source=git)** | Triangle, NC | On Site | Jan 20 |
-| **[Methods Machine Tools, Inc.](https://www.methodsmachine.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69703467587dfa0bb55db73a?utm_campaign=1066&utm_source=git)** | Sudbury,MA,US | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
