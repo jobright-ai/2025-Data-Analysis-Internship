@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/696ad0f25fc862418539f302?utm_campaign=1066&utm_source=git)** | McLean, VA | On Site | Jan 21 |
+| **[TriNet](http://trinet.com)** | **[Intern, Transformation Analyst](https://jobright.ai/jobs/info/697168ef587dfa0bb55f0949?utm_campaign=1066&utm_source=git)** | 120 High St, Dunwoody, GA, 30346, US | Hybrid | Jan 21 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Intern, Supervision Regulation & Credit, Credit Lending Research](https://jobright.ai/jobs/info/69716862333b6343a14df11e?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 21 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Smart Manufacturing and AI Data Science](https://jobright.ai/jobs/info/6971652b587dfa0bb55f05e6?utm_campaign=1066&utm_source=git)** | Boise, ID - Main Site | On Site | Jan 21 |
 | **[TriNet](http://trinet.com)** | **[Intern, Transformation Analyst](https://jobright.ai/jobs/info/69716483333b6343a14ded5b?utm_campaign=1066&utm_source=git)** | 120 High St, Dunwoody, GA, 30346, US | Hybrid | Jan 21 |
 | **[Reworld Waste](https://www.reworldwaste.com)** | **[Summer Intern - Information Technology](https://jobright.ai/jobs/info/6971624c51f726477183ad24?utm_campaign=1066&utm_source=git)** | Florham Park, NJ | On Site | Jan 21 |
@@ -82,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Amynta Group](https://www.amyntagroup.com)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/6971482b51f72647718388fb?utm_campaign=1066&utm_source=git)** | NJ - 305 Madison Avenue, Morristown | On Site | Jan 21 |
 | ↳ | **[Technical Analyst Intern](https://jobright.ai/jobs/info/69714c02587dfa0bb55ee6c1?utm_campaign=1066&utm_source=git)** | DFW | On Site | Jan 21 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/6971393a587dfa0bb55ec3fc?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 21 |
-| **[Propvia](Propvia.com)** | **[Data AI Intern](https://jobright.ai/jobs/info/69713d3a51f726477183725d?utm_campaign=1066&utm_source=git)** | Detroit, MI | On Site | Jan 21 |
 | **[Alexander Group](https://www.alexandergroup.com)** | **[Associate Commercial Data Science Intern](https://jobright.ai/jobs/info/6971374d333b6343a14da964?utm_campaign=1066&utm_source=git)** | New York,NY,US | On Site | Jan 21 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Clinical Research Analytics Intern](https://jobright.ai/jobs/info/69713aea51f7264771837165?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Jan 21 |
 | ↳ | **[Clinical Transformation Analytics Internship](https://jobright.ai/jobs/info/69713aa2333b6343a14dac5a?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Jan 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Velera](https://www.velera.com)** | **[Intern- Insights & Reporting Analyst](https://jobright.ai/jobs/info/696ff8643ed06875134af3fb?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 20 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Data Science Internship MS PhD 2026 - Optimization and Operations Research](https://jobright.ai/jobs/info/696ff79c0f4e0f657ea44b43?utm_campaign=1066&utm_source=git)** | Wickliffe, OH | Hybrid | Jan 20 |
 | **[Empyrean](http://www.goempyrean.com)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/696ff7560f4e0f657ea44aaf?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jan 20 |
-| **[GoMaterials](https://www.gomaterials.com/)** | **[Data Quality Intern - Summer 2026](https://jobright.ai/jobs/info/696ff5ea0f4e0f657ea446bf?utm_campaign=1066&utm_source=git)** | Montreal, QC | Hybrid | Jan 20 |
-| **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Data Science Internship MS PhD 2026 - Optimization and Operations Research](https://jobright.ai/jobs/info/696ff5850f4e0f657ea4459e?utm_campaign=1066&utm_source=git)** | Deer Park TX US | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
