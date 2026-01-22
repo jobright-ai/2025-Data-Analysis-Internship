@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/691cf45e22a2cb4b9bd1f199?utm_campaign=1066&utm_source=git)** | Westminster, CO | On Site | Jan 22 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cc229b128dc347fd91f9d2?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jan 22 |
+| ↳ | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cd3993b2a74e1837ed4102?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jan 22 |
+| **[CNH](http://www.cnhindustrial.com)** | **[Digital Transformation & Risk Analyst Intern](https://jobright.ai/jobs/info/69688a3ef25a3800669706f3?utm_campaign=1066&utm_source=git)** | Waterford, WI | On Site | Jan 22 |
 | **[APL Logistics](http://www.apllogistics.com/)** | **[Apprentice/Intern, Data Science & BI (WMS) -  (1st Shift) - Scottsdale](https://jobright.ai/jobs/info/6971eca3b707bf728a4b86c3?utm_campaign=1066&utm_source=git)** | 14350 North 87th Street, Suite 350, Scottsdale, AZ, 85260, US | Hybrid | Jan 22 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6971e0a347b64f4e963e146f?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6971d653cda45e69535809bc?utm_campaign=1066&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jan 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Peter Millar](http://www.petermillar.com/)** | **[Data Science Internship](https://jobright.ai/jobs/info/6970546451f726477182886c?utm_campaign=1066&utm_source=git)** | Triangle, NC | On Site | Jan 20 |
 | **[Methods Machine Tools, Inc.](https://www.methodsmachine.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69703467587dfa0bb55db73a?utm_campaign=1066&utm_source=git)** | Sudbury,MA,US | On Site | Jan 20 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Tech Ops Analytics (Summer 2026)](https://jobright.ai/jobs/info/697022763ed06875134b20bb?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 20 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69702e5b587dfa0bb55db0c0?utm_campaign=1066&utm_source=git)** | Arden Hills, MN - CDS | On Site | Jan 20 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok UG-Mid Platform) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6970231a3ed06875134b22b4?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jan 20 |
-| **[Veradigm®](https://veradigm.com)** | **[RWE/HEOR Researcher Intern](https://jobright.ai/jobs/info/697021880f4e0f657ea47b71?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 20 |
-| **[Total Quality Logistics](http://www.tql.com/)** | **[Data Science & Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69701b513ed06875134b1789?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
