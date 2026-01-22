@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/697251a94ccbf64f8df23b76?utm_campaign=1066&utm_source=git)** | Green Bay, WI | On Site | Jan 22 |
+| **[BASF](https://www.basf.com/)** | **[2026 Summer Internship - Data Science/Computer Engineering - Geismar, LA](https://jobright.ai/jobs/info/69407b1449a7695fbd05fb48?utm_campaign=1066&utm_source=git)** | Geismar, LA | On Site | Jan 22 |
+| **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69724fa79b83b424830e3849?utm_campaign=1066&utm_source=git)** | Remote - USA | Remote | Jan 22 |
+| **[Flatiron School](http://flatironschool.com)** | **[Data Scientist Trainee (Earn & Learn Apprenticeship)](https://jobright.ai/jobs/info/69724cbf9b83b424830e36ff?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Connors Group](http://www.connorsllc.com/)** | **[Intern Analyst/Co-Op - Fall 2026](https://jobright.ai/jobs/info/6972402a9b83b424830e2e3b?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 22 |
 | **[I.R.E](https://www.linkedin.com/company/101450002)** | **[Perations Research Science Internship](https://jobright.ai/jobs/info/69723bad4ccbf64f8df22da5?utm_campaign=1066&utm_source=git)** | California, California, United States | Remote | Jan 22 |
 | **[HCA Healthcare](https://hcahealthcare.com/)** | **[Technical Analyst Intern](https://jobright.ai/jobs/info/6970f6b451f726477183282c?utm_campaign=1066&utm_source=git)** | Savannah, GA | On Site | Jan 22 |
@@ -91,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[RaceTrac](http://www.racetrac.com/)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6971803a587dfa0bb55f32e3?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
 | **[TriNet](http://trinet.com)** | **[Intern, Transformation Analyst](https://jobright.ai/jobs/info/69717f2651f726477183dbc5?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
 | **[Federal Reserve Bank of Philadelphia](http://www.philadelphiafed.org)** | **[Summer Intern, Supervision Regulation & Credit, Credit Lending Research](https://jobright.ai/jobs/info/69717b4a587dfa0bb55f2d68?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
-| **[Syngenta](http://www.syngenta.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69717776333b6343a14e12ae?utm_campaign=1066&utm_source=git)** | Durham, NC | Hybrid | Jan 21 |
 | **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[IT Data & AI Intern](https://jobright.ai/jobs/info/697173a7333b6343a14e10d6?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | Jan 21 |
 | **[Federal Reserve Bank of Philadelphia](http://www.philadelphiafed.org)** | **[Summer Intern, Supervision Regulation & Credit, SES and Stress Testing Data](https://jobright.ai/jobs/info/697172c0333b6343a14e1083?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
 | **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/696ad0f25fc862418539f302?utm_campaign=1066&utm_source=git)** | McLean, VA | On Site | Jan 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Okta](http://www.okta.com)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69704f3751f72647718284de?utm_campaign=1066&utm_source=git)** | San Francisco, California | On Site | Jan 20 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/69704ae3587dfa0bb55dd396?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 20 |
 | **[BMO](http://www.bmo.com)** | **[Agile Center of Excellence, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/697049c3587dfa0bb55dd2a5?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 20 |
-| **[Autodesk](http://www.autodesk.com)** | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/6970483e333b6343a14cb81d?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 20 |
-| **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Data Science Student](https://jobright.ai/jobs/info/697061bc333b6343a14cedb9?utm_campaign=1066&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 20 |
-| **[Federal Reserve Bank of Boston](http://www.bostonfed.org)** | **[Intern, Research Department](https://jobright.ai/jobs/info/69702804587dfa0bb55daa76?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
