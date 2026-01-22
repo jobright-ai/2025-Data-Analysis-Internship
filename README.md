@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TTX Company](http://www.ttx.com)** | **[Year-Round Data Governance Intern](https://jobright.ai/jobs/info/697262ee584a1c1ef6fd665d?utm_campaign=1066&utm_source=git)** | 2151 Hawkins St, Charlotte, NC, 28203, US | On Site | Jan 22 |
+| **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Intern, Student (Data Analytics)](https://jobright.ai/jobs/info/69725c669b83b424830e556b?utm_campaign=1066&utm_source=git)** | 875 Greentree Rd, Pittsburgh, PA, 15220, US | On Site | Jan 22 |
+| **[PHINIA](https://phinia.com)** | **[Manufacturing Data Management & Analysis Intern - Summer Internship](https://jobright.ai/jobs/info/697258e64ccbf64f8df24980?utm_campaign=1066&utm_source=git)** | Auburn Hills PHINIA WHQ - Michigan - USA | On Site | Jan 22 |
 | **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/697251a94ccbf64f8df23b76?utm_campaign=1066&utm_source=git)** | Green Bay, WI | On Site | Jan 22 |
 | **[BASF](https://www.basf.com/)** | **[2026 Summer Internship - Data Science/Computer Engineering - Geismar, LA](https://jobright.ai/jobs/info/69407b1449a7695fbd05fb48?utm_campaign=1066&utm_source=git)** | Geismar, LA | On Site | Jan 22 |
 | **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69724fa79b83b424830e3849?utm_campaign=1066&utm_source=git)** | Remote - USA | Remote | Jan 22 |
@@ -92,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Data Support Analyst Intern – Supply Chain- EN](https://jobright.ai/jobs/info/69718b6e587dfa0bb55f3c81?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 21 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69718a80587dfa0bb55f3ba3?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jan 21 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Patient Centered-Outcomes Research in Data Sciences and Analytics](https://jobright.ai/jobs/info/69718581587dfa0bb55f3795?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 21 |
-| **[RaceTrac](http://www.racetrac.com/)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/6971803a587dfa0bb55f32e3?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
 | **[TriNet](http://trinet.com)** | **[Intern, Transformation Analyst](https://jobright.ai/jobs/info/69717f2651f726477183dbc5?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 21 |
 | **[Federal Reserve Bank of Philadelphia](http://www.philadelphiafed.org)** | **[Summer Intern, Supervision Regulation & Credit, Credit Lending Research](https://jobright.ai/jobs/info/69717b4a587dfa0bb55f2d68?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
 | **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[IT Data & AI Intern](https://jobright.ai/jobs/info/697173a7333b6343a14e10d6?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | Jan 21 |
@@ -104,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[TriNet](http://trinet.com)** | **[Intern, Transformation Analyst](https://jobright.ai/jobs/info/69716483333b6343a14ded5b?utm_campaign=1066&utm_source=git)** | 120 High St, Dunwoody, GA, 30346, US | Hybrid | Jan 21 |
 | **[Reworld Waste](https://www.reworldwaste.com)** | **[Summer Intern - Information Technology](https://jobright.ai/jobs/info/6971624c51f726477183ad24?utm_campaign=1066&utm_source=git)** | Florham Park, NJ | On Site | Jan 21 |
 | **[Jumio Corporation](http://www.jumio.com)** | **[Data Intern](https://jobright.ai/jobs/info/697158ca587dfa0bb55ef9c4?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 21 |
-| **[Connors Group](http://www.connorsllc.com/)** | **[Intern Analyst/Co-Op - Fall 2026](https://jobright.ai/jobs/info/697158c651f726477183a4cf?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 21 |
 | **[Arrive Logistics](http://www.arrivelogistics.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6971574a333b6343a14de122?utm_campaign=1066&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Jan 21 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Intern, Supervision Regulation & Credit, SES and Stress Testing Data](https://jobright.ai/jobs/info/697156f1333b6343a14de0b6?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
 | **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Biostatistics and Programming](https://jobright.ai/jobs/info/697154e0587dfa0bb55ef526?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Methods Machine Tools, Inc.](https://www.methodsmachine.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69705bab51f726477182ab0b?utm_campaign=1066&utm_source=git)** | Sudbury, MA | On Site | Jan 20 |
 | **[Okta](http://www.okta.com)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69704f3751f72647718284de?utm_campaign=1066&utm_source=git)** | San Francisco, California | On Site | Jan 20 |
 | **[Autodesk](http://www.autodesk.com)** | **[Intern, Finance Business Intelligence Developer](https://jobright.ai/jobs/info/69704ae3587dfa0bb55dd396?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 20 |
-| **[BMO](http://www.bmo.com)** | **[Agile Center of Excellence, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/697049c3587dfa0bb55dd2a5?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
