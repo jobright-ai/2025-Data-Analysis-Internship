@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Product Development Data Sciences](https://jobright.ai/jobs/info/69732f29206da320f49d315b?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | Hybrid | Jan 23 |
 | **[James Hardie](https://www.jameshardie.com)** | **[Advanced Manufacturing Data Analyst Intern](https://jobright.ai/jobs/info/697315d11790715e866c1777?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69730a43694e99351d145837?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jan 22 |
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/697305931790715e866bf20e?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jan 22 |
@@ -121,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/697251a94ccbf64f8df23b76?utm_campaign=1066&utm_source=git)** | Green Bay, WI | On Site | Jan 22 |
 | **[BASF](https://www.basf.com/)** | **[2026 Summer Internship - Data Science/Computer Engineering - Geismar, LA](https://jobright.ai/jobs/info/69407b1449a7695fbd05fb48?utm_campaign=1066&utm_source=git)** | Geismar, LA | On Site | Jan 22 |
 | **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69724fa79b83b424830e3849?utm_campaign=1066&utm_source=git)** | Remote - USA | Remote | Jan 22 |
-| **[Boston Scientific](http://www.bostonscientific.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69731d10206da320f49d24af?utm_campaign=1066&utm_source=git)** | Arden Hills, MN | Hybrid | Jan 22 |
 | **[BioSpace](http://www.biospace.com/)** | **[R&D Protein Footprinting Data Analysis Grad Intern](https://jobright.ai/jobs/info/697266c29b83b424830e5c79?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 22 |
 | **[Connors Group](http://www.connorsllc.com/)** | **[Intern Analyst/Co-Op - Fall 2026](https://jobright.ai/jobs/info/6972402a9b83b424830e2e3b?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 22 |
 | **[I.R.E](https://www.linkedin.com/company/101450002)** | **[Perations Research Science Internship](https://jobright.ai/jobs/info/69723bad4ccbf64f8df22da5?utm_campaign=1066&utm_source=git)** | California, California, United States | Remote | Jan 22 |
