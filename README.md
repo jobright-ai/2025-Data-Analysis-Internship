@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69730a43694e99351d145837?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jan 22 |
+| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/697305931790715e866bf20e?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jan 22 |
+| **[Super.com](https://www.super.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/696772a4639b452fb57d108c?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jan 22 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6972fc4d1790715e866be8d4?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jan 22 |
 | **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6972ebf698522904c697bd4e?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 22 |
 | **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[PC Analyst Intern](https://jobright.ai/jobs/info/6972eaa41d55d64a20534c23?utm_campaign=1066&utm_source=git)** | Owensboro, KY | On Site | Jan 22 |
 | **[Camping World](https://investor.campingworld.com)** | **[Analytics & Insights Intern](https://jobright.ai/jobs/info/6972e2ed98522904c697b69c?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | On Site | Jan 22 |
 | **[CGI](https://www.cgi.com)** | **[Technical Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6972e29b1d55d64a205345c3?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Jan 22 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Research Assistant - Psychological Sciences](https://jobright.ai/jobs/info/696afcd4350cf43803123a95?utm_campaign=1066&utm_source=git)** | Auburn, AL | On Site | Jan 22 |
-| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Claims Data Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6972dc520488fd59f7d5d7ac?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Jan 22 |
+| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Data Science Institute Undergraduate Student Intern - Summer 2026](https://jobright.ai/jobs/info/69730071694e99351d1445a4?utm_campaign=1066&utm_source=git)** | Livermore, CA | On Site | Jan 22 |
 | **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[PC Analyst Intern](https://jobright.ai/jobs/info/6972d8340488fd59f7d5d229?utm_campaign=1066&utm_source=git)** | Owensboro, KY, USA | On Site | Jan 22 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 22 |
 | **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6972fab9206da320f49cf032?utm_campaign=1066&utm_source=git)** | Syracuse, NY | Remote | Jan 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Way of the Midlands](http://www.unitedwaymidlands.org)** | **[Summer Research Associate - Part-Time Internship](https://jobright.ai/jobs/info/6972a56b9b83b424830eafa7?utm_campaign=1066&utm_source=git)** | Omaha, NE | On Site | Jan 21 |
 | **[Webasto Americas](https://www.webasto.com/en-us.html)** | **[IT Data & AI Intern](https://jobright.ai/jobs/info/697173a7333b6343a14e10d6?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | Jan 21 |
 | **[Federal Reserve Bank of Philadelphia](http://www.philadelphiafed.org)** | **[Summer Intern, Supervision Regulation & Credit, SES and Stress Testing Data](https://jobright.ai/jobs/info/697172c0333b6343a14e1083?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
-| **[Memorial Healthcare](http://memorialhealthcare.org/)** | **[Clinical Research â€“Intern](https://jobright.ai/jobs/info/6972b6069b83b424830ebe8b?utm_campaign=1066&utm_source=git)** | Owosso, MI | On Site | Jan 21 |
-| **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/696ad0f25fc862418539f302?utm_campaign=1066&utm_source=git)** | McLean, VA | On Site | Jan 21 |
-| **[TriNet](http://trinet.com)** | **[Intern, Transformation Analyst](https://jobright.ai/jobs/info/697168ef587dfa0bb55f0949?utm_campaign=1066&utm_source=git)** | 120 High St, Dunwoody, GA, 30346, US | Hybrid | Jan 21 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Intern, Supervision Regulation & Credit, Credit Lending Research](https://jobright.ai/jobs/info/69716862333b6343a14df11e?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | Hybrid | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
