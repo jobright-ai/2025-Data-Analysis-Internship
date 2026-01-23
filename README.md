@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boncom](https://www.boncom.com/)** | **[2026 Data Analytics Intern](https://jobright.ai/jobs/info/69737f56bc8e722e7b1856cc?utm_campaign=1066&utm_source=git)** | Salt Lake City,UT,US | Hybrid | Jan 23 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 23 |
 | **[IDEAL INDUSTRIES, INC](http://www.idealindustries.com)** | **[Data Analyst Intern - 6 month](https://jobright.ai/jobs/info/693b276bd4054a2bc0251589?utm_campaign=1066&utm_source=git)** | Sycamore, IL | On Site | Jan 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Transportation Logistics & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/696f737782817106e97679be?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 23 |
@@ -121,17 +122,17 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - GRM, Data Analyst Developer Intern (8 Months)](https://jobright.ai/jobs/info/69729b6d9b83b424830e99cb?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Jan 22 |
 | **[NRG Energy](http://www.nrg.com/)** | **[Home Texas Energy & Digital Management Intern](https://jobright.ai/jobs/info/69728ccb4ccbf64f8df27f98?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jan 22 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Data Scientist Intern - Summer 2026 (Windsor, ON)](https://jobright.ai/jobs/info/697269754ccbf64f8df26138?utm_campaign=1066&utm_source=git)** | Windsor, ON | On Site | Jan 22 |
-| **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/6973477537785856350d2863?utm_campaign=1066&utm_source=git)** | Rome, NY | On Site | Jan 22 |
+| **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69734c35206da320f49d57ec?utm_campaign=1066&utm_source=git)** | Charleston, SC | On Site | Jan 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69734ad137785856350d2bb3?utm_campaign=1066&utm_source=git)** | Panama City, FL | On Site | Jan 22 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69734c57bc8e722e7b182e86?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69734c35206da320f49d57ec?utm_campaign=1066&utm_source=git)** | Charleston, SC | On Site | Jan 22 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69734b8737785856350d2c72?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Jan 22 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69734e40bc8e722e7b182f3c?utm_campaign=1066&utm_source=git)** | Honolulu, HI | On Site | Jan 22 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69734a3d206da320f49d570a?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | On Site | Jan 22 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69734a2a206da320f49d5701?utm_campaign=1066&utm_source=git)** | Annapolis Junction, MD | On Site | Jan 22 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69734d4abc8e722e7b182ee4?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Jan 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69734df037785856350d2e46?utm_campaign=1066&utm_source=git)** | McLean, VA | On Site | Jan 22 |
+| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69734a2a206da320f49d5701?utm_campaign=1066&utm_source=git)** | Annapolis Junction, MD | On Site | Jan 22 |
+| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69734b8737785856350d2c72?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Jan 22 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69734a2a206da320f49d5700?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Jan 22 |
+| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69734c57bc8e722e7b182e86?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 22 |
+| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/6973477537785856350d2863?utm_campaign=1066&utm_source=git)** | Rome, NY | On Site | Jan 22 |
+| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69734a3d206da320f49d570a?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | On Site | Jan 22 |
+| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69734d4abc8e722e7b182ee4?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Jan 22 |
+| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69734e40bc8e722e7b182f3c?utm_campaign=1066&utm_source=git)** | Honolulu, HI | On Site | Jan 22 |
 | **[Flatiron School](http://flatironschool.com)** | **[Data Scientist Trainee (Earn & Learn Apprenticeship)](https://jobright.ai/jobs/info/69724cbf9b83b424830e36ff?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 22 |
 | **[TTX Company](http://www.ttx.com)** | **[Year-Round Data Analytics Intern](https://jobright.ai/jobs/info/697264f6584a1c1ef6fd67c8?utm_campaign=1066&utm_source=git)** | 2151 Hawkins St, Charlotte, NC, 28203, US | On Site | Jan 22 |
 | ↳ | **[Year-Round Data Governance Intern](https://jobright.ai/jobs/info/697262ee584a1c1ef6fd665d?utm_campaign=1066&utm_source=git)** | 2151 Hawkins St, Charlotte, NC, 28203, US | On Site | Jan 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/691ce5a622a2cb4b9bd1e63a?utm_campaign=1066&utm_source=git)** | Dayton, OH | On Site | Jan 22 |
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/691cf45e22a2cb4b9bd1f199?utm_campaign=1066&utm_source=git)** | Westminster, CO | On Site | Jan 22 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cc229b128dc347fd91f9d2?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jan 22 |
-| ↳ | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cd3993b2a74e1837ed4102?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
