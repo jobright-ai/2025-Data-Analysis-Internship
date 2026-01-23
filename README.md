@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[James Hardie](https://www.jameshardie.com)** | **[Advanced Manufacturing Data Analyst Intern](https://jobright.ai/jobs/info/697315d11790715e866c1777?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69730a43694e99351d145837?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jan 22 |
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/697305931790715e866bf20e?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jan 22 |
 | **[Super.com](https://www.super.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/696772a4639b452fb57d108c?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jan 22 |
@@ -87,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Calibration Process Data Science Intern (8 months/40 hours per week)](https://jobright.ai/jobs/info/6972af159b83b424830eb783?utm_campaign=1066&utm_source=git)** | Farmington Hills, MI | On Site | Jan 22 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Data Science Institute Graduate Student Intern - Summer 2026](https://jobright.ai/jobs/info/6972a82a584a1c1ef6fdbc68?utm_campaign=1066&utm_source=git)** | Livermore, CA | On Site | Jan 22 |
 | **[Rocket Innovation Studio](https://www.rocketinnovationstudio.ca/)** | **[Data Scientist Intern - Summer 2026 (Windsor, ON)](https://jobright.ai/jobs/info/6972a3fe4ccbf64f8df2aed2?utm_campaign=1066&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jan 22 |
-| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Data Science Institute Undergraduate Student Intern - Summer 2026](https://jobright.ai/jobs/info/69093cd3bcccf20de59d9196?utm_campaign=1066&utm_source=git)** | Livermore, CA | On Site | Jan 22 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Associate Data & Reporting Analyst](https://jobright.ai/jobs/info/69729a0a9b83b424830e96aa?utm_campaign=1066&utm_source=git)** | Englewood, CO | On Site | Jan 22 |
 | **[Ededge Hub](https://www.linkedin.com/company/107923366)** | **[Data Analyst Intern  (Fixed-Term Internship)](https://jobright.ai/jobs/info/6972b78c584a1c1ef6fdc9d9?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Remote | Jan 22 |
 | **[Forward Bank](https://www.forward.bank/)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/697295979b83b424830e8c5d?utm_campaign=1066&utm_source=git)** | Marshfield, Marshfield, WI, US | On Site | Jan 22 |
