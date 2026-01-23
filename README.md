@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BHG Financial](https://bhgfinancial.com)** | **[Quantitative Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6972ebf698522904c697bd4e?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 22 |
+| **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[PC Analyst Intern](https://jobright.ai/jobs/info/6972eaa41d55d64a20534c23?utm_campaign=1066&utm_source=git)** | Owensboro, KY | On Site | Jan 22 |
+| **[Camping World](https://investor.campingworld.com)** | **[Analytics & Insights Intern](https://jobright.ai/jobs/info/6972e2ed98522904c697b69c?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | On Site | Jan 22 |
+| **[CGI](https://www.cgi.com)** | **[Technical Analyst Intern (Summer Internship Program)](https://jobright.ai/jobs/info/6972e29b1d55d64a205345c3?utm_campaign=1066&utm_source=git)** | Knoxville, TN | On Site | Jan 22 |
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Claims Data Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6972dc520488fd59f7d5d7ac?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Jan 22 |
 | **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[PC Analyst Intern](https://jobright.ai/jobs/info/6972d8340488fd59f7d5d229?utm_campaign=1066&utm_source=git)** | Owensboro, KY, USA | On Site | Jan 22 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 22 |
@@ -71,6 +75,8 @@ For a complete list, click the following sortable link below:
 | **[University of Utah Health Research](https://uofuhealth.utah.edu/research)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/6972be08584a1c1ef6fdcfae?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Jan 22 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Data Science Internship, 2026](https://jobright.ai/jobs/info/68ccf59477add66568abc9d2?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Jan 22 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Data Analytics Intern – Summer 2026 – School Year 2026-27](https://jobright.ai/jobs/info/6972dbd70488fd59f7d5d71c?utm_campaign=1066&utm_source=git)** | West Des Moines, IA, US | On Site | Jan 22 |
+| **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Clinical Biometrics (Statistical Programming](https://jobright.ai/jobs/info/6972e3ec98522904c697b791?utm_campaign=1066&utm_source=git)** | South San Francisco, California | On Site | Jan 22 |
+| ↳ | **[Intern – Translational Biology (AI/ML)](https://jobright.ai/jobs/info/6972e1cd1d55d64a205344d3?utm_campaign=1066&utm_source=git)** | South San Francisco, California | On Site | Jan 22 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Calibration Process Data Science Intern (8 months/40 hours per week)](https://jobright.ai/jobs/info/6972af159b83b424830eb783?utm_campaign=1066&utm_source=git)** | Farmington Hills, MI | On Site | Jan 22 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Data Science Institute Graduate Student Intern - Summer 2026](https://jobright.ai/jobs/info/6972a82a584a1c1ef6fdbc68?utm_campaign=1066&utm_source=git)** | Livermore, CA | On Site | Jan 22 |
 | **[Rocket Innovation Studio](https://www.rocketinnovationstudio.ca/)** | **[Data Scientist Intern - Summer 2026 (Windsor, ON)](https://jobright.ai/jobs/info/6972a3fe4ccbf64f8df2aed2?utm_campaign=1066&utm_source=git)** | Windsor, Ontario, Canada | On Site | Jan 22 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Smart Manufacturing and AI Data Science](https://jobright.ai/jobs/info/6971652b587dfa0bb55f05e6?utm_campaign=1066&utm_source=git)** | Boise, ID - Main Site | On Site | Jan 21 |
 | **[TriNet](http://trinet.com)** | **[Intern, Transformation Analyst](https://jobright.ai/jobs/info/69716483333b6343a14ded5b?utm_campaign=1066&utm_source=git)** | 120 High St, Dunwoody, GA, 30346, US | Hybrid | Jan 21 |
 | **[Reworld Waste](https://www.reworldwaste.com)** | **[Summer Intern - Information Technology](https://jobright.ai/jobs/info/6971624c51f726477183ad24?utm_campaign=1066&utm_source=git)** | Florham Park, NJ | On Site | Jan 21 |
-| **[Jumio Corporation](http://www.jumio.com)** | **[Data Intern](https://jobright.ai/jobs/info/697158ca587dfa0bb55ef9c4?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 21 |
-| **[Arrive Logistics](http://www.arrivelogistics.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6971574a333b6343a14de122?utm_campaign=1066&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Jan 21 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer Intern, Supervision Regulation & Credit, SES and Stress Testing Data](https://jobright.ai/jobs/info/697156f1333b6343a14de0b6?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Jan 21 |
-| **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Biostatistics and Programming](https://jobright.ai/jobs/info/697154e0587dfa0bb55ef526?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 21 |
-| **[Arrive Logistics](http://www.arrivelogistics.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6971507651f7264771839bc8?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 21 |
-| **[Tri-State Generation and Transmission Association, Inc.](http://www.tristategt.org)** | **[IT Integration and Analytics Intern](https://jobright.ai/jobs/info/6971470a587dfa0bb55eda84?utm_campaign=1066&utm_source=git)** | Westminster, CO | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
