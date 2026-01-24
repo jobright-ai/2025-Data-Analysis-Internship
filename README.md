@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Munich Re](https://www.munichre.com)** | **[IT Transformation Analyst Intern](https://jobright.ai/jobs/info/6974e8ea206da320f49f104a?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jan 24 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Commercial Data Science Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974c9f6bc8e722e7b19d3ae?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 24 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Data Science Intern, Supply Chain BOM Analytics](https://jobright.ai/jobs/info/69049964ff462851feff6688?utm_campaign=1066&utm_source=git)** | Kokomo, IN | On Site | Jan 24 |
 | **[Zipline](https://www.zipline.com/)** | **[Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc63f49a7695fbd03820e?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 24 |
@@ -121,7 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[Content Analytics Intern](https://jobright.ai/jobs/info/6973df59bc8e722e7b18af6c?utm_campaign=1066&utm_source=git)** | Arlington - 1801 S Bell (INDG) | On Site | Jan 23 |
 | **[Stantec](http://www.stantec.com)** | **[GIS Intern (Summer 2026)](https://jobright.ai/jobs/info/6973da1f206da320f49dd453?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Jan 23 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/6973f63d37785856350dd46b?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Jan 23 |
-| **[Dropbox](https://www.dropbox.com)** | **[Research and Insights Intern (Summer 2026)](https://jobright.ai/jobs/info/6973d69f37785856350da905?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jan 23 |
+| **[Dropbox](https://www.dropbox.com)** | **[Research and Insights Intern (Summer 2026)](https://jobright.ai/jobs/info/6973d68d206da320f49dd0b6?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 23 |
+| ↳ | **[Research and Insights Intern (Summer 2026)](https://jobright.ai/jobs/info/6973d69f37785856350da905?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jan 23 |
 | **[MVB Bank](https://mvbbanking.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6973f34a37785856350dcb50?utm_campaign=1066&utm_source=git)** | United, WV | Remote | Jan 23 |
 | **[Acutec Precision Aerospace, Inc.](http://acutecprecision.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6973d19dbc8e722e7b18a138?utm_campaign=1066&utm_source=git)** | Meadville,PA,US | On Site | Jan 23 |
 | **[HARMAN International](https://www.harman.com/)** | **[​Summer Intern – Business Analytics​](https://jobright.ai/jobs/info/6973ce3cbc8e722e7b189d42?utm_campaign=1066&utm_source=git)** | Northridge - California, USA | On Site | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[James Hardie](https://www.jameshardie.com)** | **[Advanced Manufacturing Data Analyst Intern](https://jobright.ai/jobs/info/697315d11790715e866c1777?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69730a43694e99351d145837?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jan 22 |
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/697305931790715e866bf20e?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jan 22 |
-| **[TTX Company](http://www.ttx.com)** | **[Year-Round Data Governance Intern](https://jobright.ai/jobs/info/69745820bc8e722e7b196765?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
-| ↳ | **[Year-Round Data Analytics Intern](https://jobright.ai/jobs/info/6974599e206da320f49e9a1f?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
