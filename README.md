@@ -88,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Biostatistics, Product Development Data Sciences](https://jobright.ai/jobs/info/6974353abc8e722e7b192a27?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 23 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6974334e37785856350e2cdf?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Jan 23 |
 | **[City of Boise](https://www.cityofboise.org/departments/police/)** | **[PDS - Data Intern (Planning)](https://jobright.ai/jobs/info/697432eb37785856350e2ca8?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Jan 23 |
-| **[Circle K](http://www.circlek.com)** | **[Data Science Intern, Global Data & Analytics](https://jobright.ai/jobs/info/6974302537785856350e2aa2?utm_campaign=1066&utm_source=git)** | Scarborough, Ontario, Canada | On Site | Jan 23 |
 | **[NumerixS Technologies (NumerixS Quant)](http://numerixsquant.com)** | **[Quantitative Analyst Intern](https://jobright.ai/jobs/info/697452fd37785856350e6667?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 23 |
 | **[City of Boise](https://www.cityofboise.org/departments/police/)** | **[PDS - Data Intern (Parking)](https://jobright.ai/jobs/info/69742e34bc8e722e7b19247a?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Jan 23 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Data Scientist, Ego and Ado Decision (Internship)](https://jobright.ai/jobs/info/69742b79bc8e722e7b192165?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Jan 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Spatial Transcriptomics Intern (PhD)](https://jobright.ai/jobs/info/68acf8d9daf1431824c9973a?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 23 |
 | ↳ | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/68cfde05846f0b04af685988?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Jan 23 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[Business Data Analysis Intern](https://jobright.ai/jobs/info/697272c3584a1c1ef6fd6dff?utm_campaign=1066&utm_source=git)** | Detroit Metro | Hybrid | Jan 23 |
+| **[Atlassian](https://www.atlassian.com)** | **[Research Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/690185504539ea1f21420d48?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
