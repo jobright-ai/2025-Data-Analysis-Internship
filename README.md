@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/6974f29037785856350eeb35?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Jan 24 |
+| ↳ | **[2026 Quantitative Insights Lab Intern (PhD)](https://jobright.ai/jobs/info/6974ee68bc8e722e7b19e409?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Jan 24 |
+| ↳ | **[2026 Spatial Transcriptomics Intern (PhD)](https://jobright.ai/jobs/info/6974ee48bc8e722e7b19e3fe?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 24 |
+| ↳ | **[2026 Intern, Biostatistics and Programming](https://jobright.ai/jobs/info/6974ed39bc8e722e7b19e3a4?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Jan 24 |
 | **[Munich Re](https://www.munichre.com)** | **[IT Transformation Analyst Intern](https://jobright.ai/jobs/info/6974e8ea206da320f49f104a?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jan 24 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Commercial Data Science Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974c9f6bc8e722e7b19d3ae?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 24 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Data Science Intern, Supply Chain BOM Analytics](https://jobright.ai/jobs/info/69049964ff462851feff6688?utm_campaign=1066&utm_source=git)** | Kokomo, IN | On Site | Jan 24 |
 | **[Zipline](https://www.zipline.com/)** | **[Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc63f49a7695fbd03820e?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Commercial Data Science Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974ba66206da320f49ee456?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 24 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Claims Data Bachelor's Intern](https://jobright.ai/jobs/info/6974f750206da320f49f1fb6?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Jan 24 |
 | **[Root Inc.](https://www.root.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6974b395206da320f49ee394?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Twitch](https://www.twitch.tv)** | **[Graduate Data Science Intern](https://jobright.ai/jobs/info/691f28003f782d2f1afb8c39?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jan 24 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - TPG Global IE](https://jobright.ai/jobs/info/68cd29d1e23def7af55b6432?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Jan 24 |
@@ -110,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Pacira BioSciences, Inc.](http://www.pacira.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6973f2fd37785856350dca75?utm_campaign=1066&utm_source=git)** | Parsippany, NJ | On Site | Jan 23 |
 | **[Lamb Weston LATAM](https://www.lambweston.com)** | **[Ag Intern, Analytics](https://jobright.ai/jobs/info/69743a8637785856350e3509?utm_campaign=1066&utm_source=git)** | Kennewick, WA | On Site | Jan 23 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Computational Biology and Medicine - Immunology](https://jobright.ai/jobs/info/6973e0f7bc8e722e7b18b2f2?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 23 |
-| **[Circle K](http://www.circlek.com)** | **[Data Science Intern, Global Data & Analytics ](https://jobright.ai/jobs/info/6973f0c637785856350dc383?utm_campaign=1066&utm_source=git)** | Nonstore ON10000305 Toronto ON | On Site | Jan 23 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Analysis Intern](https://jobright.ai/jobs/info/6973ec23bc8e722e7b18ccdd?utm_campaign=1066&utm_source=git)** | United States of America, McLean, Virginia | Hybrid | Jan 23 |
 | **[Lamb Weston](http://www.lambweston.com/)** | **[Ag Intern, Analytics](https://jobright.ai/jobs/info/6973e919206da320f49de0ec?utm_campaign=1066&utm_source=git)** | Kennewick, WA, USA (Kennewick Office) | On Site | Jan 23 |
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Procurement Intern (Summer 2026)](https://jobright.ai/jobs/info/6973e87d37785856350db86d?utm_campaign=1066&utm_source=git)** | Toronto | Hybrid | Jan 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/68cfde05846f0b04af685988?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Jan 23 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[Business Data Analysis Intern](https://jobright.ai/jobs/info/697272c3584a1c1ef6fd6dff?utm_campaign=1066&utm_source=git)** | Detroit Metro | Hybrid | Jan 23 |
 | **[Atlassian](https://www.atlassian.com)** | **[Research Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/690185504539ea1f21420d48?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Product Development Data Sciences](https://jobright.ai/jobs/info/69732f29206da320f49d315b?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | Hybrid | Jan 23 |
-| **[James Hardie](https://www.jameshardie.com)** | **[Advanced Manufacturing Data Analyst Intern](https://jobright.ai/jobs/info/697315d11790715e866c1777?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 22 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69730a43694e99351d145837?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jan 22 |
-| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/697305931790715e866bf20e?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
