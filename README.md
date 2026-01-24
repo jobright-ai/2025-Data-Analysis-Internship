@@ -113,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Hitachi Rail](http://www.hitachirail.com/)** | **[Procurement Intern (Summer 2026)](https://jobright.ai/jobs/info/6973f51d37785856350dd0c8?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 23 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[GIS Intern](https://jobright.ai/jobs/info/6973f396bc8e722e7b18d99f?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Pacira BioSciences, Inc.](http://www.pacira.com)** | **[Information Technology Intern](https://jobright.ai/jobs/info/6973f2fd37785856350dca75?utm_campaign=1066&utm_source=git)** | Parsippany, NJ | On Site | Jan 23 |
-| **[Lamb Weston LATAM](https://www.lambweston.com)** | **[Ag Intern, Analytics](https://jobright.ai/jobs/info/69743a8637785856350e3509?utm_campaign=1066&utm_source=git)** | Kennewick, WA | On Site | Jan 23 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Computational Biology and Medicine - Immunology](https://jobright.ai/jobs/info/6973e0f7bc8e722e7b18b2f2?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 23 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Analysis Intern](https://jobright.ai/jobs/info/6973ec23bc8e722e7b18ccdd?utm_campaign=1066&utm_source=git)** | United States of America, McLean, Virginia | Hybrid | Jan 23 |
 | **[Lamb Weston](http://www.lambweston.com/)** | **[Ag Intern, Analytics](https://jobright.ai/jobs/info/6973e919206da320f49de0ec?utm_campaign=1066&utm_source=git)** | Kennewick, WA, USA (Kennewick Office) | On Site | Jan 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/68cfde05846f0b04af685988?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Jan 23 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[Business Data Analysis Intern](https://jobright.ai/jobs/info/697272c3584a1c1ef6fd6dff?utm_campaign=1066&utm_source=git)** | Detroit Metro | Hybrid | Jan 23 |
 | **[Atlassian](https://www.atlassian.com)** | **[Research Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/690185504539ea1f21420d48?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
+| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Product Development Data Sciences](https://jobright.ai/jobs/info/69732f29206da320f49d315b?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
