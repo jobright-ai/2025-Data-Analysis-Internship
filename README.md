@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com/)** | **[Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc63f49a7695fbd03820e?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Commercial Data Science Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974ba66206da320f49ee456?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 24 |
 | **[Root Inc.](https://www.root.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6974b395206da320f49ee394?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 24 |
+| **[Twitch](https://www.twitch.tv)** | **[Graduate Data Science Intern](https://jobright.ai/jobs/info/691f28003f782d2f1afb8c39?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jan 24 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - TPG Global IE](https://jobright.ai/jobs/info/68cd29d1e23def7af55b6432?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Jan 24 |
 | **[Imperative Care](http://www.imperativecare.com)** | **[Clinical Data Management & Biostatistics Intern](https://jobright.ai/jobs/info/69749163206da320f49eda5f?utm_campaign=1066&utm_source=git)** | Campbell, CA | On Site | Jan 24 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Data Science Acceleration](https://jobright.ai/jobs/info/697481a5bc8e722e7b19910d?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 24 |
@@ -120,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[Content Analytics Intern](https://jobright.ai/jobs/info/6973df59bc8e722e7b18af6c?utm_campaign=1066&utm_source=git)** | Arlington - 1801 S Bell (INDG) | On Site | Jan 23 |
 | **[Stantec](http://www.stantec.com)** | **[GIS Intern (Summer 2026)](https://jobright.ai/jobs/info/6973da1f206da320f49dd453?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Jan 23 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/6973f63d37785856350dd46b?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Jan 23 |
+| **[Dropbox](https://www.dropbox.com)** | **[Research and Insights Intern (Summer 2026)](https://jobright.ai/jobs/info/6973d69f37785856350da905?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jan 23 |
 | **[MVB Bank](https://mvbbanking.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6973f34a37785856350dcb50?utm_campaign=1066&utm_source=git)** | United, WV | Remote | Jan 23 |
 | **[Acutec Precision Aerospace, Inc.](http://acutecprecision.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6973d19dbc8e722e7b18a138?utm_campaign=1066&utm_source=git)** | Meadville,PA,US | On Site | Jan 23 |
 | **[HARMAN International](https://www.harman.com/)** | **[​Summer Intern – Business Analytics​](https://jobright.ai/jobs/info/6973ce3cbc8e722e7b189d42?utm_campaign=1066&utm_source=git)** | Northridge - California, USA | On Site | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/697305931790715e866bf20e?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jan 22 |
 | **[TTX Company](http://www.ttx.com)** | **[Year-Round Data Governance Intern](https://jobright.ai/jobs/info/69745820bc8e722e7b196765?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
 | ↳ | **[Year-Round Data Analytics Intern](https://jobright.ai/jobs/info/6974599e206da320f49e9a1f?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
-| **[Super.com](https://www.super.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/696772a4639b452fb57d108c?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jan 22 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6972fc4d1790715e866be8d4?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
