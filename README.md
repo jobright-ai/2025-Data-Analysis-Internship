@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Imperative Care](http://www.imperativecare.com)** | **[Clinical Data Management & Biostatistics Intern](https://jobright.ai/jobs/info/697477edbc8e722e7b19897e?utm_campaign=1066&utm_source=git)** | Campbell, CA | On Site | Jan 23 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Research & Insights (L2O Strategy)](https://jobright.ai/jobs/info/6974680e37785856350e833f?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Junior Strategic Analyst](https://jobright.ai/jobs/info/69745c5437785856350e7597?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69745bd0206da320f49e9bc8?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Jan 23 |
@@ -111,8 +112,6 @@ For a complete list, click the following sortable link below:
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[Content Analytics Intern](https://jobright.ai/jobs/info/6973df59bc8e722e7b18af6c?utm_campaign=1066&utm_source=git)** | Arlington - 1801 S Bell (INDG) | On Site | Jan 23 |
 | **[Stantec](http://www.stantec.com)** | **[GIS Intern (Summer 2026)](https://jobright.ai/jobs/info/6973da1f206da320f49dd453?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Jan 23 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/6973f63d37785856350dd46b?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Jan 23 |
-| **[Dropbox](https://www.dropbox.com)** | **[Research and Insights Intern (Summer 2026)](https://jobright.ai/jobs/info/6973d68d206da320f49dd0b6?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 23 |
-| ↳ | **[Research and Insights Intern (Summer 2026)](https://jobright.ai/jobs/info/6973d69f37785856350da905?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jan 23 |
 | **[MVB Bank](https://mvbbanking.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6973f34a37785856350dcb50?utm_campaign=1066&utm_source=git)** | United, WV | Remote | Jan 23 |
 | **[Acutec Precision Aerospace, Inc.](http://acutecprecision.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6973d19dbc8e722e7b18a138?utm_campaign=1066&utm_source=git)** | Meadville,PA,US | On Site | Jan 23 |
 | **[HARMAN International](https://www.harman.com/)** | **[​Summer Intern – Business Analytics​](https://jobright.ai/jobs/info/6973ce3cbc8e722e7b189d42?utm_campaign=1066&utm_source=git)** | Northridge - California, USA | On Site | Jan 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Data Science Institute Undergraduate Student Intern - Summer 2026](https://jobright.ai/jobs/info/69730071694e99351d1445a4?utm_campaign=1066&utm_source=git)** | Livermore, CA | On Site | Jan 22 |
 | **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[PC Analyst Intern](https://jobright.ai/jobs/info/6972d8340488fd59f7d5d229?utm_campaign=1066&utm_source=git)** | Owensboro, KY, USA | On Site | Jan 22 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 22 |
+| **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Clinical Supply Chain](https://jobright.ai/jobs/info/6972d6041d55d64a2053368c?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
