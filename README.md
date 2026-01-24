@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veradigm®](https://veradigm.com)** | **[Health Economics and Outcomes Research Intern](https://jobright.ai/jobs/info/697413f8bc8e722e7b18f430?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 23 |
+| **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[Content Analytics Intern](https://jobright.ai/jobs/info/69741307206da320f49e1f46?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Jan 23 |
+| **[Gallagher](https://www.ajg.com/)** | **[U.S Internship - Data Analytics](https://jobright.ai/jobs/info/69741146bc8e722e7b18f1f1?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | On Site | Jan 23 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Data Science AI&I Intern – (MS degree level) Florida campus](https://jobright.ai/jobs/info/69740c1bbc8e722e7b18eec8?utm_campaign=1066&utm_source=git)** | Jacksonville, FL, United States | On Site | Jan 23 |
+| ↳ | **[Data Science AI&I Intern – (PhD degree level) - Florida campus](https://jobright.ai/jobs/info/69740bef206da320f49e1aff?utm_campaign=1066&utm_source=git)** | Jacksonville, FL, United States | On Site | Jan 23 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Calibration Process Data Science Intern (8 months/40 hours per week)](https://jobright.ai/jobs/info/697406ea206da320f49e1716?utm_campaign=1066&utm_source=git)** | Farmington Hills, MI | On Site | Jan 23 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Data Science AI&I Intern – (MS degree level) Florida campus](https://jobright.ai/jobs/info/69740514bc8e722e7b18e986?utm_campaign=1066&utm_source=git)** | Jacksonville, FL, United States | On Site | Jan 23 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern – Business Analytics](https://jobright.ai/jobs/info/697404fabc8e722e7b18e967?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Jan 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69728235584a1c1ef6fd7d99?utm_campaign=1066&utm_source=git)** | St. Louis - Brentwood, Richmond Heights, Clayton, Maplewood & central areas | On Site | Jan 22 |
 | **[TTX Company](http://www.ttx.com)** | **[Year-Round Data Governance Intern](https://jobright.ai/jobs/info/6972aff9584a1c1ef6fdc295?utm_campaign=1066&utm_source=git)** | Charlotte, NC | Hybrid | Jan 22 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - RBCx, Analytics Intern (4 Months)](https://jobright.ai/jobs/info/697280b7584a1c1ef6fd7c2a?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Jan 22 |
-| **[PHINIA](https://phinia.com)** | **[Manufacturing Data Management & Analysis Intern - Summer Internship](https://jobright.ai/jobs/info/69727cc39b83b424830e6c80?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | On Site | Jan 22 |
-| **[Airbnb](https://www.airbnb.com)** | **[Advanced Analytics Intern](https://jobright.ai/jobs/info/69727caf9b83b424830e6c6b?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 22 |
-| **[Kearny Bank](http://kearnybank.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6972a47f9b83b424830eae5d?utm_campaign=1066&utm_source=git)** | Fairfield, NJ | Hybrid | Jan 22 |
-| **[USG](https://www.usg.com/)** | **[Sourcing Analytical Intern](https://jobright.ai/jobs/info/69727b12584a1c1ef6fd75af?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 22 |
-| **[Kearny Bank](http://kearnybank.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/697279f0584a1c1ef6fd7461?utm_campaign=1066&utm_source=git)** | US-NJ-Fairfield | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
