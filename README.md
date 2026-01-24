@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Community Association Banking (Data Analytics) (Hybrid)](https://jobright.ai/jobs/info/69744649206da320f49e6936?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Hybrid | Jan 23 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Data Science AI&I Intern – (PhD degree level) - Florida campus](https://jobright.ai/jobs/info/69744069bc8e722e7b1939f2?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Jan 23 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Analyst Intern](https://jobright.ai/jobs/info/69743bb8bc8e722e7b19363b?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Jan 23 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Research & Insights (L2O Strategy)](https://jobright.ai/jobs/info/6974364a37785856350e2edd?utm_campaign=1066&utm_source=git)** | Indiana - Indianapolis | On Site | Jan 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Perpay Inc.](http://www.perpay.com)** | **[Data Science Internship, 2026](https://jobright.ai/jobs/info/68ccf59477add66568abc9d2?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Jan 22 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Data Analytics Intern – Summer 2026 – School Year 2026-27](https://jobright.ai/jobs/info/6972dbd70488fd59f7d5d71c?utm_campaign=1066&utm_source=git)** | West Des Moines, IA, US | On Site | Jan 22 |
 | **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Clinical Biometrics (Statistical Programming](https://jobright.ai/jobs/info/6972e3ec98522904c697b791?utm_campaign=1066&utm_source=git)** | South San Francisco, California | On Site | Jan 22 |
-| ↳ | **[Intern – Translational Biology (AI/ML)](https://jobright.ai/jobs/info/6972e1cd1d55d64a205344d3?utm_campaign=1066&utm_source=git)** | South San Francisco, California | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
