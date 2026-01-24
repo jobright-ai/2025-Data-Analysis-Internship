@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EVgo](http://www.evgo.com)** | **[Intern, Data Analyst (Winter / Spring)](https://jobright.ai/jobs/info/6974fefa37785856350f0664?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 24 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/6974f29037785856350eeb35?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Jan 24 |
 | ↳ | **[2026 Quantitative Insights Lab Intern (PhD)](https://jobright.ai/jobs/info/6974ee68bc8e722e7b19e409?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Jan 24 |
 | ↳ | **[2026 Spatial Transcriptomics Intern (PhD)](https://jobright.ai/jobs/info/6974ee48bc8e722e7b19e3fe?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Spatial Transcriptomics Intern (PhD)](https://jobright.ai/jobs/info/68acf8d9daf1431824c9973a?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 23 |
 | ↳ | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/68cfde05846f0b04af685988?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Jan 23 |
 | **[Stoneridge](http://www.stoneridge.com)** | **[Business Data Analysis Intern](https://jobright.ai/jobs/info/697272c3584a1c1ef6fd6dff?utm_campaign=1066&utm_source=git)** | Detroit Metro | Hybrid | Jan 23 |
-| **[Atlassian](https://www.atlassian.com)** | **[Research Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/690185504539ea1f21420d48?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
