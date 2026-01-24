@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Commercial Data Science Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974c9f6bc8e722e7b19d3ae?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 24 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[Data Science Intern, Supply Chain BOM Analytics](https://jobright.ai/jobs/info/69049964ff462851feff6688?utm_campaign=1066&utm_source=git)** | Kokomo, IN | On Site | Jan 24 |
 | **[Zipline](https://www.zipline.com/)** | **[Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/693cc63f49a7695fbd03820e?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Commercial Data Science Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974ba66206da320f49ee456?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 24 |
 | **[Root Inc.](https://www.root.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6974b395206da320f49ee394?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Year-Round Data Analytics Intern](https://jobright.ai/jobs/info/6974599e206da320f49e9a1f?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jan 22 |
 | **[Super.com](https://www.super.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/696772a4639b452fb57d108c?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jan 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6972fc4d1790715e866be8d4?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jan 22 |
-| **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[PC Analyst Intern](https://jobright.ai/jobs/info/6972eaa41d55d64a20534c23?utm_campaign=1066&utm_source=git)** | Owensboro, KY | On Site | Jan 22 |
-| **[Camping World](https://investor.campingworld.com)** | **[Analytics & Insights Intern](https://jobright.ai/jobs/info/6972e2ed98522904c697b69c?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
