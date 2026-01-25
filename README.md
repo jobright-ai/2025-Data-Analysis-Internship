@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975a920bc8e722e7b1a892a?utm_campaign=1066&utm_source=git)** | Charlottesville, VA | Hybrid | Jan 24 |
+| **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975b6b8206da320f49fc117?utm_campaign=1066&utm_source=git)** | Quantico, VA | Hybrid | Jan 24 |
+| ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975a920bc8e722e7b1a892a?utm_campaign=1066&utm_source=git)** | Charlottesville, VA | Hybrid | Jan 24 |
 | ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975a8acbc8e722e7b1a8907?utm_campaign=1066&utm_source=git)** | Fort Walton Beach, FL | Hybrid | Jan 24 |
 | ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975a881206da320f49fb60a?utm_campaign=1066&utm_source=git)** | Gaithersburg, MD | Hybrid | Jan 24 |
 | ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975a87dbc8e722e7b1a88ee?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Jan 24 |
@@ -136,8 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[Content Analytics Intern](https://jobright.ai/jobs/info/6973df59bc8e722e7b18af6c?utm_campaign=1066&utm_source=git)** | Arlington - 1801 S Bell (INDG) | On Site | Jan 23 |
 | **[Stantec](http://www.stantec.com)** | **[GIS Intern (Summer 2026)](https://jobright.ai/jobs/info/6973da1f206da320f49dd453?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Jan 23 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/6973f63d37785856350dd46b?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Jan 23 |
-| **[Dropbox](https://www.dropbox.com)** | **[Research and Insights Intern (Summer 2026)](https://jobright.ai/jobs/info/6973d68d206da320f49dd0b6?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 23 |
-| ↳ | **[Research and Insights Intern (Summer 2026)](https://jobright.ai/jobs/info/6973d69f37785856350da905?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jan 23 |
 | **[MVB Bank](https://mvbbanking.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6973f34a37785856350dcb50?utm_campaign=1066&utm_source=git)** | United, WV | Remote | Jan 23 |
 | **[Acutec Precision Aerospace, Inc.](http://acutecprecision.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6973d19dbc8e722e7b18a138?utm_campaign=1066&utm_source=git)** | Meadville,PA,US | On Site | Jan 23 |
 | **[HARMAN International](https://www.harman.com/)** | **[​Summer Intern – Business Analytics​](https://jobright.ai/jobs/info/6973ce3cbc8e722e7b189d42?utm_campaign=1066&utm_source=git)** | Northridge - California, USA | On Site | Jan 23 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Discovery Life Sciences](http://www.conversantbio.com/)** | **[Scientific Writing & Data Analytics Unpaid Intern](https://jobright.ai/jobs/info/6973a57f37785856350d7dc4?utm_campaign=1066&utm_source=git)** | Newtown, PA | On Site | Jan 23 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Geospatial Analytics Intern](https://jobright.ai/jobs/info/6973c08f206da320f49dbaf5?utm_campaign=1066&utm_source=git)** | 100 Gundy Drive, Reading, PA, 19607, US | On Site | Jan 23 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 23 |
+| **[IDEAL INDUSTRIES, INC](http://www.idealindustries.com)** | **[Data Analyst Intern - 6 month](https://jobright.ai/jobs/info/693b276bd4054a2bc0251589?utm_campaign=1066&utm_source=git)** | Sycamore, IL | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
