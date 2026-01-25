@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MGIC](https://www.mgic.com)** | **[Structured Transactions Intern](https://jobright.ai/jobs/info/6950c7d729655e4dd659fccd?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Jan 25 |
+| **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975fce5bc8e722e7b1ab99a?utm_campaign=1066&utm_source=git)** | Offutt Air Force Base, NE | Hybrid | Jan 25 |
+| **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Data Science, Predictive Modeling Intern](https://jobright.ai/jobs/info/6920d1f0a49a885af9a3fa3e?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jan 25 |
+| **[Lennox](http://www.lennox.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6902955cff462851fefe4f2d?utm_campaign=1066&utm_source=git)** | West Columbia, SC | On Site | Jan 25 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Enterprise Insights Analyst Intern - The Toro Company](https://jobright.ai/jobs/info/6975f4dfbc8e722e7b1ab8cc?utm_campaign=1066&utm_source=git)** | Hennepin County, MN | On Site | Jan 25 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6975cd4bbc8e722e7b1a9adf?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 24 |
 | **[GenPark](https://genpark.ai)** | **[Data science intern](https://jobright.ai/jobs/info/6975cd1dbc8e722e7b1a9ac4?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 24 |
@@ -67,7 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975a881206da320f49fb60a?utm_campaign=1066&utm_source=git)** | Gaithersburg, MD | Hybrid | Jan 24 |
 | ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975a87dbc8e722e7b1a88ee?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Jan 24 |
 | ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975657b206da320f49f5b85?utm_campaign=1066&utm_source=git)** | Bellevue, NE | Hybrid | Jan 24 |
-| ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975654a206da320f49f5b7f?utm_campaign=1066&utm_source=git)** | Fairborn, OH | Hybrid | Jan 24 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Data Science Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/697560d1bc8e722e7b1a2bbf?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
 | **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/69755132206da320f49f59f5?utm_campaign=1066&utm_source=git)** | San Antonio, TX | Hybrid | Jan 24 |
 | **[EVgo](http://www.evgo.com)** | **[Intern, Data Analyst (Winter / Spring)](https://jobright.ai/jobs/info/6974fefa37785856350f0664?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – Analytics, Member Strategy](https://jobright.ai/jobs/info/6973ab14206da320f49daef4?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Jan 23 |
 | ↳ | **[VyStar Intern – Analytics, Member Strategy](https://jobright.ai/jobs/info/6973aa07bc8e722e7b1871bf?utm_campaign=1066&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
 | ↳ | **[VyStar Intern-Advance Analytics](https://jobright.ai/jobs/info/6973a86437785856350d8017?utm_campaign=1066&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
-| **[Discovery Life Sciences](http://www.conversantbio.com/)** | **[Scientific Writing & Data Analytics Unpaid Intern](https://jobright.ai/jobs/info/6973a57f37785856350d7dc4?utm_campaign=1066&utm_source=git)** | Newtown, PA | On Site | Jan 23 |
-| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Geospatial Analytics Intern](https://jobright.ai/jobs/info/6973c08f206da320f49dbaf5?utm_campaign=1066&utm_source=git)** | 100 Gundy Drive, Reading, PA, 19607, US | On Site | Jan 23 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
