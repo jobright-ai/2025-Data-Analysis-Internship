@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975657b206da320f49f5b85?utm_campaign=1066&utm_source=git)** | Bellevue, NE | Hybrid | Jan 24 |
+| ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975654a206da320f49f5b7f?utm_campaign=1066&utm_source=git)** | Fairborn, OH | Hybrid | Jan 24 |
+| ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975651f37785856350f3502?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Jan 24 |
+| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Data Science Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/697560d1bc8e722e7b1a2bbf?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
 | **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/69755132206da320f49f59f5?utm_campaign=1066&utm_source=git)** | San Antonio, TX | Hybrid | Jan 24 |
 | ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/69754e18206da320f49f598a?utm_campaign=1066&utm_source=git)** | Aberdeen, MD | Hybrid | Jan 24 |
 | ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/69754dde37785856350f3329?utm_campaign=1066&utm_source=git)** | Tampa, FL | Hybrid | Jan 24 |
@@ -142,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[MVB Bank](https://mvbbanking.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6973c49e37785856350d9556?utm_campaign=1066&utm_source=git)** | Remote, West Virginia, United States | Remote | Jan 23 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Customer Experience Data Science Intern](https://jobright.ai/jobs/info/6973b9e0bc8e722e7b188d77?utm_campaign=1066&utm_source=git)** | 100 Gundy Drive, Reading, PA, 19607, US | On Site | Jan 23 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Biology and Medicine - Immunology](https://jobright.ai/jobs/info/6973d79037785856350daa04?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Jan 23 |
-| **[PGT Trucking, Inc.](https://www.pgttrucking.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6974201a37785856350e195e?utm_campaign=1066&utm_source=git)** | Aliquippa, PA, United States | On Site | Jan 23 |
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Customer Experience Data Science Intern](https://jobright.ai/jobs/info/6973ad4637785856350d87fa?utm_campaign=1066&utm_source=git)** | Reading, PA, United States | On Site | Jan 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Commercial Data Science Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6973ad33206da320f49db0ef?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Jan 23 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – Analytics, Member Strategy](https://jobright.ai/jobs/info/6973ab14206da320f49daef4?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Jan 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IDEAL INDUSTRIES, INC](http://www.idealindustries.com)** | **[Data Analyst Intern - 6 month](https://jobright.ai/jobs/info/693b276bd4054a2bc0251589?utm_campaign=1066&utm_source=git)** | Sycamore, IL | On Site | Jan 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Walt Disney World Transportation Logistics & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/696f737782817106e97679be?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 23 |
 | **[Pathward](https://www.pathward.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/693b3446b309e3780086eddf?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 23 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Studios Research & Analytics Intern, Summer 2026](https://jobright.ai/jobs/info/696f7b953ed06875134a733f?utm_campaign=1066&utm_source=git)** | Burbank, CA | On Site | Jan 23 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/68e53a471852e62f0080d352?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 23 |
-| ↳ | **[2026 Spatial Transcriptomics Intern (PhD)](https://jobright.ai/jobs/info/68acf8d9daf1431824c9973a?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
