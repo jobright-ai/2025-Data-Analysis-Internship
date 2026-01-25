@@ -70,7 +70,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975a8acbc8e722e7b1a8907?utm_campaign=1066&utm_source=git)** | Fort Walton Beach, FL | Hybrid | Jan 24 |
 | ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975a881206da320f49fb60a?utm_campaign=1066&utm_source=git)** | Gaithersburg, MD | Hybrid | Jan 24 |
 | ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975a87dbc8e722e7b1a88ee?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Jan 24 |
-| ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975657b206da320f49f5b85?utm_campaign=1066&utm_source=git)** | Bellevue, NE | Hybrid | Jan 24 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Data Science Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/697560d1bc8e722e7b1a2bbf?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
 | **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/69755132206da320f49f59f5?utm_campaign=1066&utm_source=git)** | San Antonio, TX | Hybrid | Jan 24 |
 | **[EVgo](http://www.evgo.com)** | **[Intern, Data Analyst (Winter / Spring)](https://jobright.ai/jobs/info/6974fefa37785856350f0664?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 24 |
@@ -87,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Root Inc.](https://www.root.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6974b395206da320f49ee394?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Twitch](https://www.twitch.tv)** | **[Graduate Data Science Intern](https://jobright.ai/jobs/info/691f28003f782d2f1afb8c39?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jan 24 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - TPG Global IE](https://jobright.ai/jobs/info/68cd29d1e23def7af55b6432?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Jan 24 |
+| **[Dropbox](https://www.dropbox.com)** | **[Research and Insights Intern (Summer 2026)](https://jobright.ai/jobs/info/6973d68d206da320f49dd0b6?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Imperative Care](http://www.imperativecare.com)** | **[Clinical Data Management & Biostatistics Intern](https://jobright.ai/jobs/info/69749163206da320f49eda5f?utm_campaign=1066&utm_source=git)** | Campbell, CA | On Site | Jan 24 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Data Science Acceleration](https://jobright.ai/jobs/info/697481a5bc8e722e7b19910d?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 24 |
 | **[Dropbox](https://www.dropbox.com)** | **[Research and Insights Intern (Summer 2026)](https://jobright.ai/jobs/info/6973d69f37785856350da905?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jan 24 |
