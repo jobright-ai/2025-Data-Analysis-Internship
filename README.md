@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Exaquant](https://exaquant.com/)** | **[AI Data Intern](https://jobright.ai/jobs/info/69768dce37785856351030a0?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 25 |
+| **[Lamb Weston LATAM](https://www.lambweston.com)** | **[Ag Intern, Analytics](https://jobright.ai/jobs/info/6976976c3778585635103157?utm_campaign=1066&utm_source=git)** | Kennewick, WA | On Site | Jan 25 |
 | **[LogicalisUS](https://www.us.logicalis.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69767517377858563510140e?utm_campaign=1066&utm_source=git)** | Golden, MO | On Site | Jan 25 |
 | **[Bonneville Communications](https://www.bonnevillecommunications.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/697672f3bc8e722e7b1b0521?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 25 |
 | **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/69764f5a206da320f4a02b21?utm_campaign=1066&utm_source=git)** | Honolulu, HI | Hybrid | Jan 25 |
@@ -69,8 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Lennox](http://www.lennox.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6902955cff462851fefe4f2d?utm_campaign=1066&utm_source=git)** | West Columbia, SC | On Site | Jan 25 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Enterprise Insights Analyst Intern - The Toro Company](https://jobright.ai/jobs/info/6975f4dfbc8e722e7b1ab8cc?utm_campaign=1066&utm_source=git)** | Hennepin County, MN | On Site | Jan 25 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6975cd4bbc8e722e7b1a9adf?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 24 |
-| **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975bdd5bc8e722e7b1a92ce?utm_campaign=1066&utm_source=git)** | Lexington Park, MD | Hybrid | Jan 24 |
-| ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975b6b8206da320f49fc117?utm_campaign=1066&utm_source=git)** | Quantico, VA | Hybrid | Jan 24 |
+| **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975b6b8206da320f49fc117?utm_campaign=1066&utm_source=git)** | Quantico, VA | Hybrid | Jan 24 |
 | ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975a881206da320f49fb60a?utm_campaign=1066&utm_source=git)** | Gaithersburg, MD | Hybrid | Jan 24 |
 | ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975a87dbc8e722e7b1a88ee?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Jan 24 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Data Science Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/697560d1bc8e722e7b1a2bbf?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Customer Experience Data Science Intern](https://jobright.ai/jobs/info/6973b9e0bc8e722e7b188d77?utm_campaign=1066&utm_source=git)** | 100 Gundy Drive, Reading, PA, 19607, US | On Site | Jan 23 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Biology and Medicine - Immunology](https://jobright.ai/jobs/info/6973d79037785856350daa04?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Jan 23 |
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Customer Experience Data Science Intern](https://jobright.ai/jobs/info/6973ad4637785856350d87fa?utm_campaign=1066&utm_source=git)** | Reading, PA, United States | On Site | Jan 23 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Commercial Data Science Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6973ad33206da320f49db0ef?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
