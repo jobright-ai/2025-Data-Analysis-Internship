@@ -71,7 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975a881206da320f49fb60a?utm_campaign=1066&utm_source=git)** | Gaithersburg, MD | Hybrid | Jan 24 |
 | ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975a87dbc8e722e7b1a88ee?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Jan 24 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Data Science Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/697560d1bc8e722e7b1a2bbf?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
-| **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/69755132206da320f49f59f5?utm_campaign=1066&utm_source=git)** | San Antonio, TX | Hybrid | Jan 24 |
 | **[EVgo](http://www.evgo.com)** | **[Intern, Data Analyst (Winter / Spring)](https://jobright.ai/jobs/info/6974fefa37785856350f0664?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 24 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/6974f29037785856350eeb35?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Jan 24 |
 | ↳ | **[2026 Quantitative Insights Lab Intern (PhD)](https://jobright.ai/jobs/info/6974ee68bc8e722e7b19e409?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Jan 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – Analytics, Member Strategy](https://jobright.ai/jobs/info/6973ab14206da320f49daef4?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Jan 23 |
 | ↳ | **[VyStar Intern – Analytics, Member Strategy](https://jobright.ai/jobs/info/6973aa07bc8e722e7b1871bf?utm_campaign=1066&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
 | ↳ | **[VyStar Intern-Advance Analytics](https://jobright.ai/jobs/info/6973a86437785856350d8017?utm_campaign=1066&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
+| **[Discovery Life Sciences](http://www.conversantbio.com/)** | **[Scientific Writing & Data Analytics Unpaid Intern](https://jobright.ai/jobs/info/6973a57f37785856350d7dc4?utm_campaign=1066&utm_source=git)** | Newtown, PA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
