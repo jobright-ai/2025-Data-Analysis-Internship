@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exaquant](https://exaquant.com/)** | **[AI Data Intern](https://jobright.ai/jobs/info/69768dce37785856351030a0?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 25 |
 | **[LogicalisUS](https://www.us.logicalis.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69767517377858563510140e?utm_campaign=1066&utm_source=git)** | Golden, MO | On Site | Jan 25 |
 | **[Bonneville Communications](https://www.bonnevillecommunications.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/697672f3bc8e722e7b1b0521?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 25 |
 | **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/69764f5a206da320f4a02b21?utm_campaign=1066&utm_source=git)** | Honolulu, HI | Hybrid | Jan 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Customer Experience Data Science Intern](https://jobright.ai/jobs/info/6973b9e0bc8e722e7b188d77?utm_campaign=1066&utm_source=git)** | 100 Gundy Drive, Reading, PA, 19607, US | On Site | Jan 23 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Biology and Medicine - Immunology](https://jobright.ai/jobs/info/6973d79037785856350daa04?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Jan 23 |
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Customer Experience Data Science Intern](https://jobright.ai/jobs/info/6973ad4637785856350d87fa?utm_campaign=1066&utm_source=git)** | Reading, PA, United States | On Site | Jan 23 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Commercial Data Science Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6973ad33206da320f49db0ef?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
