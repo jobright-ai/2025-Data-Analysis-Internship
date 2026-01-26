@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 26 |
 | **[Ontario Teachers'​ Pension Plan](https://www.otpp.com/en-ca/investments/our-investments/teachers-venture-growth/)** | **[Intern - Business Insights and Analytics (September 2026 - 12 months)](https://jobright.ai/jobs/info/695b91f7aa05c26e7ab4efba?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 26 |
 | **[AdTheorent](http://www.adtheorent.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6977764152f3c27ec6437c4f?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jan 26 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2026](https://jobright.ai/jobs/info/68ca4aa406a34016008c638e?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Jan 26 |
@@ -100,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Dropbox](https://www.dropbox.com)** | **[Research and Insights Intern (Summer 2026)](https://jobright.ai/jobs/info/6973d68d206da320f49dd0b6?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Imperative Care](http://www.imperativecare.com)** | **[Clinical Data Management & Biostatistics Intern](https://jobright.ai/jobs/info/69749163206da320f49eda5f?utm_campaign=1066&utm_source=git)** | Campbell, CA | On Site | Jan 24 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Data Science Acceleration](https://jobright.ai/jobs/info/697481a5bc8e722e7b19910d?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 24 |
+| **[Dropbox](https://www.dropbox.com)** | **[Research and Insights Intern (Summer 2026)](https://jobright.ai/jobs/info/6973d69f37785856350da905?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jan 24 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2026 Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/69749622206da320f49edb9b?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Research & Insights (L2O Strategy)](https://jobright.ai/jobs/info/6974680e37785856350e833f?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Junior Strategic Analyst](https://jobright.ai/jobs/info/69745c5437785856350e7597?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Jan 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Genomic Prediction Intern](https://jobright.ai/jobs/info/696875ca1703f05405aa2d46?utm_campaign=1066&utm_source=git)** | Durham, NC | Hybrid | Jan 23 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Enterprise Insights Analyst Intern - The Toro Company](https://jobright.ai/jobs/info/6973ed5fbc8e722e7b18cffc?utm_campaign=1066&utm_source=git)** | Bloomington, MN | On Site | Jan 23 |
 | **[MVB Bank](https://mvbbanking.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6973c49e37785856350d9556?utm_campaign=1066&utm_source=git)** | Remote, West Virginia, United States | Remote | Jan 23 |
-| **[Penske Logistics](https://www.penskelogistics.com/)** | **[Customer Experience Data Science Intern](https://jobright.ai/jobs/info/6973b9e0bc8e722e7b188d77?utm_campaign=1066&utm_source=git)** | 100 Gundy Drive, Reading, PA, 19607, US | On Site | Jan 23 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Biology and Medicine - Immunology](https://jobright.ai/jobs/info/6973d79037785856350daa04?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
