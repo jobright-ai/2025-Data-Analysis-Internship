@@ -60,8 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Hotwire](https://www.hotwireglobal.com)** | **[Intern](https://jobright.ai/jobs/info/693a11ae48a8ce22990e13d6?utm_campaign=1066&utm_source=git)** | NYC Metro Area | Hybrid | Jan 25 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6939f66256b68f3dc4e74579?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jan 25 |
 | **[Chewy](https://www.chewy.com)** | **[Research Scientist II Intern](https://jobright.ai/jobs/info/6976c7873778585635105785?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Jan 25 |
-| **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6976a785206da320f4a055f9?utm_campaign=1066&utm_source=git)** | Bedford, MA | Hybrid | Jan 25 |
-| ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6976a178206da320f4a05577?utm_campaign=1066&utm_source=git)** | El Segundo, CA | Hybrid | Jan 25 |
+| **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6976a178206da320f4a05577?utm_campaign=1066&utm_source=git)** | El Segundo, CA | Hybrid | Jan 25 |
 | **[Lamb Weston LATAM](https://www.lambweston.com)** | **[Ag Intern, Analytics](https://jobright.ai/jobs/info/6976976c3778585635103157?utm_campaign=1066&utm_source=git)** | Kennewick, WA | On Site | Jan 25 |
 | **[LogicalisUS](https://www.us.logicalis.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69767517377858563510140e?utm_campaign=1066&utm_source=git)** | Golden, MO | On Site | Jan 25 |
 | **[Bonneville Communications](https://www.bonnevillecommunications.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/697672f3bc8e722e7b1b0521?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Customer Experience Data Science Intern](https://jobright.ai/jobs/info/6973ad4637785856350d87fa?utm_campaign=1066&utm_source=git)** | Reading, PA, United States | On Site | Jan 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Commercial Data Science Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6973ad33206da320f49db0ef?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Jan 23 |
 | **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – Analytics, Member Strategy](https://jobright.ai/jobs/info/6973ab14206da320f49daef4?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Jan 23 |
+| ↳ | **[VyStar Intern – Analytics, Member Strategy](https://jobright.ai/jobs/info/6973aa07bc8e722e7b1871bf?utm_campaign=1066&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
