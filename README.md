@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gallagher Bassett](https://www.robanda.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6977b7ed88e2b47213bbac87?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | On Site | Jan 26 |
 | **[Clearway Energy Group](https://www.clearwayenergygroup.com)** | **[Intern, Forecasting and Analytics](https://jobright.ai/jobs/info/6977b178fdeb8243a27a987c?utm_campaign=1066&utm_source=git)** | Scottsdale, Arizona, United States | Hybrid | Jan 26 |
-| **[Gallagher Bassett](https://www.robanda.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6977a8de52f3c27ec643be7a?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | On Site | Jan 26 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Power Bi Reporting Long Term Intern](https://jobright.ai/jobs/info/69252c3727bf2f41a2c3cd0f?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 26 |
 | **[RBCx](https://www.rbcx.com/)** | **[2026 Summer - RBCx, Client Intelligence & Power BI Development Intern (4 Months)](https://jobright.ai/jobs/info/697793ef88e2b47213bb7bc1?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 26 |
 | **[Analysis Group](http://www.analysisgroup.com)** | **[Data Science Intern (Master's) - Boston (2026 Start Date)](https://jobright.ai/jobs/info/696782b01703f05405a929d1?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jan 26 |
 | ↳ | **[Senior Data Science Intern (PhD) - Boston (2026 Start Date)](https://jobright.ai/jobs/info/696092bda112b402660f4039?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jan 26 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 26 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - RBCx, Client Intelligence & Power BI Development Intern (4 Months)](https://jobright.ai/jobs/info/6977aaf0fdeb8243a27a8ea7?utm_campaign=1066&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Jan 26 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 26 |
 | **[Ontario Teachers'​ Pension Plan](https://www.otpp.com/en-ca/investments/our-investments/teachers-venture-growth/)** | **[Intern - Business Insights and Analytics (September 2026 - 12 months)](https://jobright.ai/jobs/info/695b91f7aa05c26e7ab4efba?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 26 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Lamb Weston LATAM](https://www.lambweston.com)** | **[Ag Intern, Analytics](https://jobright.ai/jobs/info/6976976c3778585635103157?utm_campaign=1066&utm_source=git)** | Kennewick, WA | On Site | Jan 25 |
 | **[LogicalisUS](https://www.us.logicalis.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69767517377858563510140e?utm_campaign=1066&utm_source=git)** | Golden, MO | On Site | Jan 25 |
 | **[Bonneville Communications](https://www.bonnevillecommunications.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/697672f3bc8e722e7b1b0521?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 25 |
+| **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6977b59e52f3c27ec643d376?utm_campaign=1066&utm_source=git)** | Fort Meade, MD | Hybrid | Jan 25 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Fraud Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/69209502a49a885af9a3d07d?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jan 25 |
 | **[MGIC](https://www.mgic.com)** | **[Structured Transactions Intern](https://jobright.ai/jobs/info/6950c7d729655e4dd659fccd?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Jan 25 |
 | **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6976f838fdeb8243a279d7a4?utm_campaign=1066&utm_source=git)** | Offutt Air Force Base, NE | Hybrid | Jan 25 |
@@ -90,7 +92,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6976f756fdeb8243a279d2fc?utm_campaign=1066&utm_source=git)** | Fort Walton Beach, FL | Hybrid | Jan 24 |
 | ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6976fcebfdeb8243a279dd79?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Jan 24 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Data Science Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/697560d1bc8e722e7b1a2bbf?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
-| **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6976537a37785856351007c6?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Jan 24 |
 | **[BASF](https://www.basf.com/)** | **[2026 Summer Internship - Data Science/Computer Engineering - Geismar, LA](https://jobright.ai/jobs/info/69407b1449a7695fbd05fb48?utm_campaign=1066&utm_source=git)** | Geismar, LA | On Site | Jan 24 |
 | **[EVgo](http://www.evgo.com)** | **[Intern, Data Analyst (Winter / Spring)](https://jobright.ai/jobs/info/6974fefa37785856350f0664?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 24 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Computational Data Scientist Intern (PhD)](https://jobright.ai/jobs/info/6974f29037785856350eeb35?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Jan 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[GIS Intern (Summer 2026)](https://jobright.ai/jobs/info/6973da1f206da320f49dd453?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Jan 23 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/6973f63d37785856350dd46b?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Jan 23 |
 | **[MVB Bank](https://mvbbanking.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6973f34a37785856350dcb50?utm_campaign=1066&utm_source=git)** | United, WV | Remote | Jan 23 |
-| **[Acutec Precision Aerospace, Inc.](http://acutecprecision.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6973d19dbc8e722e7b18a138?utm_campaign=1066&utm_source=git)** | Meadville,PA,US | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
