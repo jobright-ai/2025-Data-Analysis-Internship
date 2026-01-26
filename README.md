@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2026](https://jobright.ai/jobs/info/68ca4aa406a34016008c638e?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Jan 26 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Business Insights Analyst II](https://jobright.ai/jobs/info/68b0eaffb47fb001d689668d?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jan 26 |
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/6941d9c014ee092a69ffe91a?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 26 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - HanaHaus Business Intelligence Analyst [Newport Beach, CA]](https://jobright.ai/jobs/info/6977293052f3c27ec643234f?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Jan 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Customer Experience Data Science Intern](https://jobright.ai/jobs/info/6973b9e0bc8e722e7b188d77?utm_campaign=1066&utm_source=git)** | 100 Gundy Drive, Reading, PA, 19607, US | On Site | Jan 23 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Biology and Medicine - Immunology](https://jobright.ai/jobs/info/6973d79037785856350daa04?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Jan 23 |
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Customer Experience Data Science Intern](https://jobright.ai/jobs/info/6973ad4637785856350d87fa?utm_campaign=1066&utm_source=git)** | Reading, PA, United States | On Site | Jan 23 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Commercial Data Science Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6973ad33206da320f49db0ef?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
