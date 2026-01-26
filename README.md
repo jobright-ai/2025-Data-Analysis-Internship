@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ontario Teachers'​ Pension Plan](https://www.otpp.com/en-ca/investments/our-investments/teachers-venture-growth/)** | **[Intern - Business Insights and Analytics (September 2026 - 12 months)](https://jobright.ai/jobs/info/695b91f7aa05c26e7ab4efba?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 26 |
+| **[AdTheorent](http://www.adtheorent.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6977764152f3c27ec6437c4f?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jan 26 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2026](https://jobright.ai/jobs/info/68ca4aa406a34016008c638e?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Jan 26 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Business Insights Analyst II](https://jobright.ai/jobs/info/68b0eaffb47fb001d689668d?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jan 26 |
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/6941d9c014ee092a69ffe91a?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 26 |
@@ -95,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Root Inc.](https://www.root.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6974b395206da320f49ee394?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Twitch](https://www.twitch.tv)** | **[Graduate Data Science Intern](https://jobright.ai/jobs/info/691f28003f782d2f1afb8c39?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jan 24 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - TPG Global IE](https://jobright.ai/jobs/info/68cd29d1e23def7af55b6432?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Jan 24 |
+| **[Dropbox](https://www.dropbox.com)** | **[Research and Insights Intern (Summer 2026)](https://jobright.ai/jobs/info/6973d68d206da320f49dd0b6?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Imperative Care](http://www.imperativecare.com)** | **[Clinical Data Management & Biostatistics Intern](https://jobright.ai/jobs/info/69749163206da320f49eda5f?utm_campaign=1066&utm_source=git)** | Campbell, CA | On Site | Jan 24 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Data Science Acceleration](https://jobright.ai/jobs/info/697481a5bc8e722e7b19910d?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 24 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2026 Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/69749622206da320f49edb9b?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
@@ -116,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[City of Boise](https://www.cityofboise.org/departments/police/)** | **[PDS - Data Intern (Parking)](https://jobright.ai/jobs/info/69742e34bc8e722e7b19247a?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Jan 23 |
 | **[Woven by Toyota](https://woven.toyota/en)** | **[Data Scientist, Ego and Ado Decision (Internship)](https://jobright.ai/jobs/info/69742b79bc8e722e7b192165?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | Hybrid | Jan 23 |
 | **[General Biological](www.generalbiological.com)** | **[Data Science Intern, Ignition Data Visualization](https://jobright.ai/jobs/info/69742a2a206da320f49e4bff?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jan 23 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Data Science Acceleration](https://jobright.ai/jobs/info/69743a6b37785856350e34ed?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Jan 23 |
 | **[Veradigm®](https://veradigm.com)** | **[Health Economics and Outcomes Research Intern](https://jobright.ai/jobs/info/697413f8bc8e722e7b18f430?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 23 |
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[Content Analytics Intern](https://jobright.ai/jobs/info/69741307206da320f49e1f46?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Jan 23 |
 | **[Gallagher](https://www.ajg.com/)** | **[U.S Internship - Data Analytics](https://jobright.ai/jobs/info/69741146bc8e722e7b18f1f1?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | On Site | Jan 23 |
@@ -141,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Data Science Student](https://jobright.ai/jobs/info/697061bc333b6343a14cedb9?utm_campaign=1066&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 23 |
 | **[Ventas, Inc.](http://ventasreit.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/69740884bc8e722e7b18ec54?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 23 |
 | **[ImageTrend](http://www.imagetrend.com)** | **[Research Intern](https://jobright.ai/jobs/info/6973e2e6bc8e722e7b18b70f?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 23 |
-| **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Customer Experience Data Science Intern](https://jobright.ai/jobs/info/6973e06e206da320f49dd92f?utm_campaign=1066&utm_source=git)** | Reading, PA | On Site | Jan 23 |
 | **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[Content Analytics Intern](https://jobright.ai/jobs/info/6973df59bc8e722e7b18af6c?utm_campaign=1066&utm_source=git)** | Arlington - 1801 S Bell (INDG) | On Site | Jan 23 |
 | **[Stantec](http://www.stantec.com)** | **[GIS Intern (Summer 2026)](https://jobright.ai/jobs/info/6973da1f206da320f49dd453?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Jan 23 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/6973f63d37785856350dd46b?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Jan 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MVB Bank](https://mvbbanking.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6973c49e37785856350d9556?utm_campaign=1066&utm_source=git)** | Remote, West Virginia, United States | Remote | Jan 23 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Customer Experience Data Science Intern](https://jobright.ai/jobs/info/6973b9e0bc8e722e7b188d77?utm_campaign=1066&utm_source=git)** | 100 Gundy Drive, Reading, PA, 19607, US | On Site | Jan 23 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Biology and Medicine - Immunology](https://jobright.ai/jobs/info/6973d79037785856350daa04?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Jan 23 |
-| **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Customer Experience Data Science Intern](https://jobright.ai/jobs/info/6973ad4637785856350d87fa?utm_campaign=1066&utm_source=git)** | Reading, PA, United States | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
