@@ -57,10 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gallagher Bassett](https://www.robanda.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6977a8de52f3c27ec643be7a?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | On Site | Jan 26 |
+| **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Power Bi Reporting Long Term Intern](https://jobright.ai/jobs/info/69252c3727bf2f41a2c3cd0f?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 26 |
+| **[RBCx](https://www.rbcx.com/)** | **[2026 Summer - RBCx, Client Intelligence & Power BI Development Intern (4 Months)](https://jobright.ai/jobs/info/697793ef88e2b47213bb7bc1?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 26 |
+| **[Analysis Group](http://www.analysisgroup.com)** | **[Data Science Intern (Master's) - Boston (2026 Start Date)](https://jobright.ai/jobs/info/696782b01703f05405a929d1?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jan 26 |
+| ↳ | **[Senior Data Science Intern (PhD) - Boston (2026 Start Date)](https://jobright.ai/jobs/info/696092bda112b402660f4039?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jan 26 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 26 |
+| **[Copart](http://www.copart.com)** | **[Data Science - Intern](https://jobright.ai/jobs/info/6977a453fdeb8243a27a8381?utm_campaign=1066&utm_source=git)** | Dallas, TX - Headquarters | On Site | Jan 26 |
 | **[Ontario Teachers'​ Pension Plan](https://www.otpp.com/en-ca/investments/our-investments/teachers-venture-growth/)** | **[Intern - Business Insights and Analytics (September 2026 - 12 months)](https://jobright.ai/jobs/info/695b91f7aa05c26e7ab4efba?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 26 |
 | **[AdTheorent](http://www.adtheorent.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6977764152f3c27ec6437c4f?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jan 26 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Quantitative Research Intern 2026](https://jobright.ai/jobs/info/68ca4aa406a34016008c638e?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Jan 26 |
+| **[AdTheorent](http://www.adtheorent.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69779181fdeb8243a27a6ee1?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Jan 26 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Summer '26 Intern - Business Insights Analyst II](https://jobright.ai/jobs/info/68b0eaffb47fb001d689668d?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jan 26 |
 | **[Legends Global](http://legends.net)** | **[Hospitality and Merchandise Insights Intern](https://jobright.ai/jobs/info/6941d9c014ee092a69ffe91a?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 26 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - HanaHaus Business Intelligence Analyst [Newport Beach, CA]](https://jobright.ai/jobs/info/6977293052f3c27ec643234f?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Jan 26 |
@@ -100,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Micron Technology](http://www.micron.com)** | **[Intern - TPG Global IE](https://jobright.ai/jobs/info/68cd29d1e23def7af55b6432?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Jan 24 |
 | **[Dropbox](https://www.dropbox.com)** | **[Research and Insights Intern (Summer 2026)](https://jobright.ai/jobs/info/6973d68d206da320f49dd0b6?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 24 |
 | **[Imperative Care](http://www.imperativecare.com)** | **[Clinical Data Management & Biostatistics Intern](https://jobright.ai/jobs/info/69749163206da320f49eda5f?utm_campaign=1066&utm_source=git)** | Campbell, CA | On Site | Jan 24 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Data Science Acceleration](https://jobright.ai/jobs/info/697481a5bc8e722e7b19910d?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 24 |
 | **[Dropbox](https://www.dropbox.com)** | **[Research and Insights Intern (Summer 2026)](https://jobright.ai/jobs/info/6973d69f37785856350da905?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jan 24 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2026 Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/69749622206da320f49edb9b?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 23 |
 | **[Salesforce](https://www.salesforce.com)** | **[Summer 2026 Intern - Research & Insights (L2O Strategy)](https://jobright.ai/jobs/info/6974680e37785856350e833f?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jan 23 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MVB Bank](https://mvbbanking.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6973f34a37785856350dcb50?utm_campaign=1066&utm_source=git)** | United, WV | Remote | Jan 23 |
 | **[Acutec Precision Aerospace, Inc.](http://acutecprecision.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6973d19dbc8e722e7b18a138?utm_campaign=1066&utm_source=git)** | Meadville,PA,US | On Site | Jan 23 |
 | **[HARMAN International](https://www.harman.com/)** | **[​Summer Intern – Business Analytics​](https://jobright.ai/jobs/info/6973ce3cbc8e722e7b189d42?utm_campaign=1066&utm_source=git)** | Northridge - California, USA | On Site | Jan 23 |
-| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[BI Developer Intern](https://jobright.ai/jobs/info/6973cc57bc8e722e7b189aff?utm_campaign=1066&utm_source=git)** | St. Louis, MO, US | On Site | Jan 23 |
-| ↳ | **[BI Developer Intern](https://jobright.ai/jobs/info/6973caf637785856350d9c93?utm_campaign=1066&utm_source=git)** | St. Louis - Brentwood, Richmond Heights, Clayton, Maplewood & central areas | On Site | Jan 23 |
-| **[Syngenta](http://www.syngenta.com)** | **[Geospatial Remote Sensing Intern](https://jobright.ai/jobs/info/696853da639b452fb57df576?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Remote | Jan 23 |
-| ↳ | **[Genomic Prediction Intern](https://jobright.ai/jobs/info/696875ca1703f05405aa2d46?utm_campaign=1066&utm_source=git)** | Durham, NC | Hybrid | Jan 23 |
-| **[The Toro Company](https://www.thetorocompany.com)** | **[Enterprise Insights Analyst Intern - The Toro Company](https://jobright.ai/jobs/info/6973ed5fbc8e722e7b18cffc?utm_campaign=1066&utm_source=git)** | Bloomington, MN | On Site | Jan 23 |
-| **[MVB Bank](https://mvbbanking.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6973c49e37785856350d9556?utm_campaign=1066&utm_source=git)** | Remote, West Virginia, United States | Remote | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
