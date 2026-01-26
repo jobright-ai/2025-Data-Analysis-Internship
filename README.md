@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, Bachelor’s or Master’s Degree (Summer 2026)](https://jobright.ai/jobs/info/6977cb99fdeb8243a27ab859?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
+| **[Cambridge Savings Bank](http://www.cambridgesavings.com)** | **[Intern - Customer Data Analytics](https://jobright.ai/jobs/info/6977c586fdeb8243a27ab1c9?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Jan 26 |
+| **[Schonfeld](http://www.schonfeld.com/)** | **[Data and Business Analyst Intern](https://jobright.ai/jobs/info/6977c4cf88e2b47213bbba30?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Jan 26 |
+| **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern - Data Analyst](https://jobright.ai/jobs/info/6977c3ea88e2b47213bbb94d?utm_campaign=1066&utm_source=git)** | Lakeland Florida | On Site | Jan 26 |
+| **[Hunter Agriculture](https://senninger.com)** | **[Intern - Business Data Analyst](https://jobright.ai/jobs/info/6977c22d88e2b47213bbb7ab?utm_campaign=1066&utm_source=git)** | San Marcos, California, United States | Hybrid | Jan 26 |
+| **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern-Category Analyst, Micro Space](https://jobright.ai/jobs/info/6977c21f88e2b47213bbb79f?utm_campaign=1066&utm_source=git)** | Lakeland, FL | On Site | Jan 26 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6977b7ed88e2b47213bbac87?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | On Site | Jan 26 |
 | **[Clearway Energy Group](https://www.clearwayenergygroup.com)** | **[Intern, Forecasting and Analytics](https://jobright.ai/jobs/info/6977b178fdeb8243a27a987c?utm_campaign=1066&utm_source=git)** | Scottsdale, Arizona, United States | Hybrid | Jan 26 |
+| **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern-Category Analyst, Micro Space](https://jobright.ai/jobs/info/6977caf452f3c27ec643ecbc?utm_campaign=1066&utm_source=git)** | Lakeland Florida | On Site | Jan 26 |
+| ↳ | **[Intern - Asset Protection Analytics](https://jobright.ai/jobs/info/6977cad152f3c27ec643ec7e?utm_campaign=1066&utm_source=git)** | Lakeland Florida | On Site | Jan 26 |
 | **[Federal Home Loan Bank of Indianapolis (FHLBI)](https://www.fhlbi.com)** | **[Power Bi Reporting Long Term Intern](https://jobright.ai/jobs/info/69252c3727bf2f41a2c3cd0f?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 26 |
 | **[RBCx](https://www.rbcx.com/)** | **[2026 Summer - RBCx, Client Intelligence & Power BI Development Intern (4 Months)](https://jobright.ai/jobs/info/697793ef88e2b47213bb7bc1?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 26 |
 | **[Analysis Group](http://www.analysisgroup.com)** | **[Data Science Intern (Master's) - Boston (2026 Start Date)](https://jobright.ai/jobs/info/696782b01703f05405a929d1?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Jan 26 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Computational Biology and Medicine - Immunology](https://jobright.ai/jobs/info/6973e0f7bc8e722e7b18b2f2?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 23 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Analysis Intern](https://jobright.ai/jobs/info/6973ec23bc8e722e7b18ccdd?utm_campaign=1066&utm_source=git)** | United States of America, McLean, Virginia | Hybrid | Jan 23 |
 | **[Lamb Weston](http://www.lambweston.com/)** | **[Ag Intern, Analytics](https://jobright.ai/jobs/info/6973e919206da320f49de0ec?utm_campaign=1066&utm_source=git)** | Kennewick, WA, USA (Kennewick Office) | On Site | Jan 23 |
-| **[Hitachi Rail](http://www.hitachirail.com/)** | **[Procurement Intern (Summer 2026)](https://jobright.ai/jobs/info/6973e87d37785856350db86d?utm_campaign=1066&utm_source=git)** | Toronto | Hybrid | Jan 23 |
-| **[ATB Financial](http://www.atb.com/)** | **[ATB 101 - Data Science Student](https://jobright.ai/jobs/info/697061bc333b6343a14cedb9?utm_campaign=1066&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Jan 23 |
-| **[Ventas, Inc.](http://ventasreit.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/69740884bc8e722e7b18ec54?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 23 |
-| **[ImageTrend](http://www.imagetrend.com)** | **[Research Intern](https://jobright.ai/jobs/info/6973e2e6bc8e722e7b18b70f?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 23 |
-| **[Bloomberg Industry Group](https://www.bloombergindustry.com/)** | **[Content Analytics Intern](https://jobright.ai/jobs/info/6973df59bc8e722e7b18af6c?utm_campaign=1066&utm_source=git)** | Arlington - 1801 S Bell (INDG) | On Site | Jan 23 |
-| **[Stantec](http://www.stantec.com)** | **[GIS Intern (Summer 2026)](https://jobright.ai/jobs/info/6973da1f206da320f49dd453?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Jan 23 |
-| **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/6973f63d37785856350dd46b?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Jan 23 |
-| **[MVB Bank](https://mvbbanking.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6973f34a37785856350dcb50?utm_campaign=1066&utm_source=git)** | United, WV | Remote | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
