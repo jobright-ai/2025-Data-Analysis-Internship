@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chewy](https://www.chewy.com)** | **[Research Scientist II Intern](https://jobright.ai/jobs/info/6976c7873778585635105785?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Jan 25 |
 | **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6976a785206da320f4a055f9?utm_campaign=1066&utm_source=git)** | Bedford, MA | Hybrid | Jan 25 |
 | ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6976a178206da320f4a05577?utm_campaign=1066&utm_source=git)** | El Segundo, CA | Hybrid | Jan 25 |
 | ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6976a165206da320f4a05570?utm_campaign=1066&utm_source=git)** | Huntsville, AL | Hybrid | Jan 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Enterprise Insights Analyst Intern - The Toro Company](https://jobright.ai/jobs/info/6973ed5fbc8e722e7b18cffc?utm_campaign=1066&utm_source=git)** | Bloomington, MN | On Site | Jan 23 |
 | **[MVB Bank](https://mvbbanking.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6973c49e37785856350d9556?utm_campaign=1066&utm_source=git)** | Remote, West Virginia, United States | Remote | Jan 23 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Customer Experience Data Science Intern](https://jobright.ai/jobs/info/6973b9e0bc8e722e7b188d77?utm_campaign=1066&utm_source=git)** | 100 Gundy Drive, Reading, PA, 19607, US | On Site | Jan 23 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Biology and Medicine - Immunology](https://jobright.ai/jobs/info/6973d79037785856350daa04?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
