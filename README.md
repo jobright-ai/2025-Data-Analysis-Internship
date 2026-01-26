@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hotwire](https://www.hotwireglobal.com)** | **[Intern](https://jobright.ai/jobs/info/693a11ae48a8ce22990e13d6?utm_campaign=1066&utm_source=git)** | NYC Metro Area | Hybrid | Jan 25 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6939f66256b68f3dc4e74579?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jan 25 |
 | **[Chewy](https://www.chewy.com)** | **[Research Scientist II Intern](https://jobright.ai/jobs/info/6976c7873778585635105785?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Jan 25 |
 | **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6976a785206da320f4a055f9?utm_campaign=1066&utm_source=git)** | Bedford, MA | Hybrid | Jan 25 |
 | ↳ | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6976a178206da320f4a05577?utm_campaign=1066&utm_source=git)** | El Segundo, CA | Hybrid | Jan 25 |
@@ -71,8 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Lennox](http://www.lennox.com)** | **[Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6902955cff462851fefe4f2d?utm_campaign=1066&utm_source=git)** | West Columbia, SC | On Site | Jan 25 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Enterprise Insights Analyst Intern - The Toro Company](https://jobright.ai/jobs/info/6975f4dfbc8e722e7b1ab8cc?utm_campaign=1066&utm_source=git)** | Hennepin County, MN | On Site | Jan 25 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6975cd4bbc8e722e7b1a9adf?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 24 |
-| **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6975a881206da320f49fb60a?utm_campaign=1066&utm_source=git)** | Gaithersburg, MD | Hybrid | Jan 24 |
-| **[Philips](https://www.usa.philips.com)** | **[Intern-Data Strategy & Analytics-Cambridge, MA  or Nashville, TN-Summer 2026](https://jobright.ai/jobs/info/6976dfcc206da320f4a086ce?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 24 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Data Science Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/697560d1bc8e722e7b1a2bbf?utm_campaign=1066&utm_source=git)** | Irvine, CA | On Site | Jan 24 |
 | **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6976537a37785856351007c6?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Jan 24 |
 | **[BASF](https://www.basf.com/)** | **[2026 Summer Internship - Data Science/Computer Engineering - Geismar, LA](https://jobright.ai/jobs/info/69407b1449a7695fbd05fb48?utm_campaign=1066&utm_source=git)** | Geismar, LA | On Site | Jan 24 |
@@ -122,8 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Data Science AI&I Intern – (MS degree level) Florida campus](https://jobright.ai/jobs/info/69740c1bbc8e722e7b18eec8?utm_campaign=1066&utm_source=git)** | Jacksonville, FL, United States | On Site | Jan 23 |
 | ↳ | **[Data Science AI&I Intern – (PhD degree level) - Florida campus](https://jobright.ai/jobs/info/69740bef206da320f49e1aff?utm_campaign=1066&utm_source=git)** | Jacksonville, FL, United States | On Site | Jan 23 |
 | **[ImageTrend](http://www.imagetrend.com)** | **[Research Intern](https://jobright.ai/jobs/info/69742a25206da320f49e4bf8?utm_campaign=1066&utm_source=git)** | Remote in Eagan, MN | Remote | Jan 23 |
-| **[Hotwire](https://www.hotwireglobal.com)** | **[Intern](https://jobright.ai/jobs/info/693a11ae48a8ce22990e13d6?utm_campaign=1066&utm_source=git)** | NYC Metro Area | Hybrid | Jan 23 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6939f66256b68f3dc4e74579?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jan 23 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Calibration Process Data Science Intern (8 months/40 hours per week)](https://jobright.ai/jobs/info/697406ea206da320f49e1716?utm_campaign=1066&utm_source=git)** | Farmington Hills, MI | On Site | Jan 23 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Data Science AI&I Intern – (MS degree level) Florida campus](https://jobright.ai/jobs/info/69740514bc8e722e7b18e986?utm_campaign=1066&utm_source=git)** | Jacksonville, FL, United States | On Site | Jan 23 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern – Business Analytics](https://jobright.ai/jobs/info/697404fabc8e722e7b18e967?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Jan 23 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[MVB Bank](https://mvbbanking.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6973c49e37785856350d9556?utm_campaign=1066&utm_source=git)** | Remote, West Virginia, United States | Remote | Jan 23 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[Customer Experience Data Science Intern](https://jobright.ai/jobs/info/6973b9e0bc8e722e7b188d77?utm_campaign=1066&utm_source=git)** | 100 Gundy Drive, Reading, PA, 19607, US | On Site | Jan 23 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Biology and Medicine - Immunology](https://jobright.ai/jobs/info/6973d79037785856350daa04?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Jan 23 |
+| **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Customer Experience Data Science Intern](https://jobright.ai/jobs/info/6973ad4637785856350d87fa?utm_campaign=1066&utm_source=git)** | Reading, PA, United States | On Site | Jan 23 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Commercial Data Science Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6973ad33206da320f49db0ef?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
