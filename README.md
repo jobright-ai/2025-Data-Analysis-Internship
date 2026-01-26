@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - HanaHaus Business Intelligence Analyst [Newport Beach, CA]](https://jobright.ai/jobs/info/6977293052f3c27ec643234f?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Jan 26 |
+| ↳ | **[SAP iXp Intern - HanaHaus Business Intelligence Analyst [Newport Beach, CA]](https://jobright.ai/jobs/info/697720e852f3c27ec643212d?utm_campaign=1066&utm_source=git)** | Newport Beach, CA, US, 92660 | Hybrid | Jan 26 |
 | **[Hotwire](https://www.hotwireglobal.com)** | **[Intern](https://jobright.ai/jobs/info/693a11ae48a8ce22990e13d6?utm_campaign=1066&utm_source=git)** | NYC Metro Area | Hybrid | Jan 25 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6939f66256b68f3dc4e74579?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Jan 25 |
 | **[Chewy](https://www.chewy.com)** | **[Research Scientist II Intern](https://jobright.ai/jobs/info/6976c7873778585635105785?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Jan 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Biology and Medicine - Immunology](https://jobright.ai/jobs/info/6973d79037785856350daa04?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Jan 23 |
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[Customer Experience Data Science Intern](https://jobright.ai/jobs/info/6973ad4637785856350d87fa?utm_campaign=1066&utm_source=git)** | Reading, PA, United States | On Site | Jan 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Commercial Data Science Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6973ad33206da320f49db0ef?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Jan 23 |
-| **[VyStar Credit Union](http://www.vystarcu.org)** | **[VyStar Intern – Analytics, Member Strategy](https://jobright.ai/jobs/info/6973ab14206da320f49daef4?utm_campaign=1066&utm_source=git)** | Jacksonville, FL | On Site | Jan 23 |
-| ↳ | **[VyStar Intern – Analytics, Member Strategy](https://jobright.ai/jobs/info/6973aa07bc8e722e7b1871bf?utm_campaign=1066&utm_source=git)** | Jacksonville, FL - VyStar Tower | Hybrid | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
