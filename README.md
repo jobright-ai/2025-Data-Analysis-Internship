@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gallagher Bassett](https://www.robanda.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6940632149a7695fbd05e74c?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | On Site | Jan 27 |
+| **[Weidmann Electrical Technology](https://www.weidmann-electrical.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69405ae849a7695fbd05e29b?utm_campaign=1066&utm_source=git)** | Urbana, OH | On Site | Jan 27 |
 | **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/69408caa49a7695fbd061e2e?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Jan 27 |
 | **[Corsair](http://www.corsair.com)** | **[Data Science Intern 2](https://jobright.ai/jobs/info/694077b449a7695fbd05f6f9?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
 | **[Lamb Weston LATAM](https://www.lambweston.com)** | **[Agriculture Intern, Data Analytics](https://jobright.ai/jobs/info/6978ad2188e2b47213bcc7ad?utm_campaign=1066&utm_source=git)** | Kennewick, WA | On Site | Jan 27 |
@@ -107,9 +109,9 @@ For a complete list, click the following sortable link below:
 | **[Proctor Loan Protector](https://proctorlp.com)** | **[Data Reporting Admin Intern](https://jobright.ai/jobs/info/697825d8fdeb8243a27b1a8e?utm_campaign=1066&utm_source=git)** | Troy, MI | On Site | Jan 26 |
 | **[Sobi - Swedish Orphan Biovitrum AB (publ)](http://www.sobi.com/en)** | **[Data Science and Advanced Analytics Internship (hybrid)](https://jobright.ai/jobs/info/697827a0fdeb8243a27b1c9a?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Jan 26 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Service Planning Analyst Intern](https://jobright.ai/jobs/info/69782e7688e2b47213bc351d?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 26 |
-| **[GSK](http://www.gsk.com)** | **[Summer Intern/Data Analysis](https://jobright.ai/jobs/info/69782ebc88e2b47213bc3562?utm_campaign=1066&utm_source=git)** | Durham NC/Hybrid, UNAVAILABLE, 
+| **[GSK](http://www.gsk.com)** | **[Summer Intern/Data Analysis](https://jobright.ai/jobs/info/6978286b52f3c27ec64455d9?utm_campaign=1066&utm_source=git)** | US-Durham NC/Hybrid | Hybrid | Jan 26 |
+| ↳ | **[Summer Intern/Data Analysis](https://jobright.ai/jobs/info/69782ebc88e2b47213bc3562?utm_campaign=1066&utm_source=git)** | Durham NC/Hybrid, UNAVAILABLE, 
 US | Hybrid | Jan 26 |
-| ↳ | **[Summer Intern/Data Analysis](https://jobright.ai/jobs/info/6978286b52f3c27ec64455d9?utm_campaign=1066&utm_source=git)** | US-Durham NC/Hybrid | Hybrid | Jan 26 |
 | **[RefinedScience](https://www.refinedscience.com/)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/69782865fdeb8243a27b1d72?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 26 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Product Development Data Science](https://jobright.ai/jobs/info/697830f952f3c27ec644602b?utm_campaign=1066&utm_source=git)** | South San Francisco | Hybrid | Jan 26 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[CX Analytics Tableau Developer-Intern](https://jobright.ai/jobs/info/6978016988e2b47213bc0c99?utm_campaign=1066&utm_source=git)** | 100 Gundy Drive, Reading, PA, 19607, US | On Site | Jan 26 |
@@ -156,6 +158,4 @@ US | Hybrid | Jan 26 |
 | **[Analysis Group](http://www.analysisgroup.com)** | **[Senior Data Science Intern (PhD) - Montreal (2026 Start Date) / Stage - Scientifique des données senior (diplôme de doctorat) - Montréal (Date de début 2026](https://jobright.ai/jobs/info/6927c40c91ceeb2e8a542e93?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 26 |
 | ↳ | **[Data Science Intern (Master's) - Montreal (2026 Start Date) / Stage - Scientifique des données (diplôme de maîtrise) - Montréal (Date de début 2026)](https://jobright.ai/jobs/info/6927be97f0beb0723262da21?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jan 26 |
 | **[Kids on the Move](https://www.kotm.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6977de09fdeb8243a27ad09e?utm_campaign=1066&utm_source=git)** | Orem, UT | On Site | Jan 26 |
-| **[Sobi - Swedish Orphan Biovitrum AB (publ)](http://www.sobi.com/en)** | **[Data Science and Advanced Analytics Internship (hybrid)](https://jobright.ai/jobs/info/6977e3d3fdeb8243a27ad73f?utm_campaign=1066&utm_source=git)** | Waltham, MA, USA | Hybrid | Jan 26 |
-| **[Gallagher Bassett](https://www.robanda.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6977b7ed88e2b47213bbac87?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
