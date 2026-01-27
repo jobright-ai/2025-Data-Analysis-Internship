@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Summer Intern Statistics Dec Sci](https://jobright.ai/jobs/info/695c013822c9dc0d3d53e3ae?utm_campaign=1066&utm_source=git)** | Raritan, NJ | Hybrid | Jan 26 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Transportation Planning Analytics Intern](https://jobright.ai/jobs/info/69786d4152f3c27ec644bd24?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Summer Intern Statistics Dec Sci](https://jobright.ai/jobs/info/695bfe6322c9dc0d3d53e21b?utm_campaign=1066&utm_source=git)** | Spring House, PA | Hybrid | Jan 26 |
 | **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6978562a88e2b47213bc7f4e?utm_campaign=1066&utm_source=git)** | Shrewsbury, NJ | Hybrid | Jan 26 |
@@ -152,10 +153,9 @@ US | Hybrid | Jan 26 |
 | ↳ | **[Intern - Distribution Analyst](https://jobright.ai/jobs/info/6977d7d6fdeb8243a27ac78e?utm_campaign=1066&utm_source=git)** | Lakeland, FL | On Site | Jan 26 |
 | ↳ | **[Intern - Distribution Analyst](https://jobright.ai/jobs/info/6977d60552f3c27ec643fb69?utm_campaign=1066&utm_source=git)** | 345 N Galloway Rd | On Site | Jan 26 |
 | ↳ | **[Intern - Distribution Analyst](https://jobright.ai/jobs/info/6977d33288e2b47213bbca19?utm_campaign=1066&utm_source=git)** | Lakeland Florida | On Site | Jan 26 |
+| ↳ | **[Intern - Asset Protection Analytics](https://jobright.ai/jobs/info/6977daae88e2b47213bbd4d2?utm_campaign=1066&utm_source=git)** | Lakeland, FL | On Site | Jan 26 |
 | ↳ | **[Intern - Asset Protection Analytics](https://jobright.ai/jobs/info/6977dc63fdeb8243a27ace52?utm_campaign=1066&utm_source=git)** | 3300 Publix Corporate Parkway | On Site | Jan 26 |
 | ↳ | **[Intern - Asset Protection Analytics](https://jobright.ai/jobs/info/6977cad152f3c27ec643ec7e?utm_campaign=1066&utm_source=git)** | Lakeland Florida | On Site | Jan 26 |
-| ↳ | **[Intern - Asset Protection Analytics](https://jobright.ai/jobs/info/6977daae88e2b47213bbd4d2?utm_campaign=1066&utm_source=git)** | Lakeland, FL | On Site | Jan 26 |
 | ↳ | **[Intern - Data Analyst](https://jobright.ai/jobs/info/6977d0d3fdeb8243a27abeff?utm_campaign=1066&utm_source=git)** | Lakeland, FL | On Site | Jan 26 |
 | ↳ | **[Intern - Data Analyst](https://jobright.ai/jobs/info/6977da4952f3c27ec64400aa?utm_campaign=1066&utm_source=git)** | 3300 Publix Corporate Parkway | On Site | Jan 26 |
-| **[Edelman](http://www.edelman.com)** | **[D&I Summer Intern](https://jobright.ai/jobs/info/6977d9f952f3c27ec6440061?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
