@@ -57,12 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Syngenta](http://www.syngenta.com)** | **[Geospatial Remote Sensing Intern](https://jobright.ai/jobs/info/69790e3e88e2b47213bd2b1b?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Remote | Jan 27 |
+| **[AskBio Inc.](http://www.askbio.com/)** | **[Intern- IT, AI Team, Data](https://jobright.ai/jobs/info/69790ab488e2b47213bd24ee?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Jan 27 |
+| ↳ | **[Intern- Biostatistics](https://jobright.ai/jobs/info/6979081388e2b47213bd1d4d?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Jan 27 |
+| **[MGIC](https://www.mgic.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/697904cb39f7f96cc6d159cf?utm_campaign=1066&utm_source=git)** | Milwaukee, WI | On Site | Jan 27 |
+| **[Comcast](https://corporate.comcast.com)** | **[Data Analyst Intern, Comcast Spectacor Gaming (Spring 2026)](https://jobright.ai/jobs/info/697903d752f3c27ec6454dc4?utm_campaign=1066&utm_source=git)** | CA - Universal City, Bldg 1440 10 Univ City Plaza | Hybrid | Jan 27 |
+| **[SullivanCotter](https://sullivancotter.com/)** | **[Data Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/6978e59452f3c27ec64523f7?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 27 |
+| **[Precision Castparts](http://precast.com)** | **[Data Analyst Co-Op Intern (Tooling)](https://jobright.ai/jobs/info/695d0d42f5f3c43f38e1dc72?utm_campaign=1066&utm_source=git)** | Canton, MI | On Site | Jan 27 |
+| **[Zeta Global](http://www.zetaglobal.com)** | **[Data Science & Analytics Intern - Acquisition Email](https://jobright.ai/jobs/info/69586c96f1f8465b79ef11f4?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Business Insights](https://jobright.ai/jobs/info/6978f35052f3c27ec645361f?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
 | **[MEMIC](https://www.memic.com/)** | **[IT Architecture & Innovation Internship](https://jobright.ai/jobs/info/6978dc4b39f7f96cc6d1366a?utm_campaign=1066&utm_source=git)** | Portland, Maine | On Site | Jan 27 |
 | ↳ | **[IT Architecture & Innovation Internship](https://jobright.ai/jobs/info/6978e44a88e2b47213bcf941?utm_campaign=1066&utm_source=git)** | Portland, ME | On Site | Jan 27 |
-| ↳ | **[Business Intelligence Internship](https://jobright.ai/jobs/info/6978e66439f7f96cc6d13bb6?utm_campaign=1066&utm_source=git)** | Portland, ME | On Site | Jan 27 |
-| **[SullivanCotter](https://sullivancotter.com/)** | **[Data Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/6978e59452f3c27ec64523f7?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 27 |
+| **[City of Hollywood, Florida](https://hollywoodfl.org)** | **[Geographic Information System Intern](https://jobright.ai/jobs/info/69790cd788e2b47213bd2a44?utm_campaign=1066&utm_source=git)** | Hollywood, FL | Hybrid | Jan 27 |
+| **[MEMIC](https://www.memic.com/)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/6978e66439f7f96cc6d13bb6?utm_campaign=1066&utm_source=git)** | Portland, ME | On Site | Jan 27 |
+| **[Texas Instruments](http://www.ti.com)** | **[Smart Manufacturing & Automation Data Science Intern](https://jobright.ai/jobs/info/6979050a88e2b47213bd14e7?utm_campaign=1066&utm_source=git)** | RFAB 300 W. Renner Road, Richardson, TX, 75080, US | On Site | Jan 27 |
 | **[American Electric Power](http://aep.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/695d21f0f5f3c43f38e1e8d2?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Jan 27 |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern, Per Diem - Chen Lab](https://jobright.ai/jobs/info/6979033d39f7f96cc6d157c1?utm_campaign=1066&utm_source=git)** | 6500 Wilshire Blvd, Los Angeles, CA, 90048, US | On Site | Jan 27 |
 | **[Verdantas](https://www.verdantas.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6978e0a639f7f96cc6d13875?utm_campaign=1066&utm_source=git)** | Remote-TX | Remote | Jan 27 |
 | **[SAP](https://www.sap.com)** | **[SAP NS2 Support Intern - Analytics & Data, oCOO Data Management](https://jobright.ai/jobs/info/6978db0139f7f96cc6d135b0?utm_campaign=1066&utm_source=git)** | Herndon, VA | On Site | Jan 27 |
 | **[MEMIC](https://www.memic.com/)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/6978d8f888e2b47213bcf380?utm_campaign=1066&utm_source=git)** | Portland, Maine | On Site | Jan 27 |
@@ -148,14 +158,4 @@ US | Hybrid | Jan 26 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Data Science Intern](https://jobright.ai/jobs/info/6978031188e2b47213bc0d99?utm_campaign=1066&utm_source=git)** | Northbrook, IL, United States | On Site | Jan 26 |
 | **[Amynta Group](https://www.amyntagroup.com)** | **[IT Technical Intern - 2026 Summer](https://jobright.ai/jobs/info/6977e39788e2b47213bbdf69?utm_campaign=1066&utm_source=git)** | NJ - Remote | Remote | Jan 26 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Data Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/6977e08988e2b47213bbde3d?utm_campaign=1066&utm_source=git)** | Yocumtown, PA | On Site | Jan 26 |
-| **[Landis+Gyr](https://www.landisgyr.com/)** | **[Intern - Market & Business Data Analyst](https://jobright.ai/jobs/info/6977ff8252f3c27ec6443865?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Jan 26 |
-| **[UPMC](https://www.upmc.com/)** | **[UPMC Summer Intern, Data Analysis and Process Improvement Ancillary Department- Hybrid- (Must be in Pittsburgh or Surrounding Area)](https://jobright.ai/jobs/info/6977deb3fdeb8243a27ad123?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | Hybrid | Jan 26 |
-| **[Schonfeld](http://www.schonfeld.com/)** | **[Data and Business Analyst Intern](https://jobright.ai/jobs/info/6977de6c88e2b47213bbdaee?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 26 |
-| **[Emergent Holdings](https://emergentholdingsinc.com/)** | **[Internship - Advanced Analytics](https://jobright.ai/jobs/info/6977d7e352f3c27ec643fe07?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 26 |
-| **[Perdue Farms](http://www.perduefarms.com/)** | **[Performance & Alignment Intern](https://jobright.ai/jobs/info/6977d7a3fdeb8243a27ac740?utm_campaign=1066&utm_source=git)** | Salisbury, MD | On Site | Jan 26 |
-| **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, Bachelor’s or Master’s Degree (Summer 2026)](https://jobright.ai/jobs/info/6977d5d352f3c27ec643fb2e?utm_campaign=1066&utm_source=git)** | Austin, CO | On Site | Jan 26 |
-| **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Data Science Intern](https://jobright.ai/jobs/info/6977f381fdeb8243a27af306?utm_campaign=1066&utm_source=git)** | 333 Pfingsten Road, Northbrook, IL, 60062, US | On Site | Jan 26 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Business Intelligence Developer – Intern](https://jobright.ai/jobs/info/6977ee2ffdeb8243a27ae779?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 26 |
-| **[Amynta Group](https://www.amyntagroup.com)** | **[IT Technical Intern - 2026 Summer](https://jobright.ai/jobs/info/6977edfb52f3c27ec6441d84?utm_campaign=1066&utm_source=git)** | TX - Remote | Remote | Jan 26 |
-| **[Clearway Energy Group](https://www.clearwayenergygroup.com)** | **[Intern, Forecasting and Analytics](https://jobright.ai/jobs/info/6977e5a652f3c27ec6440ee3?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
