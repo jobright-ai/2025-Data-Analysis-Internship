@@ -57,11 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/69408caa49a7695fbd061e2e?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Jan 27 |
+| **[Corsair](http://www.corsair.com)** | **[Data Science Intern 2](https://jobright.ai/jobs/info/694077b449a7695fbd05f6f9?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
+| **[Lamb Weston LATAM](https://www.lambweston.com)** | **[Agriculture Intern, Data Analytics](https://jobright.ai/jobs/info/6978ad2188e2b47213bcc7ad?utm_campaign=1066&utm_source=git)** | Kennewick, WA | On Site | Jan 27 |
+| **[Corsair](http://www.corsair.com)** | **[Data Science Intern 1](https://jobright.ai/jobs/info/694080ce50bbaf765052866b?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Analyst Internship – Global Banking, Transaction Banking](https://jobright.ai/jobs/info/6943109750bbaf765054e865?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 27 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Scientist - Paid Intern](https://jobright.ai/jobs/info/696753651703f05405a8fbaf?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 27 |
 | **[Brother USA](https://brother-usa.com)** | **[Google Analytics & Analysis Intern (IT) (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bfc8c22c9dc0d3d53e143?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
 | ↳ | **[Data Governance Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf853f1f8465b79f207b8?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Biostatistics Associate](https://jobright.ai/jobs/info/69787d0339f7f96cc6d0e172?utm_campaign=1066&utm_source=git)** | Mattawan, MI | On Site | Jan 27 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Service Planning Analyst Intern](https://jobright.ai/jobs/info/697876df39f7f96cc6d0dddf?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 27 |
+| **[Stripe](https://stripe.com)** | **[Data Analyst, Intern (Master's degree)](https://jobright.ai/jobs/info/6978a50c52f3c27ec644ef1c?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 27 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Summer Intern Statistics Dec Sci](https://jobright.ai/jobs/info/695c013822c9dc0d3d53e3ae?utm_campaign=1066&utm_source=git)** | Raritan, NJ | Hybrid | Jan 26 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Transportation Planning Analytics Intern](https://jobright.ai/jobs/info/69786d4152f3c27ec644bd24?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Summer Intern Statistics Dec Sci](https://jobright.ai/jobs/info/695bfe6322c9dc0d3d53e21b?utm_campaign=1066&utm_source=git)** | Spring House, PA | Hybrid | Jan 26 |
@@ -152,10 +158,4 @@ US | Hybrid | Jan 26 |
 | **[Kids on the Move](https://www.kotm.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6977de09fdeb8243a27ad09e?utm_campaign=1066&utm_source=git)** | Orem, UT | On Site | Jan 26 |
 | **[Sobi - Swedish Orphan Biovitrum AB (publ)](http://www.sobi.com/en)** | **[Data Science and Advanced Analytics Internship (hybrid)](https://jobright.ai/jobs/info/6977e3d3fdeb8243a27ad73f?utm_campaign=1066&utm_source=git)** | Waltham, MA, USA | Hybrid | Jan 26 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6977b7ed88e2b47213bbac87?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | On Site | Jan 26 |
-| **[Clearway Energy Group](https://www.clearwayenergygroup.com)** | **[Intern, Forecasting and Analytics](https://jobright.ai/jobs/info/6977b178fdeb8243a27a987c?utm_campaign=1066&utm_source=git)** | Scottsdale, Arizona, United States | Hybrid | Jan 26 |
-| **[Brinks Home](https://brinkshome.com/)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6977db7a52f3c27ec644022b?utm_campaign=1066&utm_source=git)** | Farmers Branch, Texas | Hybrid | Jan 26 |
-| **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern-Category Analyst, Micro Space](https://jobright.ai/jobs/info/6977d267fdeb8243a27ac0f2?utm_campaign=1066&utm_source=git)** | 3300 Publix Corporate Parkway | On Site | Jan 26 |
-| ↳ | **[Intern-Category Analyst, Micro Space](https://jobright.ai/jobs/info/6977caf452f3c27ec643ecbc?utm_campaign=1066&utm_source=git)** | Lakeland Florida | On Site | Jan 26 |
-| ↳ | **[Intern - Distribution Analyst](https://jobright.ai/jobs/info/6977d33288e2b47213bbca19?utm_campaign=1066&utm_source=git)** | Lakeland Florida | On Site | Jan 26 |
-| ↳ | **[Intern - Distribution Analyst](https://jobright.ai/jobs/info/6977d7d6fdeb8243a27ac78e?utm_campaign=1066&utm_source=git)** | Lakeland, FL | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
