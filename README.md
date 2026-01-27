@@ -130,9 +130,9 @@ For a complete list, click the following sortable link below:
 | **[Proctor Loan Protector](https://proctorlp.com)** | **[Data Reporting Admin Intern](https://jobright.ai/jobs/info/697825d8fdeb8243a27b1a8e?utm_campaign=1066&utm_source=git)** | Troy, MI | On Site | Jan 26 |
 | **[Sobi - Swedish Orphan Biovitrum AB (publ)](http://www.sobi.com/en)** | **[Data Science and Advanced Analytics Internship (hybrid)](https://jobright.ai/jobs/info/697827a0fdeb8243a27b1c9a?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Jan 26 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Service Planning Analyst Intern](https://jobright.ai/jobs/info/69782e7688e2b47213bc351d?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 26 |
-| **[GSK](http://www.gsk.com)** | **[Summer Intern/Data Analysis](https://jobright.ai/jobs/info/69782ebc88e2b47213bc3562?utm_campaign=1066&utm_source=git)** | Durham NC/Hybrid, UNAVAILABLE, 
+| **[GSK](http://www.gsk.com)** | **[Summer Intern/Data Analysis](https://jobright.ai/jobs/info/6978286b52f3c27ec64455d9?utm_campaign=1066&utm_source=git)** | US-Durham NC/Hybrid | Hybrid | Jan 26 |
+| ↳ | **[Summer Intern/Data Analysis](https://jobright.ai/jobs/info/69782ebc88e2b47213bc3562?utm_campaign=1066&utm_source=git)** | Durham NC/Hybrid, UNAVAILABLE, 
 US | Hybrid | Jan 26 |
-| ↳ | **[Summer Intern/Data Analysis](https://jobright.ai/jobs/info/6978286b52f3c27ec64455d9?utm_campaign=1066&utm_source=git)** | US-Durham NC/Hybrid | Hybrid | Jan 26 |
 | **[RefinedScience](https://www.refinedscience.com/)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/69782865fdeb8243a27b1d72?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 26 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Product Development Data Science](https://jobright.ai/jobs/info/697830f952f3c27ec644602b?utm_campaign=1066&utm_source=git)** | South San Francisco | Hybrid | Jan 26 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[CX Analytics Tableau Developer-Intern](https://jobright.ai/jobs/info/6978016988e2b47213bc0c99?utm_campaign=1066&utm_source=git)** | 100 Gundy Drive, Reading, PA, 19607, US | On Site | Jan 26 |
@@ -152,10 +152,10 @@ US | Hybrid | Jan 26 |
 | **[Tecovas](http://tecovas.com)** | **[Data & Analytics Intern - Internal Opportunity](https://jobright.ai/jobs/info/6978136c88e2b47213bc14e4?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Jan 26 |
 | **[Southwire Company](http://southwire.com)** | **[IT Data Analyst Intern](https://jobright.ai/jobs/info/6977ec62fdeb8243a27ae347?utm_campaign=1066&utm_source=git)** | Carrollton, GA | Remote | Jan 26 |
 | **[Teva Pharmaceuticals](https://www.tevapharm.com)** | **[Intern - Data Scientist - Davie, FL](https://jobright.ai/jobs/info/6977e91188e2b47213bbe818?utm_campaign=1066&utm_source=git)** | Davie, FL | On Site | Jan 26 |
-| **[dormakaba Americas](http://www.e-data.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6978062388e2b47213bc0f2c?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jan 26 |
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[CX Analytics Tableau Developer-Intern](https://jobright.ai/jobs/info/697806e852f3c27ec6443c86?utm_campaign=1066&utm_source=git)** | Reading, PA, United States | On Site | Jan 26 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Service BI Intern](https://jobright.ai/jobs/info/6978070088e2b47213bc0f8f?utm_campaign=1066&utm_source=git)** | Walnut Creek - 1255 Treat | Hybrid | Jan 26 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Data Science Intern](https://jobright.ai/jobs/info/6978031188e2b47213bc0d99?utm_campaign=1066&utm_source=git)** | Northbrook, IL, United States | On Site | Jan 26 |
 | **[Amynta Group](https://www.amyntagroup.com)** | **[IT Technical Intern - 2026 Summer](https://jobright.ai/jobs/info/6977e39788e2b47213bbdf69?utm_campaign=1066&utm_source=git)** | NJ - Remote | Remote | Jan 26 |
 | **[Amphenol Communications Solutions](http://www.mergeoptics.com)** | **[Data Analyst Intern- Summer 2026](https://jobright.ai/jobs/info/6977e08988e2b47213bbde3d?utm_campaign=1066&utm_source=git)** | Yocumtown, PA | On Site | Jan 26 |
+| **[Landis+Gyr](https://www.landisgyr.com/)** | **[Intern - Market & Business Data Analyst](https://jobright.ai/jobs/info/6977ff8252f3c27ec6443865?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
