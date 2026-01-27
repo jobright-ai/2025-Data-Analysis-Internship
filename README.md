@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Brother USA](https://brother-usa.com)** | **[Data Governance Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf853f1f8465b79f207b8?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Scientist - Paid Intern](https://jobright.ai/jobs/info/696753651703f05405a8fbaf?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 27 |
+| **[Brother USA](https://brother-usa.com)** | **[Google Analytics & Analysis Intern (IT) (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bfc8c22c9dc0d3d53e143?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
+| ↳ | **[Data Governance Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf853f1f8465b79f207b8?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Biostatistics Associate](https://jobright.ai/jobs/info/69787d0339f7f96cc6d0e172?utm_campaign=1066&utm_source=git)** | Mattawan, MI | On Site | Jan 27 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Service Planning Analyst Intern](https://jobright.ai/jobs/info/697876df39f7f96cc6d0dddf?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 27 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Summer Intern Statistics Dec Sci](https://jobright.ai/jobs/info/695c013822c9dc0d3d53e3ae?utm_campaign=1066&utm_source=git)** | Raritan, NJ | Hybrid | Jan 26 |
@@ -80,7 +82,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/697821eb52f3c27ec6444d74?utm_campaign=1066&utm_source=git)** | Charleston, SC | Hybrid | Jan 26 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/697821e352f3c27ec6444d61?utm_campaign=1066&utm_source=git)** | Panama City, FL | Hybrid | Jan 26 |
 | **[Mouser Electronics](http://mouser.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/697820b752f3c27ec6444c5f?utm_campaign=1066&utm_source=git)** | Mansfield, TX, United States | On Site | Jan 26 |
-| **[Hydro One](http://www.hydroone.com/)** | **[University Co-Op Student-Data Scientist-12 Months, Toronto, Summer 2026](https://jobright.ai/jobs/info/695ba938f1f8465b79f1ae9b?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 26 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Product Development Data Science](https://jobright.ai/jobs/info/697839db39f7f96cc6d0851e?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 26 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Transportation Planning Analytics Intern](https://jobright.ai/jobs/info/69781d40fdeb8243a27b110b?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 26 |
 | ↳ | **[2026-2027 Yearlong Safety Computer Asset Data Analysis Intern](https://jobright.ai/jobs/info/69781cf988e2b47213bc1c96?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 26 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/691642c8286ccf0a15133db2?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Jan 26 |
 | **[Experian](http://www.experianplc.com)** | **[Data Science Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/6978360188e2b47213bc3c87?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 26 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Visualization Intern](https://jobright.ai/jobs/info/6978321d52f3c27ec6446171?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Jan 26 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69782dae88e2b47213bc30ed?utm_campaign=1066&utm_source=git)** | Annapolis Junction, MD | Hybrid | Jan 26 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69782dee88e2b47213bc3229?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Jan 26 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69782dee88e2b47213bc3229?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Jan 26 |
+| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69782dae88e2b47213bc30ed?utm_campaign=1066&utm_source=git)** | Annapolis Junction, MD | Hybrid | Jan 26 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69782e2e88e2b47213bc337d?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Jan 26 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69782d9088e2b47213bc3064?utm_campaign=1066&utm_source=git)** | Huntsville, AL | Hybrid | Jan 26 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[2026 Summer Intern: Data Science Intern](https://jobright.ai/jobs/info/6978321452f3c27ec644616c?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Jan 26 |
@@ -100,9 +101,9 @@ For a complete list, click the following sortable link below:
 | **[Proctor Loan Protector](https://proctorlp.com)** | **[Data Reporting Admin Intern](https://jobright.ai/jobs/info/697825d8fdeb8243a27b1a8e?utm_campaign=1066&utm_source=git)** | Troy, MI | On Site | Jan 26 |
 | **[Sobi - Swedish Orphan Biovitrum AB (publ)](http://www.sobi.com/en)** | **[Data Science and Advanced Analytics Internship (hybrid)](https://jobright.ai/jobs/info/697827a0fdeb8243a27b1c9a?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Jan 26 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Service Planning Analyst Intern](https://jobright.ai/jobs/info/69782e7688e2b47213bc351d?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 26 |
-| **[GSK](http://www.gsk.com)** | **[Summer Intern/Data Analysis](https://jobright.ai/jobs/info/6978286b52f3c27ec64455d9?utm_campaign=1066&utm_source=git)** | US-Durham NC/Hybrid | Hybrid | Jan 26 |
-| ↳ | **[Summer Intern/Data Analysis](https://jobright.ai/jobs/info/69782ebc88e2b47213bc3562?utm_campaign=1066&utm_source=git)** | Durham NC/Hybrid, UNAVAILABLE, 
+| **[GSK](http://www.gsk.com)** | **[Summer Intern/Data Analysis](https://jobright.ai/jobs/info/69782ebc88e2b47213bc3562?utm_campaign=1066&utm_source=git)** | Durham NC/Hybrid, UNAVAILABLE, 
 US | Hybrid | Jan 26 |
+| ↳ | **[Summer Intern/Data Analysis](https://jobright.ai/jobs/info/6978286b52f3c27ec64455d9?utm_campaign=1066&utm_source=git)** | US-Durham NC/Hybrid | Hybrid | Jan 26 |
 | **[RefinedScience](https://www.refinedscience.com/)** | **[Bioinformatics Intern](https://jobright.ai/jobs/info/69782865fdeb8243a27b1d72?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 26 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Product Development Data Science](https://jobright.ai/jobs/info/697830f952f3c27ec644602b?utm_campaign=1066&utm_source=git)** | South San Francisco | Hybrid | Jan 26 |
 | **[Penske Logistics](https://www.penskelogistics.com/)** | **[CX Analytics Tableau Developer-Intern](https://jobright.ai/jobs/info/6978016988e2b47213bc0c99?utm_campaign=1066&utm_source=git)** | 100 Gundy Drive, Reading, PA, 19607, US | On Site | Jan 26 |
@@ -155,7 +156,6 @@ US | Hybrid | Jan 26 |
 | **[Brinks Home](https://brinkshome.com/)** | **[Business Intelligence Analyst Intern](https://jobright.ai/jobs/info/6977db7a52f3c27ec644022b?utm_campaign=1066&utm_source=git)** | Farmers Branch, Texas | Hybrid | Jan 26 |
 | **[Publix Pharmacy](http://corporate.publix.com/careers/pharmacy)** | **[Intern-Category Analyst, Micro Space](https://jobright.ai/jobs/info/6977d267fdeb8243a27ac0f2?utm_campaign=1066&utm_source=git)** | 3300 Publix Corporate Parkway | On Site | Jan 26 |
 | ↳ | **[Intern-Category Analyst, Micro Space](https://jobright.ai/jobs/info/6977caf452f3c27ec643ecbc?utm_campaign=1066&utm_source=git)** | Lakeland Florida | On Site | Jan 26 |
-| ↳ | **[Intern - Distribution Analyst](https://jobright.ai/jobs/info/6977d60552f3c27ec643fb69?utm_campaign=1066&utm_source=git)** | 345 N Galloway Rd | On Site | Jan 26 |
-| ↳ | **[Intern - Distribution Analyst](https://jobright.ai/jobs/info/6977d7d6fdeb8243a27ac78e?utm_campaign=1066&utm_source=git)** | Lakeland, FL | On Site | Jan 26 |
 | ↳ | **[Intern - Distribution Analyst](https://jobright.ai/jobs/info/6977d33288e2b47213bbca19?utm_campaign=1066&utm_source=git)** | Lakeland Florida | On Site | Jan 26 |
+| ↳ | **[Intern - Distribution Analyst](https://jobright.ai/jobs/info/6977d7d6fdeb8243a27ac78e?utm_campaign=1066&utm_source=git)** | Lakeland, FL | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
