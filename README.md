@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merchants Distributors, LLC](https://www.mdi.com)** | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/69608299a112b402660f37af?utm_campaign=1066&utm_source=git)** | Hickory, NC | On Site | Jan 28 |
+| **[IBM](http://www.ibm.com)** | **[Data Scientist Intern: 2026 - Research Triangle Park](https://jobright.ai/jobs/info/697238c44ccbf64f8df22a99?utm_campaign=1066&utm_source=git)** | Research Park, CA | On Site | Jan 28 |
+| **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/695e816c0badca5763aef406?utm_campaign=1066&utm_source=git)** | Rocky Mount, VA | On Site | Jan 28 |
+| **[Tapestry](http://www.tapestry.com/)** | **[Analytics Intern - Las Vegas, Summer 2026](https://jobright.ai/jobs/info/6941f67650bbaf765053c8e2?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Jan 28 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Data Analytics Intern](https://jobright.ai/jobs/info/6979f3f5a5b9804527dfc077?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 28 |
 | **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6979efcab4589b4ee87c36d3?utm_campaign=1066&utm_source=git)** | New Windsor, MD | Hybrid | Jan 28 |
 | **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/693a486548a8ce22990e43c1?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | ↳ | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/6933d7acf131d96e48467b1a?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Jan 28 |
 | ↳ | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/694d824029655e4dd65768ff?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Jan 28 |
+| **[GTI Fabrication](https://www.gtifabrication.com)** | **[Computer Science / Data Science Intern](https://jobright.ai/jobs/info/6941dea614ee092a69ffef96?utm_campaign=1066&utm_source=git)** | Goodyear, AZ | On Site | Jan 28 |
 | **[SAIC](http://www.saic.com)** | **[Data Scientist Technical Intern](https://jobright.ai/jobs/info/6979d5e6b4589b4ee87c0f3f?utm_campaign=1066&utm_source=git)** | Rock Island, IL | On Site | Jan 28 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Web/Digital Analytics Intern - Family History Department](https://jobright.ai/jobs/info/6979cd9aca92cf0d6a830c21?utm_campaign=1066&utm_source=git)** | Lehi, UT | Hybrid | Jan 28 |
 | **[City of Boise](https://www.cityofboise.org/departments/police/)** | **[PDS - Data Intern (Parking)](https://jobright.ai/jobs/info/69742e34bc8e722e7b19247a?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Jan 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Corsair](http://www.corsair.com)** | **[Data Science Intern 2](https://jobright.ai/jobs/info/694077b449a7695fbd05f6f9?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
 | ↳ | **[Data Science Intern 1](https://jobright.ai/jobs/info/694080ce50bbaf765052866b?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Commercial Data Science Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974ba66206da320f49ee456?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 27 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2027 - Summer Analyst Internship – Global Banking, Transaction Banking](https://jobright.ai/jobs/info/6943109750bbaf765054e865?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 27 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Scientist - Paid Intern](https://jobright.ai/jobs/info/696753651703f05405a8fbaf?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 27 |
-| **[Brother USA](https://brother-usa.com)** | **[Google Analytics & Analysis Intern (IT) (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bfc8c22c9dc0d3d53e143?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
-| ↳ | **[Data Governance Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf853f1f8465b79f207b8?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
-| **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Biostatistics Associate](https://jobright.ai/jobs/info/69787d0339f7f96cc6d0e172?utm_campaign=1066&utm_source=git)** | Mattawan, MI | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
