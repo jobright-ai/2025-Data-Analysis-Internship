@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAIC](http://www.saic.com)** | **[Data Scientist Technical Intern](https://jobright.ai/jobs/info/6979d5e6b4589b4ee87c0f3f?utm_campaign=1066&utm_source=git)** | Rock Island, IL | On Site | Jan 28 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Web/Digital Analytics Intern - Family History Department](https://jobright.ai/jobs/info/6979cd9aca92cf0d6a830c21?utm_campaign=1066&utm_source=git)** | Lehi, UT | Hybrid | Jan 28 |
+| **[City of Boise](https://www.cityofboise.org/departments/police/)** | **[PDS - Data Intern (Parking)](https://jobright.ai/jobs/info/69742e34bc8e722e7b19247a?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Jan 28 |
 | **[Axtria - Ingenious Insights](http://axtria.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/695dc03ef1f8465b79f4076e?utm_campaign=1066&utm_source=git)** | Berkeley Heights, NJ | On Site | Jan 27 |
 | **[Acadian Asset Management](https://www.acadian-inc.com/)** | **[Quant Research Intern - Summer 2026](https://jobright.ai/jobs/info/68f16117f462172a5a7d75b4?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Jan 27 |
 | **[Proxima](https://proximabio.com)** | **[Analyst Intern Program](https://jobright.ai/jobs/info/69799a5bca92cf0d6a82d478?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jan 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Summer Intern Statistics Dec Sci](https://jobright.ai/jobs/info/695c013822c9dc0d3d53e3ae?utm_campaign=1066&utm_source=git)** | Raritan, NJ | Hybrid | Jan 26 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Transportation Planning Analytics Intern](https://jobright.ai/jobs/info/69786d4152f3c27ec644bd24?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Summer Intern Statistics Dec Sci](https://jobright.ai/jobs/info/695bfe6322c9dc0d3d53e21b?utm_campaign=1066&utm_source=git)** | Spring House, PA | Hybrid | Jan 26 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Safety Computer Asset Data Analysis Intern](https://jobright.ai/jobs/info/69787e6939f7f96cc6d0e250?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 26 |
-| **[GSD&M](http://www.gsdm.com)** | **[Media Analytics Intern](https://jobright.ai/jobs/info/696eb654350cf4380315909f?utm_campaign=1066&utm_source=git)** | Austin | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
