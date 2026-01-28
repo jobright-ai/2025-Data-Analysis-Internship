@@ -57,16 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SAIC](http://www.saic.com)** | **[Data Scientist Technical Intern](https://jobright.ai/jobs/info/697a2ae8b4589b4ee87c6d80?utm_campaign=1066&utm_source=git)** | Rock Island, IL | On Site | Jan 28 |
+| **[Amazon](https://amazon.com)** | **[2026 Data Science Internship - United States, PhD or Masters Student](https://jobright.ai/jobs/info/69423fcd14ee092a69006e6b?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Jan 28 |
+| **[Ascend Learning](http://www.ascendlearning.com)** | **[Intern - Research & Applied Psychometrics](https://jobright.ai/jobs/info/695c75515e4962051b59935d?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Jan 28 |
 | **[Merchants Distributors, LLC](https://www.mdi.com)** | **[Summer Internship - RAS/Data Analytics](https://jobright.ai/jobs/info/69608299a112b402660f37af?utm_campaign=1066&utm_source=git)** | Hickory, NC | On Site | Jan 28 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern: 2026 - Research Triangle Park](https://jobright.ai/jobs/info/697238c44ccbf64f8df22a99?utm_campaign=1066&utm_source=git)** | Research Park, CA | On Site | Jan 28 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/695e816c0badca5763aef406?utm_campaign=1066&utm_source=git)** | Rocky Mount, VA | On Site | Jan 28 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Analytics Intern - Las Vegas, Summer 2026](https://jobright.ai/jobs/info/6941f67650bbaf765053c8e2?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Jan 28 |
+| **[Arkema](http://www.arkema.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/697a17a1a8de441ca7354369?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Jan 28 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Data Analytics Intern](https://jobright.ai/jobs/info/6979f3f5a5b9804527dfc077?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 28 |
 | **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6979efcab4589b4ee87c36d3?utm_campaign=1066&utm_source=git)** | New Windsor, MD | Hybrid | Jan 28 |
+| **[Cadent](http://www.cadent.tv)** | **[Data Science Intern](https://jobright.ai/jobs/info/697a10b5a5b9804527dfe5fb?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 28 |
+| **[San Diego State University](http://www.sdsu.edu)** | **[PAC Research Assistant](https://jobright.ai/jobs/info/697a1a78a8de441ca7354533?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 28 |
 | **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/693a486548a8ce22990e43c1?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | ↳ | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/6933d7acf131d96e48467b1a?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Jan 28 |
 | ↳ | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/694d824029655e4dd65768ff?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Jan 28 |
 | **[GTI Fabrication](https://www.gtifabrication.com)** | **[Computer Science / Data Science Intern](https://jobright.ai/jobs/info/6941dea614ee092a69ffef96?utm_campaign=1066&utm_source=git)** | Goodyear, AZ | On Site | Jan 28 |
+| **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/68c8b2d3983e6768bc55080d?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Jan 28 |
 | **[SAIC](http://www.saic.com)** | **[Data Scientist Technical Intern](https://jobright.ai/jobs/info/6979d5e6b4589b4ee87c0f3f?utm_campaign=1066&utm_source=git)** | Rock Island, IL | On Site | Jan 28 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Web/Digital Analytics Intern - Family History Department](https://jobright.ai/jobs/info/6979cd9aca92cf0d6a830c21?utm_campaign=1066&utm_source=git)** | Lehi, UT | Hybrid | Jan 28 |
 | **[City of Boise](https://www.cityofboise.org/departments/police/)** | **[PDS - Data Intern (Parking)](https://jobright.ai/jobs/info/69742e34bc8e722e7b19247a?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Jan 28 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Publix Super Markets](https://www.publix.com/)** | **[Intern - Distribution Analyst](https://jobright.ai/jobs/info/6978d6e188e2b47213bcf2ce?utm_campaign=1066&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
 | ↳ | **[Intern - Data Analyst](https://jobright.ai/jobs/info/6978d17b88e2b47213bcef33?utm_campaign=1066&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
 | ↳ | **[Intern - Asset Protection Analytics](https://jobright.ai/jobs/info/6978d17688e2b47213bcef2c?utm_campaign=1066&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
-| ↳ | **[Intern-Category Analyst, Micro Space](https://jobright.ai/jobs/info/6978d0c388e2b47213bcee9e?utm_campaign=1066&utm_source=git)** | Lakeland, FL | On Site | Jan 27 |
-| **[Gallagher Bassett](https://www.robanda.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6940632149a7695fbd05e74c?utm_campaign=1066&utm_source=git)** | Rolling Meadows, IL | On Site | Jan 27 |
-| **[Weidmann Electrical Technology](https://www.weidmann-electrical.com/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69405ae849a7695fbd05e29b?utm_campaign=1066&utm_source=git)** | Urbana, OH | On Site | Jan 27 |
-| **[Komatsu](https://www.komatsu.jp)** | **[Intern Data Scientist](https://jobright.ai/jobs/info/69408caa49a7695fbd061e2e?utm_campaign=1066&utm_source=git)** | Warrendale, PA | On Site | Jan 27 |
-| **[Corsair](http://www.corsair.com)** | **[Data Science Intern 2](https://jobright.ai/jobs/info/694077b449a7695fbd05f6f9?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
-| ↳ | **[Data Science Intern 1](https://jobright.ai/jobs/info/694080ce50bbaf765052866b?utm_campaign=1066&utm_source=git)** | Milpitas, CA | On Site | Jan 27 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Commercial Data Science Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6974ba66206da320f49ee456?utm_campaign=1066&utm_source=git)** | Lake Buena Vista, FL | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
