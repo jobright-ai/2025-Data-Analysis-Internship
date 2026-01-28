@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Proxima](https://proximabio.com)** | **[Target Prioritization CS Intern](https://jobright.ai/jobs/info/69799825ca92cf0d6a82d095?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jan 27 |
+| **[GM Performance Power Units](https://gmppu.com)** | **[ERS Performance Modeling Intern](https://jobright.ai/jobs/info/695d94ccfbd62a0a65664808?utm_campaign=1066&utm_source=git)** | Concord, NC | On Site | Jan 27 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Web/Digital Analytics Intern - Family History Department](https://jobright.ai/jobs/info/69799740d7df290257fbeccc?utm_campaign=1066&utm_source=git)** | Lehi, UT, United States | On Site | Jan 27 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Research Associate Intern](https://jobright.ai/jobs/info/697994850791bc1d72304c13?utm_campaign=1066&utm_source=git)** | Milpitas, California, United States of America | On Site | Jan 27 |
 | **[Scheels](http://www.scheels.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/697991e0d7df290257fbe909?utm_campaign=1066&utm_source=git)** | Fargo, ND | On Site | Jan 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (VOD Data) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69798d170791bc1d72303bc7?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jan 27 |
 | **[Barletta Boat Company, LLC](https://www.barlettapontoonboats.com/)** | **[Intern - Business Informatics, Analytics & AI](https://jobright.ai/jobs/info/69798ce5d7df290257fbe567?utm_campaign=1066&utm_source=git)** | Bristol, IN | On Site | Jan 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GSD&M](http://www.gsdm.com)** | **[Media Analytics Intern](https://jobright.ai/jobs/info/696eb654350cf4380315909f?utm_campaign=1066&utm_source=git)** | Austin | Hybrid | Jan 26 |
 | **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Service BI Intern](https://jobright.ai/jobs/info/697842e088e2b47213bc5759?utm_campaign=1066&utm_source=git)** | Walnut Creek, CA | On Site | Jan 26 |
 | **[Bold Orange](https://boldorange.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/6978363388e2b47213bc3ccb?utm_campaign=1066&utm_source=git)** | Greater Indianapolis | On Site | Jan 26 |
-| **[Mouser Electronics](http://mouser.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/697830da52f3c27ec6446001?utm_campaign=1066&utm_source=git)** | Mansfield, TX | On Site | Jan 26 |
-| **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[CX Analytics Tableau Developer-Intern](https://jobright.ai/jobs/info/69782eac52f3c27ec6445d60?utm_campaign=1066&utm_source=git)** | Reading, PA | On Site | Jan 26 |
-| **[WCF Insurance](https://www.wcf.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/69797f83ca92cf0d6a82a791?utm_campaign=1066&utm_source=git)** | Sandy, UT | On Site | Jan 26 |
-| **[Upstart](https://upstart.com/about)** | **[Data Science Intern](https://jobright.ai/jobs/info/697823a852f3c27ec644502a?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
