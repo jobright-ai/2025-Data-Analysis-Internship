@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Proxima](https://proximabio.com)** | **[Target Prioritization CS Intern](https://jobright.ai/jobs/info/69799825ca92cf0d6a82d095?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jan 27 |
+| **[Axtria - Ingenious Insights](http://axtria.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/695dc03ef1f8465b79f4076e?utm_campaign=1066&utm_source=git)** | Berkeley Heights, NJ | On Site | Jan 27 |
+| **[Acadian Asset Management](https://www.acadian-inc.com/)** | **[Quant Research Intern - Summer 2026](https://jobright.ai/jobs/info/68f16117f462172a5a7d75b4?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Jan 27 |
+| **[Proxima](https://proximabio.com)** | **[Analyst Intern Program](https://jobright.ai/jobs/info/69799a5bca92cf0d6a82d478?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jan 27 |
+| ↳ | **[Target Prioritization CS Intern](https://jobright.ai/jobs/info/69799825ca92cf0d6a82d095?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Jan 27 |
 | **[GM Performance Power Units](https://gmppu.com)** | **[ERS Performance Modeling Intern](https://jobright.ai/jobs/info/695d94ccfbd62a0a65664808?utm_campaign=1066&utm_source=git)** | Concord, NC | On Site | Jan 27 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Web/Digital Analytics Intern - Family History Department](https://jobright.ai/jobs/info/69799740d7df290257fbeccc?utm_campaign=1066&utm_source=git)** | Lehi, UT, United States | On Site | Jan 27 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Research Associate Intern](https://jobright.ai/jobs/info/697994850791bc1d72304c13?utm_campaign=1066&utm_source=git)** | Milpitas, California, United States of America | On Site | Jan 27 |
@@ -116,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[SullivanCotter](https://sullivancotter.com/)** | **[Data Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/6978e59452f3c27ec64523f7?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Genmab](https://www.genmab.com)** | **[Computational Biology Intern](https://jobright.ai/jobs/info/697930d052f3c27ec6457a34?utm_campaign=1066&utm_source=git)** | Princeton | Hybrid | Jan 27 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Digital Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/6979295252f3c27ec645713e?utm_campaign=1066&utm_source=git)** | West Hartford, CT, US | On Site | Jan 27 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Data Scientist - Grad Intern Conversion](https://jobright.ai/jobs/info/697923eb52f3c27ec6456a73?utm_campaign=1066&utm_source=git)** | MA - Wellesley | Hybrid | Jan 27 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Real Estate & GIS/Database Intern](https://jobright.ai/jobs/info/697038b651f7264771826963?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jan 27 |
 | **[Precision Castparts](http://precast.com)** | **[Data Analyst Co-Op Intern (Tooling)](https://jobright.ai/jobs/info/695d0d42f5f3c43f38e1dc72?utm_campaign=1066&utm_source=git)** | Canton, MI | On Site | Jan 27 |
 | **[Zeta Global](http://www.zetaglobal.com)** | **[Data Science & Analytics Intern - Acquisition Email](https://jobright.ai/jobs/info/69586c96f1f8465b79ef11f4?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Safety Computer Asset Data Analysis Intern](https://jobright.ai/jobs/info/69787e6939f7f96cc6d0e250?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 26 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 26 |
 | **[GSD&M](http://www.gsdm.com)** | **[Media Analytics Intern](https://jobright.ai/jobs/info/696eb654350cf4380315909f?utm_campaign=1066&utm_source=git)** | Austin | Hybrid | Jan 26 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Service BI Intern](https://jobright.ai/jobs/info/697842e088e2b47213bc5759?utm_campaign=1066&utm_source=git)** | Walnut Creek, CA | On Site | Jan 26 |
-| **[Bold Orange](https://boldorange.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/6978363388e2b47213bc3ccb?utm_campaign=1066&utm_source=git)** | Greater Indianapolis | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
