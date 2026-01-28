@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scheels](http://www.scheels.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/697970bd0791bc1d72301963?utm_campaign=1066&utm_source=git)** | Fargo, North Dakota, United States | On Site | Jan 27 |
+| **[Sloan](https://www.sloan.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/697970980791bc1d72301936?utm_campaign=1066&utm_source=git)** | Franklin Park, IL | On Site | Jan 27 |
+| **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Data Science](https://jobright.ai/jobs/info/697970610791bc1d7230190f?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Jan 27 |
+| **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[IT Analytics Intern](https://jobright.ai/jobs/info/69796f909c90a224ecc3282e?utm_campaign=1066&utm_source=git)** | Lake Orion, MI | On Site | Jan 27 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Digital Transformation & Risk Analyst Intern](https://jobright.ai/jobs/info/6978363752f3c27ec644647d?utm_campaign=1066&utm_source=git)** | Waterford, WI | On Site | Jan 27 |
 | **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/697959cf52f3c27ec645bfcf?utm_campaign=1066&utm_source=git)** | Shaw Heights, SC | Hybrid | Jan 27 |
 | **[Post Holdings](http://postholdings.com)** | **[Decision Science Intern](https://jobright.ai/jobs/info/6979593e52f3c27ec645bdc5?utm_campaign=1066&utm_source=git)** | St Louis, MO | Hybrid | Jan 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Transportation Planning Analytics Intern](https://jobright.ai/jobs/info/69781d40fdeb8243a27b110b?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 26 |
 | ↳ | **[2026-2027 Yearlong Safety Computer Asset Data Analysis Intern](https://jobright.ai/jobs/info/69781cf988e2b47213bc1c96?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 26 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/6978493f52f3c27ec6448e6a?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Jan 26 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/697818c5fdeb8243a27b0c3c?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Jan 26 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/697818acfdeb8243a27b0c23?utm_campaign=1066&utm_source=git)** | El Segundo, CA | Hybrid | Jan 26 |
-| **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/691642c8286ccf0a15133db2?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Jan 26 |
-| **[Experian](http://www.experianplc.com)** | **[Data Science Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/6978360188e2b47213bc3c87?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
