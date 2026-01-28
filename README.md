@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/697959cf52f3c27ec645bfcf?utm_campaign=1066&utm_source=git)** | Shaw Heights, SC | Hybrid | Jan 27 |
+| **[Post Holdings](http://postholdings.com)** | **[Decision Science Intern](https://jobright.ai/jobs/info/6979593e52f3c27ec645bdc5?utm_campaign=1066&utm_source=git)** | St Louis, MO | Hybrid | Jan 27 |
+| **[Valley Bank](https://www.valley.com/)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/695d57dcf1f8465b79f385de?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Jan 27 |
+| **[Pace Suburban Bus](https://pacebus.com)** | **[Statistical Analysis Intern](https://jobright.ai/jobs/info/6979543288e2b47213bd89f8?utm_campaign=1066&utm_source=git)** | 550 W Algonquin Rd, Arlington Heights, IL, 60005, US | On Site | Jan 27 |
 | **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69794b6288e2b47213bd82b7?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Jan 27 |
 | **[McAfee](http://www.mcafee.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6979499688e2b47213bd807f?utm_campaign=1066&utm_source=git)** | US, California, San Jose | Hybrid | Jan 27 |
 | **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Data & Impact Intern](https://jobright.ai/jobs/info/697946d552f3c27ec645a8a7?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Jan 27 |
@@ -77,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[AskBio Inc.](http://www.askbio.com/)** | **[Intern- Biostatistics](https://jobright.ai/jobs/info/69792b6d88e2b47213bd4920?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Jan 27 |
 | **[BC Pension Corporation](https://www.bcpensioncorp.ca)** | **[Business Systems Analyst Co-op](https://jobright.ai/jobs/info/69794edb52f3c27ec645b103?utm_campaign=1066&utm_source=git)** | Victoria, British Columbia, Canada | Hybrid | Jan 27 |
 | **[Super.com](https://www.super.com)** | **[Data Analyst Intern (8 Months)](https://jobright.ai/jobs/info/69677b6f1703f05405a9264c?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jan 27 |
+| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Data Science Institute Graduate Student Intern - Summer 2026](https://jobright.ai/jobs/info/6972a82a584a1c1ef6fdbc68?utm_campaign=1066&utm_source=git)** | Livermore, CA | On Site | Jan 27 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Data Analyst Intern (Hybrid) – (Summer 2026 Internship)](https://jobright.ai/jobs/info/69794d5b88e2b47213bd8548?utm_campaign=1066&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Jan 27 |
 | **[San Antonio River Authority](https://www.sariverauthority.org)** | **[GIS Intern](https://jobright.ai/jobs/info/6979404b88e2b47213bd7130?utm_campaign=1066&utm_source=git)** | Guenther, San Antonio, TX, US | On Site | Jan 27 |
 | **[Pediatric Associates Family of Companies](https://pediatricassociates.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/69793cda39f7f96cc6d1ae54?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/697818acfdeb8243a27b0c23?utm_campaign=1066&utm_source=git)** | El Segundo, CA | Hybrid | Jan 26 |
 | **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/691642c8286ccf0a15133db2?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Jan 26 |
 | **[Experian](http://www.experianplc.com)** | **[Data Science Summer Intern (Remote & Paid)](https://jobright.ai/jobs/info/6978360188e2b47213bc3c87?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 26 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Visualization Intern](https://jobright.ai/jobs/info/6978321d52f3c27ec6446171?utm_campaign=1066&utm_source=git)** | Alpharetta, GA | On Site | Jan 26 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69782dee88e2b47213bc3229?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Hybrid | Jan 26 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69782dae88e2b47213bc30ed?utm_campaign=1066&utm_source=git)** | Annapolis Junction, MD | Hybrid | Jan 26 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69782e2e88e2b47213bc337d?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Jan 26 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/69782d9088e2b47213bc3064?utm_campaign=1066&utm_source=git)** | Huntsville, AL | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
