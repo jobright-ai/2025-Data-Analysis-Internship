@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Data Analytics Intern](https://jobright.ai/jobs/info/6979f3f5a5b9804527dfc077?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 28 |
 | **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/6979efcab4589b4ee87c36d3?utm_campaign=1066&utm_source=git)** | New Windsor, MD | Hybrid | Jan 28 |
 | **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/693a486548a8ce22990e43c1?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | ↳ | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/6933d7acf131d96e48467b1a?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Jan 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brother USA](https://brother-usa.com)** | **[Google Analytics & Analysis Intern (IT) (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bfc8c22c9dc0d3d53e143?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
 | ↳ | **[Data Governance Intern (Summer 2026 Internship Program)](https://jobright.ai/jobs/info/695bf853f1f8465b79f207b8?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | Hybrid | Jan 27 |
 | **[Charles River Laboratories](http://www.criver.com)** | **[2026 Summer Intern - Biostatistics Associate](https://jobright.ai/jobs/info/69787d0339f7f96cc6d0e172?utm_campaign=1066&utm_source=git)** | Mattawan, MI | On Site | Jan 27 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Service Planning Analyst Intern](https://jobright.ai/jobs/info/697876df39f7f96cc6d0dddf?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
