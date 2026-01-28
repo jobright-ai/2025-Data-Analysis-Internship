@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CNH](http://www.cnhindustrial.com)** | **[Digital Transformation & Risk Analyst Intern](https://jobright.ai/jobs/info/6978363752f3c27ec644647d?utm_campaign=1066&utm_source=git)** | Waterford, WI | On Site | Jan 27 |
 | **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/697959cf52f3c27ec645bfcf?utm_campaign=1066&utm_source=git)** | Shaw Heights, SC | Hybrid | Jan 27 |
 | **[Post Holdings](http://postholdings.com)** | **[Decision Science Intern](https://jobright.ai/jobs/info/6979593e52f3c27ec645bdc5?utm_campaign=1066&utm_source=git)** | St Louis, MO | Hybrid | Jan 27 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/695d57dcf1f8465b79f385de?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Jan 27 |
@@ -87,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Pediatric Associates Family of Companies](https://pediatricassociates.com/)** | **[Data Scientist](https://jobright.ai/jobs/info/69793cda39f7f96cc6d1ae54?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 27 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Data Scientist Intern (Summer 2026 Internship)](https://jobright.ai/jobs/info/69793aef52f3c27ec6458c22?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 27 |
 | **[Komatsu](https://www.komatsu.jp)** | **[IT Analytics Intern](https://jobright.ai/jobs/info/69793c8239f7f96cc6d1ad78?utm_campaign=1066&utm_source=git)** | Lake Orion, MI, US | On Site | Jan 27 |
-| **[Predictive Oncology](https://predictive-oncology.com)** | **[Computational Biologist/Bioinformatician Intern](https://jobright.ai/jobs/info/69794e1452f3c27ec645b017?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jan 27 |
 | **[Texas Instruments](http://www.ti.com)** | **[Smart Manufacturing & Automation Data Science Intern](https://jobright.ai/jobs/info/6979362439f7f96cc6d19ee0?utm_campaign=1066&utm_source=git)** | Richardson, TX | On Site | Jan 27 |
 | **[Verdantas](https://www.verdantas.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6979348988e2b47213bd55f4?utm_campaign=1066&utm_source=git)** | Dallas County, TX | On Site | Jan 27 |
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69547a085bb7de448ef76a8e?utm_campaign=1066&utm_source=git)** | Feasterville-Trevose, PA | On Site | Jan 27 |
