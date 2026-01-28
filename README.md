@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scheels](http://www.scheels.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/697991e0d7df290257fbe909?utm_campaign=1066&utm_source=git)** | Fargo, ND | On Site | Jan 27 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (VOD Data) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69798d170791bc1d72303bc7?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jan 27 |
+| **[Barletta Boat Company, LLC](https://www.barlettapontoonboats.com/)** | **[Intern - Business Informatics, Analytics & AI](https://jobright.ai/jobs/info/69798ce5d7df290257fbe567?utm_campaign=1066&utm_source=git)** | Bristol, IN | On Site | Jan 27 |
+| **[McAfee](http://www.mcafee.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69798cced7df290257fbe550?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Jan 27 |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Clinical Biometrics](https://jobright.ai/jobs/info/69798bc4d7df290257fbe45a?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | On Site | Jan 27 |
 | **[Kymera Therapeutics](http://www.kymeratx.com/)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/6979802dca92cf0d6a82aa2b?utm_campaign=1066&utm_source=git)** | Greater Boston | On Site | Jan 27 |
 | **[Resolution Economics](http://resecon.com)** | **[Research Assistant - Intern](https://jobright.ai/jobs/info/697974e39c90a224ecc32d01?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Jan 27 |
 | **[Comcast](https://corporate.comcast.com)** | **[Data Analyst Intern, Comcast Spectacor Gaming (Spring 2026)](https://jobright.ai/jobs/info/69797229ca92cf0d6a829543?utm_campaign=1066&utm_source=git)** | Universal City, TX | Hybrid | Jan 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[CX Analytics Tableau Developer-Intern](https://jobright.ai/jobs/info/69782eac52f3c27ec6445d60?utm_campaign=1066&utm_source=git)** | Reading, PA | On Site | Jan 26 |
 | **[WCF Insurance](https://www.wcf.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/69797f83ca92cf0d6a82a791?utm_campaign=1066&utm_source=git)** | Sandy, UT | On Site | Jan 26 |
 | **[Upstart](https://upstart.com/about)** | **[Data Science Intern](https://jobright.ai/jobs/info/697823a852f3c27ec644502a?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 26 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/6978222f52f3c27ec6444e4c?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | Hybrid | Jan 26 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/6978220452f3c27ec6444dca?utm_campaign=1066&utm_source=git)** | Honolulu, HI | Hybrid | Jan 26 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/697821eb52f3c27ec6444d74?utm_campaign=1066&utm_source=git)** | Charleston, SC | Hybrid | Jan 26 |
-| ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/697821e352f3c27ec6444d61?utm_campaign=1066&utm_source=git)** | Panama City, FL | Hybrid | Jan 26 |
-| **[Mouser Electronics](http://mouser.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/697820b752f3c27ec6444c5f?utm_campaign=1066&utm_source=git)** | Mansfield, TX, United States | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
