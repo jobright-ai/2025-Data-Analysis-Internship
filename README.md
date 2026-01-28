@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kymera Therapeutics](http://www.kymeratx.com/)** | **[Biostatistics Intern](https://jobright.ai/jobs/info/6979802dca92cf0d6a82aa2b?utm_campaign=1066&utm_source=git)** | Greater Boston | On Site | Jan 27 |
+| **[Resolution Economics](http://resecon.com)** | **[Research Assistant - Intern](https://jobright.ai/jobs/info/697974e39c90a224ecc32d01?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Jan 27 |
+| **[Comcast](https://corporate.comcast.com)** | **[Data Analyst Intern, Comcast Spectacor Gaming (Spring 2026)](https://jobright.ai/jobs/info/69797229ca92cf0d6a829543?utm_campaign=1066&utm_source=git)** | Universal City, TX | Hybrid | Jan 27 |
 | **[Scheels](http://www.scheels.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/697970bd0791bc1d72301963?utm_campaign=1066&utm_source=git)** | Fargo, North Dakota, United States | On Site | Jan 27 |
 | **[Sloan](https://www.sloan.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/697970980791bc1d72301936?utm_campaign=1066&utm_source=git)** | Franklin Park, IL | On Site | Jan 27 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Data Science](https://jobright.ai/jobs/info/697970610791bc1d7230190f?utm_campaign=1066&utm_source=git)** | Memphis, TN | On Site | Jan 27 |
@@ -147,14 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Bold Orange](https://boldorange.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/6978363388e2b47213bc3ccb?utm_campaign=1066&utm_source=git)** | Greater Indianapolis | On Site | Jan 26 |
 | **[Mouser Electronics](http://mouser.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/697830da52f3c27ec6446001?utm_campaign=1066&utm_source=git)** | Mansfield, TX | On Site | Jan 26 |
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[CX Analytics Tableau Developer-Intern](https://jobright.ai/jobs/info/69782eac52f3c27ec6445d60?utm_campaign=1066&utm_source=git)** | Reading, PA | On Site | Jan 26 |
+| **[WCF Insurance](https://www.wcf.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/69797f83ca92cf0d6a82a791?utm_campaign=1066&utm_source=git)** | Sandy, UT | On Site | Jan 26 |
 | **[Upstart](https://upstart.com/about)** | **[Data Science Intern](https://jobright.ai/jobs/info/697823a852f3c27ec644502a?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 26 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/6978222f52f3c27ec6444e4c?utm_campaign=1066&utm_source=git)** | Colorado Springs, CO | Hybrid | Jan 26 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/6978220452f3c27ec6444dca?utm_campaign=1066&utm_source=git)** | Honolulu, HI | Hybrid | Jan 26 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/697821eb52f3c27ec6444d74?utm_campaign=1066&utm_source=git)** | Charleston, SC | Hybrid | Jan 26 |
 | ↳ | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/697821e352f3c27ec6444d61?utm_campaign=1066&utm_source=git)** | Panama City, FL | Hybrid | Jan 26 |
 | **[Mouser Electronics](http://mouser.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/697820b752f3c27ec6444c5f?utm_campaign=1066&utm_source=git)** | Mansfield, TX, United States | On Site | Jan 26 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Product Development Data Science](https://jobright.ai/jobs/info/697839db39f7f96cc6d0851e?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 26 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Transportation Planning Analytics Intern](https://jobright.ai/jobs/info/69781d40fdeb8243a27b110b?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 26 |
-| ↳ | **[2026-2027 Yearlong Safety Computer Asset Data Analysis Intern](https://jobright.ai/jobs/info/69781cf988e2b47213bc1c96?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 26 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University, 2026 Summer Games Data Scientist Intern](https://jobright.ai/jobs/info/6978493f52f3c27ec6448e6a?utm_campaign=1066&utm_source=git)** | Rome, NY | Hybrid | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
