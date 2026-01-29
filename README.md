@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MERGE](http://www.mergeworld.com/)** | **[Applied Intelligence Intern](https://jobright.ai/jobs/info/697ab9e49d60e431a16c6440?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Jan 28 |
+| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Enterprise Data & Analytics Intern](https://jobright.ai/jobs/info/697ab9d09d60e431a16c6435?utm_campaign=1066&utm_source=git)** | Denver Metropolitan Area | On Site | Jan 28 |
 | **[ETS](http://www.ets.org)** | **[Data Catalog & Governance Intern Summer 2026](https://jobright.ai/jobs/info/697ab8309d60e431a16c6104?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Remote | Jan 28 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[2026 Summer Graduate Intern - Research Library - Research & Statistics](https://jobright.ai/jobs/info/697ab7ee8dbbf73badc8068e?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Jan 28 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 28 |
 | **[vRad (Virtual Radiologic)](http://www.vrad.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/697aa7cbf6fc293b0a2c912b?utm_campaign=1066&utm_source=git)** | Edina, MN | Hybrid | Jan 28 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Real-World Data Strategy](https://jobright.ai/jobs/info/697a88e7f6fc293b0a2c6194?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 28 |
+| **[Sanofi](https://www.sanofi.com)** | **[Biostatistics Evidence Generation & Decision Sciences (EGDS)- Summer 2026 Intern](https://jobright.ai/jobs/info/695eeeaf08ab990f282a3f88?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Jan 28 |
 | **[Panasonic North America](https://www.na.panasonic.com/)** | **[Business Intelligence Intern (Summer 2026)](https://jobright.ai/jobs/info/69617f94a112b40266100427?utm_campaign=1066&utm_source=git)** | Newark, NJ | On Site | Jan 28 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Commercial Analytics and Data Science](https://jobright.ai/jobs/info/697a90249d60e431a16c1d85?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 28 |
 | **[GHD](http://www.ghd.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/697a85a58dbbf73badc7aee3?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Jan 28 |
@@ -99,9 +102,9 @@ For a complete list, click the following sortable link below:
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Data Science / AI Intern – Literature Mining & Graph Modeling](https://jobright.ai/jobs/info/697a75738dbbf73badc79958?utm_campaign=1066&utm_source=git)** | US - Waltham - MA | Hybrid | Jan 28 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Reinsurance and Catastrophe Risk Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/697a70bc9d60e431a16bef93?utm_campaign=1066&utm_source=git)** | Westfield Center, OH | Hybrid | Jan 28 |
 | **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Gold Rush Summer Intern - Health & Safety](https://jobright.ai/jobs/info/697a6f178dbbf73badc79321?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
-| **[LMI](http://www.lmi.org)** | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/697a73a0f6fc293b0a2c4458?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | Jan 28 |
-| ↳ | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/697a719c9d60e431a16bf0a3?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Jan 28 |
+| **[LMI](http://www.lmi.org)** | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/697a719c9d60e431a16bf0a3?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Jan 28 |
 | ↳ | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/697a795d8dbbf73badc79e26?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | Jan 28 |
+| ↳ | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/697a73a0f6fc293b0a2c4458?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | Jan 28 |
 | **[GHD](http://www.ghd.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/697a4ed4b4589b4ee87c9b12?utm_campaign=1066&utm_source=git)** | 11451 Katy Freeway Suite 400, HOUSTON, TX, 77079, US | Hybrid | Jan 28 |
 | **[Tarsus Pharmaceuticals, Inc.](https://www.tarsusrx.com)** | **[Intern, Clinical Data Analysis (Machine Learning)](https://jobright.ai/jobs/info/697a4a3ca8de441ca73578d1?utm_campaign=1066&utm_source=git)** | Irvine, California, United States | Hybrid | Jan 28 |
 | **[Predictive Oncology](https://predictive-oncology.com)** | **[Computational Biologist/Bioinformatician Intern](https://jobright.ai/jobs/info/697a43d4a5b9804527e00c6a?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jan 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69794b6288e2b47213bd82b7?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Jan 27 |
 | **[McAfee](http://www.mcafee.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6979499688e2b47213bd807f?utm_campaign=1066&utm_source=git)** | US, California, San Jose | Hybrid | Jan 27 |
 | **[RDV Corporation](http://jobs.rdvcorp.com)** | **[Data & Impact Intern](https://jobright.ai/jobs/info/697946d552f3c27ec645a8a7?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | On Site | Jan 27 |
-| **[Analog Devices](http://www.analog.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/695c842f9a87b95a9397d525?utm_campaign=1066&utm_source=git)** | Wilmington, MA | On Site | Jan 27 |
-| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[PhD Intern – Data Science](https://jobright.ai/jobs/info/69793ce039f7f96cc6d1ae5d?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 27 |
-| **[Noblis](http://www.noblis.org)** | **[Summer 2026 - Data Science and Innovation Intern](https://jobright.ai/jobs/info/6979389339f7f96cc6d1a440?utm_campaign=1066&utm_source=git)** | Springfield, VA | On Site | Jan 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
