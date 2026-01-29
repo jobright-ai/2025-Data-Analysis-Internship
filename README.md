@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Data Science & AI - Digital Innovation Office (Summer 2026)](https://jobright.ai/jobs/info/697bb2241423772304ebdc87?utm_campaign=1066&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 29 |
+| **[Cooper Standard](http://www.cooperstandard.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/697bacd81423772304ebd8e8?utm_campaign=1066&utm_source=git)** | Livonia, Michigan | Hybrid | Jan 29 |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Data Analyst Intern (Co-op)](https://jobright.ai/jobs/info/697ba8c61423772304ebd69a?utm_campaign=1066&utm_source=git)** | Draper, UT | On Site | Jan 29 |
+| **[Fujitsu](http://www.fujitsu.com)** | **[Research Intern](https://jobright.ai/jobs/info/697ba7f21423772304ebd601?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jan 29 |
+| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Data Analytics Intern (Hybrid)](https://jobright.ai/jobs/info/697ba7ec1423772304ebd5fc?utm_campaign=1066&utm_source=git)** | Support Center - Akron, OH | Hybrid | Jan 29 |
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[IT DATA & ANALYTICS INTERN](https://jobright.ai/jobs/info/697b9b981423772304ebb91a?utm_campaign=1066&utm_source=git)** | Fayetteville, NC, United States | On Site | Jan 29 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Data Scientist](https://jobright.ai/jobs/info/697b98e61136d179eeef25f2?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jan 29 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690922494a1b456627afcf98?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jan 29 |
@@ -149,12 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Reinsurance and Catastrophe Risk Data Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/697a578aa8de441ca73580f6?utm_campaign=1066&utm_source=git)** | One Park Circle, Westfield Center, OH, 44251-5001, US | Hybrid | Jan 28 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[GIS Intern](https://jobright.ai/jobs/info/697a5714a8de441ca735809e?utm_campaign=1066&utm_source=git)** | Ames, IA | On Site | Jan 28 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Data Science / AI Intern – Literature Mining & Graph Modeling](https://jobright.ai/jobs/info/697a75738dbbf73badc79958?utm_campaign=1066&utm_source=git)** | US - Waltham - MA | Hybrid | Jan 28 |
-| **[LMI](http://www.lmi.org)** | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/697a719c9d60e431a16bf0a3?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Jan 28 |
+| **[LMI](http://www.lmi.org)** | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/697a795d8dbbf73badc79e26?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | Jan 28 |
 | ↳ | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/697a73a0f6fc293b0a2c4458?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | Jan 28 |
-| ↳ | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/697a795d8dbbf73badc79e26?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | Jan 28 |
-| **[GHD](http://www.ghd.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/697a4ed4b4589b4ee87c9b12?utm_campaign=1066&utm_source=git)** | 11451 Katy Freeway Suite 400, HOUSTON, TX, 77079, US | Hybrid | Jan 28 |
-| **[Tarsus Pharmaceuticals, Inc.](https://www.tarsusrx.com)** | **[Intern, Clinical Data Analysis (Machine Learning)](https://jobright.ai/jobs/info/697a4a3ca8de441ca73578d1?utm_campaign=1066&utm_source=git)** | Irvine, California, United States | Hybrid | Jan 28 |
-| **[Predictive Oncology](https://predictive-oncology.com)** | **[Computational Biologist/Bioinformatician Intern](https://jobright.ai/jobs/info/697a43d4a5b9804527e00c6a?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jan 28 |
-| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Reinsurance and Catastrophe Risk Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/697a70bc9d60e431a16bef93?utm_campaign=1066&utm_source=git)** | Westfield Center, OH | Hybrid | Jan 28 |
-| **[APTIM](https://www.aptim.com/)** | **[EHS Business Systems Analyst Intern (STRIVE Program)](https://jobright.ai/jobs/info/697a6e269d60e431a16bec9f?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Jan 28 |
+| ↳ | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/697a719c9d60e431a16bf0a3?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
