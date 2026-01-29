@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lamb Weston LATAM](https://www.lambweston.com)** | **[Agriculture Intern, Data Analytics](https://jobright.ai/jobs/info/697b42d61136d179eeeebedf?utm_campaign=1066&utm_source=git)** | Kennewick, WA | On Site | Jan 29 |
+| **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern, Per Diem - Chen Lab](https://jobright.ai/jobs/info/697b3daa1423772304eb64d3?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | On Site | Jan 29 |
+| **[Aramark Destinations](https://thenationsvacation.com/)** | **[IT Intern - Univ. of Minnesota - Athletics Combined](https://jobright.ai/jobs/info/697b34281423772304eb5d2b?utm_campaign=1066&utm_source=git)** | Minneapolis, MN, US, 55415 | On Site | Jan 29 |
 | **[STMicroelectronics](https://www.st.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/695f1206a1bbea1d9a79e51d?utm_campaign=1066&utm_source=git)** | Burlington, NC | Hybrid | Jan 29 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Biology Molecular Lab Applications (DSRIC)](https://jobright.ai/jobs/info/697b2dc71136d179eeeea224?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | Remote | Jan 29 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Customer Analytics Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697b267217b11b1c2e422d2b?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jan 29 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Delta Wellness - Data Science (Summer 2026)](https://jobright.ai/jobs/info/697b190d1136d179eeee7ec6?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
 | **[Mastercard](http://www.mastercard.com)** | **[Data Scientist Intern, Summer 2026 - New York City, NY](https://jobright.ai/jobs/info/697afd4ec532c4768fe0d647?utm_campaign=1066&utm_source=git)** | New York City, New York | On Site | Jan 28 |
@@ -132,9 +134,9 @@ For a complete list, click the following sortable link below:
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Reinsurance and Catastrophe Risk Data Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/697a578aa8de441ca73580f6?utm_campaign=1066&utm_source=git)** | One Park Circle, Westfield Center, OH, 44251-5001, US | Hybrid | Jan 28 |
 | **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[GIS Intern](https://jobright.ai/jobs/info/697a5714a8de441ca735809e?utm_campaign=1066&utm_source=git)** | Ames, IA | On Site | Jan 28 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Data Science / AI Intern – Literature Mining & Graph Modeling](https://jobright.ai/jobs/info/697a75738dbbf73badc79958?utm_campaign=1066&utm_source=git)** | US - Waltham - MA | Hybrid | Jan 28 |
-| **[LMI](http://www.lmi.org)** | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/697a795d8dbbf73badc79e26?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | Jan 28 |
-| ↳ | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/697a719c9d60e431a16bf0a3?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Jan 28 |
+| **[LMI](http://www.lmi.org)** | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/697a719c9d60e431a16bf0a3?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Jan 28 |
 | ↳ | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/697a73a0f6fc293b0a2c4458?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | Jan 28 |
+| ↳ | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/697a795d8dbbf73badc79e26?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | Jan 28 |
 | **[GHD](http://www.ghd.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/697a4ed4b4589b4ee87c9b12?utm_campaign=1066&utm_source=git)** | 11451 Katy Freeway Suite 400, HOUSTON, TX, 77079, US | Hybrid | Jan 28 |
 | **[Tarsus Pharmaceuticals, Inc.](https://www.tarsusrx.com)** | **[Intern, Clinical Data Analysis (Machine Learning)](https://jobright.ai/jobs/info/697a4a3ca8de441ca73578d1?utm_campaign=1066&utm_source=git)** | Irvine, California, United States | Hybrid | Jan 28 |
 | **[Predictive Oncology](https://predictive-oncology.com)** | **[Computational Biologist/Bioinformatician Intern](https://jobright.ai/jobs/info/697a43d4a5b9804527e00c6a?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jan 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tapestry](http://www.tapestry.com/)** | **[Analytics Intern - Las Vegas, Summer 2026](https://jobright.ai/jobs/info/6941f67650bbaf765053c8e2?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Jan 28 |
 | **[Arkema](http://www.arkema.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/697a17a1a8de441ca7354369?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Jan 28 |
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Data Analytics Intern](https://jobright.ai/jobs/info/6979f3f5a5b9804527dfc077?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 28 |
-| **[Cadent](http://www.cadent.tv)** | **[Data Science Intern](https://jobright.ai/jobs/info/697a10b5a5b9804527dfe5fb?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 28 |
-| **[San Diego State University](http://www.sdsu.edu)** | **[PAC Research Assistant](https://jobright.ai/jobs/info/697a1a78a8de441ca7354533?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
