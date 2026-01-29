@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[IT DATA & ANALYTICS INTERN](https://jobright.ai/jobs/info/697b9b981423772304ebb91a?utm_campaign=1066&utm_source=git)** | Fayetteville, NC, United States | On Site | Jan 29 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Data Scientist](https://jobright.ai/jobs/info/697b98e61136d179eeef25f2?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jan 29 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690922494a1b456627afcf98?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jan 29 |
 | **[Virtua Health](https://www.virtua.org/)** | **[IT Data Science Intern](https://jobright.ai/jobs/info/697b898c1136d179eeef06bc?utm_campaign=1066&utm_source=git)** | Marlton, NJ | On Site | Jan 29 |
@@ -128,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[ZS](https://www.zs.com/)** | **[Decision Analytics Associate - Intern (Indianapolis)](https://jobright.ai/jobs/info/697a7851f6fc293b0a2c49e6?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Jan 28 |
 | **[Super.com](https://www.super.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/697a75a29d60e431a16bf45e?utm_campaign=1066&utm_source=git)** | Canada | Remote | Jan 28 |
 | **[Kinross Gold Corporation](https://www.kinross.com/)** | **[Gold Rush Summer Intern - Health & Safety](https://jobright.ai/jobs/info/697a97159d60e431a16c2ca3?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
+| **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 System Analytics Intern](https://jobright.ai/jobs/info/697b9a841423772304ebb691?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Real-World Evidence Data Science & Programming](https://jobright.ai/jobs/info/697a96fe8dbbf73badc7d0a4?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 28 |
 | ↳ | **[Internship - Data Science Integrated Insights](https://jobright.ai/jobs/info/697a92e38dbbf73badc7c783?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 28 |
 | ↳ | **[Internship - Data Science (Multiple Positions)](https://jobright.ai/jobs/info/697a8f9a9d60e431a16c1c64?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 28 |
@@ -147,14 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Reinsurance and Catastrophe Risk Data Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/697a578aa8de441ca73580f6?utm_campaign=1066&utm_source=git)** | One Park Circle, Westfield Center, OH, 44251-5001, US | Hybrid | Jan 28 |
 | **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[GIS Intern](https://jobright.ai/jobs/info/697a5714a8de441ca735809e?utm_campaign=1066&utm_source=git)** | Ames, IA | On Site | Jan 28 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Data Science / AI Intern – Literature Mining & Graph Modeling](https://jobright.ai/jobs/info/697a75738dbbf73badc79958?utm_campaign=1066&utm_source=git)** | US - Waltham - MA | Hybrid | Jan 28 |
-| **[LMI](http://www.lmi.org)** | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/697a73a0f6fc293b0a2c4458?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | Jan 28 |
-| ↳ | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/697a719c9d60e431a16bf0a3?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Jan 28 |
+| **[LMI](http://www.lmi.org)** | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/697a719c9d60e431a16bf0a3?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Jan 28 |
+| ↳ | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/697a73a0f6fc293b0a2c4458?utm_campaign=1066&utm_source=git)** | Tysons, VA, US | On Site | Jan 28 |
 | ↳ | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/697a795d8dbbf73badc79e26?utm_campaign=1066&utm_source=git)** | US-VA-Tysons | On Site | Jan 28 |
 | **[GHD](http://www.ghd.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/697a4ed4b4589b4ee87c9b12?utm_campaign=1066&utm_source=git)** | 11451 Katy Freeway Suite 400, HOUSTON, TX, 77079, US | Hybrid | Jan 28 |
 | **[Tarsus Pharmaceuticals, Inc.](https://www.tarsusrx.com)** | **[Intern, Clinical Data Analysis (Machine Learning)](https://jobright.ai/jobs/info/697a4a3ca8de441ca73578d1?utm_campaign=1066&utm_source=git)** | Irvine, California, United States | Hybrid | Jan 28 |
 | **[Predictive Oncology](https://predictive-oncology.com)** | **[Computational Biologist/Bioinformatician Intern](https://jobright.ai/jobs/info/697a43d4a5b9804527e00c6a?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jan 28 |
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Reinsurance and Catastrophe Risk Data Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/697a70bc9d60e431a16bef93?utm_campaign=1066&utm_source=git)** | Westfield Center, OH | Hybrid | Jan 28 |
 | **[APTIM](https://www.aptim.com/)** | **[EHS Business Systems Analyst Intern (STRIVE Program)](https://jobright.ai/jobs/info/697a6e269d60e431a16bec9f?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Jan 28 |
-| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Client Success Data Summer Intern](https://jobright.ai/jobs/info/697a4188a8de441ca73561d6?utm_campaign=1066&utm_source=git)** | San Diego | Hybrid | Jan 28 |
-| **[Westfield Specialty Insurance](https://www.westfieldspecialty.com/)** | **[Reinsurance and Catastrophe Risk Data Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/697a5842b4589b4ee87ca0e7?utm_campaign=1066&utm_source=git)** | Westfield Center, OH, United States | Hybrid | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
