@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[STMicroelectronics](https://www.st.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/695f1206a1bbea1d9a79e51d?utm_campaign=1066&utm_source=git)** | Burlington, NC | Hybrid | Jan 29 |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Biology Molecular Lab Applications (DSRIC)](https://jobright.ai/jobs/info/697b2dc71136d179eeeea224?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | Remote | Jan 29 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Customer Analytics Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697b267217b11b1c2e422d2b?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jan 29 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Delta Wellness - Data Science (Summer 2026)](https://jobright.ai/jobs/info/697b190d1136d179eeee7ec6?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
 | **[Mastercard](http://www.mastercard.com)** | **[Data Scientist Intern, Summer 2026 - New York City, NY](https://jobright.ai/jobs/info/697afd4ec532c4768fe0d647?utm_campaign=1066&utm_source=git)** | New York City, New York | On Site | Jan 28 |
@@ -72,8 +74,7 @@ For a complete list, click the following sortable link below:
 | **[MERGE](http://www.mergeworld.com/)** | **[Applied Intelligence Intern](https://jobright.ai/jobs/info/697af5c8c532c4768fe0c0c4?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Jan 28 |
 | **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2026 Internship: Data Science - Princeton, NJ](https://jobright.ai/jobs/info/695f05590badca5763af7c8c?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jan 28 |
 | ↳ | **[Summer 2026 Internship: Data Science Intern - Princeton, NJ](https://jobright.ai/jobs/info/6979a2550791bc1d723070ea?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jan 28 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Data Analyst, Emerging Category Intern](https://jobright.ai/jobs/info/697aca72f6fc293b0a2cc44d?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
-| **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2026 Internship: Data Science - Lexington, MA](https://jobright.ai/jobs/info/695f01d9a1bbea1d9a79cea3?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Jan 28 |
+| ↳ | **[Summer 2026 Internship: Data Science - Lexington, MA](https://jobright.ai/jobs/info/695f01d9a1bbea1d9a79cea3?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Jan 28 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Real-World and Clinical Data Strategy, Data Innovation Group](https://jobright.ai/jobs/info/697ac83df6fc293b0a2cc23e?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | Hybrid | Jan 28 |
 | **[Solar Turbines](https://www.solarturbines.com)** | **[2026 Internship - Data Steward](https://jobright.ai/jobs/info/6972f2f11790715e866bdcf0?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Jan 28 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Supply Chain Visibility Intern](https://jobright.ai/jobs/info/697ae2df17b11b1c2e41b382?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jan 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Foot Locker](http://www.footlocker-inc.com)** | **[Supply Chain Data Analytics Intern](https://jobright.ai/jobs/info/6979f3f5a5b9804527dfc077?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 28 |
 | **[Cadent](http://www.cadent.tv)** | **[Data Science Intern](https://jobright.ai/jobs/info/697a10b5a5b9804527dfe5fb?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 28 |
 | **[San Diego State University](http://www.sdsu.edu)** | **[PAC Research Assistant](https://jobright.ai/jobs/info/697a1a78a8de441ca7354533?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 28 |
-| **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/694d824029655e4dd65768ff?utm_campaign=1066&utm_source=git)** | Duluth, GA | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
