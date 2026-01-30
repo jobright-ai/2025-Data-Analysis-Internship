@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Teacher Retirement System of Texas](http://www.trs.texas.gov)** | **[Health Data Analytics Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/697c08a11423772304ec552b?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Jan 29 |
+| **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Data & Analytics](https://jobright.ai/jobs/info/697c08760b88cc7d6422f5cd?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Jan 29 |
+| ↳ | **[Internship Summer 2026 - Technology, Data & Analytics](https://jobright.ai/jobs/info/697c06af1136d179eeefaa2a?utm_campaign=1066&utm_source=git)** | Fort Mill, SC | Hybrid | Jan 29 |
+| **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship -Revenue Planning and Analysis - AI Destination Trends](https://jobright.ai/jobs/info/697bf6bb0b88cc7d6422e438?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Jan 29 |
+| **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601d64a1bbea1d9a7aec27?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Jan 29 |
+| **[Multifaith Alliance](https://multifaithalliance.org/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/697c09531423772304ec558b?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 29 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69600b287ebc25398eb5f41f?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Jan 29 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/697be5791136d179eeef801f?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Jan 29 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[GIS Internship](https://jobright.ai/jobs/info/697be4771136d179eeef7f84?utm_campaign=1066&utm_source=git)** | Minnetonka, MN | On Site | Jan 29 |
@@ -66,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[District 4 Labs](http://district4labs.com)** | **[Internship (Software Engineering / Intelligence)](https://jobright.ai/jobs/info/697bdf2f0b88cc7d6422bd37?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 29 |
 | **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Biostatistics and Programming](https://jobright.ai/jobs/info/697bddd81423772304ec18f4?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 29 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Biostatistics Summer Intern Undergrad (Remote)](https://jobright.ai/jobs/info/697bda7c1136d179eeef6cee?utm_campaign=1066&utm_source=git)** | Remote (US) | Remote | Jan 29 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 29 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/695fd5197ebc25398eb5b13f?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Jan 29 |
 | **[Moderna](http://www.modernatx.com)** | **[2026 Intern, Biostatistics and Programming](https://jobright.ai/jobs/info/697bd32a0b88cc7d6422a428?utm_campaign=1066&utm_source=git)** | Cambridge, Massachusetts | Hybrid | Jan 29 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Clinical Insights and Automation (Early Clinical Development)](https://jobright.ai/jobs/info/697bcdd11136d179eeef5261?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 29 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Learning Data Science Master's Intern](https://jobright.ai/jobs/info/697ac862f6fc293b0a2cc259?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Jan 28 |
 | **[Gannett Fleming](https://www.gftinc.com)** | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/697ae6a217b11b1c2e41ba3b?utm_campaign=1066&utm_source=git)** | US-MD-Baltimore, MD | Hybrid | Jan 28 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Learning Data Science Master's Intern](https://jobright.ai/jobs/info/697ac58f8dbbf73badc814fd?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Jan 28 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Real-World Data Strategy](https://jobright.ai/jobs/info/697a88e7f6fc293b0a2c6194?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 28 |
-| **[Sanofi](https://www.sanofi.com)** | **[Biostatistics Evidence Generation & Decision Sciences (EGDS)- Summer 2026 Intern](https://jobright.ai/jobs/info/695eeeaf08ab990f282a3f88?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Jan 28 |
-| **[Panasonic North America](https://homes.panasonic.com/)** | **[Business Intelligence Intern (Summer 2026)](https://jobright.ai/jobs/info/69617f94a112b40266100427?utm_campaign=1066&utm_source=git)** | Newark, NJ | On Site | Jan 28 |
-| **[tonies® USA](https://us.tonies.com)** | **[Summer Internship - Consumer Insights](https://jobright.ai/jobs/info/697ac8549d60e431a16c7091?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 28 |
-| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Commercial Analytics and Data Science](https://jobright.ai/jobs/info/697a90249d60e431a16c1d85?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 28 |
-| **[GHD](http://www.ghd.com)** | **[Engineering Intern](https://jobright.ai/jobs/info/697a85a58dbbf73badc7aee3?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Jan 28 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Real-World Evidence Research](https://jobright.ai/jobs/info/697a8533f6fc293b0a2c5ad6?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
