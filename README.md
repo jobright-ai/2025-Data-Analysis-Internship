@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ascension](https://healthcare.ascension.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/697c6d7b137a0510256560fb?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[BI Engineering - Internship](https://jobright.ai/jobs/info/697c303e0b88cc7d64233869?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Jan 29 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/696012dca1bbea1d9a7ade28?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Jan 29 |
 | **[Henkel](http://www.henkel.com)** | **[Information Technology & Data Analytics Intern – Summer 2026](https://jobright.ai/jobs/info/6960b6a5a112b402660f5b5f?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Jan 29 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship -Revenue Planning and Analysis - AI Destination Trends](https://jobright.ai/jobs/info/697bf6bb0b88cc7d6422e438?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Jan 29 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c1c8f0b88cc7d642316a0?utm_campaign=1066&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 29 |
 | ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c16ad1423772304ec6bb6?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Jan 29 |
-| ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c1e4c0b88cc7d64231a69?utm_campaign=1066&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 29 |
 | ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c119e1423772304ec6212?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Jan 29 |
+| ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c1e4c0b88cc7d64231a69?utm_campaign=1066&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 29 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601d64a1bbea1d9a7aec27?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Jan 29 |
 | ↳ | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69600b287ebc25398eb5f41f?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Jan 29 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/697be5791136d179eeef801f?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Jan 29 |
@@ -137,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[STMicroelectronics](https://www.st.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/695f1206a1bbea1d9a79e51d?utm_campaign=1066&utm_source=git)** | Burlington, NC | Hybrid | Jan 29 |
 | **[Spectrum Reach](https://www.spectrumreach.com)** | **[Customer Analytics Intern, Spectrum Reach Summer 2026](https://jobright.ai/jobs/info/697b267217b11b1c2e422d2b?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jan 29 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Delta Wellness - Data Science (Summer 2026)](https://jobright.ai/jobs/info/697b190d1136d179eeee7ec6?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
+| **[Waystar](http://www.waystar.com)** | **[Data Analyst Internship (Summer 2026)](https://jobright.ai/jobs/info/697c70ff727747250d572025?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 28 |
 | **[Mastercard](http://www.mastercard.com)** | **[Data Scientist Intern, Summer 2026 - New York City, NY](https://jobright.ai/jobs/info/697afd4ec532c4768fe0d647?utm_campaign=1066&utm_source=git)** | New York City, New York | On Site | Jan 28 |
 | **[Sanofi](https://www.sanofi.com)** | **[Biomarker Statistics - Summer 2026 Intern](https://jobright.ai/jobs/info/697af6851423772304eaeeee?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Jan 28 |
 | ↳ | **[Biostatistics Evidence Generation & Decision Sciences (EGDS)- Summer 2026 Intern](https://jobright.ai/jobs/info/697af5d5c532c4768fe0c0cd?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Real-World and Clinical Data Strategy, Data Innovation Group](https://jobright.ai/jobs/info/697ac83df6fc293b0a2cc23e?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | Hybrid | Jan 28 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Supply Chain Visibility Intern](https://jobright.ai/jobs/info/697ae2df17b11b1c2e41b382?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Jan 28 |
 | **[Desjardins](https://www.desjardins.com)** | **[Data internship, Summer 2026](https://jobright.ai/jobs/info/697b177f17b11b1c2e4215dd?utm_campaign=1066&utm_source=git)** | Montréal-Ouest, Quebec, Canada | Hybrid | Jan 28 |
-| **[Continental Finance Company](https://www.continentalfinance.net/)** | **[Data Science Intern](https://jobright.ai/jobs/info/697ae3fe1423772304eacbbe?utm_campaign=1066&utm_source=git)** | Wilmington, DE | Hybrid | Jan 28 |
-| **[Ryder System, Inc.](http://ryder.com/en)** | **[Intern - Analytics Team (remote)](https://jobright.ai/jobs/info/697ae63017b11b1c2e41b97c?utm_campaign=1066&utm_source=git)** | Albany, NY | Remote | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
