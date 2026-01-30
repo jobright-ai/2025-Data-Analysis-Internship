@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SoFi](https://www.sofi.com)** | **[Intern, Data Scientist, Money Data Science](https://jobright.ai/jobs/info/697d12673f57a3356966c762?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Data Analyst Intern, Capital Construction](https://jobright.ai/jobs/info/697d10f5727747250d57c739?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 30 |
+| **[TMX Group](http://www.tmx.com)** | **[Information Analyst Intern](https://jobright.ai/jobs/info/697d10bc727747250d57c6f4?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 30 |
+| **[Delta Dental of Missouri](http://www.deltadentalmo.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/697d0e043f57a3356966c21f?utm_campaign=1066&utm_source=git)** | Saint Louis, Missouri, United States | On Site | Jan 30 |
+| **[General Dynamics](https://www.gd.com)** | **[Intern Administrative / Data Analytics](https://jobright.ai/jobs/info/697d0c40727747250d57c29b?utm_campaign=1066&utm_source=git)** | USA-MA-Dedham | Hybrid | Jan 30 |
+| ↳ | **[Intern Administrative / Data Analytics](https://jobright.ai/jobs/info/697d0a67137a05102565ff63?utm_campaign=1066&utm_source=git)** | MA-Dedham, UNAVAILABLE, USA | Hybrid | Jan 30 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Intelligence (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697d028c727747250d57ba57?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | **[Syngenta](http://www.syngenta.com)** | **[Geospatial Remote Sensing Intern](https://jobright.ai/jobs/info/69790e3e88e2b47213bd2b1b?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Remote | Jan 30 |
 | **[HOPPR](https://www.hoppr.ai)** | **[Research Intern](https://jobright.ai/jobs/info/697cffcc727747250d57b8b0?utm_campaign=1066&utm_source=git)** | Remote USA | Remote | Jan 30 |
@@ -107,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship -Revenue Planning and Analysis - AI Destination Trends](https://jobright.ai/jobs/info/697bf6bb0b88cc7d6422e438?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Jan 29 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c1c8f0b88cc7d642316a0?utm_campaign=1066&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 29 |
 | ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c16ad1423772304ec6bb6?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Jan 29 |
-| ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c119e1423772304ec6212?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Jan 29 |
 | ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c1e4c0b88cc7d64231a69?utm_campaign=1066&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 29 |
+| ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c119e1423772304ec6212?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Jan 29 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601d64a1bbea1d9a7aec27?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Jan 29 |
 | ↳ | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69600b287ebc25398eb5f41f?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Jan 29 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/697be5791136d179eeef801f?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Jan 29 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[IT DATA & ANALYTICS INTERN](https://jobright.ai/jobs/info/697b9b981423772304ebb91a?utm_campaign=1066&utm_source=git)** | Fayetteville, NC, United States | On Site | Jan 29 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/690922494a1b456627afcf98?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Jan 29 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Data Science Co-Op](https://jobright.ai/jobs/info/697b84610b88cc7d64224a7a?utm_campaign=1066&utm_source=git)** | Bridgeton, MO | On Site | Jan 29 |
-| **[Emmes](https://www.emmes.com/)** | **[Biostatistician Intern](https://jobright.ai/jobs/info/696ef48582817106e9761834?utm_campaign=1066&utm_source=git)** | Rockville, MD | Remote | Jan 29 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Sciences and Informatics (CSI), Reagent Bioinformatics](https://jobright.ai/jobs/info/697b694e1136d179eeeee5dd?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | On Site | Jan 29 |
-| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927c135f0beb0723262db8e?utm_campaign=1066&utm_source=git)** | Asheville, NC | On Site | Jan 29 |
-| ↳ | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927c81791ceeb2e8a543118?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Jan 29 |
-| **[Border States](https://www.borderstates.com)** | **[Corporate Intern - Data & Analytics](https://jobright.ai/jobs/info/6943832994730b739876a0b1?utm_campaign=1066&utm_source=git)** | Fargo, ND | On Site | Jan 29 |
-| **[Trilogy Health Services, LLC](http://www.trilogyhs.com)** | **[IT Intern](https://jobright.ai/jobs/info/69676e391703f05405a91e2d?utm_campaign=1066&utm_source=git)** | Louisville, KY | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
