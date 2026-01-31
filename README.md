@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Janus Henderson Investors](https://www.janushenderson.com/henderson)** | **[BI and Reporting Intern](https://jobright.ai/jobs/info/69610392e7ed9a5731b9cb79?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Jan 31 |
+| **[GeoStabilization International®](http://www.geostabilization.com)** | **[IT Intern](https://jobright.ai/jobs/info/695a070d9f1b381eb272b155?utm_campaign=1066&utm_source=git)** | Westminster, CO | Hybrid | Jan 31 |
+| **[Access Limited](accesslimited.com)** | **[IT Intern](https://jobright.ai/jobs/info/695a2e8c9f1b381eb272c9a1?utm_campaign=1066&utm_source=git)** | Westminster, CO | Hybrid | Jan 31 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/69618238f3f4cd1325067e7c?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Jan 31 |
 | ↳ | **[2026 Intern - Data Analytics](https://jobright.ai/jobs/info/696199a5e7ed9a5731ba7472?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Jan 31 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2026-2027 Data Visualization Intern](https://jobright.ai/jobs/info/697dc789abff4c399a9c9c87?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
@@ -64,6 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026-2027 Yearlong Ridership Data Analytics Intern II](https://jobright.ai/jobs/info/697dc658abff4c399a9c98cc?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
 | ↳ | **[2026-2027 Yearlong Ridership Data Analytics Intern I](https://jobright.ai/jobs/info/697dc2de7f40342e15d6a3e0?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
 | **[GSD&M](http://www.gsdm.com)** | **[Media Analytics Intern](https://jobright.ai/jobs/info/696eb654350cf4380315909f?utm_campaign=1066&utm_source=git)** | Austin | Hybrid | Jan 31 |
+| **[Egotechworld](https://egotechworld.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/697dd2b3ce48107c05422a56?utm_campaign=1066&utm_source=git)** | Mobile, AL | Remote | Jan 30 |
 | **[Delta Dental of Missouri](http://www.deltadentalmo.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/697daa637f40342e15d69129?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jan 30 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Project and Data Analytics Intern-Fare Systems](https://jobright.ai/jobs/info/697d8e807f40342e15d67127?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
 | ↳ | **[2026-2027 Yearlong Ridership  Data Analytics Intern II](https://jobright.ai/jobs/info/697d9026ce48107c0541da93?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ascension](https://healthcare.ascension.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/697c21e50b88cc7d6423250b?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jan 29 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship -Revenue Planning and Analysis - AI Destination Trends](https://jobright.ai/jobs/info/697bf6bb0b88cc7d6422e438?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Jan 29 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c16ad1423772304ec6bb6?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Jan 29 |
-| ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c1c8f0b88cc7d642316a0?utm_campaign=1066&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 29 |
-| ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c1e4c0b88cc7d64231a69?utm_campaign=1066&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 29 |
-| ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c119e1423772304ec6212?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Jan 29 |
-| **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601d64a1bbea1d9a7aec27?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
