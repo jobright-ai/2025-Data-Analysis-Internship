@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Internship - Data Science (Multiple Positions)](https://jobright.ai/jobs/info/697e2d257f40342e15d6fdde?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 31 |
+| ↳ | **[Internship - Real-World Evidence Data Science & Programming](https://jobright.ai/jobs/info/697e2c687f40342e15d6fd9b?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 31 |
+| ↳ | **[Internship - Real-World Data Strategy](https://jobright.ai/jobs/info/697e2c15ce48107c05426355?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 31 |
+| ↳ | **[Internship - Data Science Integrated Insights](https://jobright.ai/jobs/info/697e2c13abff4c399a9ceadc?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 31 |
+| ↳ | **[Internship - Real-World Evidence Research](https://jobright.ai/jobs/info/697e2b7cabff4c399a9ceab0?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 31 |
 | **[Virtua Health](https://www.virtua.org/)** | **[IT Informatics Intern](https://jobright.ai/jobs/info/697e1f64ce48107c0542603e?utm_campaign=1066&utm_source=git)** | Marlton, NJ | On Site | Jan 31 |
-| **[GenPark](https://genpark.ai)** | **[Data Science Intern](https://jobright.ai/jobs/info/697e1927ce48107c05425d20?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jan 31 |
 | **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/691642c8286ccf0a15133db2?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Jan 31 |
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Client Operations Management Data Intern](https://jobright.ai/jobs/info/69613a0ea112b402660fc179?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Jan 31 |
 | **[Olympus Corporation](https://heylink.me/yokubet.id/)** | **[Olympus Intern, Clinical Research Data Management (Summer 2026)](https://jobright.ai/jobs/info/697e08ec7f40342e15d6ed48?utm_campaign=1066&utm_source=git)** | Center Valley, PA | Remote | Jan 31 |
@@ -128,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[Sanofi](https://www.sanofi.com)** | **[Biomarker Statistics - Summer 2026 Intern](https://jobright.ai/jobs/info/697ceda23f57a335696699fe?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 30 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Intelligence (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697ce4b4727747250d579027?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | **[Sanofi](https://www.sanofi.com)** | **[Biomarker Statistics - Summer 2026 Intern](https://jobright.ai/jobs/info/697cdf30727747250d578ce7?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Jan 30 |
+| **[Acadian Asset Management](https://www.acadian-inc.com/)** | **[Quant Developer Intern - Summer 2026](https://jobright.ai/jobs/info/68f16077f462172a5a7d74a3?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Jan 30 |
 | **[Pattern Bioscience](https://pattern.bio)** | **[RevOps Data Analyst](https://jobright.ai/jobs/info/697ccf81137a05102565c3fb?utm_campaign=1066&utm_source=git)** | Lehi, UT, US | Hybrid | Jan 30 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927c6c7d47de4798ece064c?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jan 30 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Data Science - R10679](https://jobright.ai/jobs/info/6960d888a112b402660f762e?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Information Technology & Data Analytics Intern – Summer 2026](https://jobright.ai/jobs/info/6960b6a5a112b402660f5b5f?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Jan 29 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601fd1a112b402660ed6f6?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jan 29 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Biology Molecular Lab Applications (DSRIC)](https://jobright.ai/jobs/info/697d96d97f40342e15d67813?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | Remote | Jan 29 |
-| **[Lam Research](http://www.lamresearch.com)** | **[Data Scientist Intern - Equipment Intelligence - Summer/Fall 2026](https://jobright.ai/jobs/info/697c302d1423772304ec9568?utm_campaign=1066&utm_source=git)** | Tualatin, OR | Hybrid | Jan 29 |
-| **[Henkel](http://www.henkel.com)** | **[Supply Chain Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/6971a31c333b6343a14e3a2d?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | On Site | Jan 29 |
-| **[Lamb Weston](http://www.lambweston.com/)** | **[Agriculture Intern, Data Analytics](https://jobright.ai/jobs/info/697404bf206da320f49e151d?utm_campaign=1066&utm_source=git)** | Kennewick, WA | On Site | Jan 29 |
-| **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/697c23a71423772304ec848c?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | Hybrid | Jan 29 |
-| **[ETS](http://www.ets.org)** | **[Ida Lawrence Research Internship Summer 2026](https://jobright.ai/jobs/info/696051f5a112b402660f1865?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
