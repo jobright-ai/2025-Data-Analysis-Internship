@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Ridership  Data Analytics Intern II](https://jobright.ai/jobs/info/697d9026ce48107c0541da93?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
+| ↳ | **[2026-2027 Yearlong Ridership  Data Analytics Intern I](https://jobright.ai/jobs/info/697d8e8dce48107c0541d8ea?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
+| ↳ | **[2026-2027 Yearlong Project and Data Analytics Intern-Fare Systems](https://jobright.ai/jobs/info/697d8e807f40342e15d67127?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Data Sales Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/697d7c0a137a05102566a327?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Jan 30 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Analytics Intern (Part-Time)](https://jobright.ai/jobs/info/697d739d137a051025669677?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 30 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Obesity Commercial Insights](https://jobright.ai/jobs/info/697d69fc727747250d584f3d?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Data Analytics Intern (Part-Time)](https://jobright.ai/jobs/info/697d8583ce48107c0541b6ec?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 30 |
 | **[Fellowes Brands](http://www.fellowes.com/us/en/Pages/default.aspx)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/697d6801727747250d584cc3?utm_campaign=1066&utm_source=git)** | Itasca, IL | Hybrid | Jan 30 |
 | **[Exiger](http://www.exiger.com)** | **[Trade Intelligence Analyst Intern – Government Analytics (Summer 2026)](https://jobright.ai/jobs/info/6961b537a112b402661045c6?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Jan 30 |
 | **[At Your School (AYS, Inc.)](https://linktr.ee/atyourschool)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/697d5e54137a051025667eb2?utm_campaign=1066&utm_source=git)** | Indianapolis,IN,US | On Site | Jan 30 |
@@ -139,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Summer 2026 - Technology, Data & Analytics](https://jobright.ai/jobs/info/697c06af1136d179eeefaa2a?utm_campaign=1066&utm_source=git)** | Fort Mill, SC | Hybrid | Jan 29 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/697c21e50b88cc7d6423250b?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jan 29 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship -Revenue Planning and Analysis - AI Destination Trends](https://jobright.ai/jobs/info/697bf6bb0b88cc7d6422e438?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Jan 29 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c16ad1423772304ec6bb6?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Jan 29 |
-| ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c1c8f0b88cc7d642316a0?utm_campaign=1066&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 29 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c1c8f0b88cc7d642316a0?utm_campaign=1066&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 29 |
+| ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c16ad1423772304ec6bb6?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Jan 29 |
 | ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c1e4c0b88cc7d64231a69?utm_campaign=1066&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 29 |
 | ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c119e1423772304ec6212?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Jan 29 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601d64a1bbea1d9a7aec27?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Jan 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/695fd5197ebc25398eb5b13f?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Jan 29 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Data Analyst Intern (Co-op)](https://jobright.ai/jobs/info/697c88d6137a051025658a5e?utm_campaign=1066&utm_source=git)** | Draper, UT | On Site | Jan 29 |
 | **[Auburn University](https://www.auburn.edu/)** | **[RFID Lab Student Data Analyst (Undergrad)](https://jobright.ai/jobs/info/69792ba088e2b47213bd4984?utm_campaign=1066&utm_source=git)** | Auburn, AL | On Site | Jan 29 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Clinical Insights and Automation (Early Clinical Development)](https://jobright.ai/jobs/info/697bcdd11136d179eeef5261?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 29 |
-| **[apexanalytix](https://www.apexanalytix.com)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/695fd47e7ebc25398eb5b0ca?utm_campaign=1066&utm_source=git)** | Greensboro, NC | Remote | Jan 29 |
-| **[District 4 Labs](http://district4labs.com)** | **[Internship (Software Engineering / Intelligence)](https://jobright.ai/jobs/info/697bdf2f0b88cc7d6422bd37?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 29 |
-| **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Business Intelligence Intern - Summer 2026](https://jobright.ai/jobs/info/69092361bcccf20de59d7c0a?utm_campaign=1066&utm_source=git)** | Neenah, WI | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
