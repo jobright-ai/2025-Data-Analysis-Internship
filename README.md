@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Client Operations Management Data Intern](https://jobright.ai/jobs/info/69613a0ea112b402660fc179?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Jan 31 |
+| **[Olympus Corporation](https://heylink.me/yokubet.id/)** | **[Olympus Intern, Clinical Research Data Management (Summer 2026)](https://jobright.ai/jobs/info/697e08ec7f40342e15d6ed48?utm_campaign=1066&utm_source=git)** | Center Valley, PA | Remote | Jan 31 |
+| **[LMI](http://www.lmi.org)** | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/697e088dabff4c399a9cd8ad?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 31 |
+| **[Minitab](http://www.minitab.com/en-us/)** | **[Data Privacy Intern](https://jobright.ai/jobs/info/696172e0f3f4cd1325066abf?utm_campaign=1066&utm_source=git)** | State College, PA | On Site | Jan 31 |
+| **[American Express](http://www.americanexpress.com)** | **[Campus Graduate II Summer Internship Program - 2026 Global Decision Science, Credit & Fraud Risk - New York, NY](https://jobright.ai/jobs/info/697753d652f3c27ec6434840?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Data and Analytics](https://jobright.ai/jobs/info/695949c8f1f8465b79efe1e4?utm_campaign=1066&utm_source=git)** | Winston-Salem, NC | On Site | Jan 31 |
 | **[Hudson River Trading](https://www.hudsonrivertrading.com)** | **[Algorithm Development (Quant Research) PhD Internship – Summer 2026](https://jobright.ai/jobs/info/690cf53c4a1b456627b1bd5c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 31 |
 | ↳ | **[Algorithm Development (Quant Research) Internship – Summer 2026](https://jobright.ai/jobs/info/690cfe564a1b456627b1c37c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 31 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Biostatistics Summer Intern Undergrad (Remote)](https://jobright.ai/jobs/info/697c18271136d179eeefc425?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 29 |
 | **[American Electric Power](http://aep.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/695d21f0f5f3c43f38e1e8d2?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Jan 29 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/697c0fe11423772304ec5ebf?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Jan 29 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c0f6d1136d179eeefb469?utm_campaign=1066&utm_source=git)** | North Carolina | Hybrid | Jan 29 |
-| **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/696015817ebc25398eb602ae?utm_campaign=1066&utm_source=git)** | Fairborn, OH | On Site | Jan 29 |
-| **[Teacher Retirement System of Texas](http://www.trs.texas.gov)** | **[Health Data Analytics Graduate Intern (Summer 2026)](https://jobright.ai/jobs/info/697c08a11423772304ec552b?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Jan 29 |
-| **[LPL Financial](https://www.lpl.com)** | **[Internship Summer 2026 - Technology, Data & Analytics](https://jobright.ai/jobs/info/697c08760b88cc7d6422f5cd?utm_campaign=1066&utm_source=git)** | Austin, TX | Hybrid | Jan 29 |
-| ↳ | **[Internship Summer 2026 - Technology, Data & Analytics](https://jobright.ai/jobs/info/697c06af1136d179eeefaa2a?utm_campaign=1066&utm_source=git)** | Fort Mill, SC | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
