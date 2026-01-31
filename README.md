@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Customer Research and Data Analytics Internship - Las Vegas](https://jobright.ai/jobs/info/697d3c51727747250d580cdf?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 30 |
+| **[BambooHR](http://www.BambooHR.com)** | **[Business Intelligence Data Analyst Intern](https://jobright.ai/jobs/info/697d3c1e137a051025664b64?utm_campaign=1066&utm_source=git)** | Utah | Hybrid | Hybrid | Jan 30 |
+| **[Nestlé Health Science](http://www.nestlehealthscience.com)** | **[Nestlé Health Science R&D Digital Intern](https://jobright.ai/jobs/info/697d3723727747250d5805fa?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | On Site | Jan 30 |
+| **[Dexterra](https://dexterra.com/)** | **[iLab Coordinator, AI & Data Systems CO-OP](https://jobright.ai/jobs/info/697d36ef137a051025664497?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 30 |
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Administrative / Data Analytics](https://jobright.ai/jobs/info/697d2950727747250d57ea32?utm_campaign=1066&utm_source=git)** | Dedham, MA | Hybrid | Jan 30 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Obesity Commercial Insights](https://jobright.ai/jobs/info/697d28ad727747250d57e89f?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 30 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Customer Intelligence Intern (Summer 2026)](https://jobright.ai/jobs/info/697d24d3727747250d57df73?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Jan 30 |
@@ -65,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Maine Department of Inland Fisheries and Wildlife](https://www.maine.gov/ifw/)** | **[Beginning with Habitat Geospatial Internship](https://jobright.ai/jobs/info/697d240c137a051025661cdd?utm_campaign=1066&utm_source=git)** | Augusta, ME | On Site | Jan 30 |
 | **[TMX Group](http://www.tmx.com)** | **[Information Analyst Intern](https://jobright.ai/jobs/info/697d10bc727747250d57c6f4?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 30 |
 | **[Intel Corporation](http://www.intel.com)** | **[DARC Data and Reporting Student/Intern](https://jobright.ai/jobs/info/697d1c47137a051025661438?utm_campaign=1066&utm_source=git)** | Hillsboro, OR | Hybrid | Jan 30 |
+| **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Summer Intern, Data Scientist - S&P Global](https://jobright.ai/jobs/info/697d3adb3f57a335696709e6?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jan 30 |
 | **[Pattern®](https://pattern.com)** | **[RevOps Data Analyst](https://jobright.ai/jobs/info/697d181c137a051025660eba?utm_campaign=1066&utm_source=git)** | Lehi, UT | Hybrid | Jan 30 |
 | **[AARP](http://www.aarp.org)** | **[Consumer Insights Intern (Graduate Student)](https://jobright.ai/jobs/info/6937be7aaabec14a727cccb8?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jan 30 |
 | **[SoFi](https://www.sofi.com)** | **[Intern, Data Scientist, Money Data Science](https://jobright.ai/jobs/info/697d12673f57a3356966c762?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
@@ -121,10 +126,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship Summer 2026 - Technology, Data & Analytics](https://jobright.ai/jobs/info/697c06af1136d179eeefaa2a?utm_campaign=1066&utm_source=git)** | Fort Mill, SC | Hybrid | Jan 29 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/697c21e50b88cc7d6423250b?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Jan 29 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship -Revenue Planning and Analysis - AI Destination Trends](https://jobright.ai/jobs/info/697bf6bb0b88cc7d6422e438?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Jan 29 |
-| **[SAS](http://www.sas.com)** | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c1c8f0b88cc7d642316a0?utm_campaign=1066&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 29 |
-| ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c16ad1423772304ec6bb6?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Jan 29 |
-| ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c119e1423772304ec6212?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Jan 29 |
+| **[SAS](http://www.sas.com)** | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c16ad1423772304ec6bb6?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Jan 29 |
+| ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c1c8f0b88cc7d642316a0?utm_campaign=1066&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 29 |
 | ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c1e4c0b88cc7d64231a69?utm_campaign=1066&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 29 |
+| ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c119e1423772304ec6212?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Jan 29 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601d64a1bbea1d9a7aec27?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Jan 29 |
 | ↳ | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69600b287ebc25398eb5f41f?utm_campaign=1066&utm_source=git)** | Huntsville, AL | On Site | Jan 29 |
 | **[Revolution Medicines](https://www.revmed.com)** | **[Intern, Biostatistics](https://jobright.ai/jobs/info/697be5791136d179eeef801f?utm_campaign=1066&utm_source=git)** | Redwood City, California, United States | Hybrid | Jan 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Optum](https://www.optum.com/)** | **[Graduate Actuarial Data Science Intern](https://jobright.ai/jobs/info/697bb8430b88cc7d6422835f?utm_campaign=1066&utm_source=git)** | Eden Prairie, MN | On Site | Jan 29 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Data Science / AI Intern – Literature Mining & Graph Modeling](https://jobright.ai/jobs/info/697bd94e1136d179eeef6a51?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Jan 29 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/697bb76c0b88cc7d6422825b?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Data Science & AI - Digital Innovation Office (Summer 2026)](https://jobright.ai/jobs/info/697bb2241423772304ebdc87?utm_campaign=1066&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jan 29 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/697bd31e1423772304ec037c?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 29 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Dashboard Development](https://jobright.ai/jobs/info/697bd40e1423772304ec0526?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 29 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Data Analyst, Emerging Category Intern](https://jobright.ai/jobs/info/697bcb2d1423772304ebf8b6?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
-| **[Cooper Standard](http://www.cooperstandard.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/697bacd81423772304ebd8e8?utm_campaign=1066&utm_source=git)** | Livonia, Michigan | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
