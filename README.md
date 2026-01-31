@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Ridership  Data Analytics Intern II](https://jobright.ai/jobs/info/697d9026ce48107c0541da93?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
+| **[Delta Dental of Missouri](http://www.deltadentalmo.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/697daa637f40342e15d69129?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jan 30 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Project and Data Analytics Intern-Fare Systems](https://jobright.ai/jobs/info/697d8e807f40342e15d67127?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
+| ↳ | **[2026-2027 Yearlong Ridership  Data Analytics Intern II](https://jobright.ai/jobs/info/697d9026ce48107c0541da93?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
 | ↳ | **[2026-2027 Yearlong Ridership  Data Analytics Intern I](https://jobright.ai/jobs/info/697d8e8dce48107c0541d8ea?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
-| ↳ | **[2026-2027 Yearlong Project and Data Analytics Intern-Fare Systems](https://jobright.ai/jobs/info/697d8e807f40342e15d67127?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
+| **[BambooHR](http://www.BambooHR.com)** | **[Business Intelligence Data Analyst Intern](https://jobright.ai/jobs/info/697da4ae7f40342e15d68d4c?utm_campaign=1066&utm_source=git)** | Draper, UT | Hybrid | Jan 30 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Data Sales Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/697d7c0a137a05102566a327?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Jan 30 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Analytics Intern (Part-Time)](https://jobright.ai/jobs/info/697d739d137a051025669677?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 30 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Obesity Commercial Insights](https://jobright.ai/jobs/info/697d69fc727747250d584f3d?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
@@ -135,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[ETS](http://www.ets.org)** | **[Ida Lawrence Research Internship Summer 2026](https://jobright.ai/jobs/info/696051f5a112b402660f1865?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Jan 29 |
 | **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Biostatistics Summer Intern Undergrad (Remote)](https://jobright.ai/jobs/info/697c18271136d179eeefc425?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 29 |
 | **[American Electric Power](http://aep.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/695d21f0f5f3c43f38e1e8d2?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Jan 29 |
-| **[MERGE](http://www.mergeworld.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/697af5c8c532c4768fe0c0c4?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Jan 29 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/697c0fe11423772304ec5ebf?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Jan 29 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c0f6d1136d179eeefb469?utm_campaign=1066&utm_source=git)** | North Carolina | Hybrid | Jan 29 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/696015817ebc25398eb602ae?utm_campaign=1066&utm_source=git)** | Fairborn, OH | On Site | Jan 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Biostatistics Summer Intern Undergrad (Remote)](https://jobright.ai/jobs/info/697bda7c1136d179eeef6cee?utm_campaign=1066&utm_source=git)** | Remote (US) | Remote | Jan 29 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 29 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/695fd5197ebc25398eb5b13f?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Jan 29 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Data Analyst Intern (Co-op)](https://jobright.ai/jobs/info/697c88d6137a051025658a5e?utm_campaign=1066&utm_source=git)** | Draper, UT | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
