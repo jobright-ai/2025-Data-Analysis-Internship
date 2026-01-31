@@ -86,7 +86,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026-2027 Yearlong Ridership Data Analytics Intern II](https://jobright.ai/jobs/info/697dc658abff4c399a9c98cc?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
 | ↳ | **[2026-2027 Yearlong Ridership Data Analytics Intern I](https://jobright.ai/jobs/info/697dc2de7f40342e15d6a3e0?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
 | **[GSD&M](http://www.gsdm.com)** | **[Media Analytics Intern](https://jobright.ai/jobs/info/696eb654350cf4380315909f?utm_campaign=1066&utm_source=git)** | Austin | Hybrid | Jan 31 |
-| **[Ryan J. Zirngibl Design](http://www.ryanjzirngibl.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/697e5bf2abff4c399a9d1340?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jan 31 |
 | **[Delta Dental of Missouri](http://www.deltadentalmo.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/697daa637f40342e15d69129?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jan 30 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Project and Data Analytics Intern-Fare Systems](https://jobright.ai/jobs/info/697d8e807f40342e15d67127?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
 | ↳ | **[2026-2027 Yearlong Ridership  Data Analytics Intern II](https://jobright.ai/jobs/info/697d9026ce48107c0541da93?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Farmers Insurance DDHQ](https://recruitment.farmers.com/district-manager-locator/co/greenwood-village/jared-seyl)** | **[Decision Science Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI/ Warwick, RI](https://jobright.ai/jobs/info/697cb234137a05102565af66?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 30 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/697c6d7b137a0510256560fb?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[BI Engineering - Internship](https://jobright.ai/jobs/info/697c303e0b88cc7d64233869?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Jan 29 |
+| **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/696012dca1bbea1d9a7ade28?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
