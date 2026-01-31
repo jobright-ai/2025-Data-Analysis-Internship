@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Customer Research and Data Analytics Internship - Las Vegas](https://jobright.ai/jobs/info/697d3c51727747250d580cdf?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 30 |
+| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2026-2027  Data Visualization  Intern](https://jobright.ai/jobs/info/697d59cc727747250d583c0b?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
+| **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Intern, Data Science](https://jobright.ai/jobs/info/697d5534137a0510256675d1?utm_campaign=1066&utm_source=git)** | Fredericton, New Brunswick, Canada | Hybrid | Jan 30 |
+| **[Veradigm®](https://veradigm.com)** | **[Medical Informatics Intern](https://jobright.ai/jobs/info/697d4929137a05102566568c?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 30 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Analytics Intern (Part-Time)](https://jobright.ai/jobs/info/697d4731137a051025665564?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Jan 30 |
+| **[Igloo Products Corp.](http://www.igloocoolers.com)** | **[Computer Information Systems (CIS) Intern](https://jobright.ai/jobs/info/697d444a727747250d5815b0?utm_campaign=1066&utm_source=git)** | Katy, TX | Hybrid | Jan 30 |
+| **[Nasdaq](https://www.nasdaq.com)** | **[Data Sales Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/697d3fc0727747250d581189?utm_campaign=1066&utm_source=git)** | USA - New York City - New York | Hybrid | Jan 30 |
+| **[Southwest Gas Corporation](https://www.swgas.com/)** | **[Customer Research and Data Analytics Internship - Las Vegas](https://jobright.ai/jobs/info/697d3df8137a051025664dee?utm_campaign=1066&utm_source=git)** | 8360 South Durango, Las Vegas, NV, 89113, US | Hybrid | Jan 30 |
+| ↳ | **[Customer Research and Data Analytics Internship - Las Vegas](https://jobright.ai/jobs/info/697d3c51727747250d580cdf?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 30 |
 | **[BambooHR](http://www.BambooHR.com)** | **[Business Intelligence Data Analyst Intern](https://jobright.ai/jobs/info/697d3c1e137a051025664b64?utm_campaign=1066&utm_source=git)** | Utah | Hybrid | Hybrid | Jan 30 |
 | **[Nestlé Health Science](http://www.nestlehealthscience.com)** | **[Nestlé Health Science R&D Digital Intern](https://jobright.ai/jobs/info/697d3723727747250d5805fa?utm_campaign=1066&utm_source=git)** | Bridgewater, NJ | On Site | Jan 30 |
 | **[Dexterra](https://dexterra.com/)** | **[iLab Coordinator, AI & Data Systems CO-OP](https://jobright.ai/jobs/info/697d36ef137a051025664497?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 30 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Intern - Elevate/Data Science [UG/Masters]](https://jobright.ai/jobs/info/697bdfcb1423772304ec1d2b?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 29 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Scientific Information](https://jobright.ai/jobs/info/697bc1121136d179eeef4566?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 29 |
 | **[S&P Global](https://www.spglobal.com)** | **[Summer Intern, Data Scientist](https://jobright.ai/jobs/info/697be9c11423772304ec2dca?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jan 29 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Dashboard Development](https://jobright.ai/jobs/info/697be0a70b88cc7d6422c0aa?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 29 |
-| **[Murphy Oil Corporation](http://www.murphyoilcorp.com)** | **[2026 Summer Field Data Capture (FDC) Internship](https://jobright.ai/jobs/info/697bbadf0b88cc7d6422866e?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Jan 29 |
-| **[BMO](http://www.bmo.com)** | **[Data Analyst, Anti Money Laundering, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/697bbadf1423772304ebe619?utm_campaign=1066&utm_source=git)** | Chicago, IL, USA | On Site | Jan 29 |
-| **[Influur](https://www.influur.com)** | **[Data Ninja - Internship](https://jobright.ai/jobs/info/697bb9341136d179eeef3c89?utm_campaign=1066&utm_source=git)** | Miami | Remote | Jan 29 |
-| **[Optum](https://www.optum.com/)** | **[Graduate Actuarial Data Science Intern](https://jobright.ai/jobs/info/697bb8430b88cc7d6422835f?utm_campaign=1066&utm_source=git)** | Eden Prairie, MN | On Site | Jan 29 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[Data Science / AI Intern – Literature Mining & Graph Modeling](https://jobright.ai/jobs/info/697bd94e1136d179eeef6a51?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Jan 29 |
-| **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/697bb76c0b88cc7d6422825b?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
