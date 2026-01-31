@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ryan J. Zirngibl Design](http://www.ryanjzirngibl.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/697dcd1fabff4c399a9cae50?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jan 31 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Analytics](https://jobright.ai/jobs/info/696199a5e7ed9a5731ba7472?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Jan 31 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Data Scientist](https://jobright.ai/jobs/info/69618238f3f4cd1325067e7c?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Jan 31 |
+| ↳ | **[2026 Intern - Data Analytics](https://jobright.ai/jobs/info/696199a5e7ed9a5731ba7472?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Jan 31 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2026-2027 Data Visualization Intern](https://jobright.ai/jobs/info/697dc789abff4c399a9c9c87?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
 | ↳ | **[2026-2027 Yearlong Project and Data Analytics Intern-Fare Systems](https://jobright.ai/jobs/info/697dc6f8abff4c399a9c9ac8?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
 | ↳ | **[2026-2027 Yearlong Ridership Data Analytics Intern II](https://jobright.ai/jobs/info/697dc658abff4c399a9c98cc?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship -Revenue Planning and Analysis - AI Destination Trends](https://jobright.ai/jobs/info/697bf6bb0b88cc7d6422e438?utm_campaign=1066&utm_source=git)** | Seattle, WA | Remote | Jan 29 |
 | **[SAS](http://www.sas.com)** | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c16ad1423772304ec6bb6?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Jan 29 |
 | ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c1c8f0b88cc7d642316a0?utm_campaign=1066&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 29 |
-| ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c119e1423772304ec6212?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Jan 29 |
 | ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c1e4c0b88cc7d64231a69?utm_campaign=1066&utm_source=git)** | Cary HQ, NC, US | Hybrid | Jan 29 |
+| ↳ | **[Summer 2026 - Learning Data Science Intern (Master's)](https://jobright.ai/jobs/info/697c119e1423772304ec6212?utm_campaign=1066&utm_source=git)** | US-NC-Cary HQ | Hybrid | Jan 29 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601d64a1bbea1d9a7aec27?utm_campaign=1066&utm_source=git)** | Boulder, CO | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
