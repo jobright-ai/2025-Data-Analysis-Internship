@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Administrative / Data Analytics](https://jobright.ai/jobs/info/697d2950727747250d57ea32?utm_campaign=1066&utm_source=git)** | Dedham, MA | Hybrid | Jan 30 |
+| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Obesity Commercial Insights](https://jobright.ai/jobs/info/697d28ad727747250d57e89f?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ, US | On Site | Jan 30 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Customer Intelligence Intern (Summer 2026)](https://jobright.ai/jobs/info/697d24d3727747250d57df73?utm_campaign=1066&utm_source=git)** | Las Vegas, NV | On Site | Jan 30 |
 | **[broadhead.](http://broadheadco.com)** | **[Data Operations Intern - Summer 2026](https://jobright.ai/jobs/info/697d24d13f57a3356966de70?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Jan 30 |
 | **[Noble Corporation](http://www.noblecorp.com)** | **[Technology & Data Intern](https://jobright.ai/jobs/info/697d249d3f57a3356966ddf0?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Jan 30 |
@@ -72,6 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Administrative / Data Analytics](https://jobright.ai/jobs/info/697d0a67137a05102565ff63?utm_campaign=1066&utm_source=git)** | MA-Dedham, UNAVAILABLE, USA | Hybrid | Jan 30 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Intelligence (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697d028c727747250d57ba57?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 | **[Syngenta](http://www.syngenta.com)** | **[Geospatial Remote Sensing Intern](https://jobright.ai/jobs/info/69790e3e88e2b47213bd2b1b?utm_campaign=1066&utm_source=git)** | Des Moines, IA | Remote | Jan 30 |
+| **[Intel Corporation](http://www.intel.com)** | **[DARC Data and Reporting Student/Intern](https://jobright.ai/jobs/info/697d3040137a051025663b63?utm_campaign=1066&utm_source=git)** | US, Oregon, Hillsboro | Hybrid | Jan 30 |
 | **[HOPPR](https://www.hoppr.ai)** | **[Research Intern](https://jobright.ai/jobs/info/697cffcc727747250d57b8b0?utm_campaign=1066&utm_source=git)** | Remote USA | Remote | Jan 30 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69703b89333b6343a14ca4aa?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jan 30 |
 | **[TMX Group](http://www.tmx.com)** | **[Information Analyst Intern](https://jobright.ai/jobs/info/697cfa25137a05102565f42a?utm_campaign=1066&utm_source=git)** | Toronto - 100 Adelaide St W | Hybrid | Jan 30 |
@@ -131,6 +134,7 @@ For a complete list, click the following sortable link below:
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 29 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/695fd5197ebc25398eb5b13f?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Jan 29 |
 | **[Proofpoint](http://www.proofpoint.com)** | **[Data Analyst Intern (Co-op)](https://jobright.ai/jobs/info/697c88d6137a051025658a5e?utm_campaign=1066&utm_source=git)** | Draper, UT | On Site | Jan 29 |
+| **[Auburn University](https://www.auburn.edu/)** | **[RFID Lab Student Data Analyst (Undergrad)](https://jobright.ai/jobs/info/69792ba088e2b47213bd4984?utm_campaign=1066&utm_source=git)** | Auburn, AL | On Site | Jan 29 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Clinical Insights and Automation (Early Clinical Development)](https://jobright.ai/jobs/info/697bcdd11136d179eeef5261?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Jan 29 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/695fd47e7ebc25398eb5b0ca?utm_campaign=1066&utm_source=git)** | Greensboro, NC | Remote | Jan 29 |
 | **[District 4 Labs](http://district4labs.com)** | **[Internship (Software Engineering / Intelligence)](https://jobright.ai/jobs/info/697bdf2f0b88cc7d6422bd37?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Dashboard Development](https://jobright.ai/jobs/info/697bd40e1423772304ec0526?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 29 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Data Analyst, Emerging Category Intern](https://jobright.ai/jobs/info/697bcb2d1423772304ebf8b6?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 29 |
 | **[Cooper Standard](http://www.cooperstandard.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/697bacd81423772304ebd8e8?utm_campaign=1066&utm_source=git)** | Livonia, Michigan | Hybrid | Jan 29 |
-| **[Fujitsu](http://www.fujitsu.com)** | **[Research Intern](https://jobright.ai/jobs/info/697ba7f21423772304ebd601?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | On Site | Jan 29 |
-| **[Signet Jewelers](http://www.signetjewelers.com)** | **[Data Analytics Intern (Hybrid)](https://jobright.ai/jobs/info/697ba7ec1423772304ebd5fc?utm_campaign=1066&utm_source=git)** | Support Center - Akron, OH | Hybrid | Jan 29 |
-| **[Wausau Supply Company](https://www.wausausupply.com/)** | **[Business Intelligence Internship](https://jobright.ai/jobs/info/697bc4f01136d179eeef4a03?utm_campaign=1066&utm_source=git)** | Schofield, WI | On Site | Jan 29 |
-| **[Pacira BioSciences, Inc.](http://www.pacira.com)** | **[Biometrics Intern](https://jobright.ai/jobs/info/6957ee57f1f8465b79ee8bf4?utm_campaign=1066&utm_source=git)** | Parsippany, NJ | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
