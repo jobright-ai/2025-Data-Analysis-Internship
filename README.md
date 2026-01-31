@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[IT Data & Analytics Intern](https://jobright.ai/jobs/info/697e5c517f40342e15d725bf?utm_campaign=1066&utm_source=git)** | Fayetteville, NC | On Site | Jan 31 |
+| **[Together AI](https://www.together.ai)** | **[Research Intern, Inference (Summer 2026)](https://jobright.ai/jobs/info/697e5ab0ce48107c054289c5?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jan 31 |
 | **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Strategic Intelligence Intern](https://jobright.ai/jobs/info/697e33d2abff4c399a9d05a1?utm_campaign=1066&utm_source=git)** | Topeka, KS | Hybrid | Jan 31 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Data Science (Multiple Positions)](https://jobright.ai/jobs/info/697e2d257f40342e15d6fdde?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 31 |
 | ↳ | **[Internship - Real-World Evidence Data Science & Programming](https://jobright.ai/jobs/info/697e2c687f40342e15d6fd9b?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 31 |
@@ -83,6 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026-2027 Yearlong Ridership Data Analytics Intern II](https://jobright.ai/jobs/info/697dc658abff4c399a9c98cc?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
 | ↳ | **[2026-2027 Yearlong Ridership Data Analytics Intern I](https://jobright.ai/jobs/info/697dc2de7f40342e15d6a3e0?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
 | **[GSD&M](http://www.gsdm.com)** | **[Media Analytics Intern](https://jobright.ai/jobs/info/696eb654350cf4380315909f?utm_campaign=1066&utm_source=git)** | Austin | Hybrid | Jan 31 |
+| **[Ryan J. Zirngibl Design](http://www.ryanjzirngibl.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/697e5bf2abff4c399a9d1340?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jan 31 |
 | **[Egotechworld](https://egotechworld.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/697dd2b3ce48107c05422a56?utm_campaign=1066&utm_source=git)** | Mobile, AL | Remote | Jan 30 |
 | **[Delta Dental of Missouri](http://www.deltadentalmo.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/697daa637f40342e15d69129?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jan 30 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Project and Data Analytics Intern-Fare Systems](https://jobright.ai/jobs/info/697d8e807f40342e15d67127?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Farmers Insurance DDHQ](https://recruitment.farmers.com/district-manager-locator/co/greenwood-village/jared-seyl)** | **[Decision Science Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI/ Warwick, RI](https://jobright.ai/jobs/info/697cb234137a05102565af66?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 30 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/697c6d7b137a0510256560fb?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 30 |
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[BI Engineering - Internship](https://jobright.ai/jobs/info/697c303e0b88cc7d64233869?utm_campaign=1066&utm_source=git)** | Newport Beach, CA | On Site | Jan 29 |
-| **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/696012dca1bbea1d9a7ade28?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Jan 29 |
-| **[Henkel](http://www.henkel.com)** | **[Information Technology & Data Analytics Intern – Summer 2026](https://jobright.ai/jobs/info/6960b6a5a112b402660f5b5f?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Jan 29 |
-| **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601fd1a112b402660ed6f6?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
