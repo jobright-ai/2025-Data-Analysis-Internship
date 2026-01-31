@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pro Integrate](https://www.prointegrate.in)** | **[Data Annotator (Fresher/ Entry Level/High School /interns/Trainees/build career in AI)](https://jobright.ai/jobs/info/697e5d9cce48107c05428c00?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Jan 31 |
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[IT Data & Analytics Intern](https://jobright.ai/jobs/info/697e5c517f40342e15d725bf?utm_campaign=1066&utm_source=git)** | Fayetteville, NC | On Site | Jan 31 |
 | **[Together AI](https://www.together.ai)** | **[Research Intern, Inference (Summer 2026)](https://jobright.ai/jobs/info/697e5ab0ce48107c054289c5?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jan 31 |
 | **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Strategic Intelligence Intern](https://jobright.ai/jobs/info/697e33d2abff4c399a9d05a1?utm_campaign=1066&utm_source=git)** | Topeka, KS | Hybrid | Jan 31 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026-2027 Yearlong Ridership Data Analytics Intern I](https://jobright.ai/jobs/info/697dc2de7f40342e15d6a3e0?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
 | **[GSD&M](http://www.gsdm.com)** | **[Media Analytics Intern](https://jobright.ai/jobs/info/696eb654350cf4380315909f?utm_campaign=1066&utm_source=git)** | Austin | Hybrid | Jan 31 |
 | **[Ryan J. Zirngibl Design](http://www.ryanjzirngibl.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/697e5bf2abff4c399a9d1340?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Jan 31 |
-| **[Egotechworld](https://egotechworld.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/697dd2b3ce48107c05422a56?utm_campaign=1066&utm_source=git)** | Mobile, AL | Remote | Jan 30 |
 | **[Delta Dental of Missouri](http://www.deltadentalmo.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/697daa637f40342e15d69129?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jan 30 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Project and Data Analytics Intern-Fare Systems](https://jobright.ai/jobs/info/697d8e807f40342e15d67127?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
 | ↳ | **[2026-2027 Yearlong Ridership  Data Analytics Intern II](https://jobright.ai/jobs/info/697d9026ce48107c0541da93?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
