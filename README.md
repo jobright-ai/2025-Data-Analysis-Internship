@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Strategic Intelligence Intern](https://jobright.ai/jobs/info/697e33d2abff4c399a9d05a1?utm_campaign=1066&utm_source=git)** | Topeka, KS | Hybrid | Jan 31 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Data Science (Multiple Positions)](https://jobright.ai/jobs/info/697e2d257f40342e15d6fdde?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 31 |
 | ↳ | **[Internship - Real-World Evidence Data Science & Programming](https://jobright.ai/jobs/info/697e2c687f40342e15d6fd9b?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 31 |
 | ↳ | **[Internship - Real-World Data Strategy](https://jobright.ai/jobs/info/697e2c15ce48107c05426355?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/696012dca1bbea1d9a7ade28?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Jan 29 |
 | **[Henkel](http://www.henkel.com)** | **[Information Technology & Data Analytics Intern – Summer 2026](https://jobright.ai/jobs/info/6960b6a5a112b402660f5b5f?utm_campaign=1066&utm_source=git)** | Stamford, CT | On Site | Jan 29 |
 | **[SciTec](https://scitec.com)** | **[DoD Skillbridge Internship for Transitioning Military Service Members](https://jobright.ai/jobs/info/69601fd1a112b402660ed6f6?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jan 29 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Biology Molecular Lab Applications (DSRIC)](https://jobright.ai/jobs/info/697d96d97f40342e15d67813?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | Remote | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
