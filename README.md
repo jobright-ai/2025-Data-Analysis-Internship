@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Guilford County](https://www.guilfordcountync.gov/)** | **[Integrated Data and Services Intern](https://jobright.ai/jobs/info/697f9b867f40342e15d841f8?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Feb 01 |
+| **[Radiant Digital](https://www.radiant.digital/)** | **[Research Intern](https://jobright.ai/jobs/info/697f91fe7f40342e15d84133?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Feb 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Dashboard Development](https://jobright.ai/jobs/info/697f7b127f40342e15d8262c?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
 | **[Oatey Company](https://www.oatey.com//)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cb8fc4ba798c1a501d1c99?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Feb 01 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/697b29831136d179eeee8db4?utm_campaign=1066&utm_source=git)** | Austin, CO | On Site | Feb 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Data Scientist Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697ca6d2137a05102565938a?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 30 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/69352fc5f131d96e4846d334?utm_campaign=1066&utm_source=git)** | Wilmington, NC | On Site | Jan 30 |
 | **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6944b74f94730b739877fb24?utm_campaign=1066&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 30 |
-| **[Farmers Insurance DDHQ](https://recruitment.farmers.com/district-manager-locator/co/greenwood-village/jared-seyl)** | **[Data Scientist Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI/ Warwick, RI](https://jobright.ai/jobs/info/697c9bad3f57a33569664d75?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 30 |
-| **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6944b45d50bbaf765056cc12?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
