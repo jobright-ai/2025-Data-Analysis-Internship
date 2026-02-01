@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Healthcare Economics Intern](https://jobright.ai/jobs/info/697eb0dfce48107c0542d2b7?utm_campaign=1066&utm_source=git)** | Meridian, ID | Hybrid | Jan 31 |
+| **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Healthcare Economics Intern](https://jobright.ai/jobs/info/697eb8277f40342e15d77032?utm_campaign=1066&utm_source=git)** | Idaho - Meridian - Home Office | Hybrid | Jan 31 |
+| ↳ | **[Healthcare Economics Intern](https://jobright.ai/jobs/info/697eb0dfce48107c0542d2b7?utm_campaign=1066&utm_source=git)** | Meridian, ID | Hybrid | Jan 31 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Jan 31 |
 | **[Pro Integrate](https://www.prointegrate.in)** | **[Data Annotator (Fresher/ Entry Level/High School /interns/Trainees/build career in AI)](https://jobright.ai/jobs/info/697e5d9cce48107c05428c00?utm_campaign=1066&utm_source=git)** | San Antonio, TX | On Site | Jan 31 |
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[IT Data & Analytics Intern](https://jobright.ai/jobs/info/697e5c517f40342e15d725bf?utm_campaign=1066&utm_source=git)** | Fayetteville, NC | On Site | Jan 31 |
-| **[Together AI](https://www.together.ai)** | **[Research Intern, Inference (Summer 2026)](https://jobright.ai/jobs/info/697e5ab0ce48107c054289c5?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jan 31 |
 | **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Strategic Intelligence Intern](https://jobright.ai/jobs/info/697e33d2abff4c399a9d05a1?utm_campaign=1066&utm_source=git)** | Topeka, KS | Hybrid | Jan 31 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Data Science (Multiple Positions)](https://jobright.ai/jobs/info/697e2d257f40342e15d6fdde?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 31 |
 | ↳ | **[Internship - Real-World Evidence Data Science & Programming](https://jobright.ai/jobs/info/697e2c687f40342e15d6fd9b?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 31 |
