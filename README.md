@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Proctor Loan Protector](https://proctorlp.com)** | **[Data Reporting Admin Intern](https://jobright.ai/jobs/info/697825d8fdeb8243a27b1a8e?utm_campaign=1066&utm_source=git)** | Troy, MI | On Site | Feb 01 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Feb 01 |
+| **[American Electric Power](http://aep.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/695d21f0f5f3c43f38e1e8d2?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Feb 01 |
 | **[BASF](https://www.basf.com/)** | **[2026 Summer Internship - Data Science/Computer Engineering - Geismar, LA](https://jobright.ai/jobs/info/69407b1449a7695fbd05fb48?utm_campaign=1066&utm_source=git)** | Geismar, LA | On Site | Jan 31 |
 | **[Utah Transit Authority](http://www.rideuta.com/)** | **[Data Reporting and Analytics Intern](https://jobright.ai/jobs/info/697efc0aabff4c399a9da6a2?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Jan 31 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Healthcare Economics Intern](https://jobright.ai/jobs/info/697eb8277f40342e15d77032?utm_campaign=1066&utm_source=git)** | Idaho - Meridian - Home Office | Hybrid | Jan 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern - Optimization (Summer 2026)](https://jobright.ai/jobs/info/695ddd54924bd9135dd46c6a?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Jan 30 |
 | **[KLA](https://www.kla.com)** | **[Supply Chain Data Science Intern](https://jobright.ai/jobs/info/69693f0b639b452fb57f09a1?utm_campaign=1066&utm_source=git)** | Ann Arbor, MI | On Site | Jan 30 |
 | **[Celestica](https://www.celestica.com/)** | **[Student Intern, Commodity Management Associate](https://jobright.ai/jobs/info/691dc2ff748c4e1301ec8622?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 30 |
-| **[Lam Research](http://www.lamresearch.com)** | **[Predictive Data Analytics Intern - Summer 2026 - Winter 2026](https://jobright.ai/jobs/info/696029a87ebc25398eb61be4?utm_campaign=1066&utm_source=git)** | Tualatin, OR | Hybrid | Jan 30 |
-| **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Spring 2026](https://jobright.ai/jobs/info/68d446b917554c2d9eef786e?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Jan 30 |
-| **[Farmers Insurance DDHQ](https://recruitment.farmers.com/district-manager-locator/co/greenwood-village/jared-seyl)** | **[Decision Science Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI/ Warwick, RI](https://jobright.ai/jobs/info/697cb234137a05102565af66?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
