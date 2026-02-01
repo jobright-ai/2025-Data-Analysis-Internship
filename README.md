@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[Internship - Dashboard Development](https://jobright.ai/jobs/info/697f7b127f40342e15d8262c?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
 | **[Oatey Company](https://www.oatey.com//)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cb8fc4ba798c1a501d1c99?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Feb 01 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/697b29831136d179eeee8db4?utm_campaign=1066&utm_source=git)** | Austin, CO | On Site | Feb 01 |
 | **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Global Medical Affairs, Real World Evidence](https://jobright.ai/jobs/info/697f3c397f40342e15d7f8d6?utm_campaign=1066&utm_source=git)** | San Rafael, CA | On Site | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6944b74f94730b739877fb24?utm_campaign=1066&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 30 |
 | **[Farmers Insurance DDHQ](https://recruitment.farmers.com/district-manager-locator/co/greenwood-village/jared-seyl)** | **[Data Scientist Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI/ Warwick, RI](https://jobright.ai/jobs/info/697c9bad3f57a33569664d75?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 30 |
 | **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6944b45d50bbaf765056cc12?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Jan 30 |
-| **[Oracle](https://www.oracle.com/)** | **[Advanced Degree Data Scientist - Full-time Intern Conversion](https://jobright.ai/jobs/info/696d36da5fc86241853c2664?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
