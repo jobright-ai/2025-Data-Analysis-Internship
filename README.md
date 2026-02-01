@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[FBD Partnership, LP](http://fbdfrozen.com)** | **[Supply Chain Data Analytics Intern - Summer 2026 (TXWORKS)](https://jobright.ai/jobs/info/697faed57f40342e15d84b5a?utm_campaign=1066&utm_source=git)** | FBD Partnership LP  SA - San Antonio, TX 78218 | On Site | Feb 01 |
-| **[MINDSCAPE](https://www.wearemindscape.com/)** | **[Paid Media Data Analyst Intern (Part-Time, Hybrid)](https://jobright.ai/jobs/info/697fae60abff4c399a9e3ce2?utm_campaign=1066&utm_source=git)** | Grand Rapids, MI | Hybrid | Feb 01 |
 | **[Guilford County](https://www.guilfordcountync.gov/)** | **[Integrated Data and Services Intern](https://jobright.ai/jobs/info/697f9b867f40342e15d841f8?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Feb 01 |
 | **[Radiant Digital](https://www.radiant.digital/)** | **[Research Intern](https://jobright.ai/jobs/info/697f91fe7f40342e15d84133?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Feb 01 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Dashboard Development](https://jobright.ai/jobs/info/697f7b127f40342e15d8262c?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Feb 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Data Scientist - PhD Intern](https://jobright.ai/jobs/info/68eed394e0db92422580bc9d?utm_campaign=1066&utm_source=git)** | San Mateo, CA | Hybrid | Jan 30 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Data Scientist Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697ca6d2137a05102565938a?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 30 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/69352fc5f131d96e4846d334?utm_campaign=1066&utm_source=git)** | Wilmington, NC | On Site | Jan 30 |
+| **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6944b74f94730b739877fb24?utm_campaign=1066&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
