@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GSD&M](http://www.gsdm.com)** | **[Media Analytics Intern](https://jobright.ai/jobs/info/696eb654350cf4380315909f?utm_campaign=1066&utm_source=git)** | Austin | Hybrid | Feb 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Content Research Insights & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6980729f7f40342e15d94a7c?utm_campaign=1066&utm_source=git)** | Burbank, CA, USA | On Site | Feb 02 |
 | **[RWE](https://www.rwe.com)** | **[Intern, Business Analytics, Summer 2026](https://jobright.ai/jobs/info/6969a4741703f05405aba337?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC Research, Insights & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69806863abff4c399a9f311b?utm_campaign=1066&utm_source=git)** | Burbank, CA, USA | On Site | Feb 02 |
@@ -103,7 +104,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026-2027 Yearlong Project and Data Analytics Intern-Fare Systems](https://jobright.ai/jobs/info/697dc6f8abff4c399a9c9ac8?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
 | ↳ | **[2026-2027 Yearlong Ridership Data Analytics Intern II](https://jobright.ai/jobs/info/697dc658abff4c399a9c98cc?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
 | ↳ | **[2026-2027 Yearlong Ridership Data Analytics Intern I](https://jobright.ai/jobs/info/697dc2de7f40342e15d6a3e0?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 31 |
-| **[GSD&M](http://www.gsdm.com)** | **[Media Analytics Intern](https://jobright.ai/jobs/info/696eb654350cf4380315909f?utm_campaign=1066&utm_source=git)** | Austin | Hybrid | Jan 31 |
 | **[Delta Dental of Missouri](http://www.deltadentalmo.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/697daa637f40342e15d69129?utm_campaign=1066&utm_source=git)** | St Louis, MO | On Site | Jan 30 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Project and Data Analytics Intern-Fare Systems](https://jobright.ai/jobs/info/697d8e807f40342e15d67127?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
 | ↳ | **[2026-2027 Yearlong Ridership  Data Analytics Intern II](https://jobright.ai/jobs/info/697d9026ce48107c0541da93?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
