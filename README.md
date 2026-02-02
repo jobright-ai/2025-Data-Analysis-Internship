@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Societe Generale](https://www.societegenerale.com)** | **[V.I.E. Risk Developer & Data Analyst](https://jobright.ai/jobs/info/6980bf1449964d25b5e38124?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 02 |
+| **[Servier Pharmaceuticals](https://www.servier.us/)** | **[Global Biometrics Intern](https://jobright.ai/jobs/info/6980ba9749964d25b5e37fd5?utm_campaign=1066&utm_source=git)** | Boston, KY | On Site | Feb 02 |
+| **[Simplot Company](http://www.simplot.com/)** | **[Data Science Intern (Long Term)](https://jobright.ai/jobs/info/6980b9da49964d25b5e37f66?utm_campaign=1066&utm_source=git)** | Simplot Headquarters - Boise | On Site | Feb 02 |
+| ↳ | **[Data Science Intern (Long Term)](https://jobright.ai/jobs/info/6980b08849964d25b5e37b16?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Feb 02 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/697b0a8317b11b1c2e420336?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Data Scientist for R&D Quality Intern](https://jobright.ai/jobs/info/690ec384d046ab6061d01022?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Feb 02 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - CMG DDA - Data Science](https://jobright.ai/jobs/info/69809f5549964d25b5e36c6f?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Feb 02 |
@@ -88,9 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Fayetteville Public Works Commission](https://www.faypwc.com/)** | **[IT Data & Analytics Intern](https://jobright.ai/jobs/info/697e5c517f40342e15d725bf?utm_campaign=1066&utm_source=git)** | Fayetteville, NC | On Site | Jan 31 |
 | **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Strategic Intelligence Intern](https://jobright.ai/jobs/info/697e33d2abff4c399a9d05a1?utm_campaign=1066&utm_source=git)** | Topeka, KS | Hybrid | Jan 31 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Data Science (Multiple Positions)](https://jobright.ai/jobs/info/697e2d257f40342e15d6fdde?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 31 |
-| ↳ | **[Internship - Real-World Evidence Data Science & Programming](https://jobright.ai/jobs/info/697e2c687f40342e15d6fd9b?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 31 |
 | ↳ | **[Internship - Real-World Data Strategy](https://jobright.ai/jobs/info/697e2c15ce48107c05426355?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 31 |
-| ↳ | **[Internship - Data Science Integrated Insights](https://jobright.ai/jobs/info/697e2c13abff4c399a9ceadc?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 31 |
 | ↳ | **[Internship - Real-World Evidence Research](https://jobright.ai/jobs/info/697e2b7cabff4c399a9ceab0?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 31 |
 | **[Virtua Health](https://www.virtua.org/)** | **[IT Informatics Intern](https://jobright.ai/jobs/info/697e1f64ce48107c0542603e?utm_campaign=1066&utm_source=git)** | Marlton, NJ | On Site | Jan 31 |
 | **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/691642c8286ccf0a15133db2?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Jan 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[City of Seattle](http://www.seattle.gov/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69703b89333b6343a14ca4aa?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jan 30 |
 | **[TMX Group](http://www.tmx.com)** | **[Information Analyst Intern](https://jobright.ai/jobs/info/697cfa25137a05102565f42a?utm_campaign=1066&utm_source=git)** | Toronto - 100 Adelaide St W | Hybrid | Jan 30 |
 | **[Dexterra Group](https://dexterra.com/)** | **[iLab Coordinator, AI & Data Systems CO-OP](https://jobright.ai/jobs/info/697d14663f57a3356966c9d0?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 30 |
-| **[Sanofi](https://www.sanofi.com)** | **[Biomarker Statistics - Summer 2026 Intern](https://jobright.ai/jobs/info/697ceda23f57a335696699fe?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 30 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Business Intelligence (Part-Time/Seasonal)](https://jobright.ai/jobs/info/697ce4b4727747250d579027?utm_campaign=1066&utm_source=git)** | Washington, DC | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
