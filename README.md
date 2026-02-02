@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Societe Generale](https://www.societegenerale.com)** | **[V.I.E. Risk Developer & Data Analyst](https://jobright.ai/jobs/info/6980bf1449964d25b5e38124?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 02 |
-| **[Servier Pharmaceuticals](https://www.servier.us/)** | **[Global Biometrics Intern](https://jobright.ai/jobs/info/6980ba9749964d25b5e37fd5?utm_campaign=1066&utm_source=git)** | Boston, KY | On Site | Feb 02 |
 | **[Simplot Company](http://www.simplot.com/)** | **[Data Science Intern (Long Term)](https://jobright.ai/jobs/info/6980b9da49964d25b5e37f66?utm_campaign=1066&utm_source=git)** | Simplot Headquarters - Boise | On Site | Feb 02 |
 | ↳ | **[Data Science Intern (Long Term)](https://jobright.ai/jobs/info/6980b08849964d25b5e37b16?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Feb 02 |
+| **[Societe Generale](https://www.societegenerale.com)** | **[V.I.E. Risk Developer & Data Analyst](https://jobright.ai/jobs/info/6980bf1449964d25b5e38124?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 02 |
+| **[Servier Pharmaceuticals](https://www.servier.us/)** | **[Global Biometrics Intern](https://jobright.ai/jobs/info/6980ba9749964d25b5e37fd5?utm_campaign=1066&utm_source=git)** | Boston, KY | On Site | Feb 02 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/697b0a8317b11b1c2e420336?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
 | **[Takeda](http://www.takeda.com)** | **[2026 Summer Internship Program: Data Scientist for R&D Quality Intern](https://jobright.ai/jobs/info/690ec384d046ab6061d01022?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Feb 02 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - CMG DDA - Data Science](https://jobright.ai/jobs/info/69809f5549964d25b5e36c6f?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Feb 02 |
