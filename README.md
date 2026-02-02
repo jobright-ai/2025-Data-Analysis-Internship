@@ -106,7 +106,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026-2027 Yearlong Ridership  Data Analytics Intern II](https://jobright.ai/jobs/info/697d9026ce48107c0541da93?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
 | ↳ | **[2026-2027 Yearlong Ridership  Data Analytics Intern I](https://jobright.ai/jobs/info/697d8e8dce48107c0541d8ea?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
 | **[BambooHR](http://www.BambooHR.com)** | **[Business Intelligence Data Analyst Intern](https://jobright.ai/jobs/info/697da4ae7f40342e15d68d4c?utm_campaign=1066&utm_source=git)** | Draper, UT | Hybrid | Jan 30 |
-| **[SoFi](https://www.sofi.com)** | **[Intern, Data Scientist, Money](https://jobright.ai/jobs/info/697d12673f57a3356966c762?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Data Sales Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/697d7c0a137a05102566a327?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Jan 30 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Analytics Intern (Part-Time)](https://jobright.ai/jobs/info/697d739d137a051025669677?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 30 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Obesity Commercial Insights](https://jobright.ai/jobs/info/697d69fc727747250d584f3d?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
@@ -145,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Intel Corporation](http://www.intel.com)** | **[DARC Data and Reporting Student/Intern](https://jobright.ai/jobs/info/697d3040137a051025663b63?utm_campaign=1066&utm_source=git)** | US, Oregon, Hillsboro | Hybrid | Jan 30 |
 | **[HOPPR](https://www.hoppr.ai)** | **[Research Intern](https://jobright.ai/jobs/info/697cffcc727747250d57b8b0?utm_campaign=1066&utm_source=git)** | Remote USA | Remote | Jan 30 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69703b89333b6343a14ca4aa?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jan 30 |
+| **[SoFi](https://www.sofi.com)** | **[Intern, Data Scientist, Money Data Science](https://jobright.ai/jobs/info/697d12673f57a3356966c762?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
 | **[TMX Group](http://www.tmx.com)** | **[Information Analyst Intern](https://jobright.ai/jobs/info/697cfa25137a05102565f42a?utm_campaign=1066&utm_source=git)** | Toronto - 100 Adelaide St W | Hybrid | Jan 30 |
 | **[Dexterra Group](https://dexterra.com/)** | **[iLab Coordinator, AI & Data Systems CO-OP](https://jobright.ai/jobs/info/697d14663f57a3356966c9d0?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 30 |
 | **[Sanofi](https://www.sanofi.com)** | **[Biomarker Statistics - Summer 2026 Intern](https://jobright.ai/jobs/info/697ceda23f57a335696699fe?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Jan 30 |
