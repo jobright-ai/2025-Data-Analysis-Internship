@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conair LLC](http://www.conair.com/)** | **[2026 Consumer Insights Intern](https://jobright.ai/jobs/info/69645447a112b402661249b4?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Feb 01 |
+| ↳ | **[2026 Amazon Analytics Intern](https://jobright.ai/jobs/info/6963fe6425e1871507807f26?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Feb 01 |
 | **[FBD Partnership, LP](http://fbdfrozen.com)** | **[Supply Chain Data Analytics Intern - Summer 2026 (TXWORKS)](https://jobright.ai/jobs/info/697faed57f40342e15d84b5a?utm_campaign=1066&utm_source=git)** | FBD Partnership LP  SA - San Antonio, TX 78218 | On Site | Feb 01 |
 | **[Guilford County](https://www.guilfordcountync.gov/)** | **[Integrated Data and Services Intern](https://jobright.ai/jobs/info/697f9b867f40342e15d841f8?utm_campaign=1066&utm_source=git)** | Greensboro, NC | On Site | Feb 01 |
 | **[Radiant Digital](https://www.radiant.digital/)** | **[Research Intern](https://jobright.ai/jobs/info/697f91fe7f40342e15d84133?utm_campaign=1066&utm_source=git)** | Vienna, VA | On Site | Feb 01 |
@@ -104,6 +106,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026-2027 Yearlong Ridership  Data Analytics Intern II](https://jobright.ai/jobs/info/697d9026ce48107c0541da93?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
 | ↳ | **[2026-2027 Yearlong Ridership  Data Analytics Intern I](https://jobright.ai/jobs/info/697d8e8dce48107c0541d8ea?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
 | **[BambooHR](http://www.BambooHR.com)** | **[Business Intelligence Data Analyst Intern](https://jobright.ai/jobs/info/697da4ae7f40342e15d68d4c?utm_campaign=1066&utm_source=git)** | Draper, UT | Hybrid | Jan 30 |
+| **[SoFi](https://www.sofi.com)** | **[Intern, Data Scientist, Money](https://jobright.ai/jobs/info/697d12673f57a3356966c762?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[Data Sales Intern - 2026 Summer Internship](https://jobright.ai/jobs/info/697d7c0a137a05102566a327?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Jan 30 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Analytics Intern (Part-Time)](https://jobright.ai/jobs/info/697d739d137a051025669677?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | Hybrid | Jan 30 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Obesity Commercial Insights](https://jobright.ai/jobs/info/697d69fc727747250d584f3d?utm_campaign=1066&utm_source=git)** | Plainsboro, NJ | On Site | Jan 30 |
@@ -133,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[Summer Intern, Data Scientist - S&P Global](https://jobright.ai/jobs/info/697d3adb3f57a335696709e6?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Jan 30 |
 | **[Pattern®](https://pattern.com)** | **[RevOps Data Analyst](https://jobright.ai/jobs/info/697d181c137a051025660eba?utm_campaign=1066&utm_source=git)** | Lehi, UT | Hybrid | Jan 30 |
 | **[AARP](http://www.aarp.org)** | **[Consumer Insights Intern (Graduate Student)](https://jobright.ai/jobs/info/6937be7aaabec14a727cccb8?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Jan 30 |
-| **[SoFi](https://www.sofi.com)** | **[Intern, Data Scientist, Money Data Science](https://jobright.ai/jobs/info/697d12673f57a3356966c762?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Jan 30 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Data Analyst Intern, Capital Construction](https://jobright.ai/jobs/info/697d10f5727747250d57c739?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Jan 30 |
 | **[Delta Dental of Missouri](http://www.deltadentalmo.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/697d0e043f57a3356966c21f?utm_campaign=1066&utm_source=git)** | Saint Louis, Missouri, United States | On Site | Jan 30 |
 | **[General Dynamics](https://www.gd.com)** | **[Intern Administrative / Data Analytics](https://jobright.ai/jobs/info/697d0c40727747250d57c29b?utm_campaign=1066&utm_source=git)** | USA-MA-Dedham | Hybrid | Jan 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MassMutual Ascend](https://massmutualascend.com)** | **[Data Analytics Intern - Customer Experience (Summer 2026)](https://jobright.ai/jobs/info/69603b07a112b402660f0974?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 30 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Data Scientist - PhD Intern](https://jobright.ai/jobs/info/68eed394e0db92422580bc9d?utm_campaign=1066&utm_source=git)** | San Mateo, CA | Hybrid | Jan 30 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Data Scientist Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697ca6d2137a05102565938a?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 30 |
-| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/69352fc5f131d96e4846d334?utm_campaign=1066&utm_source=git)** | Wilmington, NC | On Site | Jan 30 |
-| **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6944b74f94730b739877fb24?utm_campaign=1066&utm_source=git)** | North Bethesda, MD | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
