@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RWE](https://www.rwe.com)** | **[Intern, Business Analytics, Summer 2026](https://jobright.ai/jobs/info/6969a4741703f05405aba337?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 02 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC Research, Insights & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69806863abff4c399a9f311b?utm_campaign=1066&utm_source=git)** | Burbank, CA, USA | On Site | Feb 02 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Consumer Insights Intern](https://jobright.ai/jobs/info/69645447a112b402661249b4?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Feb 01 |
 | ↳ | **[2026 Amazon Analytics Intern](https://jobright.ai/jobs/info/6963fe6425e1871507807f26?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Feb 01 |
 | **[FBD Partnership, LP](http://fbdfrozen.com)** | **[Supply Chain Data Analytics Intern - Summer 2026 (TXWORKS)](https://jobright.ai/jobs/info/697faed57f40342e15d84b5a?utm_campaign=1066&utm_source=git)** | FBD Partnership LP  SA - San Antonio, TX 78218 | On Site | Feb 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927c6c7d47de4798ece064c?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jan 30 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Data Science - R10679](https://jobright.ai/jobs/info/6960d888a112b402660f762e?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 30 |
 | **[MassMutual Ascend](https://massmutualascend.com)** | **[Data Analytics Intern - Customer Experience (Summer 2026)](https://jobright.ai/jobs/info/69603b07a112b402660f0974?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 30 |
-| **[Roblox](https://corp.roblox.com)** | **[[Summer 2026] Data Scientist - PhD Intern](https://jobright.ai/jobs/info/68eed394e0db92422580bc9d?utm_campaign=1066&utm_source=git)** | San Mateo, CA | Hybrid | Jan 30 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Data Scientist Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697ca6d2137a05102565938a?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
