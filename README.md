@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[IBP Data Management Intern - The Toro Company](https://jobright.ai/jobs/info/68f387d39a65fd34585874c3?utm_campaign=1066&utm_source=git)** | Hennepin County, MN | On Site | Feb 02 |
+| **[Arrowhead Pharmaceuticals](http://arrowheadpharma.com/)** | **[Summer Intern, Statistical Genetics & Human Biobanks](https://jobright.ai/jobs/info/6964ad2aa112b40266128361?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Feb 02 |
 | **[GSD&M](http://www.gsdm.com)** | **[Media Analytics Intern](https://jobright.ai/jobs/info/696eb654350cf4380315909f?utm_campaign=1066&utm_source=git)** | Austin | Hybrid | Feb 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Content Research Insights & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6980729f7f40342e15d94a7c?utm_campaign=1066&utm_source=git)** | Burbank, CA, USA | On Site | Feb 02 |
 | **[RWE](https://www.rwe.com)** | **[Intern, Business Analytics, Summer 2026](https://jobright.ai/jobs/info/6969a4741703f05405aba337?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sanofi](https://www.sanofi.com)** | **[Biomarker Statistics - Summer 2026 Intern](https://jobright.ai/jobs/info/697cdf30727747250d578ce7?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Jan 30 |
 | **[Acadian Asset Management](https://www.acadian-inc.com/)** | **[Quant Developer Intern - Summer 2026](https://jobright.ai/jobs/info/68f16077f462172a5a7d74a3?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Jan 30 |
 | **[Pattern Bioscience](https://pattern.bio)** | **[RevOps Data Analyst](https://jobright.ai/jobs/info/697ccf81137a05102565c3fb?utm_campaign=1066&utm_source=git)** | Lehi, UT, US | Hybrid | Jan 30 |
-| **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927c6c7d47de4798ece064c?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jan 30 |
-| **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Data Science - R10679](https://jobright.ai/jobs/info/6960d888a112b402660f762e?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
