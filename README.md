@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Breeze Airways™](https://www.flybreeze.com/)** | **[Data Analyst Intern - Revenue Optimization - Summer 2026](https://jobright.ai/jobs/info/6980d7cb7f40342e15d99e5f?utm_campaign=1066&utm_source=git)** | Cottonwood Heights, Utah, United States | On Site | Feb 02 |
 | **[Simplot Company](http://www.simplot.com/)** | **[Data Science Intern (Long Term)](https://jobright.ai/jobs/info/6980b9da49964d25b5e37f66?utm_campaign=1066&utm_source=git)** | Simplot Headquarters - Boise | On Site | Feb 02 |
 | ↳ | **[Data Science Intern (Long Term)](https://jobright.ai/jobs/info/6980b08849964d25b5e37b16?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Feb 02 |
+| **[Sarepta Therapeutics](https://www.sarepta.com)** | **[Data Science & Biometrics Intern](https://jobright.ai/jobs/info/6980dc637f40342e15d9a38d?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Feb 02 |
+| ↳ | **[Data Science & Biometrics Intern](https://jobright.ai/jobs/info/6980dc6349964d25b5e395fe?utm_campaign=1066&utm_source=git)** | United States | Hybrid | Feb 02 |
 | **[Societe Generale](https://www.societegenerale.com)** | **[V.I.E. Risk Developer & Data Analyst](https://jobright.ai/jobs/info/6980bf1449964d25b5e38124?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 02 |
 | **[Servier Pharmaceuticals](https://www.servier.us/)** | **[Global Biometrics Intern](https://jobright.ai/jobs/info/6980ba9749964d25b5e37fd5?utm_campaign=1066&utm_source=git)** | Boston, KY | On Site | Feb 02 |
 | **[Optiver](http://www.optiver.com)** | **[Quantitative Research Intern, PhD (Summer 2026)](https://jobright.ai/jobs/info/697b0a8317b11b1c2e420336?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 02 |
@@ -125,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Exiger](http://www.exiger.com)** | **[Trade Intelligence Analyst Intern – Government Analytics (Summer 2026)](https://jobright.ai/jobs/info/6961b537a112b402661045c6?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Jan 30 |
 | **[At Your School (AYS, Inc.)](https://linktr.ee/atyourschool)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/697d5e54137a051025667eb2?utm_campaign=1066&utm_source=git)** | Indianapolis,IN,US | On Site | Jan 30 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Summer 2026-2027  Data Visualization  Intern](https://jobright.ai/jobs/info/697d59cc727747250d583c0b?utm_campaign=1066&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jan 30 |
-| **[Cvent](https://ey.cvent.com/events/ey-foundry/event-summary-1da29c256933470b9b6e1baaf996fba2.aspx)** | **[Intern, Data Science](https://jobright.ai/jobs/info/697d5534137a0510256675d1?utm_campaign=1066&utm_source=git)** | Fredericton, New Brunswick, Canada | Hybrid | Jan 30 |
 | **[Veradigm®](https://veradigm.com)** | **[Medical Informatics Intern](https://jobright.ai/jobs/info/697d4929137a05102566568c?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 30 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Data Analytics Intern (Part-Time)](https://jobright.ai/jobs/info/697d4731137a051025665564?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Jan 30 |
 | **[Igloo Products Corp.](http://www.igloocoolers.com)** | **[Computer Information Systems (CIS) Intern](https://jobright.ai/jobs/info/697d444a727747250d5815b0?utm_campaign=1066&utm_source=git)** | Katy, TX | Hybrid | Jan 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Intel Corporation](http://www.intel.com)** | **[DARC Data and Reporting Student/Intern](https://jobright.ai/jobs/info/697d3040137a051025663b63?utm_campaign=1066&utm_source=git)** | US, Oregon, Hillsboro | Hybrid | Jan 30 |
 | **[HOPPR](https://www.hoppr.ai)** | **[Research Intern](https://jobright.ai/jobs/info/697cffcc727747250d57b8b0?utm_campaign=1066&utm_source=git)** | Remote USA | Remote | Jan 30 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69703b89333b6343a14ca4aa?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Jan 30 |
-| **[TMX Group](http://www.tmx.com)** | **[Information Analyst Intern](https://jobright.ai/jobs/info/697cfa25137a05102565f42a?utm_campaign=1066&utm_source=git)** | Toronto - 100 Adelaide St W | Hybrid | Jan 30 |
-| **[Dexterra Group](https://dexterra.com/)** | **[iLab Coordinator, AI & Data Systems CO-OP](https://jobright.ai/jobs/info/697d14663f57a3356966c9d0?utm_campaign=1066&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
