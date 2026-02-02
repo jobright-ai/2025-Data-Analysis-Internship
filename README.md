@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Content Research Insights & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6980729f7f40342e15d94a7c?utm_campaign=1066&utm_source=git)** | Burbank, CA, USA | On Site | Feb 02 |
 | **[RWE](https://www.rwe.com)** | **[Intern, Business Analytics, Summer 2026](https://jobright.ai/jobs/info/6969a4741703f05405aba337?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC Research, Insights & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69806863abff4c399a9f311b?utm_campaign=1066&utm_source=git)** | Burbank, CA, USA | On Site | Feb 02 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Consumer Insights Intern](https://jobright.ai/jobs/info/69645447a112b402661249b4?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Feb 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pattern Bioscience](https://pattern.bio)** | **[RevOps Data Analyst](https://jobright.ai/jobs/info/697ccf81137a05102565c3fb?utm_campaign=1066&utm_source=git)** | Lehi, UT, US | Hybrid | Jan 30 |
 | **[Geosyntec Consultants](https://www.geosyntec.com)** | **[Geographic Information Systems (GIS) Intern](https://jobright.ai/jobs/info/6927c6c7d47de4798ece064c?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Jan 30 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Data Science - R10679](https://jobright.ai/jobs/info/6960d888a112b402660f762e?utm_campaign=1066&utm_source=git)** | United States | Remote | Jan 30 |
-| **[MassMutual Ascend](https://massmutualascend.com)** | **[Data Analytics Intern - Customer Experience (Summer 2026)](https://jobright.ai/jobs/info/69603b07a112b402660f0974?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
