@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Business Intelligence Intern - Information Systems Department](https://jobright.ai/jobs/info/69825155348f733a5c351eed?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Feb 03 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Intern, Neuroscience & Digital Health](https://jobright.ai/jobs/info/69824fd00a9e07331f8d4c79?utm_campaign=1066&utm_source=git)** | Titusville, New Jersey, United States of America | Remote | Feb 03 |
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Business Intelligence Intern - Information Systems Department](https://jobright.ai/jobs/info/69824ca8348f733a5c3518fd?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Feb 03 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Intern, Neuroscience & Digital Health](https://jobright.ai/jobs/info/69824c35348f733a5c35186c?utm_campaign=1066&utm_source=git)** | Titusville, NJ | Remote | Feb 03 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Graduate Intern - Antibody Repertoire Bioinformatics](https://jobright.ai/jobs/info/69824b73a314e7636905ae0c?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Feb 03 |
@@ -112,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Guidewire Software](http://www.guidewire.com)** | **[Data & Research Intern](https://jobright.ai/jobs/info/6981e645c3101f1400c38ffe?utm_campaign=1066&utm_source=git)** | San Mateo, CA | On Site | Feb 03 |
 | **[Troon](http://www.troon.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6965d0ca2cbf4e44756f8f81?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Feb 03 |
 | **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[NSIP Undergraduate Intern – Artificial Intelligence & Data Analytics](https://jobright.ai/jobs/info/6965bf4e5ad3a93f82312017?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 03 |
-| ↳ | **[NSIP PhD Intern - Artificial Intelligence & Data Analytics](https://jobright.ai/jobs/info/6965c9232cbf4e44756f71f8?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 03 |
 | ↳ | **[NSIP PhD Intern - Artificial Intelligence & Data Analytics](https://jobright.ai/jobs/info/6965c20f2cbf4e44756f6cf6?utm_campaign=1066&utm_source=git)** | Richland, WA | On Site | Feb 03 |
+| ↳ | **[NSIP PhD Intern - Artificial Intelligence & Data Analytics](https://jobright.ai/jobs/info/6965c9232cbf4e44756f71f8?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 03 |
 | ↳ | **[NSIP Masters Intern - Artificial Intelligence & Data Analytics](https://jobright.ai/jobs/info/6965c92aa112b4026613d1cc?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 03 |
 | **[ASML](https://www.asml.com)** | **[Internship - Data Science and Analytics](https://jobright.ai/jobs/info/694a3c2c31c12007d3b8ff4d?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Feb 03 |
 | **[New York Power Authority](http://www.nypa.gov)** | **[Data Analytics, Developmental Intern](https://jobright.ai/jobs/info/694a420f31c12007d3b9042a?utm_campaign=1066&utm_source=git)** | White Plains, NY | On Site | Feb 03 |
@@ -124,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Granite Construction](https://www.graniteconstruction.com)** | **[Predictive Analytics Intern](https://jobright.ai/jobs/info/694a0924c6f0e2546ceef8b5?utm_campaign=1066&utm_source=git)** | Watsonville, CA | On Site | Feb 03 |
 | **[Guidewire Software](http://www.guidewire.com)** | **[Business Intelligence Analytics Intern](https://jobright.ai/jobs/info/6981dc82a314e76369053da2?utm_campaign=1066&utm_source=git)** | San Mateo, CA | On Site | Feb 03 |
 | **[HDR](http://www.hdrinc.com)** | **[GIS Intern](https://jobright.ai/jobs/info/6965a59a2cbf4e44756f50e5?utm_campaign=1066&utm_source=git)** | Missoula, MT | On Site | Feb 03 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6981e62bc3101f1400c38ff2?utm_campaign=1066&utm_source=git)** | Morrisville, North Carolina, USA | On Site | Feb 03 |
-| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6981e9d9a314e76369054546?utm_campaign=1066&utm_source=git)** | Waltham, Massachusetts, USA | On Site | Feb 03 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6981e9d9a314e76369054546?utm_campaign=1066&utm_source=git)** | Waltham, Massachusetts, USA | On Site | Feb 03 |
+| ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6981e62bc3101f1400c38ff2?utm_campaign=1066&utm_source=git)** | Morrisville, North Carolina, USA | On Site | Feb 03 |
 | **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/696499f22cbf4e44756e1216?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Feb 03 |
 | **[Crane Payment Innovations](http://www.cranepi.com)** | **[Research & Detect Intern](https://jobright.ai/jobs/info/6981d1a0a314e763690537b8?utm_campaign=1066&utm_source=git)** | Malvern, PA | On Site | Feb 03 |
 | **[FanDuel](http://www.fanduel.com)** | **[Procurement, Contracting, & Data Management Intern - Summer 2026](https://jobright.ai/jobs/info/69819d2a49964d25b5e4b1a0?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brookfield Renewable U.S.](https://brookfieldrenewableus.com)** | **[Intern, GIS Analyst](https://jobright.ai/jobs/info/69655d936d52670c5c3e23fc?utm_campaign=1066&utm_source=git)** | Charlottesville, VA | On Site | Feb 02 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Business Intelligence (BI) Intern](https://jobright.ai/jobs/info/6981620349964d25b5e456d9?utm_campaign=1066&utm_source=git)** | Québec, Quebec, Canada | Hybrid | Feb 02 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Data Science Intern - Hematology](https://jobright.ai/jobs/info/698144f57f40342e15da366b?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Feb 02 |
-| **[Green Bay Packers](http://www.packers.com/)** | **[Business Analytics Intern](https://jobright.ai/jobs/info/698177dd7f40342e15da824a?utm_campaign=1066&utm_source=git)** | 1265 Lombardi Ave, Green Bay, WI 54304, USA | On Site | Feb 02 |
-| **[Bold Orange](https://boldorange.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/698142e87f40342e15da3441?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
