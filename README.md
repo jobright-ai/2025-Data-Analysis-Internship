@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/696499f22cbf4e44756e1216?utm_campaign=1066&utm_source=git)** | San Jose, CA | Hybrid | Feb 03 |
 | **[FanDuel](http://www.fanduel.com)** | **[Procurement, Contracting, & Data Management Intern - Summer 2026](https://jobright.ai/jobs/info/69819d2a49964d25b5e4b1a0?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 02 |
 | **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/69649aa32cbf4e44756e1244?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Feb 02 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern](https://jobright.ai/jobs/info/69653b45a112b40266131489?utm_campaign=1066&utm_source=git)** | Houston, TX | Hybrid | Feb 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aviva Canada](https://www.avivacanada.com/)** | **[Data Internship](https://jobright.ai/jobs/info/6980ee09abff4c399a9fba17?utm_campaign=1066&utm_source=git)** | Markham, Ontario, Canada | On Site | Feb 02 |
 | **[Real Radiology, LLC](https://realrads.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6980eb3babff4c399a9fb768?utm_campaign=1066&utm_source=git)** | Omaha, NE | On Site | Feb 02 |
 | **[Simplot Company](http://www.simplot.com/)** | **[Data Science Intern (Long Term)](https://jobright.ai/jobs/info/6980b9da49964d25b5e37f66?utm_campaign=1066&utm_source=git)** | Simplot Headquarters - Boise | On Site | Feb 02 |
-| ↳ | **[Data Science Intern (Long Term)](https://jobright.ai/jobs/info/6980b08849964d25b5e37b16?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
