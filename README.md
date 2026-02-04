@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lakeview Loan Servicing, LLC.](https://lakeview.com)** | **[IT DATA ANALYTICS INTERN](https://jobright.ai/jobs/info/6982ac440f6f7e7a2cdbfe3d?utm_campaign=1066&utm_source=git)** | Agoura Hills, CA | Hybrid | Feb 03 |
+| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Clinical Insights and Automation (Early Clinical Development)](https://jobright.ai/jobs/info/6982ab2b348f733a5c35a414?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Feb 03 |
+| **[Battelle](http://www.battelle.org)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6982aa71348f733a5c35a34e?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Feb 03 |
+| **[Marex](http://marexspectron.com)** | **[Leese Trading Group Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982a99e0f6f7e7a2cdbfb75?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 03 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Data &amp;#038; Analytics Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6982a8d7348f733a5c35a19b?utm_campaign=1066&utm_source=git)** | Pleasanton, CA | Hybrid | Feb 03 |
+| **[Genentech](http://gene.com)** | **[2026 Summer Intern (Computational Sciences - Cluster of Excellence)](https://jobright.ai/jobs/info/6982a878348f733a5c35a12c?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Feb 03 |
+| **[Marex](http://marexspectron.com)** | **[Leese Trading Group Intern - 2026 US Intern Program](https://jobright.ai/jobs/info/6982a819348f733a5c35a0c7?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 03 |
+| **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Reporting and Analytics Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6982a7a1348f733a5c35a032?utm_campaign=1066&utm_source=git)** | Pasadena, CA | Hybrid | Feb 03 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Informatics Intern - Fall 2026](https://jobright.ai/jobs/info/696703516f782b4e8d52af87?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Feb 03 |
 | **[ALO](https://www.aloyoga.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69829c06348f733a5c359522?utm_campaign=1066&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 03 |
 | **[Lamb Weston LATAM](https://www.lambweston.com)** | **[Agriculture Intern, Data Analytics](https://jobright.ai/jobs/info/69828bbb0f6f7e7a2cdbccd3?utm_campaign=1066&utm_source=git)** | Kennewick, WA | On Site | Feb 03 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zoox](https://www.zoox.com/)** | **[Data Governance Intern](https://jobright.ai/jobs/info/694a3fe03019f50a4fe568ed?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Feb 03 |
 | **[Guidewire Software](http://www.guidewire.com)** | **[Data & Research Intern](https://jobright.ai/jobs/info/6981e645c3101f1400c38ffe?utm_campaign=1066&utm_source=git)** | San Mateo, CA | On Site | Feb 03 |
 | **[Troon](http://www.troon.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6965d0ca2cbf4e44756f8f81?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Feb 03 |
-| **[Pacific Northwest National Laboratory](http://www.pnnl.gov/)** | **[NSIP Undergraduate Intern – Artificial Intelligence & Data Analytics](https://jobright.ai/jobs/info/6965bf4e5ad3a93f82312017?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 03 |
-| ↳ | **[NSIP PhD Intern - Artificial Intelligence & Data Analytics](https://jobright.ai/jobs/info/6965c20f2cbf4e44756f6cf6?utm_campaign=1066&utm_source=git)** | Richland, WA | On Site | Feb 03 |
-| ↳ | **[NSIP PhD Intern - Artificial Intelligence & Data Analytics](https://jobright.ai/jobs/info/6965c9232cbf4e44756f71f8?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 03 |
-| ↳ | **[NSIP Masters Intern - Artificial Intelligence & Data Analytics](https://jobright.ai/jobs/info/6965c92aa112b4026613d1cc?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 03 |
-| **[ASML](https://www.asml.com)** | **[Internship - Data Science and Analytics](https://jobright.ai/jobs/info/694a3c2c31c12007d3b8ff4d?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Feb 03 |
-| **[New York Power Authority](http://www.nypa.gov)** | **[Data Analytics, Developmental Intern](https://jobright.ai/jobs/info/694a420f31c12007d3b9042a?utm_campaign=1066&utm_source=git)** | White Plains, NY | On Site | Feb 03 |
-| **[7-Eleven](http://www.7-eleven.com)** | **[C-Shopper Analyst Intern](https://jobright.ai/jobs/info/6981e4130f6f7e7a2cdb065e?utm_campaign=1066&utm_source=git)** | SSC Irving TX | On Site | Feb 03 |
-| **[Hoffmaster](http://hoffmastergroupinc.com)** | **[IT Intern - Business Intelligence](https://jobright.ai/jobs/info/694a03cfc6f0e2546ceee9b5?utm_campaign=1066&utm_source=git)** | Oshkosh, WI | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
