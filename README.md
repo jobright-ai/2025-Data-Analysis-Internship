@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Data Scientist (Summer 2026)](https://jobright.ai/jobs/info/6970f7b9587dfa0bb55e7c2c?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 04 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Data Scientist Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/697ca6d2137a05102565938a?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 04 |
+| **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Bioinformatics/Computational Biology Intern](https://jobright.ai/jobs/info/694b0cec3019f50a4fe61447?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Feb 04 |
+| ↳ | **[Biostatistics Intern](https://jobright.ai/jobs/info/694b1ab44b53a1551f94d936?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Feb 04 |
 | **[Farmers Insurance DDHQ](https://recruitment.farmers.com/district-manager-locator/co/greenwood-village/jared-seyl)** | **[Data Science Intern- Hybrid to Caledonia, MI](https://jobright.ai/jobs/info/6983353701214b4cdacae1f0?utm_campaign=1066&utm_source=git)** | Caledonia, MI | Hybrid | Feb 04 |
 | **[Motion](https://www.motion.com)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/697d7b74727747250d5864ea?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Feb 04 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/691abc11bcdbf3560c9da35b?utm_campaign=1066&utm_source=git)** | Garland, TX | On Site | Feb 04 |
@@ -101,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[ALO](https://www.aloyoga.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69829c06348f733a5c359522?utm_campaign=1066&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 03 |
 | **[Trove Brands](https://trovebrands.com)** | **[Forecasting Analyst Intern](https://jobright.ai/jobs/info/6982c2b4348f733a5c35bc31?utm_campaign=1066&utm_source=git)** | 250 S 850 E, Lehi, UT 84043, USA | On Site | Feb 03 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Clinical Insights and Automation (Early Clinical Development)](https://jobright.ai/jobs/info/6982b25b348f733a5c35ab5f?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Feb 03 |
-| **[Lamb Weston LATAM](https://www.lambweston.com)** | **[Agriculture Intern, Data Analytics](https://jobright.ai/jobs/info/69828bbb0f6f7e7a2cdbccd3?utm_campaign=1066&utm_source=git)** | Kennewick, WA | On Site | Feb 03 |
 | **[Post Holdings](http://postholdings.com)** | **[Decision Science Intern](https://jobright.ai/jobs/info/69828ab7348f733a5c3573e3?utm_campaign=1066&utm_source=git)** | St Louis, MO | Hybrid | Feb 03 |
 | **[RETTEW](http://rettew.com)** | **[GIS Internship](https://jobright.ai/jobs/info/69828a84348f733a5c3573c2?utm_campaign=1066&utm_source=git)** | Morgantown, WV | Hybrid | Feb 03 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern (Computational Sciences - Cluster of Excellence)](https://jobright.ai/jobs/info/698288f10a9e07331f8da377?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Feb 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Internship Program: Weather Researcher](https://jobright.ai/jobs/info/69821db8a314e76369057686?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Feb 03 |
 | **[BMO](http://www.bmo.com)** | **[Junior Analyst, National Accounts Team, Summer 2026 (Co-op/Internship) - 4 months](https://jobright.ai/jobs/info/69822ae8a314e76369057fca?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 03 |
 | **[Jabil](https://www.jabil.com)** | **[Supply Chain Data Analysis Intern](https://jobright.ai/jobs/info/698227d9a314e76369057dee?utm_campaign=1066&utm_source=git)** | St. Petersburg/Tampa, FL | On Site | Feb 03 |
-| **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Solutions and Services, AI and Data Analytics](https://jobright.ai/jobs/info/69822641c3101f1400c3c8ce?utm_campaign=1066&utm_source=git)** | Downers Grove, IL | Hybrid | Feb 03 |
-| **[Duke University](http://www.duke.edu)** | **[NONDUKE STUDENT/INTERN (FOR HIRE ONLY)](https://jobright.ai/jobs/info/6982439e0f6f7e7a2cdb6cdf?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Feb 03 |
-| **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern - RI IGM](https://jobright.ai/jobs/info/698244730f6f7e7a2cdb6da3?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
