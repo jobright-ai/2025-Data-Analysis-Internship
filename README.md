@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Farmers Insurance DDHQ](https://recruitment.farmers.com/district-manager-locator/co/greenwood-village/jared-seyl)** | **[Data Science Intern- Hybrid to Caledonia, MI](https://jobright.ai/jobs/info/6983353701214b4cdacae1f0?utm_campaign=1066&utm_source=git)** | Caledonia, MI | Hybrid | Feb 04 |
+| **[Motion](https://www.motion.com)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/697d7b74727747250d5864ea?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Feb 04 |
+| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/691abc11bcdbf3560c9da35b?utm_campaign=1066&utm_source=git)** | Garland, TX | On Site | Feb 04 |
+| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/692fa9d54c474121999e19e7?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Feb 04 |
 | **[Zoox](https://www.zoox.com/)** | **[Reliability Data Intern](https://jobright.ai/jobs/info/69672c661703f05405a8dc5e?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Feb 04 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Automation & Power BI Intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/695601caaa05c26e7ab04d35?utm_campaign=1066&utm_source=git)** | Georgia, United States | On Site | Feb 04 |
 | **[DriveTime](https://www.drivetime.com)** | **[Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/692ecd9dfa28370be26a5fe9?utm_campaign=1066&utm_source=git)** | Tempe, AZ | On Site | Feb 04 |
@@ -72,7 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Farmers Insurance](https://www.farmers.com)** | **[Data Science Intern- Hybrid to Caledonia, MI](https://jobright.ai/jobs/info/6982e8788232105a2d0b6b97?utm_campaign=1066&utm_source=git)** | Caledonia, MI | Hybrid | Feb 03 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Data Science Intern - Summer 2026 - Bedford, MA](https://jobright.ai/jobs/info/698306308232105a2d0b7981?utm_campaign=1066&utm_source=git)** | Bedford, Massachusetts | Hybrid | Feb 03 |
 | **[Rocket Pharmaceuticals](http://www.rocketpharma.com/)** | **[Summer Intern - Biometrics](https://jobright.ai/jobs/info/6982dcd90f6f7e7a2cdc592c?utm_campaign=1066&utm_source=git)** | Cranbury, NJ | On Site | Feb 03 |
-| **[Panasonic North America](https://www.na.panasonic.com/)** | **[Data Analytics and Cloud Application Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/6977f26788e2b47213bbfad4?utm_campaign=1066&utm_source=git)** | Newark, NJ | Remote | Feb 03 |
+| **[Panasonic North America](https://homes.panasonic.com/)** | **[Data Analytics and Cloud Application Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/6977f26788e2b47213bbfad4?utm_campaign=1066&utm_source=git)** | Newark, NJ | Remote | Feb 03 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/6982cb928232105a2d0b286b?utm_campaign=1066&utm_source=git)** | Maine, United States | Remote | Feb 03 |
 | **[Relay](https://relaypro.com)** | **[Data Analyst Intern (Part time, Spring Semester)](https://jobright.ai/jobs/info/6982c62a8232105a2d0b2436?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Hybrid | Feb 03 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Business Intelligence & Analytics - LIC](https://jobright.ai/jobs/info/6982c53f8232105a2d0b23b2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sharp Business USA](https://business.sharpusa.com)** | **[Summer Intern- Solutions and Services, AI and Data Analytics](https://jobright.ai/jobs/info/69822641c3101f1400c3c8ce?utm_campaign=1066&utm_source=git)** | Downers Grove, IL | Hybrid | Feb 03 |
 | **[Duke University](http://www.duke.edu)** | **[NONDUKE STUDENT/INTERN (FOR HIRE ONLY)](https://jobright.ai/jobs/info/6982439e0f6f7e7a2cdb6cdf?utm_campaign=1066&utm_source=git)** | Durham, NC | On Site | Feb 03 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern - RI IGM](https://jobright.ai/jobs/info/698244730f6f7e7a2cdb6da3?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Feb 03 |
-| **[Volunteer Match, Powered by Idealist](http://www.volunteermatch.org)** | **[Clinical Research Data Science Intern](https://jobright.ai/jobs/info/69821b900f6f7e7a2cdb39fb?utm_campaign=1066&utm_source=git)** | New York, NY | Remote | Feb 03 |
-| **[Vanderlande](https://www.vanderlande.com)** | **[Supply Chain Data & Analytics Intern](https://jobright.ai/jobs/info/69821b63c3101f1400c3c1a9?utm_campaign=1066&utm_source=git)** | Marietta, GA USA | On Site | Feb 03 |
-| **[Gildan](https://gildancorp.com)** | **[Intern, Data Distribution](https://jobright.ai/jobs/info/698217890f6f7e7a2cdb3722?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 03 |
-| **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Data Science Intern](https://jobright.ai/jobs/info/692e1b064c474121999d63b7?utm_campaign=1066&utm_source=git)** | Madison, WI | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
