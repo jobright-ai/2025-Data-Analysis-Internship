@@ -57,18 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bridgestone Americas](https://www.bridgestoneamericas.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69839f7e0f6f7e7a2cdd0fb5?utm_campaign=1066&utm_source=git)** | Akron, OH | On Site | Feb 04 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2026 Intern - Data Science / Biostatistician](https://jobright.ai/jobs/info/69839e1801214b4cdacb5413?utm_campaign=1066&utm_source=git)** | Detroit, MI | Hybrid | Feb 04 |
+| **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Data Analytics - SQL, SAS, Python, Databricks - Bachelor's Intern](https://jobright.ai/jobs/info/69839e140f6f7e7a2cdd0c0d?utm_campaign=1066&utm_source=git)** | Pasadena, CA | Hybrid | Feb 04 |
+| **[Bloom Energy](http://www.bloomenergy.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69838f340f6f7e7a2cdd007a?utm_campaign=1066&utm_source=git)** | San Jose, California | On Site | Feb 04 |
+| **[BorgWarner](http://www.borgwarner.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6983851d348f733a5c3696f4?utm_campaign=1066&utm_source=git)** | Auburn Hills, MI | Hybrid | Feb 04 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2026 Intern - Data Science / Biostatistician](https://jobright.ai/jobs/info/69837faf01214b4cdacb240a?utm_campaign=1066&utm_source=git)** | 500 Renaissance Ctr, Detroit, MI, 48243, US | On Site | Feb 04 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Decision Science Analyst Intern](https://jobright.ai/jobs/info/69837f5701214b4cdacb22f2?utm_campaign=1066&utm_source=git)** | Redwood City, CA, United States | On Site | Feb 04 |
 | **[Stevens Capital Management LP](https://www.scm-lp.com)** | **[PhD Internship - Quantitative Research Analyst](https://jobright.ai/jobs/info/6983769201214b4cdacb1d1a?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Feb 04 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Data Systems](https://jobright.ai/jobs/info/692f5eb54c474121999de3be?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Feb 04 |
 | **[Oracle](https://www.oracle.com/)** | **[Decision Science Analyst Intern](https://jobright.ai/jobs/info/6983733d348f733a5c367ad1?utm_campaign=1066&utm_source=git)** | Redwood City, CA, United States | On Site | Feb 04 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Economics and Computation](https://jobright.ai/jobs/info/6967f65b1703f05405a9924c?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Feb 04 |
-| ↳ | **[Research Intern - Microsoft Research Special Projects](https://jobright.ai/jobs/info/692f6367fa28370be26a97e8?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Feb 04 |
+| **[Oracle](https://www.oracle.com/)** | **[Decision Science Analyst Intern](https://jobright.ai/jobs/info/69838e0e01214b4cdacb4788?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Feb 04 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Microsoft Research Special Projects](https://jobright.ai/jobs/info/692f6367fa28370be26a97e8?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Feb 04 |
 | **[BorgWarner](http://www.borgwarner.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698368f5348f733a5c36740d?utm_campaign=1066&utm_source=git)** | Auburn Hills - Michigan - USA | On Site | Feb 04 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - RiSE group](https://jobright.ai/jobs/info/692f88cefa28370be26ab3f2?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Feb 04 |
 | ↳ | **[Research Intern - Networking Research Group](https://jobright.ai/jobs/info/6979802d0791bc1d723027d6?utm_campaign=1066&utm_source=git)** | Redmond, WA | On Site | Feb 04 |
 | **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - Enterprise Data Analyst](https://jobright.ai/jobs/info/698358b30f6f7e7a2cdcad2c?utm_campaign=1066&utm_source=git)** | Eagan, MN | Hybrid | Feb 04 |
-| ↳ | **[Intern - Enterprise Data Analyst](https://jobright.ai/jobs/info/698352c4348f733a5c365e47?utm_campaign=1066&utm_source=git)** | Eagan, MN | Hybrid | Feb 04 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Internship: OPEX Data Analytics (4-month) - Perth, ON, Canada](https://jobright.ai/jobs/info/6983752201214b4cdacb1c49?utm_campaign=1066&utm_source=git)** | Perth, Ontario, Canada | On Site | Feb 04 |
 | **[C3 AI](https://c3.ai)** | **[Data Science - Intern (Summer 2026)](https://jobright.ai/jobs/info/68cf045a846f0b04af67ea89?utm_campaign=1066&utm_source=git)** | Redwood City, CA | On Site | Feb 04 |
 | **[Ibotta](https://home.ibotta.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/69142e4b1465e02904e9b2b5?utm_campaign=1066&utm_source=git)** | Denver, CO | Hybrid | Feb 04 |
@@ -122,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[ALO](https://www.aloyoga.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69829c06348f733a5c359522?utm_campaign=1066&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 03 |
 | **[Trove Brands](https://trovebrands.com)** | **[Forecasting Analyst Intern](https://jobright.ai/jobs/info/6982c2b4348f733a5c35bc31?utm_campaign=1066&utm_source=git)** | 250 S 850 E, Lehi, UT 84043, USA | On Site | Feb 03 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Clinical Insights and Automation (Early Clinical Development)](https://jobright.ai/jobs/info/6982b25b348f733a5c35ab5f?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Feb 03 |
+| **[Crusoe](https://crusoe.ai)** | **[Data Science Intern, Summer 2026](https://jobright.ai/jobs/info/69839fea348f733a5c36ba48?utm_campaign=1066&utm_source=git)** | San Francisco, CA - US | On Site | Feb 03 |
 | **[Post Holdings](http://postholdings.com)** | **[Decision Science Intern](https://jobright.ai/jobs/info/69828ab7348f733a5c3573e3?utm_campaign=1066&utm_source=git)** | St Louis, MO | Hybrid | Feb 03 |
 | **[RETTEW](http://rettew.com)** | **[GIS Internship](https://jobright.ai/jobs/info/69828a84348f733a5c3573c2?utm_campaign=1066&utm_source=git)** | Morgantown, WV | Hybrid | Feb 03 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern (Computational Sciences - Cluster of Excellence)](https://jobright.ai/jobs/info/698288f10a9e07331f8da377?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Feb 03 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Family Services](https://www.metrofamily.org)** | **[Business Intelligence Intern - Information Systems Department](https://jobright.ai/jobs/info/69824ca8348f733a5c3518fd?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Feb 03 |
 | **[Praytell](http://www.praytellagency.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/69826cf80f6f7e7a2cdb9aa6?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 03 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Intern, Neuroscience & Digital Health](https://jobright.ai/jobs/info/69824c35348f733a5c35186c?utm_campaign=1066&utm_source=git)** | Titusville, NJ | Remote | Feb 03 |
-| **[Bio-Techne](https://www.bio-techne.com)** | **[Graduate Intern - Antibody Repertoire Bioinformatics](https://jobright.ai/jobs/info/69824b73a314e7636905ae0c?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Feb 03 |
-| **[Finding Mastery](http://www.findingmastery.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/69826e550f6f7e7a2cdb9dcd?utm_campaign=1066&utm_source=git)** | El Segundo, CA | On Site | Feb 03 |
-| **[Sallie Mae](https://www.salliemae.com)** | **[Data Governance Intern ](https://jobright.ai/jobs/info/698277910f6f7e7a2cdbb0fa?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | Hybrid | Feb 03 |
-| **[Premier Inc.](http://www.premierinc.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/6982776a0f6f7e7a2cdbb0b0?utm_campaign=1066&utm_source=git)** | United States | On Site | Feb 03 |
-| ↳ | **[Analytics Intern](https://jobright.ai/jobs/info/69827651348f733a5c355625?utm_campaign=1066&utm_source=git)** | United States | On Site | Feb 03 |
-| **[Zoom](https://www.zoom.com)** | **[Enterprise Graph Retrieval Intern](https://jobright.ai/jobs/info/69826e7f0a9e07331f8d757d?utm_campaign=1066&utm_source=git)** | Seattle (WA) | Hybrid | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
