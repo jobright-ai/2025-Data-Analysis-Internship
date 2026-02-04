@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6982b86e348f733a5c35b40b?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Feb 03 |
+| **[AriensCo](https://www.ariensco.com/)** | **[Intern, Data Scientist - Summer 2026](https://jobright.ai/jobs/info/6982b52d0f6f7e7a2cdc07f3?utm_campaign=1066&utm_source=git)** | Brillion, WI | On Site | Feb 03 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - MAGNet Program @ University of Georgia - Enterprise Data and Analytics](https://jobright.ai/jobs/info/6982ae12348f733a5c35a6c5?utm_campaign=1066&utm_source=git)** | Athens, GA | Hybrid | Feb 03 |
 | **[Lakeview Loan Servicing, LLC.](https://lakeview.com)** | **[IT DATA ANALYTICS INTERN](https://jobright.ai/jobs/info/6982ac440f6f7e7a2cdbfe3d?utm_campaign=1066&utm_source=git)** | Agoura Hills, CA | Hybrid | Feb 03 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Clinical Insights and Automation (Early Clinical Development)](https://jobright.ai/jobs/info/6982ab2b348f733a5c35a414?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Feb 03 |
 | **[Battelle](http://www.battelle.org)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/6982aa71348f733a5c35a34e?utm_campaign=1066&utm_source=git)** | Columbus, OH | Hybrid | Feb 03 |
@@ -67,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[National Association of Latino Healthcare Executives](https://www.nalhe.org)** | **[Reporting and Analytics Bachelor&amp;#8217;s Intern](https://jobright.ai/jobs/info/6982a7a1348f733a5c35a032?utm_campaign=1066&utm_source=git)** | Pasadena, CA | Hybrid | Feb 03 |
 | **[Medpace](http://www.medpace.com)** | **[Clinical Informatics Intern - Fall 2026](https://jobright.ai/jobs/info/696703516f782b4e8d52af87?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Feb 03 |
 | **[ALO](https://www.aloyoga.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69829c06348f733a5c359522?utm_campaign=1066&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 03 |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Clinical Insights and Automation (Early Clinical Development)](https://jobright.ai/jobs/info/6982b25b348f733a5c35ab5f?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Feb 03 |
 | **[Lamb Weston LATAM](https://www.lambweston.com)** | **[Agriculture Intern, Data Analytics](https://jobright.ai/jobs/info/69828bbb0f6f7e7a2cdbccd3?utm_campaign=1066&utm_source=git)** | Kennewick, WA | On Site | Feb 03 |
 | **[Post Holdings](http://postholdings.com)** | **[Decision Science Intern](https://jobright.ai/jobs/info/69828ab7348f733a5c3573e3?utm_campaign=1066&utm_source=git)** | St Louis, MO | Hybrid | Feb 03 |
 | **[RETTEW](http://rettew.com)** | **[GIS Internship](https://jobright.ai/jobs/info/69828a84348f733a5c3573c2?utm_campaign=1066&utm_source=git)** | Morgantown, WV | Hybrid | Feb 03 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Current PhD - Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/69649e4da112b40266127954?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Feb 03 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6981ea010f6f7e7a2cdb0975?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Feb 03 |
 | ↳ | **[Data Analyst Intern](https://jobright.ai/jobs/info/6981e9960f6f7e7a2cdb095b?utm_campaign=1066&utm_source=git)** | Morrisville, NC | On Site | Feb 03 |
-| **[Guidewire Software](http://www.guidewire.com)** | **[Cyber Risk Data Science Intern](https://jobright.ai/jobs/info/6981e70ca314e7636905436a?utm_campaign=1066&utm_source=git)** | San Mateo, CA | On Site | Feb 03 |
-| **[Zoox](https://www.zoox.com/)** | **[Data Governance Intern](https://jobright.ai/jobs/info/694a3fe03019f50a4fe568ed?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Feb 03 |
-| **[Guidewire Software](http://www.guidewire.com)** | **[Data & Research Intern](https://jobright.ai/jobs/info/6981e645c3101f1400c38ffe?utm_campaign=1066&utm_source=git)** | San Mateo, CA | On Site | Feb 03 |
-| **[Troon](http://www.troon.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6965d0ca2cbf4e44756f8f81?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
