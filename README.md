@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Delinea](https://delinea.com)** | **[Business Data Operations Intern - Summer 2026](https://jobright.ai/jobs/info/698456740f6f7e7a2cdeb012?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Feb 05 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69846a57348f733a5c3867f1?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Feb 04 |
 | **[Pure Storage](http://www.purestorage.com)** | **[Business Intelligence and Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69844a2e0f6f7e7a2cdea353?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Feb 04 |
 | ↳ | **[Business Intelligence and Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/698428b8348f733a5c3808dd?utm_campaign=1066&utm_source=git)** | Santa Clara, California | On Site | Feb 04 |
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Analyst, Data Operations Intern](https://jobright.ai/jobs/info/698419c20f6f7e7a2cde438f?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Feb 04 |
@@ -145,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Farmers Insurance](https://www.farmers.com)** | **[Data Science Intern- Hybrid to Caledonia, MI](https://jobright.ai/jobs/info/6982e8788232105a2d0b6b97?utm_campaign=1066&utm_source=git)** | Caledonia, MI | Hybrid | Feb 03 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Data Science Intern - Summer 2026 - Bedford, MA](https://jobright.ai/jobs/info/698306308232105a2d0b7981?utm_campaign=1066&utm_source=git)** | Bedford, Massachusetts | Hybrid | Feb 03 |
 | **[Rocket Pharmaceuticals](http://www.rocketpharma.com/)** | **[Summer Intern - Biometrics](https://jobright.ai/jobs/info/6984381c0f6f7e7a2cde81d5?utm_campaign=1066&utm_source=git)** | Cranbury, NJ, US | On Site | Feb 03 |
-| ↳ | **[Summer Intern - Biometrics](https://jobright.ai/jobs/info/698430ee0f6f7e7a2cde7423?utm_campaign=1066&utm_source=git)** | Cranbury, NJ | On Site | Feb 03 |
 | **[Panasonic North America](https://homes.panasonic.com/)** | **[Data Analytics and Cloud Application Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/6977f26788e2b47213bbfad4?utm_campaign=1066&utm_source=git)** | Newark, NJ | Remote | Feb 03 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/6982cb928232105a2d0b286b?utm_campaign=1066&utm_source=git)** | Maine, United States | Remote | Feb 03 |
 | **[Relay](https://relaypro.com)** | **[Data Analyst Intern (Part time, Spring Semester)](https://jobright.ai/jobs/info/6982c62a8232105a2d0b2436?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Hybrid | Feb 03 |
