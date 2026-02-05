@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Peckham Industries, Inc.](http://peckham.com)** | **[Procurement Data Analysis Intern (Req #: 1304)](https://jobright.ai/jobs/info/69847726348f733a5c387fbb?utm_campaign=1066&utm_source=git)** | Hudson Falls, NY | On Site | Feb 05 |
+| **[HP](http://www.hp.com)** | **[Artificial Intelligence  Data Systems Intern](https://jobright.ai/jobs/info/6984719d8da7a612045e9a19?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Feb 05 |
 | **[Delinea](https://delinea.com)** | **[Business Data Operations Intern - Summer 2026](https://jobright.ai/jobs/info/698456740f6f7e7a2cdeb012?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Feb 05 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69846a57348f733a5c3867f1?utm_campaign=1066&utm_source=git)** | Waltham, MA | On Site | Feb 04 |
 | **[Pure Storage](http://www.purestorage.com)** | **[Business Intelligence and Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69844a2e0f6f7e7a2cdea353?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Feb 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Administrative / Data Analytics](https://jobright.ai/jobs/info/697d2950727747250d57ea32?utm_campaign=1066&utm_source=git)** | Dedham, MA | Hybrid | Feb 03 |
 | **[Bank OZK](https://www.ozk.com/personal)** | **[Intern, Enterprise Analytics](https://jobright.ai/jobs/info/6982bc0f348f733a5c35b634?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Feb 03 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Visualization Intern](https://jobright.ai/jobs/info/6982e3ec8232105a2d0b666c?utm_campaign=1066&utm_source=git)** | Huntsville, AL | Hybrid | Feb 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6982b86e348f733a5c35b40b?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Feb 03 |
-| **[AriensCo](https://www.ariensco.com/)** | **[Intern, Data Scientist - Summer 2026](https://jobright.ai/jobs/info/6982b52d0f6f7e7a2cdc07f3?utm_campaign=1066&utm_source=git)** | Brillion, WI | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
