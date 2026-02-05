@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Roku](https://www.roku.com)** | **[Analytics & Insights Intern](https://jobright.ai/jobs/info/6984a69d8da7a612045ee991?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
+| **[Roku](https://www.roku.com)** | **[Analytics & Insights Intern](https://jobright.ai/jobs/info/6984aa4f348f733a5c38c4d8?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Feb 05 |
+| ↳ | **[Analytics & Insights Intern](https://jobright.ai/jobs/info/6984a69d8da7a612045ee991?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6968a3031703f05405aa7528?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Feb 05 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Business Analytics Summer Internship (Overland Park, KS)](https://jobright.ai/jobs/info/696b06eddb26b618950e80e1?utm_campaign=1066&utm_source=git)** | Overland Park, KS | Hybrid | Feb 05 |
 | ↳ | **[2026 Junior Quant Developer - Asset Liability Management Summer Internship Program](https://jobright.ai/jobs/info/6976eea088e2b47213babd4e?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
@@ -101,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[HP](http://www.hp.com)** | **[Artificial Intelligence  Data Systems Intern](https://jobright.ai/jobs/info/6983ee0a0f6f7e7a2cdde515?utm_campaign=1066&utm_source=git)** | Boise, Idaho, United States of America | On Site | Feb 04 |
 | **[Samsung Ads](http://www.samsungads.com)** | **[Data Analyst & System Support Internship](https://jobright.ai/jobs/info/6983fed60f6f7e7a2cde0561?utm_campaign=1066&utm_source=git)** | 6555 Excellence Way, Plano, TX, USA | On Site | Feb 04 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/6983d09601214b4cdacbda11?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 04 |
-| **[Proctor Loan Protector](https://proctorlp.com)** | **[Data Reporting Admin Intern](https://jobright.ai/jobs/info/697825d8fdeb8243a27b1a8e?utm_campaign=1066&utm_source=git)** | Troy, MI | On Site | Feb 04 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Data Science](https://jobright.ai/jobs/info/6983c3fd0f6f7e7a2cdd719f?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Feb 04 |
 | **[Bridgestone Americas](https://www.bridgestoneamericas.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69839f7e0f6f7e7a2cdd0fb5?utm_campaign=1066&utm_source=git)** | Akron, OH | On Site | Feb 04 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[Summer 2026 Intern - Data Science / Biostatistician](https://jobright.ai/jobs/info/69839e1801214b4cdacb5413?utm_campaign=1066&utm_source=git)** | Detroit, MI | Hybrid | Feb 04 |
