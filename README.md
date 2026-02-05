@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Junior Quant Developer - Asset Liability Management Summer Internship Program](https://jobright.ai/jobs/info/6976eea088e2b47213babd4e?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
+| **[Roku](https://www.roku.com)** | **[Analytics & Insights Intern](https://jobright.ai/jobs/info/6984a69d8da7a612045ee991?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
+| **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6968a3031703f05405aa7528?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Feb 05 |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Business Analytics Summer Internship (Overland Park, KS)](https://jobright.ai/jobs/info/696b06eddb26b618950e80e1?utm_campaign=1066&utm_source=git)** | Overland Park, KS | Hybrid | Feb 05 |
+| ↳ | **[2026 Junior Quant Developer - Asset Liability Management Summer Internship Program](https://jobright.ai/jobs/info/6976eea088e2b47213babd4e?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | **[Tinder](http://www.tinder.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6920fe4400c9ee50eaeca8be?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 05 |
 | **[IG Wealth Management](https://ig.ca)** | **[Summer Intern 206 - Reporting & Analytics](https://jobright.ai/jobs/info/69308eb34c474121999e603d?utm_campaign=1066&utm_source=git)** | Manitoba, Canada | Hybrid | Feb 05 |
 | **[ATI](https://www.forging.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69336404f131d96e48462c6e?utm_campaign=1066&utm_source=git)** | Natrona Heights, PA | On Site | Feb 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rocket Pharmaceuticals](http://www.rocketpharma.com/)** | **[Summer Intern - Biometrics](https://jobright.ai/jobs/info/6984381c0f6f7e7a2cde81d5?utm_campaign=1066&utm_source=git)** | Cranbury, NJ, US | On Site | Feb 03 |
 | **[Panasonic North America](https://www.na.panasonic.com/)** | **[Data Analytics and Cloud Application Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/6977f26788e2b47213bbfad4?utm_campaign=1066&utm_source=git)** | Newark, NJ | Remote | Feb 03 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/6982cb928232105a2d0b286b?utm_campaign=1066&utm_source=git)** | Maine, United States | Remote | Feb 03 |
-| **[Relay](https://relaypro.com)** | **[Data Analyst Intern (Part time, Spring Semester)](https://jobright.ai/jobs/info/6982c62a8232105a2d0b2436?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Hybrid | Feb 03 |
-| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Business Intelligence & Analytics - LIC](https://jobright.ai/jobs/info/6982c53f8232105a2d0b23b2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 03 |
-| **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Visualization Intern](https://jobright.ai/jobs/info/6982c2b70f6f7e7a2cdc1537?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
