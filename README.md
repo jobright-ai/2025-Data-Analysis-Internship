@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Pure Storage](http://www.purestorage.com)** | **[Business Intelligence and Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/698428b8348f733a5c3808dd?utm_campaign=1066&utm_source=git)** | Santa Clara, California | On Site | Feb 04 |
+| **[Delinea](https://delinea.com)** | **[Business Data Operations Intern - Summer 2026](https://jobright.ai/jobs/info/698456740f6f7e7a2cdeb012?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Feb 05 |
+| **[Pure Storage](http://www.purestorage.com)** | **[Business Intelligence and Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/69844a2e0f6f7e7a2cdea353?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Feb 04 |
+| ↳ | **[Business Intelligence and Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/698428b8348f733a5c3808dd?utm_campaign=1066&utm_source=git)** | Santa Clara, California | On Site | Feb 04 |
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Analyst, Data Operations Intern](https://jobright.ai/jobs/info/698419c20f6f7e7a2cde438f?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Feb 04 |
 | **[Hayward Holdings, Inc.](http://www.hayward.com)** | **[ERP Dashboard and Data Analyst Intern](https://jobright.ai/jobs/info/69840e010f6f7e7a2cde2981?utm_campaign=1066&utm_source=git)** | North Kingstown, RI | On Site | Feb 04 |
 | **[Meketa Investment Group](http://www.meketa.com/)** | **[Research Intern](https://jobright.ai/jobs/info/69840389348f733a5c37b5b9?utm_campaign=1066&utm_source=git)** | Portland, OR | On Site | Feb 04 |
@@ -123,6 +125,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Biostatistics Intern](https://jobright.ai/jobs/info/694b1ab44b53a1551f94d936?utm_campaign=1066&utm_source=git)** | San Diego, CA | On Site | Feb 04 |
 | **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - Sales Technology Data Analyst](https://jobright.ai/jobs/info/69835b78348f733a5c3668ad?utm_campaign=1066&utm_source=git)** | Eagan, MN | Hybrid | Feb 04 |
 | **[Farmers Insurance DDHQ](https://recruitment.farmers.com/district-manager-locator/co/greenwood-village/jared-seyl)** | **[Data Science Intern- Hybrid to Caledonia, MI](https://jobright.ai/jobs/info/6983353701214b4cdacae1f0?utm_campaign=1066&utm_source=git)** | Caledonia, MI | Hybrid | Feb 04 |
+| **[Motion](https://www.motion.com)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/698452400f6f7e7a2cdeaa57?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Feb 04 |
 | **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/691abc11bcdbf3560c9da35b?utm_campaign=1066&utm_source=git)** | Garland, TX | On Site | Feb 04 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/692fa9d54c474121999e19e7?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Feb 04 |
 | **[Zoox](https://www.zoox.com/)** | **[Reliability Data Intern](https://jobright.ai/jobs/info/69672c661703f05405a8dc5e?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Feb 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Visualization Intern](https://jobright.ai/jobs/info/6982e3ec8232105a2d0b666c?utm_campaign=1066&utm_source=git)** | Huntsville, AL | Hybrid | Feb 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Start (PhD)](https://jobright.ai/jobs/info/6982b86e348f733a5c35b40b?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Feb 03 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Data Scientist - Summer 2026](https://jobright.ai/jobs/info/6982b52d0f6f7e7a2cdc07f3?utm_campaign=1066&utm_source=git)** | Brillion, WI | On Site | Feb 03 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - MAGNet Program @ University of Georgia - Enterprise Data and Analytics](https://jobright.ai/jobs/info/6982ae12348f733a5c35a6c5?utm_campaign=1066&utm_source=git)** | Athens, GA | Hybrid | Feb 03 |
-| **[Lakeview Loan Servicing, LLC.](https://lakeview.com)** | **[IT DATA ANALYTICS INTERN](https://jobright.ai/jobs/info/6982ac440f6f7e7a2cdbfe3d?utm_campaign=1066&utm_source=git)** | Agoura Hills, CA | Hybrid | Feb 03 |
-| **[Genentech](http://gene.com)** | **[2026 Summer Intern - Clinical Insights and Automation (Early Clinical Development)](https://jobright.ai/jobs/info/6982ab2b348f733a5c35a414?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
