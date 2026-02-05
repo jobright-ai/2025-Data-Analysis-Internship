@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LemVega Capital](https://www.lemvegacapital.com/)** | **[Intern](https://jobright.ai/jobs/info/6984bd050f6f7e7a2cdf30f8?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 05 |
+| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Data Science Intern](https://jobright.ai/jobs/info/6984ba2c0f6f7e7a2cdf2ee1?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Feb 05 |
 | **[Roku](https://www.roku.com)** | **[Analytics & Insights Intern](https://jobright.ai/jobs/info/6984aa4f348f733a5c38c4d8?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Feb 05 |
 | ↳ | **[Analytics & Insights Intern](https://jobright.ai/jobs/info/6984a69d8da7a612045ee991?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6968a3031703f05405aa7528?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Feb 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Farmers Insurance](https://www.farmers.com)** | **[Data Science Intern- Hybrid to Caledonia, MI](https://jobright.ai/jobs/info/6982e8788232105a2d0b6b97?utm_campaign=1066&utm_source=git)** | Caledonia, MI | Hybrid | Feb 03 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Data Science Intern - Summer 2026 - Bedford, MA](https://jobright.ai/jobs/info/698306308232105a2d0b7981?utm_campaign=1066&utm_source=git)** | Bedford, Massachusetts | Hybrid | Feb 03 |
 | **[Rocket Pharmaceuticals](http://www.rocketpharma.com/)** | **[Summer Intern - Biometrics](https://jobright.ai/jobs/info/6984381c0f6f7e7a2cde81d5?utm_campaign=1066&utm_source=git)** | Cranbury, NJ, US | On Site | Feb 03 |
-| **[Panasonic North America](https://www.na.panasonic.com/)** | **[Data Analytics and Cloud Application Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/6977f26788e2b47213bbfad4?utm_campaign=1066&utm_source=git)** | Newark, NJ | Remote | Feb 03 |
-| **[WEX](http://www.wexinc.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/6982cb928232105a2d0b286b?utm_campaign=1066&utm_source=git)** | Maine, United States | Remote | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
