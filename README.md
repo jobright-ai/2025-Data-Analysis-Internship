@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Junior Quant Developer - Asset Liability Management Summer Internship Program](https://jobright.ai/jobs/info/6976eea088e2b47213babd4e?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
+| **[Tinder](http://www.tinder.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6920fe4400c9ee50eaeca8be?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 05 |
+| **[IG Wealth Management](https://ig.ca)** | **[Summer Intern 206 - Reporting & Analytics](https://jobright.ai/jobs/info/69308eb34c474121999e603d?utm_campaign=1066&utm_source=git)** | Manitoba, Canada | Hybrid | Feb 05 |
+| **[ATI](https://www.forging.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69336404f131d96e48462c6e?utm_campaign=1066&utm_source=git)** | Natrona Heights, PA | On Site | Feb 05 |
 | **[Peckham Industries, Inc.](http://peckham.com)** | **[Procurement Data Analysis Intern (Req #: 1304)](https://jobright.ai/jobs/info/69847726348f733a5c387fbb?utm_campaign=1066&utm_source=git)** | Hudson Falls, NY | On Site | Feb 05 |
 | **[HP](http://www.hp.com)** | **[Artificial Intelligence  Data Systems Intern](https://jobright.ai/jobs/info/6984719d8da7a612045e9a19?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Feb 05 |
 | **[Delinea](https://delinea.com)** | **[Business Data Operations Intern - Summer 2026](https://jobright.ai/jobs/info/698456740f6f7e7a2cdeb012?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Feb 05 |
@@ -148,13 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Farmers Insurance](https://www.farmers.com)** | **[Data Science Intern- Hybrid to Caledonia, MI](https://jobright.ai/jobs/info/6982e8788232105a2d0b6b97?utm_campaign=1066&utm_source=git)** | Caledonia, MI | Hybrid | Feb 03 |
 | **[Aspen Technology](http://www.aspentech.com)** | **[Data Science Intern - Summer 2026 - Bedford, MA](https://jobright.ai/jobs/info/698306308232105a2d0b7981?utm_campaign=1066&utm_source=git)** | Bedford, Massachusetts | Hybrid | Feb 03 |
 | **[Rocket Pharmaceuticals](http://www.rocketpharma.com/)** | **[Summer Intern - Biometrics](https://jobright.ai/jobs/info/6984381c0f6f7e7a2cde81d5?utm_campaign=1066&utm_source=git)** | Cranbury, NJ, US | On Site | Feb 03 |
-| **[Panasonic North America](https://homes.panasonic.com/)** | **[Data Analytics and Cloud Application Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/6977f26788e2b47213bbfad4?utm_campaign=1066&utm_source=git)** | Newark, NJ | Remote | Feb 03 |
+| **[Panasonic North America](https://www.na.panasonic.com/)** | **[Data Analytics and Cloud Application Specialist Intern (Summer 2026)](https://jobright.ai/jobs/info/6977f26788e2b47213bbfad4?utm_campaign=1066&utm_source=git)** | Newark, NJ | Remote | Feb 03 |
 | **[WEX](http://www.wexinc.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/6982cb928232105a2d0b286b?utm_campaign=1066&utm_source=git)** | Maine, United States | Remote | Feb 03 |
 | **[Relay](https://relaypro.com)** | **[Data Analyst Intern (Part time, Spring Semester)](https://jobright.ai/jobs/info/6982c62a8232105a2d0b2436?utm_campaign=1066&utm_source=git)** | Raleigh, NC | Hybrid | Feb 03 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Business Intelligence & Analytics - LIC](https://jobright.ai/jobs/info/6982c53f8232105a2d0b23b2?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 03 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Visualization Intern](https://jobright.ai/jobs/info/6982c2b70f6f7e7a2cdc1537?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 03 |
-| **[Trove Nutrition](https://www.linkedin.com/company/100929613)** | **[Forecasting Analyst Intern](https://jobright.ai/jobs/info/6982c2280f6f7e7a2cdc14ae?utm_campaign=1066&utm_source=git)** | Lehi, UT | On Site | Feb 03 |
-| **[General Dynamics Mission Systems](https://gdmissionsystems.com)** | **[Intern Administrative / Data Analytics](https://jobright.ai/jobs/info/697d2950727747250d57ea32?utm_campaign=1066&utm_source=git)** | Dedham, MA | Hybrid | Feb 03 |
-| **[Bank OZK](https://www.ozk.com/personal)** | **[Intern, Enterprise Analytics](https://jobright.ai/jobs/info/6982bc0f348f733a5c35b634?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Feb 03 |
-| **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Data Visualization Intern](https://jobright.ai/jobs/info/6982e3ec8232105a2d0b666c?utm_campaign=1066&utm_source=git)** | Huntsville, AL | Hybrid | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
