@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MVB Bank](https://mvbbanking.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6973f34a37785856350dcb50?utm_campaign=1066&utm_source=git)** | United, WV | Remote | Feb 05 |
+| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Data Science Internship](https://jobright.ai/jobs/info/69850a778da7a612045f53af?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 05 |
+| **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Analytics Development Program Internship](https://jobright.ai/jobs/info/6984ef3a348f733a5c390bea?utm_campaign=1066&utm_source=git)** | Eden Prairie, MN | Hybrid | Feb 05 |
+| **[Cintas](https://www.cintas.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698507a48da7a612045f50d7?utm_campaign=1066&utm_source=git)** | Mason, OH | On Site | Feb 05 |
+| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/698504a4348f733a5c392199?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 05 |
 | **[PrizePicks](https://prizepicks.com)** | **[Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/6984fb178da7a612045f431a?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 05 |
 | **[LMI](http://www.lmi.org)** | **[Data Science- Intern (FIU Students)](https://jobright.ai/jobs/info/6984f9010f6f7e7a2cdf71ee?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 05 |
 | **[GoFundMe](http://www.gofundme.com)** | **[Data Scientist Intern, People Analytics (Master's Degree)](https://jobright.ai/jobs/info/6984f3518da7a612045f3abe?utm_campaign=1066&utm_source=git)** | San Francisco, CA | Hybrid | Feb 05 |
-| **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Analytics Development Program Internship](https://jobright.ai/jobs/info/6984ef3a348f733a5c390bea?utm_campaign=1066&utm_source=git)** | Eden Prairie, MN | Hybrid | Feb 05 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Data Analyst Intern-Strategic Business Initiatives](https://jobright.ai/jobs/info/6984eca40f6f7e7a2cdf6693?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Feb 05 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Bioinformatics Intern - Graduate Student](https://jobright.ai/jobs/info/6984eb718da7a612045f363b?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 05 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Assessment & Institutional Effectiveness – Data Intern (FWS/NFWS)](https://jobright.ai/jobs/info/6984e9710f6f7e7a2cdf63cf?utm_campaign=1066&utm_source=git)** | AZ Phoenix | On Site | Feb 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - Sales Technology Data Analyst](https://jobright.ai/jobs/info/69835b78348f733a5c3668ad?utm_campaign=1066&utm_source=git)** | Eagan, MN | Hybrid | Feb 04 |
 | **[Farmers Insurance DDHQ](https://recruitment.farmers.com/district-manager-locator/co/greenwood-village/jared-seyl)** | **[Data Science Intern- Hybrid to Caledonia, MI](https://jobright.ai/jobs/info/6983353701214b4cdacae1f0?utm_campaign=1066&utm_source=git)** | Caledonia, MI | Hybrid | Feb 04 |
 | **[Motion](https://www.motion.com)** | **[Business Intelligence Developer Intern](https://jobright.ai/jobs/info/698452400f6f7e7a2cdeaa57?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Feb 04 |
-| **[Epiroc](https://www.epirocgroup.com/en)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/691abc11bcdbf3560c9da35b?utm_campaign=1066&utm_source=git)** | Garland, TX | On Site | Feb 04 |
-| **[Granite Telecommunications](http://www.granitenet.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/692fa9d54c474121999e19e7?utm_campaign=1066&utm_source=git)** | Quincy, MA | On Site | Feb 04 |
-| **[Zoox](https://www.zoox.com/)** | **[Reliability Data Intern](https://jobright.ai/jobs/info/69672c661703f05405a8dc5e?utm_campaign=1066&utm_source=git)** | Foster City, CA | On Site | Feb 04 |
-| **[UNICO Group](http://unicogroup.com)** | **[Data & Business Analytics Intern](https://jobright.ai/jobs/info/6968b7af1703f05405aa8e1d?utm_campaign=1066&utm_source=git)** | Lincoln, NE | Hybrid | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
