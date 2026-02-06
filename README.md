@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T. Rowe Price Singapore](https://www.troweprice.com/sg)** | **[2026 Procurement Internship](https://jobright.ai/jobs/info/698584590f6f7e7a2ce056a3?utm_campaign=1066&utm_source=git)** | Owings Mills, MD | Hybrid | Feb 05 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Analytics Development Program Internship](https://jobright.ai/jobs/info/6984ef3a348f733a5c390bea?utm_campaign=1066&utm_source=git)** | Eden Prairie, MN | Hybrid | Feb 05 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Bioinformatics Intern](https://jobright.ai/jobs/info/6985716f348f733a5c39d9fd?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Feb 05 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Summer - Statistical Sciences, Onsite](https://jobright.ai/jobs/info/69856dcf0f6f7e7a2ce03214?utm_campaign=1066&utm_source=git)** | Albuquerque, NM | On Site | Feb 05 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68ae3832d627244576e52733?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Feb 05 |
 | **[Dart Container](https://www.dartcontainer.com)** | **[Strategy Intern](https://jobright.ai/jobs/info/698560df0f6f7e7a2ce01a55?utm_campaign=1066&utm_source=git)** | Mason, MI | On Site | Feb 05 |
 | **[Simplot Company](http://www.simplot.com/)** | **[Data Science Intern (Long Term)](https://jobright.ai/jobs/info/6980b08849964d25b5e37b16?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Feb 05 |
+| **[CAE](http://www.cae.com)** | **[C-GSS-175 Supplier Data Intern-EN](https://jobright.ai/jobs/info/69857e2f0f6f7e7a2ce04fdf?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 05 |
 | **[DISH TV](https://www.dish.com)** | **[Data Governance Intern](https://jobright.ai/jobs/info/69855be9348f733a5c39b23b?utm_campaign=1066&utm_source=git)** | Littleton, CO | On Site | Feb 05 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Image Data Analytics Intern](https://jobright.ai/jobs/info/69857a248da7a61204601830?utm_campaign=1066&utm_source=git)** | West Point, PA | Hybrid | Feb 05 |
 | **[Realty Income Corporation](http://www.realtyincome.com/)** | **[Business Data Analyst Intern](https://jobright.ai/jobs/info/69681c6f639b452fb57dabbc?utm_campaign=1066&utm_source=git)** | Del Mar, CA | Hybrid | Feb 05 |
@@ -98,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[1Password](https://1password.com)** | **[Data Intern - Enterprise Analytics - Summer 2026](https://jobright.ai/jobs/info/698554060f6f7e7a2cdfffd3?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 05 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Bioinformatics Intern](https://jobright.ai/jobs/info/69853191348f733a5c3965e7?utm_campaign=1066&utm_source=git)** | USA - Pennsylvania - West Point | Hybrid | Feb 05 |
 | ↳ | **[2026 Future Talent Program - Image Data Analytics Intern](https://jobright.ai/jobs/info/6985316b0f6f7e7a2cdfc228?utm_campaign=1066&utm_source=git)** | USA - Pennsylvania - West Point | Hybrid | Feb 05 |
+| **[Chicago Atlantic](https://www.chicagoatlantic.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/698588a70f6f7e7a2ce0617b?utm_campaign=1066&utm_source=git)** | chicago,IL,US | On Site | Feb 05 |
 | **[fairlife, LLC](http://www.fairlife.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69852d7f8da7a612045f8c53?utm_campaign=1066&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Feb 05 |
 | **[Milliman](http://www.milliman.com)** | **[2026 Summer Internship Analytics (MedInsight)](https://jobright.ai/jobs/info/69852a8d348f733a5c395af6?utm_campaign=1066&utm_source=git)** | Atlanta, GA | Remote | Feb 05 |
 | ↳ | **[2026 Summer Internship Analytics (MedInsight)](https://jobright.ai/jobs/info/698529e7348f733a5c395a21?utm_campaign=1066&utm_source=git)** | South Burlington, VT | Remote | Feb 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Roku](https://www.roku.com)** | **[Analytics & Insights Intern](https://jobright.ai/jobs/info/6984aa4f348f733a5c38c4d8?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Feb 05 |
 | ↳ | **[Analytics & Insights Intern](https://jobright.ai/jobs/info/6984a69d8da7a612045ee991?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6968a3031703f05405aa7528?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Feb 05 |
-| **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Business Analytics Summer Internship (Overland Park, KS)](https://jobright.ai/jobs/info/696b06eddb26b618950e80e1?utm_campaign=1066&utm_source=git)** | Overland Park, KS | Hybrid | Feb 05 |
-| ↳ | **[2026 Junior Quant Developer - Asset Liability Management Summer Internship Program](https://jobright.ai/jobs/info/6976eea088e2b47213babd4e?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
-| **[Tinder](http://www.tinder.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6920fe4400c9ee50eaeca8be?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
