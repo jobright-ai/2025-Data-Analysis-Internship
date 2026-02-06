@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Data Analyst Intern Summer 2026](https://jobright.ai/jobs/info/6968646cf25a38006696d07e?utm_campaign=1066&utm_source=git)** | Columbus, MS | On Site | Feb 06 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/6984fc270f6f7e7a2cdf741b?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Feb 06 |
+| **[State of Missouri](http://mo.gov)** | **[Intern - 5020213](https://jobright.ai/jobs/info/690c938d221b890c277fee38?utm_campaign=1066&utm_source=git)** | Rolla, MO | On Site | Feb 06 |
+| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Data Analyst Intern Fall 2026](https://jobright.ai/jobs/info/6968821c639b452fb57e337d?utm_campaign=1066&utm_source=git)** | Columbus, MS | On Site | Feb 06 |
+| ↳ | **[Data Analyst Intern Summer 2026](https://jobright.ai/jobs/info/6968646cf25a38006696d07e?utm_campaign=1066&utm_source=git)** | Columbus, MS | On Site | Feb 06 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Data Analyst for PowerBI Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6969b44e639b452fb57fa2d6?utm_campaign=1066&utm_source=git)** | North Las Vegas, NV | On Site | Feb 06 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Data Scientist - Internship [Summer 2026]](https://jobright.ai/jobs/info/6912fc48ea9ab01b82bf6ce7?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Feb 06 |
 | **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Business Intelligence Intern - Credit Services](https://jobright.ai/jobs/info/698186b3abff4c399aa09c3b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 06 |
 | **[Molex](http://www.molex.com)** | **[Molex 2026 Search Analyst Internship](https://jobright.ai/jobs/info/6968330b639b452fb57dcdc0?utm_campaign=1066&utm_source=git)** | Lisle, IL | On Site | Feb 05 |
 | **[IBM](http://www.ibm.com)** | **[AI & Automation Data Scientist Intern (May 2026 - 4 month - Toronto, Ottawa or Montreal)](https://jobright.ai/jobs/info/6984756c8da7a612045e9ec6?utm_campaign=1066&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Feb 05 |
-| **[T. Rowe Price Singapore](https://www.troweprice.com/sg)** | **[2026 Procurement Internship](https://jobright.ai/jobs/info/698584590f6f7e7a2ce056a3?utm_campaign=1066&utm_source=git)** | Owings Mills, MD | Hybrid | Feb 05 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Analytics Development Program Internship](https://jobright.ai/jobs/info/6984ef3a348f733a5c390bea?utm_campaign=1066&utm_source=git)** | Eden Prairie, MN | Hybrid | Feb 05 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Bioinformatics Intern](https://jobright.ai/jobs/info/6985716f348f733a5c39d9fd?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Feb 05 |
 | **[Sandia National Laboratories](http://www.sandia.gov/)** | **[Intern, R&D Graduate Summer - Statistical Sciences, Onsite](https://jobright.ai/jobs/info/69856dcf0f6f7e7a2ce03214?utm_campaign=1066&utm_source=git)** | Albuquerque, NM | On Site | Feb 05 |
@@ -140,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698507a48da7a612045f50d7?utm_campaign=1066&utm_source=git)** | Mason, OH | On Site | Feb 05 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/698504a4348f733a5c392199?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 05 |
 | **[Northwest Youth Services](https://www.nwys.org)** | **[Data Specialist Internship](https://jobright.ai/jobs/info/698577368da7a612046013e8?utm_campaign=1066&utm_source=git)** | Bellingham, WA, US | On Site | Feb 05 |
-| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Data Intern](https://jobright.ai/jobs/info/698517238da7a612045f6fc9?utm_campaign=1066&utm_source=git)** | New York, NY, US | Hybrid | Feb 05 |
-| ↳ | **[Intern - Data Intern](https://jobright.ai/jobs/info/6985191f348f733a5c3943d0?utm_campaign=1066&utm_source=git)** | Albany, NY, US | Hybrid | Feb 05 |
+| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Data Intern](https://jobright.ai/jobs/info/6985191f348f733a5c3943d0?utm_campaign=1066&utm_source=git)** | Albany, NY, US | Hybrid | Feb 05 |
+| ↳ | **[Intern - Data Intern](https://jobright.ai/jobs/info/698517238da7a612045f6fc9?utm_campaign=1066&utm_source=git)** | New York, NY, US | Hybrid | Feb 05 |
 | ↳ | **[Intern - Data Intern](https://jobright.ai/jobs/info/6985123d8da7a612045f650a?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | ↳ | **[Intern - Data Intern](https://jobright.ai/jobs/info/698515f7348f733a5c393c8c?utm_campaign=1066&utm_source=git)** | Albany, NY | Hybrid | Feb 05 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Statistician and Data Scientist](https://jobright.ai/jobs/info/698510778da7a612045f60fe?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Feb 05 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Yearlong Data Analyst Intern-Strategic Business Initiatives](https://jobright.ai/jobs/info/6984eca40f6f7e7a2cdf6693?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Feb 05 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Bioinformatics Intern - Graduate Student](https://jobright.ai/jobs/info/6984eb718da7a612045f363b?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 05 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[Assessment & Institutional Effectiveness – Data Intern (FWS/NFWS)](https://jobright.ai/jobs/info/6984e9710f6f7e7a2cdf63cf?utm_campaign=1066&utm_source=git)** | AZ Phoenix | On Site | Feb 05 |
-| **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69851f568da7a612045f794e?utm_campaign=1066&utm_source=git)** | Remote - USA | Remote | Feb 05 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/698512d5348f733a5c393686?utm_campaign=1066&utm_source=git)** | Green Bay, WI | On Site | Feb 05 |
+| **[Barry-Wehmiller](https://www.barrywehmiller.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/698512d5348f733a5c393686?utm_campaign=1066&utm_source=git)** | Green Bay, WI | On Site | Feb 05 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/69851f568da7a612045f794e?utm_campaign=1066&utm_source=git)** | Remote - USA | Remote | Feb 05 |
 | **[APL Logistics](http://www.apllogistics.com/)** | **[Apprentice/Intern, Data Science and BI - (1st Shift) - Scottsdale](https://jobright.ai/jobs/info/6984e464348f733a5c390330?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | Hybrid | Feb 05 |
 | ↳ | **[Apprentice/Intern, Data Science & BI (WMS) - (1st Shift) - Scottsdale](https://jobright.ai/jobs/info/6984deb1348f733a5c38fd04?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | Hybrid | Feb 05 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Transportation Data Analyst](https://jobright.ai/jobs/info/6984dd230f6f7e7a2cdf5789?utm_campaign=1066&utm_source=git)** | Reston, VA | Remote | Feb 05 |
 | ↳ | **[2026 Summer Intern, Transportation Data Analyst](https://jobright.ai/jobs/info/6984d784348f733a5c38f4f7?utm_campaign=1066&utm_source=git)** | New York Remote Office (NY99) | Remote | Feb 05 |
-| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Summer 2026 - PK/PD intern](https://jobright.ai/jobs/info/6984d75f348f733a5c38f464?utm_campaign=1066&utm_source=git)** | Spring House, PA | On Site | Feb 05 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Summer 2026 - PK/PD intern](https://jobright.ai/jobs/info/6984d5a30f6f7e7a2cdf4c57?utm_campaign=1066&utm_source=git)** | Spring House, Pennsylvania, United States of America | Hybrid | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
