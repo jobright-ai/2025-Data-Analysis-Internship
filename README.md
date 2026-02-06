@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PACCAR Engine Company](https://jobs.paccar.com/)** | **[Data Analyst Intern Summer 2026](https://jobright.ai/jobs/info/6968646cf25a38006696d07e?utm_campaign=1066&utm_source=git)** | Columbus, MS | On Site | Feb 06 |
 | **[Nevada National Security Sites](https://www.nnss.gov/)** | **[Undergraduate Data Analyst for PowerBI Internship (Associate in Business - Levels I - IV)](https://jobright.ai/jobs/info/6969b44e639b452fb57fa2d6?utm_campaign=1066&utm_source=git)** | North Las Vegas, NV | On Site | Feb 06 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Data Scientist - Internship [Summer 2026]](https://jobright.ai/jobs/info/6912fc48ea9ab01b82bf6ce7?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Feb 06 |
 | **[Federal Home Loan Bank of Cincinnati](https://www.fhlbcin.com/)** | **[Business Intelligence Intern - Credit Services](https://jobright.ai/jobs/info/698186b3abff4c399aa09c3b?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 06 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Penske Truck Leasing](https://www.pensketruckleasing.com)** | **[IT Internship (Data Science)](https://jobright.ai/jobs/info/69852680348f733a5c39554c?utm_campaign=1066&utm_source=git)** | Beachwood, OH, United States | On Site | Feb 05 |
 | **[Sun Life](https://www.sunlife.com.vn/vn/)** | **[Data Science Intern, Health & Risk Solutions - Summer 2026](https://jobright.ai/jobs/info/698542c3348f733a5c398750?utm_campaign=1066&utm_source=git)** | Wellesley, MA | Hybrid | Feb 05 |
 | **[CAE](http://www.cae.com)** | **[C-GSS-175 Supplier Data Intern](https://jobright.ai/jobs/info/698543720f6f7e7a2cdfe641?utm_campaign=1066&utm_source=git)** | Montreal (St. Laurent) | Hybrid | Feb 05 |
-| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Image Data Analytics Intern](https://jobright.ai/jobs/info/698547600f6f7e7a2cdfed1a?utm_campaign=1066&utm_source=git)** | USA - Massachusetts - Cambridge (320 Bent Street) | Hybrid | Feb 05 |
-| ↳ | **[2026 Future Talent Program - Image Data Analytics Intern](https://jobright.ai/jobs/info/69854441348f733a5c3989cd?utm_campaign=1066&utm_source=git)** | USA - Massachusetts - Boston (MA Parcel B Laboratory) | Hybrid | Feb 05 |
+| **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Image Data Analytics Intern](https://jobright.ai/jobs/info/69854441348f733a5c3989cd?utm_campaign=1066&utm_source=git)** | USA - Massachusetts - Boston (MA Parcel B Laboratory) | Hybrid | Feb 05 |
+| ↳ | **[2026 Future Talent Program - Image Data Analytics Intern](https://jobright.ai/jobs/info/698547600f6f7e7a2cdfed1a?utm_campaign=1066&utm_source=git)** | USA - Massachusetts - Cambridge (320 Bent Street) | Hybrid | Feb 05 |
 | ↳ | **[2026 Future Talent Program - Bioinformatics Intern](https://jobright.ai/jobs/info/698540710f6f7e7a2cdfe035?utm_campaign=1066&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Feb 05 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Data Science Analyst Intern - BS/MBA (Santa Clara, CA)](https://jobright.ai/jobs/info/69855a4d8da7a612045fdc8e?utm_campaign=1066&utm_source=git)** | Santa Clara,CA | On Site | Feb 05 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Data Visualization and Application Development](https://jobright.ai/jobs/info/6985202b8da7a612045f7a5f?utm_campaign=1066&utm_source=git)** | Remote, USA | Remote | Feb 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Summer Intern, Transportation Data Analyst](https://jobright.ai/jobs/info/6984d784348f733a5c38f4f7?utm_campaign=1066&utm_source=git)** | New York Remote Office (NY99) | Remote | Feb 05 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Summer 2026 - PK/PD intern](https://jobright.ai/jobs/info/6984d75f348f733a5c38f464?utm_campaign=1066&utm_source=git)** | Spring House, PA | On Site | Feb 05 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Summer 2026 - PK/PD intern](https://jobright.ai/jobs/info/6984d5a30f6f7e7a2cdf4c57?utm_campaign=1066&utm_source=git)** | Spring House, Pennsylvania, United States of America | Hybrid | Feb 05 |
-| **[Iron Mountain](http://www.ironmountain.com)** | **[Commercial Data Analytics Intern](https://jobright.ai/jobs/info/6984d5508da7a612045f1c09?utm_campaign=1066&utm_source=git)** | US | MA | Boston | 33 Arch Street | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
