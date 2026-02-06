@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Molex](http://www.molex.com)** | **[Molex 2026 Search Analyst Internship](https://jobright.ai/jobs/info/6968330b639b452fb57dcdc0?utm_campaign=1066&utm_source=git)** | Lisle, IL | On Site | Feb 05 |
+| **[IBM](http://www.ibm.com)** | **[AI & Automation Data Scientist Intern (May 2026 - 4 month - Toronto, Ottawa or Montreal)](https://jobright.ai/jobs/info/6984756c8da7a612045e9ec6?utm_campaign=1066&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Feb 05 |
 | **[T. Rowe Price Singapore](https://www.troweprice.com/sg)** | **[2026 Procurement Internship](https://jobright.ai/jobs/info/698584590f6f7e7a2ce056a3?utm_campaign=1066&utm_source=git)** | Owings Mills, MD | Hybrid | Feb 05 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Analytics Development Program Internship](https://jobright.ai/jobs/info/6984ef3a348f733a5c390bea?utm_campaign=1066&utm_source=git)** | Eden Prairie, MN | Hybrid | Feb 05 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Bioinformatics Intern](https://jobright.ai/jobs/info/6985716f348f733a5c39d9fd?utm_campaign=1066&utm_source=git)** | Cambridge, MA | Hybrid | Feb 05 |
@@ -90,6 +92,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Information Technology](https://jobright.ai/jobs/info/698541c0348f733a5c398546?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Feb 05 |
 | **[Instacart](https://www.instacart.com)** | **[Data Science PhD Intern](https://jobright.ai/jobs/info/698565f0348f733a5c39c519?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 05 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/698541198da7a612045fb330?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Feb 05 |
+| **[Airgas](http://airgas.com/)** | **[Research Intern](https://jobright.ai/jobs/info/698599ed0f6f7e7a2ce07a74?utm_campaign=1066&utm_source=git)** | Newark, DE (ICD) | On Site | Feb 05 |
 | **[Imperial Oil](http://www.imperialoil.ca)** | **[Data Scientist - Intern - Calgary - May 2026](https://jobright.ai/jobs/info/696998dc1703f05405ab98d9?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 05 |
 | **[First Horizon Bank](https://www.firsthorizon.com/pmc)** | **[Intern - Information Technology](https://jobright.ai/jobs/info/69853cf3348f733a5c397bb6?utm_campaign=1066&utm_source=git)** | Metairie, LA | On Site | Feb 05 |
 | ↳ | **[Intern - Information Technology](https://jobright.ai/jobs/info/69853b1d0f6f7e7a2cdfd50d?utm_campaign=1066&utm_source=git)** | Maryville, TN | On Site | Feb 05 |
@@ -133,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Cintas](https://www.cintas.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698507a48da7a612045f50d7?utm_campaign=1066&utm_source=git)** | Mason, OH | On Site | Feb 05 |
 | **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/698504a4348f733a5c392199?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 05 |
 | **[Northwest Youth Services](https://www.nwys.org)** | **[Data Specialist Internship](https://jobright.ai/jobs/info/698577368da7a612046013e8?utm_campaign=1066&utm_source=git)** | Bellingham, WA, US | On Site | Feb 05 |
-| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Data Intern](https://jobright.ai/jobs/info/698517238da7a612045f6fc9?utm_campaign=1066&utm_source=git)** | New York, NY, US | Hybrid | Feb 05 |
-| ↳ | **[Intern - Data Intern](https://jobright.ai/jobs/info/6985191f348f733a5c3943d0?utm_campaign=1066&utm_source=git)** | Albany, NY, US | Hybrid | Feb 05 |
+| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Data Intern](https://jobright.ai/jobs/info/6985191f348f733a5c3943d0?utm_campaign=1066&utm_source=git)** | Albany, NY, US | Hybrid | Feb 05 |
+| ↳ | **[Intern - Data Intern](https://jobright.ai/jobs/info/698517238da7a612045f6fc9?utm_campaign=1066&utm_source=git)** | New York, NY, US | Hybrid | Feb 05 |
 | ↳ | **[Intern - Data Intern](https://jobright.ai/jobs/info/6985123d8da7a612045f650a?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
 | ↳ | **[Intern - Data Intern](https://jobright.ai/jobs/info/698515f7348f733a5c393c8c?utm_campaign=1066&utm_source=git)** | Albany, NY | Hybrid | Feb 05 |
 | **[Genentech](http://gene.com)** | **[2026 Summer Intern - Statistician and Data Scientist](https://jobright.ai/jobs/info/698510778da7a612045f60fe?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Feb 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Statistician and Data Scientist](https://jobright.ai/jobs/info/6984d5280f6f7e7a2cdf4b32?utm_campaign=1066&utm_source=git)** | South San Francisco | On Site | Feb 05 |
 | **[PrizePicks](https://prizepicks.com)** | **[Data Science Internship - Summer 2026](https://jobright.ai/jobs/info/6984cc600f6f7e7a2cdf3bde?utm_campaign=1066&utm_source=git)** | Atlanta, Georgia, United States | On Site | Feb 05 |
 | **[Henkel](http://www.henkel.com)** | **[Information Technology & Data Analytics Intern – Summer 2026](https://jobright.ai/jobs/info/69818ad949964d25b5e49eac?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Feb 05 |
-| **[Roku](https://www.roku.com)** | **[Analytics & Insights Intern](https://jobright.ai/jobs/info/6984aa4f348f733a5c38c4d8?utm_campaign=1066&utm_source=git)** | New York, New York | Hybrid | Feb 05 |
-| ↳ | **[Analytics & Insights Intern](https://jobright.ai/jobs/info/6984a69d8da7a612045ee991?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 05 |
-| **[ZURU Toys](https://www.zuru.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6968a3031703f05405aa7528?utm_campaign=1066&utm_source=git)** | Los Angeles County, CA | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
