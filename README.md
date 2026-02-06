@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Logistics Data Analyst Intern](https://jobright.ai/jobs/info/698632bf8da7a6120460e4ec?utm_campaign=1066&utm_source=git)** | 2400 Boston St, Baltimore, MD, 21224, US | On Site | Feb 06 |
+| **[Telligen](https://www.telligen.com/)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/69862d8c0f6f7e7a2ce10e3a?utm_campaign=1066&utm_source=git)** | West Des Moines, IA | On Site | Feb 06 |
+| **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[SIA Summer 2026 Internship](https://jobright.ai/jobs/info/69862c418ca8121a3a685a65?utm_campaign=1066&utm_source=git)** | Horsham, PA | On Site | Feb 06 |
+| **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Data Intern](https://jobright.ai/jobs/info/698626f68da7a6120460d5b9?utm_campaign=1066&utm_source=git)** | Irving, TX, United States | On Site | Feb 06 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/698622ac8da7a6120460ce4a?utm_campaign=1066&utm_source=git)** | Champaign, IL | On Site | Feb 06 |
 | **[Geotab](http://www.geotab.com/)** | **[Data Scientist Intern (Summer/May 2026, 4-8 Months)](https://jobright.ai/jobs/info/6986208a0f6f7e7a2ce0f7e4?utm_campaign=1066&utm_source=git)** | Atlanta, Georgia - USA | Hybrid | Feb 06 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern](https://jobright.ai/jobs/info/696a4f95db26b618950d79c5?utm_campaign=1066&utm_source=git)** | Mountain View, CA | Hybrid | Feb 06 |
@@ -67,9 +71,10 @@ For a complete list, click the following sortable link below:
 | **[PBS Distribution](http://pbsdistribution.org)** | **[Summer Intern - Business Intelligence (Hybrid, Paid)](https://jobright.ai/jobs/info/698617b98da7a6120460c248?utm_campaign=1066&utm_source=git)** | Arlington, VA | Hybrid | Feb 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6978535a39f7f96cc6d0c05c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Feb 06 |
 | **[Franklin Templeton](http://www.franklintempleton.com)** | **[Intern](https://jobright.ai/jobs/info/696a1e0cdb26b618950d4d7e?utm_campaign=1066&utm_source=git)** | Shanghai, VA | On Site | Feb 06 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[SIA Summer 2026 Internship](https://jobright.ai/jobs/info/698626a68ca8121a3a684dec?utm_campaign=1066&utm_source=git)** | Titusville, New Jersey, United States of America | Hybrid | Feb 06 |
+| **[Vortexion Labs](vortexionlabs.us)** | **[Procurement & Data Management Intern - Summer 2026](https://jobright.ai/jobs/info/6986259d8ca8121a3a684b9c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 06 |
 | **[Morrison Foerster](http://www.mofo.com)** | **[Scientific Analyst Intern](https://jobright.ai/jobs/info/6916096a6f36db06ef052662?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Feb 06 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Technical Data Analyst Intern](https://jobright.ai/jobs/info/6985fbf30f6f7e7a2ce0e012?utm_campaign=1066&utm_source=git)** | Dayton Metropolitan Area | On Site | Feb 06 |
-| **[Telligen](https://www.telligen.com/)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/69861dbf8da7a6120460c62c?utm_campaign=1066&utm_source=git)** | West Des Moines, IA | On Site | Feb 06 |
 | **[Quill](http://www.quill.com)** | **[Quill Data Science Intern - June 2026](https://jobright.ai/jobs/info/6914bd7f286ccf0a15128236?utm_campaign=1066&utm_source=git)** | Lincolnshire, IL | Hybrid | Feb 06 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Data Science](https://jobright.ai/jobs/info/6984fc270f6f7e7a2cdf741b?utm_campaign=1066&utm_source=git)** | Boise, ID | On Site | Feb 06 |
 | **[State of Missouri](http://mo.gov)** | **[Intern - 5020213](https://jobright.ai/jobs/info/690c938d221b890c277fee38?utm_campaign=1066&utm_source=git)** | Rolla, MO | On Site | Feb 06 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TMX Group](http://www.tmx.com)** | **[Fixed Income and Reference Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69850eae348f733a5c392d8c?utm_campaign=1066&utm_source=git)** | Toronto - 100 Adelaide St W | Hybrid | Feb 05 |
 | **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern - Data Intern](https://jobright.ai/jobs/info/69850cfb0f6f7e7a2cdf8633?utm_campaign=1066&utm_source=git)** | Albany, NY, US | Hybrid | Feb 05 |
 | **[MVB Bank](https://mvbbanking.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6973f34a37785856350dcb50?utm_campaign=1066&utm_source=git)** | United, WV | Remote | Feb 05 |
-| **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Data Science Internship](https://jobright.ai/jobs/info/69850a778da7a612045f53af?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 05 |
-| **[Cintas](https://www.cintas.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698507a48da7a612045f50d7?utm_campaign=1066&utm_source=git)** | Mason, OH | On Site | Feb 05 |
-| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/698504a4348f733a5c392199?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 05 |
-| **[Northwest Youth Services](https://www.nwys.org)** | **[Data Specialist Internship](https://jobright.ai/jobs/info/698577368da7a612046013e8?utm_campaign=1066&utm_source=git)** | Bellingham, WA, US | On Site | Feb 05 |
-| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Data Intern](https://jobright.ai/jobs/info/6985191f348f733a5c3943d0?utm_campaign=1066&utm_source=git)** | Albany, NY, US | Hybrid | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
