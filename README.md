@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IBM](http://www.ibm.com)** | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/6983d56c01214b4cdacbe722?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 06 |
+| **[Craftwater](http://craftwater.com)** | **[Watershed Analyst Intern](https://jobright.ai/jobs/info/6986d1d68da7a6120461d683?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Feb 06 |
+| **[Xometry](https://www.xometry.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/6986cfe10f6f7e7a2ce20084?utm_campaign=1066&utm_source=git)** | Waltham, MA | Hybrid | Feb 06 |
+| **[IBM](http://www.ibm.com)** | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/6983836f348f733a5c36900e?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Feb 06 |
+| ↳ | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/6983d56c01214b4cdacbe722?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 06 |
 | ↳ | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/6984848d0f6f7e7a2cdee756?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Feb 06 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/696afbd6350cf43803123955?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Feb 06 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - AML Analytics](https://jobright.ai/jobs/info/6986c3740f6f7e7a2ce1e749?utm_campaign=1066&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Feb 06 |
@@ -80,11 +83,11 @@ For a complete list, click the following sortable link below:
 | **[National Retail Federation](http://www.nrf.com)** | **[Digital Analytics intern](https://jobright.ai/jobs/info/6986c40f0f6f7e7a2ce1e7db?utm_campaign=1066&utm_source=git)** | Washington,DC,US | Hybrid | Feb 06 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - AML Analytics](https://jobright.ai/jobs/info/6986a2be8da7a61204617f48?utm_campaign=1066&utm_source=git)** | Birmingham, AL, US | On Site | Feb 06 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698667ef8ca8121a3a68a980?utm_campaign=1066&utm_source=git)** | Oconomowoc, WI | On Site | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986a6950f6f7e7a2ce1b250?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
-| ↳ | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986ad498da7a61204619168?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Feb 06 |
-| **[GSK](http://www.gsk.com)** | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a48d0f6f7e7a2ce1af59?utm_campaign=1066&utm_source=git)** | US-Durham NC/Onsite | Hybrid | Feb 06 |
-| ↳ | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a8f98ca8121a3a68ff17?utm_campaign=1066&utm_source=git)** | Durham NC/Onsite, UNAVAILABLE, 
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986ad498da7a61204619168?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Feb 06 |
+| ↳ | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986a6950f6f7e7a2ce1b250?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| **[GSK](http://www.gsk.com)** | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a8f98ca8121a3a68ff17?utm_campaign=1066&utm_source=git)** | Durham NC/Onsite, UNAVAILABLE, 
 US | Hybrid | Feb 06 |
+| ↳ | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a48d0f6f7e7a2ce1af59?utm_campaign=1066&utm_source=git)** | US-Durham NC/Onsite | Hybrid | Feb 06 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Real World Research Intern](https://jobright.ai/jobs/info/6986805f8ca8121a3a68ce3c?utm_campaign=1066&utm_source=git)** | Titusville, NJ | On Site | Feb 06 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/69867dd78ca8121a3a68ca71?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Feb 06 |
 | **[Stats Perform](http://statsperform.com)** | **[Data Insights Intern](https://jobright.ai/jobs/info/69867aa98da7a612046146aa?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 06 |
@@ -137,8 +140,8 @@ US | Hybrid | Feb 06 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/69865ee30f6f7e7a2ce14759?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 06 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Logistics Data Analyst Intern](https://jobright.ai/jobs/info/698632bf8da7a6120460e4ec?utm_campaign=1066&utm_source=git)** | 2400 Boston St, Baltimore, MD, 21224, US | On Site | Feb 06 |
 | **[Vallourec - North America](https://www.vallourec.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/698658758ca8121a3a688f6d?utm_campaign=1066&utm_source=git)** | Houston, Texas, United States | On Site | Feb 06 |
-| **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - CD&A Data Science Program (Summer 2026)](https://jobright.ai/jobs/info/69865bb80f6f7e7a2ce14139?utm_campaign=1066&utm_source=git)** | United States - Remote | Remote | Feb 06 |
-| ↳ | **[Grad Intern - CD&A Data Science Program (Summer 2026)](https://jobright.ai/jobs/info/698670380f6f7e7a2ce1694b?utm_campaign=1066&utm_source=git)** | United States - Remote | Remote | Feb 06 |
+| **[Amgen](http://www.amgen.com)** | **[Grad Intern - CD&A Data Science Program (Summer 2026)](https://jobright.ai/jobs/info/698670380f6f7e7a2ce1694b?utm_campaign=1066&utm_source=git)** | United States - Remote | Remote | Feb 06 |
+| ↳ | **[Undergrad Intern - CD&A Data Science Program (Summer 2026)](https://jobright.ai/jobs/info/69865bb80f6f7e7a2ce14139?utm_campaign=1066&utm_source=git)** | United States - Remote | Remote | Feb 06 |
 | **[Telligen](https://www.telligen.com/)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/69862d8c0f6f7e7a2ce10e3a?utm_campaign=1066&utm_source=git)** | West Des Moines, IA | On Site | Feb 06 |
 | **[TA Instruments](http://www.tainstruments.com)** | **[Business Data Analytics Intern, Customer Experience](https://jobright.ai/jobs/info/698665d28ca8121a3a68a5b6?utm_campaign=1066&utm_source=git)** | 01757 | On Site | Feb 06 |
 | ↳ | **[Business Data Analytics Intern, Customer Experience](https://jobright.ai/jobs/info/698667400f6f7e7a2ce1585b?utm_campaign=1066&utm_source=git)** | Milford, MA, US | On Site | Feb 06 |
@@ -155,7 +158,4 @@ US | Hybrid | Feb 06 |
 | **[BMO](http://www.bmo.com)** | **[Data Analyst Intern, Business Banking,  Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69861ae40f6f7e7a2ce0f456?utm_campaign=1066&utm_source=git)** | Toronto, ON, CAN | On Site | Feb 06 |
 | **[PBS Distribution](http://pbsdistribution.org)** | **[Summer Intern - Business Intelligence (Hybrid, Paid)](https://jobright.ai/jobs/info/698617b98da7a6120460c248?utm_campaign=1066&utm_source=git)** | Arlington, VA | Hybrid | Feb 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6978535a39f7f96cc6d0c05c?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Feb 06 |
-| **[DAP](http://www.dap.com/)** | **[Logistics Data Analyst Intern](https://jobright.ai/jobs/info/69863b960f6f7e7a2ce11e2c?utm_campaign=1066&utm_source=git)** | 2400 Boston St, Baltimore, MD, 21224, US | On Site | Feb 06 |
-| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/69863aa98da7a6120460ebef?utm_campaign=1066&utm_source=git)** | Oconomowoc, Wisconsin | On Site | Feb 06 |
-| **[Franklin Templeton](http://www.franklintempleton.com)** | **[Intern](https://jobright.ai/jobs/info/696a1e0cdb26b618950d4d7e?utm_campaign=1066&utm_source=git)** | Shanghai, VA | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
