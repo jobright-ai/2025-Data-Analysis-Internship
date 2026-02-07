@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6982c95b348f733a5c35c616?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 07 |
+| **[RoboStruct Technologies](robostructtechnologies.us)** | **[Procurement Data Analytics & Automation Intern](https://jobright.ai/jobs/info/69878c288da7a61204629ebd?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 07 |
+| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Feb 07 |
+| **[Kargo](http://www.kargo.com)** | **[Intern, Research & Insights](https://jobright.ai/jobs/info/6987871c0f6f7e7a2ce2ca1a?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
+| **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/696b1033db26b618950e89c4?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/6984bc6f8da7a612045efbc7?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
 | ↳ | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/698497200f6f7e7a2cdf0a96?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b90d85fc86241853af24b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 07 |
@@ -142,7 +147,6 @@ US | Hybrid | Feb 06 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/698669760f6f7e7a2ce15cc1?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Feb 06 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Intern - Data Analyst (Summer 2026)](https://jobright.ai/jobs/info/6986839e8ca8121a3a68d259?utm_campaign=1066&utm_source=git)** | Québec, Québec | Hybrid | Feb 06 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Bioinformatics Intern (PhD Degree level)](https://jobright.ai/jobs/info/698671568ca8121a3a68b8d5?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Hybrid | Feb 06 |
-| **[Microsoft](https://www.microsoft.com)** | **[Quantitative Researcher: Internship Opportunities](https://jobright.ai/jobs/info/69874d208da7a612046268e5?utm_campaign=1066&utm_source=git)** | United States, Washington, Redmond | Hybrid | Feb 06 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Data Intern](https://jobright.ai/jobs/info/698667e28ca8121a3a68a970?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Feb 06 |
 | **[Waters Corporation](http://www.waters.com)** | **[Business Data Analytics Intern, Customer Experience](https://jobright.ai/jobs/info/6986667e0f6f7e7a2ce156e9?utm_campaign=1066&utm_source=git)** | Milford, MA | On Site | Feb 06 |
 | **[University of Rochester – River Campus Libraries](https://www.library.rochester.edu/)** | **[Collections accessibility analyst - Intern](https://jobright.ai/jobs/info/698661ef8da7a61204611b07?utm_campaign=1066&utm_source=git)** | Rochester, NY | On Site | Feb 06 |
@@ -154,8 +158,4 @@ US | Hybrid | Feb 06 |
 | **[Muon Space](https://www.muonspace.com)** | **[Data Analyst Intern (Summer 2026)](https://jobright.ai/jobs/info/69863ee68ca8121a3a686e73?utm_campaign=1066&utm_source=git)** | Woodbridge, VA | On Site | Feb 06 |
 | **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Content Analytics Intern](https://jobright.ai/jobs/info/698665568ca8121a3a68a4c4?utm_campaign=1066&utm_source=git)** | BJ's Club Support Center Marlborough, MA #5997 | Hybrid | Feb 06 |
 | **[Pew Research Center](http://pewresearch.org)** | **[Undergraduate Intern, Global, Pew Research Center Summer 2026](https://jobright.ai/jobs/info/696a9806350cf438031188b2?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Feb 06 |
-| **[BeiGene](https://www.beigene.com)** | **[Summer Internship: R&D Quality Data Insights Intern (Remote)](https://jobright.ai/jobs/info/698678868da7a61204614379?utm_campaign=1066&utm_source=git)** | Remote (US) | Remote | Feb 06 |
-| **[BMO](http://www.bmo.com)** | **[Data Analyst Intern, Business Banking, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69865aa00f6f7e7a2ce13f24?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 06 |
-| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698667430f6f7e7a2ce15862?utm_campaign=1066&utm_source=git)** | Oconomowoc, Wisconsin | On Site | Feb 06 |
-| **[Impinj](http://www.impinj.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69863a1e8da7a6120460eb4c?utm_campaign=1066&utm_source=git)** | Seattle, Washington, United States | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
