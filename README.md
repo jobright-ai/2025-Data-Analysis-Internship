@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sanofi](https://www.sanofi.com)** | **[Biostatistics Evidence Generation & Decision Sciences (EGDS)- Summer 2026 Intern](https://jobright.ai/jobs/info/698714e60f6f7e7a2ce25831?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Feb 07 |
+| ↳ | **[Biostatistics Evidence Generation & Decision Sciences (EGDS)- Summer 2026 Intern](https://jobright.ai/jobs/info/698714a80f6f7e7a2ce25823?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Feb 07 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Data Science Undergraduate Intern](https://jobright.ai/jobs/info/698705e78ca8121a3a698a62?utm_campaign=1066&utm_source=git)** | Hopkinton, MA | On Site | Feb 07 |
 | ↳ | **[Data Science Undergraduate Intern](https://jobright.ai/jobs/info/698703190f6f7e7a2ce23e75?utm_campaign=1066&utm_source=git)** | Round Rock, TX | On Site | Feb 07 |
 | **[Calgary Chamber of Commerce](https://www.calgarychamber.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6986fb7e8da7a61204620b7a?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 07 |
@@ -65,8 +67,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/6983d56c01214b4cdacbe722?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 06 |
 | ↳ | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/6984848d0f6f7e7a2cdee756?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Feb 06 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/696afbd6350cf43803123955?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Feb 06 |
-| **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - AML Analytics](https://jobright.ai/jobs/info/6986c3740f6f7e7a2ce1e749?utm_campaign=1066&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Feb 06 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Data Analytics - California](https://jobright.ai/jobs/info/6986bd4b8da7a6120461a921?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Feb 06 |
 | **[Columbus Blue Jackets](http://bluejackets.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6986ab938ca8121a3a690657?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Feb 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Content Research Insights & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6981f8840f6f7e7a2cdb1f22?utm_campaign=1066&utm_source=git)** | Burbank, CA | On Site | Feb 06 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6986c6e88da7a6120461bbb8?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 06 |
@@ -85,11 +85,11 @@ For a complete list, click the following sortable link below:
 | **[National Retail Federation](http://www.nrf.com)** | **[Digital Analytics intern](https://jobright.ai/jobs/info/6986c40f0f6f7e7a2ce1e7db?utm_campaign=1066&utm_source=git)** | Washington,DC,US | Hybrid | Feb 06 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - AML Analytics](https://jobright.ai/jobs/info/6986a2be8da7a61204617f48?utm_campaign=1066&utm_source=git)** | Birmingham, AL, US | On Site | Feb 06 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698667ef8ca8121a3a68a980?utm_campaign=1066&utm_source=git)** | Oconomowoc, WI | On Site | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986a6950f6f7e7a2ce1b250?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
-| ↳ | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986ad498da7a61204619168?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Feb 06 |
-| **[GSK](http://www.gsk.com)** | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a8f98ca8121a3a68ff17?utm_campaign=1066&utm_source=git)** | Durham NC/Onsite, UNAVAILABLE, 
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986ad498da7a61204619168?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Feb 06 |
+| ↳ | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986a6950f6f7e7a2ce1b250?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| **[GSK](http://www.gsk.com)** | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a48d0f6f7e7a2ce1af59?utm_campaign=1066&utm_source=git)** | US-Durham NC/Onsite | Hybrid | Feb 06 |
+| ↳ | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a8f98ca8121a3a68ff17?utm_campaign=1066&utm_source=git)** | Durham NC/Onsite, UNAVAILABLE, 
 US | Hybrid | Feb 06 |
-| ↳ | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a48d0f6f7e7a2ce1af59?utm_campaign=1066&utm_source=git)** | US-Durham NC/Onsite | Hybrid | Feb 06 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Real World Research Intern](https://jobright.ai/jobs/info/6986805f8ca8121a3a68ce3c?utm_campaign=1066&utm_source=git)** | Titusville, NJ | On Site | Feb 06 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/69867dd78ca8121a3a68ca71?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Feb 06 |
 | **[Stats Perform](http://statsperform.com)** | **[Data Insights Intern](https://jobright.ai/jobs/info/69867aa98da7a612046146aa?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 06 |
