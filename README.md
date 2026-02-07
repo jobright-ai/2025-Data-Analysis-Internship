@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California Association of Food Banks](https://www.cafoodbanks.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/6983d57b01214b4cdacbe759?utm_campaign=1066&utm_source=git)** | Oakland (Hybrid Position) | Hybrid | Feb 07 |
+| **[Genmab](https://www.genmab.com)** | **[Center for Outcomes Research, Real World Evidence and Epidemiology (CORE) Intern](https://jobright.ai/jobs/info/693385f9f131d96e48464105?utm_campaign=1066&utm_source=git)** | Princeton, NJ | Hybrid | Feb 07 |
+| **[IBM](http://www.ibm.com)** | **[2026 Senior Data Scientist Intern - Corporate Development (M&A)](https://jobright.ai/jobs/info/6967f87b1703f05405a99632?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Feb 07 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b8fcf350cf4380312e929?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 07 |
 | ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/696b84595fc86241853aec0c?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Feb 07 |
 | **[Microsoft](https://www.microsoft.com)** | **[Quantitative Researcher: Internship Opportunities](https://jobright.ai/jobs/info/6987364b8da7a61204624913?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Feb 07 |
@@ -84,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern](https://jobright.ai/jobs/info/696abda6350cf4380311c922?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Feb 06 |
 | **[Stats Perform](http://statsperform.com)** | **[U.S. Sports Data Intern](https://jobright.ai/jobs/info/698682cc8ca8121a3a68d138?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Instacart](https://www.instacart.com)** | **[Data Science PhD Intern](https://jobright.ai/jobs/info/698565f0348f733a5c39c519?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 06 |
-| ↳ | **[Data Science PhD Intern](https://jobright.ai/jobs/info/698563380f6f7e7a2ce01f50?utm_campaign=1066&utm_source=git)** | Canada | Remote | Feb 06 |
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Intern, Data Intelligence](https://jobright.ai/jobs/info/696aafe55fc862418539b646?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | **[National Retail Federation](http://www.nrf.com)** | **[Digital Analytics intern](https://jobright.ai/jobs/info/6986c40f0f6f7e7a2ce1e7db?utm_campaign=1066&utm_source=git)** | Washington,DC,US | Hybrid | Feb 06 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - AML Analytics](https://jobright.ai/jobs/info/6986a2be8da7a61204617f48?utm_campaign=1066&utm_source=git)** | Birmingham, AL, US | On Site | Feb 06 |
@@ -121,6 +123,7 @@ US | Hybrid | Feb 06 |
 | **[Sally Beauty](https://www.sallybeauty.com/)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/698669760f6f7e7a2ce15cc1?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Feb 06 |
 | **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Intern - Data Analyst (Summer 2026)](https://jobright.ai/jobs/info/6986839e8ca8121a3a68d259?utm_campaign=1066&utm_source=git)** | Québec, Québec | Hybrid | Feb 06 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Bioinformatics Intern (PhD Degree level)](https://jobright.ai/jobs/info/698671568ca8121a3a68b8d5?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Hybrid | Feb 06 |
+| **[Microsoft](https://www.microsoft.com)** | **[Quantitative Researcher: Internship Opportunities](https://jobright.ai/jobs/info/69874d208da7a612046268e5?utm_campaign=1066&utm_source=git)** | United States, Washington, Redmond | Hybrid | Feb 06 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Data Intern](https://jobright.ai/jobs/info/698667e28ca8121a3a68a970?utm_campaign=1066&utm_source=git)** | Irving, TX | On Site | Feb 06 |
 | **[Waters Corporation](http://www.waters.com)** | **[Business Data Analytics Intern, Customer Experience](https://jobright.ai/jobs/info/6986667e0f6f7e7a2ce156e9?utm_campaign=1066&utm_source=git)** | Milford, MA | On Site | Feb 06 |
 | **[University of Rochester – River Campus Libraries](https://www.library.rochester.edu/)** | **[Collections accessibility analyst - Intern](https://jobright.ai/jobs/info/698661ef8da7a61204611b07?utm_campaign=1066&utm_source=git)** | Rochester, NY | On Site | Feb 06 |
@@ -148,14 +151,11 @@ US | Hybrid | Feb 06 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - CD&A Data Science Program (Summer 2026)](https://jobright.ai/jobs/info/69865bb80f6f7e7a2ce14139?utm_campaign=1066&utm_source=git)** | United States - Remote | Remote | Feb 06 |
 | ↳ | **[Grad Intern - CD&A Data Science Program (Summer 2026)](https://jobright.ai/jobs/info/698670380f6f7e7a2ce1694b?utm_campaign=1066&utm_source=git)** | United States - Remote | Remote | Feb 06 |
 | **[Telligen](https://www.telligen.com/)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/69862d8c0f6f7e7a2ce10e3a?utm_campaign=1066&utm_source=git)** | West Des Moines, IA | On Site | Feb 06 |
-| **[TA Instruments](http://www.tainstruments.com)** | **[Business Data Analytics Intern, Customer Experience](https://jobright.ai/jobs/info/698667400f6f7e7a2ce1585b?utm_campaign=1066&utm_source=git)** | Milford, MA, US | On Site | Feb 06 |
-| ↳ | **[Business Data Analytics Intern, Customer Experience](https://jobright.ai/jobs/info/698665d28ca8121a3a68a5b6?utm_campaign=1066&utm_source=git)** | 01757 | On Site | Feb 06 |
+| **[TA Instruments](http://www.tainstruments.com)** | **[Business Data Analytics Intern, Customer Experience](https://jobright.ai/jobs/info/698665d28ca8121a3a68a5b6?utm_campaign=1066&utm_source=git)** | 01757 | On Site | Feb 06 |
+| ↳ | **[Business Data Analytics Intern, Customer Experience](https://jobright.ai/jobs/info/698667400f6f7e7a2ce1585b?utm_campaign=1066&utm_source=git)** | Milford, MA, US | On Site | Feb 06 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[SIA Summer 2026 Internship](https://jobright.ai/jobs/info/69862c418ca8121a3a685a65?utm_campaign=1066&utm_source=git)** | Horsham, PA | On Site | Feb 06 |
 | **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Data Intern](https://jobright.ai/jobs/info/698626f68da7a6120460d5b9?utm_campaign=1066&utm_source=git)** | Irving, TX, United States | On Site | Feb 06 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/698622ac8da7a6120460ce4a?utm_campaign=1066&utm_source=git)** | Champaign, IL | On Site | Feb 06 |
 | **[Geotab](http://www.geotab.com/)** | **[Data Scientist Intern (Summer/May 2026, 4-8 Months)](https://jobright.ai/jobs/info/6986208a0f6f7e7a2ce0f7e4?utm_campaign=1066&utm_source=git)** | Atlanta, Georgia - USA | Hybrid | Feb 06 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern](https://jobright.ai/jobs/info/696a4f95db26b618950d79c5?utm_campaign=1066&utm_source=git)** | Mountain View, CA | Hybrid | Feb 06 |
-| **[Wichita State University](http://www.wichita.edu)** | **[NIAR ATLAS Data Science Student Assistant](https://jobright.ai/jobs/info/698641340f6f7e7a2ce12368?utm_campaign=1066&utm_source=git)** | Wichita, KS | On Site | Feb 06 |
-| **[Impinj](http://www.impinj.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69863cc90f6f7e7a2ce11f14?utm_campaign=1066&utm_source=git)** | Seattle, WA | Hybrid | Feb 06 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Data Science Analyst Intern - BS/MBA (Santa Clara, CA)](https://jobright.ai/jobs/info/69861ce68ca8121a3a684283?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
