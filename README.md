@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/6984bc6f8da7a612045efbc7?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
+| ↳ | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/698497200f6f7e7a2cdf0a96?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b90d85fc86241853af24b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b91125fc86241853af297?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 07 |
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b8393db26b618950f0792?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Feb 07 |
@@ -156,6 +158,4 @@ US | Hybrid | Feb 06 |
 | **[BMO](http://www.bmo.com)** | **[Data Analyst Intern, Business Banking, Summer 2026 (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/69865aa00f6f7e7a2ce13f24?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 06 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698667430f6f7e7a2ce15862?utm_campaign=1066&utm_source=git)** | Oconomowoc, Wisconsin | On Site | Feb 06 |
 | **[Impinj](http://www.impinj.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69863a1e8da7a6120460eb4c?utm_campaign=1066&utm_source=git)** | Seattle, Washington, United States | Hybrid | Feb 06 |
-| **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/69865e408ca8121a3a6899da?utm_campaign=1066&utm_source=git)** | Plano, TX, United States | Hybrid | Feb 06 |
-| **[May Institute](https://www.mayinstitute.org)** | **[Unpaid Research Intern](https://jobright.ai/jobs/info/69865d3c0f6f7e7a2ce14449?utm_campaign=1066&utm_source=git)** | Wilmington, MA, USA | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
