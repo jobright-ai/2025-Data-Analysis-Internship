@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maxterial, Inc.](https://www.maxterial.com)** | **[Internship in Statistics (Graduate Students)](https://jobright.ai/jobs/info/6988ea360f6f7e7a2ce40531?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 08 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Feb 08 |
 | ↳ | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Feb 08 |
 | **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Strategic Intelligence Intern](https://jobright.ai/jobs/info/6988c3e80f6f7e7a2ce3f82e?utm_campaign=1066&utm_source=git)** | Topeka, KS | Hybrid | Feb 08 |
@@ -157,5 +158,4 @@ US | Hybrid | Feb 06 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Data Intern](https://jobright.ai/jobs/info/6986339c8da7a6120460e68a?utm_campaign=1066&utm_source=git)** | 6221 Riverside Drive, Irving, TX, 75039, US | On Site | Feb 06 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Bioinformatics Intern (PhD Degree level)](https://jobright.ai/jobs/info/69866a130f6f7e7a2ce15e0b?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | Feb 06 |
 | **[Guardian Capital Group](http://www.guardiancapital.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/698669bc8ca8121a3a68acd3?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 06 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Real World Research Intern](https://jobright.ai/jobs/info/6986846f8da7a61204615520?utm_campaign=1066&utm_source=git)** | Titusville, New Jersey, United States of America | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
