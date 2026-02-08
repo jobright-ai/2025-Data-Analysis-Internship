@@ -120,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[National Retail Federation](http://www.nrf.com)** | **[Digital Analytics intern](https://jobright.ai/jobs/info/6986c40f0f6f7e7a2ce1e7db?utm_campaign=1066&utm_source=git)** | Washington,DC,US | Hybrid | Feb 06 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - AML Analytics](https://jobright.ai/jobs/info/6986a2be8da7a61204617f48?utm_campaign=1066&utm_source=git)** | Birmingham, AL, US | On Site | Feb 06 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698667ef8ca8121a3a68a980?utm_campaign=1066&utm_source=git)** | Oconomowoc, WI | On Site | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986ad498da7a61204619168?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Feb 06 |
-| ↳ | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986a6950f6f7e7a2ce1b250?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986a6950f6f7e7a2ce1b250?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| ↳ | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986ad498da7a61204619168?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Feb 06 |
 | **[GSK](http://www.gsk.com)** | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a8f98ca8121a3a68ff17?utm_campaign=1066&utm_source=git)** | Durham NC/Onsite, UNAVAILABLE, 
 US | Hybrid | Feb 06 |
 | ↳ | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a48d0f6f7e7a2ce1af59?utm_campaign=1066&utm_source=git)** | US-Durham NC/Onsite | Hybrid | Feb 06 |
