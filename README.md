@@ -117,12 +117,13 @@ For a complete list, click the following sortable link below:
 | **[HSB - Hartford Steam Boiler](http://www.hsb.com)** | **[Intern](https://jobright.ai/jobs/info/696abda6350cf4380311c922?utm_campaign=1066&utm_source=git)** | Hartford, CT | Hybrid | Feb 06 |
 | **[Stats Perform](http://statsperform.com)** | **[U.S. Sports Data Intern](https://jobright.ai/jobs/info/698682cc8ca8121a3a68d138?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Instacart](https://www.instacart.com)** | **[Data Science PhD Intern](https://jobright.ai/jobs/info/698565f0348f733a5c39c519?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 06 |
+| ↳ | **[Data Science PhD Intern](https://jobright.ai/jobs/info/698563380f6f7e7a2ce01f50?utm_campaign=1066&utm_source=git)** | Canada | Remote | Feb 06 |
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Intern, Data Intelligence](https://jobright.ai/jobs/info/696aafe55fc862418539b646?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
 | **[National Retail Federation](http://www.nrf.com)** | **[Digital Analytics intern](https://jobright.ai/jobs/info/6986c40f0f6f7e7a2ce1e7db?utm_campaign=1066&utm_source=git)** | Washington,DC,US | Hybrid | Feb 06 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - AML Analytics](https://jobright.ai/jobs/info/6986a2be8da7a61204617f48?utm_campaign=1066&utm_source=git)** | Birmingham, AL, US | On Site | Feb 06 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698667ef8ca8121a3a68a980?utm_campaign=1066&utm_source=git)** | Oconomowoc, WI | On Site | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986ad498da7a61204619168?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Feb 06 |
-| ↳ | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986a6950f6f7e7a2ce1b250?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986a6950f6f7e7a2ce1b250?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| ↳ | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986ad498da7a61204619168?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Feb 06 |
 | **[GSK](http://www.gsk.com)** | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a8f98ca8121a3a68ff17?utm_campaign=1066&utm_source=git)** | Durham NC/Onsite, UNAVAILABLE, 
 US | Hybrid | Feb 06 |
 | ↳ | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a48d0f6f7e7a2ce1af59?utm_campaign=1066&utm_source=git)** | US-Durham NC/Onsite | Hybrid | Feb 06 |
@@ -157,5 +158,4 @@ US | Hybrid | Feb 06 |
 | **[Waters Corporation](http://www.waters.com)** | **[Business Data Analytics Intern, Customer Experience](https://jobright.ai/jobs/info/6986667e0f6f7e7a2ce156e9?utm_campaign=1066&utm_source=git)** | Milford, MA | On Site | Feb 06 |
 | **[University of Rochester – River Campus Libraries](https://www.library.rochester.edu/)** | **[Collections accessibility analyst - Intern](https://jobright.ai/jobs/info/698661ef8da7a61204611b07?utm_campaign=1066&utm_source=git)** | Rochester, NY | On Site | Feb 06 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Advanced Analytics Summer Intern (Masters)](https://jobright.ai/jobs/info/6986606f8ca8121a3a689d4e?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 06 |
-| **[Vallourec - North America](https://www.vallourec.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69865df18ca8121a3a68995c?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
