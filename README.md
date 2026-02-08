@@ -57,9 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[BioSpace](http://www.biospace.com/)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/6988b58b0f6f7e7a2ce3e02e?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Feb 08 |
-| ↳ | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/6988b53c0f6f7e7a2ce3e012?utm_campaign=1066&utm_source=git)** | Florham Park, NJ | On Site | Feb 08 |
-| ↳ | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/6988b50c8da7a6120463b91a?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Feb 08 |
+| **[Blue Cross and Blue Shield of Kansas](http://www.bcbsks.com)** | **[Strategic Intelligence Intern](https://jobright.ai/jobs/info/6988c3e80f6f7e7a2ce3f82e?utm_campaign=1066&utm_source=git)** | Topeka, KS | Hybrid | Feb 08 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Computational Social Science](https://jobright.ai/jobs/info/69342f9df131d96e48469e60?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Feb 08 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (PhD 2026)](https://jobright.ai/jobs/info/68cd1f74e23def7af55b59b8?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Feb 08 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2026 Summer]](https://jobright.ai/jobs/info/68cf1297fb49c96ca6ea5a5d?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Feb 08 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Manufacturing Data Analyst - Whitehall, MI (Summer 2026)](https://jobright.ai/jobs/info/696c3c145fc86241853b6ee8?utm_campaign=1066&utm_source=git)** | Whitehall, MI | On Site | Feb 08 |
@@ -82,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Kargo](http://www.kargo.com)** | **[Intern, Research & Insights](https://jobright.ai/jobs/info/6987871c0f6f7e7a2ce2ca1a?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
 | **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/696b1033db26b618950e89c4?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/6984bc6f8da7a612045efbc7?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
-| ↳ | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/698497200f6f7e7a2cdf0a96?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b90d85fc86241853af24b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b91125fc86241853af297?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 07 |
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b8393db26b618950f0792?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Feb 07 |
@@ -133,9 +131,9 @@ For a complete list, click the following sortable link below:
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698667ef8ca8121a3a68a980?utm_campaign=1066&utm_source=git)** | Oconomowoc, WI | On Site | Feb 06 |
 | **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986ad498da7a61204619168?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Feb 06 |
 | ↳ | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986a6950f6f7e7a2ce1b250?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
-| **[GSK](http://www.gsk.com)** | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a8f98ca8121a3a68ff17?utm_campaign=1066&utm_source=git)** | Durham NC/Onsite, UNAVAILABLE, 
+| **[GSK](http://www.gsk.com)** | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a48d0f6f7e7a2ce1af59?utm_campaign=1066&utm_source=git)** | US-Durham NC/Onsite | Hybrid | Feb 06 |
+| ↳ | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a8f98ca8121a3a68ff17?utm_campaign=1066&utm_source=git)** | Durham NC/Onsite, UNAVAILABLE, 
 US | Hybrid | Feb 06 |
-| ↳ | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a48d0f6f7e7a2ce1af59?utm_campaign=1066&utm_source=git)** | US-Durham NC/Onsite | Hybrid | Feb 06 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Real World Research Intern](https://jobright.ai/jobs/info/6986805f8ca8121a3a68ce3c?utm_campaign=1066&utm_source=git)** | Titusville, NJ | On Site | Feb 06 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/69867dd78ca8121a3a68ca71?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Feb 06 |
 | **[Stats Perform](http://statsperform.com)** | **[Data Insights Intern](https://jobright.ai/jobs/info/69867aa98da7a612046146aa?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 06 |
@@ -158,4 +156,6 @@ US | Hybrid | Feb 06 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69866ead8da7a612046134d2?utm_campaign=1066&utm_source=git)** | Champaign, IL | On Site | Feb 06 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Data Intern](https://jobright.ai/jobs/info/6986339c8da7a6120460e68a?utm_campaign=1066&utm_source=git)** | 6221 Riverside Drive, Irving, TX, 75039, US | On Site | Feb 06 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Bioinformatics Intern (PhD Degree level)](https://jobright.ai/jobs/info/69866a130f6f7e7a2ce15e0b?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | Feb 06 |
+| **[Guardian Capital Group](http://www.guardiancapital.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/698669bc8ca8121a3a68acd3?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 06 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Real World Research Intern](https://jobright.ai/jobs/info/6986846f8da7a61204615520?utm_campaign=1066&utm_source=git)** | Titusville, New Jersey, United States of America | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
