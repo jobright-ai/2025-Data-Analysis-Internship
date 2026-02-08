@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | **[Kargo](http://www.kargo.com)** | **[Intern, Research & Insights](https://jobright.ai/jobs/info/6987c5780f6f7e7a2ce30129?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[Ericsson](https://www.ericsson.com)** | **[Data Analyst intern](https://jobright.ai/jobs/info/6987bf690f6f7e7a2ce2ffda?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 07 |
 | **[Community Bridges](https://www.communitybridgesnh.org)** | **[[Summer 2026] Data Research Internship](https://jobright.ai/jobs/info/6987a8e38ca8121a3a6a299c?utm_campaign=1066&utm_source=git)** | Concord, NH | Hybrid | Feb 07 |
-| **[Maxterial, Inc.](https://www.maxterial.com)** | **[Internship in Statistics (Graduate Students)](https://jobright.ai/jobs/info/698797d60f6f7e7a2ce2d484?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 07 |
 | **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Data Intern](https://jobright.ai/jobs/info/698797290f6f7e7a2ce2d3c9?utm_campaign=1066&utm_source=git)** | Irving, TX | Hybrid | Feb 07 |
 | **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6982c95b348f733a5c35c616?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 07 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Feb 07 |
@@ -122,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[National Retail Federation](http://www.nrf.com)** | **[Digital Analytics intern](https://jobright.ai/jobs/info/6986c40f0f6f7e7a2ce1e7db?utm_campaign=1066&utm_source=git)** | Washington,DC,US | Hybrid | Feb 06 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - AML Analytics](https://jobright.ai/jobs/info/6986a2be8da7a61204617f48?utm_campaign=1066&utm_source=git)** | Birmingham, AL, US | On Site | Feb 06 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698667ef8ca8121a3a68a980?utm_campaign=1066&utm_source=git)** | Oconomowoc, WI | On Site | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986a6950f6f7e7a2ce1b250?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
-| ↳ | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986ad498da7a61204619168?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Feb 06 |
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986ad498da7a61204619168?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Feb 06 |
+| ↳ | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986a6950f6f7e7a2ce1b250?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
 | **[GSK](http://www.gsk.com)** | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a8f98ca8121a3a68ff17?utm_campaign=1066&utm_source=git)** | Durham NC/Onsite, UNAVAILABLE, 
 US | Hybrid | Feb 06 |
 | ↳ | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a48d0f6f7e7a2ce1af59?utm_campaign=1066&utm_source=git)** | US-Durham NC/Onsite | Hybrid | Feb 06 |
@@ -158,4 +157,5 @@ US | Hybrid | Feb 06 |
 | **[Waters Corporation](http://www.waters.com)** | **[Business Data Analytics Intern, Customer Experience](https://jobright.ai/jobs/info/6986667e0f6f7e7a2ce156e9?utm_campaign=1066&utm_source=git)** | Milford, MA | On Site | Feb 06 |
 | **[University of Rochester – River Campus Libraries](https://www.library.rochester.edu/)** | **[Collections accessibility analyst - Intern](https://jobright.ai/jobs/info/698661ef8da7a61204611b07?utm_campaign=1066&utm_source=git)** | Rochester, NY | On Site | Feb 06 |
 | **[Blue Cross NC](https://www.bluecrossnc.com/)** | **[Advanced Analytics Summer Intern (Masters)](https://jobright.ai/jobs/info/6986606f8ca8121a3a689d4e?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 06 |
+| **[Vallourec - North America](https://www.vallourec.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69865df18ca8121a3a68995c?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
