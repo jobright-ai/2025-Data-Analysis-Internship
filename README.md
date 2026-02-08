@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/6988b58b0f6f7e7a2ce3e02e?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Feb 08 |
+| ↳ | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/6988b53c0f6f7e7a2ce3e012?utm_campaign=1066&utm_source=git)** | Florham Park, NJ | On Site | Feb 08 |
+| ↳ | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/6988b50c8da7a6120463b91a?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Feb 08 |
+| **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (PhD 2026)](https://jobright.ai/jobs/info/68cd1f74e23def7af55b59b8?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Feb 08 |
 | **[Two Sigma](https://www.twosigma.com/)** | **[Quantitative Researcher - Internship [2026 Summer]](https://jobright.ai/jobs/info/68cf1297fb49c96ca6ea5a5d?utm_campaign=1066&utm_source=git)** | New York, United States | Hybrid | Feb 08 |
 | **[Howmet Aerospace](https://www.howmet.com)** | **[Intern - Manufacturing Data Analyst - Whitehall, MI (Summer 2026)](https://jobright.ai/jobs/info/696c3c145fc86241853b6ee8?utm_campaign=1066&utm_source=git)** | Whitehall, MI | On Site | Feb 08 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/68e5dfefae2b894b1d714b11?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Feb 08 |
@@ -154,8 +158,4 @@ US | Hybrid | Feb 06 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69866ead8da7a612046134d2?utm_campaign=1066&utm_source=git)** | Champaign, IL | On Site | Feb 06 |
 | **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Data Intern](https://jobright.ai/jobs/info/6986339c8da7a6120460e68a?utm_campaign=1066&utm_source=git)** | 6221 Riverside Drive, Irving, TX, 75039, US | On Site | Feb 06 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Bioinformatics Intern (PhD Degree level)](https://jobright.ai/jobs/info/69866a130f6f7e7a2ce15e0b?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | Feb 06 |
-| **[Guardian Capital Group](http://www.guardiancapital.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/698669bc8ca8121a3a68acd3?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 06 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Real World Research Intern](https://jobright.ai/jobs/info/6986846f8da7a61204615520?utm_campaign=1066&utm_source=git)** | Titusville, New Jersey, United States of America | Hybrid | Feb 06 |
-| **[Sally Beauty](https://www.sallybeauty.com/)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/698669760f6f7e7a2ce15cc1?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Feb 06 |
-| **[iA Financial Group (Industrial Alliance)](http://ia.ca)** | **[Intern - Data Analyst (Summer 2026)](https://jobright.ai/jobs/info/6986839e8ca8121a3a68d259?utm_campaign=1066&utm_source=git)** | Québec, Québec | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
