@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HNTB](http://www.hntb.com/)** | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a3d130f6f7e7a2ce54e10?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 09 |
+| **[The Clorox Company](https://www.thecloroxcompany.com)** | **[Data Analytics Intern (Part-time days)](https://jobright.ai/jobs/info/698a3be70f6f7e7a2ce54ce3?utm_campaign=1066&utm_source=git)** | Spring Hill, KS - USA | On Site | Feb 09 |
+| **[METRO Regional Transit Authority](http://www.yourmetrobus.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/698a39230f6f7e7a2ce549e7?utm_campaign=1066&utm_source=git)** | Akron, OH | On Site | Feb 09 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Data Platform & Analytics Intern](https://jobright.ai/jobs/info/698a35374db8972cecff74cd?utm_campaign=1066&utm_source=git)** | GA-ATLANTA, 740 W PEACHTREE ST NW | Hybrid | Feb 09 |
 | **[Federal Reserve Bank of New York](http://newyorkfed.org/)** | **[PhD - Summer Research Intern](https://jobright.ai/jobs/info/698a2bed4db8972cecff6f43?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
 | **[HNTB](http://www.hntb.com/)** | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a28c24db8972cecff6cdf?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Feb 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sanofi](https://www.sanofi.com)** | **[Biostatistics Evidence Generation & Decision Sciences (EGDS)- Summer 2026 Intern](https://jobright.ai/jobs/info/698714e60f6f7e7a2ce25831?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Feb 07 |
 | ↳ | **[Biostatistics Evidence Generation & Decision Sciences (EGDS)- Summer 2026 Intern](https://jobright.ai/jobs/info/698714a80f6f7e7a2ce25823?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Feb 07 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Data Science Undergraduate Intern](https://jobright.ai/jobs/info/698705e78ca8121a3a698a62?utm_campaign=1066&utm_source=git)** | Hopkinton, MA | On Site | Feb 07 |
-| ↳ | **[Data Science Undergraduate Intern](https://jobright.ai/jobs/info/698703190f6f7e7a2ce23e75?utm_campaign=1066&utm_source=git)** | Round Rock, TX | On Site | Feb 07 |
-| **[Calgary Chamber of Commerce](https://www.calgarychamber.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6986fb7e8da7a61204620b7a?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 07 |
-| **[Craftwater](http://craftwater.com)** | **[Watershed Analyst Intern](https://jobright.ai/jobs/info/6986d1d68da7a6120461d683?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
