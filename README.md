@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schonfeld](http://www.schonfeld.com/)** | **[2026 PhD Quant Research Summer Intern - Miami Area](https://jobright.ai/jobs/info/68cd9382e23def7af55bbf05?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Feb 09 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/69782d9c39f7f96cc6d06fe2?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 09 |
 | ↳ | **[Data Scientist Intern (TikTok-Product-Data Science)-2026 Summer (PhD)](https://jobright.ai/jobs/info/69782e0688e2b47213bc32ce?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Feb 09 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Retail Analyst](https://jobright.ai/jobs/info/68c93516f9c6ff7aedf18c31?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
@@ -144,11 +145,11 @@ For a complete list, click the following sortable link below:
 | **[National Retail Federation](http://www.nrf.com)** | **[Digital Analytics intern](https://jobright.ai/jobs/info/6986c40f0f6f7e7a2ce1e7db?utm_campaign=1066&utm_source=git)** | Washington,DC,US | Hybrid | Feb 06 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - AML Analytics](https://jobright.ai/jobs/info/6986a2be8da7a61204617f48?utm_campaign=1066&utm_source=git)** | Birmingham, AL, US | On Site | Feb 06 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698667ef8ca8121a3a68a980?utm_campaign=1066&utm_source=git)** | Oconomowoc, WI | On Site | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986ad498da7a61204619168?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Feb 06 |
-| ↳ | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986a6950f6f7e7a2ce1b250?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
-| **[GSK](http://www.gsk.com)** | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a48d0f6f7e7a2ce1af59?utm_campaign=1066&utm_source=git)** | US-Durham NC/Onsite | Hybrid | Feb 06 |
-| ↳ | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a8f98ca8121a3a68ff17?utm_campaign=1066&utm_source=git)** | Durham NC/Onsite, UNAVAILABLE, 
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986a6950f6f7e7a2ce1b250?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| ↳ | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986ad498da7a61204619168?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Feb 06 |
+| **[GSK](http://www.gsk.com)** | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a8f98ca8121a3a68ff17?utm_campaign=1066&utm_source=git)** | Durham NC/Onsite, UNAVAILABLE, 
 US | Hybrid | Feb 06 |
+| ↳ | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a48d0f6f7e7a2ce1af59?utm_campaign=1066&utm_source=git)** | US-Durham NC/Onsite | Hybrid | Feb 06 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Real World Research Intern](https://jobright.ai/jobs/info/6986805f8ca8121a3a68ce3c?utm_campaign=1066&utm_source=git)** | Titusville, NJ | On Site | Feb 06 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/69867dd78ca8121a3a68ca71?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Feb 06 |
 | **[Stats Perform](http://statsperform.com)** | **[Data Insights Intern](https://jobright.ai/jobs/info/69867aa98da7a612046146aa?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 06 |
@@ -157,5 +158,4 @@ US | Hybrid | Feb 06 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Junior Strategic Analyst](https://jobright.ai/jobs/info/69745c5437785856350e7597?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Feb 06 |
 | **[Stats Perform](http://statsperform.com)** | **[Data Insights Intern](https://jobright.ai/jobs/info/698667fd8da7a612046126dc?utm_campaign=1066&utm_source=git)** | Home, LA, LA, 1111, US | On Site | Feb 06 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Data Science Internship, 2026](https://jobright.ai/jobs/info/68ccf59477add66568abc9d2?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Feb 06 |
-| **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6986872c8ca8121a3a68d615?utm_campaign=1066&utm_source=git)** | Loves Park, IL | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
