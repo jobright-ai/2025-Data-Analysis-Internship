@@ -74,6 +74,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Data Scientist Intern (TikTok Shop Business Product DS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6978531a39f7f96cc6d0be5d?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 08 |
 | ↳ | **[Data Analyst Intern (TikTok Shop AMS Data Science) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6977f8ea88e2b47213bc0744?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 08 |
 | **[Colorado Housing and Finance Authority](https://www.chfainfo.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69881a098da7a612046331c8?utm_campaign=1066&utm_source=git)** | Denver - Denver, CO 80202 | Hybrid | Feb 07 |
+| **[IBM](http://www.ibm.com)** | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/698962740f6f7e7a2ce461b8?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Feb 07 |
+| ↳ | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/69895e528ca8121a3a6ba245?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
+| ↳ | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/6989584147434001cc677779?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 07 |
 | **[Labcorp](https://www.labcorp.com)** | **[Intern - Bioinformatics](https://jobright.ai/jobs/info/6987e4e28ca8121a3a6a4e49?utm_campaign=1066&utm_source=git)** | Baltimore, MD | On Site | Feb 07 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Research & Insights](https://jobright.ai/jobs/info/6987c5780f6f7e7a2ce30129?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[Ericsson](https://www.ericsson.com)** | **[Data Analyst intern](https://jobright.ai/jobs/info/6987bf690f6f7e7a2ce2ffda?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 07 |
@@ -113,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Craftwater](http://craftwater.com)** | **[Watershed Analyst Intern](https://jobright.ai/jobs/info/6986d1d68da7a6120461d683?utm_campaign=1066&utm_source=git)** | San Diego, CA | Hybrid | Feb 06 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - AML Analytics](https://jobright.ai/jobs/info/698821790f6f7e7a2ce364e0?utm_campaign=1066&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Feb 06 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/696afbd6350cf43803123955?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Feb 06 |
+| **[Chicago Atlantic](https://www.chicagoatlantic.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/6989623a47434001cc678080?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 06 |
 | **[Columbus Blue Jackets](http://bluejackets.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6986ab938ca8121a3a690657?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Feb 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Content Research Insights & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6981f8840f6f7e7a2cdb1f22?utm_campaign=1066&utm_source=git)** | Burbank, CA | On Site | Feb 06 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6986c6e88da7a6120461bbb8?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 06 |
@@ -154,8 +158,4 @@ US | Hybrid | Feb 06 |
 | **[World Vision](http://www.worldvision.org/)** | **[Impact Data Analytics Intern](https://jobright.ai/jobs/info/698650b80f6f7e7a2ce134f6?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 06 |
 | **[TTX Company](http://www.ttx.com)** | **[Year-Round Data Governance Intern](https://jobright.ai/jobs/info/69745820bc8e722e7b196765?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Feb 06 |
 | **[Stripe](https://stripe.com)** | **[Data Analyst, Intern (Master's degree)](https://jobright.ai/jobs/info/697917f439f7f96cc6d17412?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 06 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/69866ead8da7a612046134d2?utm_campaign=1066&utm_source=git)** | Champaign, IL | On Site | Feb 06 |
-| **[Hilltop Holdings](http://hilltop-holdings.com)** | **[Data Intern](https://jobright.ai/jobs/info/6986339c8da7a6120460e68a?utm_campaign=1066&utm_source=git)** | 6221 Riverside Drive, Irving, TX, 75039, US | On Site | Feb 06 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Bioinformatics Intern (PhD Degree level)](https://jobright.ai/jobs/info/69866a130f6f7e7a2ce15e0b?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | Feb 06 |
-| **[Guardian Capital Group](http://www.guardiancapital.com)** | **[Data Science Intern (Summer 2026)](https://jobright.ai/jobs/info/698669bc8ca8121a3a68acd3?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
