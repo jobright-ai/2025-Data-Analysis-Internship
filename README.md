@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[Data science intern](https://jobright.ai/jobs/info/69898f2d47434001cc67bae6?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 08 |
+| **[GenPark](https://genpark.ai)** | **[Data Science Researcher](https://jobright.ai/jobs/info/6989abc18ca8121a3a6beebd?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 09 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Research Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68cea39edbd9fb154ede1787?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 09 |
+| ↳ | **[Quantitative Research Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68cd08d1e23def7af55b3c96?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Feb 09 |
+| ↳ | **[Quantitative Systematic Trading Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68c8fa5095f5211cd2cec77c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 09 |
+| ↳ | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68cc6b78128dc347fd92494c?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 09 |
+| ↳ | **[Quantitative Research Internship – Master's: Summer 2026](https://jobright.ai/jobs/info/68cd78d5b2a74e1837ed7440?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 09 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/6989964b8ca8121a3a6be432?utm_campaign=1066&utm_source=git)** | Hillsboro, OR | On Site | Feb 09 |
 | **[Ciena](http://www.ciena.com)** | **[Friends and Family :Data Scientist Intern - Services BI & Analytics](https://jobright.ai/jobs/info/698971938ca8121a3a6bcc49?utm_campaign=1066&utm_source=git)** | Montreal | On Site | Feb 08 |
 | **[Maxterial, Inc.](https://www.maxterial.com)** | **[Internship in Statistics (Graduate Students)](https://jobright.ai/jobs/info/6988ea360f6f7e7a2ce40531?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 08 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Feb 08 |
@@ -111,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b8fcf350cf4380312e929?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 07 |
 | ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/696b84595fc86241853aec0c?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Feb 07 |
 | **[Microsoft](https://www.microsoft.com)** | **[Quantitative Researcher: Internship Opportunities](https://jobright.ai/jobs/info/6987364b8da7a61204624913?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Feb 07 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC Research, Insights & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/698204bca314e76369056652?utm_campaign=1066&utm_source=git)** | Burbank, CA | On Site | Feb 07 |
 | **[Sanofi](https://www.sanofi.com)** | **[Biostatistics Evidence Generation & Decision Sciences (EGDS)- Summer 2026 Intern](https://jobright.ai/jobs/info/698714e60f6f7e7a2ce25831?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Feb 07 |
 | ↳ | **[Biostatistics Evidence Generation & Decision Sciences (EGDS)- Summer 2026 Intern](https://jobright.ai/jobs/info/698714a80f6f7e7a2ce25823?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Feb 07 |
 | **[Dell Technologies](https://www.delltechnologies.com)** | **[Data Science Undergraduate Intern](https://jobright.ai/jobs/info/698705e78ca8121a3a698a62?utm_campaign=1066&utm_source=git)** | Hopkinton, MA | On Site | Feb 07 |
@@ -121,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - AML Analytics](https://jobright.ai/jobs/info/698821790f6f7e7a2ce364e0?utm_campaign=1066&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Feb 06 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/696afbd6350cf43803123955?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Feb 06 |
 | **[Columbus Blue Jackets](http://bluejackets.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/6986ab938ca8121a3a690657?utm_campaign=1066&utm_source=git)** | Columbus, OH | On Site | Feb 06 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Content Research Insights & Analytics Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6981f8840f6f7e7a2cdb1f22?utm_campaign=1066&utm_source=git)** | Burbank, CA | On Site | Feb 06 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6986c6e88da7a6120461bbb8?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 06 |
 | **[Affinius Capital](https://affiniuscapital.com)** | **[Research Data Scientist Intern](https://jobright.ai/jobs/info/696ae374db26b618950e422a?utm_campaign=1066&utm_source=git)** | San Antonio, Texas Metropolitan Area | On Site | Feb 06 |
 | **[Kubota Tractor Corporation](https://linktr.ee/kubotausa)** | **[Summer 2026 Internship - (Predicition Modeling/Data Analytics)](https://jobright.ai/jobs/info/696a893f5fc862418539808a?utm_campaign=1066&utm_source=git)** | Grapevine, TX | On Site | Feb 06 |
@@ -154,8 +158,4 @@ US | Hybrid | Feb 06 |
 | **[Woodward, Inc.](https://www.woodward.com/careers/)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/6986872c8ca8121a3a68d615?utm_campaign=1066&utm_source=git)** | Loves Park, IL | On Site | Feb 06 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Strategic Sourcing Intern](https://jobright.ai/jobs/info/69865f8a0f6f7e7a2ce14895?utm_campaign=1066&utm_source=git)** | Oconomowoc, WI | On Site | Feb 06 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Stanford Rebele Data Science Intern, Summer 2026](https://jobright.ai/jobs/info/696aa7365fc8624185399f4f?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 06 |
-| **[Dropbox](https://www.dropbox.com)** | **[Research and Insights Intern (Summer 2026)](https://jobright.ai/jobs/info/6973cc5ebc8e722e7b189b07?utm_campaign=1066&utm_source=git)** | Remote - US: All locations | Remote | Feb 06 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Bioinformatics Intern (PhD Degree level)](https://jobright.ai/jobs/info/69865c3f8da7a61204611255?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Hybrid | Feb 06 |
-| **[May Institute](https://www.mayinstitute.org)** | **[Unpaid Research Intern](https://jobright.ai/jobs/info/6986802e8da7a61204614f48?utm_campaign=1066&utm_source=git)** | Wilmington, MA | On Site | Feb 06 |
-| **[Stats Perform](http://statsperform.com)** | **[U.S. Sports Data Intern](https://jobright.ai/jobs/info/698675770f6f7e7a2ce16f5a?utm_campaign=1066&utm_source=git)** | Home, LA, LA, 1111, US | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
