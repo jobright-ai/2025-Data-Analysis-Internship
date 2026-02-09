@@ -57,18 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HNTB](http://www.hntb.com/)** | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a3d130f6f7e7a2ce54e10?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 09 |
+| **[HNTB](http://www.hntb.com/)** | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a484a4db8972cecff877e?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Feb 09 |
+| **[TTX Company](http://www.ttx.com)** | **[Year-Round Data Governance Intern](https://jobright.ai/jobs/info/69745820bc8e722e7b196765?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Feb 09 |
+| **[HNTB](http://www.hntb.com/)** | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a433347434001cc6878a9?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Feb 09 |
+| **[IVX Health](https://www.ivxhealth.com/)** | **[Summer Internship - Data Analytics](https://jobright.ai/jobs/info/698a28bf4db8972cecff6cd9?utm_campaign=1066&utm_source=git)** | Brentwood, Tennessee, United States | On Site | Feb 09 |
+| **[HNTB](http://www.hntb.com/)** | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a3f2147434001cc6873fc?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 09 |
+| ↳ | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a3d130f6f7e7a2ce54e10?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 09 |
 | **[The Clorox Company](https://www.thecloroxcompany.com)** | **[Data Analytics Intern (Part-time days)](https://jobright.ai/jobs/info/698a3be70f6f7e7a2ce54ce3?utm_campaign=1066&utm_source=git)** | Spring Hill, KS - USA | On Site | Feb 09 |
 | **[METRO Regional Transit Authority](http://www.yourmetrobus.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/698a39230f6f7e7a2ce549e7?utm_campaign=1066&utm_source=git)** | Akron, OH | On Site | Feb 09 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Data Platform & Analytics Intern](https://jobright.ai/jobs/info/698a35374db8972cecff74cd?utm_campaign=1066&utm_source=git)** | GA-ATLANTA, 740 W PEACHTREE ST NW | Hybrid | Feb 09 |
 | **[Federal Reserve Bank of New York](http://newyorkfed.org/)** | **[PhD - Summer Research Intern](https://jobright.ai/jobs/info/698a2bed4db8972cecff6f43?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
 | **[HNTB](http://www.hntb.com/)** | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a28c24db8972cecff6cdf?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Feb 09 |
-| **[IVX Health](https://www.ivxhealth.com/)** | **[Summer Internship - Data Analytics](https://jobright.ai/jobs/info/698a28bf4db8972cecff6cd9?utm_campaign=1066&utm_source=git)** | Brentwood, Tennessee, United States | On Site | Feb 09 |
-| **[HNTB](http://www.hntb.com/)** | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a282f47434001cc6862a8?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Feb 09 |
+| ↳ | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a282f47434001cc6862a8?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Feb 09 |
 | **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/698a27ef4db8972cecff6bf0?utm_campaign=1066&utm_source=git)** | NYC Metro Area | Hybrid | Feb 09 |
 | **[HNTB](http://www.hntb.com/)** | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a26de0f6f7e7a2ce53e2f?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 09 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Summer 2026 - IT Operation Technology & Strategy (OT&S) - Student Internship](https://jobright.ai/jobs/info/698a248f47434001cc685f08?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Feb 09 |
-| **[Trinity Logistics](https://trinitylogistics.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698a208347434001cc685b48?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 09 |
 | **[HNTB](http://www.hntb.com/)** | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a20020f6f7e7a2ce537a5?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Feb 09 |
 | ↳ | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a1fb247434001cc6859fb?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 09 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[PhD - Summer Research Intern](https://jobright.ai/jobs/info/698a1ef30f6f7e7a2ce535b7?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b8fcf350cf4380312e929?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 07 |
 | ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/696b84595fc86241853aec0c?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Feb 07 |
 | **[Microsoft](https://www.microsoft.com)** | **[Quantitative Researcher: Internship Opportunities](https://jobright.ai/jobs/info/6987364b8da7a61204624913?utm_campaign=1066&utm_source=git)** | Redmond, WA | Hybrid | Feb 07 |
-| **[Sanofi](https://www.sanofi.com)** | **[Biostatistics Evidence Generation & Decision Sciences (EGDS)- Summer 2026 Intern](https://jobright.ai/jobs/info/698714e60f6f7e7a2ce25831?utm_campaign=1066&utm_source=git)** | Morristown, NJ | On Site | Feb 07 |
-| ↳ | **[Biostatistics Evidence Generation & Decision Sciences (EGDS)- Summer 2026 Intern](https://jobright.ai/jobs/info/698714a80f6f7e7a2ce25823?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Feb 07 |
-| **[Dell Technologies](https://www.delltechnologies.com)** | **[Data Science Undergraduate Intern](https://jobright.ai/jobs/info/698705e78ca8121a3a698a62?utm_campaign=1066&utm_source=git)** | Hopkinton, MA | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
