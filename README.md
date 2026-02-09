@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Farmers Insurance](https://www.farmers.com)** | **[Data Scientist Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI/ Warwick, RI](https://jobright.ai/jobs/info/696d7b1fdb26b61895107505?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 09 |
+| **[State Street](https://www.statestreet.com/)** | **[State Street - Model Risk Management - Quantitative Analyst Summer Internship 2026](https://jobright.ai/jobs/info/6989f6684db8972cecff3941?utm_campaign=1066&utm_source=git)** | Boston, Massachusetts | On Site | Feb 09 |
+| ↳ | **[State Street - Model Risk Management - Quantitative Analyst Summer Internship 2026](https://jobright.ai/jobs/info/6989efb30f6f7e7a2ce508e7?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Feb 09 |
+| **[Girl Scouts of Eastern Missouri](https://www.girlscoutsem.org/)** | **[Data Quality Intern- Summer 2026](https://jobright.ai/jobs/info/6989ef3f47434001cc682b40?utm_campaign=1066&utm_source=git)** | Girl Scouts of Eastern Missouri - SAINT LOUIS, MO 63146 | Hybrid | Feb 09 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Model Risk Management - Quantitative Analyst Summer Internship 2026](https://jobright.ai/jobs/info/6989ed4a47434001cc6828c5?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Feb 09 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Decision Science Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI/ Warwick, RI](https://jobright.ai/jobs/info/696d7a9f350cf438031442c1?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 09 |
 | **[Schonfeld](http://www.schonfeld.com/)** | **[2026 PhD Quant Research Summer Intern - Miami Area](https://jobright.ai/jobs/info/68cd9382e23def7af55bbf05?utm_campaign=1066&utm_source=git)** | Miami, FL | On Site | Feb 09 |
@@ -145,17 +149,13 @@ For a complete list, click the following sortable link below:
 | **[National Retail Federation](http://www.nrf.com)** | **[Digital Analytics intern](https://jobright.ai/jobs/info/6986c40f0f6f7e7a2ce1e7db?utm_campaign=1066&utm_source=git)** | Washington,DC,US | Hybrid | Feb 06 |
 | **[StoneX Group Inc.](https://www.stonex.com/)** | **[Intern - AML Analytics](https://jobright.ai/jobs/info/6986a2be8da7a61204617f48?utm_campaign=1066&utm_source=git)** | Birmingham, AL, US | On Site | Feb 06 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698667ef8ca8121a3a68a980?utm_campaign=1066&utm_source=git)** | Oconomowoc, WI | On Site | Feb 06 |
-| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986ad498da7a61204619168?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Feb 06 |
-| ↳ | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986a6950f6f7e7a2ce1b250?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
-| **[GSK](http://www.gsk.com)** | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a48d0f6f7e7a2ce1af59?utm_campaign=1066&utm_source=git)** | US-Durham NC/Onsite | Hybrid | Feb 06 |
-| ↳ | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a8f98ca8121a3a68ff17?utm_campaign=1066&utm_source=git)** | Durham NC/Onsite, UNAVAILABLE, 
+| **[Ascension](https://healthcare.ascension.org)** | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986a6950f6f7e7a2ce1b250?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 06 |
+| ↳ | **[IT Intern - Clinical Informatics](https://jobright.ai/jobs/info/6986ad498da7a61204619168?utm_campaign=1066&utm_source=git)** | US-Remote | Remote | Feb 06 |
+| **[GSK](http://www.gsk.com)** | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a8f98ca8121a3a68ff17?utm_campaign=1066&utm_source=git)** | Durham NC/Onsite, UNAVAILABLE, 
 US | Hybrid | Feb 06 |
+| ↳ | **[Summer Intern/Data Strategy & Operations](https://jobright.ai/jobs/info/6986a48d0f6f7e7a2ce1af59?utm_campaign=1066&utm_source=git)** | US-Durham NC/Onsite | Hybrid | Feb 06 |
 | **[Johnson & Johnson Innovative Medicine](https://www.janssen.com/johnson-johnson-innovative-medicine)** | **[Real World Research Intern](https://jobright.ai/jobs/info/6986805f8ca8121a3a68ce3c?utm_campaign=1066&utm_source=git)** | Titusville, NJ | On Site | Feb 06 |
 | **[CosmoProf Beauty](http://www.cosmoprofbeauty.com)** | **[Full Service Operations Intern](https://jobright.ai/jobs/info/69867dd78ca8121a3a68ca71?utm_campaign=1066&utm_source=git)** | Plano, TX | Hybrid | Feb 06 |
 | **[Stats Perform](http://statsperform.com)** | **[Data Insights Intern](https://jobright.ai/jobs/info/69867aa98da7a612046146aa?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 06 |
 | **[Fortrea](https://www.fortrea.com)** | **[Intern - Bioinformatics](https://jobright.ai/jobs/info/698698ad0f6f7e7a2ce1a166?utm_campaign=1066&utm_source=git)** | Baltimore MD | On Site | Feb 06 |
-| **[ConnectPrep](http://www.connectprep.com)** | **[Data Analyst Internship](https://jobright.ai/jobs/info/6986709a0f6f7e7a2ce16a1e?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Feb 06 |
-| **[Perpay Inc.](http://www.perpay.com)** | **[Junior Strategic Analyst](https://jobright.ai/jobs/info/69745c5437785856350e7597?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Feb 06 |
-| **[Stats Perform](http://statsperform.com)** | **[Data Insights Intern](https://jobright.ai/jobs/info/698667fd8da7a612046126dc?utm_campaign=1066&utm_source=git)** | Home, LA, LA, 1111, US | On Site | Feb 06 |
-| **[Perpay Inc.](http://www.perpay.com)** | **[Data Science Internship, 2026](https://jobright.ai/jobs/info/68ccf59477add66568abc9d2?utm_campaign=1066&utm_source=git)** | Philadelphia, PA | On Site | Feb 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
