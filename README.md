@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Analytics Internship](https://jobright.ai/jobs/info/698aa49a0f6f7e7a2ce5d9f1?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 09 |
+| **[State of Maryland](https://jobapscloud.com/MD/)** | **[SUMMER STUDENT WORKER (Unpaid) Scientific Coding Intern](https://jobright.ai/jobs/info/698a9c4e4db8972cecfff821?utm_campaign=1066&utm_source=git)** | Maryland, United States | On Site | Feb 09 |
+| **[Sound Transit](https://www.soundtransit.org)** | **[Research and Data Analysis Intern - Summer, 2026](https://jobright.ai/jobs/info/698a98754db8972cecfff387?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 09 |
+| **[Univest](http://www.univest.net/)** | **[Data Analytics / Business Intelligence Intern - Summer 2026](https://jobright.ai/jobs/info/698a96c20f6f7e7a2ce5ca4d?utm_campaign=1066&utm_source=git)** | Souderton, PA | On Site | Feb 09 |
+| **[DigiKey](https://www.digikey.ca)** | **[Data Governance Analyst Intern](https://jobright.ai/jobs/info/698a93454db8972cecffed6a?utm_campaign=1066&utm_source=git)** | Thief River Falls, MN | Hybrid | Feb 09 |
 | **[Ad Council](http://adcouncil.org/)** | **[Analytics Intern](https://jobright.ai/jobs/info/698a7f450f6f7e7a2ce5a67e?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 09 |
 | **[MITRE](http://www.mitre.org)** | **[National Defense and Intelligence Analyst Intern](https://jobright.ai/jobs/info/698a7ecd4db8972cecffd1e6?utm_campaign=1066&utm_source=git)** | McLean, VA | Hybrid | Feb 09 |
+| **[Sound Transit](https://www.soundtransit.org)** | **[Research and Data Analysis Intern - Summer, 2026](https://jobright.ai/jobs/info/698a95384db8972cecffefb4?utm_campaign=1066&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 09 |
 | **[Schneider Electric](https://www.se.com)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/698a76224db8972cecffc93a?utm_campaign=1066&utm_source=git)** | Franklin, TN | On Site | Feb 09 |
+| **[Lakeside Companies](http://www.thinklakeside.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/698a92710f6f7e7a2ce5c4e4?utm_campaign=1066&utm_source=git)** | Coeur d'Alene, ID | On Site | Feb 09 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Service Ops Data Analyst Corporate Internship - Summer 2026 (Undergrad)](https://jobright.ai/jobs/info/698a6ac80f6f7e7a2ce590d8?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | Hybrid | Feb 09 |
 | **[MobilityWare](http://www.mobilityware.com)** | **[Data Scientist Internship](https://jobright.ai/jobs/info/698a6a630f6f7e7a2ce59047?utm_campaign=1066&utm_source=git)** | Irvine, Ca | On Site | Feb 09 |
 | **[Centric Brands](https://centricbrands.com)** | **[Data Science & AI Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a68860f6f7e7a2ce58d18?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 09 |
@@ -111,7 +118,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/698a210147434001cc685c4f?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Data Scientist Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI/ Warwick, RI](https://jobright.ai/jobs/info/696d7b1fdb26b61895107505?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 09 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Model Risk Management - Quantitative Analyst Summer Internship 2026](https://jobright.ai/jobs/info/6989f6684db8972cecff3941?utm_campaign=1066&utm_source=git)** | Boston, Massachusetts | On Site | Feb 09 |
-| ↳ | **[State Street - Model Risk Management - Quantitative Analyst Summer Internship 2026](https://jobright.ai/jobs/info/6989efb30f6f7e7a2ce508e7?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Feb 09 |
 | **[Girl Scouts of Eastern Missouri](https://www.girlscoutsem.org/)** | **[Data Quality Intern- Summer 2026](https://jobright.ai/jobs/info/6989ef3f47434001cc682b40?utm_campaign=1066&utm_source=git)** | Girl Scouts of Eastern Missouri - SAINT LOUIS, MO 63146 | Hybrid | Feb 09 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Model Risk Management - Quantitative Analyst Summer Internship 2026](https://jobright.ai/jobs/info/6989ed4a47434001cc6828c5?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Feb 09 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Decision Science Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI/ Warwick, RI](https://jobright.ai/jobs/info/696d7a9f350cf438031442c1?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 09 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kargo](http://www.kargo.com)** | **[Intern, Research & Insights](https://jobright.ai/jobs/info/6987c5780f6f7e7a2ce30129?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 07 |
 | **[Ericsson](https://www.ericsson.com)** | **[Data Analyst intern](https://jobright.ai/jobs/info/6987bf690f6f7e7a2ce2ffda?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 07 |
 | **[Community Bridges](https://www.communitybridgesnh.org)** | **[[Summer 2026] Data Research Internship](https://jobright.ai/jobs/info/6987a8e38ca8121a3a6a299c?utm_campaign=1066&utm_source=git)** | Concord, NH | Hybrid | Feb 07 |
-| **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Data Intern](https://jobright.ai/jobs/info/698797290f6f7e7a2ce2d3c9?utm_campaign=1066&utm_source=git)** | Irving, TX | Hybrid | Feb 07 |
-| **[Stripe](https://stripe.com)** | **[PhD Data Scientist, Intern](https://jobright.ai/jobs/info/6982c95b348f733a5c35c616?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 07 |
-| **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68c000de702aa35207aaa840?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Feb 07 |
-| **[Kargo](http://www.kargo.com)** | **[Intern, Research & Insights](https://jobright.ai/jobs/info/6987871c0f6f7e7a2ce2ca1a?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 07 |
-| **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Research Analyst Intern 2026](https://jobright.ai/jobs/info/696b1033db26b618950e89c4?utm_campaign=1066&utm_source=git)** | Jupiter, FL | On Site | Feb 07 |
-| **[Amazon](https://amazon.com)** | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b90d85fc86241853af24b?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
