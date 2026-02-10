@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Service Ops Data Analyst Corporate Internship - Summer 2026 (Undergrad)](https://jobright.ai/jobs/info/698a6ac80f6f7e7a2ce590d8?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | Hybrid | Feb 09 |
+| **[MobilityWare](http://www.mobilityware.com)** | **[Data Scientist Internship](https://jobright.ai/jobs/info/698a6a630f6f7e7a2ce59047?utm_campaign=1066&utm_source=git)** | Irvine, Ca | On Site | Feb 09 |
+| **[Centric Brands](https://centricbrands.com)** | **[Data Science & AI Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a68860f6f7e7a2ce58d18?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 09 |
 | **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Internship- Intelligence Analyst](https://jobright.ai/jobs/info/698a5bcbc5761b521a998115?utm_campaign=1066&utm_source=git)** | Livonia, MI | Hybrid | Feb 09 |
 | **[The Clorox Company](https://www.thecloroxcompany.com)** | **[Data Analytics Intern (Part-time days)](https://jobright.ai/jobs/info/698a3be70f6f7e7a2ce54ce3?utm_campaign=1066&utm_source=git)** | Spring Hill, KS - USA | On Site | Feb 09 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/698a55460f6f7e7a2ce56d86?utm_campaign=1066&utm_source=git)** | Yorktown Heights, NY | On Site | Feb 09 |
@@ -69,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[HNTB](http://www.hntb.com/)** | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a484a4db8972cecff877e?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Feb 09 |
 | **[TTX Company](http://www.ttx.com)** | **[Year-Round Data Governance Intern](https://jobright.ai/jobs/info/69745820bc8e722e7b196765?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Feb 09 |
 | **[HNTB](http://www.hntb.com/)** | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a433347434001cc6878a9?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Feb 09 |
+| **[IBM](http://www.ibm.com)** | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/698a65cbc5761b521a99975f?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Feb 09 |
 | **[IVX Health](https://www.ivxhealth.com/)** | **[Summer Internship - Data Analytics](https://jobright.ai/jobs/info/698a28bf4db8972cecff6cd9?utm_campaign=1066&utm_source=git)** | Brentwood, Tennessee, United States | On Site | Feb 09 |
 | **[HNTB](http://www.hntb.com/)** | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a3f2147434001cc6873fc?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 09 |
 | ↳ | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a3d130f6f7e7a2ce54e10?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 09 |
@@ -76,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Data Platform & Analytics Intern](https://jobright.ai/jobs/info/698a35374db8972cecff74cd?utm_campaign=1066&utm_source=git)** | GA-ATLANTA, 740 W PEACHTREE ST NW | Hybrid | Feb 09 |
 | **[HNTB](http://www.hntb.com/)** | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a52d24db8972cecff9201?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 09 |
 | ↳ | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a50d64db8972cecff8fb8?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Feb 09 |
+| **[Mikata Health](https://mikatahealth.com/)** | **[Healthcare Data Science Intern](https://jobright.ai/jobs/info/698a64a1c5761b521a99949f?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 09 |
 | **[Federal Reserve Bank of New York](http://newyorkfed.org/)** | **[PhD - Summer Research Intern](https://jobright.ai/jobs/info/698a2bed4db8972cecff6f43?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
 | **[HNTB](http://www.hntb.com/)** | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a28c24db8972cecff6cdf?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Feb 09 |
 | ↳ | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a282f47434001cc6862a8?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Feb 09 |
@@ -97,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Prolaio](https://prolaio.com/)** | **[Analytics Engineer Internship](https://jobright.ai/jobs/info/698a0b4e47434001cc683bd5?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 09 |
 | **[Tower Research Capital](http://www.tower-research.com/)** | **[Quantitative Trader Intern (Summer 2026)](https://jobright.ai/jobs/info/68ccf0c9d11b445e0bee4bba?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Feb 09 |
 | **[Arrive Logistics](http://www.arrivelogistics.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/6971507651f7264771839bc8?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 09 |
-| **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/698a210147434001cc685c4f?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
-| ↳ | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/698a17050f6f7e7a2ce52ac2?utm_campaign=1066&utm_source=git)** | Reston, VA | Hybrid | Feb 09 |
+| **[DLA Piper](https://www.dlapiper.com/)** | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/698a17050f6f7e7a2ce52ac2?utm_campaign=1066&utm_source=git)** | Reston, VA | Hybrid | Feb 09 |
+| ↳ | **[Intern - Business Intelligence](https://jobright.ai/jobs/info/698a210147434001cc685c4f?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Data Scientist Summer Internship: Woodland Hills, CA/ Hartford, CT/ Caledonia, MI/ Warwick, RI](https://jobright.ai/jobs/info/696d7b1fdb26b61895107505?utm_campaign=1066&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 09 |
 | **[State Street](https://www.statestreet.com/)** | **[State Street - Model Risk Management - Quantitative Analyst Summer Internship 2026](https://jobright.ai/jobs/info/6989f6684db8972cecff3941?utm_campaign=1066&utm_source=git)** | Boston, Massachusetts | On Site | Feb 09 |
 | ↳ | **[State Street - Model Risk Management - Quantitative Analyst Summer Internship 2026](https://jobright.ai/jobs/info/6989efb30f6f7e7a2ce508e7?utm_campaign=1066&utm_source=git)** | Boston, MA | On Site | Feb 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696a04591703f05405ac1750?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Feb 07 |
 | **[Amgen](http://www.amgen.com)** | **[Undergrad Intern - CD&A Data Science Program (Summer 2026)](https://jobright.ai/jobs/info/698753338ca8121a3a69e3ce?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 07 |
 | ↳ | **[Grad Intern - CD&A Data Science Program (Summer 2026)](https://jobright.ai/jobs/info/698752bc8da7a61204626c24?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 07 |
-| **[Dell Technologies](https://www.delltechnologies.com)** | **[Analytics Undergrad Intern](https://jobright.ai/jobs/info/698752030f6f7e7a2ce29aad?utm_campaign=1066&utm_source=git)** | Round Rock, TX | On Site | Feb 07 |
-| **[Amazon](https://amazon.com)** | **[Intern - Economics (RFCA)](https://jobright.ai/jobs/info/696b84135fc86241853aebef?utm_campaign=1066&utm_source=git)** | Bellevue, WA | On Site | Feb 07 |
-| ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/6969f958639b452fb57ff015?utm_campaign=1066&utm_source=git)** | Arlington, VA | On Site | Feb 07 |
-| ↳ | **[Intern - Economics (STRUC)](https://jobright.ai/jobs/info/696b839adb26b618950f07ec?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 07 |
-| ↳ | **[Intern - Economics (FMF)](https://jobright.ai/jobs/info/696b8f97350cf4380312e8ef?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
