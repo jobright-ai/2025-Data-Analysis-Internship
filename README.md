@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/6919185cbcdbf3560c9d41af?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Feb 10 |
 | **[Ericsson](https://www.ericsson.com)** | **[Digitalization Intern](https://jobright.ai/jobs/info/698b6d75c5761b521a9aec3a?utm_campaign=1066&utm_source=git)** | Plano, TX | On Site | Feb 10 |
 | **[ASML](https://www.asml.com)** | **[Internship - Equipment Data Analyst /AI](https://jobright.ai/jobs/info/698ab0a74db8972cec000acd?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Feb 10 |
 | **[Haemonetics](http://www.haemonetics.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/696facfe3ed06875134a961e?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Feb 10 |
@@ -70,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Nova Scotia Health Authority](https://www.nshealth.ca)** | **[Student Analyst - One Person One Record/Information Management & Technology](https://jobright.ai/jobs/info/698b4447c5761b521a9aa926?utm_campaign=1066&utm_source=git)** | Bedford, Nova Scotia, Canada | Hybrid | Feb 10 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/698b3e61c5761b521a9aa356?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 10 |
 | **[MDA Space](https://mda.space/en/)** | **[Student – Operations Data Analyst Intern - Summer 2026](https://jobright.ai/jobs/info/6980c4447f40342e15d99004?utm_campaign=1066&utm_source=git)** | Brampton, Ontario, Canada | On Site | Feb 10 |
+| **[WCF Insurance](https://www.wcf.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/698abd5dc5761b521a9a1aca?utm_campaign=1066&utm_source=git)** | Sandy, UT | On Site | Feb 10 |
 | **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Data Enablement Intern](https://jobright.ai/jobs/info/691d39bd7481340785ed4ead?utm_campaign=1066&utm_source=git)** | Lenexa, KS | On Site | Feb 10 |
 | **[HDR](http://www.hdrinc.com)** | **[GIS Intern (Summer 2026)](https://jobright.ai/jobs/info/698840568ca8121a3a6ad368?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Feb 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/697852c539f7f96cc6d0bbf4?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 10 |
@@ -94,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Schneider Electric](https://www.se.com)** | **[Business Data Analytics Intern](https://jobright.ai/jobs/info/698a76224db8972cecffc93a?utm_campaign=1066&utm_source=git)** | Franklin, TN | On Site | Feb 09 |
 | **[Lakeside Companies](http://www.thinklakeside.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/698a92710f6f7e7a2ce5c4e4?utm_campaign=1066&utm_source=git)** | Coeur d'Alene, ID | On Site | Feb 09 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Service Ops Data Analyst Corporate Internship - Summer 2026 (Undergrad)](https://jobright.ai/jobs/info/698a6ac80f6f7e7a2ce590d8?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | Hybrid | Feb 09 |
-| **[MobilityWare](http://www.mobilityware.com)** | **[Data Scientist Internship](https://jobright.ai/jobs/info/698a6a630f6f7e7a2ce59047?utm_campaign=1066&utm_source=git)** | Irvine, Ca | On Site | Feb 09 |
 | **[Centric Brands](https://centricbrands.com)** | **[Data Science & AI Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/698a68860f6f7e7a2ce58d18?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 09 |
 | **[Blidz](https://home.blidz.com)** | **[Data Analytics Intern (In-Semester)](https://jobright.ai/jobs/info/698a7dfe4db8972cecffd0e0?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 09 |
 | **[The Ad Hoc Council](http://www.theadhoccouncil.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/698a7b9f0f6f7e7a2ce5a29e?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 09 |
@@ -112,8 +113,6 @@ For a complete list, click the following sortable link below:
 | **[HNTB](http://www.hntb.com/)** | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a433347434001cc6878a9?utm_campaign=1066&utm_source=git)** | Kansas City, MO | On Site | Feb 09 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern: Quantum Data Analyst](https://jobright.ai/jobs/info/698a65cbc5761b521a99975f?utm_campaign=1066&utm_source=git)** | Cambridge, MA | On Site | Feb 09 |
 | **[IVX Health](https://www.ivxhealth.com/)** | **[Summer Internship - Data Analytics](https://jobright.ai/jobs/info/698a28bf4db8972cecff6cd9?utm_campaign=1066&utm_source=git)** | Brentwood, Tennessee, United States | On Site | Feb 09 |
-| **[HNTB](http://www.hntb.com/)** | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a3f2147434001cc6873fc?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 09 |
-| **[METRO Regional Transit Authority](http://www.yourmetrobus.org)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/698a39230f6f7e7a2ce549e7?utm_campaign=1066&utm_source=git)** | Akron, OH | On Site | Feb 09 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Data Platform & Analytics Intern](https://jobright.ai/jobs/info/698a35374db8972cecff74cd?utm_campaign=1066&utm_source=git)** | GA-ATLANTA, 740 W PEACHTREE ST NW | Hybrid | Feb 09 |
 | **[HNTB](http://www.hntb.com/)** | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a52d24db8972cecff9201?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 09 |
 | ↳ | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a50d64db8972cecff8fb8?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Feb 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Ciena](http://www.ciena.com)** | **[Friends and Family :Data Scientist Intern - Services BI & Analytics](https://jobright.ai/jobs/info/698971938ca8121a3a6bcc49?utm_campaign=1066&utm_source=git)** | Montreal | On Site | Feb 08 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/698ab0b50f6f7e7a2ce5e9cc?utm_campaign=1066&utm_source=git)** | North Chicago, IL | On Site | Feb 08 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Research Analyst Intern](https://jobright.ai/jobs/info/68ae3819d627244576e52723?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Feb 08 |
+| ↳ | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Feb 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
