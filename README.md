@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Data Science](https://jobright.ai/jobs/info/698aee320f6f7e7a2ce63925?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Feb 10 |
+| ↳ | **[Internship - Computational Biology](https://jobright.ai/jobs/info/698ae6d44db8972cec005a40?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Feb 10 |
 | **[Kardigan](https://www.kardigan.bio)** | **[2026 Summer Intern - Biostatistics (PhD Student)](https://jobright.ai/jobs/info/698ad438c5761b521a9a3dd8?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Feb 09 |
 | **[Group 1001](https://group1001.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698ab45a4db8972cec001a5a?utm_campaign=1066&utm_source=git)** | Zionsville, IN | On Site | Feb 09 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/698ab3644db8972cec001954?utm_campaign=1066&utm_source=git)** | Florham Park, NJ | On Site | Feb 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Colorado Housing and Finance Authority](https://www.chfainfo.com/)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/69881a098da7a612046331c8?utm_campaign=1066&utm_source=git)** | Denver - Denver, CO 80202 | Hybrid | Feb 07 |
 | **[IBM](http://www.ibm.com)** | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/698970640f6f7e7a2ce484b3?utm_campaign=1066&utm_source=git)** | Phoenix, AZ | On Site | Feb 07 |
 | ↳ | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/698acc7dc5761b521a9a32e6?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 07 |
-| ↳ | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/69896cba8ca8121a3a6bc428?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Feb 07 |
-| ↳ | **[Data Scientist Intern 2026 - AI Analytics & Automation](https://jobright.ai/jobs/info/698962740f6f7e7a2ce461b8?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
