@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Littelfuse](http://www.littelfuse.com)** | **[Data Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698ce5e10f6f7e7a2ce8973b?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 11 |
+| **[Union Tank Car Company - UTLX](http://www.utlx.com/index.asp)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698ce18c0f6f7e7a2ce8939e?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Feb 11 |
 | **[Vanderlande](https://www.vanderlande.com)** | **[Procurement Data Analytics Intern](https://jobright.ai/jobs/info/698ccf4d0f6f7e7a2ce88508?utm_campaign=1066&utm_source=git)** | Marietta, GA USA | On Site | Feb 11 |
-| **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Data Analytics & Automation Intern](https://jobright.ai/jobs/info/698cc5f178b4502f12a33c60?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Feb 11 |
+| **[AgWest Farm Credit](https://agwestfc.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/698ce5220f6f7e7a2ce8968e?utm_campaign=1066&utm_source=git)** | Rocklin, CA | On Site | Feb 11 |
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698cc1f60f6f7e7a2ce87847?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Feb 11 |
+| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Data Science Intern - Summer 2026](https://jobright.ai/jobs/info/69386d87aabec14a727d5724?utm_campaign=1066&utm_source=git)** | Raleigh, NC | On Site | Feb 11 |
 | **[RapidRatings](http://www.rapidratings.com/)** | **[Operations & Enablement Intern (Data Analytics)](https://jobright.ai/jobs/info/698ca42a0f6f7e7a2ce85a3f?utm_campaign=1066&utm_source=git)** | Quincy, MA | Hybrid | Feb 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[Grad Intern - CD&A Data Science Program(Summer 2026)](https://jobright.ai/jobs/info/698cbdc478b4502f12a336c9?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Feb 11 |
-| ↳ | **[Undergrad Intern - CD&A Data Science Program (Summer 2026)](https://jobright.ai/jobs/info/698cb7f5f64d441a164e9ceb?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Feb 11 |
+| **[Wall Street Oasis](http://www.WallStreetOasis.com)** | **[Quant Research Intern](https://jobright.ai/jobs/info/698cd99678b4502f12a3540e?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 11 |
+| **[BioSpace](http://www.biospace.com/)** | **[Undergrad Intern - CD&A Data Science Program (Summer 2026)](https://jobright.ai/jobs/info/698cb7f5f64d441a164e9ceb?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Feb 11 |
+| **[Shiel Sexton](https://www.shielsexton.com/)** | **[Data & Analytics Intern](https://jobright.ai/jobs/info/698cda6c0f6f7e7a2ce88eea?utm_campaign=1066&utm_source=git)** | Indianapolis, IN | On Site | Feb 11 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/695a1f38aa05c26e7ab3b9c8?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Feb 11 |
 | **[Credibly](https://www.credibly.com)** | **[Intern - Data Science/Analyst (Hybrid in NY)](https://jobright.ai/jobs/info/6967ddb91703f05405a98601?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 11 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Business Intelligence Analyst Intern- Bachelor's/Master's (Austin, TX)](https://jobright.ai/jobs/info/698cc5950f6f7e7a2ce87d86?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 11 |
@@ -134,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Amplifon](http://corporate.amplifon.com)** | **[Junior Business Insights Intern Summer 2026](https://jobright.ai/jobs/info/698c6fef78b4502f12a2f813?utm_campaign=1066&utm_source=git)** | 150 South 5Th Street, Minneapolis, MN, 55402, US | Hybrid | Feb 10 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Data Scientist/Statistician Intern (MS/PhD)](https://jobright.ai/jobs/info/698bbec8c5761b521a9b4e60?utm_campaign=1066&utm_source=git)** | Wickliffe, OH | On Site | Feb 10 |
 | **[Bold Orange](https://boldorange.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/698bacdd0f6f7e7a2ce72835?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 10 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Data Science Graduate Intern: Neuroinclusive Interview Process](https://jobright.ai/jobs/info/698be4e106d9b062249615da?utm_campaign=1066&utm_source=git)** | NY - New York | Hybrid | Feb 10 |
-| ↳ | **[Data Science Graduate Intern: Neuroinclusive Interview Process](https://jobright.ai/jobs/info/698be0e6c5761b521a9b7420?utm_campaign=1066&utm_source=git)** | MA - Wellesley | Hybrid | Feb 10 |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Data Science Graduate Intern: Neuroinclusive Interview Process](https://jobright.ai/jobs/info/698be0e6c5761b521a9b7420?utm_campaign=1066&utm_source=git)** | MA - Wellesley | Hybrid | Feb 10 |
+| ↳ | **[Data Science Graduate Intern: Neuroinclusive Interview Process](https://jobright.ai/jobs/info/698be4e106d9b062249615da?utm_campaign=1066&utm_source=git)** | NY - New York | Hybrid | Feb 10 |
 | **[Waters Corporation](http://www.waters.com)** | **[Business Data Analytics Intern, Customer Experience](https://jobright.ai/jobs/info/6986667e0f6f7e7a2ce156e9?utm_campaign=1066&utm_source=git)** | Milford, MA | On Site | Feb 10 |
 | **[Halton Region](https://www.halton.ca)** | **[Intern - Data Analytics](https://jobright.ai/jobs/info/698bace106d9b0622495d67b?utm_campaign=1066&utm_source=git)** | Oakville, Ontario, Canada | Hybrid | Feb 10 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Data Analyst Intern (Hybrid) – (Summer 2026 Internship)](https://jobright.ai/jobs/info/698ba982c5761b521a9b3b1d?utm_campaign=1066&utm_source=git)** | Greater Vancouver Metropolitan Area | Hybrid | Feb 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ericsson](https://www.ericsson.com)** | **[Digitalization Intern](https://jobright.ai/jobs/info/698b6d75c5761b521a9aec3a?utm_campaign=1066&utm_source=git)** | Plano, TX | On Site | Feb 10 |
 | **[ASML](https://www.asml.com)** | **[Internship - Equipment Data Analyst /AI](https://jobright.ai/jobs/info/698ab0a74db8972cec000acd?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Feb 10 |
 | **[Haemonetics](http://www.haemonetics.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/696facfe3ed06875134a961e?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Feb 10 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Data Analyst](https://jobright.ai/jobs/info/698b89370f6f7e7a2ce6ff12?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT, United States | On Site | Feb 10 |
-| **[Atlas Energy Solutions](https://atlas.energy)** | **[Embedded Analytics Intern](https://jobright.ai/jobs/info/698b7f77c5761b521a9b08b2?utm_campaign=1066&utm_source=git)** | Kermit, TX | On Site | Feb 10 |
-| **[CoorsTek, Inc.](https://www.coorstek.com)** | **[Data and Analytics Intern II](https://jobright.ai/jobs/info/698bb499c5761b521a9b457f?utm_campaign=1066&utm_source=git)** | Golden, CO | On Site | Feb 10 |
-| **[System1](https://system1group.com/)** | **[Research Associate Intern](https://jobright.ai/jobs/info/698b5380c5761b521a9ac1f6?utm_campaign=1066&utm_source=git)** | NYC Metro Area | Hybrid | Feb 10 |
-| **[Vital Strategies](https://www.vitalstrategies.org)** | **[Vital Strategies Summer Associate: Research and Evaluation Studies](https://jobright.ai/jobs/info/698b4e57c5761b521a9ab98f?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
