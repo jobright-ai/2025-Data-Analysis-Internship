@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lonza](http://www.lonza.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/698c5c2c0f6f7e7a2ce8178e?utm_campaign=1066&utm_source=git)** | US - Vacaville, CA | On Site | Feb 11 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Model Validation Analyst](https://jobright.ai/jobs/info/698c61a80f6f7e7a2ce81d20?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Feb 11 |
+| **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertising Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698c5e8d78b4502f12a2e4b0?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Feb 11 |
+| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Biostatistics Intern (PhD degree level)](https://jobright.ai/jobs/info/698c66ff78b4502f12a2eed4?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | Feb 11 |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - MAGNet Program @ University of Georgia - Enterprise Data and Analytics](https://jobright.ai/jobs/info/6982ae12348f733a5c35a6c5?utm_campaign=1066&utm_source=git)** | Athens, GA | Hybrid | Feb 11 |
+| **[Southwire Company](http://southwire.com)** | **[Spark Intern](https://jobright.ai/jobs/info/69705faa333b6343a14cec7c?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 10 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Feb 10 |
+| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Analytical Services & Process Analytics](https://jobright.ai/jobs/info/698c4b3c91fdda424d59365f?utm_campaign=1066&utm_source=git)** | Novato, CA | On Site | Feb 10 |
 | **[OvaVision Fertility](https://www.ovavision.com/)** | **[Data Collection Intern (Unpaid) — OvaVision](https://jobright.ai/jobs/info/698c371091fdda424d591c3b?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 10 |
 | **[Henkel](http://www.henkel.com)** | **[Information Technology & Data Analytics Intern – Summer 2026](https://jobright.ai/jobs/info/69818ad949964d25b5e49eac?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Feb 10 |
 | **[TaylorMade Golf Company](http://taylormadegolf.com/careers)** | **[Research Intern](https://jobright.ai/jobs/info/698bfda3e4f6572f0e43f607?utm_campaign=1066&utm_source=git)** | Carlsbad, CA | On Site | Feb 10 |
@@ -88,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[REGENT](https://www.regentcraft.com)** | **[Commercial BD Data Analyst Intern](https://jobright.ai/jobs/info/698be1cb0f6f7e7a2ce75e52?utm_campaign=1066&utm_source=git)** | North Kingstown, RI | On Site | Feb 10 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Biostatistics Intern (PhD degree level)](https://jobright.ai/jobs/info/698c167de4f6572f0e4411b2?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Remote | Feb 10 |
 | **[InterWorks](http://www.interworks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/698bded5c5761b521a9b6f60?utm_campaign=1066&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Feb 10 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Business Intelligence Analyst Intern- Bachelor's/Master's (Austin, TX)](https://jobright.ai/jobs/info/698c677678b4502f12a2ef5c?utm_campaign=1066&utm_source=git)** | Austin,TX | On Site | Feb 10 |
 | **[AAAS](http://www.aaas.org/)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/698be5bf06d9b062249617e3?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
 | ↳ | **[Research & Data Analytics Intern](https://jobright.ai/jobs/info/698be02d0f6f7e7a2ce75a28?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Health Plan Data Analyst - R11621](https://jobright.ai/jobs/info/698c1ebf91fdda424d58e0b0?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 10 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Data Science](https://jobright.ai/jobs/info/698b01750f6f7e7a2ce6544d?utm_campaign=1066&utm_source=git)** | Lexington, MA, US | On Site | Feb 09 |
 | **[Kardigan](https://www.kardigan.bio)** | **[2026 Summer Intern - Biostatistics (PhD Student)](https://jobright.ai/jobs/info/698ad438c5761b521a9a3dd8?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Feb 09 |
 | **[Group 1001](https://group1001.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698ab45a4db8972cec001a5a?utm_campaign=1066&utm_source=git)** | Zionsville, IN | On Site | Feb 09 |
-| **[BioSpace](http://www.biospace.com/)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/698ab3644db8972cec001954?utm_campaign=1066&utm_source=git)** | Florham Park, NJ | On Site | Feb 09 |
-| ↳ | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/698ab22cc5761b521a9a0310?utm_campaign=1066&utm_source=git)** | South San Francisco, CA | On Site | Feb 09 |
-| **[Sound Transit](https://www.soundtransit.org)** | **[Research and Data Analysis Intern - Summer, 2026](https://jobright.ai/jobs/info/698a98754db8972cecfff387?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 09 |
-| **[Albemarle Corporation](http://albemarle.com)** | **[Summer 2026 Corporate Internship Program](https://jobright.ai/jobs/info/698aabf14db8972cec0008a2?utm_campaign=1066&utm_source=git)** | Charlotte, NC | On Site | Feb 09 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Analytics Internship](https://jobright.ai/jobs/info/698aa49a0f6f7e7a2ce5d9f1?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 09 |
-| **[State of Maryland](https://jobapscloud.com/MD/)** | **[SUMMER STUDENT WORKER (Unpaid) Scientific Coding Intern](https://jobright.ai/jobs/info/698a9c4e4db8972cecfff821?utm_campaign=1066&utm_source=git)** | Maryland, United States | On Site | Feb 09 |
-| **[Univest](http://www.univest.net/)** | **[Data Analytics / Business Intelligence Intern - Summer 2026](https://jobright.ai/jobs/info/698a96c20f6f7e7a2ce5ca4d?utm_campaign=1066&utm_source=git)** | Souderton, PA | On Site | Feb 09 |
-| **[DigiKey](https://www.digikey.ca)** | **[Data Governance Analyst Intern](https://jobright.ai/jobs/info/698a93454db8972cecffed6a?utm_campaign=1066&utm_source=git)** | Thief River Falls, MN | Hybrid | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
