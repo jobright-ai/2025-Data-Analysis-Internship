@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68cd7827b2a74e1837ed72d1?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Feb 11 |
 | **[Lonza](http://www.lonza.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/698c5c2c0f6f7e7a2ce8178e?utm_campaign=1066&utm_source=git)** | US - Vacaville, CA | On Site | Feb 11 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Model Validation Analyst](https://jobright.ai/jobs/info/698c61a80f6f7e7a2ce81d20?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Feb 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertising Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698c5e8d78b4502f12a2e4b0?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Feb 11 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Biostatistics Intern (PhD degree level)](https://jobright.ai/jobs/info/698c66ff78b4502f12a2eed4?utm_campaign=1066&utm_source=git)** | Rochester, MN | On Site | Feb 11 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - MAGNet Program @ University of Georgia - Enterprise Data and Analytics](https://jobright.ai/jobs/info/6982ae12348f733a5c35a6c5?utm_campaign=1066&utm_source=git)** | Athens, GA | Hybrid | Feb 11 |
+| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Science and Informatics](https://jobright.ai/jobs/info/698c7242f64d441a164e6446?utm_campaign=1066&utm_source=git)** | Santa Clara | On Site | Feb 11 |
 | **[Southwire Company](http://southwire.com)** | **[Spark Intern](https://jobright.ai/jobs/info/69705faa333b6343a14cec7c?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 10 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Feb 10 |
 | **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Analytical Services & Process Analytics](https://jobright.ai/jobs/info/698c4b3c91fdda424d59365f?utm_campaign=1066&utm_source=git)** | Novato, CA | On Site | Feb 10 |
-| **[OvaVision Fertility](https://www.ovavision.com/)** | **[Data Collection Intern (Unpaid) — OvaVision](https://jobright.ai/jobs/info/698c371091fdda424d591c3b?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 10 |
 | **[Henkel](http://www.henkel.com)** | **[Information Technology & Data Analytics Intern – Summer 2026](https://jobright.ai/jobs/info/69818ad949964d25b5e49eac?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Feb 10 |
 | **[TaylorMade Golf Company](http://taylormadegolf.com/careers)** | **[Research Intern](https://jobright.ai/jobs/info/698bfda3e4f6572f0e43f607?utm_campaign=1066&utm_source=git)** | Carlsbad, CA | On Site | Feb 10 |
 | **[CAE](http://www.cae.com)** | **[Data Analyst Co-op/Intern-EN](https://jobright.ai/jobs/info/698c480391fdda424d593227?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Feb 10 |
@@ -128,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[CoorsTek, Inc.](https://www.coorstek.com)** | **[Data and Analytics Intern II](https://jobright.ai/jobs/info/698bc850c5761b521a9b57cf?utm_campaign=1066&utm_source=git)** | Golden, CO | On Site | Feb 10 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Data Scientist/Statistician Intern (MS/PhD)](https://jobright.ai/jobs/info/698bdec706d9b062249607a5?utm_campaign=1066&utm_source=git)** | Wickliffe OH US | On Site | Feb 10 |
 | **[MOD - Power & Lighting Solutions](https://nationallighting.com)** | **[Data Analyst Intern](https://jobright.ai/jobs/info/698bc0f20f6f7e7a2ce738f5?utm_campaign=1066&utm_source=git)** | Cerritos, CA | On Site | Feb 10 |
-| **[Verato](https://www.verato.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/698bbb2e0f6f7e7a2ce733fb?utm_campaign=1066&utm_source=git)** | Fully Remote | Remote | Feb 10 |
 | **[Cedars-Sinai](https://www.cedars-sinai.org)** | **[Research Intern, Per Diem - Chen Lab](https://jobright.ai/jobs/info/698bbd4ec5761b521a9b4d37?utm_campaign=1066&utm_source=git)** | 6500 Wilshire Blvd, Los Angeles, CA, 90048, US | On Site | Feb 10 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Data Scientist Intern - In Office, Scottsdale, AZ only](https://jobright.ai/jobs/info/6919185cbcdbf3560c9d41af?utm_campaign=1066&utm_source=git)** | Scottsdale, AZ | On Site | Feb 10 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Data Reporting and Analytics Master's Intern](https://jobright.ai/jobs/info/698b8c10c5761b521a9b1a44?utm_campaign=1066&utm_source=git)** | Pasadena, CA | Hybrid | Feb 10 |
