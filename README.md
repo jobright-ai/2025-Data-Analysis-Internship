@@ -72,7 +72,9 @@ For a complete list, click the following sortable link below:
 | **[Triumph](https://www.tfin.com/)** | **[Data Analyst Intern – Summer 2026](https://jobright.ai/jobs/info/696ff91e0f4e0f657ea44f8f?utm_campaign=1066&utm_source=git)** | Dallas, TX | On Site | Feb 10 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Data Analytics Intern, Shockwave](https://jobright.ai/jobs/info/698be19c0f6f7e7a2ce75dcd?utm_campaign=1066&utm_source=git)** | Santa Clara, California, United States of America | On Site | Feb 10 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Patient Services, Data Analytics](https://jobright.ai/jobs/info/698bc6ed06d9b0622495ee47?utm_campaign=1066&utm_source=git)** | Research Triangle Park, NC | Hybrid | Feb 10 |
-| **[Fiducient Advisors](https://www.fiducientadvisors.com/)** | **[Performance Analytics Intern](https://jobright.ai/jobs/info/698bdfab06d9b0622496099f?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Feb 10 |
+| **[Fiducient Advisors](https://www.fiducientadvisors.com/)** | **[Performance Analytics Intern](https://jobright.ai/jobs/info/698beb680f6f7e7a2ce76ef5?utm_campaign=1066&utm_source=git)** | Boston, MA | Hybrid | Feb 10 |
+| ↳ | **[Performance Analytics Intern](https://jobright.ai/jobs/info/698bdfab06d9b0622496099f?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Feb 10 |
+| ↳ | **[Performance Analytics Intern](https://jobright.ai/jobs/info/698bf17906d9b062249624ee?utm_campaign=1066&utm_source=git)** | Windsor, CT | Hybrid | Feb 10 |
 | **[Nokia](http://www.nokia.com)** | **[Transformation Intern](https://jobright.ai/jobs/info/698279fa0a9e07331f8d8ec2?utm_campaign=1066&utm_source=git)** | Lake County, IN | Remote | Feb 10 |
 | **[Lakeview Loan Servicing, LLC.](https://lakeview.com)** | **[IT DATA ANALYTICS INTERN](https://jobright.ai/jobs/info/698b98640f6f7e7a2ce70f4a?utm_campaign=1066&utm_source=git)** | Agoura Hills, CA | On Site | Feb 10 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Data Analyst](https://jobright.ai/jobs/info/698bc755c5761b521a9b56ca?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Feb 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Data Platform & Analytics Intern](https://jobright.ai/jobs/info/698a35374db8972cecff74cd?utm_campaign=1066&utm_source=git)** | GA-ATLANTA, 740 W PEACHTREE ST NW | Hybrid | Feb 09 |
 | **[HNTB](http://www.hntb.com/)** | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a52d24db8972cecff9201?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 09 |
 | ↳ | **[Data Science, GIS, and Asset Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698a50d64db8972cecff8fb8?utm_campaign=1066&utm_source=git)** | Cleveland, OH | On Site | Feb 09 |
-| **[Mikata Health](https://mikatahealth.com/)** | **[Healthcare Data Science Intern](https://jobright.ai/jobs/info/698a64a1c5761b521a99949f?utm_campaign=1066&utm_source=git)** | Calgary, Alberta, Canada | On Site | Feb 09 |
-| **[Federal Reserve Bank of New York](http://newyorkfed.org/)** | **[PhD - Summer Research Intern](https://jobright.ai/jobs/info/698a2bed4db8972cecff6f43?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
