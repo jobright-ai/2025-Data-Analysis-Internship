@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reckitt](https://www.reckitt.com)** | **[2026 Supply Summer Internship / Bentonville, AR, USA](https://jobright.ai/jobs/info/6954db76f1f8465b79ec0752?utm_campaign=1066&utm_source=git)** | Bentonville, AR | On Site | Feb 11 |
+| **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Data & Infrastructure Solutions (DIS) - Data Governance](https://jobright.ai/jobs/info/697091e451f726477182d2e8?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Feb 11 |
+| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Analytical Services & Process Analytics](https://jobright.ai/jobs/info/698c8ebf0f6f7e7a2ce845af?utm_campaign=1066&utm_source=git)** | Novato, CA | On Site | Feb 11 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Data Scientist Intern - Grid Reliability & Predictive Analytics](https://jobright.ai/jobs/info/698c8acf78b4502f12a30b97?utm_campaign=1066&utm_source=git)** | Oakland, CA | Hybrid | Feb 11 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Quantitative Systematic Trading Internship - PhD: Summer 2026](https://jobright.ai/jobs/info/68cd7827b2a74e1837ed72d1?utm_campaign=1066&utm_source=git)** | Greater Philadelphia | On Site | Feb 11 |
+| **[Medpace](http://www.medpace.com)** | **[Clinical Data Intern - Summer 2026](https://jobright.ai/jobs/info/69385223b95c305f206d78f0?utm_campaign=1066&utm_source=git)** | Cincinnati, OH | On Site | Feb 11 |
 | **[Lonza](http://www.lonza.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/698c5c2c0f6f7e7a2ce8178e?utm_campaign=1066&utm_source=git)** | US - Vacaville, CA | On Site | Feb 11 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern - Model Validation Analyst](https://jobright.ai/jobs/info/698c61a80f6f7e7a2ce81d20?utm_campaign=1066&utm_source=git)** | San Francisco, CA | On Site | Feb 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Project Intern (Advertising Team) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/698c5e8d78b4502f12a2e4b0?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Feb 11 |
@@ -66,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Science and Informatics](https://jobright.ai/jobs/info/698c7242f64d441a164e6446?utm_campaign=1066&utm_source=git)** | Santa Clara | On Site | Feb 11 |
 | **[Southwire Company](http://southwire.com)** | **[Spark Intern](https://jobright.ai/jobs/info/69705faa333b6343a14cec7c?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 10 |
 | **[Integra FEC](https://www.integrafec.com/)** | **[(SUMMER) Data Analyst Intern](https://jobright.ai/jobs/info/68c0009b5c5d5f14f46db1a6?utm_campaign=1066&utm_source=git)** | Austin, Texas | On Site | Feb 10 |
-| **[BioMarin Pharmaceutical Inc.](https://www.biomarin.com)** | **[Intern, Analytical Services & Process Analytics](https://jobright.ai/jobs/info/698c4b3c91fdda424d59365f?utm_campaign=1066&utm_source=git)** | Novato, CA | On Site | Feb 10 |
 | **[Henkel](http://www.henkel.com)** | **[Information Technology & Data Analytics Intern – Summer 2026](https://jobright.ai/jobs/info/69818ad949964d25b5e49eac?utm_campaign=1066&utm_source=git)** | Stamford, CT | Hybrid | Feb 10 |
 | **[TaylorMade Golf Company](http://taylormadegolf.com/careers)** | **[Research Intern](https://jobright.ai/jobs/info/698bfda3e4f6572f0e43f607?utm_campaign=1066&utm_source=git)** | Carlsbad, CA | On Site | Feb 10 |
 | **[CAE](http://www.cae.com)** | **[Data Analyst Co-op/Intern-EN](https://jobright.ai/jobs/info/698c480391fdda424d593227?utm_campaign=1066&utm_source=git)** | Tampa, FL | On Site | Feb 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Performance Contracting, Inc. (PCI)](http://www.performancecontracting.com)** | **[Data Enablement Intern](https://jobright.ai/jobs/info/691d39bd7481340785ed4ead?utm_campaign=1066&utm_source=git)** | Lenexa, KS | On Site | Feb 10 |
 | **[HDR](http://www.hdrinc.com)** | **[GIS Intern (Summer 2026)](https://jobright.ai/jobs/info/698840568ca8121a3a6ad368?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Feb 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Scientist Intern (TikTok Shop User Product DS) - 2026 Start (PhD)](https://jobright.ai/jobs/info/697852c539f7f96cc6d0bbf4?utm_campaign=1066&utm_source=git)** | Seattle, WA | On Site | Feb 10 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Computational Biology](https://jobright.ai/jobs/info/698afa5f0f6f7e7a2ce64796?utm_campaign=1066&utm_source=git)** | Lexington, MA, US | On Site | Feb 10 |
-| ↳ | **[Internship - Data Science](https://jobright.ai/jobs/info/698aee320f6f7e7a2ce63925?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Feb 10 |
-| ↳ | **[Internship - Computational Biology](https://jobright.ai/jobs/info/698ae6d44db8972cec005a40?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Feb 10 |
-| **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Data Science](https://jobright.ai/jobs/info/698b01750f6f7e7a2ce6544d?utm_campaign=1066&utm_source=git)** | Lexington, MA, US | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
