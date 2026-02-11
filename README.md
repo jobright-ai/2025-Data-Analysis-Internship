@@ -85,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Empyrean](http://www.goempyrean.com)** | **[Data Analytics Internship](https://jobright.ai/jobs/info/696ff7560f4e0f657ea44aaf?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Feb 10 |
 | **[Biogen](https://www.biogen.com/en_us/home.html)** | **[Intern, Patient Services, Data Analytics](https://jobright.ai/jobs/info/698c068e0f6f7e7a2ce79685?utm_campaign=1066&utm_source=git)** | Triangle, NC | On Site | Feb 10 |
 | **[Texas Department of Transportation](https://www.txdot.gov)** | **[Data Management Intern - Information Technology Div.](https://jobright.ai/jobs/info/698be85cc5761b521a9b82bd?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 10 |
+| **[National Retail Federation](http://www.nrf.com)** | **[Research Intern](https://jobright.ai/jobs/info/698c6ac478b4502f12a2f243?utm_campaign=1066&utm_source=git)** | Washington,DC,US | Hybrid | Feb 10 |
 | **[Mayo Clinic Healthcare London](https://mayoclinichealthcare.co.uk)** | **[Biostatistics Intern (PhD degree level)](https://jobright.ai/jobs/info/698c093691fdda424d58c821?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Remote | Feb 10 |
 | **[Mission Pet Health](https://missionvetpartners.com/)** | **[Business Intelligence Intern - Mission Pet Health](https://jobright.ai/jobs/info/698c100fe4f6572f0e440a0c?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Feb 10 |
 | **[WCF Insurance](https://www.wcf.com)** | **[Analytics Intern](https://jobright.ai/jobs/info/698c291ce4f6572f0e44435c?utm_campaign=1066&utm_source=git)** | Sandy, UT | On Site | Feb 10 |
@@ -112,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Lakeview Loan Servicing, LLC.](https://lakeview.com)** | **[IT DATA ANALYTICS INTERN](https://jobright.ai/jobs/info/698b98640f6f7e7a2ce70f4a?utm_campaign=1066&utm_source=git)** | Agoura Hills, CA | On Site | Feb 10 |
 | **[Unbound (nonprofit)](https://www.unbound.org)** | **[Evaluation Intern](https://jobright.ai/jobs/info/698c35160f6f7e7a2ce7eaa7?utm_campaign=1066&utm_source=git)** | Kansas City, KS, US | On Site | Feb 10 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Data Analyst](https://jobright.ai/jobs/info/698bc755c5761b521a9b56ca?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Feb 10 |
+| **[Amplifon](http://corporate.amplifon.com)** | **[Junior Business Insights Intern Summer 2026](https://jobright.ai/jobs/info/698c6fef78b4502f12a2f813?utm_campaign=1066&utm_source=git)** | 150 South 5Th Street, Minneapolis, MN, 55402, US | Hybrid | Feb 10 |
 | **[The Lubrizol Corporation](http://www.lubrizol.com/)** | **[Data Scientist/Statistician Intern (MS/PhD)](https://jobright.ai/jobs/info/698bbec8c5761b521a9b4e60?utm_campaign=1066&utm_source=git)** | Wickliffe, OH | On Site | Feb 10 |
 | **[Bold Orange](https://boldorange.com/)** | **[Analytics Intern](https://jobright.ai/jobs/info/698bacdd0f6f7e7a2ce72835?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Data Science Graduate Intern: Neuroinclusive Interview Process](https://jobright.ai/jobs/info/698be0e6c5761b521a9b7420?utm_campaign=1066&utm_source=git)** | MA - Wellesley | Hybrid | Feb 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Data Science](https://jobright.ai/jobs/info/698aee320f6f7e7a2ce63925?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Feb 10 |
 | ↳ | **[Internship - Computational Biology](https://jobright.ai/jobs/info/698ae6d44db8972cec005a40?utm_campaign=1066&utm_source=git)** | Lexington, MA | On Site | Feb 10 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Internship - Data Science](https://jobright.ai/jobs/info/698b01750f6f7e7a2ce6544d?utm_campaign=1066&utm_source=git)** | Lexington, MA, US | On Site | Feb 09 |
-| **[Kardigan](https://www.kardigan.bio)** | **[2026 Summer Intern - Biostatistics (PhD Student)](https://jobright.ai/jobs/info/698ad438c5761b521a9a3dd8?utm_campaign=1066&utm_source=git)** | Princeton, NJ | On Site | Feb 09 |
-| **[Group 1001](https://group1001.com/)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698ab45a4db8972cec001a5a?utm_campaign=1066&utm_source=git)** | Zionsville, IN | On Site | Feb 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
