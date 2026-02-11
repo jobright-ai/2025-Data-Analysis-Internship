@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vanderlande](https://www.vanderlande.com)** | **[Procurement Data Analytics Intern](https://jobright.ai/jobs/info/698ccf4d0f6f7e7a2ce88508?utm_campaign=1066&utm_source=git)** | Marietta, GA USA | On Site | Feb 11 |
 | **[Rapid Edge](https://www.linkedin.com/company/108272919)** | **[Data Analytics & Automation Intern](https://jobright.ai/jobs/info/698cc5f178b4502f12a33c60?utm_campaign=1066&utm_source=git)** | New York, United States | On Site | Feb 11 |
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698cc1f60f6f7e7a2ce87847?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Feb 11 |
 | **[RapidRatings](http://www.rapidratings.com/)** | **[Operations & Enablement Intern (Data Analytics)](https://jobright.ai/jobs/info/698ca42a0f6f7e7a2ce85a3f?utm_campaign=1066&utm_source=git)** | Quincy, MA | Hybrid | Feb 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[Grad Intern - CD&A Data Science Program(Summer 2026)](https://jobright.ai/jobs/info/698cbdc478b4502f12a336c9?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Feb 11 |
 | ↳ | **[Undergrad Intern - CD&A Data Science Program (Summer 2026)](https://jobright.ai/jobs/info/698cb7f5f64d441a164e9ceb?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Feb 11 |
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/695a1f38aa05c26e7ab3b9c8?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Feb 11 |
+| **[Credibly](https://www.credibly.com)** | **[Intern - Data Science/Analyst (Hybrid in NY)](https://jobright.ai/jobs/info/6967ddb91703f05405a98601?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 11 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Business Intelligence Analyst Intern- Bachelor's/Master's (Austin, TX)](https://jobright.ai/jobs/info/698cc5950f6f7e7a2ce87d86?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 11 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cc4fb47342c7623ae6265b?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Feb 11 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Science and Informatics](https://jobright.ai/jobs/info/698cc20cf64d441a164ea50b?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Feb 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CoorsTek, Inc.](https://www.coorstek.com)** | **[Data and Analytics Intern II](https://jobright.ai/jobs/info/698bb499c5761b521a9b457f?utm_campaign=1066&utm_source=git)** | Golden, CO | On Site | Feb 10 |
 | **[System1](https://system1group.com/)** | **[Research Associate Intern](https://jobright.ai/jobs/info/698b5380c5761b521a9ac1f6?utm_campaign=1066&utm_source=git)** | NYC Metro Area | Hybrid | Feb 10 |
 | **[Vital Strategies](https://www.vitalstrategies.org)** | **[Vital Strategies Summer Associate: Research and Evaluation Studies](https://jobright.ai/jobs/info/698b4e57c5761b521a9ab98f?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 10 |
-| **[Prolaio](https://prolaio.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/698b4bbe0f6f7e7a2ce6a018?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 10 |
-| **[IBM](http://www.ibm.com)** | **[Data Scientist Intern – Client Innovation Center (Entry Level) 2026](https://jobright.ai/jobs/info/6986f1b08da7a61204620223?utm_campaign=1066&utm_source=git)** | Buffalo, NY | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
