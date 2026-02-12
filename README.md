@@ -58,7 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TriNet](http://trinet.com)** | **[Intern, Transformation Analyst](https://jobright.ai/jobs/info/697457eebc8e722e7b196635?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 11 |
+| ↳ | **[Intern, Transformation Analyst](https://jobright.ai/jobs/info/697457e337785856350e6ef7?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 11 |
 | **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/698d7113f64d441a164f86da?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Feb 11 |
+| **[Travis Credit Union](http://www.traviscu.org)** | **[Intern](https://jobright.ai/jobs/info/698d8be978b4502f12a4400b?utm_campaign=1066&utm_source=git)** | Vacaville, California | Hybrid | Feb 11 |
+| **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Feb 11 |
 | **[SPS Commerce](http://spscommerce.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/698d4e210f6f7e7a2ce9247c?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 11 |
 | **[MeshyAI](https://www.meshy.ai/)** | **[Data Science Intern](https://jobright.ai/jobs/info/698d7e31f64d441a164f970a?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | Hybrid | Feb 11 |
 | **[Amentum](https://www.amentum.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/698d6f9e0f6f7e7a2ce9480c?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Feb 11 |
@@ -70,10 +73,10 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - MAGNet Program @ University of Illinois - Urbana-Champaign (UIUC)](https://jobright.ai/jobs/info/69840f85348f733a5c37d1a1?utm_campaign=1066&utm_source=git)** | Champaign, IL | Hybrid | Feb 11 |
 | **[Jumio Corporation](http://www.jumio.com)** | **[Data Intern](https://jobright.ai/jobs/info/697158ca587dfa0bb55ef9c4?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 11 |
 | **[Castle Park Investments](https://castlepark-investments.com)** | **[Data Analytics & AI Intern / Analyst - Castle Park Investments](https://jobright.ai/jobs/info/698d4bc178b4502f12a3f04c?utm_campaign=1066&utm_source=git)** | New York, New York, United States | On Site | Feb 11 |
-| **[Jacobs](http://www.jacobs.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/698d4f64f64d441a164f6048?utm_campaign=1066&utm_source=git)** | 20331-ESCG2224 Bay Area Boulevard | On Site | Feb 11 |
-| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/698d46d10f6f7e7a2ce91a0c?utm_campaign=1066&utm_source=git)** | United States-Texas-Houston-20331-ESCG | On Site | Feb 11 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Data Scientist Intern- Master's (Austin, TX)](https://jobright.ai/jobs/info/698d4be378b4502f12a3f075?utm_campaign=1066&utm_source=git)** | Austin,TX | On Site | Feb 11 |
-| ↳ | **[2026 Summer Data Scientist Intern- Master's (Santa Clara, CA)](https://jobright.ai/jobs/info/698d8009f64d441a164f9957?utm_campaign=1066&utm_source=git)** | Santa Clara,CA | On Site | Feb 11 |
+| **[Jacobs](http://www.jacobs.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/698d46d10f6f7e7a2ce91a0c?utm_campaign=1066&utm_source=git)** | United States-Texas-Houston-20331-ESCG | On Site | Feb 11 |
+| ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/698d4f64f64d441a164f6048?utm_campaign=1066&utm_source=git)** | 20331-ESCG2224 Bay Area Boulevard | On Site | Feb 11 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Data Scientist Intern- Master's (Santa Clara, CA)](https://jobright.ai/jobs/info/698d8009f64d441a164f9957?utm_campaign=1066&utm_source=git)** | Santa Clara,CA | On Site | Feb 11 |
+| ↳ | **[2026 Summer Data Scientist Intern- Master's (Austin, TX)](https://jobright.ai/jobs/info/698d4be378b4502f12a3f075?utm_campaign=1066&utm_source=git)** | Austin,TX | On Site | Feb 11 |
 | **[West Fraser](http://www.westfraser.com/)** | **[Automation Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698d3add0f6f7e7a2ce9085a?utm_campaign=1066&utm_source=git)** | Greenville, SC | On Site | Feb 11 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/698d4cf378b4502f12a3f208?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 11 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Data Management and Analysis (Summer 2026)](https://jobright.ai/jobs/info/698d3d9d78b4502f12a3d7b2?utm_campaign=1066&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 11 |
@@ -91,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Voya Investment Management](http://investments.voya.com)** | **[Summer Student – Quantitative Implementation Intern](https://jobright.ai/jobs/info/698d1867f64d441a164f012a?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 11 |
 | **[Littelfuse](http://www.littelfuse.com)** | **[Data Analyst Intern, Electrical Industrial Infrastructure](https://jobright.ai/jobs/info/698ce5e10f6f7e7a2ce8973b?utm_campaign=1066&utm_source=git)** | Chicago, IL | On Site | Feb 11 |
 | **[Aireon LLC](http://www.aireon.com)** | **[Intern, Data Science](https://jobright.ai/jobs/info/698d13490f6f7e7a2ce8c848?utm_campaign=1066&utm_source=git)** | McLean, VA | On Site | Feb 11 |
-| **[Haymarket Media US](http://www.haymarket.com)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698d1aa10f6f7e7a2ce8d411?utm_campaign=1066&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
-| ↳ | **[Client Reporting & Insights Intern](https://jobright.ai/jobs/info/698d157b78b4502f12a39518?utm_campaign=1066&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
+| **[Haymarket Media US](http://www.haymarket.com)** | **[Client Reporting & Insights Intern](https://jobright.ai/jobs/info/698d157b78b4502f12a39518?utm_campaign=1066&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
+| ↳ | **[Data Analytics Intern](https://jobright.ai/jobs/info/698d1aa10f6f7e7a2ce8d411?utm_campaign=1066&utm_source=git)** | New York, NY, US | Hybrid | Feb 11 |
 | **[Union Tank Car Company - UTLX](http://www.utlx.com/index.asp)** | **[Data Analytics Intern](https://jobright.ai/jobs/info/698ce18c0f6f7e7a2ce8939e?utm_campaign=1066&utm_source=git)** | Chicago, IL | Hybrid | Feb 11 |
 | **[Voya Financial](https://www.voya.com/)** | **[Summer Student – Quantitative Implementation Intern](https://jobright.ai/jobs/info/698d0dc5f64d441a164eed07?utm_campaign=1066&utm_source=git)** | New York, NY | On Site | Feb 11 |
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Graduate Data Analyst Intern– Operations & Supply Chain](https://jobright.ai/jobs/info/698d1b6a0f6f7e7a2ce8d598?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | On Site | Feb 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mission Pet Health](https://missionvetpartners.com/)** | **[Business Intelligence Intern - Mission Pet Health](https://jobright.ai/jobs/info/698c100fe4f6572f0e440a0c?utm_campaign=1066&utm_source=git)** | Birmingham, AL | On Site | Feb 10 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Intern - Data Scientist](https://jobright.ai/jobs/info/698be5640f6f7e7a2ce76708?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 10 |
 | **[Alera Group, Inc.](http://aleragroup.com)** | **[Intern](https://jobright.ai/jobs/info/69700f173ed06875134b0d3c?utm_campaign=1066&utm_source=git)** | Pittsburgh, PA | Hybrid | Feb 10 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/697003b13ed06875134b03fe?utm_campaign=1066&utm_source=git)** | Mechanicsburg, PA | Hybrid | Feb 10 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Data Analytics Intern, Shockwave](https://jobright.ai/jobs/info/698bfb89e4f6572f0e43f3f2?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Feb 10 |
-| **[REGENT](https://www.regentcraft.com)** | **[Commercial BD Data Analyst Intern](https://jobright.ai/jobs/info/698be1cb0f6f7e7a2ce75e52?utm_campaign=1066&utm_source=git)** | North Kingstown, RI | On Site | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
