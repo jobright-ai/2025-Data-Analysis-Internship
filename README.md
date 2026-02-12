@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TriNet](http://trinet.com)** | **[Intern, Transformation Analyst](https://jobright.ai/jobs/info/697457eebc8e722e7b196635?utm_campaign=1066&utm_source=git)** | Atlanta, GA | On Site | Feb 11 |
 | **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/698d7113f64d441a164f86da?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Feb 11 |
 | **[SPS Commerce](http://spscommerce.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/698d4e210f6f7e7a2ce9247c?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 11 |
 | **[MeshyAI](https://www.meshy.ai/)** | **[Data Science Intern](https://jobright.ai/jobs/info/698d7e31f64d441a164f970a?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | Hybrid | Feb 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/697003b13ed06875134b03fe?utm_campaign=1066&utm_source=git)** | Mechanicsburg, PA | Hybrid | Feb 10 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Data Analytics Intern, Shockwave](https://jobright.ai/jobs/info/698bfb89e4f6572f0e43f3f2?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Feb 10 |
 | **[REGENT](https://www.regentcraft.com)** | **[Commercial BD Data Analyst Intern](https://jobright.ai/jobs/info/698be1cb0f6f7e7a2ce75e52?utm_campaign=1066&utm_source=git)** | North Kingstown, RI | On Site | Feb 10 |
-| **[Mayo Clinic](https://www.mayoclinic.org)** | **[Biostatistics Intern (PhD degree level)](https://jobright.ai/jobs/info/698c167de4f6572f0e4411b2?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Remote | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
