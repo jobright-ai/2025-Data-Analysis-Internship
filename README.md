@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/698d7113f64d441a164f86da?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Feb 11 |
 | **[SPS Commerce](http://spscommerce.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/698d4e210f6f7e7a2ce9247c?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 11 |
+| **[MeshyAI](https://www.meshy.ai/)** | **[Data Science Intern](https://jobright.ai/jobs/info/698d7e31f64d441a164f970a?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | Hybrid | Feb 11 |
+| **[Amentum](https://www.amentum.com/)** | **[Data Science Intern](https://jobright.ai/jobs/info/698d6f9e0f6f7e7a2ce9480c?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Feb 11 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/698d41a0f64d441a164f45a9?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 11 |
 | **[IAMGOLD Corporation](http://www.iamgold.com/)** | **[Internship - Data Support Analyst, Supply Chain- EN](https://jobright.ai/jobs/info/697a8bdc9d60e431a16c1579?utm_campaign=1066&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 11 |
 | **[NRG Energy](http://www.nrg.com/)** | **[Home Texas Energy & Digital Management Intern](https://jobright.ai/jobs/info/69728ccb4ccbf64f8df27f98?utm_campaign=1066&utm_source=git)** | Houston, TX | On Site | Feb 11 |
@@ -69,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Data Science Intern](https://jobright.ai/jobs/info/698d4f64f64d441a164f6048?utm_campaign=1066&utm_source=git)** | 20331-ESCG2224 Bay Area Boulevard | On Site | Feb 11 |
 | ↳ | **[Data Science Intern](https://jobright.ai/jobs/info/698d46d10f6f7e7a2ce91a0c?utm_campaign=1066&utm_source=git)** | United States-Texas-Houston-20331-ESCG | On Site | Feb 11 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Data Scientist Intern- Master's (Austin, TX)](https://jobright.ai/jobs/info/698d4be378b4502f12a3f075?utm_campaign=1066&utm_source=git)** | Austin,TX | On Site | Feb 11 |
+| ↳ | **[2026 Summer Data Scientist Intern- Master's (Santa Clara, CA)](https://jobright.ai/jobs/info/698d8009f64d441a164f9957?utm_campaign=1066&utm_source=git)** | Santa Clara,CA | On Site | Feb 11 |
 | **[West Fraser](http://www.westfraser.com/)** | **[Automation Data Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/698d3add0f6f7e7a2ce9085a?utm_campaign=1066&utm_source=git)** | Greenville, SC | On Site | Feb 11 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Data Science Intern](https://jobright.ai/jobs/info/698d4cf378b4502f12a3f208?utm_campaign=1066&utm_source=git)** | Remote, UNAVAILABLE, US | Remote | Feb 11 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Data Management and Analysis (Summer 2026)](https://jobright.ai/jobs/info/698d3d9d78b4502f12a3d7b2?utm_campaign=1066&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Feb 11 |
@@ -105,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Credibly](https://www.credibly.com)** | **[Intern - Data Science/Analyst (Hybrid in NY)](https://jobright.ai/jobs/info/6967ddb91703f05405a98601?utm_campaign=1066&utm_source=git)** | New York, NY | Hybrid | Feb 11 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Business Intelligence Analyst Intern- Bachelor's/Master's (Austin, TX)](https://jobright.ai/jobs/info/698cc5950f6f7e7a2ce87d86?utm_campaign=1066&utm_source=git)** | Austin, TX | On Site | Feb 11 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[IT Data Analytics Intern](https://jobright.ai/jobs/info/68cc4fb47342c7623ae6265b?utm_campaign=1066&utm_source=git)** | Prior Lake, MN | On Site | Feb 11 |
-| **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Computational Science and Informatics](https://jobright.ai/jobs/info/698cc20cf64d441a164ea50b?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Feb 11 |
 | **[Reckitt](https://www.reckitt.com)** | **[2026 Supply Summer Internship / Bentonville, AR, USA](https://jobright.ai/jobs/info/6954db76f1f8465b79ec0752?utm_campaign=1066&utm_source=git)** | Bentonville, AR | On Site | Feb 11 |
 | **[Spectrum](https://www.spectrum.com)** | **[2026 Summer Intern: Data & Infrastructure Solutions (DIS) - Data Governance](https://jobright.ai/jobs/info/697091e451f726477182d2e8?utm_campaign=1066&utm_source=git)** | Greenwood Village, CO | On Site | Feb 11 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern - Data Analyst](https://jobright.ai/jobs/info/698cb2a578b4502f12a32e2d?utm_campaign=1066&utm_source=git)** | Salt Lake City, UT | On Site | Feb 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Data Analytics Intern, Shockwave](https://jobright.ai/jobs/info/698bfb89e4f6572f0e43f3f2?utm_campaign=1066&utm_source=git)** | Santa Clara, CA | On Site | Feb 10 |
 | **[REGENT](https://www.regentcraft.com)** | **[Commercial BD Data Analyst Intern](https://jobright.ai/jobs/info/698be1cb0f6f7e7a2ce75e52?utm_campaign=1066&utm_source=git)** | North Kingstown, RI | On Site | Feb 10 |
 | **[Mayo Clinic](https://www.mayoclinic.org)** | **[Biostatistics Intern (PhD degree level)](https://jobright.ai/jobs/info/698c167de4f6572f0e4411b2?utm_campaign=1066&utm_source=git)** | Rochester, MN, United States | Remote | Feb 10 |
-| **[InterWorks](http://www.interworks.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/698bded5c5761b521a9b6f60?utm_campaign=1066&utm_source=git)** | Stillwater, Oklahoma, United States | On Site | Feb 10 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Business Intelligence Analyst Intern- Bachelor's/Master's (Austin, TX)](https://jobright.ai/jobs/info/698c677678b4502f12a2ef5c?utm_campaign=1066&utm_source=git)** | Austin,TX | On Site | Feb 10 |
-| **[AAAS](http://www.aaas.org/)** | **[Data Analysis Intern](https://jobright.ai/jobs/info/698be5bf06d9b062249617e3?utm_campaign=1066&utm_source=git)** | Washington, DC | Hybrid | Feb 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
