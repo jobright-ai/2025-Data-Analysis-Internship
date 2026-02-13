@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cytokinetics](http://cytokinetics.com)** | **[Intern – Clinical Biometrics (Biostatistics)](https://jobright.ai/jobs/info/6972d1610488fd59f7d5c8dc?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Feb 13 |
+| ↳ | **[Intern – Translational Biology (AI/ML)](https://jobright.ai/jobs/info/6972d45b0488fd59f7d5cd0e?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Feb 13 |
+| ↳ | **[Intern – Clinical Biometrics (Statistical Programming](https://jobright.ai/jobs/info/6972d5e41d55d64a20533660?utm_campaign=1066&utm_source=git)** | San Francisco Bay Area | On Site | Feb 13 |
 | **[StandardAero](http://www.standardaero.com/)** | **[IT Analyst Intern](https://jobright.ai/jobs/info/698ec6aaf64d441a165117f7?utm_campaign=1066&utm_source=git)** | 11550 Mosteller Road, Cincinnati, OH, 45241, US | On Site | Feb 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Data Science Intern (Advertisement Team) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6972fc4d1790715e866be8d4?utm_campaign=1066&utm_source=git)** | San Jose, CA | On Site | Feb 12 |
 | **[IQVIA](https://www.iqvia.com)** | **[Data Science Intern - Summer 2026 (Remote)](https://jobright.ai/jobs/info/698ebdb1f64d441a16510d75?utm_campaign=1066&utm_source=git)** | Wayne, PA | Remote | Feb 12 |
@@ -127,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Gildan](https://gildancorp.com)** | **[Intern, Internal Audit](https://jobright.ai/jobs/info/698e6bb60f6f7e7a2cea79a3?utm_campaign=1066&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Feb 12 |
 | **[Ensemble Health Partners](https://ensemblehp.com)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/698e3c7af64d441a165074ac?utm_campaign=1066&utm_source=git)** | United States | Remote | Feb 12 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Statistics Intern (PhD)](https://jobright.ai/jobs/info/68e53821b99ec3563b0f18b3?utm_campaign=1066&utm_source=git)** | Florham Park, NJ | On Site | Feb 12 |
-| **[Gannett Fleming](https://www.gftinc.com)** | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/698e38d70f6f7e7a2cea456f?utm_campaign=1066&utm_source=git)** | US-VA-Richmond | On Site | Feb 12 |
-| ↳ | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/698e4537f64d441a16507c21?utm_campaign=1066&utm_source=git)** | Richmond, VA, US | On Site | Feb 12 |
+| **[Gannett Fleming](https://www.gftinc.com)** | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/698e4537f64d441a16507c21?utm_campaign=1066&utm_source=git)** | Richmond, VA, US | On Site | Feb 12 |
+| ↳ | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/698e38d70f6f7e7a2cea456f?utm_campaign=1066&utm_source=git)** | US-VA-Richmond | On Site | Feb 12 |
 | ↳ | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/698e54d578b4502f12a51c40?utm_campaign=1066&utm_source=git)** | US-PA-Mechanicsburg | Hybrid | Feb 12 |
 | ↳ | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/698e4708f64d441a16507de3?utm_campaign=1066&utm_source=git)** | Raleigh, NC, US | Hybrid | Feb 12 |
 | ↳ | **[Intern - Geographic Information Systems](https://jobright.ai/jobs/info/698e42b40f6f7e7a2cea4ce6?utm_campaign=1066&utm_source=git)** | US-NC-Raleigh | Hybrid | Feb 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KPH HEALTHCARE SERVICES, INC](https://www.kphhealthcareservices.com/en/)** | **[Business Intelligence Intern](https://jobright.ai/jobs/info/698ed86ff64d441a16512d43?utm_campaign=1066&utm_source=git)** | Syracuse, NY | On Site | Feb 11 |
 | **[Tech Etch](https://www.techetch.com)** | **[Facilities Data & Systems Intern Summer 2026](https://jobright.ai/jobs/info/698d7113f64d441a164f86da?utm_campaign=1066&utm_source=git)** | Plymouth, MA | On Site | Feb 11 |
 | **[Travis Credit Union](http://www.traviscu.org)** | **[Intern](https://jobright.ai/jobs/info/698d8be978b4502f12a4400b?utm_campaign=1066&utm_source=git)** | Vacaville, California | Hybrid | Feb 11 |
-| **[Avathon](https://avathon.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/69812305abff4c399a9ff816?utm_campaign=1066&utm_source=git)** | Pleasanton, California, United States | On Site | Feb 11 |
-| **[SPS Commerce](http://spscommerce.com)** | **[Data Scientist Intern](https://jobright.ai/jobs/info/698d4e210f6f7e7a2ce9247c?utm_campaign=1066&utm_source=git)** | Minneapolis, MN | Hybrid | Feb 11 |
-| **[MeshyAI](https://www.meshy.ai/)** | **[Data Science Intern](https://jobright.ai/jobs/info/698d7e31f64d441a164f970a?utm_campaign=1066&utm_source=git)** | Sunnyvale, CA | Hybrid | Feb 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
